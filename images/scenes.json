@@ -1,0 +1,53 @@
+{
+ "_note": "Illustration slots: one per chapter where a picture earns its place. 'scene' is the brief for an artist or an image model; 'pd' lists public-domain works known to depict the scene (to be verified against the source museum/library record before use).",
+ "prologue": {
+  "3": {"scene": "Troy as the medieval North imagined it: a walled city of twelve kingdoms; the boy Trór (Thor) lifting ten bearskins at twelve winters.", "pd": ["Medieval manuscript views of Troy (e.g. Bibliothèque nationale de France, Roman de Troie illuminations)"]},
+  "4": {"scene": "Odin and his household leaving Turkey for the north with a great following, entering Saxland, Reidgothland and the Danish lands.", "pd": ["Lorenz Frølich, illustrations to the Edda (1890s)"]},
+  "5": {"scene": "Odin founding Sigtún by the lake and setting up twelve chieftains as judges, in the manner of Troy.", "pd": []}
+ },
+ "gylfaginning": {
+  "1": {"scene": "Gefjun ploughing Zealand out of Sweden with four giant oxen (her sons); the land dragged west into the sea, the lake Lögrinn left behind.", "pd": ["Lorenz Frølich, 'Gefion' (1880s–90s)", "Carl Larsson, 'Gefion' (1893)"]},
+  "2": {"scene": "Gylfi as Gangleri entering the hall roofed with golden shields; a juggler with seven knives in the air; three high-seats one above another with Hár, Jafnhár and Þriði.", "pd": ["Icelandic manuscript NKS 1867 4to (Ólafur Brynjúlfsson, 1760), the three kings", "ÍB 299 4to, 18th-c. Edda illustrations"]},
+  "5": {"scene": "Ymir asleep in Ginnungagap, sweating out the first frost-giants; a man and a woman growing from under his left arm.", "pd": ["Lorenz Frølich, 'Ymir' (1895)"]},
+  "6": {"scene": "The cow Auðumbla licking the salty rime-stones; Búri emerging as the stones are licked away, while Ymir feeds on her milk.", "pd": ["NKS 1867 4to (1760), Auðumbla and Búri", "Nicolai Abildgaard, 'Ymir suckling the cow Audhumla' (1790)"]},
+  "8": {"scene": "The sons of Borr carrying Ymir into the middle of the void: the world made of his body, the sky of his skull held up by four dwarfs.", "pd": ["Lorenz Frølich, the sons of Borr lifting Ymir"]},
+  "9": {"scene": "Three gods by the sea-shore finding two logs, Askr and Embla, and giving them breath, wit and warmth.", "pd": ["Robert Engels, 'Ask and Embla' (1919)", "Lorenz Frølich, 'Ask og Embla'"]},
+  "11": {"scene": "Sól and Máni driving the sun and moon across the sky in their chariots, two wolves running behind them.", "pd": ["John Charles Dollman, 'The Wolves Pursuing Sol and Mani' (1909)"]},
+  "13": {"scene": "Bifröst, the burning three-coloured bridge from earth to heaven.", "pd": ["Emil Doepler, illustrations in 'Walhall' (1905)"]},
+  "15": {"scene": "The ash Yggdrasil with its three roots: the Norns Urðr, Verðandi and Skuld at the well, the eagle in the crown, Níðhöggr gnawing below.", "pd": ["Oluf Olufsen Bagge, 'Yggdrasil' (1847)", "Friedrich Wilhelm Heine, 'The Ash Yggdrasil' (1886)", "Lorenz Frølich, the Norns"]},
+  "20": {"scene": "Odin enthroned with the ravens Huginn and Muninn and the wolves Geri and Freki.", "pd": ["NKS 1867 4to (1760), Odin with ravens and wolves", "Lorenz Frølich, Odin (1895)"]},
+  "21": {"scene": "Thor in his goat-drawn chariot with Mjöllnir, the belt of strength and the iron gloves.", "pd": ["Mårten Eskil Winge, 'Thor's Fight with the Giants' (1872)", "NKS 1867 4to (1760), Thor"]},
+  "23": {"scene": "Skaði choosing a husband by his feet; Njörðr and Skaði unable to agree where to live, mountains against sea-shore.", "pd": ["Lorenz Frølich, 'Skade' choosing Njord", "H. L. M., 'Skadi Hunting in the Mountains' (1901)"]},
+  "27": {"scene": "Heimdallr at the end of heaven with the horn Gjallarhorn, by the bridge.", "pd": ["Emil Doepler, 'Heimdallr' (1905)", "NKS 1867 4to (1760), Heimdallr"]},
+  "33": {"scene": "Loki Laufeyjarson, fair and evil-minded.", "pd": ["NKS 1867 4to (1760), Loki", "Mårten Eskil Winge, 'Loki and Sigyn' (1863)"]},
+  "34": {"scene": "The binding of Fenrir with Gleipnir; Týr placing his hand in the wolf's mouth as a pledge; Jörmungandr cast into the sea; Hel sent to Niflheim.", "pd": ["John Bauer, 'Tyr and Fenrir' (1911)", "Lorenz Frølich, the binding of Fenrir", "NKS 1867 4to (1760), Fenrir bound"]},
+  "37": {"scene": "Freyr on Hliðskjálf seeing Gerðr in Gymir's garth; Skírnir riding to woo her with the sword given away.", "pd": ["W. G. Collingwood, 'Freyr sees Gerd' / 'Skirnir' (1908)", "Lorenz Frølich, Skírnismál"]},
+  "38": {"scene": "Valhöll: the einherjar feasting on the boar Sæhrímnir, Odin giving his meat to the wolves, the ravens on his shoulders.", "pd": ["Emil Doepler, 'Walhall' (1905)", "Max Brückner, 'Walhall' (1896)"]},
+  "42": {"scene": "The giant master-builder and his stallion Svaðilfari hauling stones for the wall of Ásgarðr; Loki as a mare luring the horse away; the birth of Sleipnir.", "pd": ["Robert Engels, 'Loki and Svadilfari' (1919)", "Lorenz Frølich, the master-builder"]},
+  "45": {"scene": "Thor, Loki, Þjálfi and Röskva sleeping in Skrýmir's glove; Thor striking the sleeping giant with Mjöllnir.", "pd": ["Louis Huard, 'The Giant Skrymir and Thor' (1891)", "Elmer Boyd Smith, 'Thor and Skrymir' (1902)"]},
+  "46": {"scene": "In Útgarða-Loki's hall: Loki's eating contest with Logi, Þjálfi racing Hugi, Thor drinking from the horn, lifting the cat, wrestling the old woman Elli.", "pd": ["Louis Huard, 'Thor lifting the cat' (1891)", "Lorenz Frølich, 'Thor og Elle'"]},
+  "48": {"scene": "Thor fishing with Hymir, the ox-head bait, the Midgard Serpent on the hook, Hymir cutting the line.", "pd": ["Henry Fuseli, 'Thor battering the Midgard Serpent' (1790)", "Gosforth Cross fishing-stone (10th c.)", "Altuna runestone (11th c.)"]},
+  "49": {"scene": "The death of Baldr: the gods shooting at him, blind Höðr guided by Loki, the mistletoe shot; Hermóðr riding Sleipnir down to Hel; Baldr's funeral ship Hringhorni pushed out by Hyrrokkin.", "pd": ["Christoffer Wilhelm Eckersberg, 'Baldr's Death' (1817)", "John Charles Dollman, 'Hermod before Hela' (1909)", "W. G. Collingwood, 'The Funeral of Baldr' (1908)"]},
+  "50": {"scene": "Loki bound over three stones with his son's entrails, the serpent above him, Sigyn holding the bowl.", "pd": ["Mårten Eskil Winge, 'Loki and Sigyn' (1890)", "Gosforth Cross, the bound figure (10th c.)"]},
+  "51": {"scene": "Ragnarök: the Fenris-wolf with jaws from earth to heaven, the serpent spewing venom, Surtr with the flaming sword, Odin against the wolf, Thor against the serpent, Víðarr tearing the wolf's jaws.", "pd": ["Emil Doepler, 'Kampf der untergehenden Götter' (1905)", "Johannes Gehrts, 'Ragnarök' (1901)", "Lorenz Frølich, 'Odin and Fenrir'"]},
+  "53": {"scene": "After the fire: the earth rising green from the sea, Víðarr and Váli, Móði and Magni with Mjöllnir, Líf and Lífþrasir in Hoddmímir's holt.", "pd": ["Emil Doepler, 'Nach dem Untergang' / Líf and Lífþrasir (1905)"]},
+  "54": {"scene": "Gangleri standing alone on an open plain, the hall and city vanished.", "pd": []}
+ },
+ "skaldskaparmal": {
+  "2": {"scene": "Þjazi as an eagle carrying Loki off by the pole stuck to the eagle's back; Iðunn with her apples lured into the wood.", "pd": ["Lorenz Frølich, 'Idun and the eagle'", "John Bauer, 'Loki and Idun' (1911)"]},
+  "3": {"scene": "Loki in Freyja's falcon-shape flying back with Iðunn turned into a nut, Þjazi the eagle pursuing and burned at the wall of Ásgarðr.", "pd": ["Lorenz Frølich, 'Thjazi pursuing Loki'"]},
+  "5": {"scene": "Kvasir made from the spittle of the gods; the dwarfs Fjalar and Galar brewing the mead of poetry in Óðrerir, Són and Boðn.", "pd": ["Franz Stassen, 'Odin and the mead' (1920s – check date)"]},
+  "6": {"scene": "Odin as Bölverkr boring through the mountain with the auger Rati, Gunnlöð and the three draughts, Odin flying off as an eagle with Suttungr behind.", "pd": ["Lorenz Frølich, 'Odin and Gunnlöd'", "NKS 1867 4to (1760), Odin as an eagle"]},
+  "24": {"scene": "Thor's duel with Hrungnir on the frontier: the giant with his whetstone and stone shield, Mökkurkálfi the clay giant, Þjálfi; the whetstone lodged in Thor's head.", "pd": ["Ludwig Pietsch, 'Thor and Hrungnir' (1865)"]},
+  "26": {"scene": "Thor wading the river Vimur with Gríðr's staff against Geirröðr's daughters; Geirröðr throwing the glowing iron, Thor catching it with the iron gloves.", "pd": ["Lorenz Frølich, 'Thor in Geirröd's hall'"]},
+  "43": {"scene": "The sons of Ívaldi and the dwarf Sindri forging Sif's golden hair, Skíðblaðnir, Gungnir, Draupnir, Gullinbursti and Mjöllnir; Loki as a fly biting Brokkr.", "pd": ["Elmer Boyd Smith, 'The third gift — an enormous hammer' (1902)", "Lorenz Frølich, Sindri's forge"]},
+  "46": {"scene": "Otter's ransom: Loki killing Otr, the gods covering the skin with Andvari's gold; Andvari as a pike; the cursed ring Andvaranaut.", "pd": ["Arthur Rackham, 'The Rhinegold and the Valkyrie' illustrations (1910)", "Hylestad stave church portal (12th c.)"]},
+  "47": {"scene": "Sigurðr slaying Fáfnir from the pit, roasting the heart, understanding the birds; Reginn's death.", "pd": ["Hylestad stave church portal carvings (12th c.)", "Ramsund carving (11th c.)"]},
+  "52": {"scene": "Fenja and Menja grinding at the mill Grótti for King Fróði; Mýsingr's ship sinking with the mill, the sea turned salt.", "pd": ["Carl Larsson / Gunnar Forssell, 'Grottesången' illustrations (1908)", "W. G. Collingwood, 'Fenja and Menja'"]},
+  "54": {"scene": "Hrólfr kraki sowing gold on the Fýrisvellir to delay King Aðils's pursuing riders.", "pd": ["Lorenz Frølich, 'Hrólfr kraki sows gold'"]},
+  "62": {"scene": "The Hjaðningavíg: Hildr waking the fallen every night so that the battle of Högni and Heðinn goes on until Ragnarök.", "pd": ["Stora Hammars I picture stone, Gotland (8th c.)"]}
+ },
+ "hattatal": {
+  "1": {"scene": "King Hákon Hákonarson and Earl Skúli Bárðarson, the dedicatees of Háttatal, in a hall at Bergen c. 1220.", "pd": ["Flateyjarbók (GKS 1005 fol.) illuminations of Norwegian kings", "Bergen seal of Hákon Hákonarson"]}
+ }
+}

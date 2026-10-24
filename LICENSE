@@ -1,0 +1,54 @@
+Open Snorra Edda — edda-data
+Licensing summary
+
+1. Source texts (public domain)
+
+   The base texts in sources/ and their parsed forms are in the public domain:
+
+   - Old Norse: Edda Snorra Sturlusonar, normalised edition by Guðni Jónsson (Íslendingasagnaútgáfan, 1954),
+     as published by heimskringla.no. Heimskringla.no asks to be credited; please do.
+   - Modern Icelandic: Gylfaginning, Netútgáfan, June 1997 (https://netutgafan.snerpa.is/snorri/gylf.htm).
+   - English: Arthur Gilchrist Brodeur, The Prose Edda (American-Scandinavian Foundation, 1916), via the
+     sacred-texts.com transcription.
+
+   No new rights are claimed over these texts or over the automatic alignment and modernisation derived
+   from them (aligned/, auto/).
+
+2. Contributions (CC BY 4.0)
+
+   Everything added by contributors — overlay records in overlays/, image records and captions in images/,
+   documentation — is licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0).
+
+   You are free to share and adapt this material for any purpose, including commercially, provided you give
+   appropriate credit (name the project and the contributors listed in the records), link to the licence
+   and indicate if changes were made.
+
+   Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+   Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+   By contributing you agree that your contribution is licensed CC BY 4.0. The project is considering a
+   change to CC0 1.0 for contributions; contributors will be asked before any such change applies to their
+   work.
+
+3. Code (MIT)
+
+   The scripts in scripts/ are licensed under the MIT licence, the same as the edda-site repository:
+
+   Copyright (c) 2026 Grigory Sapunov
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
+   associated documentation files (the "Software"), to deal in the Software without restriction, including
+   without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the
+   following conditions: The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR
+   ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+4. Images
+
+   Each record in images/records.json states its own licence basis (public domain by the artist's death
+   year, or an explicit PD/CC0 release by the holding institution). Image files are included only when that
+   basis is documented and checked.

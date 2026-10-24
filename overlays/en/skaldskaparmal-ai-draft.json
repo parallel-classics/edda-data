@@ -1,0 +1,15 @@
+{
+ "_note": "AI draft English translation (status draft, author ai:claude-2026-10), one record per row. Unreviewed; '[?]' marks a rendering the draft itself was unsure of. Verse lines are separated by \\n. Generated from auto/en_draft.json by scripts/drafts_to_overlays.py; edit by adding newer records, not by changing these.",
+ "records": [
+  {
+   "row": "s-c72-8",
+   "cell": "en",
+   "text": "Björn rode Blakkr,\nand Bjárr Kertr,\nAtli Glaumr,\nand Aðils Slöngvir,\nHögni Hölkvir,\nand Haraldr Fölkvir,\nGunnarr Goti,\nand Sigurðr Grani.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  }
+ ]
+}

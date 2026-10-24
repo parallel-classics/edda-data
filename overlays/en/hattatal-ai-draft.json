@@ -1,0 +1,3035 @@
+{
+ "_note": "AI draft English translation (status draft, author ai:claude-2026-10), one record per row. Unreviewed; '[?]' marks a rendering the draft itself was unsure of. Verse lines are separated by \\n. Generated from auto/en_draft.json by scripts/drafts_to_overlays.py; edit by adding newer records, not by changing these.",
+ "records": [
+  {
+   "row": "h-c1-1",
+   "cell": "en",
+   "text": "What are the hættir (verse-forms) of poetry? Three things. Which? Setning (rule), leyfi (licence), fyrirboðning (prohibition). What is the setning (rule) of the verse-forms? Twofold. Which? Regular and varied. How is the regular rule of the verse-forms? Twofold. Which? Tala (number) and grein (distinction). What is the number in the rule of the verse-forms? Threefold. Which? One number is how many verse-forms have been found in the poetry of the chief skalds. The second number is how many vísuorð (lines) stand in one erindi (stanza) in each verse-form. The third number is how many syllables are set in each line in each verse-form. What is the grein (distinction) in the rule of the verse-forms? Twofold. Which? Málsgrein (distinction of diction) and hljóðgrein (distinction of sound). What is málsgrein? Stafasetning (the placing of the staves, i.e. letters) distinguishes all diction, while hljóðgrein (distinction of sound) is having syllables long or short, hard or soft, and that rule of sound-distinctions is what we call hendingar (internal rhymes), as it is composed here:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-2",
+   "cell": "en",
+   "text": "He who is called Hákon causes,\n— he emboldens his host — to be forbidden\n— he can free the land — to men\nthe violence of peace-breaking, the king.\nAlone he rules all, and between the Elfr\nthat young ruler,\nthe prince has the greater good fortune,\nand Gandvík, the sovereign, the land.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-3",
+   "cell": "en",
+   "text": "Here is the stafasetning (the placing of the alliterating staves) which governs the verse-form and makes the kveðandi (the metrical sound). There are twelve staves in an erindi (stanza), and three are set in each fjórðungr (quarter-stanza). In each quarter-stanza there are two vísuorð (lines). Six syllables belong to each line. In the second line that stave is set first in the line which we call the höfuðstafr (chief stave). That stave governs the kveðandi. But in the first line that stave will be found standing twice before syllables. Those staves we call stuðlar (props). If the chief stave is a consonant, then the props must be the same letter, as it is here:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-4",
+   "cell": "en",
+   "text": "He who is called Hákon causes,\n— he emboldens his host — to be forbidden",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-5",
+   "cell": "en",
+   "text": "but it is wrong if these staves stand before syllables more often or more seldom than this in a quarter of the stanza. But if the chief stave is a vowel, then the props must also be vowels, and it is then more beautiful if each of them is a different vowel. It may also be allowed that a vowel stands at the beginning more often in a quarter-stanza in pronouns or in those expletive words (málfylling) which are pronounced thus: ek — or thus: en, er, at, í, á, of, af, um; and that is a licence, but not the regular rule. The second placing of staves is that which accompanies the rule of the sound which makes the verse-form and the kveðandi. In the dróttkvætt (court metre) verse-form that distinction must be such that the quarter-stanza must there go together in all its placing of staves and sounds. In the first line the rule is to be distinguished thus:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-6",
+   "cell": "en",
+   "text": "— he can free the land — to men",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-7",
+   "cell": "en",
+   "text": "Here it is thus: 'jörð', 'fyrð'; that is one syllable in each place, and a different vowel goes with each, and likewise different initial letters, but the same letters come after the vowel in both words. This arrangement of sound-fall (hljóðfall) we call skothending (half rhyme). But in the second line it is thus:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-8",
+   "cell": "en",
+   "text": "the violence of peace-breaking, the king.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-9",
+   "cell": "en",
+   "text": "So it is here: 'rofs', 'ofs'. There is one and the same vowel, and likewise all the letters that follow it in both words, but the initial letters distinguish the words. These are called aðalhendingar (full rhymes).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-10",
+   "cell": "en",
+   "text": "The hendingar (internal rhymes) are to be set in the dróttkvætt (court metre) verse-form in such a way that the latter rhyme in each line, which is called viðrhending (the answering rhyme), must stand in that syllable which has one syllable after it [the penultimate], while the rhyme that is called frumhending (the first rhyme) stands sometimes at the beginning of the line — we then call it oddhending (point rhyme) — and sometimes in the middle of the line — we then call it hluthending (part rhyme). This is the dróttkvætt verse-form. In this verse-form most of what is carefully wrought is composed. This is the origin of all verse-forms, just as the málrúnar (speech-runes) come before the other runes.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-11",
+   "cell": "en",
+   "text": "How is the rule of the verse-forms varied? In two ways. How? By diction and by sounds. How is one to vary by diction? In two ways. How? By keeping or by changing the verse-forms. How is one to vary the verse-forms and yet keep the same verse-form? Thus: by using kennings (kenna), or supports (styðja), or extended kennings (reka), or sannkenningar (sannkenna, true descriptions), or by composing with nýgervingar (extended metaphors).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-12",
+   "cell": "en",
+   "text": "What are kenndir hættir (verse-forms with kennings)? Such as this:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-13",
+   "cell": "en",
+   "text": "There falls about the ruler of the fires\nof spear-crash [of swords; the warrior], the limbs of the shoulders [the arms],\nHamðir's garment [a mail-coat], where with rings\nthe kin-prop of the king [the king's kinsman] covers them.\nHe hides the wood with the battle-boar [helmet]\nof the brain's farmstead [the hair], and the dealer\nof gold [the generous man], on the hawk's perch [his arm],\nthe battle-coalfish [sword], the leader, brandishes.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-14",
+   "cell": "en",
+   "text": "Here all the heiti (poetic names) in this stanza are expressed by kennings, while the rhymes and the length of the lines and the arrangement of the staves go as was written before.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-15",
+   "cell": "en",
+   "text": "Kennings are distinguished in three ways. The first are called kenningar (kennings), the second tvíkennt (doubly determined), the third rekit (extended). It is a kenning to call battle 'fleinbrak' (spear-crash), and it is tvíkennt to call the sword 'fleinbraks fúr' (fire of spear-crash), and it is rekit if it is longer. Rekit:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-16",
+   "cell": "en",
+   "text": "The splendid hater of the sea's fire [of gold; the generous man] defends\nthe wife of the wolf's foe [Óðinn's wife, Jörð = the land].\nProws are set before the steep\nbrow of the wife of Mímr's friend [Óðinn's wife, Jörð; i.e. the cliffs].\nThe mother of the Serpent's harmer [Þórr's mother, Jörð = the land] can\nthe noble all-ruler hold.\nNecklace-foe [generous man], enjoy the mother\nof the giantess's enemy [Þórr's mother, Jörð = the land] until old age.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-17",
+   "cell": "en",
+   "text": "What are sannkenningar (true descriptions)? Such as this:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-18",
+   "cell": "en",
+   "text": "Heavy wounds swell greatly,\nthe strong edge, for bold men,\nsharply cuts trusty shields.\nThe tall prince lives nobly.\nBright swords each warrior stains\nhard; the noble king,\n— the splendid shield is furrowed wondrously —\nrejoices, bright, in a brave heart.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-19",
+   "cell": "en",
+   "text": "It is a sannkenning (true description) to support the word thus with true matter, as to call the wounds 'stinn' (heavy), because great wounds are heavy. And it is rightly said that they 'þróask' (swell). Another sannkenning is that the wounds swell 'stórum' (greatly). Now that is one line and two sannkenningar. In the second line the edge is called strong, and the men bold. In the third it is thus, that it cuts sharply, the shield is trusty; and in the fourth line, to call the king great, and his life noble; next, to call the sword bright and hard-reddened, and 'each one' of the men of the host, and it would be correct diction even if a man were named. The king is called noble. The shield was excellent and was furrowed wondrously quickly. The king, glad, rejoiced in a valiant heart. Now here sixteen sannkenningar are shown in eight lines, and yet they beautify the verse much more if they are not followed so painstakingly. Sannkenningar have three kinds. One is called sannkenning, the second stuðning (support), the third tvíriðit (doubled). Stuðningar (supports):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-20",
+   "cell": "en",
+   "text": "The furiously hard edge, I hear, destroys\nfully valiant men.\nThe deed-bold warrior's death is caused\nby the over-daring king.\nTo the dark-coated hawk of Hlökk [the raven] he brings\nincreased mouth-reddening [blood],\nglory-boasting I hear the prince is,\nthe terror-daring wielder of the shield [warrior].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-21",
+   "cell": "en",
+   "text": "Here a stuðning (support) accompanies each sannkenning, as when the edge is called 'óhörð' [furiously hard; read óðhörð?] [?], and the men 'fullhvatir' (fully valiant). It is a sannkenning: a hard edge, and valiant men. It is a stuðning when a second word of affirmation accompanies the sannkenning.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-22",
+   "cell": "en",
+   "text": "Where are nýgervingar (extended metaphors)? Such as this:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-23",
+   "cell": "en",
+   "text": "The wise prince lets the adders of battle [swords]\nglide along the scabbard-path,\nswiftly goes the mighty snake of strife [sword] out of the straight\nbaldric-skin [sheath].\nThe serpent of the swords' quarrel [of battle; the sword] seeks\nto find the brook of blood.\nThe serpent of the slain [sword] rushes to the warm\nbattle-river [blood] along the paths of the mind [the breasts].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-24",
+   "cell": "en",
+   "text": "It is nýgervingar (extended metaphor) to call the sword a serpent and to make the kenning correctly, and the scabbard its paths, and the baldric and mounting its skin. This keeps to the nature of the serpent, that it glides out of its skin and to water. Here the nýgerving is so set up that it goes to seek the brook of blood, where it glides along the paths of the mind, that is, the breasts of men. Nýgervingar are then thought well composed if the figure that is taken up holds throughout the whole length of the stanza. But if a sword is called a serpent, and then a fish or a wand, or varied in some other way, people call that nykrat (monstrous), and it is thought to spoil the verse. Now the dróttkvætt verse-form is here with five variations, and yet it is the same verse-form, regular and unaltered, and often some or all of these variations are in one stanza, and that is correct, because kennings increase the stock of words, sannkenningar beautify and fill out the diction, nýgervingar show knowledge and verbal skill.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-25",
+   "cell": "en",
+   "text": "It is a licence of the verse-forms to have syllables slow or quick, so that they are drawn forward or back from the correct count of the rule, and they may be found so slow that there are five syllables in the second and the fourth line, as here:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-26",
+   "cell": "en",
+   "text": "With the filling of the helmet the king quiets,\n— the bold one — of Vindhlér [Heimdallr's head = the sword], the warriors.\nHe makes with the thin sword\nthe great rivers of carrion [blood] rush.\nThe fierce king lets men\npossess blood-stained shields.\nThe ruler of battle reddens for the hersar [chieftains]\n— the strong one — iron-grey shirts [mail-coats].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-27",
+   "cell": "en",
+   "text": "In this stanza all the first rhymes are oddhendingar (rhymes at the beginning of the line), and yet this verse-form is dróttkvætt in form.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-28",
+   "cell": "en",
+   "text": "Now shall be shown syllables so quick and set so near one another that thereby the length of the line is increased:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-29",
+   "cell": "en",
+   "text": "Cloven I hear the helmet before the king's\nsword's edge; the men do their duty.\nTherefore the more, where he shakes the shields,\nare the polished swords of the company stained.\nThe prince will not fail, though he\nmay see the yellow shields of men.\nHe dares to draw over the brighter\nrims of shields the keen sword.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-30",
+   "cell": "en",
+   "text": "Here there are nine syllables in the first and third line, and seven in the second and the fourth. Here it is shown how many syllables at most may be in a line in the dróttkvætt verse-form, and from this one may know that eight or seven may well be allowed in the first and third line. In this stanza all the first rhymes are hluthendar (rhymes within the line), and it contributes to lengthening the line that as many syllables as possible stand before the rhymes. It is the second licence of the verse-forms to have in the dróttkvætt verse-form one line or two in a stanza with álög (additions), or detthent (falling-rhymed), or dunhent (echo-rhymed), or skjálfhent (tremble-rhymed), or in some such verse-form as does not spoil the kveðandi. The third licence is to have aðalhendingar (full rhymes) in the first or third line. The fourth licence is to shorten syllables so as to make one out of two and to take the vowel out of one of them. That we call bragarmál (poetic diction), as Þórarinn Máhlíðingr composed:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-31",
+   "cell": "en",
+   "text": "It did not befall me, where the slayer\nof deadly harm [the warrior] dared to fight. [?]",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-32",
+   "cell": "en",
+   "text": "But that distinction is set out at much greater length. It is the fifth licence to change tenses within a half-stanza. The sixth licence is to have in the dróttkvætt verse-form samhendingar (same rhymes) or liðhendingar (joint rhymes). The seventh is to have one word of the sentence in both half-stanzas, and that is thought to spoil it in single stanzas. The eighth is to make use of it, even if it turns out the same as a line, or less, which has been composed before. The ninth is to extend a kenning to the fifth determinant, but it is out of kind (ór ættum) if it is extended further. And although that is found in the works of ancient skalds, we now let it be of no use. The tenth is if a drag (a drawing-on) or a stuðill (prop) accompanies the stanza. The eleventh is that 'er' or 'en' or 'at' may be used more than once in a half-stanza, as Refr composed:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-33",
+   "cell": "en",
+   "text": "Happy is he who, of the waves'\nhigh beasts [ships] the steerer, well\n— dear to me is the wolf's danger's [Óðinn's]\nwine-making [poetry] — is content with his own.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-34",
+   "cell": "en",
+   "text": "And likewise, even if it be in the latter half-stanza, if a man is named or his name expressed by a kenning in the former half-stanza, even though the name is then no other than 'hann' (he) or 'hinn' (that one) or 'sá' (that) or 'sjá' (this). The twelfth is atriðisklauf (the cleaving of a phrase).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-35",
+   "cell": "en",
+   "text": "What is tíðaskipti (change of tense)? Threefold. How? That which was, that which is, that which will be. What rule is it to vary the verse-forms by diction alone? That may be done by giving a name to the verse-forms and so distinguishing the first number of the verse-forms, while keeping the second and the third number of the rule. That is, as was written before, to have eight lines in a stanza, and the third number, to have six syllables in a line and the same arrangement of the rhymes.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-36",
+   "cell": "en",
+   "text": "The verse-forms are varied by various phrasings, and this is one verse-form which is called sextánmælt (sixteen-sentenced):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-37",
+   "cell": "en",
+   "text": "Toil grows, fields redden,\nthe shield is hurled, battle sharpens,\ngain is won, the leader takes possession,\nthe spear-socket heats, the wolf is sated,\nthe shield shakes, shields are bent,\nthe ash [spear] trembles, truces are broken,\nthe sword rings, mail-coats are sundered,\nspears crash, arrows are stained.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-38",
+   "cell": "en",
+   "text": "Here there are two complete sentences in each line, but the length of the lines and the syllables and rhymes and arrangement of staves are as in dróttkvætt. Now the dróttkvætt verse-form is varied in another way, and again by diction alone.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-39",
+   "cell": "en",
+   "text": "This verse-form people call áttmælt (eight-sentenced):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-40",
+   "cell": "en",
+   "text": "The king defends the land with swords,\nspears tear wounds asunder,\nthe painted shield is cut in battle,\nthe skull springs loose from the trunk,\nhosts fall on the field,\nthe generous prince wages war,\nthe edge bites a blemish on the limb,\nthe hair lies severed by the sword.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-41",
+   "cell": "en",
+   "text": "Here a sentence is completed in each line. This is the third, fjórðungalok (quarter-stanza closes):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-42",
+   "cell": "en",
+   "text": "The yew-shaker [bow-shaker; the warrior] knows how, for wolves,\n— generous with wealth — to prepare a feast.\nThe battle-swift lord lets the wolf's kin\nbe content with provender.\nThe friend of men gives the wolf\na very great beer of the slain [blood].\nThe wolf gets to taste from the wound\na blood-drink and to redden its lips.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-43",
+   "cell": "en",
+   "text": "Here a sentence ends in two lines. The verse-form which is now to be written is the fourth of those that are varied, but the fifth in the enumeration of verse-forms.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-44",
+   "cell": "en",
+   "text": "This is called stælt (inlaid):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-45",
+   "cell": "en",
+   "text": "Hákon holds sway over both the men\n— to the stern-counselled lord the land God\ngrants with glory —\nand, glad, the title of great king.\nPower over the wide land has\n— the prince of the wind-roof [the sky; God] the fortune\nof the young noble has fully shaped —\nthe generous-minded chieftain.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-46",
+   "cell": "en",
+   "text": "Here it is thus:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-47",
+   "cell": "en",
+   "text": "Hákon holds sway over both the men\nand, glad, the title of great king,",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-48",
+   "cell": "en",
+   "text": "while the second and the third line are a sentence by themselves, and that is called stál (an inlay).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-49",
+   "cell": "en",
+   "text": "This is the sixth, hjástælt (inlaid alongside):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-50",
+   "cell": "en",
+   "text": "Manly virtues win praise\nfor the guardian of men; the worthy people\nall bow to the splendid\ngiver of wealth. The sea stood over the mountains.\nThe reddening-wand's [sword's] of shields\ntending-Njörðr [the warrior] I was able to visit\n— that journey was very fitting —\nat home. The earth shot up out of the ocean.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-51",
+   "cell": "en",
+   "text": "This we call hjástælt. Here the first line and the second and the third are a sentence by themselves, and yet that sentence has one syllable, with a complete word, from the fourth line. But the five syllables that follow complete a whole sentence, and the phrasing must be an ancient saying (forn minni).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-52",
+   "cell": "en",
+   "text": "This is the seventh, langlokum (with long closes):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-53",
+   "cell": "en",
+   "text": "Hákon rules with bright\n— the friend of warriors has won,\nthe king defends with the sword the lands,\nbroad-spreading, a great dominion,\nthe strengthening-Týr of the strife-game [of battle; the warrior] gets\nto steer the realm,\nthe people rejoice at that —\nrenown, his own kingdom.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-54",
+   "cell": "en",
+   "text": "Here a sentence begins in the first line and ends in the last, and those two lines form a sentence by themselves.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-55",
+   "cell": "en",
+   "text": "This is the eighth verse-form, tiltekit (taken up):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-56",
+   "cell": "en",
+   "text": "Over that [kingdom] which — with the mask of the ground's\ntribute-fish [the serpent; a gold crown?] he was also hooded [?] —\nthe people still remember that — his father\nearlier had the ruling of.\nThe battle-risker [warrior] can over the stony\n— the prince is endowed with strength — steer,\ngreatly he rules, and his heart\nurges him on, the seat of princes [Norway].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-57",
+   "cell": "en",
+   "text": "Here the former half-stanza is derived from the stanza that was composed before, and that word of the sentence which is called afleiðing (derivation), which was last in the former stanza, belongs to this half-stanza, and that half-stanza is otherwise not correct in sense.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-58",
+   "cell": "en",
+   "text": "This is the ninth verse-form, drögur (draggings):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-59",
+   "cell": "en",
+   "text": "Around the wise prince sets\nthe war-host — and there sink,\nthe yew [bow] is drawn, under showers of shot,\na shield-wall — men into the grass.\nThe weapon-reddener stakes out widely,\nthe gold-breaker [generous man], on the sea, with spears, [?]\nsword-song presses on,\nthe attack-hard one, the rims of the earth.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-60",
+   "cell": "en",
+   "text": "The word of the sentence which is first in this stanza is last in the former one, and the latter is thus drawn from the former. Therefore it is called drögur (draggings).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-61",
+   "cell": "en",
+   "text": "This is the tenth verse-form, which we call refhvörf (antitheses, 'fox-turns'). In that verse-form one must choose together those expressions which are most unlike in meaning, and yet both words must have the same tense and case, if it is to be done well. But for this verse-form it is difficult to find all the words contrary, and for that reason some words are here stretched for convenience. But it is shown in this stanza that the words can be found if they are carefully sought, and it will appear here that most first attempts are open to improvement. Thus it is composed here:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-62",
+   "cell": "en",
+   "text": "The ditch's ember's [gold's] seeker [the man] defends\nthe smooth gap of the land, by the sea [the Firðir],\nthe shield-harmer's [weapon's] drives the catcher\nof the wave's flame [gold; the man] hot cold [threats].\nQuickly weighed, the leader parts\npeace-harm [strife]; of the sea's sun [gold]\nthe impeller [the generous man] stops the plunder-custom,\nangry, glad, among the foremost trees [men].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-63",
+   "cell": "en",
+   "text": "Here in the first line it is composed thus: 'síks glóðar'. 'Sík' is water, 'glóð' is fire, and fire and water hate each other. 'Verr sækir': it is unlike, to defend and to attack. The second line is thus: 'slétt, skarð hafi jarðar'. 'Slétt', that is even; 'skarð', that is uneven; and likewise 'hafi jarðar'. The sea is 'haf', the land is 'jörð'. But then it is said in one construction that he goes from the sea to the land. The third line is thus: 'hlífgranda', that is clearly spoken as refhvörf, and likewise 'rekr hendir'. He who 'rekr' (drives) carries away, but he who 'hendir' (catches) stops. So is the fourth: 'heit köld', those are clear words, and likewise 'loga öldu'. 'Logi' is fire, 'alda' is sea. The fifth line is thus: 'fljótt válkat'. 'Fljótt' is that which is quick, 'válkat' that which is slow; and likewise 'skilr fylkir'. He who 'skilr' (separates) scatters, but he who 'fylkir' (marshals) gathers. The sixth line is thus: 'friðlæ'. 'Friðr' is peace, 'læ', that is treachery; and further 'röðuls sævar'. 'Röðull' is the sun, and it stands for fire in all kennings; the sea is again, as before, opposed to fire. The seventh line is thus: 'ránsið'. 'Rán' (plunder), that is bad custom (ósiðr); and likewise 'ræsir stöðvar'. He who 'ræsir' (impels) moves, but he who 'stöðvar' (stops) holds back. The eighth line is thus: 'reiðr glaðr', that is clearly expressed; and likewise 'frömum meiðum'. It is unequal to bring a man advancement (frami) or injuries (meiðslur).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-64",
+   "cell": "en",
+   "text": "Here in this stanza sixteen distinct expressions are shown, and most of them are ofljóst (over-clear, punning) to bring into correct sense, and they are then to be taken up thus: 'Slíks glóð', that is gold. 'Sækir gulls', that is a man. He defends 'skarð jarðar, hafi slétt', that is Firðir, so a district in Norway is called. 'Hlífgrandi', that is a weapon. 'Hendir loga öldu' is a man, and he drives cold threats with the sword, that is to punish bad customs. 'Fljótt válkat' may that be called which is quickly decided; that he separates from strife. A king is called 'fylkir'. The impeller of the sea's sun [gold; the generous man] stops the plunder-custom among the foremost trees [men]. These are called the greatest refhvörf.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-65",
+   "cell": "en",
+   "text": "These are the second refhvörf, and here there are half as many lines that are composed with refhvörf, and they are two in every second line, and are for that reason called the greatest.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-66",
+   "cell": "en",
+   "text": "Blood furthers — that battle was fought,\nrather, concealment is rent — the witness [the wolf].\nThe shield — while the men the lands\n— hard — trembles — begin to guard.\nThe spear-socket he has over the host, white,\nthe gracious prince, inlaid, advanced,\nwhile the king's son — men\nthe cool sword — does his duty — harms.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-67",
+   "cell": "en",
+   "text": "Here are these refhvörf in the second line: 'heldr' and 'slitnar', and 'dul' and 'vitni'. 'Dul' is concealment, but 'vitni' is proof. And in the fourth line are these: 'skelfr harðr', 'taka varða'. In the sixth line it is thus: 'hollr gramr', 'rekinn framðan'. In the eighth line it is thus: 'svalr brandr'. 'Brandr' is a name for fire. 'Dugir grandar', this is composed ofljóst (punningly). Here are also other expressions which are to be taken into the sense, so as to say: 'blóð fremr vitni' (blood furthers the witness), that is a wolf; and 'dul' or concealment 'slitnar' or is broken, 'at hlökk háðisk', that is a battle. And in the second quarter-stanza it is thus, that the hard shield trembles, but the men begin to guard the realm. And in the third quarter-stanza it is thus, that the gracious prince has the white inlaid spear-socket advanced over the host. He is 'framiðr' (advanced) who is set further forward. In the fourth quarter-stanza it is thus, that the cool sword harms men, but the king's son does his duty.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-68",
+   "cell": "en",
+   "text": "This is the third refhvörf verse-form:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-69",
+   "cell": "en",
+   "text": "The sail shakes over the maple — of Hugl —\nsharply drive the ships — of currents [the ship],\nand the billows, around the prince, roar,\nshallow, deep, [around] the hater of waves [the ship].\nNor does the wave do plunder to the sea-reindeer [ships],\nthe loud-voiced one makes for the ships,\nthe wave before the thin hull\nwhole is cloven, peace, strife.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-70",
+   "cell": "en",
+   "text": "Here there is one line in each half-stanza that is composed with refhvörf, and two pairs in each, as here: 'grunn djúp', 'hata unna'. And in the latter half-stanza it is thus: 'heil klofnar', 'frið deilu'. These are nominally the greatest refhvörf, and the least of these.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-71",
+   "cell": "en",
+   "text": "Now begin the lesser refhvörf. Here there is one refhvörf in each line:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-72",
+   "cell": "en",
+   "text": "The bow frosts at the stem,\nthe sea falls, but the fir [ship] glides,\nthe company shuns delay, hard\nforward against the roar of the sea.\nThe straight wind bends the sails,\nthe web [sail] drives the warships out to sea,\nthe weather rushes — the prince's deeds\n— the ship longs for the harbour — shine.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-73",
+   "cell": "en",
+   "text": "Here there is one refhvarf in each line, and most are ofljós (punning). These are the second of the lesser:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-74",
+   "cell": "en",
+   "text": "The ship of the king's men I heard\n— the surf rose over the stern — rush,\nand the ropes tighten over the crew. [?]\nThe stud of Róði [ships] leapt beneath the prince.\nThe crew gets of the heavy warships\nthe crowded benches manned at length,\nthe dealer of battle [warrior] lets the stems,\nstiff, pliant, sink into the sea.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-75",
+   "cell": "en",
+   "text": "Here there are refhvörf in every second line. These are the third:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-76",
+   "cell": "en",
+   "text": "Himinglæva [a wave] strokes the high\n— waves part the backwash — decks.\nThe ugly sea wishes to break\nthe fair steed of sea-paths [the ship].\nOf the pollack's home [the sea] gets to gleam,\nthe oar glides, around the gracious prince,\nthe wave stiffens the pliant keel,\ncold, the ember [gold]; the vessel rushes.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-77",
+   "cell": "en",
+   "text": "Here there is one refhvörf in each half-stanza. These are the least refhvörf.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-78",
+   "cell": "en",
+   "text": "There is further that verse-form which we call refhvarfabróðir (brother of refhvörf):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-79",
+   "cell": "en",
+   "text": "The hand parts from, with the lord,\nthe oar-handle; winter follows summer,\nand the ships by the sea of Lista,\nlong, take rest from going.\nAle wearies the company of men,\nthe hall is quickly filled, the true [ale],\nand the bowl, at the gift of the góli's [?]\ngold, drifts, empty, the full one.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-80",
+   "cell": "en",
+   "text": "Here in the second line and the fourth are those words which are contrary like refhvörf, yet they do not stand together, and there is one syllable between them, and the two do not both end in the same tense. These verse-forms which have now been written are dróttkvætt in rhymes and length of line. Here there are six syllables in each line and aðalhendingar (full rhymes) in the second and the fourth, but skothendur (half rhymes) in the first and third.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-81",
+   "cell": "en",
+   "text": "How is the dróttkvætt verse-form to be varied by rhymes or by length of line? As it is here, dunhenda (echo-rhymed):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-82",
+   "cell": "en",
+   "text": "With the clear tarns of horns [drink] he gladdens,\n— the horn hardly gets to dry,\nmead punishes men's woe —\nthe prince, the ships' crews.\nTo the trees of the war-oar-loop [warriors] he gives nobly,\nthe bold-minded one, old\n— he who holds shields before the shot —\nthe king, waves of honey [mead].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-83",
+   "cell": "en",
+   "text": "Here the word of the sentence that is last in the first and third line is first in the second and the fourth line.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-84",
+   "cell": "en",
+   "text": "This is tilsagt (with explanation added):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-85",
+   "cell": "en",
+   "text": "The current of yeast [ale] the noble gives\n— I reckon it as ale — to men.\nSilence is felled by the surf of men's\n— old beer is that — horns [drink].\nThe health of speech the generous one can\n— mead it is so called — grant.\nOf ill-humour comes into the choice of drinks,\n— wine I call that — the bane.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-86",
+   "cell": "en",
+   "text": "Now is the orðskviðuháttr (proverb-form):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-87",
+   "cell": "en",
+   "text": "Eagerly the leader breaks the ember\nof the fen [gold]. The hand turns to habit.\nThe plunder-punisher gives the Rhine's\namber [gold]. Kin is asked after among princes.\nMuch the ruler trusts the men's\nproof. A gift looks for reward.\nRule has the king over the people\nfor longer. Each grows by following.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-88",
+   "cell": "en",
+   "text": "The ice-cold wave I cut with the oak [ship];\nthe pale planking was\ntried, to the meeting with the mighty\nruler. I am known for such.\nThe breaker received the title of hersir\n— loudly; it is fitting to attest the honour —\nof wealth [the generous man; I], from the ornament of earls [Skúli],\nsplendid. It was not sailed for little.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-89",
+   "cell": "en",
+   "text": "This is álagsháttr (the verse-form with an addition). Here the second and the fourth line begin with a complete word of one syllable, and that word follows on from the preceding line, while the five syllables that then remain are a sentence by themselves. This is the first verse-form to be written of those that are varied from the dróttkvætt verse-form with a full change of verse-form, and from here on shall now be written those variants where the dróttkvætt verse-form is changed and varied by sounds and by change of rhymes or length of line, sometimes with something added, sometimes with something taken away.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-90",
+   "cell": "en",
+   "text": "This is tvískelft (doubly shaken):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-91",
+   "cell": "en",
+   "text": "The wand-ring's [shield's] sender [the warrior] granted,\nwar-bold — and I thank for the gift\nthe generous king of shield-crash [battle] —\na ship-levy district to me, a fine one.\nNext the leader found of the waves\nthe pale beasts [ships] as a gift for the steerer\nof the stem-reindeer [ship; me]. The dealer of battle's\nsplendid munificence I saw.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-92",
+   "cell": "en",
+   "text": "Here it is in the first and third line that the verse-form changes. Here the sound-fillers [the alliterating staves] stand so near each other that there is one syllable between them. The props make skjálfhendur (tremble-rhymes), and the former is the beginning of the line, while the rhymes stand as far apart as possible. But if the first rhyme is in the syllable that is next to the first, then the skjálfhenda does not fail.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-93",
+   "cell": "en",
+   "text": "This is the detthent (falling-rhymed) verse-form:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-94",
+   "cell": "en",
+   "text": "Two I remember with the gracious king\nsojourns in the world free of sadness.\nI had the lot to sit together\nwith the gold-payer, generous with wealth.\nEagerly the leader gave treasures,\nvery costly, to the spear-steerer [warrior; me].\nLoyal was to the ruler of hersar,\nwith his many followers, the hoard-clasper [the generous man; I].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-95",
+   "cell": "en",
+   "text": "Here the verse-form changes in the second and fourth line, and the fourth syllable determines the verse-form.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-96",
+   "cell": "en",
+   "text": "This is draugsháttr (log-form):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-97",
+   "cell": "en",
+   "text": "The fir I pray the king's favour\nto keep, of green shields [the warrior].\nThe ash got from that prosperity,\nof the plank of Hrungnir's soles [the shield; the warrior].\nEnjoy, wielder of the war-field's\nwand [sword; warrior], many lands,\nyou were useful to us, until splendid\nold age, feller of foes.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c1-98",
+   "cell": "en",
+   "text": "Here again it is in the second and fourth line that the verse-form changes, and here the third syllable determines it.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-1",
+   "cell": "en",
+   "text": "Now the second poem begins:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-2",
+   "cell": "en",
+   "text": "It befits the stout-hearted driver of the din-steeds of the stem [ships; the sea-warrior]\nto be mindful;\nfor the elm-bow's trembling-seeker [warrior] let us increase\nYggr's booty [poetry], in praise of the prince.\nFor the earl, the swift breaker of the blue paths of the point [shields],\nthere shall be no lack\n— we stir the waves of Hár's hall-cask [Óðinn's mead; poetry] —\nof means to raise up the song.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-3",
+   "cell": "en",
+   "text": "This is called bragarbót (poem's improvement). Here the háttr (verse-form) changes in the first and third vísuorð (line). Here the stuðlar (props, the alliterating staves) stand as far apart as they can, and the hendingar (internal rhymes) so that there is one syllable between them. That distinguishes the verse-forms.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-4",
+   "cell": "en",
+   "text": "This verse-form people call riðhendur (swaying rhymes):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-5",
+   "cell": "en",
+   "text": "A sharp storm raged around Skúli\nof the swift winds of the spear's cloud [shield; i.e. battle],\nthe sharp edge became, in the blows,\nrun with the din-springs of the corpse [blood].\nThe valiant wearer-out of gold [generous lord] prepared blood\nfor the raven of the sole-stems [the taloned raven] [?],\nPáll had to fall forward under the claw\nof the eagle's stubborn offspring [?].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-6",
+   "cell": "en",
+   "text": "Here the verse-form changes in the second and fourth line. There both hendingar (internal rhymes) stand together near the end and both close on one and the same vowel, and it is better that a consonant should follow the second of them.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-7",
+   "cell": "en",
+   "text": "This verse-form is called veggjat (wedged):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-8",
+   "cell": "en",
+   "text": "Robbery of life came about, to the sore trial\n— the sword swung — of the hosts, brought about in full.\nThe mighty standard-pole pressed stubbornly forward at the assembly [battle],\nthe banners advanced.\nStripped away, around the king's brother,\nthe sharp edge the hope of peace from men,\nblue spears got to bite.\nThe yeomen had to run there.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-9",
+   "cell": "en",
+   "text": "Here there is a change of verse-form in the second and fourth line, and there one syllable is inserted, so that two come after it, and the length of the line is thereby increased.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-10",
+   "cell": "en",
+   "text": "Now comes flagðaháttr (troll-wives' form):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-11",
+   "cell": "en",
+   "text": "The strengthener of hosts [ruler] fitted out the ship\nwith the most fair-shielded men.\nThe prince's brother cut his course\nwith the most bright-walled [bright-sailed] vessel.\nThe king drove the horse of the currents [ship],\nmost tightly wound with ropes.\nThe sea had to roar against the gunwale\nof the most heavy-hulled ship.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-12",
+   "cell": "en",
+   "text": "Here the verse-form changes in the second and the fourth line. Here both a syllable is added and the expression is carried to the utmost [the superlative], and after that syllable there are three syllables, and it is correct dróttkvætt (court metre) if that syllable is taken out.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-13",
+   "cell": "en",
+   "text": "This verse-form is the old skjálfhenda (trembling-rhymed form):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-14",
+   "cell": "en",
+   "text": "The promise-keeping helmet-Týr [warrior] cut, from the west to Vágsbrú,\n— the wake's cord was carried far —\nthe high currents\nwith the cool rudder;\nflight grew, when the grim\nwave-land [sea] bore the steeds of the surf [ships] before the land,\n— the hulls were cooled — among the great host\nof the yeomen.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-15",
+   "cell": "en",
+   "text": "Here it is skjálfhent (trembling-rhymed) with aðalhending (full rhyme) in the third line of each of the two halves, but otherwise as dróttkvætt (court metre). This verse-form was first devised by Veili. At that time he was lying on some outlying skerry, having come from a shipwreck, and they were poorly off for clothes and the weather was cold. Then he composed a poem which is called the trembling-rhymed kviða (lay) or the refrain-less drápa, and it is composed after the saga of Sigurðr.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-16",
+   "cell": "en",
+   "text": "This is called þríhent (triple-rhymed):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-17",
+   "cell": "en",
+   "text": "Briskly shook, when it was raised,\nthe very long banner-staff the war-spoils [?].\nThe host donned — and the king's deeds\nwere advanced — the full-strong ring-shirt [mail-coat].\nThe hand played, to the hosts was proven\nthe cold sword, the all-ruler, the hero among men.\nI learned that the broad edge was made ready\nfor the prince's battle-array; the assembly [battle] stood firm.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-18",
+   "cell": "en",
+   "text": "Here there are three aðalhendingar (full rhymes) in the second and the fourth line, and they all end alike, and a syllable comes before each one.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-19",
+   "cell": "en",
+   "text": "Now comes inn dýri háttr (the precious verse-form):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-20",
+   "cell": "en",
+   "text": "He won — he can deny men\ndominion, tribute — the judge of mankind [king],\na worthy host, for the hardener of hosts [warrior],\nmost firmly bound, he who destroys weakness [?].\nLoudly, stubbornly, the kindred of men\nthe prince showered with red wealth [gold],\nthat the lord of men was able\nto offer the people; it came from the king.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-21",
+   "cell": "en",
+   "text": "Here in the first and third line there are two aðalhendingar (full rhymes) together at the beginning, and the third according to the rule of the verse-form at the end.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-22",
+   "cell": "en",
+   "text": "The leader begins swift journeys,\ngreedy breakers beat upon the warships,\nthe prince's men begin to keep watch,\nthey pray for the timber's gliding [the ship's advance] at that.\nThe lucky planking of the ships sweeps\nwith fitting rims in a strong fair wind,\nthe waves shake the sides of Haki's\nsteeds [ships]. It moves on down beneath the keel.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-23",
+   "cell": "en",
+   "text": "Here there are three hendingar (internal rhymes) in a line, and it is skothent (half-rhymed) in the first and third line, but the third rhyme according to the rule of the verse-form at the end, and a syllable follows each rhyme.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-24",
+   "cell": "en",
+   "text": "This verse-form is called tiltekit (taken up):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-25",
+   "cell": "en",
+   "text": "And the great helmets [helmeted chieftains] raised up the battle-glad\nhoard-scatterer [generous lord],\nthe slaughter-hastener [warrior] does meet\nthe din of the metal-shower [battle],\nof battle, when the king of the land\nto the bold increaser gave\n— the noble terror-sweller [warrior] gets all\nhonour — the earldom.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-26",
+   "cell": "en",
+   "text": "Here the fifth line changes the verse-form, and in that line it carries on a phrase from the first half-stanza, and that line, with its sound-fillings, follows very much after the new skjálfhenda (trembling-rhymed form).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-27",
+   "cell": "en",
+   "text": "This verse-form is called greppaminni (the poets' reminder):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-28",
+   "cell": "en",
+   "text": "Who advances fierce battle?\nWho is further from stinginess?\nWho makes good fortune greater?\nWho knows how to diminish wealth [by giving]?\nThe duke causes battle.\nHe is furthest from the coward [?].\nHe has good fortune the more evidently.\nHe makes away with the gleam of the hand [gold].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-29",
+   "cell": "en",
+   "text": "This verse-form is varied from the dróttkvætt (court metre) form only in its wording.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-30",
+   "cell": "en",
+   "text": "Now comes the verse-form that we call liðhendur (aid-rhymes):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-31",
+   "cell": "en",
+   "text": "The noble-minded prince chooses for men,\nthe wise, the otter-payment [gold].\nOften has, before the thruster of the assembly [battle-leader],\nGrani's heavy burden [gold] burst.\nThe sword's reddener wants that there should ride away\nthe riding-metal of Gnitaheiðr [Fáfnir's gold] [?].\nBy the risker of battle is scattered\nbriskly the treasure of the Niflungar.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-32",
+   "cell": "en",
+   "text": "Those are liðhendur (aid-rhymes), where the same letter stands before the hendingar (internal rhymes), and the liðhendr verse-form is correctly composed when in the second and in the fourth line there is an oddhending (front rhyme, the first rhyme of the line) and a skothending (half rhyme) with those rhymes that are in the preceding line, and then there is one and the same initial letter for all those three rhymes.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-33",
+   "cell": "en",
+   "text": "Now comes the verse-form that we call rétthent (straight-rhymed):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-34",
+   "cell": "en",
+   "text": "He showers all-red wealth [gold];\nthe terror-bold sharpener of Hlökk [valkyrie; i.e. the warrior], for men,\nI know where on the hawk's fields [hands]\nhe casts the ring-drops [gold].\nThe valiant prince lets fall on the hand\nfor his thanes the fair rain\n— the terror-hastener covers men's\narm — of Mardöll's eyelids [Freyja's tears; gold].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-35",
+   "cell": "en",
+   "text": "Here there are aðalhendingar (full rhymes) in the first and third line, and care has been taken to remove the skothendur (half rhymes).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-36",
+   "cell": "en",
+   "text": "There is further the verse-form that we call the lesser alhenda (all-rhymed form): that is, skothendur (half rhymes) in the first line in both halves, as it says here:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-37",
+   "cell": "en",
+   "text": "The swift Baldr of the sword [warrior] furthers men\nwith the treasure of concord [?].\nThe battle-risker knows how to share out quickly\nGrótti's glad drift [gold, the meal of Fróði's mill].\nThe wealth-foe [generous man] does, with Fróði's\npeace-barley [gold], secure his troop.\nThe many-meadowed one [land-rich lord] covers, with Fenja's\nmarketable meal [gold], the forearm's realm [arm] [?].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-38",
+   "cell": "en",
+   "text": "The lesser alhenda is correctly composed when it is kept up for the whole length of the stanza. But if it is inserted into a full alhenda, so that some or all of the rhymes in a line there are skothendur (half rhymes), then that is not correct.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-39",
+   "cell": "en",
+   "text": "Now comes alhent (all-rhymed):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-40",
+   "cell": "en",
+   "text": "Glory accrues to the king; to men\nthe gift proves true, the amber of the hand [gold];\nthe necklace-flinger [generous lord] accustoms himself to great\nmanly virtues; he made them plain.\nMen bear a great abundance\nof the sea's handy fire [gold]; with the wielder\npeace is seldom made,\nof the cool brands of the field-land of steel [shield; i.e. the warrior].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-41",
+   "cell": "en",
+   "text": "Here there are two pairs of aðalhendingar (full rhymes) in every line. This is held to be the most beautiful and the most exacting, if it is well composed, of those verse-forms that poems are composed in, and it is full alhending (all-rhyme) if there are not found in it 'at', 'ek', 'en' or those small words that go with them, unless they stand in the rhymes; but not all men have guarded against that, and so it is not wrong, as Bishop Klæingr said:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-42",
+   "cell": "en",
+   "text": "I bade the company onto Geitir's steed [ship],\nthe work is done for the journey; often\nwe draw the horse of cargoes [ship] onto the sea,\nthe troop floats, and we make use of the gliding.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-43",
+   "cell": "en",
+   "text": "This is the stamhendr (stammering-rhymed) verse-form:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-44",
+   "cell": "en",
+   "text": "He lets the twisted fragments break\n— the prince — of rings before him.\nThat diminisher of necklaces [generous man] receives for the necklace\nfine words about himself.\nThe arm does gleam with the gleam\nof the surf-land [sea; gold] for the trees of shields [warriors],\nwhere the hand, jointed at the joint [?],\nbears the embers of the pollack's path [sea; gold].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-45",
+   "cell": "en",
+   "text": "Here in the first and third line one syllable is spoken twice and that is used for the hendingar (internal rhymes), and we call this stamhent (stammering-rhymed) because the rhyme is stammered out twice over [?], and the rhymes stand in the line as riðhendur (swaying rhymes) do.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-46",
+   "cell": "en",
+   "text": "Now comes the verse-form that is called samhent (same-rhymed):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-47",
+   "cell": "en",
+   "text": "The appraiser [lord] gives men\nthe sea-fire of the wrist's skerries [gold on the arm] [?].\nThe gold-breaker gladdens with gold\nthe retinue, with exceedingly heavy [gold].\nThe launcher [of ships; the lord] furthers men\nwith the red sea-flame of wealth [gold],\nwhere to the worthy king for the treasure\nthe crew of the sea-steed [ship] give thanks.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-48",
+   "cell": "en",
+   "text": "Here are those hendingar (internal rhymes) that we call samhendur (same-rhymes), because these are all with the same letters and are in the first and third line, placed as skothendur (half rhymes) are in the dróttkvætt (court metre) form.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-49",
+   "cell": "en",
+   "text": "Now comes iðurmælt (repeatedly-spoken):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-50",
+   "cell": "en",
+   "text": "The gold-diminisher gives of gold,\nthe gold-generous one, straight rods to his troop.\nI hear that the ring-generous one\n— the ring-damager — thrusts rings away [gives them].\nThe ring-flinger furthers with rings,\nring-fierce, the sword's logs [warriors].\nThe gold-breaker works on gold\n— gold-perilous — full damage.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-51",
+   "cell": "en",
+   "text": "Here samhending (same-rhyme) is used three times, twice in the first and third line, while in the second and the fourth it is carried on as afhending (carried-over rhyme), as in the dunhent (echoing-rhymed) verse-form.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-52",
+   "cell": "en",
+   "text": "This verse-form is called klifat (harped-upon):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-53",
+   "cell": "en",
+   "text": "The easily-known one covers with wealth,\nthe wealth-Týr [generous lord], the bow's compellers [hands] [?].\nThere to the wealth-trees [men] is granted\nwealth in red gold.\nFor his paid men he adorns the hawk's\n— the pay-generous prince — carriages [hands, arms].\nThe pay-furtherer accustoms the heath\nof the falcon's path [the hand] to pay-gifts.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-54",
+   "cell": "en",
+   "text": "Here the samhendingar (same-rhymes) are kept up through the whole half-stanza and take in as aðalhending (full rhyme) the latter rhyme in the second and the fourth line.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-55",
+   "cell": "en",
+   "text": "Now come those verse-forms that are called stúfar (stumps, docked forms):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-56",
+   "cell": "en",
+   "text": "The battle-strengthener takes Hildr [valkyrie; battle]\n— the ring breaks as a gift — in betrothal.\nSinks beneath Högni's maiden's [Hildr's]\ntent [shield] the ruler of the host.\nHeðinn's beloved [Hildr; battle] prepares a bed\nfor most helmet-damagers [warriors].\nThe slaughter-increased one receives the sword,\nthe dowry of the Hjaðningar's lady [Hildr].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-57",
+   "cell": "en",
+   "text": "Here the fourth line is docked and a syllable taken away, whereas in the dróttkvætt (court metre) form it should be set with a hending (rhyme).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-58",
+   "cell": "en",
+   "text": "This is the greater stúfr (stump):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-59",
+   "cell": "en",
+   "text": "The fire of Yggr's woman [valkyrie; i.e. the sword] rends\nfor men the tents of the mind [breasts].\nThe ember of Hlökk [valkyrie; the sword] springs into the temple\nof the mind-field [breast] of men, the dark one.\nThe mind-wall's [breast's] windows [wounds] sweeps\nthe corpse's bright din-fire [sword],\nthe fire of battle [sword] is whetted to level\nthe jutting turrets of life [heads].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-60",
+   "cell": "en",
+   "text": "Here the second and the fourth line are docked.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-61",
+   "cell": "en",
+   "text": "Now comes the greatest stúfr (stump):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-62",
+   "cell": "en",
+   "text": "The host-summoner lets the raven\nbe fully sated of its hunger, the young [lord].\nTread with its soles the eagle gets\nthe most lifeless skull.\nAnd the grey wolf climbs\nthe will's stronghold [breast] of the battle-wounded.\nOften the she-wolf gets to swallow\n— the good prince wills it so — blood.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-63",
+   "cell": "en",
+   "text": "Here all the lines are docked. These verse-forms that have now been written are distinguished into three kinds, because men have composed before in such a way that in one stanza one half was docked and the other half double-docked, and those are háttaföll (metrical faults). The third is the one that is all-docked, because here all the lines are docked.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-64",
+   "cell": "en",
+   "text": "Now comes the skothendr (half-rhymed) verse-form:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-65",
+   "cell": "en",
+   "text": "The Skjöldung's descendant sows with showers\nof the pennant [spear-showers; battle]; shafts are lifted,\nthe ground's gust [?] thrusts the war-banners\nover the valiant lord.\nBanners rage before the prince,\nthe pole wades into the clash of Gungnir [Óðinn's spear; battle],\nstrong are the meetings of metal [battles] beneath the standards\naround the noble king.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-66",
+   "cell": "en",
+   "text": "Here there are skothendur (half rhymes) in all the lines, but otherwise as the dróttkvætt (court metre) form.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-67",
+   "cell": "en",
+   "text": "Now comes the verse-form that we call liðhendur (aid-rhymes):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-68",
+   "cell": "en",
+   "text": "The steersman is wont to magnify\ngreat deeds, of the spears' din [battle],\nhe knows how to hold, by battle,\nthe battle-Týr [warrior], land under himself.\nThe lord tears in every\nonslaught Hjarrandi's garments [mail-coats].\nFall there to the filling\nof the mountain-wolf the fir-trees of battle [warriors].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-69",
+   "cell": "en",
+   "text": "In this verse-form there are liðhendur (aid-rhymes) in two ways, and the others in this manner: with the former hending (rhyme) in the first and third line.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-70",
+   "cell": "en",
+   "text": "Now shall be written those verse-forms that the ancient poets have composed in and which are now set down together, although they composed some of it with háttaföll (metrical faults), and these verse-forms are called dróttkvætt (court metre) in the ancient poems, but some are found in lausavísur (free-standing stanzas), as King Ragnarr loðbrók composed in this verse-form:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-71",
+   "cell": "en",
+   "text": "Shoots at Skögul's weather [battle],\n— and the shields do not hold —\nHildr's crashing drift [weapon-storm]\nover the white rim of the shield.\nAnd in the sword's sweat [blood]\nat the host's sword-drawing\nthe friend of men reddens the points\n— that is the earl's might — swiftly.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-72",
+   "cell": "en",
+   "text": "Here in the first and third line there is háttlausa (form-less, i.e. without rhyme), but in the second and fourth aðalhendingar (full rhymes), and the höfuðstafr (chief stave), which governs the alliteration in the second and the fourth line, stands so that one or two syllables are set before it, but otherwise as dróttkvætt (court metre).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-73",
+   "cell": "en",
+   "text": "Now shall be written Torf-Einarr's verse-form:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-74",
+   "cell": "en",
+   "text": "Who could see, than the terrifier of princes,\nthe very wise, a better earl,\nor one more eager to increase\nthe hard-swelling clash of shields [battle]?\nStands about the Gautr [Óðinn] of the steel-shower [warrior]\nno small tumult,\nwhen the people's rampart [defender] the lands\ngoes to guard against the victory-Njörðs [warriors].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-75",
+   "cell": "en",
+   "text": "Here in the first and third line there is háttlausa (no rhyme), but in the second and fourth it is skothent (half-rhymed) and riðhent (swaying-rhymed).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-76",
+   "cell": "en",
+   "text": "Now comes Egill's verse-form:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-77",
+   "cell": "en",
+   "text": "Who would feed with blood the bristling\nshe-wolf, with the wound's red draughts,\nunless the king thus sates\nthe wolf's greed many a day?\nThe leader gives wounds\nnewly bitten by the edge to the wolf.\nThe host sees the fore-claw of Fenrir's\npaw, shaggy, redden.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-78",
+   "cell": "en",
+   "text": "Here in the first and third line there is háttlausa (no rhyme), but in the second and the fourth aðalhendingar (full rhymes) and riðhent (swaying-rhymed).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-79",
+   "cell": "en",
+   "text": "Now comes Fleinn's verse-form:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-80",
+   "cell": "en",
+   "text": "The king the helmets' showers [battle]\nhardens with reddened sword,\nwhite ash-spears fly,\nthe mail-coat's plates clatter down.\nHlökk's [valkyrie's] fires [swords] wrench\nhard the land of the scalp [head].\nThe embers of strife [swords] strengthen\nthe shields' harm around the earl.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-81",
+   "cell": "en",
+   "text": "Here the hendingar (internal rhymes) go as in the dróttkvætt (court metre) form, but the rhymes are set together at the beginning of the line.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-82",
+   "cell": "en",
+   "text": "Now comes Bragi's verse-form:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-83",
+   "cell": "en",
+   "text": "There is, of the fire of helmets [sword],\nstrife expected for the hosts,\nthere where the earl, for terror,\nbaits with drawn sword.\nOne can see the fence before the ground\nof the rims of Þundr's [Óðinn's] gate [shields; the shield-wall],\nwhen the friend of men the shield's\nchant [battle] was bound to perform.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-84",
+   "cell": "en",
+   "text": "Here in the first and third line the last word is used for the hending (rhyme), but the former word, which should make the skothending (half rhyme), is lacking. And with this rhyme-word there are rhymes in the second and the fourth line, and the one rhyme is a skothending and a liðhending (aid-rhyme), while the other is an aðalhending (full rhyme) with the first. And these rhymes that stand in the second and fourth line stand as in Fleinn's verse-form. It is widespread in the works of the ancient poets that in a single stanza there are various verse-forms or háttaföll (metrical faults), and one may not compose after that model, though it is not thought to spoil the ancient poems.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-85",
+   "cell": "en",
+   "text": "Now come those verse-forms, distinguished into three kinds, that are called kimblabönd (bundle-bonds). This is one:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-86",
+   "cell": "en",
+   "text": "The helmet-damager shakes, in Hrist's [valkyrie's]\nstorm-age [battle], Sigarr's walls [shields].\nThe king lets break in the wind [of battle]\nthe sword's bowing boards [shields] of the shields' shores [?].\nThe steerer of steel-ravens [ships] lets\nthe storm-wind of strife rush about him.\nHe receives in Göndul's [valkyrie's] gale [battle]\nvictory, the leader of the companies of men.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-87",
+   "cell": "en",
+   "text": "Here in the fourth line of each half an aðalhending (full rhyme) is added with two syllables after the line, but otherwise as dróttkvætt (court metre).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-88",
+   "cell": "en",
+   "text": "Now comes the greater kimblaband (bundle-bond):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-89",
+   "cell": "en",
+   "text": "The ice of the bow-woman [valkyrie; i.e. swords] is washed\nmost years by the mighty wave of wounds [blood].\nThe wise prince lets the helmet-ice [sword] ring\nbriskly on the waves of the slain [blood].\nThe strife-glaciers [swords] does the flinger\nof necklaces [generous lord], stiff, accustom to the sea of wounds [blood].\nThe swift ruler lets the host fill\nthe sounds of the wounds [blood-channels] of the sword's trees [warriors].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-90",
+   "cell": "en",
+   "text": "Here there are two kimblabönd (bundle-bonds) in each half.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-91",
+   "cell": "en",
+   "text": "These are the greatest kimblabönd (bundle-bonds):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-92",
+   "cell": "en",
+   "text": "The corpse-gleam's [sword's] rime falls; the season\ngrows high around the king of wound-oars [weapons],\nMist's [valkyrie's] frost [sword] takes, around Hrist's [valkyrie's] maple [warrior],\nthe host-cold rim of the shield of men.\nThe gold-sender breaks, of Hrund's [valkyrie's]\nwar-wall's [shield's] ground's staves [warriors], the limbs in the storm [of battle].\nI learn that by the ice of the battle-field [sword] the old age\n— so it falls out — of men is cut short [?].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-93",
+   "cell": "en",
+   "text": "Here a kimblaband (bundle-bond) goes with every line.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-94",
+   "cell": "en",
+   "text": "Now shall be written the hrynjandi (flowing) verse-forms. This is the first:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-95",
+   "cell": "en",
+   "text": "The king turns upon the messenger of terror [enemy warrior],\n— the wound-gosling [raven] knows that — the hail of attack,\nthe prince hastens to the storm of shields [battle],\nthe sword cheats away life in the mail-coat's shower [battle].\nThe prince holds over the helmet's lands [heads]\nthe host; so he deals out the bows' drifts [arrows],\nshowers strike around the valiant king\n— we hear of his tumult — of Mist's [valkyrie's] rain [battle].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-96",
+   "cell": "en",
+   "text": "Here the first and third line are augmented at the front with two syllables to establish the verse-form, but if these are taken away, then what is left is like dróttkvætt (court metre), and from the second and fourth line one may take out the word that two syllables belong to, the fifth and the sixth in the line, and then that line too is dróttkvætt. In the hrynhent (flowing-rhymed) verse-forms there are most often eight syllables in a line, but the hendingar (internal rhymes) and the stafaskipti (arrangement of the alliterating staves) go as in the dróttkvætt form. This we call dróttkvætt hrynjandi (flowing court metre).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-97",
+   "cell": "en",
+   "text": "Now more arrangements of the verse-forms shall be shown. This hrynjandi (flowing form) is called trollsháttr (troll's form):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-98",
+   "cell": "en",
+   "text": "To the flinging-trees of steel [warriors] taught\nthe wielder of strife red hoods [bloodied heads],\nmen steered straight to land\nthe reddened prow, east of the fjord.\nWith points pierced the courage-strands [breasts]\nof the host of men the diminisher of rings [generous lord].\nThe king enlarged with sharp sword\nthe mighty wounds of the brain's ground [head].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-99",
+   "cell": "en",
+   "text": "Here there are eight syllables in every line. Here there are hluthendur (part-rhymes) in all the lines, and three syllables go with each hending (rhyme), and skothendur (half rhymes) and aðalhendingar (full rhymes) and the stafaskipti (arrangement of the staves) go as in hrynhenda (the flowing-rhymed form).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-100",
+   "cell": "en",
+   "text": "This is one hrynhent (flowing-rhymed) verse-form:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-101",
+   "cell": "en",
+   "text": "Hesitated little, when he met men,\nthe battle-tender, to press forward.\nThe diminisher went, in Hlökk's [valkyrie's] showers [battle],\nof Skögul's shirt [mail-coat], before reddened banners.\nThe land was cleared, and the ruler of the Þrændir\ndealt the Ribbungar a heavy death.\nGunnarr thrust beneath the wolf's foot's\ngrim-set sole the brain's crag [head].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-102",
+   "cell": "en",
+   "text": "This is hrynhenda (the flowing-rhymed form) unvaried.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-103",
+   "cell": "en",
+   "text": "This is draughent (log-rhymed):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-104",
+   "cell": "en",
+   "text": "The storm of weapons managed to topple,\nmerciless, the doomed skull.\nThe king let meet with blows\nthe shoulders' crag [head], deserving of death.\nThe leader ran the mighty ski of the land of spears [shield; i.e. the sword]\nalong the helmet's slope [head],\nthe powerful sword destroyed men,\nthe prince's own, drifted over with flesh [?].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-105",
+   "cell": "en",
+   "text": "In this verse-form there are most often seven syllables in each line, but the hendingar (internal rhymes) and the stafaskipti (arrangement of the staves) are as in the dróttkvætt (court metre) form, and if one syllable is taken out here of the first or third line, the one that stands next after the first, then all the sounds fall as in the dróttkvætt form. So one may also take away in the second and the fourth line the same syllable, and then it is dróttkvætt, though some of it does not become smooth.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-106",
+   "cell": "en",
+   "text": "This verse-form we call munnvörp (mouth-castings, improvisations):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-107",
+   "cell": "en",
+   "text": "Destroyed the marauders\nthe noble duke with spears.\nSteel sang over the ruler's\n— the she-wolf stood among the slain — foes.\nMany a man he made, by a head,\nthe hoard-fierce prince, shorter.\nThus he knows how to punish robbery,\nthe wrathful leader, among peoples.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-108",
+   "cell": "en",
+   "text": "Here there is háttlausa (no rhyme) in the first and third line, but in the second and the fourth skothendur (half rhymes).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-109",
+   "cell": "en",
+   "text": "Now comes the verse-form that is called háttlausa (form-less):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-110",
+   "cell": "en",
+   "text": "I composed, for men to remember,\nabout those whom I knew to be foremost of all,\nabout the valiant princes,\nin sixty verse-forms.\nLeast of all have, honour or gold,\nthose who caused me to be honoured,\ncast onto the ancient sea [wasted them],\n— that is glory for me — the princes.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-111",
+   "cell": "en",
+   "text": "In this verse-form there are no hendingar (internal rhymes), but the stafaskipti (arrangement of the staves) is as in the dróttkvætt (court metre) form.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c2-112",
+   "cell": "en",
+   "text": "Now sixty verse-forms have been set together in two poems, and in addition those eight distinctions which were first arranged in the dróttkvætt (court metre) form with the figures of speech that go with the verse-form, and all these verse-forms are well suited to compose poems after, if one wishes.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-1",
+   "cell": "en",
+   "text": "Now the third poem shall begin, which is composed in the smaller hættir (verse-forms), and yet many of these verse-forms have been used before in praise-poems.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-2",
+   "cell": "en",
+   "text": "Here begins tögdrápulag (the metre of the tøgdrápa, 'journey-poem'):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-3",
+   "cell": "en",
+   "text": "Foremost was Skúli —\npraise shall not be delayed.\nI fashion for the generous king\na many-stranded encomium.\nFurther shall I bring forth praise\nbefore the increaser of battle [warrior],\n— I was dear to the lord —\nbefore the multitude of the host.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-4",
+   "cell": "en",
+   "text": "Here in the second and fourth vísuorð (line) there are four syllables and two aðalhendingar (full rhymes), and the höfuðstafr (chief stave) is placed as in dróttkvætt (court metre); but in the first and third line there are likewise four regular syllables and a fifth, an afkleyfissamstafa (extra-metrical syllable), that is: 'ek' or 'af' or 'en' or 'er' or the like. There there are also skothendingar (half rhymes) and one hljóðfylling (supporting stave) with the chief stave.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-5",
+   "cell": "en",
+   "text": "This is the second töglag (tøg-metre):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-6",
+   "cell": "en",
+   "text": "I composed poems, known\nto the people, for the king's brother,\nthree of them; I know that prince\nto be surrounded by many men.\nForth shall the fourth [poem] advance\nwith praises of the battle-glad\nbreaker of the peace of the bright fire\nof the sea [gold; i.e. the generous man].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-7",
+   "cell": "en",
+   "text": "Here the second and fourth vísuorð (line) go as in the previous verse-form, but the first and third line are here without hendingar (internal rhymes), and there are two hljóðfyllendr (supporting staves) with the höfuðstafr (chief stave), as in dróttkvætt (court metre).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-8",
+   "cell": "en",
+   "text": "This is the third verse-form, which we call hagmælt ('skilfully spoken'):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-9",
+   "cell": "en",
+   "text": "Many a verse-form of mine\nis about the worthy one, [?]\nnot composed before,\nthe wise one of the spear-crash [battle].\nThe clear-minded poet must tell\nof the prince's unstinted\nsplendid expeditions,\nthe young one of the Skjöldungs [kings].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-10",
+   "cell": "en",
+   "text": "In this verse-form there are skothendingar (half rhymes) in the first and third vísuorð (line), and stafaskipti (arrangement of the staves) as in the dróttkvætt (court metre) form, but in other respects as in tögmælt (tøg-speech). In all töglag (tøg-metre) it is not wrong even if there are five syllables in a line, when some of them are short and quick. It is the way of tögdrápuháttr (the tøgdrápa form) that there shall be a stef (refrain) for the first line, and that statement is to be concluded in the last line of the poem; and it is correct to set the poem with as many stefjamél (refrain-sections) as one wishes, and it is most usual to have them all of equal length, but each refrain-section shall have a refrain as its beginning and end.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-11",
+   "cell": "en",
+   "text": "Now comes the grænlenzki háttr (the Greenlandic verse-form):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-12",
+   "cell": "en",
+   "text": "The cutter of the gold\nof the seas [generous man] knows how\nto make Haki's sinking-steed [ship] gallop\nalong the terrible track [the sea],\nhe who from the launching-roller\nlets the horses of the moorings [ships],\nthe praised prince,\ngo a long way.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-13",
+   "cell": "en",
+   "text": "Here the first and third vísuorð (line) are as in hagmælt, but the second and fourth with aðalhendingar (full rhymes), and two syllables are full-rhymed, and both end in the same letter.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-14",
+   "cell": "en",
+   "text": "Now comes the skammi háttr (the short verse-form):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-15",
+   "cell": "en",
+   "text": "Gold does, poets,\ngleam; they row;\nthe men are fit\nfor hardship, bold.\nThe oak [ship] may beneath the prince\nbe content to speed;\nthen the ruler enjoys\nthe timber's [ship's] gliding.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-16",
+   "cell": "en",
+   "text": "Here the first and third vísuorð (line) are without hendingar (internal rhymes), but the second and fourth as in the grænlenzki háttr (Greenlandic form), and the phrasing is shorter.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-17",
+   "cell": "en",
+   "text": "Now comes the nýi háttr (the new verse-form):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-18",
+   "cell": "en",
+   "text": "The ruler adorns\nthe dark reindeer of Rökkvi's\nlands [ships] with white\nshields.\nThe flinger adorns\nthe scraped prows,\nthe flinger of rings [generous man], with the black [?]\nstags [figureheads] of the stays. [?]",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-19",
+   "cell": "en",
+   "text": "In this verse-form there are four syllables in each vísuorð (line), and two aðalhendingar (full rhymes), and both end in the same letter, and there are no afkleyfisorð (extra-metrical words).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-20",
+   "cell": "en",
+   "text": "This is stúfhent ('stump-rhymed'):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-21",
+   "cell": "en",
+   "text": "The sea-current shakes\nthe roller-steed [ship] of the king,\nthe plank-ground [sea] bends\nthe surf-beast's [ship's] rudder.\nThe battle-hard prince knows\nthat the dark fair-wind-skis [ships]\nbreak with their prows\nthe heavy ocean.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-22",
+   "cell": "en",
+   "text": "In this verse-form there are four syllables in a vísuorð (line), but the hendingar (internal rhymes) and the stafaskipti (arrangement of the staves) are as in the dróttkvætt (court metre) form, except that all the rhymes are náhendar (close-set, in adjacent syllables).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-23",
+   "cell": "en",
+   "text": "This is náhent ('close-rhymed'):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-24",
+   "cell": "en",
+   "text": "He lets the warships thrust\nthe sinking-ground of the sea-bench [the sea],\nthe swift spear-fir [warrior], when\nthe [waves'] measures fall against the prows. [?]\nThe war-fierce one sees the retainers\ngrip the oar-handles,\nand the truly good oars\nof the strife-elf [warrior] tremble.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-25",
+   "cell": "en",
+   "text": "In this verse-form there are four syllables in a vísuorð (line), and it is not wrong in the first and third even if there are five. There there are skothendur (half rhymes). In the second and fourth there are aðalhendingar (full rhymes), and both together [in adjacent syllables], and the first one stýfð (clipped), but the stafaskipti (arrangement of the staves) as in dróttkvætt (court metre).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-26",
+   "cell": "en",
+   "text": "This is hnugghent ('curtailed-rhymed'):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-27",
+   "cell": "en",
+   "text": "Waves stroke the laden gunwales,\nthe sea-foam drifts in heaps,\nthe cold bow gets to fling\nthe salt keel-path [sea] aside.\nOver the swans' fells [the sea] with black\n[ships] the eloquent ruler drives\nforward along Haki's way [the sea]\nthe storm-beaten skis of the rollers [ships].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-28",
+   "cell": "en",
+   "text": "Here in the first and third vísuorð (line) there are seven syllables and no hendingar (internal rhymes), but it is correct as to the staves. But the second and fourth have four syllables, correct as to the staves, and skothending (half rhyme), and oddhent (with the rhyme at the beginning of the line), and the first rhyme is stýfð (clipped).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-29",
+   "cell": "en",
+   "text": "Now comes hálfhneppt ('half-curtailed'):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-30",
+   "cell": "en",
+   "text": "He lets the warships speed in the dawn-red\nover the fetter of Mön [the sea around the Isle of Man],\nearly the young earl,\nthe all-ruler, sees the breakers fall.\nOften the mast is raised above the crew\non the keel's draught-beast [ship];\nthe gale gets to spread the sail-cloth.\nHalyards meet the grasping hands.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-31",
+   "cell": "en",
+   "text": "In this verse-form there are six syllables in a vísuorð (line), but it is not wrong if there turn out to be five or seven. In the first and third line there are skothendur (half rhymes), and aðalhendingar (full rhymes) in the second and fourth, in both places; the first rhyme is regular as in dróttkvætt (court metre), but the second is stýfð (clipped) or hneppt (curtailed), which is all one.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-32",
+   "cell": "en",
+   "text": "This verse-form is alhnepptr ('wholly curtailed'):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-33",
+   "cell": "en",
+   "text": "It cuts the wave, swiftly goes\nthe cold hull, the all-ruler,\nthe branch-hound [wind] breaks the surf, the sea is shot\nby the curved gunwale [ship's side].\nSoon it shakes — the breeze drives —\nthe blue wall [sail], the yard-beard [sail].\nThe all-worthy earl lets\nthe masthead-sail stay unfurled. [?]",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-34",
+   "cell": "en",
+   "text": "In this verse-form there are four syllables in a vísuorð (line) and two aðalhendingar (full rhymes), and both end in the same letter, and all the rhymes are hnepptar (curtailed).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-35",
+   "cell": "en",
+   "text": "This is Haðarlag (Höðr's metre):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-36",
+   "cell": "en",
+   "text": "The praised ruler locks\nthe outer coasts of the lands,\nthe kindly one, with blue skis [ships]\nand the shield-wall of the prows.\nThe vigorous earl can [lock] with the points [?]\nof the thorns of socket-spikes [spears]\nthe earth, with the storm-twisted\nedge of corpse-adders [swords].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-37",
+   "cell": "en",
+   "text": "In this verse-form there are five syllables in a vísuorð (line), but hendingar (internal rhymes) and stafaskipti (arrangement of the staves) as in the dróttkvætt (court metre) form.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-38",
+   "cell": "en",
+   "text": "Now come those verse-forms which are called runhendur (end-rhymed). They are of one kind. Every runhent (end-rhymed) verse-form shall be with two aðalhendingar (full rhymes), and each rhyme in its own vísuorð (line).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-39",
+   "cell": "en",
+   "text": "This is the regular runhenda (end-rhyme):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-40",
+   "cell": "en",
+   "text": "Praise is delivered in four [poems] [?]\nbefore the battle-messengers [warriors],\nnor do we spare the tidings\nwe have heard about the swift king.\nI have his journeys,\nprepared for praise,\nraised up, unlooked for,\nbefore the bearers of wealth [men].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-41",
+   "cell": "en",
+   "text": "This verse-form is maintained with one hending (rhyme) in each vísuorð (line), and such is the runhending (end-rhyme) that separates the rhymes and divides the lines. Therefore this is called runhent (end-rhymed).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-42",
+   "cell": "en",
+   "text": "This is the lesser runhenda (end-rhyme):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-43",
+   "cell": "en",
+   "text": "I delivered lore\nabout the increaser of renown,\nthe tongue gave aid\nwith the oar of speech.\nThe refrain shall magnify\nthe ruler of the Mærir,\nit is fitting to stir up praise\nand bring it to him.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-44",
+   "cell": "en",
+   "text": "Here one rhyme runs through half the stanza, and another through the second half. This verse-form is stýðr (clipped) or hnepptr (curtailed) from the previous one.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-45",
+   "cell": "en",
+   "text": "This is the smallest runhenda (end-rhyme):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-46",
+   "cell": "en",
+   "text": "Such it is:\nthe prince has,\nand the people grant him,\nthat renown;\nof earls east\nof the sea,\nthe most eminent of men\nis Skúli, the most splendid.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-47",
+   "cell": "en",
+   "text": "In this verse-form there are three syllables in a vísuorð (line), and two lines share a rhyme, with stafaskipti (arrangement of the staves) as in dróttkvætt (court metre). And it is found to be so, that it is not wrong if the hljóðstafr (alliterating stave) which governs the kveðandi (metrical form) stands once in front of the main word of the sentence. [?]",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-48",
+   "cell": "en",
+   "text": "These are again runhendir (end-rhymed forms):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-49",
+   "cell": "en",
+   "text": "Over all the terror [?] of the serpent's\nring-fields' [gold's] destroyer [generous man]\nthe roller-horses loom above the high stalls,\nthe steeds of the swan-fells [the sea; i.e. ships].\nThere is gladness in the serpent's bane [winter] [?]\nwith the friend of men,\nthe earl promotes a valiant troop.\nSuch a one may be called a champion.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-50",
+   "cell": "en",
+   "text": "This verse-form is composed with full runhending (end-rhyme), and there are there most often five syllables in a vísuorð (line), or six if they are quick.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-51",
+   "cell": "en",
+   "text": "This is another:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-52",
+   "cell": "en",
+   "text": "The king got a good name,\nhe is accustomed to battle.\nVery excellent is\nthe magnificent ruler.\nHe who judges matters\nwill least find a prince\nwho so provides for\nhis men every winter.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-53",
+   "cell": "en",
+   "text": "This is hnepptr (curtailed) from the previous runhenda (end-rhyme):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-54",
+   "cell": "en",
+   "text": "I wish to increase the praise,\n— of Mist's leeks [swords]\nwith the sword of the gums [tongue] —\nof the diminisher of their ground [shield; i.e. the warrior].\nGlory shall be told,\nthe company may keep silence,\nof battle may keep silence, [?]\nof the embers of battle [weapons]\nthe flinging-Móði [warrior].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-55",
+   "cell": "en",
+   "text": "In this same verse-form there are four syllables in each vísuorð (line), but the höfuðstafr (chief stave) as in the dróttkvætt (court metre) form, and one hljóðfyllandi (supporting stave) goes with them.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-56",
+   "cell": "en",
+   "text": "This is the third runhent (end-rhymed) verse-form:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-57",
+   "cell": "en",
+   "text": "I know that the hastener of the sword [warrior]\ninvites [men] into the hall;\ngood is the house at Hlaðir,\nthe retinue is sated with ale.\nThe king drinks merrily,\nand as gifts go forth\nthe beacons of the hawk-perches [gold on the hand]\nof the harmer of the wand-ring [shield; i.e. the warrior].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-58",
+   "cell": "en",
+   "text": "This is regular runhending (end-rhyme), and this verse-form is taken from töglag (tøg-metre). Here there are four syllables in a vísuorð (line), or five if they are quick. This is the lesser runhenda (end-rhyme):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-59",
+   "cell": "en",
+   "text": "The chain of the hand [gold ring] flies about\nwhere the prince drinks.\nVery pleasing to men is\nthe bench of the kindly bowl.\nAmong the prince's host plays\nthe pure-gilded cup,\nI say all as it is,\nagainst the skerry of words [the teeth].",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-60",
+   "cell": "en",
+   "text": "This is hnepptr (curtailed) from the previous one.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-61",
+   "cell": "en",
+   "text": "This is the smallest:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-62",
+   "cell": "en",
+   "text": "And when to the hall the retinue\nthe leader of the host summons,\noften the earl begins to welcome\ncountless numbers of men,\nthe gift is ready for paying out\nat the gold-breaker's [generous man's] feast.\nThe people's company sits close-packed\nwhere the greatest distinction is within.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-63",
+   "cell": "en",
+   "text": "This runhenda (end-rhyme) is taken from the dróttkvætt (court metre) form, and here there are as many syllables, and likewise the stafaskipti (arrangement of the staves), as in dróttkvætt.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-64",
+   "cell": "en",
+   "text": "Now begins the fourth bjálkr (section) of runhendingar (end-rhymed forms):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-65",
+   "cell": "en",
+   "text": "The retinue makes the prince merry,\nthe hall is packed tight to the door,\nthe prince gives wealth without stint,\nthat is heard far and wide.\nSuch I reckon the prince's way,\nhis munificence exceeds his means,\nthe earl breaks up into small pieces\nthe twisted gold, strand by strand.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-66",
+   "cell": "en",
+   "text": "This verse-form is hnepptr (curtailed) from the previous one and regularly runhendr (end-rhymed).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-67",
+   "cell": "en",
+   "text": "Now comes the lesser runhenda (end-rhyme):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-68",
+   "cell": "en",
+   "text": "Many people go to the prince's halls,\nhonour is there for all who sojourn,\nthe king gives out cool gold,\nit is best to speak the truth about him.\nWe hear flat rings being broken,\nthe friend of men knows how to hate gold [give it away],\nI know that the guardian of the land got a nobler [?]\ngenerous spirit than princes of rings.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-69",
+   "cell": "en",
+   "text": "This runhenda (end-rhyme) is taken from the hrynhent (flowing) verse-form.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-70",
+   "cell": "en",
+   "text": "Gladly, along with gold, receives\nthe company of men mead from the ruler.\nHe lets his troop drink at his home\nthe fair wine poured in silver.\nThe golden bowl meets the grasping hands,\nhe sends men the fire of the Rhine [gold],\nno nobler man does he meet,\nthe best of earls, than that king.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-71",
+   "cell": "en",
+   "text": "This is hnepptr (curtailed) from the previous runhenda (end-rhyme).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-72",
+   "cell": "en",
+   "text": "Here begins the fifth runhent (end-rhymed) bálkr (section):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-73",
+   "cell": "en",
+   "text": "The king's expeditions have been told of,\nI have made a swift encomium,\nthe prince will expect that,\nthat I little spared.\nNo braver finds\nthan the feeder of battle-starlings [ravens; i.e. the warrior]\na man, nor more generous,\nthe marker of blood-gulls [warrior]. [?]",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-74",
+   "cell": "en",
+   "text": "This too is full runhenda (end-rhyme).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-75",
+   "cell": "en",
+   "text": "This is the lesser runhenda (end-rhyme), and taken from the hálfhnefst (half-curtailed) verse-form or the náhent (close-rhymed):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-76",
+   "cell": "en",
+   "text": "The prince keeps his good fortune fresh,\nthe greatest achievement follows him,\nthe ruler gives very well most of\nthe sea-fire [gold], and unflawed.\nThe hulls broke the ugly sea,\nI sought out the prince at his home,\nthe whole company praises the Yngvi [king],\nI saw the earl's abundance of distinction.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-77",
+   "cell": "en",
+   "text": "This is stýðr (clipped) or hnepptr (curtailed) from the previous verse-form:",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-78",
+   "cell": "en",
+   "text": ". . . . . . . . the king, [?]\nthe eminent Kraki sowed gold,\nwe have heard that Haki waged battle,\n. . . . . . . . age. [?]\nSigurðr gave the serpent its wound,\nall that was in years gone by,\nRagnarr was thought the most eminent of men,\nEarl Skúli is by far the most splendid.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-79",
+   "cell": "en",
+   "text": "Málaháttr (speech-metre):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-80",
+   "cell": "en",
+   "text": "I remember from the generous prince,\nwhen to the ruler of the Mærir\nI delivered four poems,\nfifteen great gifts.\nWhere may anyone know of, composed before\nin a nobler verse-form,\npraise about a destroyer of necklaces [generous man],\nany man under the skirts of heaven?",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-81",
+   "cell": "en",
+   "text": "Fornyrðislag (old-story metre):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-82",
+   "cell": "en",
+   "text": "It is composed about the ruler\nwho reddens the lips\nof wolf and she-wolf\nand colours weapons.\nThat will live for ever,\nunless mankind perish,\nthe praise of princes,\nor the worlds give way.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-83",
+   "cell": "en",
+   "text": "Bálkarlag (Bálkr's metre):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-84",
+   "cell": "en",
+   "text": "I raise bright\npraise of the great king.\nBefore men is borne up\nthe earl's encomium.\nWhat man might hear\npraise of those sluggish in giving\ncomposed in such a way,\n[sluggish] with gold and treasures?",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-85",
+   "cell": "en",
+   "text": "This is the distinction between these verse-forms: that in fornyrðislag there is in the first and third vísuorð (line) one stuðill (prop), and in the second and fourth line the höfuðstafr (chief stave) stands in the middle of the line, while in stikkalag there are two stuðlar (props), and the chief stave in the middle of the line. But in bálkarlag the props and the chief stave stand as in dróttkvætt (court metre).",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-86",
+   "cell": "en",
+   "text": "Starkaðarlag (Starkaðr's metre):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-87",
+   "cell": "en",
+   "text": "I know as more worthy\nthose who give gold,\nwield swords\nand fit out warships,\nof higher praise\nthan a stay-at-home,\nthe young princes,\nand than a hoarder of wealth.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-88",
+   "cell": "en",
+   "text": "These princes are\nthe wisest of all,\nthe highest in rings,\nthe boldest of heart,\nthe worst to gold [most liberal],\nthe most daring in battle,\nthe most loyal to their retinue,\nthe nearest to good fortune.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-89",
+   "cell": "en",
+   "text": "Ljóðaháttr (song-metre):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-90",
+   "cell": "en",
+   "text": "A clear account\nI have made of poetry;\nthus a hundred of ten tens is reckoned.\nUnworthy of praise\nshall a man not be called,\nif he can compose all verse-forms thus.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-91",
+   "cell": "en",
+   "text": "Galdralag (incantation-metre):",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-92",
+   "cell": "en",
+   "text": "I sought advancement,\nI sought a meeting with the king,\nI sought the glorious earl,\nwhen I cut,\nwhen I made [my ship] run,\nthe cold current with the keel,\nthe cold sea with the keel.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  },
+  {
+   "row": "h-c3-93",
+   "cell": "en",
+   "text": "May they enjoy long life\nand halls of wealth,\nking and earl;\nthat is the poem's end.\nMay sooner fall\nthe earth into the sea,\npropped with stone,\nthan the ruler's praise.",
+   "status": "draft",
+   "author": "ai:claude-2026-10",
+   "date": "2026-10-23",
+   "reason": "no public-domain English translation exists",
+   "replaces": null
+  }
+ ]
+}

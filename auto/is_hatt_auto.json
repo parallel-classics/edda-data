@@ -1,0 +1,2283 @@
+{
+ "title": "Háttatal,er Snorri orti um Hákon konung ok Skúla hertoga",
+ "chapters": [
+  {
+   "num": 1,
+   "title": "Erindi 1–30",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "Hvað eru hættir skáldskapar? Þrennt. Hverjir? Setning, leyfi, fyrirboðning. Hvað er setning háttanna? Tvenn. Hver? Rétt og breytt. Hvernig er rétt setning háttanna? Tvenn. Hver? Tala og grein. Hvað er tala setningar háttanna? Þrenn. Hver? sú er ein tala, hversu margir hættir hafa fundist í kveðskap höfuðskálda. Önnur tala er það, hversu mörg vísuorð standa í einu erindi í hverjum hætti. Hin þriðja tala er sú, hversu margar samstöfur er settar í hvert vísuorð í hverjum hætti. Hver er grein setningar háttanna? Tvenn. Hver? Málsgrein og hljóðgrein. Hvað er málsgrein?Stafsetning greinir mál allt, en hljóðgrein er það að hafa samstöfur langar eða skammar, harðar eða linar, og það er setning hljóðsgreina, er vér köllum hendingar, svo sem hér er kveðið:"
+    },
+    {
+     "t": "v",
+     "n": 1,
+     "l": [
+      "Lætur sá, er Hákun heitir,",
+      "hann rekir lið, bannað,",
+      "jörð kann frelsa, fyrðum",
+      "friðrofs, konungur, ofsa.",
+      "Sjalfur ræður allt og Elfar",
+      "ungur stillir sá milli,",
+      "gramur á gift að fremri,",
+      "Gandvíkur jöfur landi."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er stafasetning sú, er hætti ræður og kveðandi gerir. Það eru tólf stafir í erindi, og eru þrír settir í hvern fjórðung. Í hverjum fjórðungi eru tvö vísuorð. Hverju vísuorði fylgja sex samstöfur. Í öðru vísuorði eru settur sá stafur fyrst í vísuorðinu, er vér köllum höfustaf. Sá stafur ræður kveðandi. En í fyrsta vísuorði mun sá stafur finnast tysvar standa fyrir samstöfur. Þá stafi köllum vér stuðla. Ef höfuðstafur er samhljóðandi, þá skulu stuðlar vera hinn sami stafur, svo sem hér er:"
+    },
+    {
+     "t": "v",
+     "n": null,
+     "l": [
+      "Lætur sá, er Hákun heitir,",
+      "han rekir lið, bannað,"
+     ]
+    },
+    {
+     "t": "p",
+     "s": "en rangt er, ef þessir stafir standa fyrir samstöfur oftar eða sjaldnar en svo í fjórðungi vísu. En ef hljóðstafur er höfuðstafurinn, þá skulu stuðlar vera og hljóðstafir, og er þá fegra, að sinn hljóðstafur sé hver þeirra. Þá má og hlýða, að hljóðstafur standi fyrir oftar í fjórðungi í fornöfnum eða í málfylling þeirri, er svo kveður að: eg, - eða svo: en, er, að, í, á, of, af, um, og er það leyfi, en eigi rétt setning. Önnur stafasetning er sú, er fylgir setning hljóðs þess, er hátt gerir og kveðandi. Skal sú grein í dróttkvæðum hætti svo vera, að fjórðungur vísu skal þar saman fara að allri stafasetning og hljóða. Skal í fyrra vísuorði þannig greina þá setning:"
+    },
+    {
+     "t": "v",
+     "n": null,
+     "l": [
+      "jörð kann frelsa, fyrðum"
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er svo: jörð, fyrð, það er ein samstafa í hvárum stað, og sinn hljóðstafur fylgir hvárri, og svo upphafsstafir, en einir stafir eru eftir hljóðstaf í báðum orðum. Þessa setning hljóðfalls köllum vér skothending. En í öðru vísuorði er svo:"
+    },
+    {
+     "t": "v",
+     "n": null,
+     "l": [
+      "friðrofs konungur, ofsa."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Svo er hér: rofs, ofs. Það er ein hljóðstafur og svo allir þeir, er eftir fara í báðum orðum, en upphafstafir greina orðin. Þetta heita aðalhendingar."
+    },
+    {
+     "t": "p",
+     "s": "Svo skal hendingar setja í dróttkvæðum hætti, að hin síðari hending í hverju vísuorði, er heitir viðrhending, hún skal standa í þeirri samstöfu, er ein er síðar, en sú hending, er frumhending heitir, stendur stundum í upphafi orðs, köllum vér þá oddhending, stundum í miðju orði, köllum vér þá hluthending. Þetta er dróttkvæður háttur. Með þeim hætti er flest ort, það er vandað er. Þessi er upphaf allra hátta, sem málrúnar eru fyrir öðrum rúnum."
+    },
+    {
+     "t": "p",
+     "s": "Hvernig er breytt setning háttanna? Tvo vega. Hvernig? Með máli og hljóðum. Hvernig skal með máli skipta? Tvo vega. Hvernig? Halda eða skipta háttunum. Hvernig skal breyta háttunum og halda sama hætti? Svo, að kenna eða styðja eða reka eða sannkenna eða yrkja nýgervingum."
+    },
+    {
+     "t": "p",
+     "s": "Hvað eru kenndir hættir? Svo sem þetta:"
+    },
+    {
+     "t": "v",
+     "n": 2,
+     "l": [
+      "Fellur of fúra stilli",
+      "fleinbraks, limu axla,",
+      "Hamðis fang, þar er hringum",
+      "hylur ættstuðill skylja.",
+      "Holt felur hildigelti",
+      "heila bæs, og deilir",
+      "gulls í gelmis stalli",
+      "gunnseið, skörungur, reiðir."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru öll heiti kennd í þessi vísu, en hendingar og orðalengð og stafaskipti fara sem fyrr var ritað."
+    },
+    {
+     "t": "p",
+     "s": "Kenningar eru með þrennum háttum greindar. Fyrst heita kenningar, annað tvíkennt, þriðja rekið. Það er kenning að kalla fleinbrak orustu, en það er tvíkennt að kalla fleinbraks fúr sverðið, en þá er rekið, ef lengra er. Rekið:"
+    },
+    {
+     "t": "v",
+     "n": 3,
+     "l": [
+      "Ulfs bága verr ægis",
+      "ítur báls hati málu.",
+      "Sett eru börð fyr bratta",
+      "brún Mímis vinar rúnu.",
+      "Orms váða kann eiðu",
+      "allvaldur göfugur halda.",
+      "Menstríðir, njót móður",
+      "mellu dolgs til elli."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hvað er sannkeningar? Svo sem þetta:"
+    },
+    {
+     "t": "v",
+     "n": 4,
+     "l": [
+      "Stinn sár þróast stórum,",
+      "sterk egg frömum seggjum",
+      "hvasst sker hlífar traustar.",
+      "Hár gramur lifir framla.",
+      "Hrein sverð litar harða",
+      "hver drengur, göfugur þengill,",
+      "ítur rönd furast undrum,",
+      "unir bjartur snöru hjarta."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Það er sannkenning að styðja svo orðið með sönnu efni, svo að kalla stinn sárin, því að höfug eru sár stór. En rétt er mælt að þróast. Önnur sannkenning er sú, að sárin þróast stórum. Nú er eitt vísuorð og tvær sannkenningar. Í örðu vísuorði er kölluð sterk egg, en framir seggir. Í hinu þriðja er svo, að hvasst sker, hlífin er traust, og í fjórða orði að kalla konunginn mikinn, en líf hans framlegt; þar næst, að kalla hreint sverð og harðlega roðið, en einn hver liðsmanna, og væri rétt mál, þótt maður væri nefndur. Göfugur er konungurinn kallaður. Röndin var kostig og furaðist undarlega skjótt. Konungurinn unti glaður fræknu hjarta. Nú eru hér sýndar sexton sannkenningar í átta vísuorðum, en þó fegra þær mjög í kveðandi, að eigi sé svo vandlega eftir þeim farið. Sannkenningar hafa þrenna grein. Heitir ein sannkenning, önnur stuðning, þriðja tvíriðið. Stuðningar:"
+    },
+    {
+     "t": "v",
+     "n": 5,
+     "l": [
+      "Óðharða spyr eg eyða",
+      "egg fullhvötum seggjum.",
+      "Dáðrökkum veldur dauða",
+      "dreng ofrhugaður þengill.",
+      "Hamdökkum fær Hlakkar",
+      "hauk munnroða aukinn,",
+      "veghræsinn spyr eg vísa,",
+      "valdur ógnþorinn skjaldar."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér fylgir stuðning hverri sannkenning, svo sem kölluð er eggin óhörð, en fullhvatir mennirnir. Það er sannkenning, hörð egg, en hvatir menn. Það er stuðning, er annað sönnunarorð fylgir sannkenning."
+    },
+    {
+     "t": "p",
+     "s": "Hvar eru nýgervingar? Svo sem þetta:"
+    },
+    {
+     "t": "v",
+     "n": 6,
+     "l": [
+      "Sviður lætur sóknar naðra",
+      "slíðrbraut jöfur skríða,",
+      "ótt fer rógs úr réttum",
+      "ramsnákur fetilhamsi.",
+      "Linnur kná sverða sennu",
+      "sveita bekks að leita.",
+      "Ormur þyr vals að varmri",
+      "víggjöll sefa stígu."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Það eru nýgervingar að kalla sverðið orm og kenna rétt, en slíðrirnar götur hans, en fetlana og umgerð hams hans. Þar heldur til ormsins náttúra, að hann skríður úr hamsi og til vatns. Hér er svo sett nýgerving, að hann fer leita blóðs bekkjar að, þar er hann skríður hugar stígu, það eru brjóst manna. Þá þykja nýgervingar vel kveðnar, ef það mál, er upp er tekið, Haldi of alla vísulengð. En ef sverð er ormur kallaður, en síðan fiskur eða vöndur eða annan veg breytt, það kalla menn nykrað, og þykir það spilla. Nú er dróttkveðinn háttur með fimm greinum, og er þó hinn sami háttur réttur og óbrugðinn, og er oftlega þessar greinir sumar eða allar í einni vísu, og er það rétt, því að kenningar auka orðfjölða, sannkenningar fegra og fylla mál, nýgervingar sýna kunnustu og orðfimi."
+    },
+    {
+     "t": "p",
+     "s": "Það er leyfi háttanna að hafa samstöfur seinar eða skjótar, svo að dragist fram eða aftur úr réttri tölu setningar, og mega finnast svo seinar, að fimm samstöfur sé í öðru og hinu fjórða vísuorði, svo sem hér er:"
+    },
+    {
+     "t": "v",
+     "n": 7,
+     "l": [
+      "Hjalms fylli spekur hilmir",
+      "hvatur Vindhlés skatna.",
+      "Hann kná hjörvi þunnum",
+      "hræs þjóðár ræsa.",
+      "Ýgur hilmir lætur eiga",
+      "öld dreyrfá skjöldu.",
+      "Styrs rýður stillir hersum",
+      "sterkur járngrá serki."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Í þessi vísu eru allar oddhendingar hinar fyrri hendingar, og er þó þessi háttur dróttkvæður að hætti."
+    },
+    {
+     "t": "p",
+     "s": "Nú skal sýna svo skjótar samstöfur og svo settar nær hverja annarri, að af því eykur lengdin orðsins:"
+    },
+    {
+     "t": "v",
+     "n": 8,
+     "l": [
+      "Klofinn spyr eg hjalm fyrir hilmis",
+      "hjarar egg, duga seggir.",
+      "Því eru heldur, þar er skekur skjöldu,",
+      "skafin sverð lituð ferðar.",
+      "Bila muna gramur, þó að gumna",
+      "gular rítur nái líta.",
+      "Draga þorir hann yfir hreinna",
+      "hvatan brand þrömu randa."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er í fyrsta og þriðja vísuorði níu samstöfur, en í öðru og hinu fjórða sjö. Hér er það sýnt, hversu flestar samstöfur mega vera í vísuorði með dróttkvæðum hætti, og af þessu má það vita, að átta eða sjö mega vel hlýða í fyrsta og þriðja vísuorði. Í þessi vísu eru allar frumhendingar hluthendar, og dregur það til, að lengja má orðið, að sem flestar samstöfur standi fyrir hendingar. Það er annað leyfi háttanna að hafa í dróttkvæðum hætti eitt orð eða tvö í vísu með álögum eða detthent eða dunhent eða skjálfhent eða með nokkurum þeim hætti, er eigi spilli kveðandi. Þriðja leyfi er það að hafa aðalhendingar í fyrsta eða þriðja vísuorði. Fjórða leyfi er það að skemma svo samstöfur að gera eina úr tveim og taka úr annarri hljóðstaf. Það köllum vér bragarmál, svo sem kvað Þórarinn Máhlíðingur:"
+    },
+    {
+     "t": "v",
+     "n": null,
+     "l": [
+      "Varðað mig, þars myrðir",
+      "morðfárs vega þorði."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "En er sú grein út sett miklu lengra. Það er it fimmta leyfi að skipta tíðum í vísuhelmingi. Sjötta leyfi er það að hafa í dróttkvæðum hætti samhendingar eða liðhendingar. Það er it sjöunda að hafa eitt málsorð í báðum vísuhelmingum, og þykir það spilla í einstaka vísum. Áttunda er það að nýta, þótt samkvætt verði við það, er áður er ort vísuorð eða skemmra. Níunda er það að reka til innar fimmtu kenningar, en úr ættum er, ef lengra er rekið. En þótt það finnist í fornskálda verka, þá látum vér það nú ónýtt. Tíunda er það, ef vísu fylgir drag eða stuðill. Ellefta er það, að: er eða en eða að - má hafa oftar en eitt sinn í vísuhelmingi, svo sem Refur kvað:"
+    },
+    {
+     "t": "v",
+     "n": null,
+     "l": [
+      "Sæll er hitt, er, hranna",
+      "hádýra, vel, stýrir,",
+      "tíð erumk vitnis váða",
+      "víngerð, unir sínu."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Og svo þó að það sé í síðara helmingi, ef maður er nefndur eða kennt nafn hans í fyrra helmingi, þótt þá sé eigi nafn annan veg en hann eða hitt eða sá eða sjá. Tólfta er atriðisklauf."
+    },
+    {
+     "t": "p",
+     "s": "Hvað er tíðaskiðti?  Þrennt. Hvernig? Það er var, það er er, það er verður. Hver setning er það, að breyta háttum með máli einu? Það má svo gera að gefa nafn háttum og greina svo tölu háttanna hina fyrstu, en halda annarri og inni þriðju tölu setningar. Það er, sem fyrr var ritað, að hafa átta vísuorð í erindi, og hin þriðja tala að hafa sex samstöfur í vísuorði og sömu setning hendinganna."
+    },
+    {
+     "t": "p",
+     "s": "Háttum er skipt með ýmissum orðtökum, og er þessi einn háttur, er kallaður er sextánmælt:"
+    },
+    {
+     "t": "v",
+     "n": 9,
+     "l": [
+      "Vex íðn, vellir roðna,",
+      "verpur lind, þrimu snerpir,",
+      "fæst gagn, fylkir eignast,",
+      "falur hitnar, seðst vitnir,",
+      "skekur rönd, skildir bendast,",
+      "skelfur askur, griðum raskar,",
+      "brands gellur, brynjur sundrast,",
+      "braka spjör, litast örvar."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru tvö mál fullkomin í hverju vísuorði, en orðalengð og samstöfur og hendingar og stafaskipti sem dróttkvætt. Nú er breytt annan veg dróttkvæðum hætti og enn með máli einu."
+    },
+    {
+     "t": "p",
+     "s": "Þennan hátt kalla menn áttmælt:"
+    },
+    {
+     "t": "v",
+     "n": 10,
+     "l": [
+      "Jörð verr siklingur sverðum,",
+      "sundur rjúfa spjör undir,",
+      "lind sker í styr steinda,",
+      "stökkur haus af bol lausum,",
+      "falla folk á velli,",
+      "fremur mildur jöfur hildi,",
+      "egg bítur á lim lýti,",
+      "liggur skör sniðin hjörvi."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er mál fyllt í hverju vísuorði. Þessi er hinn þriðji, fjórðungalog:"
+    },
+    {
+     "t": "v",
+     "n": 11,
+     "l": [
+      "Ýskelfir kann ulfum",
+      "auðmildur búa gildi.",
+      "Lætur gylðis kyn gáti",
+      "gunnsnar una harri.",
+      "Fær gotna vinur vitni",
+      "valbjór afar stóran.",
+      "Vargur tér úr ben bergja",
+      "blóðdrykk og grön rjóða."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér lýkur máli í tveim vísuorðum. Sá háttur, er nú skal rita, er hinn fjórði þeirra, er breyttir eru, en hinn fimmti að háttatali."
+    },
+    {
+     "t": "p",
+     "s": "Þetta er stælt kallað:"
+    },
+    {
+     "t": "v",
+     "n": 12,
+     "l": [
+      "Hákun veldur og höldum,",
+      "harðráðum guð jarðar",
+      "tyggja lér með tíri,",
+      "teitur þjóðkonungs heiti.",
+      "Vald á víðrar foldar,",
+      "vindræfrs jöfur gæfu",
+      "öðlingi skóp ungum,",
+      "örlyndur skati görla."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er svo:"
+    },
+    {
+     "t": "v",
+     "n": null,
+     "l": [
+      "Hákun veldur og höldum",
+      "teitur þjóðkonungs heiti,"
+     ]
+    },
+    {
+     "t": "p",
+     "s": "en annað og it þriðja vísuorð er sér um mál, og er það stál kallað."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er hinn sjötti, hjástælt:"
+    },
+    {
+     "t": "v",
+     "n": 13,
+     "l": [
+      "Manndýrðir fá mærðar,",
+      "mæt öld, firra gæti,",
+      "lýtur, auðgjafa ítrum,",
+      "öll. Stóð sær of fjöllum.",
+      "Rjóðvendils gatg randa",
+      "ræki-Njörð að sækja,",
+      "hæf ferð var sú harða,",
+      "heim. Skaut jörð úr geima."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þetta köllum vér hjástælt. Hér er it fyrsta vísuorð og annað og it þriðja sér um mál, og hefur þó það mál eina samstöfun með fullu orði af hinu fjórða vísuorði. En þær fimm samstöfur, er eftir fara, lúka heilu máli, og skal orðtak vera forn minni."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er hinn sjöundi, langlokum:"
+    },
+    {
+     "t": "v",
+     "n": 14,
+     "l": [
+      "Hákun ræður með heiðan,",
+      "hefur drengja vinur fengið,",
+      "lönd verr buðlingur brandi",
+      "breiðfelld, mikið veldi,",
+      "rógleiks náir ríki",
+      "remmi-Týr að stýra,",
+      "öld fagnar því, eignu,",
+      "orðróm konungsdómi."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér hefur upp mál í hinu fyrsta vísuorði og lýkur í hinu síðasta, og eru þau sér um mál."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er hinn átti hátturinn, tiltekið:"
+    },
+    {
+     "t": "v",
+     "n": 15,
+     "l": [
+      "Þeim er, grundar grímu",
+      "gjaldseiðs og var faldinn,",
+      "drótt man enn það, átti",
+      "áður hans faðir ráða.",
+      "Gunnhættir kná grýttu,",
+      "gramur býr of þreg, stýra,",
+      "stórt ræður hann en hjarta",
+      "hvetur, buðlinga setri."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er hinn fyrri vísuhelmingur leiddur af þeirri vísu, er áður var kveðin, og fylgir það málsorð, er afleiðing er kölluð, er síðast var í inni fyrri vísu, þessum vísuhelmingi, og er sá vísuhelmingur eigi elligar réttur að máli."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er hinn níundi háttur, drögur:"
+    },
+    {
+     "t": "v",
+     "n": 16,
+     "l": [
+      "Setur of vísa vitran",
+      "vígdrótt, en þar hníga,",
+      "ýr dregst, við skotskúrum,",
+      "skjaldborg, í gras aldir.",
+      "Vápnrjóður stikar víða,",
+      "vellbrjótur á lög, spjótum,",
+      "þryngur að sverði söngvi,",
+      "sóknharður þrömu jarðar."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Það málsorð, er fyrst er í þessi vísu, er síðast í inni fyrri, og er hin síðari svo dregin af inni fyrri. Því heita það drögur."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er hinn tíundi háttur, er vér köllum refhvörf. Í þeim hætti skal velja saman þau orðtök, er ólíkust sé að greina, og hafa þó einnar tíðar fall bæði orð, ef vel skal vera. En til þessa háttar er vant að fina öll orð gagnstaðleg, og eru hér fyrir því sum orð dregin til hægenda. En sýnt er í þessi vísu það, að orðin munu finnast, ef vandlega er leitað, og mun hér það sýnast, að flest frumsmíð stendur til bóta. Svo er hér kveðið:"
+    },
+    {
+     "t": "v",
+     "n": 17,
+     "l": [
+      "Síks glóðar verr sækir",
+      "slétt skarð hafi jarðar,",
+      "hlífgranda rekur hendir",
+      "heit köld loga öldu.",
+      "Fljótt válkað skilur fylkir",
+      "friðlæ, röðuls sævar",
+      "ránsið ræsir stöðvar,",
+      "reiður, glaður, frömum meiðum."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er í fyrsta vísuorði svo kveðið: síks glóðar. Sík er vatn, glóð er eldur, en eldur og vatn hatar hvort öðru. Verr sækir, það er ólíkt að verja og sækja. Annað vísuorð er svo: slétt, skarð hafi jarðar. Slétt, það er jafnur, skarð, það er óslétt; og svo hafi jarðar. Sær er haf, land er jörð. En þá er í eitt fall mælt, að sá fer af hafi til jarðar. Þriðja vísuorð er svo: hlífgranda, það er ljóst refhvörfmælt, og svo: rekur hendir. Sá flytur braut, er rekur, en sá stöðvar, er hendir. Svo er it fjórða: heit köld, það er ljós orð, og svo: loga öldu. Logi er eldur, alda er sjár. Fimmta orð er svo: fljótt válkað. Fljótt er það, er skjótt er, válkað það, er seint er, og svo: skilur fylkir. Sá, er skilur, dreifir, en sá, er fylkir, samnar. Sjötta orð er svo: friðlæ. Friður er sætt, læ, það er vél, og enn: röðuls sævar. Röðull er sól, og gengur hún fyrir eld í öllum kenningum, sær er enn sem fyrr í móti eldi. Sjöunda orð er svo: ránsið. Ron, það er ósiður, og svo: ræsir stöðvar. Sá flytur, er ræsir, en sá heldur aftur er stöðvar. Áttunda orð er svo: reiður glaður, það er ljóst mælt, og svo: frömum meiðum. Það er ójafnt að vinna manni frama eða meiðslur."
+    },
+    {
+     "t": "p",
+     "s": "Hér eru sýnd í þessi vísu sexton orðtök sundrgreinileg og eru flest ofljós til rétts máls að færa, og skal þá svo upp taka: Slíks glóð, það er gull. Sækir gulls, það er maður. Hann verr skarð jarðar, hafi slétt, það eru Firðir, svo heitir fylki í Nóregi. Hlífgrandi, það er vopn. Hendir loga öldu er maður, en rekur köld heit sverðinu, það er að hegna ósiðu. Fljótt válkað má það kalla, er skjótráðið er, það skilur hann af ófriðinum. Konungur heitir fylkir. Ránsið ræsir stöðvar sævar röðuls frömum meiðum. Þetta heita hin mestu refhvörf."
+    },
+    {
+     "t": "p",
+     "s": "Þessi eru önnur refhvörf, og eru hér hálfu færi vísuorð, þau er refhvörfum eru ort, og eru þau tvenn í öðru vísuorði og eru fyrir því kölluð hin mestu."
+    },
+    {
+     "t": "v",
+     "n": 18,
+     "l": [
+      "Blóð fremur, hlökk að háðist,",
+      "heldur slitnar dul, vitni.",
+      "Skjöldur, en skatnar foldir,",
+      "skelfur harður, taka varða.",
+      "Fal lætur of her hvítan",
+      "hollur gramur rekinn framðan,",
+      "en tyggja sonur, seggjum,",
+      "svalur brandur, dugir, grandar."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru þau refhvörf í öðru orði: heldur og slitnar og dul og vitni. Dul er laun, en vitni er sannan. En í fjórða vísuorði eru þessi: skelfur harður, taka varða. Í sjötta vísuorði er svo: hollur gramur, rekinn framðan. Í átta vísuorði er svo: svalur brandur. Brandur er eldsheiti. Dugir grandar, þetta er ofljóst ort. Hér eru og önnur máltög, þau er til máls skal taka, svo að kalla: blóð fremur vitni, það er vargur, en dul eða laun slitnar eða rofnar, að hlökk háðist, það er orrosta. Og í öðrum fjórðungi er svo, að harður skjöldur skelfur, en skatnar taka varða ríki. Og þriðja fjórðungi er svo, að hollur gramur of her lætur framðan fal hvítan rekinn. Sá er framiður, er framar er settur. Í fjórða fjórðungi er svo, að svalur brandur grandar seggjum, en tyggja sonur dugir."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er hinn þriðji refhvarfaháttur:"
+    },
+    {
+     "t": "v",
+     "n": 19,
+     "l": [
+      "Segl skekur of hlyn, Huglar,",
+      "hvasst drífa skip, rasta,",
+      "en föll, of gram, gylli",
+      "grunn, djúp, hata unna.",
+      "Né ron viður hafhreinum,",
+      "háraust skapar flaustum,",
+      "hrönn fyr húfi þunnum",
+      "heil klofnar, frið, deilu."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er eitt vísuorð í hvárum helmingi, það er refhvörfum er ort, og tvenn í hvárum, svo sem hér: grunn djúp, hata unna. En í hinum efri helmingi er svo: heil klofnar, frið deilu. Þessi eru að Kalli hin mestu refhvörf og minnst af þessum."
+    },
+    {
+     "t": "p",
+     "s": "Nú hefjast hin minni refhvörf. Hér eru ein refhvörf í vísuorði:"
+    },
+    {
+     "t": "v",
+     "n": 20,
+     "l": [
+      "Hélir hlýr að stáli,",
+      "hafið fellur, en svífur þelli,",
+      "ferð dvöl firrist, harða",
+      "fram mót lagar glammi.",
+      "Vindur réttur váðir bendir,",
+      "vefur rekur á haf snekkjur,",
+      "veður þyr, vísa iðjur,",
+      "varar fýsir skip, lýsa."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er eitt refhvarf í hverju vísuorði og flest ofljós. Þessi eru önnur hin minni:"
+    },
+    {
+     "t": "v",
+     "n": 21,
+     "l": [
+      "Lung frá eg lýða þengils,",
+      "lá reis of skut, geisa,",
+      "en svörð of her herða.",
+      "Hljóp stóð und gram Róða.",
+      "Þjóð fær þungra skeiða",
+      "þröng rúm skipað löngum,",
+      "stál lætur styrjar deilir",
+      "stinn klökk í mar sökkva."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru refhvörf í öðru hverju vísuorði. Þessi eru hin þriðju:"
+    },
+    {
+     "t": "v",
+     "n": 22,
+     "l": [
+      "Himinglæva strýkur hávar",
+      "hrönn skilja sog, þiljur.",
+      "Lögstíga vill lægir",
+      "ljótur fagrdrasil brjóta.",
+      "Lýsheims náir ljóma,",
+      "líður ár, of gram blíðum,",
+      "uður rekir kjöl klökkvan",
+      "köld, eisa, far Geisar."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru ein refhvörf í hvárum helmingi. Þessi eru hin minnstu refhvörf."
+    },
+    {
+     "t": "p",
+     "s": "Enn er sá háttur, er vér köllum refhvarfabróður:"
+    },
+    {
+     "t": "v",
+     "n": 23,
+     "l": [
+      "Firrist hönd með harra",
+      "hlumur, líður vetur af sumri,",
+      "en flaust við lög Lista",
+      "löng taka hvílð að göngu.",
+      "Öl mæðir lið lýða,",
+      "létt skipast höll, it rétta,",
+      "en skál að gjöf góla",
+      "gulls svífur, tóm, hin fulla."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru í öðru orði og fjórða þau orð, er gagnstaðleg eru sem refhvörf, enda standa eigi saman, og er ein samstafa millum þeirra og lúkast bæði eigi í eina tíð. Þessir hættir, er nú eru ritaðir, eru dróttkvæðir að hendingum og orðalengð. Hér eru sex samstöfur í hverju vísuorði og aðalhendingar í öðru og hinu fjórða, en skothendur í fyrsta og þriðja."
+    },
+    {
+     "t": "p",
+     "s": "Hvernig skal skipta dróttkvæðum hætti með hendingum eða orðalengð? Svo sem hér er, dunhenda:"
+    },
+    {
+     "t": "v",
+     "n": 24,
+     "l": [
+      "Hreintjörnum gleður horna,",
+      "horn náir lítt að þorna,",
+      "mjöður hegnir böl bragna,",
+      "bragningur skipa sagnir.",
+      "Folkhömlu gefur framla,",
+      "framlyndur viðum gamlar,",
+      "hitt er heldur fyr skot skjöldum,",
+      "skjöldungur hunangs öldur."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er það málsorð fyrst í öðru og hinu fjórða vísuorði, er síðast er í hinu fyrsta og þriðja."
+    },
+    {
+     "t": "p",
+     "s": "Þetta er tilsagt:"
+    },
+    {
+     "t": "v",
+     "n": 25,
+     "l": [
+      "Röst gefur öðlingur jastar,",
+      "öl virði eg svo, firðum.",
+      "Þögn fellir brim bragna,",
+      "bjór forn er það, horna.",
+      "Máls kann mildingur heilsu,",
+      "mjöður heitir svo, veita.",
+      "Strúgs kemur í val veega,",
+      "vín kalla eg það, galli."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Nú er orðskviðuháttur:"
+    },
+    {
+     "t": "v",
+     "n": 26,
+     "l": [
+      "Fús brýtur fylkir eisu",
+      "fens.Bregður hönd á venju.",
+      "Ránhegnir gefur Rínar",
+      "röf. Spyr ætt að jöfrum.",
+      "Mjög trúir ræsir rekka",
+      "raun. Sér gjöf til launa.",
+      "Ráð á lofðungur lýða",
+      "lengur. Vex hver af gengi."
+     ]
+    },
+    {
+     "t": "v",
+     "n": 27,
+     "l": [
+      "Ískalda skar eg öldu",
+      "eik, var súð hin bleika",
+      "reynd, til ræsis fundar",
+      "ríks. Emk kuður að slíku.",
+      "Brjótur þá hersis heiti",
+      "hátt, dugir sæmd að vátta,",
+      "auðs af jarla prýði",
+      "ítrs. Vara siglt til lítils."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þetta er álagsháttur. Hér hefur upp annað og it fjórða vísuorð með fullu orði og einni samstöfu, og leiðir það orð af hinu fyrra vísuorði, en þær fimm samstöfur, er þá eru eftir, eru sér um mál. Þessi er hinn fyrsti háttur, er ritaður sé, þeirra er breytt er af dróttkvæðum hætti með fullu háttaskipti, og héðan frá skal nú rita þær greinir, er skipt er dróttkvæðum hætti og breytt með hljóðum og hendingaskipti eða orðalengð, stundum við lagt, en stundum að tekið."
+    },
+    {
+     "t": "p",
+     "s": "Þetta er tvískelft:"
+    },
+    {
+     "t": "v",
+     "n": 28,
+     "l": [
+      "Vandbaugs veitti sendir",
+      "vígrakkur, en gjöf þakkak",
+      "skjaldbraks skylja mildum,",
+      "skipreiðu mér, heiða.",
+      "Fann næst fylkir unna",
+      "föl dýr að gjöf stýri",
+      "stálhreins. Styrjar deilis",
+      "stórlæti sá eg mæta."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er í fyrsta og þriðja vísuorði það, er háttum skiptir. Hér standast hljóðfyllendur svo nær, að ein samstafa er í milli þeirra. Þeir gera skjálfhendur stuðlar, og er hinn fyrri upphaf vísuorðs, en hendingar standast sem first. En ef frumhending er í þeirri samstöfu, er næst er inni fyrstu, þá bregst eigi skjálfhenda."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er detthendur háttur:"
+    },
+    {
+     "t": "v",
+     "n": 29,
+     "l": [
+      "Tvær man eg hilmi hýrum",
+      "heims vistir ótvistar.",
+      "Hlaut eg á samt að sitja",
+      "seimgildi fémildum.",
+      "Fús gaf fylkir hnossir",
+      "fleinstýri margdýrar.",
+      "Hollur var hersa stilli",
+      "hoddspennir fjölmennum."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér skiptast hættir í öðru og fjórða vísuorði, og ræður hin fjórða samstöfun háttunum."
+    },
+    {
+     "t": "p",
+     "s": "Þetta er draugsháttur:"
+    },
+    {
+     "t": "v",
+     "n": 30,
+     "l": [
+      "Þoll bið eg hilmis hylli",
+      "halda grænna skjalda",
+      "Askur beið af því þroska",
+      "þilju Hrungnis ilja.",
+      "Vígfoldar njót valdi",
+      "vandar margra landa,",
+      "nýtur vartu oss, til ítrar",
+      "elli, dolga fellir."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er enn í öðru og fjórða vísuorði það, er háttum skiptir, og ræður hér hin þriðja samstafa."
+    }
+   ]
+  },
+  {
+   "num": 2,
+   "title": "Erindi 31–67",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "Nú hefur upp annað kvæði:"
+    },
+    {
+     "t": "v",
+     "n": 31,
+     "l": [
+      "Stáls dynblakka stökkvi",
+      "stinngeðs samir minnast,",
+      "alms bifsæki aukum",
+      "Yggs feng, á lof þengils.",
+      "Odds bláferla jarli",
+      "örbrjót né skal þrjóta,",
+      "Hárs saltunnu hrannir",
+      "hrærum, óð að stæra."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þetta heitir bragarbót. Hér skiptir háttum í fyrsta og þriðja vísuorði. Hér standast sem first má stuðlar, en hendingar svo, að ein samstafa er á milli. Það greinir háttuna."
+    },
+    {
+     "t": "p",
+     "s": "Þennan hátt kalla en riðhendur:"
+    },
+    {
+     "t": "v",
+     "n": 32,
+     "l": [
+      "Él þreifst skarpt of Skúla",
+      "skýs snarvinda lindar,",
+      "egg varð hvöss í höggum",
+      "hræs dynbrunnum runnin.",
+      "Seimþreytir bjó sveita",
+      "snjallur ilstafna hrafni,",
+      "Páll varð und fið falla",
+      "fram þrábarni arnarham."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér skiptir háttum í öðru og fjórða vísuorði. Standa þar hendingar báðar samt nær enda og lúkast á einum hljóðstaf báðar, og er betur, að samhljóðandi sé eftir aðra."
+    },
+    {
+     "t": "p",
+     "s": "Þess háttur er kallað veggjað:"
+    },
+    {
+     "t": "v",
+     "n": 33,
+     "l": [
+      "Lífs varð ron að raunum,",
+      "reið sverð, skapað mjög ferðum.",
+      "Stöng óð þrátt á þingi",
+      "þjóðsterk, liðu fram merki.",
+      "Hrauð, of hilmis bróður,",
+      "hvöss egg friðar von seggjum,",
+      "spjót náðu blá bíta.",
+      "Búandmenn hlutu þar renna."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er háttaskipti í öðru og fjórða vísuorði, og er þar ein samstöfun sett í, svo að tvær eru síðar, og aukið því lengdin orðsins."
+    },
+    {
+     "t": "p",
+     "s": "Nú er flagðaháttur:"
+    },
+    {
+     "t": "v",
+     "n": 34,
+     "l": [
+      "Flaust bjó folka treystir",
+      "fagrskjölduðustum öldum.",
+      "Leið skar bragnings bróðir",
+      "bjartveggjuðustu reggi.",
+      "Hest rak hilmir rasta",
+      "harðsveipaðastan reipum.",
+      "Sjár hlaut við þröm þjóta",
+      "þunghúfuðustu lungi."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér skiptir háttum í öðru og hinu fjórða vísuorði. Er hér aukið bæði samstöfu og fullnað orðtak sem framast, og eftir þá samstöfun eru þrjár samstöfur, og er rétt dróttkvætt, ef hún er úr tekin."
+    },
+    {
+     "t": "p",
+     "s": "Þessi háttur er hin forna skjálfhenda:"
+    },
+    {
+     "t": "v",
+     "n": 35,
+     "l": [
+      "Reist að Vágsbrú vestan,",
+      "varrsíma bar fjarri,",
+      "heitfastur hávar rastir",
+      "hjalm-Týr svölu stýri,",
+      "Stökur óx, er bar blakka",
+      "brims fyr jörð it grimma",
+      "herfjölð, húfar svölðu,",
+      "hrannláð, búandmanna."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er skjálfhent með aðalhending í þriðja vísuorði í hvárum tveggja helmingi, en að öðru sem dróttkvætt. Þennan hátt fann fyrst Veili. Þá lá hann í útskeri nokkru, kominn af skipbroti, og höfðu þeir illt til klæða og veður kalt. Þá orti hann kvæði, er kallað er kviðan skjálfhenda eða drápan steflausa og kveðið eftir Sigurðar sögu."
+    },
+    {
+     "t": "p",
+     "s": "Þetta er þríhent kallað:"
+    },
+    {
+     "t": "v",
+     "n": 36,
+     "l": [
+      "Hristi hvatt, þá er reistist,",
+      "herföng, mjög löng véstöng.",
+      "Samði folk, en frömðust",
+      "fullsterk, hringserk, grams verk.",
+      "Hönd lék, herjum reyndist,",
+      "hjör kaldur, allvaldur mannbaldur.",
+      "Egg frá eg breiða bjoggu",
+      "bragning fylking, stóð þing."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru þrennar aðalhendingar í öðru og hinu fjórða vísuorði, og lútast allar einnig, og fylgir samstöfun fyrir hverja."
+    },
+    {
+     "t": "p",
+     "s": "Nú er hinn dýri háttur:"
+    },
+    {
+     "t": "v",
+     "n": 37,
+     "l": [
+      "Vann, kann virðum banna",
+      "vald, gjald, höfundur aldar,",
+      "ferð verð folka herti",
+      "fest mest, sá er bil lestir.",
+      "Hátt þrátt, hölða áttar",
+      "hrauð auð jöfur rauðum,",
+      "það, gat þengill skatna",
+      "þjóð, stóð af gram, bjóða."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru í fyrsta og þriðja vísuorði tvær aðalhendingar samt í upphafi, en hin þriðja að hætti við enda."
+    },
+    {
+     "t": "v",
+     "n": 38,
+     "l": [
+      "Farar snarar fylkir byrjar,",
+      "freka breka lemur á snekkjum,",
+      "vaka taka vísa rekkar,",
+      "viðar skriðar að það biðja.",
+      "Svipa skipa sýjur heppnar",
+      "sömum þrömum í byr römmum,",
+      "Haka skaka hrannir blökkum",
+      "hliðar. Miðar und kjöl niðri."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru þrjár hendingar í vísuorði og skothent í fyrsta og þriðja vísuorði, en þriðja hending að hætti við enda, og fylgir samstafa hverri hendingu."
+    },
+    {
+     "t": "p",
+     "s": "Þessi háttur er kallað tiltekið:"
+    },
+    {
+     "t": "v",
+     "n": 39,
+     "l": [
+      "Og hjaldrreifan hófu",
+      "hoddstiklanda miklir,",
+      "morðflýtir kná mæta",
+      "malmskúrar dyn, hjalmar,",
+      "hjaldurs þá er hilmir foldar",
+      "hugfærum gaf stæri,",
+      "ógnsvellir fær allan,",
+      "jarldóm göfugur, sóma."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér skiptir háttum it fimmta vísuorð, og leiðir í því orði máltak af fyrra vísuhelmingi, og dregst það vísuorð með hljóðfyllingum mjög eftir skjálfhendu inni nýju."
+    },
+    {
+     "t": "p",
+     "s": "Þessi háttur er kallað greppaminni:"
+    },
+    {
+     "t": "v",
+     "n": 40,
+     "l": [
+      "Hver fremur hildi barra?",
+      "Hver er mælingum ferri?",
+      "Hver gerir höpp að stærri?",
+      "Hver kann auð að þverra?",
+      "Veldur hertogi hjaldri.",
+      "Hann er first blikurmanni.",
+      "Hann á höpp að sýnni.",
+      "Hann vélir blik spannar."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þessum hætti er breytt til dróttkvæðs háttar með orðum."
+    },
+    {
+     "t": "p",
+     "s": "Nú er sá háttur, er vér köllum liðhendur:"
+    },
+    {
+     "t": "v",
+     "n": 41,
+     "l": [
+      "Velur ítrhugaður ýtum",
+      "otrgjöld jöfur snotrum.",
+      "Oft hefur þings fyr þröngvi",
+      "þungfarmur Grana sprungið.",
+      "Hjörs vill rjóður, að ríði",
+      "reiðmalmur Gnitaheiðar.",
+      "Vígs er hreytt að hættis",
+      "hvatt Niflunga skatti."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Það eru liðhendur, er hinn sami stafur stendur fyrir hendingar, og þá er rétt ort liðhendur háttur, að í öðru og í hinu fjórða vísuorði sé oddhending og skothending við þær hendingar, er í hinu fyrra vísuorði eru, og verður þá einn upphafsstafur allra þeirra þriggja hendinganna."
+    },
+    {
+     "t": "p",
+     "s": "Nú er sá háttur, er vér kölum rétthent:"
+    },
+    {
+     "t": "v",
+     "n": 42,
+     "l": [
+      "Alrauðum drífur auði;",
+      "ógnrakkur firum Hlakkar",
+      "veit eg hvar vals á reita",
+      "verpur hringdropa snerpir.",
+      "Snjallur lætur á fið falla",
+      "fagrregn jöfur þegnum,",
+      "ógnflýtir verr ýtum",
+      "arm, Mardallar hvarma."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru aðalhendingar í fyrsta og þriðja vísuorði, en gætt að taka úr skothendur."
+    },
+    {
+     "t": "p",
+     "s": "Enn er sá háttur, er vér köllum hina minni alhendu, það eru skothendur í hinu fyrsta vísuorði í báðum helmingum, svo sem hér segir:"
+    },
+    {
+     "t": "v",
+     "n": 43,
+     "l": [
+      "Samþykkjar fremur sökkvi",
+      "snar Baldur hjarar aldir.",
+      "Gunnhættir kann Grótta",
+      "glaðdrift hraða skipta.",
+      "Féstríðir kná Fróða",
+      "friðbygg liði tryggja.",
+      "Fjölvinjaður hylur Fenju",
+      "falur meldur alinveldi."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hin minni alhenda er þá rétt ort, að haldið sé vísulengð saman. En ef henni er skotið í fulla alhendu, svo að skothendur sé þar sumar eða allar í vísuorði, þá er það eigi rétt."
+    },
+    {
+     "t": "p",
+     "s": "Nú er alhent:"
+    },
+    {
+     "t": "v",
+     "n": 44,
+     "l": [
+      "Frama skotnar gram, gotnum,",
+      "gjöf sannast, röf spannar,",
+      "menstiklir, venst, miklar",
+      "manndýrðir vann skýrðar.",
+      "Herfjölð, bera hölðar,",
+      "hagbáls lagar stála",
+      "friðast sjaldan við valdi,",
+      "vallands svala branda."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru tvennar aðalhendingar í hverju vísuorði. Þessi þykir vera fegurstur og vandastur, ef vel er ortur, þeirra hátta, er kvæði sé ort eftir, og er þá full alhending, ef eigi finnst í að, eg, en eða þau smáorð, er þeim fylgja, nema þau standi í hendingum, en eigi hafa allir menn það varast, og er það fyrir því eigi rangt, sem kvað Klæingur byskup:"
+    },
+    {
+     "t": "v",
+     "n": null,
+     "l": [
+      "Bað eg sveit á glað Geitis,",
+      "gör er íð að för, tíðum",
+      "drögum hest á lög lesta,",
+      "lið flýtur, en skrið nýtum."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þetta er stamhendur háttur:"
+    },
+    {
+     "t": "v",
+     "n": 45,
+     "l": [
+      "Lætur undin brot brotna",
+      "bragningur fyr sér hringa.",
+      "Sá tekur fyr en menja",
+      "mætt orð of sig fættir.",
+      "Armur kná við blik blikna",
+      "brimlands viðum randa,",
+      "þar er hönd, að lið liðnar,",
+      "lýslóðar ber glóðir."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er í frysta og þriðja vísuorði tvíkveðið að einni samstöfu og haft það til hendinga, og fyrir því köllum vér þetta stamhent, að tvíkylft er til hendingarinnar, og standa svo hendingar í orðinu sem riðhendur."
+    },
+    {
+     "t": "p",
+     "s": "Nú er sá háttur, er samhent er kallað:"
+    },
+    {
+     "t": "v",
+     "n": 46,
+     "l": [
+      "Virðandi gefur virðum",
+      "verbál liðar skerja.",
+      "Gleður vellbroti vellum",
+      "verðung afar-þungum.",
+      "Ýtandi fremur ýta",
+      "auðs sæfuna rauðum,",
+      "þar er mætum gram mæti",
+      "marblakks skipendur þakka."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru þær hendingar, er vér köllum samhendur, því að þessar eru allar með einum stöfum og eru í fyrsta og þriðja vísuorði, svo settar sem skothendur í dróttkvæðum hætti."
+    },
+    {
+     "t": "p",
+     "s": "Nú er iðurmælt:"
+    },
+    {
+     "t": "v",
+     "n": 47,
+     "l": [
+      "Seimþverrir gefur seima",
+      "seimör liði beina.",
+      "Hringmildan spyr eg hringum",
+      "hringskemmi brott stinga.",
+      "Baugstökkvir fremur baugum",
+      "bauggrimmur hjarar drauga.",
+      "Viður gullbroti gulli",
+      "gullhættur skaða fullan."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er þrem sinnum haft samhending, tysvar í fyrsta og þriðja vísuorði, en í öðru og hinu fjórða er haldið afhending sem í dunhindum hætti."
+    },
+    {
+     "t": "p",
+     "s": "Þess háttur heitir klifað:"
+    },
+    {
+     "t": "v",
+     "n": 48,
+     "l": [
+      "Auðkenndur verr auði",
+      "auð-Týr boga nauðir.",
+      "Þar er auðviðum auðið",
+      "auðs í gulli rauðu.",
+      "Heiðmönnum býr heiðis",
+      "heiðmildur jöfur reiðir.",
+      "Venur heiðfrömuður heiðar",
+      "heiðgjöf vala leiðar."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér halda samhendingar of allan vísuhelming og taka með aðalhending hina síðari í öðru og hinu fjórða vísuorði."
+    },
+    {
+     "t": "p",
+     "s": "Nú eru þeir hættir, er stúfar heita:"
+    },
+    {
+     "t": "v",
+     "n": 49,
+     "l": [
+      "Hjaldr-remmir tekur Hildi,",
+      "hringur brestur að gjöf, festa.",
+      "Hnígur und Högna meyjar",
+      "hers valdandi tjald.",
+      "Heðins mála býr hvílu",
+      "hjalmlestanda flestum.",
+      "Morðaukinn þiggur mæki",
+      "mund Hjaðninga sprund."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er it fjórða vísuorð stýft og tekin af samstafa, en í dróttkvæðum hætti skal setja með hending."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er meiri stúfur:"
+    },
+    {
+     "t": "v",
+     "n": 50,
+     "l": [
+      "Yggs drósar rýfur eisa",
+      "öld móðsefa tjöld.",
+      "Glóð stökkur í hof Hlakkar",
+      "hugtúns firum brún.",
+      "Geðveggjar svífur glugga",
+      "glæs dynbrími hræs,",
+      "hvattur er hyr að slétta",
+      "hjaldurs gnapturna aldurs."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er stýft annað og it fjórða vísuorð."
+    },
+    {
+     "t": "p",
+     "s": "Nú er hinn mesti stúfur:"
+    },
+    {
+     "t": "v",
+     "n": 51,
+     "l": [
+      "Herstefnir lætur hrafn",
+      "hungrs fullseðjast ungur.",
+      "Ilspornað getur örn",
+      "aldrlausastan haus.",
+      "Vilja borg en vargur",
+      "vígsára klífur grár.",
+      "Oft solgið fær ylgur,",
+      "jöfur góður vill svo, blóð."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru öll vísuorð stýfð. Þessir hættir, er nú eru ritaðir, eru greindir í þrjá staði, því að menn hafa ort fyrr svo, að í einni vísu var annar helmingur stýfður, en annar helmingur tvístýfður, og eru það háttaföll. Sá er hinn þriðji, er alstýfður er, því að hér eru öll vísuorð stýfð."
+    },
+    {
+     "t": "p",
+     "s": "Nú er skothendur háttur:"
+    },
+    {
+     "t": "v",
+     "n": 52,
+     "l": [
+      "Sær Skjöldungs niður skúrum,",
+      "sköft, darraðar, lyftast,",
+      "hrindur gunnfana grundar",
+      "plygg of fræknum tyggja.",
+      "Geisa vé fyr vísa,",
+      "veður stöng að hlym Gungnis,",
+      "styrk eru mót und merkjum",
+      "malms of ítran hilmi."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru skothendur í öllum vísuorðum, en annað sem dróttkvæður háttur."
+    },
+    {
+     "t": "p",
+     "s": "Nú er sá háttur, er vér köllum liðhendur:"
+    },
+    {
+     "t": "v",
+     "n": 53,
+     "l": [
+      "Stjóri venst að stæra",
+      "stór verk dunu geirra,",
+      "halda kann með hildi",
+      "hjaldr-Týr und sig foldu.",
+      "Harri slítur í hverri",
+      "Hjarranda föt snerru.",
+      "Falla þar til fyllar",
+      "fjallvargs jöru þollar."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Í þessum hætti eru liðhendur með tvennu móti, en aðrar á þá lund: við hina fyrri hending í fyrsta og þriðja vísuorði."
+    },
+    {
+     "t": "p",
+     "s": "Nú skal rita þá háttu, er forn skáld hafa kveðið og eru nú settir saman, þótt þeir hafi ort sumt með háttaföllum, og eru þessir hættir dróttkvæðir kallaðir í fornum kvæðum, en sumir finnast í lausavísum, svo sem orti Ragnar konungur loðbrók með þessum hætti:"
+    },
+    {
+     "t": "v",
+     "n": 54,
+     "l": [
+      "Skýtur að Sköglar veðri,",
+      "en skjaldagi haldast,",
+      "Hildar hlemmidrífu",
+      "of hvítan þröm rítar.",
+      "En í sæfis sveita",
+      "að sverðtogi ferðar",
+      "rýður aldar vinur odda",
+      "það er jarls megin, snarla."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er í fyrsta og þriðja vísuorði háttlausa, en í öðru og fjórða aðalhendingar, en höfuðstafurinn stendur svo, sá er kveðandi ræður í öðru og hinu fjórða vísuorði, að þar er fyrir sett samstafa ein eða tvær, en að öðru sem dróttkvætt."
+    },
+    {
+     "t": "p",
+     "s": "Nú skal rita Torf-Einars hátt:"
+    },
+    {
+     "t": "v",
+     "n": 55,
+     "l": [
+      "Hver séi jöfra ægi",
+      "jarl fjölvitrum betri,",
+      "eða gjarnara að gæða",
+      "glym harðsvelldan skjalda?",
+      "Stendur að stála skúrar",
+      "styr ólítill Gauti,",
+      "þá er folks jaðar foldir",
+      "fer sig-Njörðum varða."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er í fyrsta og þriðja vísuorði háttlausa, en í örðu og fjórða skothent og riðhent."
+    },
+    {
+     "t": "p",
+     "s": "Nú er Egils háttur:"
+    },
+    {
+     "t": "v",
+     "n": 56,
+     "l": [
+      "Hver ali blóði byrsta",
+      "bens rauðsylgjum ylgi,",
+      "nema svo að gramur of gildi",
+      "gráð dag margan vargi?",
+      "Gefur oddviti undir",
+      "egg nýbitnar vitni.",
+      "Her sér fenris fitjar",
+      "framkló loðna roðna."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er í fyrsta og þriðja vísuorði háttlausa, en í öðru og hinu fjórða aðalhendingar og riðhent."
+    },
+    {
+     "t": "p",
+     "s": "Nú er Fleins háttur:"
+    },
+    {
+     "t": "v",
+     "n": 57,
+     "l": [
+      "Hilmir hjalma skúrir",
+      "herðir sverði roðnu,",
+      "hrjóta hvítir askar,",
+      "hrynja brynju spangir.",
+      "Hnykja Hlakkar eldar",
+      "harða svarðar landi.",
+      "Remma rimmu glóðir",
+      "randa grand of jarli."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er svo farið hendingum sem í dróttkvæðum hætti, en hendingar eru settar saman í öndurðu vísuorði."
+    },
+    {
+     "t": "p",
+     "s": "Nú er Braga háttur:"
+    },
+    {
+     "t": "v",
+     "n": 58,
+     "l": [
+      "Er til hjalma hyrjar",
+      "herjum styrjar væni,",
+      "þar svo að jarl til ógnar",
+      "egnir tognu sverði.",
+      "Sjá kná garð fyr grundu",
+      "grindar Þundar jaðra,",
+      "er skatna vinur skjaldar",
+      "skyldist galdur að fremja."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er í fyrsta og þriðja vísuorði it síðasta málsorð haft til hendingar, en missir þess orðs hins fyrra, er gera skyldi skothending. En við þetta hendingarorð eru í öðru og hinu fjórða vísuorði hendingar, og er það önnur hending skothenda og liðhending, en önnur aðalhedning við hina fyrstu. En þessar hendingar, er standa í öðru og fjórða vísuorði, standa sem í Fleins hætti. Víða er það í fornskálda verka, er í einni vísu eru ýmsir hættir eða háttaföll, og má eigi yrkja eftir því, þó að það þyki eigi spilla í fornkvæðum."
+    },
+    {
+     "t": "p",
+     "s": "Nú eru þeir hættir, greindir í þrjá staði, er kimblabönd heita. Þessi er einn:"
+    },
+    {
+     "t": "v",
+     "n": 59,
+     "l": [
+      "Hjalmlestir skekur Hristar",
+      "hreggöld Sigars veggi.",
+      "Gramur lætur í byr brjóta",
+      "brands hnigþili randa stranda.",
+      "Stálhrafna lætur stefnir",
+      "styrvind of sig þyrja.",
+      "Þiggur að Göndlar glyggvi",
+      "gagn oddviti bragna sagna."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er í fjórða vísuorði í hvárum helmingi aukið aðalhending með tveim samstöfum eftir vísuorð en að öðru sem dróttkvætt."
+    },
+    {
+     "t": "p",
+     "s": "Nú er it meira kimblaband:"
+    },
+    {
+     "t": "v",
+     "n": 60,
+     "l": [
+      "Almdrósar skylur ísa",
+      "ár flest meginbára sára.",
+      "Kænn lætur hvatt á hrönnum",
+      "hjalmsvell jöfur gella fella.",
+      "Styrjökla kná stiklir",
+      "stinnur mens legi venja benja.",
+      "Lætur stillir frár fylla",
+      "folk sund hjarar lunda unda."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru tvenn kimblabönd í hvárum helmingi."
+    },
+    {
+     "t": "p",
+     "s": "Þessi eru hin mestu kimblabönd:"
+    },
+    {
+     "t": "v",
+     "n": 61,
+     "l": [
+      "Hræljóma fellur hrími, tími",
+      "hár vex of gram sára ára,",
+      "frost nemur, of hlyn Hristar, Mistar",
+      "herkaldan þröm skjaldar aldar.",
+      "Gullsendir brýtur grundar Hrundar",
+      "gunnveggs stöfum leggi hreggi.",
+      "Sóknvallar, spyr eg, svelli, elli,",
+      "svo skotnar það, gotna þrotna."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér fylgir hverju vísuorði kimblaband."
+    },
+    {
+     "t": "p",
+     "s": "Nú skal rita hrynjandi háttu. Þessi er hinn fyrsti:"
+    },
+    {
+     "t": "v",
+     "n": 62,
+     "l": [
+      "Tyggi snýr á ógnar áru,",
+      "undgagl veit það, sóknar hagli,",
+      "ingi drífur að hreggi hlífa,",
+      "hjör vélir fjör brynju éli.",
+      "Vísi heldur of fjörnis foldir,",
+      "folk, skiptir svo boga driftum,",
+      "skúrum lýstur of hilmi hraustan,",
+      "hans fregnum styr, Mistar regni."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er it fyrsta og þriðja vísuorð aukið fram tveim samstöfum til háttarsetningar, en ef þær eru af teknar, þá er sem eftir dróttkvætt, en úr öðru og fjórða vísuorði má taka málsorð það, er tvær samstöfur fylgja, hin fimmta og hin sjötta í vísuorði, þá er það orð og dróttkvætt. Í hrynhindum háttum eru oftast átta samstöfur í vísorði, en hendingar og stafaskipti fara sem í dróttkvæðum hætti. Þetta köllum vér dróttkvætt hrynjandi."
+    },
+    {
+     "t": "p",
+     "s": "Nú skal sýna fleiri skipun háttanna. Er þessi hrynjandi kölluð trollsháttur:"
+    },
+    {
+     "t": "v",
+     "n": 63,
+     "l": [
+      "Stála kenndi stökkvilundum",
+      "styrjar valdi rauðu falda,",
+      "rekkar stýrðu rétt til jarðar",
+      "roðnu barði, austan fjarðar.",
+      "Oddum renndi eljunstrandir",
+      "ýta ferðar hringa skerðir.",
+      "Hilmir stærði hvössu sverði",
+      "heila grundar meginundir."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér eru átta samstöfur í hverju vísuorði. Hér eru hluthendur í öllum orðum, og fylgja þrjár samstöfur hverri hendingu, og svo fara skothendur og aðalhendingar og stafaskipti sem í hrynhendu."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er einn hrynhendur háttur:"
+    },
+    {
+     "t": "v",
+     "n": 64,
+     "l": [
+      "Vafði lítt, er virðum mætti,",
+      "vígrækjandi fram að sækja.",
+      "Skerðir gekk í skúrum Hlakkar",
+      "Sköglar serks fyr roðnum merkjum.",
+      "Ruddist land, en ræsir Þrænda",
+      "Ribbungum skóp bana þungan.",
+      "Gunnar skaut und gera fótar",
+      "grimmsetta il hjarna kletti."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þetta er hrynhenda óbreytt."
+    },
+    {
+     "t": "p",
+     "s": "Þetta er draughent:"
+    },
+    {
+     "t": "v",
+     "n": 65,
+     "l": [
+      "Vápna hríð velta náði",
+      "vægðarlaus feigum hausi.",
+      "Hilmir lét höggum mæta",
+      "herða klett bana verðan.",
+      "Fleina lands fylkir renndi",
+      "fjörnis hlíð meginskíði,",
+      "öflugt sverð eyddi fyrðum",
+      "jöfri kennt, holdi fennta."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Í þessum hætti eru tíðast sjö samstöfur í hverju vísuorði, en hendingar og stafaskipti sem í dróttkvæðum hætti, og ef hér er úr tekin ein samstöfun fyrsta eða þriðja vísuorði, sú stendur næst inni fyrstu, þá falla hljóðin öll sem í dróttkvæðum hætti. Svo má og af taka í öðru og hinu fjórða vísuorði hina sömu samstöfun, og er þá það dróttkvætt, og verður sumt eigi mjúkt."
+    },
+    {
+     "t": "p",
+     "s": "Þennan hátt köllum vér munnvörp:"
+    },
+    {
+     "t": "v",
+     "n": 66,
+     "l": [
+      "Eyddi úthlaupsmönnum",
+      "ítur hertogi spjótum.",
+      "Sungu stál of stillis,",
+      "stóð ylgur í val, dolgum.",
+      "Hal margan lét höfði",
+      "hoddgrimmur jöfur skemmra.",
+      "Svo kann ron að refsa",
+      "reiður oddviti þjóðum."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er háttlausa í hinu fyrsta og þriðja vísuorði, en í öðru og hinu fjórða skothendur."
+    },
+    {
+     "t": "p",
+     "s": "Nú er sá háttur, er kallaður er háttlausa:"
+    },
+    {
+     "t": "v",
+     "n": 67,
+     "l": [
+      "Ortak öld að minnum,",
+      "þá er alframast vissak,",
+      "of siklinga snjalla",
+      "með sex tugum hátta.",
+      "Síst hafa veg né vellum,",
+      "er virðan mig létu,",
+      "á aldinn mar orpið,",
+      "það er oss frami, jöfrar."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Í þessum hætti eru engar hendingar, en stafaskipti sem í dróttkvæðum hætti."
+    },
+    {
+     "t": "p",
+     "s": "Nú eru saman settir í tveim kvæðum sex tigir hátta og um fram þær átta greinir, er fyrst er skipað í dróttkvæðum hætti með málsgreinum þeim, er fylgja hættinum, og eru þessir hættir allir vel fallnir til að yrkja kvæði eftir, ef vill."
+    }
+   ]
+  },
+  {
+   "num": 3,
+   "title": "Erindi 68–102",
+   "blocks": [
+    {
+     "t": "p",
+     "s": "Nú skal upp hefja it þriðja kvæði, það er ort er eftir hinum smærum háttum, og eru þeir hættir þó margir áður í lofkvæðum."
+    },
+    {
+     "t": "p",
+     "s": "Hér hefur upp tögdrápulag:"
+    },
+    {
+     "t": "v",
+     "n": 68,
+     "l": [
+      "Fremstur var Skúli -",
+      "Skala lof dvala.",
+      "Sem eg mildum gram",
+      "mærð fjölsnærða.",
+      "Meir skal eg stæri",
+      "styrs hróður fyrir,",
+      "kær var eg harra,",
+      "hers gnótt bera."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er í öðru og fjórða vísuorði fjórar samstöfur og tvær aðalhendingar og svo settur höfuðstafur sem í dróttkvæðu, en í fyrsta og þriðja vísuorði eru og fjórar réttar samstöfur og hin fimmta afkleyfissamstafa, það er: eg eða af eða en eða er eða þvílikt. Þar eru og skothendingar og ein hljóðfylling við höfuðstafinn."
+    },
+    {
+     "t": "p",
+     "s": "Þetta er annað töglag:"
+    },
+    {
+     "t": "v",
+     "n": 69,
+     "l": [
+      "Kunn bjó eg kvæði",
+      "konungs bróður þjóð,",
+      "þann veit eg þengil,",
+      "þrenn fjölmennan.",
+      "Fram skal hin fjórða",
+      "folkglaðs vaða",
+      "ljós elds lagar",
+      "lofum friðrofa."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Svo fer hér annað og fjórða vísuorð sem í fyrra hætti, en it fyrsta og þriðja vísuorð er hér hendingalaust, en tveir hljóðfyllendur við höfuðstaf sem í dróttkvæðu."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er hinn þriðji háttur, er vér köllum hagmælt:"
+    },
+    {
+     "t": "v",
+     "n": 70,
+     "l": [
+      "Mitt er of mæti",
+      "margt lag bragar",
+      "áður ókveðið",
+      "oddbraks spakan.",
+      "Hlýtur grams geta",
+      "greppur óhneppra",
+      "skýr skrautfara.",
+      "skjöldunga ungur."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Í þessum hætti eru skothendingar í fyrsta og þriðja vísuorði og stafaskipti sem í dróttkvæðum hætti, en að öðru sem tögmælt. Í öllu töglagi er eigi rangt, þótt fimm samstöfur sé í vísuorði, er skammar eru sumar og skjótar. Það er tögdrápuháttur, að stef skal vera til fyrsta vísuorðs og lúka því máli í hinu síðasta vísuorði kvæðisins, og er rétt að setja kvæðið með svo mörgum stefjamélum sem hann vill, og er það tíðast að hafa öll jafnlöng, en hvers stefjaméls skal stef upphaf og niðrlag."
+    },
+    {
+     "t": "p",
+     "s": "Nú er grænlenzki háttur:"
+    },
+    {
+     "t": "v",
+     "n": 71,
+     "l": [
+      "Slóð kann sneiðir",
+      "seima geima",
+      "hnigfág Haka",
+      "hleypa greypa,",
+      "hitt er af hlunni",
+      "hesta festa",
+      "lætur leyfður skati",
+      "langa ganga."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er it fyrsta og þriðja vísuorð svo sem hagmælt, en annað og fjórða með aðalhendingum, og eru tvær samstöfur aðalhendar og endast báðar í einn staf."
+    },
+    {
+     "t": "p",
+     "s": "Nú er hinn skammi háttur:"
+    },
+    {
+     "t": "v",
+     "n": 72,
+     "l": [
+      "Gull kná, greppar,",
+      "glóa, róa,",
+      "váss eru seggir",
+      "samir framir.",
+      "Eik má und jöfri",
+      "una bruna,",
+      "þá nýtur vísi",
+      "viðar skriðar."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er it fyrsta og þriðja vísuorð hendingalaust, en annað og it fjórða sem grænlenzki háttur og skemmri orðtökin."
+    },
+    {
+     "t": "p",
+     "s": "Nú er nýi háttur:"
+    },
+    {
+     "t": "v",
+     "n": 73,
+     "l": [
+      "Ræsir glæsir",
+      "Rökkva dökkva",
+      "hvítum rítum",
+      "hreina reina.",
+      "Skreytir hreytir",
+      "skafna stafna",
+      "hringa stinga",
+      "hjörtum svörtum."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Í þessum hætti eru í hverju vísuorði fjórar samstöfur, en tvær aðalhendingar og lúkast í einn staf báðar og enginn afkleyfisorð."
+    },
+    {
+     "t": "p",
+     "s": "Þetta er stúfhent:"
+    },
+    {
+     "t": "v",
+     "n": 74,
+     "l": [
+      "Hafröst hristir",
+      "hlunnvigg tiggja,",
+      "borðgrund bendir",
+      "brimdýrs stýri.",
+      "Blá veit brjóta",
+      "byrskíð víði",
+      "böðharður börðum",
+      "buðlungur þungan."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Í þessum hætti eru fjórar samstöfur í vísuorði, en hendingar og stafaskipti sem í dróttkvæðum hætti nema það, að allar hendingar eru náhendar."
+    },
+    {
+     "t": "p",
+     "s": "Þetta er náhent:"
+    },
+    {
+     "t": "v",
+     "n": 75,
+     "l": [
+      "Hrinda lætur hniggrund",
+      "hafbekks snekkjur,",
+      "þá er falla, fleinþollur",
+      "frár, mál, stálum.",
+      "Hlumi lítur hergramur",
+      "hirðmenn spenna,",
+      "en ræði raungóð",
+      "rógalfs skjalfa."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Í þessum hætti eru fjórar samstöfur í vísuorði, og er eigi rangt í hinu fyrsta og þriðja, þótt fimm sé. Þar eru skothendur. Í öðru og hinu fjórða eru aðalhendingar og báðar saman og hin fyrri stýfð, en stafaskipti sem í dróttkvæðu"
+    },
+    {
+     "t": "p",
+     "s": "Þetta er hnugghent:"
+    },
+    {
+     "t": "v",
+     "n": 76,
+     "l": [
+      "Hrannir strýkva hlaðin borð,",
+      "haflauður skeflir,",
+      "kasta náir kjalar stíg",
+      "kalt hlýr söltum.",
+      "Svörtum hleypir svana fjöll",
+      "snjallmæltur stillir",
+      "hlunna [fram] of Haka veg",
+      "hríðfelld skíðum."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér er í fyrsta og þriðja vísuorði sjö samstöfur og hendingalaust, en rétt að stöfum. En annað og it fjórða hefur fjórar samstöfur, en rétt að stöfum og skothending og oddhent og stýfð hin fyrri hending."
+    },
+    {
+     "t": "p",
+     "s": "Nú er hálfhneppt:"
+    },
+    {
+     "t": "v",
+     "n": 77,
+     "l": [
+      "Snyðja lætur í sólroð",
+      "snekkjur á Manar hlekk,",
+      "árla sér, ungur jarl,",
+      "allvaldur breka fall.",
+      "Lyfta kná of liði oft",
+      "lauki of kjalar raukn;",
+      "greiða náir glygg váð.",
+      "Greipum mæta dragreip."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Í þessum hætti eru sex samstöfur í vísuorði, en eigi er rangt, þótt verði fimm eða sjö. Í fyrsta og þriðja vísuorði eru skothendur, en aðalhendingar í öðru og hinu fjórða í hvárum tveggja stað, hin fyrri hending rétt í dróttkvæðu, en hin síðari stýfð eða hneppt, það er allt eitt."
+    },
+    {
+     "t": "p",
+     "s": "Sjá háttur er alhnepptur:"
+    },
+    {
+     "t": "v",
+     "n": 78,
+     "l": [
+      "Hrönn sker, hvatt fer,",
+      "húfur kaldur, allvaldur,",
+      "lá brýtur, lög skýtur,",
+      "limgarmur, rangbarmur.",
+      "Brátt skekur, byr rekur,",
+      "blon vegg, ráskegg.",
+      "Jarl lætur almætur",
+      "ósvipt húnskift."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Í þessum hætti eru fjórar samstöfur í vísuorði og tvær aðalhendingar og lúkast báðar í einn staf og allar hendingar hnepptar."
+    },
+    {
+     "t": "p",
+     "s": "Þetta er Haðarlag:"
+    },
+    {
+     "t": "v",
+     "n": 79,
+     "l": [
+      "Læsir leyfður vísi",
+      "landa útstrandir",
+      "blíður og bláskíðum",
+      "barða randgarði.",
+      "Ern kná jarl þyrna",
+      "oddum falbrodda",
+      "jörð með élsnærðum",
+      "jaðri hrænaðra."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Í þessum hætti eru fimm samstöfur í vísuorði, en hendingar og stafaskipti sem í dróttkvæðum hætti."
+    },
+    {
+     "t": "p",
+     "s": "Nú eru þeir hættir, er runhendur eru kallaðir. Þeir eru með einu móti. Hver háttur runhendur skal vera með aðalhendingum tveim og í sínu vísuorði hvár hending."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er rétt runhenda:"
+    },
+    {
+     "t": "v",
+     "n": 80,
+     "l": [
+      "Lof er flutt fjörum",
+      "fyr gunnörum,",
+      "né spurð spörum",
+      "spjöll, gram snörum.",
+      "Hef eg hans förum",
+      "til hróðrs görum",
+      "yppt óvörum",
+      "fyr auðs börum."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þessi háttur er haldinn með einni hending í hverju vísuorði, og svo er sú runhending, er skilur hendingar og skiptir orðum. Því er þetta runhent kallað."
+    },
+    {
+     "t": "p",
+     "s": "Þetta er hin minni runhenda:"
+    },
+    {
+     "t": "v",
+     "n": 81,
+     "l": [
+      "Fluttak fræði",
+      "of frama græði,",
+      "tunga tæði,",
+      "með tölu ræði.",
+      "Stef skal stæra",
+      "stilli Mæra,",
+      "hróður dugir hræra,",
+      "og honum færa."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Hér gengur hending of hálfa vísu, en önnur í síðara helmingi. Þessi háttur er stýður eða hnepptur af hinum fyrra."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er hinn minnsta runhenda:"
+    },
+    {
+     "t": "v",
+     "n": 82,
+     "l": [
+      "Slíkt er svo,",
+      "siklingur á,",
+      "öld þess ann,",
+      "orðróm þann,",
+      "jarla er",
+      "austan ver",
+      "skatna skýrstur",
+      "Skúli dýrstur."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Í þessum hætti eru þrjár samstöfur í vísuorði, en tvö vísuorð sér um hending, stafaskipti sem í dróttkvæðu. En finnst það svo, að eigi er rangt, ef stendur einu sinni fyrir málsorð hljóðstafur sá, er kveðandi ræður."
+    },
+    {
+     "t": "p",
+     "s": "Þessir eru enn runhendir:"
+    },
+    {
+     "t": "v",
+     "n": 83,
+     "l": [
+      "Naðrs gnapa ógn alla",
+      "eyðis baugvalla",
+      "hlunns of hástalla",
+      "hestar svanfjalla.",
+      "Orms er glatt galla",
+      "með gumna spjalla,",
+      "jarl fremur sveit snjalla.",
+      "Slíkt má skörung kalla."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þessi háttur er ortur með fullri runhending, og eru þar tíðast fimm samstöfur í vísuorði eða sex, ef skjótar eru."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er annar:"
+    },
+    {
+     "t": "v",
+     "n": 84,
+     "l": [
+      "Orð fékk gott gramur,",
+      "hann er gunntamur.",
+      "Mjög er fullframur",
+      "fylkir rausnsamur.",
+      "Hitt er mál metur,",
+      "milding síst getur,",
+      "þann er svo setur",
+      "seggi hvern vetur."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þessi er hnepptur af inni fyrri runhendu:"
+    },
+    {
+     "t": "v",
+     "n": 85,
+     "l": [
+      "Mærð vilk auka",
+      "Mistar lauka",
+      "góma sverði",
+      "grundar skerði.",
+      "Dýrð skal segja,",
+      "drótt má þegja,",
+      "styrjar má þegja,",
+      "styrjar glóða",
+      "stökkvi-Móða."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Í þeima sama hætti eru fjórar samstöfur í hverju vísuorði, en höfuðstafur sem í dróttkvæðum hætti, og fylgir þeim einn hljóðfyllandi."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er hinn þriðji háttur runhendur:"
+    },
+    {
+     "t": "v",
+     "n": 86,
+     "l": [
+      "Veit eg hrings hraða",
+      "í höll laða,",
+      "gott er hús Hlaða,",
+      "hirð ölsaða.",
+      "drekkur gramur glaða,",
+      "en að gjöf vaða",
+      "vitar valstaða,",
+      "vandbaugskaða."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þetta er rétt runhending, og er þessi háttur tekinn af töglagi. Hér eru fjórar samstöfur í vísuorði eða fimm, ef skjótar eru. Þessi er hin minni runhenda:"
+    },
+    {
+     "t": "v",
+     "n": 87,
+     "l": [
+      "Drífur handar hlekkur,",
+      "þar er hilmir drekkur.",
+      "Mjög er brögnum bekkur",
+      "blíðskálar þekkur.",
+      "Leikur hilmis her",
+      "hreingullið ker,",
+      "segi eg allt sem er,",
+      "við orða sker."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þessi er hnepptur af hinum fyrra."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er hin minnsta:"
+    },
+    {
+     "t": "v",
+     "n": 88,
+     "l": [
+      "En þá er hirð til hallar",
+      "hers oddviti kallar,",
+      "oft tekur jarl að fagna",
+      "við ótali bragna,",
+      "búin er gjöf til greizlu",
+      "að gullbrota veizlu.",
+      "Þröngt situr þjóðar sinni,",
+      "þar er mestur frami inni."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þessi runhenda er tekin af dróttkvæðum hætti, og eru hér jafnmargar samstöfur og svo stafaskipti sem í dróttkvæðu."
+    },
+    {
+     "t": "p",
+     "s": "Nú hefur upp hinn fjórða bjálk runhendinga:"
+    },
+    {
+     "t": "v",
+     "n": 89,
+     "l": [
+      "Hirð gerir hilmis kátt,",
+      "höll skipast þröngt að gátt,",
+      "auð gefur þengill þrátt,",
+      "það spyr fram í átt.",
+      "Slíkt tel eg hilmis hátt,",
+      "hans er rausn of mátt,",
+      "jarl brýtur sundur í smátt",
+      "slungið gull við þátt."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þessi háttur er hnepptur af hinum fyrra og rétt runhendur."
+    },
+    {
+     "t": "p",
+     "s": "Nú er hin minni runhenda:"
+    },
+    {
+     "t": "v",
+     "n": 90,
+     "l": [
+      "Mörg þjóð fer til siklings sala,",
+      "sæmd er þar til allra dvala,",
+      "tyggi veitir seima svala,",
+      "satt er best of hann að tala.",
+      "Bresta spyrjum bauga flata,",
+      "bragna vinur kann gulli hata,",
+      "æðri veit eg að gjöflund gata",
+      "grundar vörður, fyr hringa skata."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þessi runhenda er tekin af hrynhindum hætti."
+    },
+    {
+     "t": "v",
+     "n": 91,
+     "l": [
+      "Þiggja kná með gulli glöð",
+      "gotna ferð að ræsi mjöð.",
+      "Drekka lætur hann sveit að sín",
+      "silfri skenkt it fagra vín.",
+      "Greipum mætir gullin skál,",
+      "gumnum sendir Rínar bál,",
+      "eigi hittir æðra mann,",
+      "jarla bestur, en skjöldung þann."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þessi er hnepptur af inni fyrri runhendu."
+    },
+    {
+     "t": "p",
+     "s": "Hér hefur upp hinn fimmta runhendan bálk:"
+    },
+    {
+     "t": "v",
+     "n": 92,
+     "l": [
+      "Getið var grams fara,",
+      "gört hef eg mærð snara,",
+      "þengil mun þess vara,",
+      "það nam eg lítt spara.",
+      "Finnrað fræknara",
+      "fæði gunnstara",
+      "mann né mildara",
+      "merkir blóðsvara."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þessi er og full runhenda."
+    },
+    {
+     "t": "p",
+     "s": "Þessi er hin minni runhenda og tekin af hálfhnefstum hætti eða náhindum:"
+    },
+    {
+     "t": "v",
+     "n": 93,
+     "l": [
+      "Þengill lætur höpp hresst,",
+      "honum fylgir dáð mest,",
+      "vísi gefur vel flest",
+      "verbál og ólest.",
+      "Húfar brutu haf ljótt,",
+      "heim lét eg jöfur sótt,",
+      "Yngja lofar öll drótt,",
+      "jarls sá eg frama gnótt."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Þessi er stýður eða hnepptur af fyrra hætti:"
+    },
+    {
+     "t": "v",
+     "n": 94,
+     "l": [
+      ". . . . . . . . Gramur,",
+      "gulli söri Kraki framur,",
+      "efla frágum Haka hjaldur,",
+      ". . . . . . . . aldur.",
+      "Ormi veitti Sigurður sár,",
+      "slíkt var allt fyr liðið ár,",
+      "Ragnar þótti skatna skýrstur,",
+      "Skúli jarl er miklu dýrstur."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Málaháttur:"
+    },
+    {
+     "t": "v",
+     "n": 95,
+     "l": [
+      "Munða eg mildingi,",
+      "þá er Mæra hilmi",
+      "fluttak fjögur kvæði,",
+      "fimmton stórgjafar.",
+      "Hvar viti áður orta",
+      "með æðra hætti",
+      "mærð of menglötuð",
+      "maður und himins skautum?"
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Fornyrðislag:"
+    },
+    {
+     "t": "v",
+     "n": 96,
+     "l": [
+      "Ort er of ræsi,",
+      "þann er rýður granar",
+      "vargs og ylgjar",
+      "og vopn litar.",
+      "Það mun æ lifa,",
+      "nema öld farist,",
+      "bragninga lof,",
+      "eða bili heimar."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Bálkarlag:"
+    },
+    {
+     "t": "v",
+     "n": 97,
+     "l": [
+      "Lyfta eg ljósu",
+      "lofi þjóðkonungs.",
+      "Upp er fyr ýta",
+      "jarls mærð borin.",
+      "Hver muni heyra",
+      "hróður gjöflata",
+      "seggur svo kveðinn",
+      "seims og hnossa?"
+     ]
+    },
+    {
+     "t": "p",
+     "s": "sú er grein milli þessa hátta, að í fornyrðislagi eru í fyrsta og þriðja vísuorði einn stuðill, en í öðru og fjórða vísuorði þá stendur höfuðstafur í miðju orði, en í stikkalagi eru tveir stuðlar, en höfuðstafur í miðju orði. En í bálkarlagi standast stuðlar og höfuðstafur sem í dróttkvæðu."
+    },
+    {
+     "t": "p",
+     "s": "Starkaðarlag:"
+    },
+    {
+     "t": "v",
+     "n": 98,
+     "l": [
+      "Veit eg verðari",
+      "þá er vell gefa,",
+      "bröndum beita",
+      "og búa snekkjur,",
+      "hærra hróðrar",
+      "en heimdrega,",
+      "unga jöfra,",
+      "en auðspöruð."
+     ]
+    },
+    {
+     "t": "v",
+     "n": 99,
+     "l": [
+      "Þeir eru jöfrar",
+      "alvitrastir,",
+      "hringum hæstir,",
+      "hugrakkastir,",
+      "vellum verstir,",
+      "vígdjarfastir,",
+      "hirð hollastir,",
+      "happi næstir."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Ljóðaháttur:"
+    },
+    {
+     "t": "v",
+     "n": 100,
+     "l": [
+      "Glöggja grein",
+      "hef eg gört til bragar;",
+      "svo er tírætt hundrað talið",
+      "Hróðrs örverður",
+      "skala maður heitinn vera,",
+      "ef svo fær alla háttu ort."
+     ]
+    },
+    {
+     "t": "p",
+     "s": "Galdralag:"
+    },
+    {
+     "t": "v",
+     "n": 101,
+     "l": [
+      "Sóttak fremd,",
+      "sóttak fund konungs,",
+      "sóttak ítran jarl,",
+      "þá er eg reist,",
+      "þá er eg renna gat",
+      "kaldan straum kili,",
+      "kaldan sjá kili."
+     ]
+    },
+    {
+     "t": "v",
+     "n": 102,
+     "l": [
+      "Njóti aldurs",
+      "og auðsala",
+      "konungs og jarl,",
+      "það er kvæðis log.",
+      "Falli fyrr",
+      "fold í ægi,",
+      "steini studd,",
+      "en stillis lof."
+     ]
+    }
+   ]
+  }
+ ]
+}
