@@ -226,11 +226,21 @@ R = [
         "Commons page carries no source details; the same illumination is commonly reproduced as Hákon and Skúli (or Hákon and his son Magnús)."),
 ]
 
+# Records kept for reference but not shown in the slot (the picture is not the scene). Reviewed 2026-10-24.
+NOT_PLACED = {
+    "s-c3": "Penrose's painting shows Iðunn handing out apples, not Loki's falcon flight with Þjazi in pursuit; kept as a candidate for the Iðunn chapters, slot left open for a generated image.",
+    "s-c46": "Stassen's 'Andvari' shows the dwarf alone; no otter, no ransom. Kept as a candidate; slot left open for a generated image.",
+}
+for _r in R:
+    _r["placed"] = _r["id"] not in NOT_PLACED
+    if not _r["placed"]:
+        _r["note"] = (NOT_PLACED[_r["id"]] + " " + _r["note"]).strip()
+
 EMPTY = {"p-c5": "no public-domain depiction found of Odin founding Sigtún",
          "g-c54": "no public-domain depiction found of Gangleri alone on the plain"}
 
 out = {"_note": "Public-domain images mapped to illustration slots (track 1). One record per slot; 'alternatives' lists other candidates seen on Wikimedia Commons. "
                 "Metadata was read from the Commons API; 'checked_by' says who verified the licence basis. file_url is the original upload; the site uses a 1280 px copy stored under images/pd/.",
-       "records": R, "unfilled": EMPTY}
+       "records": R, "unfilled": dict(EMPTY, **{k: v.split(";")[0] for k, v in NOT_PLACED.items()})}
 json.dump(out, open(sys.argv[1], "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print(len(R), "records;", len(EMPTY), "unfilled")

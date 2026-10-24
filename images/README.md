@@ -26,6 +26,8 @@ to be verified against the institution record. The page renders a dashed "Illust
 
 ## records.json (track 1)
 
+A record with `"placed": false` is kept for provenance but not shown in its slot (the build skips it); `note` says why. `generation-briefs.json` / `.md` hold the track-2 briefs (prompt + checklist) for slots that need a generated or commissioned image.
+
 `{"_note": ..., "records": [ ... ], "unfilled": {"<slot id>": "<why no image>"}}`. One record per **slot**
 (chapter); the slot id is `<p>-c<chapter>` (e.g. `g-c1`), which is also the record `id`, so the build can
 look a chapter's image up directly; a second image for the same chapter goes into that record's

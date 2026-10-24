@@ -13,6 +13,7 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 - AI draft English for Háttatal (303 rows) and Skáldskaparmál row `s-c72-8`, as overlays with status `draft`
   (`overlays/en/hattatal-ai-draft.json`, `overlays/en/skaldskaparmal-ai-draft.json`); the draft as produced
   is kept in `auto/en_draft.json`.
-- 42 illustration briefs in `images/scenes.json`; 40 public-domain images mapped in `images/records.json` (Wikimedia Commons provenance, licence basis, alternatives; human check pending) with 1280 px copies in `images/pd/` (re-encoded JPEG, quality 0.78; originals via `file_url`).
+- 42 illustration briefs in `images/scenes.json`; 40 public-domain images mapped in `images/records.json` (Wikimedia Commons provenance, licence basis, alternatives; human check pending; 38 placed, 2 kept as candidates only) with 1280 px copies in `images/pd/` (re-encoded JPEG, quality 0.78; originals via `file_url`).
+- Twelve image-generation briefs (track 2) in `images/generation-briefs.{json,md}`: style prefix, scene prompt, avoid list, must-show checklist.
 - Validator `scripts/validate.py`; documentation in `docs/`.
 - Status: 0 reviewed cells; everything is `source` (Old Norse), `auto` or `draft`.

@@ -22,7 +22,8 @@
    "checked_on": "2026-10-24",
    "caption": "The siege of Troy, Histoire de la destruction de Troye la grand, c. 1495 (BnF, NAF 24920)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "p-c4",
@@ -45,7 +46,8 @@
    "checked_on": "2026-10-24",
    "caption": "Odin on Sleipnir, NKS 1867 4to (1760), Royal Danish Library",
    "note": "Not the migration scene itself; the nearest depiction of Odin travelling in the public-domain corpus.",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c1",
@@ -68,7 +70,8 @@
    "checked_on": "2026-10-24",
    "caption": "Gefjun and King Gylfi, Lorenz Frølich (publ. 1906)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c2",
@@ -91,7 +94,8 @@
    "checked_on": "2026-10-24",
    "caption": "Gangleri before Hár, Jafnhár and Þriði, NKS 1867 4to (1760), Royal Danish Library",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c5",
@@ -114,7 +118,8 @@
    "checked_on": "2026-10-24",
    "caption": "Ymir suckling the cow Auðumbla, Nicolai Abildgaard, 1777 (SMK)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c6",
@@ -137,7 +142,8 @@
    "checked_on": "2026-10-24",
    "caption": "Auðumbla and Búri, NKS 1867 4to (1760), Royal Danish Library",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c8",
@@ -166,7 +172,8 @@
      "artist": "Lorenz Frølich",
      "note": "the killing of Ymir; no date on Commons"
     }
-   ]
+   ],
+   "placed": true
   },
   {
    "id": "g-c9",
@@ -189,7 +196,8 @@
    "checked_on": "2026-10-24",
    "caption": "Odin, Lóðurr and Hœnir create Askr and Embla, Lorenz Frølich (1895)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c11",
@@ -212,7 +220,8 @@
    "checked_on": "2026-10-24",
    "caption": "The Wolves Pursuing Sol and Mani, J. C. Dollman (1909)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c13",
@@ -235,7 +244,8 @@
    "checked_on": "2026-10-24",
    "caption": "Heimdallr on Bifröst, Emil Doepler (c. 1905)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c15",
@@ -269,7 +279,8 @@
      "artist": "Lorenz Frølich",
      "date": "1895"
     }
-   ]
+   ],
+   "placed": true
   },
   {
    "id": "g-c20",
@@ -292,7 +303,8 @@
    "checked_on": "2026-10-24",
    "caption": "Odin with Huginn and Muninn, NKS 1867 4to (1760), Royal Danish Library",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c21",
@@ -315,7 +327,8 @@
    "checked_on": "2026-10-24",
    "caption": "Thor's Fight with the Giants, Mårten Eskil Winge, 1872 (Nationalmuseum)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c23",
@@ -338,7 +351,8 @@
    "checked_on": "2026-10-24",
    "caption": "Njörðr longing for the sea while Skaði sleeps, W. G. Collingwood (1908)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c27",
@@ -361,7 +375,8 @@
    "checked_on": "2026-10-24",
    "caption": "Heimdallr with Gjallarhorn, NKS 1867 4to (1760), Royal Danish Library",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c33",
@@ -384,7 +399,8 @@
    "checked_on": "2026-10-24",
    "caption": "Loki, NKS 1867 4to (1760), Royal Danish Library",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c34",
@@ -407,7 +423,8 @@
    "checked_on": "2026-10-24",
    "caption": "Týr and Fenrir, John Bauer (1911)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c37",
@@ -430,7 +447,8 @@
    "checked_on": "2026-10-24",
    "caption": "Skírnir and Gerðr, Lorenz Frølich (1907)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c38",
@@ -459,7 +477,8 @@
      "artist": "Max Brückner",
      "date": "1896"
     }
-   ]
+   ],
+   "placed": true
   },
   {
    "id": "g-c42",
@@ -488,7 +507,8 @@
      "artist": "Robert Engels",
      "date": "1919"
     }
-   ]
+   ],
+   "placed": true
   },
   {
    "id": "g-c45",
@@ -511,7 +531,8 @@
    "checked_on": "2026-10-24",
    "caption": "Giant Skrýmir and Thor, Louis Huard (Heroes of Asgard, 1891)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c46",
@@ -534,7 +555,8 @@
    "checked_on": "2026-10-24",
    "caption": "Thor wrestling Elli, Lorenz Frølich (1872)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "g-c48",
@@ -573,7 +595,8 @@
      "artist": "Gosforth Cross (10th c.), 1913 reproduction",
      "date": "1913"
     }
-   ]
+   ],
+   "placed": true
   },
   {
    "id": "g-c49",
@@ -607,7 +630,8 @@
      "artist": "John Charles Dollman",
      "date": "1909"
     }
-   ]
+   ],
+   "placed": true
   },
   {
    "id": "g-c50",
@@ -641,7 +665,8 @@
      "artist": "Louis Huard",
      "date": "1891"
     }
-   ]
+   ],
+   "placed": true
   },
   {
    "id": "g-c51",
@@ -675,7 +700,8 @@
      "artist": "Lorenz Frølich",
      "date": "1895"
     }
-   ]
+   ],
+   "placed": true
   },
   {
    "id": "g-c53",
@@ -698,7 +724,8 @@
    "checked_on": "2026-10-24",
    "caption": "After Ragnarök, Emil Doepler (c. 1905)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "s-c2",
@@ -733,7 +760,8 @@
      "artist": "NKS 1867 4to (1760)",
      "note": "Loki striking the eagle Þjazi with the pole; folio not stated on Commons"
     }
-   ]
+   ],
+   "placed": true
   },
   {
    "id": "s-c3",
@@ -755,8 +783,9 @@
    "checked_by": "claude (Commons API metadata check, 2026-10-24); human verification pending",
    "checked_on": "2026-10-24",
    "caption": "Iðunn and the apples, James Doyle Penrose, 1890",
-   "note": "Depicts Iðunn with her apples, not the falcon flight itself.",
-   "alternatives": []
+   "note": "Penrose's painting shows Iðunn handing out apples, not Loki's falcon flight with Þjazi in pursuit; kept as a candidate for the Iðunn chapters, slot left open for a generated image. Depicts Iðunn with her apples, not the falcon flight itself.",
+   "alternatives": [],
+   "placed": false
   },
   {
    "id": "s-c5",
@@ -779,7 +808,8 @@
    "checked_on": "2026-10-24",
    "caption": "Suttungr and the dwarfs Fjalar and Galar, Louis Huard (Heroes of Asgard, 1891)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "s-c6",
@@ -815,7 +845,8 @@
      "date": "1760",
      "note": "Baugi boring the mountain with Rati"
     }
-   ]
+   ],
+   "placed": true
   },
   {
    "id": "s-c24",
@@ -838,7 +869,8 @@
    "checked_on": "2026-10-24",
    "caption": "Thor's duel with Hrungnir, Ludwig Pietsch (1865)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "s-c26",
@@ -861,7 +893,8 @@
    "checked_on": "2026-10-24",
    "caption": "Thor in the river Vimur on the way to Geirröðr, Lorenz Frølich (publ. 1906)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "s-c43",
@@ -884,7 +917,8 @@
    "checked_on": "2026-10-24",
    "caption": "The dwarfs forge Mjöllnir, Elmer Boyd Smith (1902)",
    "note": "Low resolution (446 px); a better scan of the 1902 book would help.",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "s-c46",
@@ -906,8 +940,9 @@
    "checked_by": "claude (Commons API metadata check, 2026-10-24); human verification pending",
    "checked_on": "2026-10-24",
    "caption": "Andvari, Franz Stassen (1914)",
-   "note": "Depicts the dwarf Andvari rather than the ransom scene; source book not stated on Commons.",
-   "alternatives": []
+   "note": "Stassen's 'Andvari' shows the dwarf alone; no otter, no ransom. Kept as a candidate; slot left open for a generated image. Depicts the dwarf Andvari rather than the ransom scene; source book not stated on Commons.",
+   "alternatives": [],
+   "placed": false
   },
   {
    "id": "s-c47",
@@ -930,7 +965,8 @@
    "checked_on": "2026-10-24",
    "caption": "The Sigurd carving on the Ramsund rock (Sö 101), photograph 1928 (Swedish National Heritage Board)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "s-c52",
@@ -953,7 +989,8 @@
    "checked_on": "2026-10-24",
    "caption": "Fenja and Menja at the mill Grótti, Carl Larsson and Gunnar Forssell (1893)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "s-c54",
@@ -987,7 +1024,8 @@
      "artist": "Hugo Hamilton",
      "date": "1830"
     }
-   ]
+   ],
+   "placed": true
   },
   {
    "id": "s-c62",
@@ -1010,7 +1048,8 @@
    "checked_on": "2026-10-24",
    "caption": "The Stora Hammars I picture stone, Gotland (with the Hildr panel), photograph 1933 (Swedish National Heritage Board)",
    "note": "",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   },
   {
    "id": "h-c1",
@@ -1033,11 +1072,14 @@
    "checked_on": "2026-10-24",
    "caption": "King Hákon Hákonarson and Earl Skúli Bárðarson, Flateyjarbók (1387–94)",
    "note": "Commons page carries no source details; the same illumination is commonly reproduced as Hákon and Skúli (or Hákon and his son Magnús).",
-   "alternatives": []
+   "alternatives": [],
+   "placed": true
   }
  ],
  "unfilled": {
   "p-c5": "no public-domain depiction found of Odin founding Sigtún",
-  "g-c54": "no public-domain depiction found of Gangleri alone on the plain"
+  "g-c54": "no public-domain depiction found of Gangleri alone on the plain",
+  "s-c3": "Penrose's painting shows Iðunn handing out apples, not Loki's falcon flight with Þjazi in pursuit",
+  "s-c46": "Stassen's 'Andvari' shows the dwarf alone"
  }
 }
