@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below and credit the source editions named in README.md."
 type: dataset
-title: "Open Snorra Edda: a parallel Old Norse – Icelandic – English dataset"
+title: "Open Edda: a parallel Old Norse – Icelandic – English dataset of Snorri's Edda and the Poetic Edda"
 abstract: >-
   Snorri Sturluson's Edda (Formáli, Gylfaginning, Skáldskaparmál, Háttatal) aligned paragraph by paragraph
   into 1,514 rows: Guðni Jónsson's normalised Old Norse (1954, via heimskringla.no), modern Icelandic spelling
@@ -19,6 +19,7 @@ license: CC-BY-4.0
 repository-code: "https://github.com/<org>/edda-data"
 keywords:
   - Snorra Edda
+  - Poetic Edda
   - Prose Edda
   - Old Norse
   - Icelandic

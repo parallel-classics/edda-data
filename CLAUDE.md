@@ -1,6 +1,6 @@
 # CLAUDE.md — edda-data
 
-Purpose: this repository is the citable dataset of Open Snorra Edda — the source texts, the aligned rows,
+Purpose: this repository is the citable dataset of Open Edda — the source texts, the aligned rows,
 the human corrections (overlays) and the image records. It holds data and one validator, no pipeline.
 The pipeline and the website are in the sibling repository `edda-site` (expected at `../edda-site`).
 

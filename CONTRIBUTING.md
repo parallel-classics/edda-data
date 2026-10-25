@@ -1,6 +1,6 @@
-# Contributing to Open Snorra Edda
+# Contributing to Open Edda
 
-The goal is a free, citable, continually improving Snorra Edda that anyone can read in three texts and that
+The goal is a free, citable, continually improving edition of both Eddas that anyone can read in three texts and that
 Icelanders can correct without learning git. Most of the people who can fix the Icelandic have never opened a
 pull request, so the web page is the primary editor and GitHub is the back office.
 

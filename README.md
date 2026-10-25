@@ -1,4 +1,4 @@
-# edda-data — Open Snorra Edda, the dataset
+# edda-data — Open Edda, the dataset
 
 An open, community-corrected parallel edition of Snorri Sturluson's *Edda* (c. 1220) and of the
 *Poetic Edda* poems he drew on, in three texts: the normalised Old Norse, the text in modern Icelandic
@@ -85,7 +85,7 @@ Standard library only, Python 3.11+. Exits non-zero on any structural error and 
 
 Releases are tagged (`v0.1.0` is the initial import) and will be archived on Zenodo with a DOI.
 
-> Sapunov, G. (2026). *Open Snorra Edda: a parallel Old Norse – Icelandic – English dataset* (v0.1.0).
+> Sapunov, G. (2026). *Open Edda: a parallel Old Norse – Icelandic – English dataset of Snorri's Edda and the Poetic Edda* (v0.1.0).
 > DOI: 10.5281/zenodo.XXXXXXX (placeholder until the first Zenodo release).
 
 Machine-readable citation: `CITATION.cff`. Please also credit the source editions named above
