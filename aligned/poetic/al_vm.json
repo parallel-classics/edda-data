@@ -1,0 +1,3558 @@
+{
+ "part": "poetic",
+ "poem": "vm",
+ "title": "Vafþrúðnismál",
+ "group": "myth",
+ "chapters": [
+  {
+   "num": 3,
+   "key": "vm",
+   "title": "Vafþrúðnismál",
+   "subtitle": null,
+   "group": "myth",
+   "rows": [
+    {
+     "id": "vm-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Ráð þú mér nú, Frigg,",
+        "alls mik fara tíðir",
+        "at vitja Vafþrúðnis;",
+        "forvitni mikla",
+        "kveð ek mér á fornum stöfum",
+        "við þann inn alsvinna jötun.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Ráð þú mér nú, Frigg,",
+        "alls mig fara tíðir",
+        "að vitja Vafþrúðnis;",
+        "forvitni mikla",
+        "kveð eg mér á fornum stöfum",
+        "við þann hinn alsvenna jötun.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Othin spake:",
+        "\"Counsel me, Frigg, | for I long to fare,",
+        "And Vafthruthnir fain would find;",
+        "In wisdom old | with the giant wise",
+        "Myself would I seek to match.\"⟦1⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "p",
+       "s": "Frigg kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Heima letja",
+        "ek mynda Herjaföðr",
+        "í görðum goða;",
+        "því at engi jötun",
+        "ek hugða jafnramman",
+        "sem Vafþrúðni vera.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Frigg kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Heima letja",
+        "eg mun Herjaföður",
+        "í görðum goða;",
+        "því að enginn jötun",
+        "eg hugði jafnramman",
+        "sem Vafþrúðni vera.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Frigg spake:",
+        "\"Heerfather here | at home would I keep,",
+        "Where the gods together dwell;",
+        "Amid all the giants | an equal in might",
+        "To Vafthruthnir know I none.\"⟦2⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Fjölð ek fór,",
+        "fjölð ek freistaða,",
+        "fjölð ek reynda regin;",
+        "hitt vil ek vita,",
+        "hvé Vafþrúðnis",
+        "salakynni sé.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Fjölð eg fór,",
+        "fjölð eg freistaða,",
+        "fjölð eg reynda regin;",
+        "hitt vil eg vita,",
+        "hve Vafþrúðnis",
+        "salakynni sé.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Othin spake:",
+        "\"Much have I fared, | much have I found,",
+        "Much have I got from the gods;",
+        "And fain would I know | how Vafthruthnir now",
+        "Lives in his lofty hall.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "p",
+       "s": "Frigg kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Heill þú farir!",
+        "heill þú aftr komir!",
+        "heill þú á sinnum sér!",
+        "æði þér dugi,",
+        "hvars þú skalt, Aldaföðr,",
+        "orðum mæla jötun."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Frigg kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Heill þú farir!",
+        "heill þú aftur komir!",
+        "heill þú á sinnum sér!",
+        "æði þér dugi,",
+        "hvars þú skalt, Aldaföður,",
+        "orðum mæla jötun."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Frigg spake:",
+        "\"Safe mayst thou go, | safe come again,",
+        "And safe be the way thou wendest!",
+        "Father of men, | let thy mind be keen",
+        "When speech with the giant thou seekest.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Fór þá Óðinn",
+        "at freista orðspeki",
+        "þess ins alsvinna jötuns;",
+        "at höllu hann kom,",
+        "ok átti Íms faðir;",
+        "inn gekk Yggr þegar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Fór þá Óðinn",
+        "að freista orðspeki",
+        "þess hins alsvenna jötuns;",
+        "að höllu hann kom,",
+        "og átti Íms faðir;",
+        "hinn gekk Yggur þegar."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "The wisdom then | of the giant wise",
+        "Forth did he fare to try;",
+        "He found the hall | of the father of Im,",
+        "And in forthwith went Ygg.⟦5⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Heill þú nú, Vafþrúðnir,",
+        "nú em ek í höll kominn",
+        "á þik sjalfan sjá;",
+        "hitt vil ek fyrst vita,",
+        "ef þú fróðr sér",
+        "eða alsviðr jötunn.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Heill þú nú, Vafþrúðnir,",
+        "nú em eg í höll kominn",
+        "á þig sjálfan sjá;",
+        "hitt vil eg fyrst vita,",
+        "ef þú fróður sér",
+        "eða alsvinnur jötunn.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Othin spake:",
+        "\"Vafthruthnir, hail! | to thy hall am I come,",
+        "For thyself I fain would see;",
+        "And first would I ask | if wise thou art,",
+        "Or, giant, all wisdom hast won.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Hvat er þat manna",
+        "er í mínum sal",
+        "verpumk orði á?",
+        "Út þú né komir",
+        "órum höllum frá,",
+        "nema þú inn snotrari sér.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Hvað er það manna",
+        "er í mínum sal",
+        "verpumk orði á?",
+        "Út þú né komir",
+        "órum höllum frá,",
+        "nema þú hinn snotrari sér.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"Who is the man | that speaks to me,",
+        "Here in my lofty hall?",
+        "Forth from our dwelling | thou never shalt fare,",
+        "Unless wiser than I thou art.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Gagnráðr ek heiti,",
+        "nú emk af göngu kominn,",
+        "þyrstr til þinna sala;",
+        "laðar þurfi -",
+        "hef ek lengi farit -",
+        "ok þinna andfanga, jötunn.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Gagnráður eg heiti,",
+        "nú emk af göngu kominn,",
+        "þyrstur til þinna sala;",
+        "laðar þurfi -",
+        "hef eg lengi farið -",
+        "og þinna andfanga, jötunn.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Othin spake:",
+        "\"Gagnrath they call me, | and thirsty I come",
+        "From a journey hard to thy hall;",
+        "Welcome I look for, | for long have I fared,",
+        "And gentle greeting, giant.\"⟦8⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Hví þú þá, Gagnráðr,",
+        "mælisk af golfi fyr?",
+        "Far þú í sess í sal!",
+        "Þá skal freista,",
+        "hvárr fleira viti,",
+        "gestr eða inn gamli þulr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Hví þú þá, Gagnráður,",
+        "mælist af golfi fyr?",
+        "Far þú í sess í sal!",
+        "Þá skal freista,",
+        "hvor fleira viti,",
+        "gestur eða hinn gamli þulur.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"Why standest thou there | on the floor whilst thou speakest?",
+        "A seat shalt thou have in my hall;",
+        "Then soon shall we know | whose knowledge is more,",
+        "The guest's or the sage's gray.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Óauðigr maðr,",
+        "er til auðigs kemr,",
+        "mæli þarft eða þegi;",
+        "ofrmælgi mikil,",
+        "hygg ek, at illa geti",
+        "hveim er við kaldrifjaðan kemr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Óauðigur maður,",
+        "er til auðigs kemur,",
+        "mæli þarft eða þegi;",
+        "ofrmælgi mikil,",
+        "hygg eg, að illa geti",
+        "hveim er við kaldrifjaðan kemur.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Othin spake:",
+        "\"If a poor man reaches | the home of the rich,",
+        "Let him wisely speak or be still;",
+        "For to him who speaks | with the hard of heart",
+        "Will chattering ever work ill.\"⟦10⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Seg þú mér, Gagnráðr,",
+        "alls þú á golfi vill",
+        "þíns of freista frama,",
+        "hvé sá hestr heitir,",
+        "er hverjan dregr",
+        "dag of dróttmögu.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Seg þú mér, Gagnráður,",
+        "alls þú á golfi vill",
+        "þíns of freista frama,",
+        "hve sá hestur heitir,",
+        "er hverjan dregur",
+        "dag of dróttmögu.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"Speak forth now, Gagnrath, | if there from the floor",
+        "Thou wouldst thy wisdom make known:",
+        "What name has the steed | that each morn anew",
+        "The day for mankind doth draw?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Skinfaxi heitir,",
+        "er inn skíra dregr",
+        "dag of dróttmögu;",
+        "hesta beztr",
+        "þykkir hann með Hreiðgotum;",
+        "ey lýsir mön af mari.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Skinfaxi heitir,",
+        "er hinn skíra dregur",
+        "dag of dróttmögu;",
+        "hesta bestur",
+        "þykir hann með Hreiðgotum;",
+        "ey lýsir mön af mari.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Othin spake:",
+        "\"Skinfaxi is he, | the steed who for men",
+        "The glittering day doth draw;",
+        "The best of horses | to heroes he seems,",
+        "And brightly his mane doth burn.\"⟦12⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Seg þú þat, Gagnráðr,",
+        "alls þú á golfi vill",
+        "þíns of freista frama,",
+        "hvé sá jór heitir,",
+        "er austan dregr",
+        "nótt of nýt regin.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Seg þú það, Gagnráður,",
+        "alls þú á golfi vill",
+        "þíns of freista frama,",
+        "hve sá jór heitir,",
+        "er austan dregur",
+        "nótt of nýt regin.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"Speak forth now, Gagnrath, | if there from the floor",
+        "Thou wouldst thy wisdom make known:",
+        "What name has the steed | that from East anew",
+        "Brings night for the noble gods?\"⟦13⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Hrímfaxi heitir,",
+        "er hverja dregr",
+        "nótt of nýt regin;",
+        "méldropa fellir hann",
+        "morgin hvern;",
+        "þaðan kemr dögg um dala.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Hrímfaxi heitir,",
+        "er hverja dregur",
+        "nótt of nýt regin;",
+        "méldropa fellir hann",
+        "morgun hvern;",
+        "þaðan kemur dögg um dala.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Othin spake:",
+        "\"Hrimfaxi name they | the steed that anew",
+        "Brings night for the noble gods;",
+        "Each morning foam | from his bit there falls,",
+        "And thence come the dews in the dales.\"⟦14⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Seg þú þat, Gagnráðr,",
+        "alls þú á golfi vill",
+        "þíns of freista frama,",
+        "hvé sú á heitir,",
+        "er deilir með jötna sonum",
+        "grund ok með goðum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Seg þú það, Gagnráður,",
+        "alls þú á golfi vill",
+        "þíns of freista frama,",
+        "hve sú á heitir,",
+        "er deilir með jötna sonum",
+        "grund og með goðum.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"Speak forth now, Gagnrath, | if there from the floor",
+        "Thou wouldst thy wisdom make known:",
+        "What name has the river | that 'twixt the realms",
+        "Of the gods and the giants goes?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      15
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Ífing heitir á,",
+        "er deilir með jötna sonum",
+        "grund ok með goðum;",
+        "opin renna",
+        "hon skal of aldrdaga;",
+        "verðr-at íss á á.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Ífing heitir á,",
+        "er deilir með jötna sonum",
+        "grund og með goðum;",
+        "opin renna",
+        "hún skal of aldurdaga;",
+        "verðr-at ís á á.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Othin spake:",
+        "\"Ifing is the river | that 'twixt the realms",
+        "Of the gods and the giants goes;",
+        "For all time ever | open it flows,",
+        "No ice on the river there is.\"⟦16⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      16
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Seg þú þat, Gagnráðr,",
+        "alls þú á golfi vill",
+        "þíns of freista frama,",
+        "hvé sá völlr heitir,",
+        "er finnask vígi at",
+        "Surtr ok in svásu goð.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Seg þú það, Gagnráður,",
+        "alls þú á golfi vill",
+        "þíns of freista frama,",
+        "hve sá völlur heitir,",
+        "er finnast vígi að",
+        "Surtur og hin svásu guð.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"Speak forth now, Gagnrath, | if there from the floor",
+        "Thou wouldst thy wisdom make known:",
+        "What name has the field | where in fight shall meet",
+        "Surt and the gracious gods?\"⟦17⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      17
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Vígriðr heitir völlr,",
+        "er finnask vígi at",
+        "Surtr ok in svásu goð;",
+        "hundrað rasta",
+        "hann er á hverjan veg;",
+        "sá er þeim völlr vitaðr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Vígriður heitir völlur,",
+        "er finnast vígi að",
+        "Surtur og hin svásu guð;",
+        "hundrað rasta",
+        "hann er á hverjan veg;",
+        "sá er þeim völlur vitaður.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Othin spake:",
+        "\"Vigrith is the field | where in fight shall meet",
+        "Surt and the gracious gods;",
+        "A hundred miles | each way does it measure.",
+        "And so are its boundaries set.\"⟦18⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      18
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c51-16"
+     ]
+    },
+    {
+     "id": "vm-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Fróðr ertu nú, gestr,",
+        "far þú á bekk jötuns,",
+        "ok mælumk í sessi saman;",
+        "höfði veðja",
+        "vit skulum höllu í,",
+        "gestr, of geðspeki."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Fróður ertu nú, gestur,",
+        "far þú á bekk jötuns,",
+        "og mælumk í sessi saman;",
+        "höfði veðja",
+        "vit skulum höllu í,",
+        "gestur, of geðspeki."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"Wise art thou, guest! | To my bench shalt thou go,",
+        "In our seats let us speak together;",
+        "Here in the hall | our heads, O guest,",
+        "Shall we wager our wisdom upon.\"⟦19⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Seg þú þat it eina,",
+        "ef þitt æði dugir",
+        "ok þú, Vafþrúðnir, vitir,",
+        "hvaðan jörð of kom",
+        "eða upphiminn",
+        "fyrst, inn fróði jötunn.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Seg þú það it eina,",
+        "ef þitt æði dugir",
+        "og þú, Vafþrúðnir, vitir,",
+        "hvaðan jörð of kom",
+        "eða upphiminn",
+        "fyrst, hinn fróði jötunn.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Othin spake:",
+        "\"First answer me well, | if thy wisdom avails,",
+        "And thou knowest it, Vafthruthnir, now:",
+        "In earliest time | whence came the earth,",
+        "Or the sky, thou giant sage?\"⟦20⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      20
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Ór Ymis holdi",
+        "var jörð of sköpuð,",
+        "en ór beinum björg,",
+        "himinn ór hausi",
+        "ins hrímkalda jötuns,",
+        "en ór sveita sær.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Úr Ýmis holdi",
+        "var jörð of sköpuð,",
+        "en úr beinum björg,",
+        "himinn úr hausi",
+        "hins hrímkalda jötuns,",
+        "en úr sveita sær.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"Out of Ymir's flesh | was fashioned the earth,",
+        "And the mountains were made of his bones;",
+        "The sky from the frost-cold | giant's skull,",
+        "And the ocean out of his blood.\"⟦21⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      21
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Seg þú þat annat,",
+        "ef þitt æði dugir",
+        "ok þú, Vafþrúðnir, vitir,",
+        "hvaðan máni kom,",
+        "sá er ferr menn yfir,",
+        "eða sól it sama.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Seg þú það annað,",
+        "ef þitt æði dugir",
+        "og þú, Vafþrúðnir, vitir,",
+        "hvaðan máni kom,",
+        "sá er fer menn yfir,",
+        "eða sól it sama.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Othin spake:",
+        "\"Next answer me well, | if thy wisdom avails,",
+        "And thou knowest it, Vafthruthnir, now:",
+        "Whence came the moon, | o'er the world of men",
+        "That fares, and the flaming sun?\"⟦22⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      22
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Mundilfari heitir,",
+        "hann er mána faðir",
+        "ok svá Sólar it sama;",
+        "himin hverfa",
+        "þau skulu hverjan dag",
+        "öldum at ártali.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Mundilfari heitir,",
+        "hann er mána faðir",
+        "og svo Sólar it sama;",
+        "himin hverfa",
+        "þau skulu hverjan dag",
+        "öldum að ártali.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"Mundilferi is he | who begat the moon,",
+        "And fathered the flaming sun;",
+        "The round of heaven | each day they run,",
+        "To tell the time for men.\"⟦23⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      23
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Seg þú þat it þriðja,",
+        "alls þik svinnan kveða",
+        "ok þú, Vafþrúðnir, vitir,",
+        "hvaðan dagr of kom,",
+        "sá er ferr drótt yfir,",
+        "eða nótt með niðum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Seg þú það it þriðja,",
+        "alls þig svinnan kveða",
+        "og þú, Vafþrúðnir, vitir,",
+        "hvaðan dagur of kom,",
+        "sá er fer drótt yfir,",
+        "eða nótt með niðum.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Othin spake:",
+        "\"Third answer me well, | if wise thou art called,",
+        "If thou knowest it, Vafthruthnir, now:",
+        "Whence came the day, | o'er mankind that fares,",
+        "Or night with the narrowing moon?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      24
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Dellingr heitir,",
+        "hann er Dags faðir,",
+        "en Nótt var Nörvi borin;",
+        "ný ok nið",
+        "skópu nýt regin",
+        "öldum at ártali.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Dellingur heitir,",
+        "hann er Dags faðir,",
+        "en Nótt var Nörvi borin;",
+        "ný og nið",
+        "skópu nýt regin",
+        "öldum að ártali.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"The father of day | is Delling called,",
+        "And the night was begotten by Nor;",
+        "Full moon and old | by the gods were fashioned,",
+        "To tell the time for men.\"⟦25⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      25
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Seg þú þat it fjórða,",
+        "alls þik fróðan kveða,",
+        "ok þú, Vafþrúðnir, vitir,",
+        "hvaðan vetr of kom",
+        "eða varmt sumar",
+        "fyrst með fróð regin.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Seg þú það it fjórða,",
+        "alls þig fróðan kveða,",
+        "og þú, Vafþrúðnir, vitir,",
+        "hvaðan vetur of kom",
+        "eða varmt sumar",
+        "fyrst með fróð regin.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Othin spake:",
+        "\"Fourth answer me well, | if wise thou art called,",
+        "If thou knowest it, Vafthruthnir, now:",
+        "Whence did winter come, | or the summer warm,",
+        "First with the gracious gods?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      26
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Vindsvalr heitir,",
+        "hann er Vetrar faðir,",
+        "en Svásuðr sumars.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Vindsvalur heitir,",
+        "hann er Vetrar faðir,",
+        "en Svásuður sumars.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"Vindsval he was | who was winter's father,",
+        "And Svosuth summer begat;\"",
+        "................",
+        "..............⟦27⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      27
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s28",
+     "stanza": 28,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Seg þú þat it fimmta,",
+        "alls þik fróðan kveða,",
+        "ok þú, Vafþrúðnir, vitir,",
+        "hverr ása ellztr",
+        "eða Ymis niðja",
+        "yrði í árdaga.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Seg þú það it fimmta,",
+        "alls þig fróðan kveða,",
+        "og þú, Vafþrúðnir, vitir,",
+        "hver ása ellstur",
+        "eða Ýmis niðja",
+        "yrðu í árdaga.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Othin spake:",
+        "\"Fifth answer me well, | if wise thou art called,",
+        "If thou knowest it, Vafthruthnir, now:",
+        "What giant first | was fashioned of old,",
+        "And the eldest of Ymir's kin?\"⟦28⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      28
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s29",
+     "stanza": 29,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Örófi vetra",
+        "áðr væri jörð of sköpuð,",
+        "þá var Bergelmir borinn,",
+        "Þrúðgelmir",
+        "var þess faðir,",
+        "en Aurgelmir afi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Örófi vetra",
+        "áður væri jörð of sköpuð,",
+        "þá var Bergelmir borinn,",
+        "Þrúðgelmir",
+        "var þess faðir,",
+        "en Aurgelmir afi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"Winters unmeasured | ere earth was made",
+        "Was the birth of Bergelmir;",
+        "Thruthgelmir's son | was the giant strong,",
+        "And Aurgelmir's grandson of old.\"⟦29⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      29
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s30",
+     "stanza": 30,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"Seg þú þat it sétta,",
+        "alls þik svinnan kveða,",
+        "ok þú, Vafþrúðnir, vitir,",
+        "hvaðan Aurgelmir kom",
+        "með jötna sonum",
+        "fyrst, inn fróði jötunn.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"Seg þú það it sjötta,",
+        "alls þig svinnan kveða,",
+        "og þú, Vafþrúðnir, vitir,",
+        "hvaðan Aurgelmir kom",
+        "með jötna sonum",
+        "fyrst, hinn fróði jötunn.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Othin spake:",
+        "\"Sixth answer me well, | if wise thou art called,",
+        "If thou knowest it, Vafthruthnir, now:",
+        "Whence did Aurgelmir come | with the giants' kin,",
+        "Long since, thou giant sage?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      30
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s31",
+     "stanza": 31,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Ór Élivágum",
+        "stukku eitrdropar,",
+        "svá óx, unz varð jötunn;",
+        "þar eru órar ættir",
+        "komnar allar saman;",
+        "því er þat æ allt til atalt.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Úr Élivogum",
+        "stukku eiturdropar,",
+        "svo óx, uns varð jötunn;",
+        "þar eru órar ættir",
+        "komnar allar saman;",
+        "því er það æ allt til atalt.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"Down from Elivagar | did venom drop,",
+        "And waxed till a giant it was;",
+        "And thence arose | our giants' race,",
+        "And thus so fierce are we found.\"⟦31⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      31
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c5-7"
+     ]
+    },
+    {
+     "id": "vm-s32",
+     "stanza": 32,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Seg þú þat it sjaunda,",
+        "alls þik svinnan kveða,",
+        "ok þú, Vafþrúðnir, vitir,",
+        "hvé sá börn gat,",
+        "inn baldni jötunn,",
+        "er hann hafði-t gýgjar gaman.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Seg þú það it sjöunda,",
+        "alls þig svinnan kveða,",
+        "og þú, Vafþrúðnir, vitir,",
+        "hve sá börn gat,",
+        "hinn baldni jötunn,",
+        "er hann hafði-t gýgjar gaman.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Othin spake:",
+        "\"Seventh answer me well, | if wise thou art called,",
+        "If thou knowest it, Vafthruthnir, now:",
+        "How begat he children, | the giant grim,",
+        "Who never a giantess knew?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      32
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s33",
+     "stanza": 33,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Undir hendi vaxa",
+        "kváðu hrímþursi",
+        "mey ok mög saman;",
+        "fótr við fæti",
+        "gat ins fróða jötuns",
+        "sexhöfðaðan son.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Undir hendi vaxa",
+        "kváðu hrímþursi",
+        "mey og mög saman;",
+        "fótur við fæti",
+        "gat hins fróða jötuns",
+        "sexhöfðaðan son.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"They say 'neath the arms | of the giant of ice",
+        "Grew man-child and maid together;",
+        "And foot with foot | did the wise one fashion",
+        "A son that six heads bore.\"⟦33⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      33
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s34",
+     "stanza": 34,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Seg þú þat it átta,",
+        "alls þik svinnan kveða,",
+        "ok þú, Vafþrúðnir, vitir,",
+        "hvat þú fyrst of mant",
+        "eða fremst of veizt,",
+        "þú ert alsviðr, jötunn.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Seg þú það it átta,",
+        "alls þig svinnan kveða,",
+        "og þú, Vafþrúðnir, vitir,",
+        "hvað þú fyrst of mant",
+        "eða fremst of veist,",
+        "þú ert alsvinnur, jötunn.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Othin spake:",
+        "\"Eighth answer me well, | if wise thou art called,",
+        "If thou knowest it, Vafthruthnir, now:",
+        "What farthest back | dost thou bear in mind?",
+        "For wide is thy wisdom, giant!\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      34
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s35",
+     "stanza": 35,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Örófi vetra",
+        "áðr væri jörð of sköpuð,",
+        "þá var Bergelmir borinn;",
+        "þat ek fyrst of man,",
+        "er sá inn fróði jötunn",
+        "á var lúðr of lagiðr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Örófi vetra",
+        "áður væri jörð of sköpuð,",
+        "þá var Bergelmir borinn;",
+        "það eg fyrst of man,",
+        "er sá hinn fróði jötunn",
+        "á var lúður of lagður.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"Winters unmeasured | ere earth was made",
+        "Was the birth of Bergelmir;",
+        "This first knew I well, | when the giant wise",
+        "In a boat of old was borne.\"⟦35⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      35
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c7-3"
+     ]
+    },
+    {
+     "id": "vm-s36",
+     "stanza": 36,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "\"Seg þú þat it níunda,",
+        "alls þik svinnan kveða,",
+        "ok þú, Vafþrúðnir, vitir,",
+        "hvaðan vindr of kemr,",
+        "svá at ferr vág yfir;",
+        "æ menn han sjalfan of sjá.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "\"Seg þú það it níunda,",
+        "alls þig svinnan kveða,",
+        "og þú, Vafþrúðnir, vitir,",
+        "hvaðan vindur of kemur,",
+        "svo að fer vág yfir;",
+        "æ menn han sjálfan of sjá.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Othin spake:",
+        "\"Ninth answer me well, | if wise thou art called,",
+        "If thou knowest it, Vafthruthnir, now:",
+        "Whence comes the wind | that fares o'er the waves",
+        "Yet never itself is seen?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      36
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s37",
+     "stanza": 37,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Hræsvelgr heitir,",
+        "er sitr á himins enda,",
+        "jötunn í arnar ham;",
+        "af hans vængjum",
+        "kvæða vind koma",
+        "alla menn yfir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Hræsvelgur heitir,",
+        "er situr á himins enda,",
+        "jötunn í arnarham ham;",
+        "af hans vængjum",
+        "kvæða vind koma",
+        "alla menn yfir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"In an eagle's guise | at the end of heaven",
+        "Hræsvelg sits, they say;",
+        "And from his wings | does the wind come forth",
+        "To move o'er the world of men.\"⟦37⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      37
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c18-3"
+     ]
+    },
+    {
+     "id": "vm-s38",
+     "stanza": 38,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "\"Seg þú þat it tíunda,",
+        "alls þú tíva rök",
+        "öll, Vafþrúðnir, vitir,",
+        "hvaðan Njörðr of kom",
+        "með ása sonum -",
+        "hofum ok hörgum",
+        "hann ræðr hundmörgum -",
+        "ok varð-at hann ásum alinn.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "\"Seg þú það it tíunda,",
+        "alls þú tíva rög",
+        "öll, Vafþrúðnir, vitir,",
+        "hvaðan Njörður of kom",
+        "með ása sonum -",
+        "hofum og hörgum",
+        "hann ræður hundmörgum -",
+        "og varð-at hann ásum alinn.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Othin spake:",
+        "\"Tenth answer me now, | if thou knowest all",
+        "The fate that is fixed for the gods:",
+        "Whence came up Njorth | to the kin of the gods,—",
+        "(Rich in temples | and shrines he rules,—)",
+        "Though of gods he was never begot?\"⟦38⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      38
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s39",
+     "stanza": 39,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Í Vanaheimi",
+        "skópu hann vís regin",
+        "ok seldu at gíslingu goðum,",
+        "í aldar rök",
+        "hann mun aftr koma",
+        "heim með vísum vönum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Í Vanaheimum",
+        "skópu hann vís regin",
+        "og seldu að gíslingu goðum,",
+        "í aldar rög",
+        "hann mun aftur koma",
+        "heim með vísum vönum.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"In the home of the Wanes | did the wise ones create him,",
+        "And gave him as pledge to the gods;",
+        "At the fall of the world | shall he fare once more",
+        "Home to the Wanes so wise.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      39
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s40",
+     "stanza": 40,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "\"Seg þú þat et ellifta,",
+        "hvar ýtar túnum í",
+        "höggvask hverjan dag;",
+        "val þeir kjósa",
+        "ok ríða vígi frá,",
+        "sitja meir of sáttir saman.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "\"Seg þú það et ellefta,",
+        "hvar ýtar túnum í",
+        "höggvast hverjan dag;",
+        "val þeir kjósa",
+        "og ríða vígi frá,",
+        "sitja meir of sáttir saman.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Othin spake:",
+        "\"Eleventh answer me well, | .......",
+        "............",
+        "What men...... | in......home",
+        "Each day to fight go forth?\"⟦40⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      40
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s41",
+     "stanza": 41,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Allir einherjar",
+        "Óðins túnum í",
+        "höggvask hverjan dag,",
+        "val þeir kjósa",
+        "ok ríða vígi frá,",
+        "sitja meirr of sáttir saman.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Allir einherjar",
+        "Óðins túnum í",
+        "höggvast hverjan dag,",
+        "val þeir kjósa",
+        "og ríða vígi frá,",
+        "sitja meir of sáttir saman.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"The heroes all | in Othin's hall",
+        "Each day to fight go forth;",
+        "They fell each other, | and fare from the fight",
+        "All healed full soon to sit.\"⟦41⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      41
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c41-3"
+     ]
+    },
+    {
+     "id": "vm-s42",
+     "stanza": 42,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "\"Seg þú þat it tolfta,",
+        "hví þú tíva rök",
+        "öll, Vafþrúðnir, vitir,",
+        "frá jötna rúnum",
+        "ok allra goða",
+        "segir þú it sannasta,",
+        "inn alsvinni jötunn.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "\"Seg þú það it tolfta,",
+        "hví þú tíva rög",
+        "öll, Vafþrúðnir, vitir,",
+        "frá jötna rúnum",
+        "og allra goða",
+        "segir þú it sannasta,",
+        "hinn alsvinni jötunn.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "Othin spake:",
+        "\"Twelfth answer me now | how all thou knowest",
+        "Of the fate that is fixed for the gods;",
+        "Of the runes of the gods | and the giants' race",
+        "The truth indeed dost thou tell,",
+        "(And wide is thy wisdom, giant!)\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      42
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s43",
+     "stanza": 43,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "\"Frá jötna rúnum",
+        "ok allra goða",
+        "ek kann segja satt,",
+        "því at hvern hef ek",
+        "heim of komit;",
+        "níu kom ek heima",
+        "fyr Niflhel neðan;",
+        "hinig deyja ór helju halir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "\"Frá jötna rúnum",
+        "og allra goða",
+        "eg kann segja satt,",
+        "því að hvern hef eg",
+        "heim of komið;",
+        "níu kom eg heima",
+        "fyr Niflhel neðan;",
+        "hinig deyja úr Helju halir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"Of the runes of the gods | and the giants' race",
+        "The truth indeed can I tell,",
+        "(For to every world have I won;)",
+        "To nine worlds came I, | to Niflhel beneath,",
+        "The home where dead men dwell.\"⟦43⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      43
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s44",
+     "stanza": 44,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "\"Fjölð ek fór,",
+        "fjölð ek freistaðak,",
+        "fjölð ek of reynda regin:",
+        "Hvat lifir manna,",
+        "þá er inn mæra líðr",
+        "fimbulvetr með firum?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "\"Fjölð eg fór,",
+        "fjölð eg freistaðak,",
+        "fjölð eg of reynda regin:",
+        "Hvað lifir manna,",
+        "þá er hinn mæra líður",
+        "Fimbulvetur með firum?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "Othin spake:",
+        "\"Much have I fared, | much have I found,",
+        "Much have I got of the gods:",
+        "What shall live of mankind | when at last there comes",
+        "The mighty winter to men?\"⟦44⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      44
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s45",
+     "stanza": 45,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "\"Líf ok Lifþrasir,",
+        "en þau leynask munu",
+        "í holti Hoddmímis;",
+        "morgindöggvar",
+        "þau sér at mat hafa,",
+        "en þaðan af aldir alask.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "\"Líf og Lifþrasir,",
+        "en þau leynast munu",
+        "í holti Hoddmímis;",
+        "morgundöggvar",
+        "þau sér að mat hafa,",
+        "en þaðan af aldir alast.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"In Hoddmimir's wood | shall hide themselves",
+        "Lif and Lifthrasir then;",
+        "The morning dews | for meat shall they have,",
+        "Such food shall men then find.\"⟦45⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      45
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c53-5"
+     ]
+    },
+    {
+     "id": "vm-s46",
+     "stanza": 46,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "\"Fjölð ek fór,",
+        "fjölð ek freistaðak,",
+        "fjölð ek of reynda regin:",
+        "Hvaðan kemr sól",
+        "á inn slétta himin,",
+        "er þessa hefr fenrir farit?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "\"Fjölð eg fór,",
+        "fjölð eg freistaðak,",
+        "fjölð eg of reynda regin:",
+        "Hvaðan kemur sól",
+        "á hinn slétta himin,",
+        "er þessa hefur Fenrir farið?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "Othin spake:",
+        "\"Much have I fared, | much have I found,",
+        "Much have I got of the gods:",
+        "Whence comes the sun | to the smooth sky back,",
+        "When Fenrir has snatched it forth?\"⟦46⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      46
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s47",
+     "stanza": 47,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "\"Eina dóttur",
+        "berr alfröðull,",
+        "áðr hana fenrir fari;",
+        "sú skal ríða,",
+        "þá er regin deyja,",
+        "móður brautir, mær.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "\"Eina dóttur",
+        "ber Álfröðull,",
+        "áður hana Fenrir fari;",
+        "sú skal ríða,",
+        "þá er regin deyja,",
+        "móður brautir, mær.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"A daughter bright | Alfrothul bears",
+        "Ere Fenrir snatches her forth;",
+        "Her mother's paths | shall the maiden tread",
+        "When the gods to death have gone.\"⟦47⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      47
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c53-7"
+     ]
+    },
+    {
+     "id": "vm-s48",
+     "stanza": 48,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "\"Fjölð ek fór,",
+        "fjölð ek freistaðak,",
+        "fjölð ek of reynda regin:",
+        "Hverjar ro þær meyjar,",
+        "er líða mar yfir,",
+        "fróðgeðjaðar fara?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "\"Fjölð eg fór,",
+        "fjölð eg freistaðak,",
+        "fjölð eg of reynda regin:",
+        "Hverjar ro þær meyjar,",
+        "er líða mar yfir,",
+        "fróðgeðjaðar fara?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "Othin spake:",
+        "\"Much have I fared, | much have I found,",
+        "Much have I got of the gods:",
+        "What maidens are they, | so wise of mind.",
+        "That forth o'er the sea shall fare?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      48
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s49",
+     "stanza": 49,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "\"Þríar þjóðár",
+        "falla þorp yfir",
+        "meyja Mögþrasis;",
+        "hamingjur einar",
+        "þær er í heimi eru,",
+        "þó þær með jötnum alask.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "\"Þríar þjóðár",
+        "falla þorp yfir",
+        "meyja Mögþrasis;",
+        "hamingjur einar",
+        "þær er í heimi eru,",
+        "þó þær með jötnum alast.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"O'er Mogthrasir's hill | shall the maidens pass,",
+        "And three are their throngs that come;",
+        "They all shall protect | the dwellers on earth,",
+        "Though they come of the giants' kin.\"⟦49⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      49
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s50",
+     "stanza": 50,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "\"Fjölð ek fór,",
+        "fjölð ek freistaðak,",
+        "fjölð ek of reynda regin:",
+        "Hverir ráða æsir",
+        "eignum goða,",
+        "þá er sloknar Surta logi?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "\"Fjölð eg fór,",
+        "fjölð eg freistaðak,",
+        "fjölð eg of reynda regin:",
+        "Hverjir ráða æsir",
+        "eignum goða,",
+        "þá er sloknar Surta logi?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "Othin spake:",
+        "\"Much have I fared, | much have I found,",
+        "Much have I got of the gods:",
+        "Who then shall rule | the realm of the gods,",
+        "When the fires of Surt have sunk?\"⟦50⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      50
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s51",
+     "stanza": 51,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "\"Víðarr ok Váli",
+        "byggja vé goða,",
+        "þá er sloknar Surta logi,",
+        "Móði ok Magni",
+        "skulu Mjöllni hafa",
+        "Vingnis at vígþroti.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "\"Víðar og Váli",
+        "byggja vé goða,",
+        "þá er sloknar Surta logi,",
+        "Móði og Magni",
+        "skulu Mjöllni hafa",
+        "Vingnis að vígþroti.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"In the gods' home Vithar | and Vali shall dwell,",
+        "When the fires of Surt have sunk;",
+        "Mothi and Magni | shall Mjollnir have",
+        "When Vingnir falls in fight.\"⟦51⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      51
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c53-3"
+     ]
+    },
+    {
+     "id": "vm-s52",
+     "stanza": 52,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "\"Fjölð ek fór,",
+        "fjölð ek freistaðak,",
+        "fjölð ek of reynda regin;",
+        "Hvat verðr Óðni",
+        "at aldrlagi,",
+        "þá er of rjúfask regin?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "\"Fjölð eg fór,",
+        "fjölð eg freistaðak,",
+        "fjölð eg of reynda regin;",
+        "Hvað verður Óðni",
+        "að aldrlagi,",
+        "þá er of rjúfast regin?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "Othin spake:",
+        "\"Much have I fared, | much have I found,",
+        "Much have I got of the gods:",
+        "What shall bring the doom | of death to Othin,",
+        "When the gods to destruction go?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      52
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s53",
+     "stanza": 53,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "\"Ulfr gleypa",
+        "mun Aldaföðr,",
+        "þess mun Víðarr vreka;",
+        "kalda kjafta",
+        "hann klyfja mun",
+        "vitnis vígi at.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "\"Ulfur gleypa",
+        "mun Aldaföður,",
+        "þess mun Víðar vreka;",
+        "kalda kjafta",
+        "hann klyfja mun",
+        "vitnis vígi að.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"The wolf shall fell | the father of men,",
+        "And this shall Vithar avenge;",
+        "The terrible jaws | shall he tear apart,",
+        "And so the wolf shall he slay.\"⟦53⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      53
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s54",
+     "stanza": 54,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "\"Fjölð ek fór,",
+        "fjölð ek freistaðak,",
+        "fjölð ek of reynda regin;",
+        "Hvat mælti Óðinn,",
+        "áðr á bál stigi,",
+        "sjalfr í eyra syni?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "\"Fjölð eg fór,",
+        "fjölð eg freistaðak,",
+        "fjölð eg of reynda regin;",
+        "Hvað mælti Óðinn,",
+        "áður á bál stigi,",
+        "sjalfur í eyra syni?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "Othin spake:",
+        "\"Much have I fared, | much have I found,",
+        "Much have I got from the gods:",
+        "What spake Othin himself | in the ears of his son,",
+        "Ere in the bale-fire he burned?\"⟦54⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      54
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vm-s55",
+     "stanza": 55,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "\"Ey manni þat veit,",
+        "hvat þú í árdaga",
+        "sagðir í eyra syni;",
+        "feigum munni",
+        "mælta ek mína forna stafi",
+        "ok of ragnarök.",
+        "Nú ek við Óðin",
+        "deildak mína orðspeki;",
+        "þú ert æ vísastr vera.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vafþrúðnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "\"Ey manni það veit,",
+        "hvað þú í árdaga",
+        "sagðir í eyra syni;",
+        "feigum munni",
+        "mælta eg mína forna stafi",
+        "og of ragnarög.",
+        "Nú eg við Óðin",
+        "deildak mína orðspeki;",
+        "þú ert æ vísastur vera.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "Vafthruthnir spake:",
+        "\"No man can tell | what in olden time",
+        "Thou spak'st in the ears of thy son;",
+        "With fated mouth | the fall of the gods",
+        "And mine olden tales have I told;",
+        "With Othin in knowledge | now have I striven,",
+        "And ever the wiser thou art.\"⟦55⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      55
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "1",
+     "s": "The phrases \"Othin spake,\" \"Frigg spake,\" etc. appear in abbreviated form in both manuscripts. Frigg: Othin's wife; cf. Voluspo, 34 and note. Vafthruthnir (\"the Mighty in Riddles\"): nothing is known of this giant beyond what is told in this poem."
+    },
+    {
+     "n": "2",
+     "s": "Heerfather (\"Father of the Host\"): Othin."
+    },
+    {
+     "n": "5",
+     "s": "This single narrative stanza is presumably a later  interpolation. Im: the name appears to be corrupt, but we know nothing of any son of Vafthruthnir. Ygg (\"the Terrible\"): Othin."
+    },
+    {
+     "n": "8",
+     "s": "Gagnrath (\"the Gain-Counsellor\"): Othin on his travels always assumes a name other than his own."
+    },
+    {
+     "n": "10",
+     "s": "This stanza sounds very much like many of those in the first part of the Hovamol, and may have been introduced here from some such source."
+    },
+    {
+     "n": "12",
+     "s": "Skinfaxi: \"Shining-Mane.\""
+    },
+    {
+     "n": "13",
+     "s": "Here, and in general throughout the poem, the two-line introductory formulæ are abbreviated in the manuscripts."
+    },
+    {
+     "n": "14",
+     "s": "Hrimfaxi: \"Frosty-Mane.\""
+    },
+    {
+     "n": "16",
+     "s": "Ifing: there is no other reference to this river, which never freezes, so that the giants cannot cross it."
+    },
+    {
+     "n": "17",
+     "s": "Surt: the ruler of the fire-world (Muspellsheim), who comes to attack the gods in the last battle; cf. Voluspo, 52."
+    },
+    {
+     "n": "18",
+     "s": "Vigrith: \"the Field of Battle.\" Snorri quotes this stanza. A hundred miles: a general phrase for a vast distance."
+    },
+    {
+     "n": "19",
+     "s": "With this stanza Vafthruthnir, sufficiently impressed with his guest's wisdom to invite him to share his own seat, resigns the questioning to Othin."
+    },
+    {
+     "n": "20",
+     "s": "The fragmentary version of this poem in the Arnamagnæan Codex begins in the middle of the first line of this stanza."
+    },
+    {
+     "n": "21",
+     "s": "Ymir: the giant out of whose body the gods made the world; cf. Voluspo, 3 and note."
+    },
+    {
+     "n": "22",
+     "s": "In this and in Othin's following questions, both manuscripts replace the words \"next,\" \"third,\" \"fourth,\" etc., by Roman numerals."
+    },
+    {
+     "n": "23",
+     "s": "Mundilferi (\"the Turner\"?): known only as the father of Mani (the Moon) and Sol (the Sun). Note that, curiously enough, Mani is the boy and Sol the girl. According to Snorri, Sol drove the horses of the sun, and Mani those of the moon, for the gods, indignant that they should have been given such imposing names, took them from their father to perform these tasks. Cf. Grimnismol, 37."
+    },
+    {
+     "n": "25",
+     "s": "Delling (\"the Dayspring\"? Probably another form of the name, Dogling, meaning \"Son of the Dew\" is more correct): the husband of Not (Night); their son was Dag (Day); cf. Hovamol, 161. Nor: Snorri calls the father of Night Norvi or Narfi, and puts him among the giants. Lines 3-4: cf. Voluspo, 6."
+    },
+    {
+     "n": "27",
+     "s": "Neither the Regius nor the Arnamagnæan Codex indicates a lacuna. Most editors have filled out the stanza with two lines from late paper manuscripts: \"And both of these  shall ever be, / Till the gods to destruction go.\" Bugge ingeniously paraphrases Snorri's prose: \"Vindsval's father  was Vosuth called, / And rough is all his race.\" Vindsval: \"the Wind-Cold,\" also called Vindljoni, \"the Wind-Man.\" Svosuth: \"the Gentle.\""
+    },
+    {
+     "n": "28",
+     "s": "Ymir's kin: the giants."
+    },
+    {
+     "n": "29",
+     "s": "Bergelmir: when the gods slew Ymir in order to make the world out of his body, so much blood flowed from him that all the frost-giants were drowned except Bergelmir and his wife, who escaped in a boat; cf. stanza 35. Of Thruthgelmir (\"the Mightily Burning\") we know nothing, but Aurgelmir was the frost-giants' name for Ymir himself. Thus Ymir was the first of the giants, and so Othin's question is answered."
+    },
+    {
+     "n": "31",
+     "s": "Snorri quotes this stanza, and the last two lines are taken from his version, as both of the manuscripts omit them. Elivagar (\"Stormy Waves\"): Mogk suggests that this river may have been the Milky Way. At any rate, the venom carried in its waters froze into ice-banks over Ginnunga-gap (the \"yawning gap\" referred to in Voluspo, 3), and then dripped down to make the giant Ymir."
+    },
+    {
+     "n": "33",
+     "s": "Snorri gives, without materially elaborating on it, the same account of how Ymir's son and daughter were born under his left arm, and how his feet together created a son. That this offspring should have had six heads is nothing out of the ordinary, for various giants had more than the normal number, and Hymir's mother is credited with a little matter of nine hundred heads; cf. Hymiskvitha, 8. Of the career of Ymir's six-headed son we know nothing; he may have been the Thruthgelmir of stanza 29."
+    },
+    {
+     "n": "35",
+     "s": "Snorri quotes this stanza. Bergelmir: on him and his boat cf. stanza 29 and note."
+    },
+    {
+     "n": "37",
+     "s": "Snorri quotes this stanza. Hræsvelg (\"the Corpse-Eater\"): on this giant in eagle's form cf. Voluspo, 50, and Skirnismol, 27."
+    },
+    {
+     "n": "38",
+     "s": "With this stanza the question-formula changes, and Othin's questions from this point on concern more or less directly the great final struggle. Line 4 is presumably spurious. Njorth: on Njorth and the Wanes, who gave him as a hostage to the gods at the end of their war, cf. Voluspo, 21 and note."
+    },
+    {
+     "n": "40",
+     "s": "In both manuscripts, apparently through the carelessness of some older copyist, stanzas 40 and 41 are run together: \"Eleventh answer me well, what men in the home mightily battle each day? They fell each other, and fare from the fight all healed full soon to sit.\" Luckily Snorri quotes stanza 41 in full, and the translation is from his version. Stanza 40 should probably run something like this: \"Eleventh answer me well,  if thou knowest all / The fate that is fixed for the gods: / What men are they  who in Othin's home / Each day to fight go forth?\""
+    },
+    {
+     "n": "41",
+     "s": "The heroes: those brought to Valhall by the Valkyries. After the day's fighting they are healed of their wounds and all feast together."
+    },
+    {
+     "n": "43",
+     "s": "Nine worlds: cf. Voluspo, 2. Niflhel: \"Dark-Hell.\""
+    },
+    {
+     "n": "44",
+     "s": "The mighty winter: Before the final destruction three winters follow one another with no intervening summers."
+    },
+    {
+     "n": "45",
+     "s": "Snorri quotes this stanza. Hoddmimir's wood: probably this is the ash-tree Yggdrasil, which is sometimes referred to as \"Mimir's Tree,\" because Mimir waters it from his well; cf. Voluspo, 27 and note, and Svipdagsmol, 30 and note. Hoddmimir is presumably another name for Mimir. Lif (\"Life\") and Lifthrasir (\"Sturdy of Life\"?): nothing further is known of this pair, from whom the new race of men is to spring."
+    },
+    {
+     "n": "46",
+     "s": "Fenrir: there appears to be a confusion between the wolf Fenrir (cf. Voluspo, 39 and note) and his son, the wolf Skoll, who steals the sun (cf. Voluspo, 40 and note)."
+    },
+    {
+     "n": "47",
+     "s": "Snorri quotes this stanza. Alfrothul (\"the Elf-Beam\"): the sun."
+    },
+    {
+     "n": "49",
+     "s": "Mogthrasir (\"Desiring Sons\"): not mentioned elsewhere in the Eddic poems, or by Snorri. The maidens: apparently Norns, like the \"giant-maids\" in Voluspo, 8. These Norns, however, are kindly to men."
+    },
+    {
+     "n": "50",
+     "s": "Surt: cf. Voluspo, 52 and note."
+    },
+    {
+     "n": "51",
+     "s": "Vithar: a son of Othin, who slays the wolf Fenrir; cf. Voluspo, 54 and note. Vali: the son whom Othin begot to avenge Baldr's death; cf. Voluspo, 33 and note. Mothi (\"Wrath\") and Magni (\"Might\"): the sons of the god Thor, who after his death inherit his famous hammer, Mjollnir. Concerning this hammer cf. especially Thrymskvitha, passim. Vingnir (\"the Hurler\"): Thor. Concerning his death cf. Voluspo, 56. This stanza is quoted by Snorri."
+    },
+    {
+     "n": "53",
+     "s": "The wolf: Fenrir; cf. Voluspo, 53 and 54."
+    },
+    {
+     "n": "54",
+     "s": "His son: Baldr. Bugge changes lines 3-4 to run: \"What did Othin speak  in the ear of Baldr, / When to the bale-fire they bore him?\" For Baldr's death cf. Voluspo, 32 and note. The question is, of course, unanswerable save by Othin himself, and so the giant at last recognizes his guest."
+    },
+    {
+     "n": "55",
+     "s": "Fated: in stanza 19 Vafthruthnir was rash enough to wager his head against his guest's on the outcome of the contest of wisdom, so he knows that his defeat means his death."
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "The Vafthruthnismol follows the Hovamol in the Codex Regius. From stanza 20 on it is also included in the Arnamagnæan Codex, the first part evidently having appeared on a leaf now lost. Snorri quotes eight stanzas of it in the Prose Edda, and in his prose text closely paraphrases many others.",
+    "The poem is wholly in dialogue form except for a single narrative stanza (stanza 5). After a brief introductory discussion between Othin and his wife, Frigg, concerning the reputed wisdom of the giant Vafthruthnir, Othin, always in quest of wisdom, seeks out the giant, calling himself Gagnrath. The giant immediately insists that they shall demonstrate which is the wiser of the two, and propounds four questions (stanzas 11, 13, 15, and 17), each of which Othin answers. It is then the god's turn to ask, and he begins with a series of twelve numbered questions regarding the origins and past history of life. These Vafthruthnir answers, and Othin asks five more questions, this time referring to what is to follow the destruction of the gods, the last one asking the name of his own slayer. Again Vafthruthnir answers, and Othin finally propounds the unanswerable question: \"What spake Othin himself in the ears of his son, ere in the bale-fire he burned?\" Vafthruthnir, recognizing his questioner as Othin himself, admits his inferiority in wisdom, and so the contest ends.",
+    "The whole poem is essentially encyclopædic in character, and thus was particularly useful to Snorri in his preparation of the Prose Edda. The encyclopædic poem with a slight narrative outline seems to have been exceedingly popular; the Grimnismol and the much later Alvissmol represent different phases of the same type. The Vafthruthnismol and Grimnismol together, indeed, constitute a fairly complete dictionary of Norse mythology. There has been much discussion as to the probable date of the Vafthruthnismol, but it appears to belong to about the same period as the Voluspo: in other words, the middle of the tenth century. While there may be a few interpolated passages in the poem as we now have it, it is clearly a united whole, and evidently in relatively good condition."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Vafþrúðnismál)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Vafthruthnismol"
+ }
+}

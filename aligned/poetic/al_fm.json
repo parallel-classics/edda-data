@@ -1,0 +1,2929 @@
+{
+ "part": "poetic",
+ "poem": "fm",
+ "title": "Fáfnismál",
+ "group": "heroic",
+ "chapters": [
+  {
+   "num": 24,
+   "key": "fm",
+   "title": "Fáfnismál",
+   "subtitle": null,
+   "group": "heroic",
+   "rows": [
+    {
+     "id": "fm-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr ok Reginn fóru upp á Gnitaheiði ok hittu þar slóð Fáfnis, þá er hann skreið til vatns. Þar gerði Sigurðr gröf mikla á veginum, ok gekk Sigurðr þar í. En er Fáfnir skreið af gullinu, blés hann eitri, ok hraut þat fyrir ofan höfuð Sigurði. En er Fáfnir skreið yfir gröfina, þá lagði Sigurðr hann með sverði til hjarta. Fáfnir hristi sik ok barði höfði ok sporði. Sigurðr hljóp ór gröfinni, ok sá þá hvárr annan. Fáfnir kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður og Reginn fóru upp á Gnitaheiði og hittu þar slóð Fáfnis, þá er hann skreið til vatns. Þar gerði Sigurður gröf mikla á veginum, og gekk Sigurður þar í. En er Fáfnir skreið af gullinu, blés hann eitri, og hraut það fyrir ofan höfuð Sigurði. En er Fáfnir skreið yfir gröfina, þá lagði Sigurður hann með sverði til hjarta. Fáfnir hristi sig og barði höfði og sporði. Sigurður hljóp úr gröfinni, og sá þá hvor annan. Fáfnir kvað:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p1⟧Sigurth and Regin went up to the Gnitaheith⟦p2⟧, and found there the track that Fafnir⟦p3⟧ made when he crawled to water. Then Sigurth made a great trench across the path, and took his place therein. When Fafnir crawled from his gold, he blew out venom, and it ran down from above on Sigurth's head.⟦p4⟧ But when Fafnir crawled over the trench, then Sigurth thrust his sword into his body to the heart. Fafnir writhed and struck out with his head and tail. Sigurth leaped from the trench, and each looked at the other. Fafnir said:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Sveinn ok sveinn,",
+        "hverjum ertu svein of borinn?",
+        "Hverra ertu manna mögr,",
+        "er þú á Fáfni rautt",
+        "þinn inn frána mæki?",
+        "Stöndumk til hjarta hjörr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Sveinn og sveinn,",
+        "hverjum ertu svein of borinn?",
+        "Hverra ertu manna mögur,",
+        "er þú á Fáfni rautt",
+        "þinn hinn frána mæki?",
+        "Stöndumk til hjarta hjör.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Youth, oh, youth! | of whom then, youth, art thou born?",
+        "Say whose son thou art,",
+        "Who in Fafnir's blood | thy bright blade reddened,",
+        "And struck thy sword to my heart.\"⟦1⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-p2",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr dulði nafn síns, fyrir því at þat var trúa þeira í forneskju, at orð feigs manns mætti mikit, ef hann bölvaði óvin sínum með nafni. Hann kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður duldi nafn síns, fyrir því að það var trúa þeirra í forneskju, að orð feigs manns mætti mikið, ef hann bölvaði óvin sínum með nafni. Hann kvað:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Sigurth concealed his name because it was believed in olden times that the word of a dying man might have great power if he cursed his foe by his name. He said:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Göfugt dýr ek heiti,",
+        "en ek gengit hefk",
+        "inn móðurlausi mögr,",
+        "föður ek ákk-a",
+        "sem fira synir;",
+        "æ geng ek einn saman.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Göfugt dýr eg heiti,",
+        "en eg gengið hefg",
+        "hinn móðurlausi mögur,",
+        "föður eg ákk-a",
+        "sem firra synir;",
+        "æ geng eg einn saman.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"The Noble Hart | my name, and I go",
+        "A motherless man abroad;",
+        "Father I had not, | as others have,",
+        "And lonely ever I live.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Veiztu, ef föður né átt-at",
+        "sem fira synir,",
+        "af hverju vastu undri alinn?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Veistu, ef föður né átt-at",
+        "sem firra synir,",
+        "af hverju vastu undri alinn?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Fafnir spake:",
+        "\"If father thou hadst not, | as others have,",
+        "By what wonder wast thou born?",
+        "(Though thy name on the day | of my death thou hidest,",
+        "Thou knowest now thou dost lie.)\"⟦3⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Ætterni mitt",
+        "kveð ek þér ókunnigt vera",
+        "ok mik sjalfan it sama;",
+        "Sigurðr ek heiti,",
+        "Sigmundr hét minn faðir,",
+        "er hefk þik vápnum vegit.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Ætterni mitt",
+        "kveð eg þér ókunnugt vera",
+        "og mig sjálfan it sama;",
+        "Sigurður eg heiti,",
+        "Sigmundur hét minn faðir,",
+        "er hefg þig vopnum vegið.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Sigurth spake:",
+        "\"My race, methinks, | is unknown to thee,",
+        "And so am I myself;",
+        "Sigurth my name, | and Sigmund's son,",
+        "Who smote thee thus with the sword.\"⟦4⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Hverr þik hvatti?",
+        "Hví hvetjask lézt",
+        "mínu fjörvi at fara?",
+        "Inn fráneygi sveinn,",
+        "þú áttir föður bitran;",
+        "óbornum skjór á skeið.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Hver þig hvatti?",
+        "Hví hvetjast lést",
+        "mínu fjörvi að fara?",
+        "Hinn fráneygi sveinn,",
+        "þú áttir föður bitran;",
+        "óbornum skjór á skeið.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Fafnir spake:",
+        "\"Who drove thee on? | why wert thou driven",
+        "My life to make me lose?",
+        "A father brave | had the bright-eyed youth,",
+        "For bold in boyhood thou art.\"⟦5⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Hugr mik hvatti,",
+        "hendr mér fulltýðu",
+        "ok minn inn hvassi hjörr;",
+        "fár er hvatr,",
+        "er hröðask tekr,",
+        "ef í barnæsku er blauðr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Hugur mig hvatti,",
+        "hendur mér fulltýðu",
+        "og minn hinn hvassi hjör;",
+        "fár er hvatur,",
+        "er hröðast tekur,",
+        "ef í barnæsku er blauður.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Sigurth spake:",
+        "\"My heart did drive me, | my hand fulfilled,",
+        "And my shining sword so sharp;",
+        "Few are keen | when old age comes,",
+        "Who timid in boyhood be.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Veit ek, ef þú vaxa næðir",
+        "fyr þinna vina brjósti,",
+        "sæi maðr þik vreiðan vega;",
+        "nú ertu haftr",
+        "ok hernuminn;",
+        "æ kveða bandingja bifask.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Veit eg, ef þú vaxa næðir",
+        "fyr þinna vina brjósti,",
+        "sæi maður þig vreiðan vega;",
+        "nú ertu haftur",
+        "og hernuminn;",
+        "æ kveða bandingja bifast.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Fafnir spake:",
+        "\"If thou mightest grow | thy friends among,",
+        "One might see thee fiercely fight;",
+        "But bound thou art, | and in battle taken,",
+        "And to fear are prisoners prone.\"⟦7⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Því bregðr þú mér, Fáfnir,",
+        "at til fjarri séak",
+        "mínum feðrmunum;",
+        "eigi em ek haftr,",
+        "þótt ek væra hernumi;",
+        "þú fannt, at ek laus lifi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Því bregður þú mér, Fáfnir,",
+        "að til fjarri séak",
+        "mínum feðrmunum;",
+        "eigi em eg haftur,",
+        "þótt eg væri hernumi;",
+        "þú fannst, að eg laus lifi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Sigurth spake:",
+        "\"Thou blamest me, Fafnir, | that I see from afar",
+        "The wealth that my father's was;",
+        "Not bound am I, | though in battle taken,",
+        "Thou hast found that free I live.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Heiftyrði ein",
+        "telr þú þér í hvívetna,",
+        "en ek þér satt eitt segik:",
+        "It gjalla gull",
+        "ok it glóðrauða fé,",
+        "þér verða þeir baugar at bana.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Heiftyrði ein",
+        "telur þú þér í hvívetna,",
+        "en eg þér satt eitt segig:",
+        "It gjalla gull",
+        "og it glóðrauða fé,",
+        "þér verða þeir baugar að bana.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Fafnir spake:",
+        "\"In all I say | dost thou hatred see,",
+        "Yet truth alone do I tell;",
+        "The sounding gold, | the glow-red wealth,",
+        "And the rings thy bane shall be.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Féi ráða",
+        "vill fyrða hverr",
+        "æ til ins eina dags;",
+        "því at einu sinni",
+        "skal alda hverr",
+        "fara til heljar heðan.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Féi ráða",
+        "vill fyrða hver",
+        "æ til hins eina dags;",
+        "því að einu sinni",
+        "skal alda hver",
+        "fara til heljar héðan.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Sigurth spake:",
+        "\"Some one the hoard | shall ever hold,",
+        "Till the destined day shall come;",
+        "For a time there is | when every man",
+        "Shall journey hence to hell.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Norna dóm",
+        "þú munt fyr nesjum hafa",
+        "ok ósvinns apa;",
+        "í vatni þú drukknar,",
+        "ef í vindi rær;",
+        "allt er feigs forað.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Norna dóm",
+        "þú munt fyr nesjum hafa",
+        "og ósvinns afa;",
+        "í vatni þú drukknar,",
+        "ef í vindi rær;",
+        "allt er feigs forað.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Fafnir spake:",
+        "\"The fate of the Norns | before the headland",
+        "Thou findest, and doom of a fool;",
+        "In the water shalt drown | if thou row 'gainst the wind,",
+        "All danger is near to death.\"⟦11⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Segðu mér, Fáfnir,",
+        "alls þik fróðan kveða",
+        "ok vel margt vita,",
+        "hverjar ro þær nornir,",
+        "er nauðgönglar ro",
+        "ok kjósa mæðr frá mögum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Segðu mér, Fáfnir,",
+        "alls þig fróðan kveða",
+        "og vel margt vita,",
+        "hverjar ro þær nornir,",
+        "er nauðgönglar ro",
+        "og kjósa mæður frá mögum.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Sigurth spake:",
+        "\"Tell me then, Fafnir, | for wise thou art famed,",
+        "And much thou knowest now:",
+        "Who are the Norns | who are helpful in need,",
+        "And the babe from the mother bring?\"⟦12⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Sundrbornar mjök",
+        "segi ek nornir vera,",
+        "eigu-t þær ætt saman;",
+        "sumar eru áskunngar,",
+        "sumar alfkunngar,",
+        "sumar dætr Dvalins.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Sundurbornar mjög",
+        "segi eg nornir vera,",
+        "eigu-t þær ætt saman;",
+        "sumar eru áskunnar,",
+        "sumar álfkunnar,",
+        "sumar dætur Dvalins.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Fafnir spake:",
+        "\"Of many births | the Norns must be,",
+        "Nor one in race they were;",
+        "Some to gods, others | to elves are kin,",
+        "And Dvalin's daughters some.\"⟦13⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c15-10"
+     ]
+    },
+    {
+     "id": "fm-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Segðu mér þat, Fáfnir,",
+        "alls þik fróðan kveða",
+        "ok vel margt vita,",
+        "hvé sá holmr heitir,",
+        "er blanda hjörlegi",
+        "Surtr ok æsir saman.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Segðu mér það, Fáfnir,",
+        "alls þig fróðan kveða",
+        "og vel margt vita,",
+        "hve sá holmur heitir,",
+        "er blanda hjörlegi",
+        "Surtur og æsir saman.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Sigurth spake:",
+        "\"Tell me then, Fafnir, | for wise thou art famed,",
+        "And much thou knowest now:",
+        "How call they the isle | where all the gods",
+        "And Surt shall sword-sweat mingle?\"⟦14⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Óskópnir hann heitir,",
+        "en þar öll skulu",
+        "geirum leika goð;",
+        "Bilröst brotnar,",
+        "er þeir á brú fara,",
+        "ok svima í móðu marir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Óskópnir hann heitir,",
+        "en þar öll skulu",
+        "geirum leika guð;",
+        "Bilröst brotnar,",
+        "er þeir á brú fara,",
+        "og svima í móðu marir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Fafnir spake:",
+        "\"Oskopnir is it, | where all the gods",
+        "Shall seek the play of swords;",
+        "Bilrost breaks | when they cross the bridge,",
+        "And the steeds shall swim in the flood.⟦15⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      15
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Ægishjalm",
+        "bar ek of alda sonum,",
+        "meðan ek of menjum lák;",
+        "einn rammari",
+        "hugðumk öllum vera,",
+        "fannk-a ek svá marga mögu.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Ægishjalm",
+        "bar eg of alda sonum,",
+        "meðan eg of menjum lág;",
+        "einn rammari",
+        "hugðumk öllum vera,",
+        "fannk-a eg svo marga mögu.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"The fear-helm I wore | to afright mankind,",
+        "While guarding my gold I lay;",
+        "Mightier seemed I | than any man,",
+        "For a fiercer never I found.\"⟦16⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      16
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Ægishjalmr",
+        "bergr einungi,",
+        "hvar skulu vreiðir vega;",
+        "þá þat finnr,",
+        "er með fleirum kemr,",
+        "at engi er einna hvatastr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Ægishjalmur",
+        "bergur einungi,",
+        "hvar skulu vreiðir vega;",
+        "þá það finnur,",
+        "er með fleiri kemur,",
+        "að enginn er einn hvatastur.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Sigurth spake:",
+        "\"The fear-helm surely | no man shields",
+        "When he faces a valiant foe;",
+        "Oft one finds, | when the foe he meets,",
+        "That he is not the bravest of all.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      17
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Eitri ek fnæsta,",
+        "er ek á arfi lá",
+        "miklum míns föður.\"",
+        "-- -- -- --"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Eitri eg fnæsta,",
+        "er eg á arfi lá",
+        "miklum míns föður.\"",
+        "-- -- -- --"
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Fafnir spake:",
+        "\"Venom I breathed | when bright I lay",
+        "By the hoard my father had;",
+        "(There was none so mighty | as dared to meet me,",
+        "And weapons nor wiles I feared.)\"⟦18⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      18
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Inn fráni ormr,",
+        "þú gerðir fræs mikla",
+        "ok galzt harðan hug;",
+        "heift at meiri",
+        "verðr hölða sonum,",
+        "at þann hjalm hafi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Hinn fráni ormur,",
+        "þú gerðir fræs mikla",
+        "og galst harðan hug;",
+        "heift að meiri",
+        "verður hölða sonum,",
+        "að þann hjalm hafi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Sigurth spake:",
+        "\"Glittering worm, | thy hissing was great,",
+        "And hard didst show thy heart;",
+        "But hatred more | have the sons of men",
+        "For him who owns the helm.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Ræð ek þér nú, Sigurðr,",
+        "en þú ráð nemir,",
+        "ok ríð heim heðan;",
+        "it gjalla gull",
+        "ok it glóðrauða fé,",
+        "þér verða þeir baugar at bana.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Ræð eg þér nú, Sigurður,",
+        "en þú ráð nemir,",
+        "og ríð heim héðan;",
+        "it gjalla gull",
+        "og it glóðrauða fé,",
+        "þér verða þeir baugar að bana.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Fafnir spake:",
+        "\"I counsel thee, Sigurth, | heed my speech,",
+        "And ride thou homeward hence;",
+        "The sounding gold, | the glow-red wealth,",
+        "And the rings thy bane shall be.\"⟦20⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      20
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Ráð er þér ráðit,",
+        "en ek ríða mun",
+        "til þess gulls, er í lyngvi liggr,",
+        "en þú, Fáfnir,",
+        "ligg í fjörbrotum,",
+        "þar er þik hel hafi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Ráð er þér ráðið,",
+        "en eg ríða mun",
+        "til þess gulls, er í lyngvi liggur,",
+        "en þú, Fáfnir,",
+        "ligg í fjörbrotum,",
+        "þar er þig hel hafi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Sigurth spake:",
+        "\"Thy counsel is given, | but go I shall",
+        "To the gold in the heather hidden;",
+        "And, Fafnir, thou | with death dost fight,",
+        "Lying where Hel shall have thee.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      21
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Reginn mik réð,",
+        "hann þik ráða mun,",
+        "hann mun okkr verða báðum at bana;",
+        "fjör sitt láta,",
+        "hygg ek, at Fáfnir myni;",
+        "þitt varð nú meira megin.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fáfnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Reginn mig réð,",
+        "hann þig ráða mun,",
+        "hann mun okkur verða báðum að bana;",
+        "fjör sitt láta,",
+        "hygg eg, að Fáfnir muni;",
+        "þitt varð nú meira megin.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Fafnir spake:",
+        "\"Regin betrayed me, | and thee will betray,",
+        "Us both to death will he bring;",
+        "His life, methinks, | must Fafnir lose,",
+        "For the mightier man wast thou.\"⟦22⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      22
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-p3",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Reginn var á brott horfinn, meðan Sigurðr vá Fáfni, ok kom þá aftr, er Sigurðr strauk blóð af sverðinu. Reginn kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Reginn var á brott horfinn, meðan Sigurður vá Fáfni, og kom þá aftur, er Sigurður strauk blóð af sverðinu. Reginn kvað:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Regin had gone to a distance while Sigurth fought Fafnir, and came back while Sigurth was wiping the blood from his sword. Regin said:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Heill þú nú, Sigurðr,",
+        "nú hefir þú sigr vegit",
+        "ok Fáfni of farit;",
+        "manna þeira,",
+        "er mold troða,",
+        "þik kveð ek óblauðastan alinn.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Heill þú nú, Sigurður,",
+        "nú hefur þú sigur vegið",
+        "og Fáfni of farið;",
+        "manna þeirra,",
+        "er mold troða,",
+        "þig kveð eg óblauðastan alinn.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Hail to thee, Sigurth! | Thou victory hast,",
+        "And Fafnir in fight hast slain;",
+        "Of all the men | who tread the earth,",
+        "Most fearless art thou, methinks.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      23
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Þat er óvíst at vita,",
+        "þá er komum allir saman,",
+        "sigtíva synir,",
+        "hverr óblauðastr er alinn;",
+        "margr er sá hvatr,",
+        "er hjör né rýðr",
+        "annars brjóstum í.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Það er óvíst að vita,",
+        "þá er komum allir saman,",
+        "sigtíva synir,",
+        "hver óblauðastur er alinn;",
+        "margur er sá hvatur,",
+        "er hjör né rýður",
+        "annars brjóstum í.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Sigurth spake:",
+        "\"Unknown it is, | when all are together,",
+        "(The sons of the glorious gods,)",
+        "Who bravest born shall seem;",
+        "Some are valiant | who redden no sword",
+        "In the blood of a foeman's breast.\"⟦24⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      24
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "p",
+       "s": "Reginn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Glaðr ertu nú, Sigurðr,",
+        "ok gagni feginn,",
+        "er þú þerrir Gram á grasi;",
+        "bróður minn",
+        "hefr þú benjaðan,",
+        "ok vald ek þó sjalfr sumu.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Reginn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Glaður ertu nú, Sigurður,",
+        "og gagni feginn,",
+        "er þú þerrir Gram á grasi;",
+        "bróður minn",
+        "hefur þú benjaðan,",
+        "og vald eg þó sjalfur sumu.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Regin spake:",
+        "\"Glad art thou, Sigurth, | of battle gained,",
+        "As Gram with grass thou cleansest;",
+        "My brother fierce | in fight hast slain,",
+        "And somewhat I did myself.\"⟦25⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      25
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Þú því rétt,",
+        "er ek ríða skyldak",
+        "hélug fjöll hinig;",
+        "féi ok fjörvi",
+        "réði sá inn fráni ormr,",
+        "nema þú frýðir mér hvats hugar.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Þú því rétt,",
+        "er eg ríða skyldak",
+        "hélug fjöll hinig;",
+        "féi og fjörvi",
+        "réði sá hinn fráni ormur,",
+        "nema þú frýðir mér hvats hugar.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Sigurth spake:",
+        "\"Afar didst thou go | while Fafnir reddened",
+        "With his blood my blade so keen;",
+        "With the might of the dragon | my strength I matched,",
+        "While thou in the heather didst hide.\"⟦26⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      26
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-p4",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þá gekk Reginn at Fáfni ok skar hjarta ór hánum með sverði, er Riðill heitir, ok þá drakk hann blóð ór undinni eftir. Reginn kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þá gekk Reginn að Fáfni og skar hjarta úr hánum með sverði, er Riðill heitir, og þá drakk hann blóð úr undinni eftir. Reginn kvað:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Sittu nú, Sigurðr,",
+        "en ek mun sofa ganga,",
+        "ok halt Fáfnis hjarta við funa;",
+        "eisköld ek vil",
+        "etin láta",
+        "eftir þenna dreyra drykk.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Sittu nú, Sigurður,",
+        "en eg mun sofa ganga,",
+        "og halt Fáfnis hjarta við funa;",
+        "eisköld eg vil",
+        "etin láta",
+        "eftir þennan dreyra drykk.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Regin spake:",
+        "\"Longer wouldst thou | in the heather have let",
+        "Yon hoary giant hide,",
+        "Had the weapon availed not | that once I forged,",
+        "The keen-edged blade thou didst bear.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      27
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s28",
+     "stanza": 28,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Fjarri þú gekkt,",
+        "meðan ek á Fáfni rauðk",
+        "minn inn hvassa hjör;",
+        "afli mínu",
+        "atta ek við orms megin,",
+        "meðan þú í lyngvi látt.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Fjarri þú gekkt,",
+        "meðan eg á Fáfni rauðg",
+        "minn hinn hvassa hjör;",
+        "afli mínu",
+        "atta eg við orms megin,",
+        "meðan þú í lyngvi látt.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Sigurth spake:",
+        "\"Better is heart | than a mighty blade",
+        "For him who shall fiercely fight;",
+        "The brave man well | shall fight and win,",
+        "Though dull his blade may be.⟦28⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      28
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s29",
+     "stanza": 29,
+     "on": [
+      {
+       "t": "p",
+       "s": "Reginn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Lengi liggja",
+        "létir þú lyngvi í",
+        "þann inn aldna jötun,",
+        "ef þú sverðs né nytir,",
+        "þess er ek sjalfr gerða,",
+        "ok þíns ins hvassa hjörs.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Reginn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Lengi liggja",
+        "létir þú lyngvi í",
+        "þann hinn aldna jötun,",
+        "ef þú sverðs né nytir,",
+        "þess er eg sjalfur gerða,",
+        "og þíns hins hvassa hjörs.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Brave men better | than cowards be,",
+        "When the clash of battle comes;",
+        "And better the glad | than the gloomy man",
+        "Shall face what before him lies.⟦28⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      29
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s30",
+     "stanza": 30,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"Hugr er betri",
+        "en sé hjörs megin,",
+        "hvars vreiðir skulu vega,",
+        "því at hvatan mann",
+        "ek sé harðliga vega",
+        "með slævu sverði sigr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"Hugur er betri",
+        "en sé hjörs megin,",
+        "hvars vreiðir skulu vega,",
+        "því að hvatan mann",
+        "eg sé harðlega vega",
+        "með slævu sverði sigur.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"Thy rede it was | that I should ride",
+        "Hither o'er mountains high;",
+        "The glittering worm | would have wealth and life",
+        "If thou hadst not mocked at my might.\"⟦30⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      30
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s31",
+     "stanza": 31,
+     "on": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Hvötum er betra",
+        "en sé óhvötum",
+        "í hildileik hafask;",
+        "glöðum er betra",
+        "en sé glúpnanda,",
+        "hvat sem at hendi kemr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Hvötum er betri",
+        "en sé óhvötum",
+        "í hildileik hafast;",
+        "glöðum er betri",
+        "en sé glúpnanda,",
+        "hvað sem að hendi kemur.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Sit now, Sigurth, | for sleep will I,",
+        "Hold Fafnir's heart to the fire;",
+        "For all his heart | shall eaten be,",
+        "Since deep of blood I have drunk.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      31
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "s_en": 0.3
+    },
+    {
+     "id": "fm-p5",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr tók Fáfnis hjarta ok steikði á teini. Er hann hugði, at fullsteikt væri ok freyddi sveitinn ór hjartanu, þá tók hann á fingri sínum ok skynjaði, hvárt fullsteikt væri. Hann brann ok brá fingrinum í munn sér. En er hjartablóð Fáfnis kom á tungu hánum, ok skilði hann fugls rödd. Hann heyrði, at igður klökuðu á hrísinu. Igðan kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður tók Fáfnis hjarta og steikði á teini. Er hann hugði, að fullsteikt væri og freyddi sveitinn úr hjartanu, þá tók hann á fingri sínum og skynjaði, hvort fullsteikt væri. Hann brann og brá fingrinum í munn sér. En er hjartablóð Fáfnis kom á tungu hánum, og skildi hann fugls rödd. Hann heyrði, að igður klökuðu á hrísinu. Igðan kvað:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Sigurth took Fafnir's heart and cooked it on a spit. When he thought that it was fully cooked, and the blood foamed out of the heart, then he tried it with his finger to see whether it was fully cooked. He burned his finger, and put it in his mouth. But when Fafnir's heart's-blood came on his tongue, he understood the speech of birds. He heard nut-hatches chattering in the thickets. A nut-hatch said:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s32",
+     "stanza": 32,
+     "on": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Þar sitr Sigurðr",
+        "sveita stokkinn,",
+        "Fáfnis hjarta",
+        "við funa steikir;",
+        "spakr þætti mér",
+        "spillir bauga,",
+        "ef hann fjörsega",
+        "fránan æti.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Þar situr Sigurður",
+        "sveita stokkinn,",
+        "Fáfnis hjarta",
+        "við funa steikir;",
+        "spakur þættu mér",
+        "spillir bauga,",
+        "ef hann fjörsega",
+        "fránan æti.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"There sits Sigurth, | sprinkled with blood,",
+        "And Fafnir's heart | with fire he cooks;",
+        "Wise were the breaker | of rings, I ween,",
+        "To eat the life-muscles | all so bright.\"⟦32⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      32
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "s-c47-7"
+     ]
+    },
+    {
+     "id": "fm-s33",
+     "stanza": 33,
+     "on": [
+      {
+       "t": "p",
+       "s": "Önnur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Þar liggr Reginn,",
+        "ræðr um við sik,",
+        "vill tæla mög,",
+        "þann er trúir hánum,",
+        "berr af reiði",
+        "röng orð saman,",
+        "vill bölvasmiðr",
+        "bróður hefna.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Önnur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Þar liggur Reginn,",
+        "ræður um við sig,",
+        "vill tæla mög,",
+        "þann er trúir hánum,",
+        "ber af reiði",
+        "röng orð saman,",
+        "vill bölvasmiður",
+        "bróður hefna.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "A second spake:",
+        "\"There Regin lies, | and plans he lays",
+        "The youth to betray | who trusts him well;",
+        "Lying words | with wiles will he speak,",
+        "Till his brother the maker | of mischief avenges.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      33
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "s-c47-8"
+     ]
+    },
+    {
+     "id": "fm-s34",
+     "stanza": 34,
+     "on": [
+      {
+       "t": "p",
+       "s": "In þriðja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Höfði skemmra",
+        "láti hann inn hára þul",
+        "fara til heljar heðan;",
+        "öllu gulli",
+        "þá kná hann einn ráða,",
+        "fjölð því er und Fáfni lá.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hin þriðja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Höfði skemmra",
+        "láti hann hinn hára þul",
+        "fara til heljar héðan;",
+        "öllu gulli",
+        "þá kná hann einn ráða,",
+        "fjölð því er und Fáfni lá.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "A third spake:",
+        "\"Less by a head | let the chatterer hoary",
+        "Go from here to hell;",
+        "Then all of the wealth | he alone can wield,",
+        "The gold that Fafnir guarded.\"⟦34⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      34
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s35",
+     "stanza": 35,
+     "on": [
+      {
+       "t": "p",
+       "s": "In fjórða kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Horskr þætti mér,",
+        "ef hafa kynni",
+        "ástráð mikit",
+        "yðvar systra,",
+        "hygði hann of sik",
+        "ok hugin gleddi;",
+        "þar er mér ulfs ván,",
+        "er ek eyru sék.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hin fjórða kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Horskur þættu mér,",
+        "ef hafa kynni",
+        "ástráð mikið",
+        "yðar systra,",
+        "hygði hann of sig",
+        "og hugin gleddi;",
+        "þar er mér ulfs von,",
+        "er eg eyru ség.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "A fourth spake:",
+        "\"Wise would he seem | if so he would heed",
+        "The counsel good | we sisters give;",
+        "Thought he would give, | and the ravens gladden,",
+        "There is ever a wolf | where his ears I spy.\"⟦35⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      35
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s36",
+     "stanza": 36,
+     "on": [
+      {
+       "t": "p",
+       "s": "In fimmta kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "\"Er-at svá horskr",
+        "hildimeiðr",
+        "sem ek hers jaðar",
+        "hyggja myndak,",
+        "ef hann bróður lætr",
+        "á brot komask,",
+        "en hann öðrum hefir",
+        "aldrs of synjat.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hin fimmta kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "\"Er-at svo horskur",
+        "hildimeiður",
+        "sem eg hers jaðar",
+        "hyggja mundak,",
+        "ef hann bróður lætur",
+        "á brot komast,",
+        "en hann öðrum hefur",
+        "aldurs of synjað.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "A fifth spake:",
+        "\"Less wise must be | the tree of battle",
+        "Than to me would seem | the leader of men,",
+        "If forth he lets | one brother fare,",
+        "When he of the other | the slayer is.\"⟦36⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      36
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s37",
+     "stanza": 37,
+     "on": [
+      {
+       "t": "p",
+       "s": "In sétta kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Mjök er ósviðr,",
+        "ef hann enn sparir",
+        "fjánda inn folkskáa,",
+        "þar er Reginn liggr,",
+        "er hann ráðinn hefr,",
+        "kann-at hann við slíku at séa.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hin sjötta kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Mjög er ósviður,",
+        "ef hann enn sparir",
+        "fjánda hinn folkskáa,",
+        "þar er Reginn liggur,",
+        "er hann ráðinn hefur,",
+        "kann-at hann við slíku að séa.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "A sixth spake:",
+        "\"Most foolish he seems | if he shall spare",
+        "His foe, the bane of the folk;",
+        "There Regin lies, | who hath wronged him so,",
+        "Yet falsehood knows he not.\"⟦37⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      37
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s38",
+     "stanza": 38,
+     "on": [
+      {
+       "t": "p",
+       "s": "In sjaunda kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "\"Höfði skemmra láti hann",
+        "þann inn hrímkalda jötun",
+        "ok af baugum búa;",
+        "þá mun hann fjár þess,",
+        "er Fáfnir réð,",
+        "einvaldi vera.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hin sjöunda kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "\"Höfði skemmra láti hann",
+        "þann hinn hrímkalda jötun",
+        "og af baugum búa;",
+        "þá mun hann fjár þess,",
+        "er Fáfnir réð,",
+        "einvaldi vera.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "A seventh spake:",
+        "\"Let the head from the frost-cold | giant be hewed,",
+        "And let him of rings be robbed;",
+        "Then all the wealth | which Fafnir's was",
+        "Shall belong to thee alone.\"⟦38⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      38
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s39",
+     "stanza": 39,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Verða-t svá rík sköp,",
+        "at Reginn skyli",
+        "mitt banorð bera;",
+        "því at þeir báðir bræðr",
+        "skulu bráðliga",
+        "fara til heljar heðan.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Verða-t svo rík sköp,",
+        "að Reginn skyli",
+        "mitt banorð bera;",
+        "því að þeir báðir bræður",
+        "skulu bráðlega",
+        "fara til heljar héðan.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Sigurth spake:",
+        "\"Not so rich a fate | shall Regin have",
+        "As the tale of my death to tell;",
+        "For soon the brothers | both shall die,",
+        "And hence to hell shall go.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      39
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-p6",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr hjó höfuð af Regin, ok þá át han Fáfnis hjarta ok drakk blóð þeira beggja, Regins ok Fáfnis. Þá heyrði Sigurðr, hvar igður mæltu:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður hjó höfuð af Regin, og þá át han Fáfnis hjarta og drakk blóð þeirra beggja, Regins og Fáfnis. Þá heyrði Sigurður, hvar igður mæltu:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Sigurth hewed off Regin's head, and then he ate Fafnir's heart, and drank the blood of both Regin and Fafnir. Then Sigurth heard what the nut-hatch said:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s40",
+     "stanza": 40,
+     "on": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "\"Bitt þú, Sigurðr,",
+        "bauga rauða;",
+        "er-a konungligt",
+        "kvíða mörgu.",
+        "Mey veit ek eina",
+        "miklu fegrsta,",
+        "gulli gædda,",
+        "ef þú geta mættir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "\"Bitt þú, Sigurður,",
+        "bauga rauða;",
+        "er-a konunglegt",
+        "kvíða mörgu.",
+        "Mey veit eg eina",
+        "miklu fegrsta,",
+        "gulli gædda,",
+        "ef þú geta mættir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "\"Bind, Sigurth, the golden | rings together,",
+        "Not kingly is it | aught to fear;",
+        "I know a maid, | there is none so fair,",
+        "Rich in gold, | if thou mightest get her.⟦40⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      40
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s41",
+     "stanza": 41,
+     "on": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Liggja til Gjúka",
+        "grænar brautir,",
+        "fram vísa sköp",
+        "folklíðöndum;",
+        "þar hefir dýrr konungr",
+        "dóttur alna;",
+        "þá muntu, Sigurðr,",
+        "mundi kaupa.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Liggja til Gjúka",
+        "grænar brautir,",
+        "fram vísa sköp",
+        "folklíðöndum;",
+        "þar hefur dýr konungur",
+        "dóttur alna;",
+        "þá muntu, Sigurður,",
+        "myndi kaupa.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Green the paths | that to Gjuki lead,",
+        "And his fate the way | to the wanderer shows;",
+        "The doughty king | a daughter has,",
+        "That thou as a bride | mayst, Sigurth, buy.\"⟦41⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      41
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s42",
+     "stanza": 42,
+     "on": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "\"Salr er á háu",
+        "Hindarfjalli,",
+        "allr er hann útan",
+        "eldi sveipinn,",
+        "þann hafa horskir",
+        "halir of görvan",
+        "ór ódökkum",
+        "Ógnar ljóma.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "\"Salur er á háu",
+        "Hindarfjalli,",
+        "allur er hann utan",
+        "eldi sveipinn,",
+        "þann hafa horskir",
+        "halir of görvan",
+        "úr ódökkum",
+        "Ógnar ljóma.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "Another spake:",
+        "\"A hall stands high | on Hindarfjoll,",
+        "All with flame | is it ringed without;",
+        "Warriors wise | did make it once",
+        "Out of the flaming | light of the flood.⟦42⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      42
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s43",
+     "stanza": 43,
+     "on": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "\"Veit ek á fjalli",
+        "folkvitr sofa",
+        "ok leikr yfir",
+        "lindar váði;",
+        "Yggr stakk þorni,",
+        "aðra felldi",
+        "hör-Gefn hali",
+        "en hafa vildi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "\"Veit eg á fjalli",
+        "folkvitur sofa",
+        "og leikur yfir",
+        "lindar váði;",
+        "Yggur stakk þorni,",
+        "aðra felldu",
+        "hör-Gefn hali",
+        "en hafa vildi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "\"On the mountain sleeps | a battle-maid,",
+        "And about her plays | the bane of the wood;",
+        "Ygg with the thorn | hath smitten her thus,",
+        "For she felled the fighter | he fain would save.⟦43⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      43
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-s44",
+     "stanza": 44,
+     "on": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "\"Knáttu, mögr, séa",
+        "mey und hjalmi,",
+        "þá er frá vígi",
+        "Vingskorni reið;",
+        "má-at Sigrdrífar",
+        "svefni bregða",
+        "skjöldunga niðr",
+        "fyr sköpum norna.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "\"Knáttu, mögur, séa",
+        "mey und hjalmi,",
+        "þá er frá vígi",
+        "Vingskorni reið;",
+        "má-at Sigrdrífar",
+        "svefni bregða",
+        "skjöldunga niður",
+        "fyr sköpum norna.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "\"There mayst thou behold | the maiden helmed,",
+        "Who forth on Vingskornir | rode from the fight;",
+        "The victory-bringer | her sleep shall break not,",
+        "Thou heroes' son, | so the Norns have set.\"⟦44⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      44
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fm-p7",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr reið eftir slóð Fáfnis til bælis hans ok fann þat opit ok hurðir af járni ok gætti. Af járni váru ok allir timbrstokkar í húsinu, en grafit í jörð niðr. Þar fann Sigurðr stórmikit gull ok fylldi þar tvær kistur. Þar tók hann ægishjálm ok gullbrynju ok sverðit Hrotta ok marga dýrgripi ok klyfjaði þar með Grana, en hestrinn vildi eigi fram ganga, fyrr en Sigurðr steig á bak hánum."
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður reið eftir slóð Fáfnis til bælis hans og fann það opið og hurðir af járni og gætti. Af járni voru og allir timbrstokkar í húsinu, en grafið í jörð niður. Þar fann Sigurður stórmikið gull og fylldi þar tvær kistur. Þar tók hann ægishjálm og gullbrynju og sverðið Hrotta og marga dýrgripi og klyfjaði þar með Grana, en hesturinn vildi eigi fram ganga, fyrr en Sigurður steig á bak hánum."
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "p1",
+     "s": "Prose. The prose follows the concluding prose passage of the Reginsmol without any interruption; the heading \"Of Fafnir's Death\" is written in the manuscript very faintly just before stanza 1."
+    },
+    {
+     "n": "p2",
+     "s": "Gnitaheith: cf. Gripisspo, 11 and note."
+    },
+    {
+     "n": "p3",
+     "s": "Fafnir: Regin's brother: cf. Reginsmol, prose after stanza 14."
+    },
+    {
+     "n": "p4",
+     "s": "Venom: in the  Volsungasaga it was the blood, and not the venom, that poured down on Sigurth's head. Sigurth was much worried about this danger, and before he dug the trench asked Regin what would happen if the dragon's blood overcame him. Regin thereupon taunted him with cowardice (Sigurth refers to this taunt in stanza 30, but the stanza embodying it has disappeared). After Sigurth had dug his trench, an old man (Othin, of course) appeared and advised him to dig other trenches to carry off the blood, which he did, thereby escaping harm."
+    },
+    {
+     "n": "1",
+     "s": "The first line in the original, as here, is unusually long, but dramatically very effective on that account."
+    },
+    {
+     "n": "3",
+     "s": "The names of the speakers do not appear in the manuscript, though they seem originally to have been indicated in the margin for stanzas 3-30. The last two lines of stanza 3 are missing in the manuscript, with no gap indicated, but the Volsungasaga prose paraphrase indicates that something was omitted, and the lines here given are conjecturally reconstructed from this paraphrase."
+    },
+    {
+     "n": "4",
+     "s": "The manuscript marks line 3 as the beginning of a stanza."
+    },
+    {
+     "n": "5",
+     "s": "Line 4, utterly obscured in the manuscript, is guesswork."
+    },
+    {
+     "n": "7",
+     "s": "Fafnir here refers to the fact that Hjordis, mother of the still unborn Sigurth, was captured by Alf after Sigmund's death; cf. Fra Dautha Sinfjotla, note."
+    },
+    {
+     "n": "11",
+     "s": "Stanzas 11-15 are probably interpolated, and come from a poem similar to Vafthruthnismol. The headland: Fafnir is apparently quoting proverbs; this one seems to mean that disaster (\"the fate of the Norns\") awaits when one rounds the first headland (i. e., at the beginning of life's voyage, in youth). The third line is a commentary on obstinate rashness. The Volsungasaga paraphrases stanzas 11-15 throughout."
+    },
+    {
+     "n": "12",
+     "s": "Norns: cf. stanza 13 and note. Sigurth has no possible interest in knowing what Norns are helpful in childbirth, but interpolations were seldom logical."
+    },
+    {
+     "n": "13",
+     "s": "Snorri quotes this stanza. There were minor Norns, or fates, in addition to the three great Norns, regarding whom cf. Voluspo, 20. Dvalin: chief of the dwarfs; cf. Voluspo, 14."
+    },
+    {
+     "n": "14",
+     "s": "Surt: ruler of the fire world; the reference is to the last great battle. Sword-sweat: blood."
+    },
+    {
+     "n": "15",
+     "s": "Oskopnir (\"Not-Made\"): apparently another name for Vigrith, which is named in Vafthruthnismol, 18, as the final battle-ground. Bilrost (or Bifrost): the rainbow bridge which breaks beneath Surt's followers; cf. Grimnismol, 29 and note."
+    },
+    {
+     "n": "16",
+     "s": "With this stanza Fafnir returns to the situation. Fear-helm: regarding the \"ægis-hjalmr\" cf. Reginsmol, prose after stanza 14 and note."
+    },
+    {
+     "n": "18",
+     "s": "Lines 3-4 do not appear in the manuscript, and no gap is indicated; they are here conjecturally paraphrased from the prose passage in the Volsungasaga."
+    },
+    {
+     "n": "20",
+     "s": "It has been suggested that this stanza is spurious, and that stanza 21 ought to follow stanza 22. Lines 3-4, abbreviated in the manuscript, are identical with lines 3-4 of stanza 9. The Volsungasaga paraphrase in place of these two lines makes Fafnir say: \"For it often happens that he who gets a deadly wound yet avenges himself.\" It is quite likely that two stanzas have been lost."
+    },
+    {
+     "n": "22",
+     "s": "The Volsungasaga places its paraphrase of this stanza between those of stanzas 15 and 16."
+    },
+    {
+     "n": "24",
+     "s": "Line 2 is probably spurious, but it is a phrase typical of such poems as Grimnismol or Vafthruthnismol."
+    },
+    {
+     "n": "25",
+     "s": "Gram: Sigurth's sword; cf. Reginsmol, prose after 14."
+    },
+    {
+     "n": "26",
+     "s": "In the manuscript stanzas 26-29 stand after stanza 31, which fails to make clear sense; they are here rearranged in accordance with the Volsungasaga paraphrase."
+    },
+    {
+     "n": "28",
+     "s": "Almost certainly interpolated from some such poem as the Hovamol. Even the faithful Volsungasaga fails to paraphrase stanza 29."
+    },
+    {
+     "n": "30",
+     "s": "Something has evidently been lost before this stanza. Sigurth clearly refers to Regin's reproach when he was digging the trench (cf. note on introductory prose), but the poem does not give such a passage."
+    },
+    {
+     "n": "32",
+     "s": "That the birds' stanzas come from more than one source is fairly apparent, but whether from two or from three or more is uncertain. It is also far from clear how many birds are speaking. The manuscript numbers II, III, and IV in the margin with numerals; the Volsungasaga makes a different bird speak each time. There are almost as many guesses as there are editions. I suspect that in the original poem there was one bird, speaking stanzas 34 and 37. Stanza 38 is little more than a repetition of stanza 34, and may well have been a later addition. As for the stanzas in Fornyrthislag (32-33 and 35-36), they apparently come from another poem, in which several birds speak (cf. \"we sisters\" in stanza 35). This may be the same poem from which stanzas 40-44 were taken, as well as some of the Fornyrthislag stanzas in the Sigrdrifumol."
+    },
+    {
+     "n": "34",
+     "s": "Some editions turn this speech from the third person into the second, but the manuscript is clear enough."
+    },
+    {
+     "n": "35",
+     "s": "Wolf, etc.: the phrase is nearly equivalent to \"there must be fire where there is smoke.\" The proverb appears elsewhere in Old Norse."
+    },
+    {
+     "n": "36",
+     "s": "Tree of battle: warrior."
+    },
+    {
+     "n": "37",
+     "s": "Here, as in stanza 34, some editions turn the speech from the third person into the second."
+    },
+    {
+     "n": "38",
+     "s": "Giant: Regin was certainly not a frost-giant, and the whole stanza looks like some copyist's blundering reproduction of stanza 34."
+    },
+    {
+     "n": "40",
+     "s": "Neither the manuscript nor any of the editions suggest the existence of more than one bird in stanzas 40-44. It seems to me, however, that there are not only two birds, but two distinct stories. Stanzas 40-41 apply solely to Guthrun, and suggest that Sigurth will go straight to Gunnar's hall. Stanzas 42-44, on the other hand, apply solely to Brynhild, and indicate that Sigurth will find her before he visits the Gjukungs. The confusion which existed between these two versions of the story, and which involved a fundamental difference in the final working out of Brynhild's revenge, is commented on in the note on Gripisspo, 13. In the present passage it is possible that two birds are speaking, each reflecting one version of the story; it seems even more likely that one speech or the other (40-41 or 42-44) reflects the original form of the narrative, the other having been added, either later or from another poem. In the Volsungasaga the whole passage is condensed into a few words by one bird: \"Wiser were it if he should then ride up on Hindarfjoll, where Brynhild sleeps, and there would he get much wisdom.\" The Guthrun-bird does not appear at all."
+    },
+    {
+     "n": "41",
+     "s": "Gjuki: father of Gunnar and Guthrun: cf. Gripisspo, 13 and note."
+    },
+    {
+     "n": "42",
+     "s": "Hindarfjoll: \"Mountain of the Hind.\" Light of the flood: gold; cf. Reginsmol, 1 and note."
+    },
+    {
+     "n": "43",
+     "s": "Battle-maid: Brynhild, here clearly defined as a Valkyrie. Bane of the wood: fire. Ygg: Othin; cf. Grimnismol, 53. The thorn: a prose note in Sigrdrifumol calls it \"sleep-thorn.\" The fighter: the story of the reason for Brynhild's punishment is told in the prose following stanza 4 of Sigrdrifumol."
+    },
+    {
+     "n": "44",
+     "s": "Vingskornir: Brynhild's horse, not elsewhere mentioned. Victory-bringer: the word thus translated is in the original \"sigrdrifa.\" The compiler of the collection, not being familiar with this word, assumed that it was a proper name, and in the prose following stanza 4 of the Sigrdrifumol he specifically states that this was the Valkyrie's name. Editors, until recently, have followed him in this error, failing to recognize that \"sigrdrifa\" was simply an epithet for Brynhild. It is from this blunder that the so-called Sigrdrifumol takes its name. Brynhild's dual personality as a Valkyrie and as the daughter of Buthli has made plenty of trouble, but the addition of a second Valkyrie in the person of the supposed \"Sigrdrifa\" has made still more."
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "The so-called Fafnismol, contained in full in the Codex Regius, where it immediately follows the Reginsmol without any indication of a break, is quoted by Snorri in the Gylfaginning (stanza 13) and the Skaldskaparmal (stanzas 32 and 33), and stanzas 6, 3, and 4 appear in the Sverrissaga. Although the Volsungasaga does not actually quote any of the stanzas, it gives a very close prose parallel to the whole poem in chapters 18 and 19.",
+    "The general character of the Fafnismol, and its probable relation to the Reginsmol and the Sigrdrifumol, have been discussed in the introductory note to the Reginsmol. While it is far more nearly a unit than the Reginsmol, it shows many of the same characteristics. It has the same mixture of stanza forms, although in this case only nine stanzas (32-33, 35-36 and 40-44) vary from the normal Ljothahattr measure. It shows, though to a much less marked extent, the same tendency to introduce passages from extraneous sources, such as the question-and-answer passage in stanzas 11-15. At the same time, in this instance it is quite clear that one distinct poem, including probably stanzas 1-10, 16-23, 25-31, and 34-39, underlay the compilation which we here have. This may, perhaps, have been a long poem (not, however, the \"Long\" Sigurth Lay; see introductory note to Brot af Sigurtharkvithu) dealing with the Regin-Fafnir-Sigurth-Brynhild story, and including, besides most of the Fafnismol, stanzas 1-4 and 6-11 of the Reginsmol and part of the so-called Sigrdrifumol, together with much that has been lost. The original poem may, on the other hand, have confined itself to the Fafnir episode.",
+    "In any case, and while the extant Fafnismol can be spoken of as a distinct poem far more justly than the Reginsmol, there is still no indication that the compiler regarded it as a poem by itself. His prose notes run on without a break, and the verses simply cover a dramatic episode in Sigurth's early life. The fact that the work of compilation has been done more intelligently than in the case of the Reginsmol seems to have resulted chiefly from the compiler's having been familiar with longer consecutive verse passages dealing with the Fafnir episode. The Reginsmol is little more than a clumsy mosaic, but in the Fafnismol it is possible to distinguish between the main substance of the poem and the interpolations.",
+    "Here, as in the Reginsmol, there is very little that bespeaks the German origin of the Sigurth story. Sigurth's winning of the treasure is in itself undoubtedly a part of the earlier southern legend, but the manner in which he does it is thoroughly Norse. Moreover, the concluding section, which points toward the finding of the sleeping Brynhild, relates entirely to the northern Valkyrie, the warrior-maiden punished by Othin, and not at all to the southern Brynhild the daughter of Buthli. The Fafnismol is, however, sharply distinguished from the Reginsmol by showing no clear traces of the Helgi tradition, although a part of the bird song (stanzas 40-44, in Fornyrthislag form, as distinct from the body of the poem) sounds suspiciously like the bird passage in the beginning of the Helgakvitha Hjorvarthssonar. Regarding the general relations of the various sets of traditions in shaping the story of Sigurth, see the introductory note to Gripisspo.",
+    "The Fafnismol, together with a part of the Sigrdrifumol, has indirectly become the best known of all the Eddic poems, for the reason that Wagner used it, with remarkably little change of outline, as the basis for his \"Siegfried.\""
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Fáfnismál)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Fafnismol"
+ }
+}

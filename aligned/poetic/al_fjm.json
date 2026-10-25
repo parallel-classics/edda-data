@@ -1,0 +1,3047 @@
+{
+ "part": "poetic",
+ "poem": "fjm",
+ "title": "Fjölsvinnsmál",
+ "group": "myth",
+ "chapters": [
+  {
+   "num": 17,
+   "key": "fjm",
+   "title": "Fjölsvinnsmál",
+   "subtitle": null,
+   "group": "myth",
+   "rows": [
+    {
+     "id": "fjm-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Útan garða",
+        "hann sá upp of koma",
+        "þursa þjóðar sjöt:",
+        "\"Hvat er þat flagða,",
+        "er stendr fyr forgörðum",
+        "ok hvarflar um hættan loga?"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Utan garða",
+        "hann sá upp of koma",
+        "þursa þjóðar sjöt:",
+        "\"Hvað er það flagða,",
+        "er stendur fyr forgörðum",
+        "og hvarflar um hættan loga?"
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Svipdag spake:",
+        "\"What giant is here, | in front of the house,",
+        "To the wayfarer welcome denying?\"",
+        "Fjolsvith spake:",
+        "\"Greeting full fair | thou never shalt find,",
+        "So hence shalt thou get thee home."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "s_en": 0.3
+    },
+    {
+     "id": "fjm-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Hvers þú leitar,",
+        "eða hvers þú á leitum ert,",
+        "eða hvat viltu, vinlaus, vita?",
+        "Úrgar brautir",
+        "árnaðu aftr heðan;",
+        "átt-at-tu hér, verndar vanr, veru.\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Kómumaðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "3 .",
+        "\"Hvat er þat flagða,",
+        "er stendr fyr forgarði",
+        "ok býðr-at líðöndum löð?",
+        "Sæmðarorðalauss",
+        "hefir þú, seggr, of lifat,",
+        "ok haltu heim heðan!\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Borgarvörðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "4 .",
+        "\"Fjölsviðr ek heiti,",
+        "en ek á fróðan sefa,",
+        "þeygi em ek míns mildr matar;",
+        "innan garða",
+        "þú kemr hér aldregi,",
+        "ok dríf þú nú, vargr, at vegi!\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Kómumaðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "5 .",
+        "\"Augna gamans",
+        "fýsir aftr at fá,",
+        "hvars hann getr svást at sjá;",
+        "garðar glóa",
+        "mér þykkja of gullna sali;",
+        "hér mynda ek eðli una.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Hvers þú leitar,",
+        "eða hvers þú á leitum ert,",
+        "eða hvað viltu, vinlaus, vita?",
+        "Úrgar brautir",
+        "árnaðu aftur héðan;",
+        "átt-at-tu hér, verndar vanur, veru.\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Kómumaður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "3 .",
+        "\"Hvað er það flagða,",
+        "er stendur fyr forgarði",
+        "og býðr-at líðöndum löð?",
+        "Sæmðarorðalaus",
+        "hefur þú, seggur, of lifað,",
+        "og haltu heim héðan!\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Borgarvörður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "4 .",
+        "\"Fjölsviður eg heiti,",
+        "en eg á fróðan sefa,",
+        "þeygi em eg míns mildur matar;",
+        "innan garða",
+        "þú kemur hér aldregi,",
+        "og dríf þú nú, vargur, að vegi!\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Kómumaður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "5 .",
+        "\"Augna gamans",
+        "fýsir aftur að fá,",
+        "hvars hann getur svást að sjá;",
+        "garðar glóa",
+        "mér þykja of gullna sali;",
+        "hér mun eg eðli una.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Fjolsvith am I, | and wise am I found,",
+        "But miserly am I with meat;",
+        "Thou never shalt enter | within the house,—",
+        "Go forth like a wolf on thy way!\""
+       ]
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Svipdag spake:",
+        "\"Few from the joy | of their eyes will go forth,",
+        "When the sight of their loves they seek;",
+        "Full bright are the gates | of the golden hall,",
+        "And a home shall I here enjoy.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      20,
+      21
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "s_en": 0.15
+    },
+    {
+     "id": "fjm-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Segðu mér, hverjum",
+        "ertu, sveinn, of borinn,",
+        "eða hverra ertu manna mögr?\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Kómumaðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Vindkaldr ek heiti,",
+        "Várkaldr hét minn faðir,",
+        "þess var Fjölkaldr faðir."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Segðu mér, hverjum",
+        "ertu, sveinn, of borinn,",
+        "eða hverra ertu manna mögur?\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Kómumaður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Vindkaldur eg heiti,",
+        "Várkaldur hét minn faðir,",
+        "þess var Fjölkaldur faðir."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Tell me now, fellow, | what father thou hast,",
+        "And the kindred of whom thou camst.\""
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Svipdag spake:",
+        "\"Vindkald am I, | and Varkald's son,",
+        "And Fjolkald his father was.⟦22⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      22
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Segðu mér þat, Fjölsviðr,",
+        "er ek fregna mun",
+        "ok ek vilja vita:",
+        "Hverr hér ræðr",
+        "ok ríki hefir",
+        "eign ok auðsölum?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Segðu mér það, Fjölsviður,",
+        "er eg fregna mun",
+        "og eg vilja vita:",
+        "Hver hér ræður",
+        "og ríki hefur",
+        "eign og auðsölum?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "Who is it that holds | and has for his own",
+        "The rule of the hall so rich?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      23
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Menglöð of heitir,",
+        "en hana móðir of gat",
+        "við Svafrþorins syni;",
+        "hon hér ræðr",
+        "ok ríki hefir",
+        "eign ok auðsölum\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Menglöð of heitir,",
+        "en hana móðir of gat",
+        "við Svafrþorins syni;",
+        "hún hér ræður",
+        "og ríki hefur",
+        "eign og auðsölum\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Mengloth is she, | her mother bore her",
+        "To the son of Svafrthorin;",
+        "She is it that holds | and has for her own",
+        "The rule of the hall so rich.\"⟦24⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      24
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita:",
+        "Hvat sú grind heitir,",
+        "er með goðum sá-at",
+        "menn it meira forað?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita:",
+        "Hvað sú grind heitir,",
+        "er með goðum sá-at",
+        "menn it meira forað?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "What call they the gate? | for among the gods",
+        "Ne'er saw man so grim a sight.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      25
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Þrymgjöll hon heitir,",
+        "en hana þrír gerðu",
+        "Sólblinda synir;",
+        "fjöturr fastr",
+        "verðr við faranda hvern",
+        "er hana hefr frá hliði.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Þrymgjöll hún heitir,",
+        "en hana þrír gerðu",
+        "Sólblinda synir;",
+        "fjötur fastur",
+        "verður við faranda hvern",
+        "er hana hefur frá hliði.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Thrymgjol they call it; | 'twas made by the three,",
+        "The sons of Solblindi;",
+        "And fast as a fetter | the farer it holds,",
+        "Whoever shall lift the latch.\"⟦26⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      26
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita:",
+        "Hvat sá garðr heitir,",
+        "er með goðum sá-at",
+        "menn it meira forað?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita:",
+        "Hvað sá garður heitir,",
+        "er með goðum sá-at",
+        "menn it meira forað?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "What call they the house? | for no man beheld",
+        "'Mongst the gods so grim a sight.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      27
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Gastrópnir heitir,",
+        "en ek hann görfan hefk",
+        "ór Leirbrimis limum;",
+        "svá hefik studdan,",
+        "at hann standa mun,",
+        "æ meðan öld lifir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Gastrópnir heitir,",
+        "en eg hann görfan hefg",
+        "úr Leirbrimis limum;",
+        "svo hefig studdan,",
+        "að hann standa mun,",
+        "æ meðan öld lifir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Gastropnir is it, | of old I made it",
+        "From the limbs of Leirbrimir;",
+        "I braced it so strongly | that fast it shall stand",
+        "So long as the world shall last.\"⟦28⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      28
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita:",
+        "Hvat þeir garmar heita,",
+        "er gífrari hefik",
+        "enga fyrr í löndum lítit?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita:",
+        "Hvað þeir garmar heita,",
+        "er gífrari hefig",
+        "enga fyrr í löndum lítið?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "What call they the tree | that casts abroad",
+        "Its limbs o'er every land?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      29
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Gífr heitir annarr,",
+        "en Geri annarr,",
+        "ef þú vilt þat vita;",
+        "varðir ellifu,",
+        "er þeir varða,",
+        "unz rjúfask regin.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Gífur heitir annar,",
+        "en Geri annar,",
+        "ef þú vilt það vita;",
+        "varðir ellifu,",
+        "er þeir varða,",
+        "uns rjúfast regin.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Mimameith its name, | and no man knows",
+        "What root beneath it runs;",
+        "And few can guess | what shall fell the tree,",
+        "For fire nor iron shall fell it.\"⟦30⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      30
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita,",
+        "hvárt sé manna nökkut,",
+        "þat er megi inn koma,",
+        "meðan sókndjarfir sofa.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita,",
+        "hvort sé manna nokkurt,",
+        "það er megi hinn koma,",
+        "meðan sókndjarfir sofa.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "What grows from the seed | of the tree so great,",
+        "That fire nor iron shall fell?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      31
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Missvefni mikit",
+        "var þeim mjök of lagit,",
+        "síðan þeim var varzla vituð;",
+        "annarr of nætr sefr,",
+        "en annarr of daga,",
+        "ok kemsk þá vætr, ef þá kom.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Missvefni mikið",
+        "var þeim mjög of lagið,",
+        "síðan þeim var varzla vituð;",
+        "annar of nætur sefur,",
+        "en annar of daga,",
+        "og kemst þá vætur, ef þá kom.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Women, sick | with child, shall seek",
+        "Its fruit to the flames to bear;",
+        "Then out shall come | what within was hid,",
+        "And so is it mighty with men.\"⟦32⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      32
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita,",
+        "hvárt sé matar nökkut,",
+        "þat er menn hafi,",
+        "ok hlaupi inn, meðan þeir eta.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita,",
+        "hvort sé matar nokkurt,",
+        "það er menn hafi,",
+        "og hlaupi hinn, meðan þeir eta.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "What cock is he | on the highest bough,",
+        "That glitters all with gold?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      33
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Vegnbráðir tvær",
+        "liggja í Viðópnis liðum,",
+        "ef þú vilt þat vita,",
+        "þat eitt er svá matar,",
+        "at þeim menn of gefi,",
+        "ok hlaupi inn, meðan þeir eta.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Vegnbráðir tvær",
+        "liggja í Viðópnis liðum,",
+        "ef þú vilt það vita,",
+        "það eitt er svo matar,",
+        "að þeim menn of gefi,",
+        "og hlaupi hinn, meðan þeir eta.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Vithofnir his name, | and now he shines",
+        "Like lightning on Mimameith's limbs;",
+        "And great is the trouble | with which he grieves",
+        "Both Surt and Sinmora.\"⟦34⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      34
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita:",
+        "Hvat þat barr heitir,",
+        "er breiðask um",
+        "lönd öll limar?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita:",
+        "Hvað það barr heitir,",
+        "er breiðast um",
+        "lönd öll limar?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "What call they the hounds, | that before the house",
+        "So fierce and angry are?\"⟦35⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      35
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Mímameiðr hann heitir,",
+        "en þat manngi veit,",
+        "af hverjum rótum renn;",
+        "við þat hann fellr,",
+        "er fæstan varir,",
+        "flær-at hann eld né járn.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Mímameiður hann heitir,",
+        "en það manngi veit,",
+        "af hverjum rótum rennur;",
+        "við það hann fellur,",
+        "er fæstan varir,",
+        "flær-at hann eld né járn.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Gif call they one, | and Geri the other,",
+        "If now the truth thou wouldst know;",
+        "Great they are, | and their might will grow,",
+        "Till the gods to death are doomed.\"⟦36⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      36
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita:",
+        "Hvat af móði verðr",
+        "þess ins mæra viðar,",
+        "er hann flær-rat eld né járn?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita:",
+        "Hvað af móði verður",
+        "þess hins mæra viðar,",
+        "er hann flær-rat eld né járn?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "May no man hope | the house to enter,",
+        "While the hungry hounds are sleeping?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      37
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Út af hans aldni",
+        "skal á eld bera",
+        "fyr kelisjúkar konur;",
+        "útar hverfa",
+        "þats þær innar skyli,",
+        "sá er hann með mönnum mjötuðr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Út af hans aldni",
+        "skal á eld bera",
+        "fyr kelisjúkar konur;",
+        "utar hverfa",
+        "þats þær innar skyli,",
+        "sá er hann með mönnum mjötuður.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Together they sleep not, | for so was it fixed",
+        "When the guard to them was given;",
+        "One sleeps by night, | the next by day,",
+        "So no man may enter ever.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      38
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita:",
+        "Hvat sá hani heitir,",
+        "er sitr í inum háva viði,",
+        "allr hann við gull glóir?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita:",
+        "Hvað sá hani heitir,",
+        "er situr í hinum háa viði,",
+        "allur hann við gull glóir?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "Is there no meat | that men may give them,",
+        "And leap within while they eat?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      39
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Víðópnir hann heitir,",
+        "en hann stendr veðrglasir",
+        "á meiðs kvistum Míma;",
+        "einum ekka",
+        "þryngr hann örófsaman",
+        "Surtr Sinmöru.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Víðópnir hann heitir,",
+        "en hann stendur veðrglasir",
+        "á meiðs kvistum Míma;",
+        "einum ekka",
+        "þryngur hann örófsaman",
+        "Surtur Sinmöru.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Two wing-joints there be | in Vithofnir's body,",
+        "If now the truth thou wouldst know;",
+        "That alone is the meat | that men may give them,",
+        "And leap within while they eat.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      40
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita:",
+        "hvárt sé vápna nökkut,",
+        "þat er knegi Viðópnir fyrir",
+        "hníga á Heljar sjöt?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita:",
+        "hvort sé vápna nokkurt,",
+        "það er knegi Viðópnir fyrir",
+        "hníga á Heljar sjöt?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "What weapon can send | Vithofnir to seek",
+        "The house of Hel below?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      41
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Lævateinn heitir hann,",
+        "en hann gerði Loftr rúnum",
+        "fyr nágrindr neðan;",
+        "í segjárnskeri",
+        "liggr hann hjá Sinmöru,",
+        "ok halda njarðlásar níu.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Lævateinn heitir hann,",
+        "en hann gerði Loftur rúnum",
+        "fyr nágrindur neðan;",
+        "í segjárnskeri",
+        "liggur hann hjá Sinmöru,",
+        "og halda njarðlásar níu.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Lævatein is there, | that Lopt with runes",
+        "Once made by the doors of death;",
+        "In Lægjarn's chest | by Sinmora lies it,",
+        "And nine locks fasten it firm.\"⟦42⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      42
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita:",
+        "hvárt aftr kemr,",
+        "sá er eftir ferr",
+        "ok vill þann tein taka.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita:",
+        "hvort aftur kemur,",
+        "sá er eftir fer",
+        "og vill þann tein taka.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "May a man come thence | who thither goes,",
+        "And tries the sword to take?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      43
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s28",
+     "stanza": 28,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Aftr mun koma,",
+        "sá er eftir ferr",
+        "ok vill þann tein taka,",
+        "ef þat færir,",
+        "er fáir eigu,",
+        "Eiri örglasis.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Aftur mun koma,",
+        "sá er eftir fer",
+        "og vill þann tein taka,",
+        "ef það færir,",
+        "er fáir eiga,",
+        "Eiri örglasis.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Thence may he come | who thither goes,",
+        "And tries the sword to take,",
+        "If with him he carries | what few can win,",
+        "To give to the goddess of gold.\"⟦44⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      44
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s29",
+     "stanza": 29,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita:",
+        "hvárt sé mæta nökkut,",
+        "þat er menn hafi",
+        "ok verðr því in fölva gýgr fegin.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita:",
+        "hvort sé mæta nokkurt,",
+        "það er menn hafi",
+        "og verður því hin fölva gýgur fegin.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "What treasure is there | that men may take",
+        "To rejoice the giantess pale?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      45
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s30",
+     "stanza": 30,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Ljósan léa",
+        "skaltu í lúðr bera,",
+        "þann er liggr í Viðópnis völum,",
+        "Sinmöru at selja,",
+        "áðr hon söm telisk",
+        "vápn til vígs at ljá.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Ljósan léa",
+        "skaltu í lúður bera,",
+        "þann er liggur í Viðópnis völum,",
+        "Sinmöru að selja,",
+        "áður hún söm telist",
+        "vopn til vígs að ljá.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "Fjolsvith spake:",
+        "\"The sickle bright | in thy wallet bear,",
+        "Mid Vithofnir's feathers found;",
+        "To Sinmora give it, | and then shall she grant",
+        "That the weapon by thee be won.\"⟦46⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      46
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s31",
+     "stanza": 31,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita:",
+        "Hvat sá salr heitir,",
+        "er slunginn er",
+        "vísum vafrloga?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita:",
+        "Hvað sá salur heitir,",
+        "er slunginn er",
+        "vísum vafrloga?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "What call they the hall, | encompassed here",
+        "With flickering magic flames?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      47
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s32",
+     "stanza": 32,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Hyrr hann heitir,",
+        "en hann lengi mun",
+        "á brodds oddi bifask;",
+        "auðranns þess",
+        "munu um aldr hafa",
+        "frétt eina fírar.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Hyr hann heitir,",
+        "en hann lengi mun",
+        "á brodds oddi bifast;",
+        "auðranns þess",
+        "munu um aldur hafa",
+        "frétt eina fírar.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Lyr is it called, | and long it shall",
+        "On the tip of a spear-point tremble;",
+        "Of the noble house | mankind has heard,",
+        "But more has it never known.\"⟦48⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      48
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s33",
+     "stanza": 33,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita:",
+        "Hverr þat gerði,",
+        "er ek fyr garð sák",
+        "innan, ásmaga?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita:",
+        "Hver það gerði,",
+        "er eg fyr garð ság",
+        "innan, ásmaga?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "What one of the gods | has made so great",
+        "The hall I behold within?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      49
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s34",
+     "stanza": 34,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Uni ok Íri,",
+        "Óri ok Bári,",
+        "Varr ok Vegdrasill;",
+        "Dóri ok Úri,",
+        "Dellingr, Atvarðr,",
+        "Líðskjalfr, Loki.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Uni og Íri,",
+        "Óri og Bári,",
+        "Var og Vegdrasill;",
+        "Dór og Úri,",
+        "Dellingur, Atvarður,",
+        "Líðskjalfur, Loki.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Uni and Iri, | Bari and Jari,",
+        "Var and Vegdrasil,",
+        "Dori and Ori, | Delling, and there",
+        "Was Loki, the fear of the folk.\"⟦50⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      50
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s35",
+     "stanza": 35,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita:",
+        "Hvat þat bjarg heitir,",
+        "er ek sé brúði á",
+        "þjóðmæra þruma?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita:",
+        "Hvað það bjarg heitir,",
+        "er eg sé brúði á",
+        "þjóðmæra þruma?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "What call they the mountain | on which the maid",
+        "Is lying so lovely to see?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      51
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s36",
+     "stanza": 36,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "\"Lyfjaberg þat heitir,",
+        "en þat hefir lengi verit",
+        "sjúkum ok sárum gaman;",
+        "heil verðr hver,",
+        "þótt hafi árs sótt,",
+        "ef þat klífr, kona.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "\"Lyfjaberg það heitir,",
+        "en það hefur lengi verið",
+        "sjúkum og sárum gaman;",
+        "heil verður hver,",
+        "þótt hafi árs sótt,",
+        "ef það klífur, kona.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Lyfjaberg is it, | and long shall it be",
+        "A joy to the sick and the sore;",
+        "For well shall grow | each woman who climbs it,",
+        "Though sick full long she has lain.\"⟦52⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      52
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s37",
+     "stanza": 37,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita:",
+        "Hvat þær meyjar heita,",
+        "er fyr Menglaðar knjám",
+        "sitja sáttar saman?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita:",
+        "Hvað þær meyjar heita,",
+        "er fyr Menglaðar knjám",
+        "sitja sáttar saman?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "What maidens are they | that at Mengloth's knees",
+        "Are sitting so gladly together?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      53
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s38",
+     "stanza": 38,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "\"Hlíf heitir,",
+        "önnur Hlífþrasa,",
+        "þriðja Þjóðvarta,",
+        "Björt ok Blíð,",
+        "Blíðr, Fríð,",
+        "Eir ok Aurboða.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "\"Hlíf heitir,",
+        "önnur Hlífþrasa,",
+        "þriðja Þjóðvarta,",
+        "Björt og Blíð,",
+        "Blíður, Fríð,",
+        "Eir og Aurboða.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Hlif is one named, | Hlifthrasa another,",
+        "Thjothvara call they the third;",
+        "Bjort and Bleik, | Blith and Frith,",
+        "Eir and Aurbotha.\"⟦54⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      54
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s39",
+     "stanza": 39,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita:",
+        "Hvárt þær bjarga,",
+        "þeim er blóta þær,",
+        "ef gerask þarfar þess?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita:",
+        "Hvort þær bjarga,",
+        "þeim er blóta þær,",
+        "ef gerast þarfar þess?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "Aid bring they to all | who offerings give,",
+        "If need be found therefor?\"⟦55⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      55
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s40",
+     "stanza": 40,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "\"Bjarga svinnar,",
+        "hvar er menn blóta þær",
+        "á stallhelgum stað;",
+        "eigi svá hátt forað",
+        "kemr at hölða sonum,",
+        "hvern þær ór nauðum nema.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "\"Bjarga svinnar,",
+        "hvar er menn blóta þær",
+        "á stallhelgum stað;",
+        "eigi svo hátt forað",
+        "kemur að hölða sonum,",
+        "hvern þær úr nauðum nema.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 56,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Soon aid they all | who offerings give",
+        "On the holy altars high;",
+        "And if danger they see | for the sons of men,",
+        "Then each from ill do they guard.\"⟦56⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      56
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s41",
+     "stanza": 41,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Segðu mér þat, Fjölsviðr,",
+        "er ek þik fregna mun",
+        "ok ek vilja vita,",
+        "hvárt sé manna nökkut,",
+        "er knegi á Menglaðar",
+        "svásum armi sofa?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Segðu mér það, Fjölsviður,",
+        "er eg þig fregna mun",
+        "og eg vilja vita,",
+        "hvort sé manna nokkurt,",
+        "er knegi á Menglaðar",
+        "svásum armi sofa?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 57,
+       "l": [
+        "Svipdag spake:",
+        "\"Now answer me, Fjolsvith, | the question I ask,",
+        "For now the truth would I know:",
+        "Lives there the man | who in Mengloth's arms",
+        "So fair may seek to sleep?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      57
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s42",
+     "stanza": 42,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "\"Vætr er þat manna,",
+        "er knegi á Menglaðar",
+        "svásum armi sofa,",
+        "nema Svipdagr einn,",
+        "hánum var sú in sólbjarta",
+        "brúðr at kván of kveðin.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "\"Vætur er það manna,",
+        "er knegi á Menglaðar",
+        "svásum armi sofa,",
+        "nema Svipdagur einn,",
+        "hánum var sú hin sólbjarta",
+        "brúður að kvon of kveðin.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 58,
+       "l": [
+        "Fjolsvith spake:",
+        "\"No man there is | who in Mengloth's arms",
+        "So fair may seek to sleep.",
+        "Save Svipdag alone, | for the sun-bright maid",
+        "Is destined his bride to be.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      58
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s43",
+     "stanza": 43,
+     "on": [
+      {
+       "t": "p",
+       "s": "Vindkaldr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "\"Hrittu á hurðir,",
+        "láttu hlið rúm,",
+        "hér máttu Svipdag sjá;",
+        "en þó vita far,",
+        "ef vilja myni",
+        "Menglöð mitt gaman.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Vindkaldur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "\"Hrittu á hurðir,",
+        "láttu hlið rúm,",
+        "hér máttu Svipdag sjá;",
+        "en þó vita far,",
+        "ef vilja muni",
+        "Menglöð mitt gaman.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 59,
+       "l": [
+        "Svipdag spake:",
+        "\"Fling back the gates! | make the gateway wide!",
+        "Here mayst thou Svipdag see!",
+        "Hence get thee to find | if gladness soon",
+        "Mengloth to me will give.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      59
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s44",
+     "stanza": 44,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjölsviðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "\"Heyr þú, Menglöð,",
+        "hér er maðr kominn,",
+        "gakk þú á gest sjá;",
+        "hundar fagna,",
+        "hús hefir upp lokizk,",
+        "hygg ek, at Svipdagr sé.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjölsviður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "\"Heyr þú, Menglöð,",
+        "hér er maður kominn,",
+        "gakk þú á gest sjá;",
+        "hundar fagna,",
+        "hús hefur upp lokizg,",
+        "hygg eg, að Svipdagur sé.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 60,
+       "l": [
+        "Fjolsvith spake:",
+        "\"Hearken, Mengloth, | a man is come;",
+        "Go thou the guest to see!",
+        "The hounds are fawning, | the house bursts open,—",
+        "Svipdag, methinks, is there.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      60
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s45",
+     "stanza": 45,
+     "on": [
+      {
+       "t": "p",
+       "s": "Menglöð kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "\"Horskir hrafnar",
+        "skulu þér á hám galga",
+        "slíta sjónir ór,",
+        "ef þú þat lýgr,",
+        "at hér sé langt kominn",
+        "mögr til minna sala."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "46",
+        "Hvaðan þú fórt,",
+        "hvaðan þú för gerðir,",
+        "hvé þik hétu hjú?",
+        "At ætt ok nafni",
+        "skal ek jartegn vita,",
+        "ef ek var þér kván of kveðin.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Menglöð kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "\"Horskir hrafnar",
+        "skulu þér á hám galga",
+        "slíta sjónir úr,",
+        "ef þú það lýgur,",
+        "að hér sé langt kominn",
+        "mögur til minna sala."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "46",
+        "Hvaðan þú fórt,",
+        "hvaðan þú för gerðir,",
+        "hve þig hétu hjú?",
+        "Að ætt og nafni",
+        "skal eg jartegn vita,",
+        "ef eg var þér kvon of kveðin.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 61,
+       "l": [
+        "Mengloth spake:",
+        "\"On the gallows high | shall hungry ravens",
+        "Soon thine eyes pluck out,",
+        "If thou liest in saying | that here at last",
+        "The hero is come to my hall."
+       ]
+      },
+      {
+       "t": "v",
+       "n": 62,
+       "l": [
+        "\"Whence camest thou hither? | how camest thou here?",
+        "What name do thy kinsmen call thee?",
+        "Thy race and thy name | as a sign must I know,",
+        "That thy bride I am destined to be.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      61,
+      62
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s47",
+     "stanza": 47,
+     "on": [
+      {
+       "t": "p",
+       "s": "Svipdagr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "\"Svipdagr ek heiti,",
+        "Sólbjartr hét minn faðir,",
+        "þaðan rákumk vindkalda vegu;",
+        "Urðar orði",
+        "kveðr engi maðr,",
+        "þótt þat sé við löst lagit.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Svipdagur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "\"Svipdagur eg heiti,",
+        "Sólbjartur hét minn faðir,",
+        "þaðan rákumk vindkalda vega;",
+        "Urðar orði",
+        "kveður enginn maður,",
+        "þótt það sé við löst lagið.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 63,
+       "l": [
+        "Svipdag spake:",
+        "\"Svipdag am I, | and Solbjart's son;",
+        "Thence came I by wind-cold ways;",
+        "With the words of Urth | shall no man war,",
+        "Though unearned her gifts be given.\"⟦63⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      63
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s48",
+     "stanza": 48,
+     "on": [
+      {
+       "t": "p",
+       "s": "Menglöð kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "\"Vel þú nú kominn,",
+        "hefik minn vilja beðit,",
+        "fylgja skal kveðju koss;",
+        "forkunnar sýn",
+        "mun flestan glaða,",
+        "hvars hefir við annan ást."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Menglöð kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "\"Vel þú nú kominn,",
+        "hefig minn vilja beðið,",
+        "fylgja skal kveðju koss;",
+        "forkunnar sýn",
+        "mun flestan glaða,",
+        "hvars hefur við annan ást."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 64,
+       "l": [
+        "Mengloth spake:",
+        "\"Welcome thou art, | for long have I waited;",
+        "The welcoming kiss shalt thou win!",
+        "For two who love | is the longed-for meeting",
+        "The greatest gladness of all."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      64
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s49",
+     "stanza": 49,
+     "on": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "Lengi ek sat",
+        "ljúfu bergi á,",
+        "beið ek þín dægr ok daga;",
+        "nú þat varð,",
+        "er ek vætt hefi,",
+        "at þú ert kominn, mögr, til minna sala."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "Lengi eg sat",
+        "ljúfu bergi á,",
+        "beið eg þín dægur og daga;",
+        "nú það varð,",
+        "er eg vætt hef,",
+        "að þú ert kominn, mögur, til minna sala."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 65,
+       "l": [
+        "\"Long have I sat | on Lyfjaberg here,",
+        "Awaiting thee day by day;",
+        "And now I have | what I ever hoped,",
+        "For here thou art come to my hall.⟦65⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      65
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fjm-s50",
+     "stanza": 50,
+     "on": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "Þrár hafðar",
+        "er ek hefi til þíns gamans,",
+        "en þú til míns munar;",
+        "nú er þat satt,",
+        "er vit slíta skulum",
+        "ævi ok aldr saman.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "Þrár hafðar",
+        "er eg hef til þíns gamans,",
+        "en þú til míns munar;",
+        "nú er það satt,",
+        "er vit slíta skulum",
+        "ævi og aldur saman.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 66,
+       "l": [
+        "\"Alike we yearned; | I longed for thee,",
+        "And thou for my love hast longed;",
+        "But now henceforth | together we know",
+        "Our lives to the end we shall live.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      66
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "22",
+     "s": "Vindkald (\"Wind-Cold\"), Varkald (\"Cold of Early Spring\") and Fjolkald (\"Much Cold\"): Svipdag apparently seeks to persuade Fjolsvith that he belongs to the frost giants."
+    },
+    {
+     "n": "24",
+     "s": "Svafrthorin: who he was, or what his name means, or who his son was, are all unknown."
+    },
+    {
+     "n": "26",
+     "s": "Thrymgjol (\"Loud-Clanging\"): this gate, like the gate of the dead, shuts so fast as to trap those who attempt to use it (cf. Sigurtharkvitha en skamma, 68 and note). It was made by the dwarfs, sons of Solblindi (\"Sun-Blinded\"), the traditional craftsmen, who could not endure the light of day."
+    },
+    {
+     "n": "28",
+     "s": "Gastropnir: \"Guest-Crusher.\" Leirbrimir's (\"Clay-Giant's\") limbs: a poetic circumlocution for \"clay\"; cf. the description of the making of earth from the body of the giant Ymir, Vafthruthnismol, 21."
+    },
+    {
+     "n": "30",
+     "s": "Mimameith (\"Mimir's Tree\"): the ash Yggdrasil, that overshadows the whole world. The well of Mimir was situated at its base; cf. Voluspo, 27-29."
+    },
+    {
+     "n": "32",
+     "s": "Gering suggests that two stanzas have been lost between stanzas 15 and 16, but the giant's answer fits the question quite well enough. The fruit of Yggdrasil, when cooked, is here assumed to have the power of assuring safe childbirth."
+    },
+    {
+     "n": "34",
+     "s": "Vithofnir (\"Tree-Snake\"): apparently identical with either the cock Gollinkambi (cf. Voluspo, 43) or Fjalar (cf. Voluspo, 42), the former of which wakes the gods to battle, and the latter the giants. Surt: the giant mentioned in Voluspo, 52, as ruler of the fire-world; here used to represent the giants in general, who are constantly in terror of the cock's eternal watchfulness. Sinmora: presumably Surt's wife, the giantess who possesses the weapon by which alone the cock Vithofnir may be slain."
+    },
+    {
+     "n": "35",
+     "s": "The last two lines have been variously emended."
+    },
+    {
+     "n": "36",
+     "s": "Gif and Geri: both names signify \"Greedy.\" The first part of line 3 is conjectural; the manuscripts indicate the word \"eleven,\" which clearly fails to make sense."
+    },
+    {
+     "n": "42",
+     "s": "Lævatein (\"Wounding Wand\"): the manuscripts differ as to the form of this name. The suggestion that the reference is to the mistletoe with which Baldr was killed seems hardly reasonable. Lopt: Loki. Lægjarn (\"Lover of Ill\"): Loki; cf. Voluspo, 35, where the term appears as an adjective applied to Loki. This is Falk's emendation for the manuscripts' \"Sægjarn,\" meaning \"Sea Lover.\" Sinmora: cf. stanza 34."
+    },
+    {
+     "n": "44",
+     "s": "Goddess of gold: poetic circumlocution for \"woman,\" here meaning Sinmora."
+    },
+    {
+     "n": "46",
+     "s": "Sickle: i.e., tail feather. With this the circle of impossibilities is completed. To get past the dogs, they must be fed with the wing-joints of the cock Vithofnir; the cock can be killed only with the sword in Sinmora's possession, and Sinmora will give up the sword only in return for the tail feather of the cock."
+    },
+    {
+     "n": "48",
+     "s": "Lyr (\"Heat-Holding\"): just what the spear-point reference means is not altogether clear. Presumably it refers to the way in which the glowing brightness of the lofty hall makes it seem to quiver and turn in the air, but the tradition, never baffled by physical laws, may have actually balanced the whole building on a single point to add to the difficulties of entrance."
+    },
+    {
+     "n": "50",
+     "s": "Loki, the one god named, was the builder of the hall, with the aid of the nine dwarfs. Jari, Dori, and Ori appear in the Voluspo catalogue of the dwarfs (stanzas 13 and 15); Delling appears in Hovamol, 161, and Vafthruthnismol, 25, in the latter case, however, the name quite possibly referring to some one else. The other dwarfs' names do not appear elsewhere. The manuscripts differ as to the forms of many of these names."
+    },
+    {
+     "n": "52",
+     "s": "Lyfjaberg (\"Hill of Healing\"): the manuscripts vary as to this name; I have followed Bugge's suggestion. This stanza implies that Mengloth is a goddess of healing, and hence, perhaps, an hypostasis of Frigg, as already intimated by her name (cf. stanza 3, note). In stanza 54 Eir appears as one of Mengloth's handmaidens, and Eir, according to Snorri (Gylfaginning, 35) is herself the Norse Hygeia. Compare this stanza with stanza 32."
+    },
+    {
+     "n": "54",
+     "s": "The manuscripts and editions show many variations in these names. They may be approximately rendered thus: Helper, Help-Breather, Folk-Guardian, Shining, White, Blithe, Peaceful, Kindly (?), and Gold-Giver."
+    },
+    {
+     "n": "55",
+     "s": "One of the manuscripts omits stanzas 55 and 56."
+    },
+    {
+     "n": "56",
+     "s": "The first line is based on a conjectural emendation."
+    },
+    {
+     "n": "63",
+     "s": "Solbjart (\"Sun-Bright\"): not elsewhere mentioned. The words of Urth: i.e., the decrees of fate; cf. stanza 7."
+    },
+    {
+     "n": "65",
+     "s": "Lyfjaberg cf. stanza 52 and note."
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Fjölsvinnsmál)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Svipdagsmol"
+ }
+}

@@ -1,0 +1,691 @@
+{
+ "part": "poetic",
+ "poem": "gdr3",
+ "title": "Guðrúnarkviða in þriðja",
+ "group": "heroic",
+ "chapters": [
+  {
+   "num": 32,
+   "key": "gdr3",
+   "title": "Guðrúnarkviða in þriðja",
+   "subtitle": null,
+   "group": "heroic",
+   "rows": [
+    {
+     "id": "gdr3-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Herkja hét ambótt Atla. Hon hafði verit frilla hans. Hon sagði Atla, at hon hefði sét Þjóðrek ok Guðrúnu bæði saman. Atli var þá allókátr. Þá kvað Guðrún:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Herkja hét ambótt Atla. Hún hafði verið frilla hans. Hún sagði Atla, að hún hefði séð Þjóðreg og Guðrúnu bæði saman. Atli var þá allókátur. Þá kvað Guðrún:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p1⟧Herkja⟦p2⟧ was the name of a serving-woman of Atli's; she had been his concubine. She told Atli that she had seen Thjothrek⟦p3⟧ and Guthrun both together. Atli was greatly angered thereby. Then Guthrun said:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr3-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Hvat er þér, Atli,",
+        "æ, Buðla sonr?",
+        "Er þér hryggt í hug?",
+        "Hví hlær þú æva?",
+        "Hitt mundi æðra",
+        "jörlum þykkja,",
+        "at við menn mæltir",
+        "ok mik sæir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Hvað er þér, Atli,",
+        "æ, Buðla sonur?",
+        "Er þér hryggt í hug?",
+        "Hví hlær þú æva?",
+        "Hitt myndi æðra",
+        "jörlum þykja,",
+        "að við menn mæltir",
+        "og mig sæir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"What thy sorrow, Atli, | Buthli's son?",
+        "Is thy heart heavy-laden? | Why laughest thou never?",
+        "It would better befit | the warrior far",
+        "To speak with men, | and me to look on.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr3-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "p",
+       "s": "Atli kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Tregr mik þat, Guðrún",
+        "Gjúka dóttir,",
+        "mér í höllu",
+        "Herkja sagði,",
+        "at þit Þjóðrekr",
+        "und þaki svæfið",
+        "ok léttliga",
+        "líni verðið.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Atli kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Tregur mig það, Guðrún",
+        "Gjúka dóttir,",
+        "mér í höllu",
+        "Herkja sagði,",
+        "að þið Þjóðrekur",
+        "und þaki svæfið",
+        "og léttlega",
+        "líni verðið.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Atli spake:",
+        "\"It troubles me, Guthrun, | Gjuki's daughter,",
+        "What Herkja here | in the hall hath told me,",
+        "That thou in the bed | with Thjothrek liest,",
+        "Beneath the linen | in lovers' guise.\"⟦2⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr3-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "p",
+       "s": "Guðrún kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Þér mun ek alls þess",
+        "eiða vinna",
+        "at inum hvíta",
+        "helga steini,",
+        "at ek við Þjóðrek",
+        "þatki áttak,",
+        "er vörðr né verr",
+        "vinna knátti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Guðrún kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Þér mun eg alls þess",
+        "eiða vinna",
+        "að hinum hvíta",
+        "helga steini,",
+        "að eg við Þjóðreg",
+        "þatki áttak,",
+        "er vörður né verr",
+        "vinna knátti."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Guthrun spake:",
+        "\"This shall I | with oaths now swear,",
+        "Swear by the sacred | stone so white,",
+        "That nought was there | with Thjothmar's son",
+        "That man or woman | may not know.⟦3⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr3-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Nema ek halsaða",
+        "herja stilli,",
+        "jöfur óneisinn,",
+        "einu sinni;",
+        "aðrar váru",
+        "okkrar spekjur,",
+        "er vit hörmug tvau",
+        "hnigum at rúnum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Nema eg halsaða",
+        "herja stilli,",
+        "jöfur óneisinn,",
+        "einu sinni;",
+        "aðrar voru",
+        "okkrar spekjur,",
+        "er vit hörmug tvö",
+        "hnigum að rúnum."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Nor ever once | did my arms embrace",
+        "The hero brave, | the leader of hosts;",
+        "In another manner | our meeting was,",
+        "When our sorrows we | in secret told."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr3-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Hér kom Þjóðrekr",
+        "með þría tegu,",
+        "lifa þeir né einir",
+        "þriggja tega manna;",
+        "hnöggt þú mik at bræðrum",
+        "ok at brynjuðum,",
+        "hnöggt þú mik at öllum",
+        "höfuðniðjum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Hér kom Þjóðrekur",
+        "með þría tega,",
+        "lifa þeir né einir",
+        "þriggja tega manna;",
+        "hnöggt þú mig að bræðrum",
+        "og að brynjuðum,",
+        "hnöggt þú mig að öllum",
+        "höfuðniðjum."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"With thirty warriors | Thjothrek came,",
+        "Nor of all his men | doth one remain;",
+        "Thou hast murdered my brothers | and mail-clad men,",
+        "Thou hast murdered all | the men of my race.⟦5⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr3-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Sentu at Saxa,",
+        "Sunnmanna gram,",
+        "hann kann helga",
+        "hver vellanda.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Sentu að Saxa,",
+        "Sunnmanna gram,",
+        "hann kann helga",
+        "hver vellanda.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Gunnar comes not, | Hogni I greet not,",
+        "No longer I see | my brothers loved;",
+        "My sorrow would Hogni | avenge with the sword,",
+        "Now myself for my woes | I shall payment win.⟦6⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr3-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Sjau hundruð manna",
+        "í sal gengu,",
+        "áðr kvæn konungs",
+        "í ketil tæki."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Sjö hundruð manna",
+        "í sal gengu,",
+        "áður kvæn konungs",
+        "í ketil tæki."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Summon Saxi, | the southrons' king,",
+        "For he the boiling | kettle can hallow.\"",
+        "Seven hundred | there were in the hall,",
+        "Ere the queen her hand | in the kettle thrust.⟦7⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr3-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "p",
+       "s": "Guðrún kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Kemr-a nú Gunnarr,",
+        "kallig-a ek Högna,",
+        "sékk-a ek síðan",
+        "svása bræðr;",
+        "sverði mundi Högni",
+        "slíks harms reka,",
+        "nú verð ek sjalf fyrir mik",
+        "synja lýta.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Guðrún kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Kemr-a nú Gunnar,",
+        "kallig-a eg Högna,",
+        "sékk-a eg síðan",
+        "svása bræður;",
+        "sverði myndi Högni",
+        "slíks harms reka,",
+        "nú verð eg sjalf fyrir mig",
+        "synja lýta.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "To the bottom she reached | with hand so bright,",
+        "And forth she brought | the flashing stones:",
+        "\"Behold, ye warriors, | well am I cleared",
+        "Of sin by the kettle's | sacred boiling.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "s_en": 0.32
+    },
+    {
+     "id": "gdr3-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Brá hon til botns",
+        "björtum lófa",
+        "ok hon upp of tók",
+        "jarknasteina:",
+        "\"Sé nú, seggir,",
+        "sykn em ek orðin",
+        "heilagliga,",
+        "hvé sá hverr velli.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Brá hún til botns",
+        "björtum lófa",
+        "og hún upp of tók",
+        "jarknasteina:",
+        "\"Sé nú, seggir,",
+        "sykn em eg orðin",
+        "heilaglega,",
+        "hve sá hver velli.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr3-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Hló þá Atla",
+        "hugr í brjósti,",
+        "er hann heilar sá",
+        "hendr Guðrúnar:",
+        "\"Nú skal Herkja",
+        "til hvers ganga,",
+        "sú er Guðrúnu",
+        "grandi vændi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Hló þá Atla",
+        "hugur í brjósti,",
+        "er hann heilar sá",
+        "hendur Guðrúnar:",
+        "\"Nú skal Herkja",
+        "til hvers ganga,",
+        "sú er Guðrúnu",
+        "grandi vændi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Then Atli's heart | in happiness laughed,",
+        "When Guthrun's hand | unhurt he saw;",
+        "\"Now Herkja shall come | the kettle to try,",
+        "She who grief | for Guthrun planned.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr3-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Sá-at maðr armligt,",
+        "hverr er þat sá-at,",
+        "hvé þar á Herkju",
+        "hendr sviðnuðu;",
+        "leiddu þá mey",
+        "í mýri fúla.",
+        "Svá þá Guðrún",
+        "sinna harma."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Sá-at maður armlegt,",
+        "hver er það sá-at,",
+        "hve þar á Herkju",
+        "hendur sviðnuðu;",
+        "leiddu þá mey",
+        "í mýri fúla.",
+        "Svo þá Guðrún",
+        "sinna harma."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Ne'er saw man sight | more sad than this,",
+        "How burned were the hands | of Herkja then;",
+        "In a bog so foul | the maid they flung,",
+        "And so was Guthrun's | grief requited.⟦10⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "p1",
+     "s": "Prose. The annotator derived all the material for this note from the poem itself, except for the reference to Herkja as Atli's former concubine."
+    },
+    {
+     "n": "p2",
+     "s": "Herkja: the historical Kreka and the Helche of the Nibelungenlied, who there appears as Etzel's (Attila's) first wife."
+    },
+    {
+     "n": "p3",
+     "s": "Thjothrek: cf. Introductory Note."
+    },
+    {
+     "n": "2",
+     "s": "The manuscript omits the names of the speakers throughout."
+    },
+    {
+     "n": "3",
+     "s": "Holy stone: just what this refers to is uncertain; it may be identical with the \"ice-cold stone of Uth\" mentioned in an oath in Helgakvitha Hundingsbana II, 29. Thjothmar's son: the manuscript has simply \"Thjothmar.\" Some editions change it as here, some assume that Thjothmar is another name or an error for Thjothrek, and Finnur Jonsson not only retains Thjothmar here but changes Thjothrek to Thjothmar in stanza 5 to conform to it."
+    },
+    {
+     "n": "5",
+     "s": "Regarding the death of Thjothrek's men cf. Guthrunarkvitha II, introductory prose, note. It was on these stanzas of Guthrunarkvitha III that the annotator based his introduction to Guthrunarkvitha II. The manuscript repeats the \"thirty\" in line 2, in defiance of metrical requirements."
+    },
+    {
+     "n": "6",
+     "s": "In the manuscript this stanza follows stanza 7; many editions have made the transposition."
+    },
+    {
+     "n": "7",
+     "s": "Who Saxi may be is not clear, but the stanza clearly points to the time when the ordeal by boiling water was still regarded as a foreign institution, and when a southern king (i. e., a Christian from some earlier-converted region) was necessary to consecrate the kettle used in the test. The ordeal by boiling water followed closely the introduction of Christianity, which took place around the year 1000. Some editions make two stanzas out of stanza 7, and Müllenhoff contends that lines 1-2 do not constitute part of Guthrun's speech."
+    },
+    {
+     "n": "10",
+     "s": "The word \"requited\" in line 4 is omitted in the manuscript, but it is clear that some such word was intended. The punishment of casting a culprit into a bog to be drowned was particularly reserved for women, and is not infrequently mentioned in the sagas."
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "The short Guthrunarkvitha III, entitled in the manuscript simply Guthrunarkvitha, but so numbered in most editions to distinguish it from the first and second Guthrun lays, appears only in the Codex Regius. It is neither quoted nor paraphrased in the Volsungasaga, the compilers of which appear not to have known the story with which it deals. The poem as we have it is evidently complete and free from serious interpolations. It can safely be dated from the first half of the eleventh century, for the ordeal by boiling water, with which it is chiefly concerned, was first introduced into Norway by St. Olaf, who died in 1030, and the poem speaks of it in stanza 7 as still of foreign origin.",
+    "The material for the poem evidently came from North Germany, but there is little indication that the poet was working on the basis of a narrative legend already fully formed. The story of the wife accused of faithlessness who proves her innocence by the test of boiling water had long been current in Germany, as elsewhere, and had attached itself to various women of legendary fame, but not except in this poem, so far as we can judge, to Guthrun (Kriemhild). The introduction of Thjothrek (Theoderich, Dietrich, Thithrek) is another indication of relative lateness, for the legends of Theoderich do not appear to have reached the North materially before the year 1000. On the anachronism of bringing Thjothrek to Atli's court cf. Guthrunarkvitha II, introductory prose, note, in which the development of the Theoderich tradition in its relation to that of Atli is briefly outlined.",
+    "Guthrunarkvitha III is, then, little more than a dramatic German story made into a narrative lay by a Norse poet, with the names of Guthrun, Atli, Thjothrek, and Herkja incorporated for the sake of greater effectiveness. Its story probably nowhere formed a part of the living tradition of Sigurth and Atli, but the poem has so little distinctively Norse coloring that it may possibly have been based on a story or even a poem which its composer heard in Germany or from the lips of a German narrator."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Guðrúnarkviða in þriðja)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Guthrunarkvitha III"
+ }
+}

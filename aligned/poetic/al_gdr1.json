@@ -1,0 +1,1631 @@
+{
+ "part": "poetic",
+ "poem": "gdr1",
+ "title": "Guðrúnarkviða in fyrsta",
+ "group": "heroic",
+ "chapters": [
+  {
+   "num": 27,
+   "key": "gdr1",
+   "title": "Guðrúnarkviða in fyrsta",
+   "subtitle": null,
+   "group": "heroic",
+   "rows": [
+    {
+     "id": "gdr1-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Guðrún sat yfir Sigurði dauðum. Hon grét eigi sem aðrar konur, en hon var búinn til at springa af harmi. Til gengu bæði konur ok karlar at hugga hana, en þat var eigi auðvelt. Þat er sögn manna, at Guðrún hefði etit af Fáfnis hjarta ok hon skilði því fugls rödd. - Þetta er enn kveðit um Guðrúnu:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Guðrún sat yfir Sigurði dauðum. Hún grét eigi sem aðrar konur, en hún var búinn til að springa af harmi. Til gengu bæði konur og karlar að hugga hana, en það var eigi auðvelt. Það er sögn manna, að Guðrún hefði etið af Fáfnis hjarta og hún skildi því fugls rödd. - Þetta er enn kveðið um Guðrúnu:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p1⟧Guthrun sat by the dead Sigurth; she did not weep as other women, but her heart was near to bursting with grief. The men and women came to her to console her, but that was not easy to do. It is told of men that Guthrun had eaten of Fafnir's heart⟦p2⟧, and that she understood the speech of birds. This is a poem about Guthrun."
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Ár var, þats Guðrún",
+        "gerðisk at deyja,",
+        "er hon sat sorgfull",
+        "yfir Sigurði;",
+        "gerði-t hon hjúfra",
+        "né höndum slá,",
+        "né kveina um",
+        "sem konur aðrar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Ár var, þats Guðrún",
+        "gerðist að deyja,",
+        "er hún sat sorgfull",
+        "yfir Sigurði;",
+        "gerði-t hún hjúfra",
+        "né höndum slá,",
+        "né kveina um",
+        "sem konur aðrar."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Then did Guthrun | think to die,",
+        "When she by Sigurth | sorrowing sat;",
+        "Tears she had not, | nor wrung her hands,",
+        "Nor ever wailed, | as other women.⟦1⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Gengu jarlar",
+        "alsnotrir fram,",
+        "þeir er harðs hugar",
+        "hana löttu;",
+        "þeygi Guðrún",
+        "gráta mátti,",
+        "svá var hon móðug,",
+        "mundi hon springa."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Gengu jarlar",
+        "alsnotrir fram,",
+        "þeir er harðs hugar",
+        "hana löttu;",
+        "þeygi Guðrún",
+        "gráta mátti,",
+        "svo var hún móðug,",
+        "myndi hún springa."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "To her the warriors | wise there came,",
+        "Longing her heavy | woe to lighten;",
+        "Grieving could not | Guthrun weep,",
+        "So sad her heart, | it seemed, would break."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Sátu ítrar",
+        "jarla brúðir,",
+        "gulli búnar,",
+        "fyr Guðrúnu;",
+        "hvar sagði þeira",
+        "sinn oftrega,",
+        "þann er bitrastan",
+        "of beðit hafði."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Sátu ítrar",
+        "jarla brúðir,",
+        "gulli búnar,",
+        "fyr Guðrúnu;",
+        "hvar sagði þeirra",
+        "sinn oftrega,",
+        "þann er bitrastan",
+        "of beðið hafði."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Then the wives | of the warriors came,",
+        "Gold-adorned, | and Guthrun sought;",
+        "Each one then | of her own grief spoke,",
+        "The bitterest pain | she had ever borne."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Þá kvað Gjaflaug,",
+        "Gjúka systir:",
+        "\"Mik veit ek á moldu",
+        "munarlausasta;",
+        "hefi ek fimm vera",
+        "forspell beðit,",
+        "tveggja dætra,",
+        "þriggja systra,",
+        "átta bræðra,",
+        "þó ek ein lifi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Þá kvað Gjaflaug,",
+        "Gjúka systir:",
+        "\"Mig veit eg á moldu",
+        "munarlausasta;",
+        "hef eg fimm vera",
+        "forspell beðið,",
+        "tveggja dætra,",
+        "þriggja systra,",
+        "átta bræðra,",
+        "þó eg ein lifi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Then spake Gjaflaug, | Gjuki's sister:",
+        "\"Most joyless of all | on earth am I;",
+        "Husbands five | were from me taken,",
+        "(Two daughters then, | and sisters three,)",
+        "Brothers eight, | yet I have lived.\"⟦4⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Þeygi Guðrún",
+        "gráta mátti,",
+        "svá var hon móðug",
+        "at mög dauðan",
+        "ok harðhuguð",
+        "of hrör fylkis."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Þeygi Guðrún",
+        "gráta mátti,",
+        "svo var hún móðug",
+        "að mög dauðan",
+        "og harðhuguð",
+        "of hrör fylkis."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Grieving could not | Guthrun weep,",
+        "Such grief she had | for her husband dead,",
+        "And so grim her heart | by the hero's body.⟦5⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Þá kvað þat Herborg,",
+        "Húnalands dróttning:",
+        "\"Hefi ek harðara",
+        "harm at segja;",
+        "mínir sjau synir",
+        "sunnan lands,",
+        "verr inn átti,",
+        "í val fellu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Þá kvað það Herborg,",
+        "Húnalands dróttning:",
+        "\"Hef eg harðar",
+        "harm að segja;",
+        "mínir sjö synir",
+        "sunnan lands,",
+        "verr hinn átti,",
+        "í val fellu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Then Herborg spake, | the queen of the Huns:",
+        "\"I have a greater | grief to tell;",
+        "My seven sons | in the southern land,",
+        "And my husband, fell | in fight all eight.",
+        "(Father and mother | and brothers four",
+        "Amid the waves | the wind once smote,",
+        "And the seas crashed through | the sides of the ship.)⟦6⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Faðir ok móðir,",
+        "fjórir bræðr,",
+        "þau á vági",
+        "vindr of lék,",
+        "barði bára",
+        "við borðþili."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Faðir og móðir,",
+        "fjórir bræður,",
+        "þau á vági",
+        "vindur of lék,",
+        "barði bára",
+        "við borðþili."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"The bodies all | with my own hands then",
+        "I decked for the grave, | and the dead I buried;",
+        "A half-year brought me | this to bear;",
+        "And no one came | to comfort me.⟦7⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Sjalf skylda ek göfga,",
+        "sjalf skylda ek götva,",
+        "sjalf skylda ek höndla",
+        "hrör þeira;",
+        "þat ek allt of beið",
+        "ein misseri,",
+        "svá at mér maðr engi",
+        "munar leitaði."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Sjalf skylda eg göfga,",
+        "sjalf skylda eg götva,",
+        "sjalf skylda eg höndla",
+        "hrör þeirra;",
+        "það eg allt of beið",
+        "ein misseri,",
+        "svo að mér maður enginn",
+        "munar leitaði."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Þá varð ek hafta",
+        "ok hernuma",
+        "sams misseris",
+        "síðan verða;",
+        "skylda ek skreyta",
+        "ok skúa binda",
+        "hersis kván",
+        "hverjan morgin."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Þá varð eg hafta",
+        "og hernuma",
+        "sams misseris",
+        "síðan verða;",
+        "skylda eg skreyta",
+        "og skúa binda",
+        "hersis kvon",
+        "hverjan morgun."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Then bound I was, | and taken in war,",
+        "A sorrow yet | in the same half-year;",
+        "They bade me deck | and bind the shoes",
+        "Of the wife of the monarch | every morn."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Hon ægði mér",
+        "af afbrýði",
+        "ok hörðum mik",
+        "höggum keyrði;",
+        "fann ek húsguma",
+        "hvergi in betra,",
+        "en húsfreyju",
+        "hvergi verri.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Hún ægði mér",
+        "af afbrýði",
+        "og hörðum mig",
+        "höggum keyrði;",
+        "fann eg húsguma",
+        "hvergi hin betri,",
+        "en húsfreyju",
+        "hvergi verri.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"In jealous rage | her wrath she spake,",
+        "And beat me oft | with heavy blows;",
+        "Never a better | lord I knew,",
+        "And never a woman | worse I found.\"⟦9⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Þeygi Guðrún",
+        "gráta mátti,",
+        "svá var hon móðug",
+        "at mög dauðan",
+        "ok harðhuguð",
+        "of hrör fylkis."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Þeygi Guðrún",
+        "gráta mátti,",
+        "svo var hún móðug",
+        "að mög dauðan",
+        "og harðhuguð",
+        "of hrör fylkis."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Grieving could not | Guthrun weep,",
+        "Such grief she had | for her husband dead,",
+        "And so grim her heart | by the hero's body.⟦10⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Þá kvað þat Gullrönd",
+        "Gjúka dóttir:",
+        "\"Fá kanntu, fóstra,",
+        "þótt þú fróð séir,",
+        "ungu vífi",
+        "andspjöll bera.\"",
+        "Varaði hon at hylja",
+        "um hrör fylkis."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Þá kvað það Gullrönd",
+        "Gjúka dóttir:",
+        "\"Fá kanntu, fóstra,",
+        "þótt þú fróð séir,",
+        "ungu vífi",
+        "andspjöll bera.\"",
+        "Varaði hún að hylja",
+        "um hrör fylkis."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Then spake Gollrond, | Gjuki's daughter:",
+        "\"Thy wisdom finds not, | my foster-mother,",
+        "The way to comfort | the wife so young.\"",
+        "She bade them uncover | the warrior's corpse.⟦11⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Svipti hon blæju",
+        "af Sigurði",
+        "ok vatt vengi",
+        "fyr vífs knéum:",
+        "\"Líttu á ljúfan,",
+        "leggðu munn við grön,",
+        "sem þú halsaðir",
+        "heilan stilli.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Svipti hún blæju",
+        "af Sigurði",
+        "og vatt vengi",
+        "fyr vífs knéum:",
+        "\"Líttu á ljúfan,",
+        "leggðu munn við grön,",
+        "sem þú halsaðir",
+        "heilan stilli.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "The shroud she lifted | from Sigurth, laying",
+        "His well-loved head | on the knees of his wife:",
+        "\"Look on thy loved one, | and lay thy lips",
+        "To his as if yet | the hero lived.\"⟦12⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Á leit Guðrún",
+        "einu sinni,",
+        "sá hon döglings skör",
+        "dreyra runna,",
+        "fránar sjónir",
+        "fylkis liðnar,",
+        "hugborg jöfurs",
+        "hjörvi skorna."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Á leit Guðrún",
+        "einu sinni,",
+        "sá hún döglings skör",
+        "dreyra runna,",
+        "fránar sjónir",
+        "fylkis liðnar,",
+        "hugborg jöfurs",
+        "hjörvi skorna."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Once alone | did Guthrun look;",
+        "His hair all clotted | with blood beheld,",
+        "The blinded eyes | that once shone bright,",
+        "The hero's breast | that the blade had pierced."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Þá hné Guðrún",
+        "höll við bolstri,",
+        "haddr losnaði,",
+        "hlýr roðnaði,",
+        "en regns dropi",
+        "rann niðr of kné."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Þá hné Guðrún",
+        "höll við bolstri,",
+        "haddur losnaði,",
+        "hlýr roðnaði,",
+        "en regns dropi",
+        "rann niður of kné."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Then Guthrun bent, | on her pillow bowed,",
+        "Her hair was loosened, | her cheek was hot,",
+        "And the tears like raindrops | downward ran.⟦14⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Þá grét Guðrún",
+        "Gjúka dóttir,",
+        "svá at tár flugu",
+        "tresk í gögnum",
+        "ok gullu við",
+        "gæss í túni,",
+        "mærir fuglar,",
+        "er mær átti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Þá grét Guðrún",
+        "Gjúka dóttir,",
+        "svo að tár flugu",
+        "trest í gögnum",
+        "og gullu við",
+        "gæs í túni,",
+        "mærir fuglar,",
+        "er mær átti."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Then Guthrun, daughter | of Gjuki, wept,",
+        "And through her tresses | flowed the tears;",
+        "And from the court | came the cry of geese,",
+        "The birds so fair | of the hero's bride.⟦15⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      15
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Þá kvað þat Gullrönd",
+        "Gjúka dóttir:",
+        "\"Ykkrar vissa ek",
+        "ástir mestar",
+        "manna allra",
+        "fyr mold ofan;",
+        "unðir þá hvárki",
+        "úti né inni,",
+        "systir mín",
+        "nema hjá Sigurði.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Þá kvað það Gullrönd",
+        "Gjúka dóttir:",
+        "\"Ykkrar vissa eg",
+        "ástir mestar",
+        "manna allra",
+        "fyr mold ofan;",
+        "unðir þá hvárki",
+        "úti né inni,",
+        "systir mín",
+        "nema hjá Sigurði.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Then Gollrond spake, | the daughter of Gjuki;",
+        "\"Never a greater | love I knew",
+        "Than yours among | all men on earth;",
+        "Nowhere wast happy, | at home or abroad,",
+        "Sister mine, | with Sigurth away.\"⟦16⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      16
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "p",
+       "s": "Guðrún kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Svá var minn Sigurðr",
+        "hjá sonum Gjúka",
+        "sem væri geirlaukr",
+        "ór grasi vaxinn",
+        "eða væri bjartr steinn",
+        "á band dreginn,",
+        "jarknasteinn",
+        "yfir öðlingum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Guðrún kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Svo var minn Sigurður",
+        "hjá sonum Gjúka",
+        "sem væri geirlaukur",
+        "úr grasi vaxinn",
+        "eða væri bjartur steinn",
+        "á band dreginn,",
+        "jarknasteinn",
+        "yfir öðlingum."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Guthrun spake:",
+        "\"So was my Sigurth | o'er Gjuki's sons",
+        "As the spear-leek grown | above the grass,",
+        "Or the jewel bright | borne on the band,",
+        "The precious stone | that princes wear.⟦17⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      17
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Ek þótta ok",
+        "þjóðans rekkum",
+        "hverri hæri",
+        "Herjans dísi;",
+        "nú em ek svá lítil",
+        "sem lauf séi",
+        "oft í jölstrum",
+        "at jöfur dauðan."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Eg þótta og",
+        "þjóðans rekkum",
+        "hverri hæri",
+        "Herjans dísi;",
+        "nú em eg svo lítil",
+        "sem lauf séi",
+        "oft í jölstrum",
+        "að jöfur dauðan."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"To the leader of men | I loftier seemed",
+        "And higher than all | of Herjan's maids;",
+        "As little now | as the leaf I am",
+        "On the willow hanging; | my hero is dead.⟦18⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      18
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Sakna ek í sessi",
+        "ok í sæingu",
+        "míns málvinar,",
+        "valda megir Gjúka;",
+        "valda megir Gjúka",
+        "mínu bölvi",
+        "ok systur sinnar",
+        "sárum gráti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Sakna eg í sessi",
+        "og í sæingu",
+        "míns málvinar,",
+        "valda megir Gjúka;",
+        "valda megir Gjúka",
+        "mínu bölvi",
+        "og systur sinnar",
+        "sárum gráti."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"In his seat, in his bed, | I see no more",
+        "My heart's true friend; | the fault is theirs,",
+        "The sons of Gjuki, | for all my grief,",
+        "That so their sister | sorely weeps."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Svá ér of lýða",
+        "landi eyðið",
+        "sem ér of unnuð",
+        "eiða svarða;",
+        "mun-a þú, Gunnarr,",
+        "gulls of njóta;",
+        "þeir munu þér baugar",
+        "at bana verða,",
+        "er þú Sigurði",
+        "svarðir eiða."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Svo þér of lýða",
+        "landi eyðið",
+        "sem þér of unnuð",
+        "eiða svarða;",
+        "mun-a þú, Gunnar,",
+        "gulls of njóta;",
+        "þeir munu þér baugar",
+        "að bana verða,",
+        "er þú Sigurði",
+        "svarðir eiða."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"So shall your land | its people lose",
+        "As ye have kept | your oaths of yore;",
+        "Gunnar, no joy | the gold shall give thee,",
+        "(The rings shall soon | thy slayers be,)",
+        "Who swarest oaths | with Sigurth once.⟦20⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      20
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Oft var í túni",
+        "teiti meiri,",
+        "þá er minn Sigurðr",
+        "söðlaði Grana",
+        "ok þeir Brynhildar",
+        "biðja fóru,",
+        "armar véttar,",
+        "illu heilli.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Oft var í túni",
+        "teiti meiri,",
+        "þá er minn Sigurður",
+        "söðlaði Grana",
+        "og þeir Brynhildar",
+        "biðja fóru,",
+        "armar véttar,",
+        "illu heilli.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"In the court was greater | gladness then",
+        "The day my Sigurth | Grani saddled,",
+        "And went forth Brynhild's | hand to win,",
+        "That woman ill, | in an evil hour.\"⟦21⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      21
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Þá kvað þat Brynhildr",
+        "Buðla dóttir:",
+        "\"Vön sé sú véttr",
+        "vers ok barna,",
+        "er þik, Guðrún,",
+        "gráts of beiddi",
+        "ok þér í morgun",
+        "málrúnar gaf.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Þá kvað það Brynhildur",
+        "Buðla dóttir:",
+        "\"Vön sé sú véttur",
+        "vers og barna,",
+        "er þig, Guðrún,",
+        "gráts of beiddi",
+        "og þér í morgun",
+        "málrúnar gaf.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Then Brynhild spake, | the daughter of Buthli:",
+        "\"May the witch now husband | and children want",
+        "Who, Guthrun, loosed | thy tears at last,",
+        "And with magic today | hath made thee speak.\"⟦22⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      22
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Þá kvað þat Gullrönd",
+        "Gjúka dóttir:",
+        "\"Þegi þú, þjóðleið,",
+        "þeira orða;",
+        "urðr öðlinga",
+        "hefir þú æ verit;",
+        "rekr þik alda hver",
+        "illrar skepnu,",
+        "sorg sára",
+        "sjau konunga",
+        "ok vinspell",
+        "vífa mest.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Þá kvað það Gullrönd",
+        "Gjúka dóttir:",
+        "\"Þegi þú, þjóðleið,",
+        "þeirra orða;",
+        "urður öðlinga",
+        "hefur þú æ verið;",
+        "rekur þig alda hver",
+        "illrar skepnu,",
+        "sorg sára",
+        "sjö konunga",
+        "og vinspell",
+        "vífa mest.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Then Gollrond, daughter | of Gjuki, spake:",
+        "\"Speak not such words, | thou hated woman;",
+        "Bane of the noble | thou e'er hast been,",
+        "(Borne thou art | on an evil wave,",
+        "Sorrow hast brought | to seven kings,)",
+        "And many a woman | hast loveless made.\"⟦23⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      23
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Þá kvað þat Brynhildr",
+        "Buðla dóttir:",
+        "\"Veldr einn Atli",
+        "öllu bölvi",
+        "of borinn Buðla",
+        "bróðir minn."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Þá kvað það Brynhildur",
+        "Buðla dóttir:",
+        "\"Veldur einn Atli",
+        "öllu bölvi",
+        "of borinn Buðla",
+        "bróðir minn."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Then Brynhild, daughter | of Buthli, spake:",
+        "\"Atli is guilty | of all the sorrow,",
+        "(Son of Buthli | and brother of mine,)",
+        "When we saw in the hall | of the Hunnish race",
+        "The flame of the snake's bed | flash round the hero;",
+        "(For the journey since | full sore have I paid,",
+        "And ever I seek | the sight to forget.)\"⟦24⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      24
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Þá er vit í höll",
+        "húnskrar þjóðar",
+        "eld á jöfri",
+        "ormbeðs litum,",
+        "þess hefi ek gangs",
+        "goldit síðan,",
+        "þeirar sýnar,",
+        "sáumk ey.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Þá er vit í höll",
+        "húnskrar þjóðar",
+        "eld á jöfri",
+        "ormbeðs litum,",
+        "þess hef eg gangs",
+        "goldið síðan,",
+        "þeirrar sýnar,",
+        "sáumk ey.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Stóð hon und stoð,",
+        "strengði hon efli;",
+        "brann Brynhildi",
+        "Buðla dóttur",
+        "eldr ór augum,",
+        "eitri fnæsti,",
+        "er hon sár of leit",
+        "á Sigurði."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Stóð hún und stoð,",
+        "strengði hún efli;",
+        "brann Brynhildi",
+        "Buðla dóttur",
+        "eldur úr augum,",
+        "eitri fnæsti,",
+        "er hún sár of leit",
+        "á Sigurði."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "By the pillars she stood, | and gathered her strength,",
+        "From the eyes of Brynhild, | Buthli's daughter,",
+        "Fire there burned, | and venom she breathed,",
+        "When the wounds she saw | on Sigurth then."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      25
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "gdr1-p2",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Guðrún gekk þaðan á braut til skógar á eyðimerkr ok fór allt til Danmarkar ok var þar með Þóru Hákonardóttur sjau misseri. Brynhildr vildi eigi lifa eftir Sigurð. Hon lét drepa þræla sína átta ok fimm ambóttir. Þá lagði hon sik sverði til bana, svá sem segir í Sigurðarkviðu inni skömmu."
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Guðrún gekk þaðan á braut til skógar á eyðimerkur og fór allt til Danmarkar og var þar með Þóru Hákonardóttur sjö misseri. Brynhildur vildi eigi lifa eftir Sigurð. Hún lét drepa þræla sína átta og fimm ambóttir. Þá lagði hún sig sverði til bana, svo sem segir í Sigurðarkviðu inni skömmu."
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p3⟧Guthrun went thence away to a forest in the waste, and journeyed all the way to Denmark, and was there seven half-years with Thora, daughter of Hokon.⟦p4⟧ Brynhild⟦p5⟧ would not live after Sigurth. She had eight of her thralls slain and five serving-women. Then she killed herself with a sword, as is told in the Short Lay of Sigurth."
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "p1",
+     "s": "Prose. The prose follows the concluding prose of the Brot without indication of a break, the heading standing immediately before stanza 1."
+    },
+    {
+     "n": "p2",
+     "s": "Fafnir's heart: this bit of information is here quite without point, and it is nowhere else stated that Guthrun understood the speech of birds. In the Volsungasaga it is stated that Sigurth gave Guthrun some of Fafnir's heart to eat, \"and thereafter she was much grimmer than before, and wiser.\""
+    },
+    {
+     "n": "1",
+     "s": "This stanza seems to be based on Guthrunarkvitha II, 11-12."
+    },
+    {
+     "n": "4",
+     "s": "Gjaflaug: nothing further is known of this aunt of Guthrun, or of the many relatives whom she has lost. Very likely she is an invention of the poet's, for it seems improbable that otherwise all further trace of her should have been lost. Line 4 has been marked by many editors as spurious."
+    },
+    {
+     "n": "5",
+     "s": "Some editors assume the loss of a line, after either line 1 or line 3. I prefer to believe that here and in stanza 10 the poet knew exactly what he was doing, and that both stanzas are correct."
+    },
+    {
+     "n": "6",
+     "s": "Herborg: neither she nor her sorrows are elsewhere  mentioned, nor is it clear what a \"queen of the Huns\" is doing in Gunnar's home, but the word \"Hun\" has little definiteness of meaning in the poems, and is frequently applied to Sigurth himself (cf. note on stanza 24). Herborg appears from stanza 11 to have been the foster-mother of Gollrond, Guthrun's sister. Lines 5-7 may be interpolations, or may form a separate stanza."
+    },
+    {
+     "n": "7",
+     "s": "Lines 1 and 2 stand in reversed order in the manuscript; I have followed Gering's conjectural transposition."
+    },
+    {
+     "n": "9",
+     "s": "Herborg implies that the queen's jealousy was not altogether misplaced."
+    },
+    {
+     "n": "10",
+     "s": "Cf. stanza 5 and note. The manuscript abbreviates to first letters."
+    },
+    {
+     "n": "11",
+     "s": "Gollrond: not elsewhere mentioned. Line 4 looks like an interpolation replacing a line previously lost."
+    },
+    {
+     "n": "12",
+     "s": "The manuscript indicates line 3 as the beginning of a stanza, and some editors have attempted to follow this arrangement."
+    },
+    {
+     "n": "14",
+     "s": "Many editors assume the loss of a line from this stanza."
+    },
+    {
+     "n": "15",
+     "s": "The word here translated \"tresses\" is sheer guesswork. The detail of the geese is taken from Sigurtharkvitha en skamma, 29, line 3 here being identical with line 4 of that stanza."
+    },
+    {
+     "n": "16",
+     "s": "Line 1, abbreviated in the manuscript, very likely should be simply \"Gollrond spake.\""
+    },
+    {
+     "n": "17",
+     "s": "Cf. Guthrunarkvitha II, 2. The manuscript does not name the speaker, and some editions have a first line, \"Then Guthrun spake,  the daughter of Gjuki.\""
+    },
+    {
+     "n": "18",
+     "s": "Herjan: Othin; his maids are the Valkyries; cf. Voluspo, 31, where the same phrase is used."
+    },
+    {
+     "n": "20",
+     "s": "Line 4 looks like an interpolation (cf. Fafnismol, 9, line 4), but some editors instead have queried line 5. How Guthrun's curse is fulfilled is told in the subsequent poems. That desire for Sigurth's treasure (the gold cursed by Andvari and Loki) was one of the motives for his murder is indicated in Sigurtharkvitha en skamma (stanza 16), and was clearly a part of the German tradition, as it appears in the Nibelungenlied."
+    },
+    {
+     "n": "21",
+     "s": "Cf. Gripisspo, 35 and note."
+    },
+    {
+     "n": "22",
+     "s": "Line 1 is abbreviated in the manuscript."
+    },
+    {
+     "n": "23",
+     "s": "Editors are agreed that this stanza shows interpolations, but differ as to the lines to reject. Line 4 (literally \"every wave of ill-doing drives thee\") is substantially a proverb, and line 5, with its apparently meaningless reference to \"seven\" kings, may easily have come from some other source."
+    },
+    {
+     "n": "24",
+     "s": "The stanza is obviously in bad shape; perhaps it represents two separate stanzas, or perhaps three of the lines are later additions. Atli: Brynhild here blames her brother, following the frequent custom of transferring the responsibility for a murder (cf. Helgakvitha Hundingsbana II, 33), because he compelled her to marry Gunnar against her will, an idea which the poet seems to have gained from Sigurtharkvitha en skamma, 32-39. These stanzas represent an entirely different version of the story, wherein Atli, attacked by Gunnar and Sigurth, buys them off by giving Gunnar his sister, Brynhild, as wife. He seems to have induced the latter to marry Gunnar by falsely telling her that Gunnar was Sigurth (a rationalistic explanation of the interchange of forms described in the Volsungasaga and Gripisspo, 37-39). In the present stanza Atli is made to do this out of desire for Sigurth's treasure. Hunnish race: this may be merely an error (neither Gunnar nor Sigurth could properly have been connected in any way with Atli and his Huns), based on Sigurtharkvitha en skamma, wherein Sigurth appears more than once as the \"Hunnish king.\" The North was very much in the dark as to the differences between Germans, Burgundians, Franks, Goths, and Huns, and used the words without much discrimination. On the other hand, it may refer to Sigurth's appearance when, adorned with gold, he came with Gunnar to besiege Atli, in the alternative version of the story just cited (cf. Sigurtharkvitha en skamma, 36). Flame of the snake's bed: gold, so called because serpents and dragons were the traditional guardians of treasure, on which they lay."
+    },
+    {
+     "n": "p3",
+     "s": "Prose."
+    },
+    {
+     "n": "p4",
+     "s": "The manuscript has \"Gunnar\" in place of \"Guthrun,\" but this is an obvious mistake; the entire prose passage is based on Guthrunarkvitha II, 14. The Volsungasaga likewise merely paraphrases Guthrunarkvitha II, and nothing further is known of Thora or her father, Hokon, though many inconclusive attempts have been made to identify the latter."
+    },
+    {
+     "n": "p5",
+     "s": "Brynhild: the story of her death is told in great detail in the latter part of Sigurtharkvitha en skamma."
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "The First Lay of Guthrun, entitled in the Codex Regius simply Guthrunarkvitha, immediately follows the remaining fragment of the \"long\" Sigurth lay in that manuscript. Unlike the poems dealing with the earlier part of the Sigurth cycle, the so-called Reginsmol, Fafnismol, and Sigrdrifumol, it is a clear and distinct unit, apparently complete and with few and minor interpolations. It is also one of the finest poems in the entire collection, with an extraordinary emotional intensity and dramatic force. None of its stanzas are quoted elsewhere, and it is altogether probable that the compilers of the Volsungasaga were unfamiliar with it, for they do not mention the sister and daughter of Gjuki who appear in this poem, or Herborg, \"queen of the Huns\" (stanza 6).",
+    "The lament of Guthrun (Kriemhild) is almost certainly among the oldest parts of the story. The lament was one of the earliest forms of poetry to develop among the Germanic peoples, and I suspect, though the matter is not susceptible of proof, that the lament of Sigurth's wife had assumed lyric form as early as the seventh century, and reached the North in that shape rather than in prose tradition (cf. Guthrunarkvitha II, introductory note). We find traces of it in the seventeenth Aventiure of the Nibelungenlied, and in the poems of the Edda it dominates every appearance of Guthrun. The two first Guthrun lays (I and II) are both laments, one for Sigurth's death and the other including both that and the lament over the slaying of her brothers; the lament theme is apparent in the third Guthrun lay and in the Guthrunarhvot.",
+    "In their present forms the second Guthrun lay is undoubtedly older than the first; in the prose following the Brot the annotator refers to the \"old\" Guthrun lay in terms which can apply only to the second in the collection. The shorter and \"first\" lay, therefore, can scarcely have been composed much before the year 1000, and may be somewhat later. The poet appears to have known and made use of the older lament; stanza 17, for example, is a close parallel to stanza 2 of the earlier poem; but whatever material he used he fitted into a definite poetic scheme of his own. And while this particular poem is, as critics have generally agreed, one of the latest of the collection, it probably represents one of the earliest parts of the entire Sigurth cycle to take on verse form.",
+    "Guthrunarkvitha I, so far as the narrative underlying it is concerned, shows very little northern addition to the basic German tradition. Brynhild appears only as Guthrun's enemy and the cause of Sigurth's death; the three women who attempt to comfort Guthrun, though unknown to the southern stories, seem to have been rather distinct creations of the poet's than traditional additions to the legend. Regarding the relations of the various elements in the Sigurth cycle, cf. introductory note to Gripisspo."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Guðrúnarkviða in fyrsta)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Guthrunarkvitha I"
+ }
+}

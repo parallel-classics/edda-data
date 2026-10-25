@@ -1,0 +1,1322 @@
+{
+ "part": "poetic",
+ "poem": "ebr",
+ "title": "Eddubrot",
+ "group": "other",
+ "chapters": [
+  {
+   "num": 43,
+   "key": "ebr",
+   "title": "Eddubrot",
+   "subtitle": null,
+   "group": "other",
+   "rows": [
+    {
+     "id": "ebr-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": []
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": []
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hár segir, at hann (Gylfi) kom eigi heill út, nema hann sé fróðari, ok"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hár segir, að hann (Gylfi) kom eigi heill út, nema hann sé fróðari, og"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p2",
+     "stanza": null,
+     "on": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Stattu fram,",
+        "meðan þú fregn,",
+        "sitja skal sá, er segir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Stattu fram,",
+        "meðan þú fregn,",
+        "sitja skal sá, er segir.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c2-11"
+     ]
+    },
+    {
+     "id": "ebr-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": []
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": []
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p3",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Njörðr á þá konu, er Skaði heitir, dóttir Þjaza jötuns. Skaði vill hafa bústað þann, er átt hafði faðir hennar, - þat er á fjöllum nökkurum, þar sem heitir Þrymheimr, - en Njörðr vill vera nær sæ. Þau sættust á þat, at þau skyldu vera níu nætr í Þrymheimi, en þá aðrar níu at Nóatúnum. En er Njörðr kom aftr til Nóatúna af fjallinu, þá kvað hann þetta:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Njörður á þá konu, er Skaði heitir, dóttir Þjassa jötuns. Skaði vill hafa bústað þann, er átt hafði faðir hennar, - það er á fjöllum nokkrum, þar sem heitir Þrymheimur, - en Njörður vill vera nær sæ. Þau sættust á það, að þau skyldu vera níu nætur í Þrymheimi, en þá aðrar níu að Nóatúnum. En er Njörður kom aftur til Nóatúna af fjallinu, þá kvað hann þetta:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p4",
+     "stanza": null,
+     "on": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Leið erumk fjöll,",
+        "vark-a ek lengi á,",
+        "nætr einar níu;",
+        "ulfa þytr",
+        "mér þótti illr vera",
+        "hjá söngvi svana.\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Þá kvað Skaði þetta:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Sofa ek né máttak",
+        "sævar beðjum á",
+        "fugls jamri fyrir,",
+        "sá mik vekr,",
+        "er af víði kemr,",
+        "morgun hverjan már.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Leið erumk fjöll,",
+        "vark-a eg lengi á,",
+        "nætur einar níu;",
+        "úlfa þytur",
+        "mér þótti illur vera",
+        "hjá söngvi svana.\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Þá kvað Skaði þetta:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Sofa eg né máttak",
+        "sævar beðjum á",
+        "fugls jamri fyrir,",
+        "sá mig vekur,",
+        "er af víði kemur,",
+        "morgun hverjan már.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c23-2",
+      "g-c23-4"
+     ]
+    },
+    {
+     "id": "ebr-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": []
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": []
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p5",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Ok enn segir hann (Heimdallr) sjálfr í Heimdallargaldri:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Og enn segir hann (Heimdallur) sjálfur í Heimdallargaldri:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p6",
+     "stanza": null,
+     "on": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Níu em ek mæðra mögr,",
+        "níu em ek systra sonr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Níu em eg mæðra mögur,",
+        "níu em eg systra sonur.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c27-4"
+     ]
+    },
+    {
+     "id": "ebr-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": []
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": []
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p7",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "(In fjórtánda ásynja er) Gná. Hana sendir Frigg í ýmsa heima at erindum sínum. Hon á þann hest, er renn loft ok lög ok heitir Hófvarpnir. Þat var eitt sinn, er hon reið; at Vanir nökkurir sáu reið hennar í loftinu. Þá mælti einn:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "(Hin fjórtánda ásynja er) Gná. Hana sendir Frigg í ýmsa heima að erindum sínum. Hún á þann hest, er rennur loft og lög og heitir Hófvarpnir. Það var eitt sinn, er hún reið; að vanir nokkrir sáu reið hennar í loftinu. Þá mælti einn:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p8",
+     "stanza": null,
+     "on": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Hvat þar flýgr,",
+        "hvat þat ferr",
+        "eða at lofti líðr?\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Hon svarar:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Né ek flýg",
+        "þó ek ferk",
+        "ok at lofti líðk",
+        "á Hófvarpni,",
+        "þeim er Hamskerpir",
+        "gat við Garðrofu.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Hvað þar flýgur,",
+        "hvað það fer",
+        "eða að lofti líður?\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Hún svarar:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Né eg flýg",
+        "þó eg fer",
+        "og að lofti líðk",
+        "á Hófvarpni,",
+        "þeim er Hamskerpir",
+        "gat við Garðrofu.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c35-16",
+      "g-c35-18"
+     ]
+    },
+    {
+     "id": "ebr-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": []
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": []
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p9",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Því næst sendu æsir um allan heim erindreka at biðja, at Baldr væri grátinn ór helju, en allir gerðu þat; mennirnir ok kykvendin ok jörðin ok steinarnir ok tré ok allr málmr . . . . Þá er sendimenn fóru heim ok höfðu vel rekit sín erindi, finna þeir í helli nökkurum, hvar gýgr sat. Hon nefndist Þökk. Þeir biðja hana gráta Baldr ór Helju. Hon svarar:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Því næst sendu æsir um allan heim erindreka að biðja, að Baldur væri grátinn úr Helju, en allir gerðu það; mennirnir og kykvendin og jörðin og steinarnir og tré og allur málmur . . . . Þá er sendimenn fóru heim og höfðu vel rekið sín erindi, finna þeir í helli nokkrum, hvar gýgur sat. Hún nefndist Þökk. Þeir biðja hana gráta Baldur úr Helju. Hún svarar:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p10",
+     "stanza": null,
+     "on": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Þökk mun gráta",
+        "þurrum tárum",
+        "Baldrs bálfarar;",
+        "kyks né dauðs",
+        "nautk-a ek karls sonar,",
+        "haldi Hel því, er hefir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Þökk mun gráta",
+        "þurrum tárum",
+        "Baldurs bálfarar;",
+        "Kyks né dauðs",
+        "nautk-a eg karls sonar,",
+        "Haldi Hel því, er hefur.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c49-24"
+     ]
+    },
+    {
+     "id": "ebr-p11",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "En þess geta menn, at þar hafi verit Loki Laufeyjarson, er flest hefir illt gert með ásum."
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "En þess geta menn, að þar hafi verið Loki Laufeyjarson, er flest hefur illt gert með ásum."
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": []
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": []
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p12",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þá fór Þórr til ár þeirar, er Vimur heitir, allra áa mest. Þá spennti hann sik megingjörðum ok studdi forstreymis Gríðarvöl, en Loki helt undir megingjarðar. Ok þá er Þórr kom í miðja ána, þá óx svá mjök áin, at uppi braut á öxl honum. Þá kvað Þórr þetta:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þá fór Þór til ár þeirrar, er Vimur heitir, allra áa mest. Þá spennti hann sig megingjörðum og studdi forstreymis Gríðarvöl, en Loki hélt undir Megingjarðir. Og þá er Þór kom í miðja ána, þá óx svo mjög áin, að uppi braut á öxl honum. Þá kvað Þór þetta:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p13",
+     "stanza": null,
+     "on": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Vax-at-tu nú, Vimr,",
+        "alls mik þik vaða tíðir",
+        "jötna garða í;",
+        "veiztu, ef þú vex,",
+        "at þá vex mér ásmegin",
+        "jafnhátt upp sem himin.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Vax-at-tu nú, Vimur,",
+        "alls mig þig vaða tíðir",
+        "jötna garða í;",
+        "veistu, ef þú vex,",
+        "að þá vex mér ásmegin",
+        "jafnhátt upp sem himin.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": []
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": []
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p14",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "En er Þórr kom til Geirröðar, þá var þeim félögum vísat fyrst í geitahús til herbergis, ok var þar einn stóll til sætis, og sat þar Þórr. Þá varð hann þess varr, at stóllinn fór undan honum upp at ræfri. Hann stakk Gríðarveli upp í raftana og lét sígast fast á stólinn. Varð þá brestr mikill, og fylgði skrækr. Þar höfðu verit undir stólinum dætr Geirröðar, Gjálp ok Greip, ok hafði hann brotit hrygginn í báðum. Þá kvað Þórr:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "En er Þór kom til Geirröðar, þá var þeim félögum vísað fyrst í geitahús til herbergis, og var þar einn stóll til sætis, og sat þar Þór. Þá varð hann þess var, að stóllinn fór undan honum upp að ræfri. Hann stakk Gríðarveli upp í raftana og lét sígast fast á stólinn. Varð þá brestur mikill, og fylgdi skrækur. Þar höfðu verið undir stólinum dætur Geirröðar, Gjálp og Greip, og hafði hann brotið hrygginn í báðum. Þá kvað Þór:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p15",
+     "stanza": null,
+     "on": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Einu sinni",
+        "neyttak ásmegins",
+        "jötna görðum í,",
+        "þá er Gjalp ok Greip,",
+        "dætr Geirröðar,",
+        "vildu hefja mik til himins.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Einu sinni",
+        "neyttak ásmegins",
+        "jötna görðum í,",
+        "þá er Gjalp og Greip,",
+        "dætur Geirröðar,",
+        "vildu hefja mig til himins.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": []
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": []
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p16",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Í Ásgarði fyrir dyrum Valhallar stendr lundr, sá er glasi er kallaðr, en lauf hans allt er gull rautt, svá sem hér er kveðit, at:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Í Ásgarði fyrir dyrum Valhallar stendur lundur, sá er glasi er kallaður, en lauf hans allt er gull rautt, svo sem hér er kveðið, að:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p17",
+     "stanza": null,
+     "on": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Glasir stendr",
+        "með gullnu laufi",
+        "fyrir Sigtýs sölum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Glasir stendur",
+        "með gullnu laufi",
+        "fyrir Sigtýs sölum."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "s-c42-2"
+     ]
+    },
+    {
+     "id": "ebr-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": []
+      },
+      {
+       "t": "p",
+       "s": "Þessi eru hestaheiti í Þorgrímsþulu:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Hrafn ok Sleipnir",
+        "hestar ágætir,",
+        "Valr ok Léttfeti,",
+        "var þar Tjaldari,",
+        "Gulltoppr ok Goti,",
+        "getit heyrðak Sóta,",
+        "Mór ok Lungr með Mari."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Vigg ok Stúfr",
+        "var með Skævaði,",
+        "þegn knátti Blakkr bera,",
+        "Silfrintoppr ok Sinir,",
+        "svá heyrðak Fáks of getit,",
+        "Gullfaxi ok Jór með goðum."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Blóðughófi hét hestr,",
+        "er bera kváðu",
+        "öflgan Atriða;",
+        "Gils ok Falhófnir,",
+        "Glær ok Skeiðbrimir",
+        "þar var ok Gyllis of getit."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": []
+      },
+      {
+       "t": "p",
+       "s": "Þessi eru hestaheiti í Þorgrímsþulu:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Hrafn og Sleipnir",
+        "hestar ágætir,",
+        "Valur og Léttfeti,",
+        "var þar Tjaldari,",
+        "Gulltoppur og Goti,",
+        "getið heyrðak Sóta,",
+        "Mór og Lungur með Mari."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Vigg og Stúfur",
+        "var með Skævaði,",
+        "þegn knátti Blakkur bera,",
+        "Silfrintoppur og Sinir,",
+        "svo heyrðak Fáks of getið,",
+        "Gullfaxi og Jór með goðum."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Blóðughófi hét hestur,",
+        "er bera kváðu",
+        "öflgan Atriða;",
+        "Gils og Falhófnir,",
+        "Glær og Skeiðbrimir",
+        "þar var og Gyllis of getið."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "s-c72-2",
+      "s-c72-3",
+      "s-c72-4"
+     ],
+     "head": "Sá er viðr fegrstr með goðum ok mönnum."
+    },
+    {
+     "id": "ebr-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": []
+      },
+      {
+       "t": "p",
+       "s": "Þessi öxnaheiti eru í Þorgrímsþulu:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Gamalla öxna nöfn",
+        "hefik gerla fregit,",
+        "þeira Rauðs ok Hæfis;",
+        "Rekinn ok Kyrr,",
+        "Himinhrjótr ok Apli,",
+        "Arfr ok Arfuni."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": []
+      },
+      {
+       "t": "p",
+       "s": "Þessi öxnaheiti eru í Þorgrímsþulu:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Gamalla öxna nöfn",
+        "hefig gerla fregið,",
+        "þeirra Rauðs og Hæfis;",
+        "Rekinn og Kyr,",
+        "Himinhrjótur og Apli,",
+        "Arfur og Arfuni."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "s-c73-2"
+     ]
+    },
+    {
+     "id": "ebr-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": []
+      },
+      {
+       "t": "p",
+       "s": "Þessir hestar eru enn talðir í Kálfsvísu:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Dagr reið Drösli,",
+        "en Dvalinn Móðni,",
+        "Hjálmþér Háfeta,",
+        "en Haki Fáki;",
+        "reið bani Belja",
+        "Blóðughófa,",
+        "en Skævaði",
+        "skati Haddingja."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Vésteinn Vali,",
+        "en Vifill Stúfi,",
+        "Meinþjófr Mói,",
+        "en Morginn Vakri,",
+        "Áli Hrafni,",
+        "er til íss riðu,",
+        "en annarr austr",
+        "und Aðilsi",
+        "grár hvarfaði",
+        "geiri undaðr."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Björn reið Blakki,",
+        "en Bjárr Kerti,",
+        "Atli Glaumi,",
+        "en Aðils Slungni,",
+        "Högni Hölkvi,",
+        "en Haraldr Fölkvi,",
+        "Gunnarr Gota,",
+        "en Grana Sigurðr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": []
+      },
+      {
+       "t": "p",
+       "s": "Þessir hestar eru enn talðir í Kálfsvísu:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Dagur reið Drösli,",
+        "en Dvalinn Móðni,",
+        "Hjálmþér Háfeta,",
+        "en Haki Fáki;",
+        "reið bani Belja",
+        "Blóðughófa,",
+        "en Skævaði",
+        "skati Haddingja."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Vésteinn Vali,",
+        "en Vifill Stúfi,",
+        "Meinþjófur Mói,",
+        "en Morginn Vakri,",
+        "Áli Hrafni,",
+        "er til ís riðu,",
+        "en annar austur",
+        "und Aðilsi",
+        "grár hvarfaði",
+        "geiri undaður."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Björn reið Blakki,",
+        "en Bjár Kerti,",
+        "Atli Glaumi,",
+        "en Aðils Slungni,",
+        "Högni Hölkvi,",
+        "en Haraldur Fölkvi,",
+        "Gunnar Gota,",
+        "en Grana Sigurður."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "s-c72-6",
+      "s-c72-7",
+      "s-c72-8"
+     ]
+    },
+    {
+     "id": "ebr-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": []
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Sægr heitir sár,",
+        "en Simul stöng,",
+        "Bil ok Hjúki",
+        "bera hann."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": []
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Sægur heitir sár,",
+        "en Símul stöng,",
+        "Bil og Hjúki",
+        "bera hann."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": []
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": []
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "head": "Þat er kallat, at þau sé í tungli."
+    },
+    {
+     "id": "ebr-p18",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fjöturrinn heitir Gleipnir, er honum (Fenrisúlfi) heldr. Gervir váru tveir fjötrar til hans, fyrst þeir Drómi ok Læðingr, ok helt hvárgi. Þá var Gleipnir síðan gerr ór sex hlutum:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fjöturinn heitir Gleipnir, er honum (Fenrisúlfi) heldur. Gervir voru tveir fjötrar til hans, fyrst þeir Drómi og Læðingur, og hélt hvárgi. Þá var Gleipnir síðan gjör úr sex hlutum:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p19",
+     "stanza": null,
+     "on": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Ór kattar dyn",
+        "ok ór konu skeggi,",
+        "ór fisks anda",
+        "ok ór fugla mjólk,",
+        "ór bergs rótum",
+        "ok ór bjarnar sinum,",
+        "ór því var hann Gleipnir gerr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Úr kattar dyn",
+        "og úr konu skeggi,",
+        "úr fisks anda",
+        "og úr fugla mjólk,",
+        "úr bergs rótum",
+        "og úr bjarnar sinum,",
+        "úr því var hann Gleipnir gjör."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": []
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Flugu hrafnar tveir",
+        "af Hnikars öxlum,",
+        "Huginn til hanga,",
+        "en á hræ Muninn."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": []
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Flugu hrafnar tveir",
+        "af Hnikars öxlum,",
+        "Huginn til hanga,",
+        "en á hræ Muninn."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": []
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": []
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p20",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigmundr tekr nú blóðrefilinn, ok ristu nú í milli sín helluna ok létta eigi fyrr en lokit er at rista, sem kveðit er:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigmundur tekur nú blóðrefilinn, og ristu nú í milli sín helluna og létta eigi fyrr en lokið er að rista, sem kveðið er:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p21",
+     "stanza": null,
+     "on": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Ristu af magni",
+        "mikla hellu",
+        "Sigmundr hjörvi",
+        "ok Sinfjötli."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Ristu af magni",
+        "mikla hellu",
+        "Sigmundur hjörvi",
+        "og Sinfjötli."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ebr-p22",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Athugasemd:"
+      },
+      {
+       "t": "p",
+       "s": "1. Brot þessi eru tínd saman úr handritum Snorra-Eddu að undanskildu síðasta brotinu, sem er úr Völsunga sögu. Þau eru ýmist leifar af glötuðum Eddukvæðum eða erindi í Eddukvæðastíl, sem hafa farið einstök frá öndverðu. Efnið er bæði úr goðsögum og hetjusögum. (Guðni Jónsson, Eddulyklar 1949)"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Athugasemd:"
+      },
+      {
+       "t": "p",
+       "s": "1. Brot þessi eru tínd saman úr handritum Snorra-Eddu að undanskildu síðasta brotinu, sem er úr Völsunga sögu. Þau eru ýmist leifar af glötuðum Eddukvæðum eða erindi í Eddukvæðastíl, sem hafa farið einstög frá öndverðu. Efnið er bæði úr goðsögum og hetjusögum. (Guðni Jónsson, Eddulyklar 1949)"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [],
+   "en_source": null,
+   "en_missing_note": "No public-domain English translation is in this edition yet."
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Eddubrot)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": null
+ }
+}

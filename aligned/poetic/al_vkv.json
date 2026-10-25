@@ -1,0 +1,2653 @@
+{
+ "part": "poetic",
+ "poem": "vkv",
+ "title": "Völundarkviða",
+ "group": "heroic",
+ "chapters": [
+  {
+   "num": 18,
+   "key": "vkv",
+   "title": "Völundarkviða",
+   "subtitle": null,
+   "group": "heroic",
+   "rows": [
+    {
+     "id": "vkv-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Níðuðr hét konungr í Svíþjóð. Hann átti tvá sonu ok eina dóttur. Hon hét Böðvildr. Bræðr váru þrír, synir Finnakonungs. Hét einn Slagfiðr, annarr Egill, þriði Völundr. Þeir skriðu ok veiddu dýr. Þeir kómu í Úlfdali ok gerðu sér þar hús. Þar er vatn, er heitir Úlfsjár. Snemma of morgin fundu þeir á vatnsströndu konur þrjár, ok spunnu lín. Þar váru hjá þeim álftarhamir þeira. Þat váru valkyrjur. Þar váru tvær dætr Hlöðvés konungs, Hlaðguðr svanhvít ok Hervör alvitr, in þriðja var Ölrún Kjársdóttir af Vallandi. Þeir höfðu þær heim til skála með sér. Fekk Egill Ölrúnar, en Slagfiðr Svanhvítrar, en Völundr Alvitrar. Þau bjuggu sjau vetr. Þá flugu þær at vitja víga ok kómu eigi aftr. Þá skreið Egill at leita Ölrúnar, en Slagfiðr leitaði Svanhvítrar, en Völundr sat í Úlfdölum. Hann var hagastr maðr, svá at menn viti, í fornum sögum. Níðuðr konungr lét hann höndum taka, svá sem hér er um kveðit:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Níðuður hét konungur í Svíþjóð. Hann átti tvo sonu og eina dóttur. Hún hét Böðvildur. bræður voru þrír, synir Finnakonungs. Hét einn Slagfiður, annar Egill, þriðji Völundur. Þeir skriðu og veiddu dýr. Þeir komu í Úlfdali og gerðu sér þar hús. Þar er vatn, er heitir Úlfsjár. Snemma of morgun fundu þeir á vatnsströndu konur þrjár, og spunnu lín. Þar voru hjá þeim álftarhamir þeirra. Það voru valkyrjur. Þar voru tvær dætur Hlöðvés konungs, Hlaðguður svanhvít og Hervör alvitur, hin þriðja var Ölrún Kjársdóttir af Vallandi. Þeir höfðu þær heim til skála með sér. Fékk Egill Ölrúnar, en Slagfiður Svanhvítrar, en Völundur Alvitrar. Þau bjuggu sjö vetur. Þá flugu þær að vitja víga og komu eigi aftur. Þá skreið Egill að leita Ölrúnar, en Slagfiður leitaði Svanhvítrar, en Völundur sat í Úlfdölum. Hann var hagastur maður, svo að menn viti, í fornum sögum. Níðuður konungur lét hann höndum taka, svo sem hér er um kveðið:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p1⟧There was a king in Sweden named Nithuth⟦p2⟧. He had two sons and one daughter; her name was Bothvild⟦p3⟧. There were three brothers, sons of a king of the Finns⟦p4⟧: one was called Slagfith⟦p5⟧, another Egil⟦p5⟧, the third Völund. They went on snowshoes and hunted wild beasts. They came into Ulfdalir⟦p6⟧ and there they built themselves a house; there was a lake there which is called Ulfsjar⟦p6⟧. Early one morning they found on the shore of the lake three women, who were spinning flax. Near them were their swan-garments, for they were Valkyries⟦p7⟧. Two of them were daughters of King Hlothver⟦p8⟧, Hlathguth the Swan-White and Hervor the All-Wise, and the third was Olrun, daughter of Kjar⟦p8⟧ from Valland⟦p6⟧. These did they bring home to their hall with them. Egil took Olrun, and Slagfith Swan-White, and Völund All-Wise. There they dwelt seven winters; but then they flew away to find battles, and came back no more. Then Egil set forth on his snowshoes to follow Olrun, and Slagfith followed Swan-White, but Völund stayed in Ulfdalir. He was a most skillful man, as men know from old tales. King Nithuth had him taken by force, as the poem here tells.⟦p9⟧"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Meyjar flugu sunnan",
+        "myrkvið í gögnum,",
+        "Alvitr unga,",
+        "örlög drýgja;",
+        "þær á sævarströnd",
+        "settusk at hvílask",
+        "drósir suðrænar,",
+        "dýrt lín spunnu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Meyjar flugu sunnan",
+        "myrkvið í gögnum,",
+        "Alvitur unga,",
+        "örlög drýgja;",
+        "þær á sævarströnd",
+        "settust að hvílast",
+        "drósir suðrænar,",
+        "dýrt lín spunnu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Maids from the south | through Myrkwood flew,",
+        "Fair and young, | their fate to follow;",
+        "On the shore of the sea | to rest them they sat,",
+        "The maids of the south, | and flax they spun.⟦1⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "..............",
+        "Hlathguth and Hervor, | Hlothver's children,",
+        "And Olrun the Wise | Kjar's daughter was.⟦2⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1,
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Ein nam þeira",
+        "Egil at verja,",
+        "fögr mær fira,",
+        "faðmi ljósum;",
+        "önnur var Svanhvít,",
+        "svanfjaðrar dró,",
+        "en in þriðja",
+        "þeira systir",
+        "varði hvítan",
+        "hals Völundar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Ein nam þeirra",
+        "Egil að verja,",
+        "fögur mær firra,",
+        "faðmi ljósum;",
+        "önnur var Svanhvít,",
+        "svanfjaðrar dró,",
+        "en hin þriðja",
+        "þeirra systir",
+        "varði hvítan",
+        "hals Völundar."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "..............",
+        "One in her arms | took Egil then",
+        "To her bosom white, | the woman fair.⟦3⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Swan-White second,— | swan-feathers she wore,",
+        "..............",
+        "And her arms the third | of the sisters threw",
+        "Next round Völund's | neck so white.⟦4⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3,
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Sátu síðan",
+        "sjau vetr at þat,",
+        "en inn átta",
+        "allan þráðu,",
+        "en inn níunda",
+        "nauðr of skilði;",
+        "meyjar fýstusk",
+        "á myrkvan við,",
+        "Alvitr unga,",
+        "örlög drýgja."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Sátu síðan",
+        "sjö vetur að það,",
+        "en hinn átta",
+        "allan þráðu,",
+        "en hinn níunda",
+        "nauður of skildi;",
+        "meyjar fýstust",
+        "á myrkvan við,",
+        "Alvitur unga,",
+        "örlög drýgja."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "There did they sit | for seven winters,",
+        "In the eighth at last | came their longing again,",
+        "(And in the ninth | did need divide them).",
+        "The maidens yearned | for the murky wood,",
+        "The fair young maids, | their fate to follow.⟦5⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Kom þar af veiði",
+        "veðreygr skyti,",
+        "[Völundr, líðandi",
+        "um langan veg],",
+        "Slagfiðr ok Egill,",
+        "sali fundu auða,",
+        "gengu út ok inn",
+        "ok um sáusk;",
+        "austur skreið Egill",
+        "at Ölrúnu,",
+        "en suðr Slagfiðr",
+        "at Svanhvítu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Kom þar af veiði",
+        "veðreygur skyti,",
+        "[Völundur, líðandi",
+        "um langan veg],",
+        "Slagfiður og Egill,",
+        "sali fundu auða,",
+        "gengu út og hinn",
+        "og um sáust;",
+        "austur skreið Egill",
+        "að Ölrúnu,",
+        "en suður Slagfiður",
+        "að Svanhvítu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Völund home | from his hunting came,",
+        "From a weary way, | the weather-wise bowman,",
+        "Slagfith and Egil | the hall found empty,",
+        "Out and in went they, | everywhere seeking.⟦6⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "En einn Völundr",
+        "sat í Ulfdölum,",
+        "hann sló gull rautt",
+        "við gim fastan,",
+        "lukði hann alla",
+        "lind baugum vel;",
+        "svá beið hann",
+        "sinnar ljóssar",
+        "kvánar, ef hánum",
+        "koma gerði."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "En einn Völundur",
+        "sat í Ulfdölum,",
+        "hann sló gull rautt",
+        "við gim fastan,",
+        "lukði hann alla",
+        "lind baugum vel;",
+        "svo beið hann",
+        "sinnar ljóssar",
+        "kvánar, ef hánum",
+        "koma gerði."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "East fared Egil | after Olrun,",
+        "And Slagfith south | to seek for Swan-White;",
+        "Völund alone | in Ulfdalir lay,",
+        "..............⟦7⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Red gold he fashioned | with fairest gems,",
+        "And rings he strung | on ropes of bast;",
+        "So for his wife | he waited long,",
+        "If the fair one home | might come to him.⟦8⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7,
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Þat spyrr Níðuðr,",
+        "Níára dróttinn,",
+        "at einn Völundr",
+        "sat í Ulfdölum;",
+        "nóttum fóru seggir,",
+        "neglðar váru brynjur,",
+        "skildir bliku þeira",
+        "við inn skarða mána."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Það spyr Níðuður,",
+        "Níára dróttinn,",
+        "að einn Völundur",
+        "sat í Ulfdölum;",
+        "nóttum fóru seggir,",
+        "neglðar voru brynjur,",
+        "skildir bliku þeirra",
+        "við hinn skarða mána."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "This Nithuth learned, | the lord of the Njars,",
+        "That Völund alone | in Ulfdalir lay;",
+        "By night went his men, | their mail-coats were studded,",
+        "Their shields in the waning | moonlight shone.⟦9⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Stigu ór söðlum",
+        "at salar gafli,",
+        "gengu inn þaðan",
+        "endlangan sal;",
+        "sáu þeir á bast",
+        "bauga dregna,",
+        "sjau hundruð allra,",
+        "er sá seggr átti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Stígu úr söðlum",
+        "að salar gafli,",
+        "gengu hinn þaðan",
+        "endlangan sal;",
+        "sáu þeir á bast",
+        "bauga dregna,",
+        "sjö hundruð allra,",
+        "er sá seggur átti."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "From their saddles the gable | wall they sought,",
+        "And in they went | at the end of the hall;",
+        "Rings they saw there | on ropes of bast,",
+        "Seven hundred | the hero had.⟦10⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Og þeir af tóku",
+        "ok þeir á létu,",
+        "fyr einn útan,",
+        "er þeir af létu.",
+        "Kom þar af veiði",
+        "veðreygr skyti,",
+        "Völundr, líðandi",
+        "um langan veg."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Og þeir af tóku",
+        "og þeir á létu,",
+        "fyr einn utan,",
+        "er þeir af létu.",
+        "Kom þar af veiði",
+        "veðreygur skyti,",
+        "Völundur, líðandi",
+        "um langan veg."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Off they took them, | but all they left",
+        "Save one alone | which they bore away.",
+        "..............",
+        "..............⟦11⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Gekk hann brúnni",
+        "beru hold steikja,",
+        "ár brann hrísi",
+        "allþurr fura,",
+        "viðr inn vindþurri,",
+        "fyr Völundi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Gekk hann brúnni",
+        "beru hold steikja,",
+        "ár brann hrísi",
+        "allþur fura,",
+        "viður hinn vindþurri,",
+        "fyr Völundi."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Völund home | from his hunting came,",
+        "From a weary way, | the weather-wise bowman;",
+        "A brown bear's flesh | would he roast with fire;",
+        "Soon the wood so dry | was burning well,",
+        "(The wind-dried wood | that Völund's was).⟦12⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Sat á berfjalli,",
+        "bauga talði,",
+        "alfa ljóði,",
+        "eins saknaði;",
+        "hugði hann, at hefði",
+        "Hlöðvés dóttir,",
+        "Alvitr unga,",
+        "væri hon aftr komin."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Sat á berfjalli,",
+        "bauga taldi,",
+        "alfa ljóði,",
+        "eins saknaði;",
+        "hugði hann, að hefði",
+        "Hlöðvés dóttir,",
+        "Alvitur unga,",
+        "væri hún aftur komin."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "On the bearskin he rested, | and counted the rings,",
+        "The master of elves, | but one he missed;",
+        "That Hlothver's daughter | had it he thought,",
+        "And the all-wise maid | had come once more.⟦13⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Sat hann svá lengi,",
+        "at hann sofnaði,",
+        "ok hann vaknaði",
+        "viljalauss;",
+        "vissi sér á höndum",
+        "höfgar nauðir,",
+        "en á fótum",
+        "fjötur of spenntan."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Sat hann svo lengi,",
+        "að hann sofnaði,",
+        "og hann vaknaði",
+        "viljalaus;",
+        "vissi sér á höndum",
+        "höfgar nauðir,",
+        "en á fótum",
+        "fjötur of spenntan."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "So long he sat | that he fell asleep,",
+        "His waking empty | of gladness was;",
+        "Heavy chains | he saw on his hands,",
+        "And fetters bound | his feet together."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "p",
+       "s": "Völundr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Hverir ro jöfrar,",
+        "þeir er á lögðu",
+        "besti bör síma",
+        "ok mik bundu?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Völundur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Hverjir ro jöfrar,",
+        "þeir er á lögðu",
+        "besti bör síma",
+        "og mig bundu?\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Kallaði nú Níðuðr",
+        "Níara dróttinn:",
+        "\"Hvar gaztu, Völundr,",
+        "vísi alfa,",
+        "vára aura",
+        "í Ulfdölum?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Kallaði nú Níðuður",
+        "Níara dróttinn:",
+        "\"Hvar gaztu, Völundur,",
+        "vísi alfa,",
+        "vára aura",
+        "í Ulfdölum?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Völund spake:",
+        "\"What men are they | who thus have laid",
+        "Ropes of bast | to bind me now?\""
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Then Nithuth called, | the lord of the Njars:",
+        "\"How gottest thou, Völund, | greatest of elves,",
+        "These treasures of ours | in Ulfdalir?\"⟦15⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      15
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "p",
+       "s": "Völundr Kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Gull var þar eigi",
+        "á Grana leiðu,",
+        "fjarri hugða ek várt land",
+        "fjöllum Rínar;",
+        "man ek, at vér meiri",
+        "mæti áttum,",
+        "er vér heil hjú",
+        "heima várum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Völundur Kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Gull var þar eigi",
+        "á Grana leiðu,",
+        "fjarri hugði eg vort land",
+        "fjöllum Rínar;",
+        "man eg, að vér meiri",
+        "mæti áttum,",
+        "er vér heil hjú",
+        "heima várum."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Völund spake:",
+        "\"The gold was not | on Grani's way,",
+        "Far, methinks, is our realm | from the hills of the Rhine;",
+        "I mind me that treasures | more we had",
+        "When happy together | at home we were.\"⟦16⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      16
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Hlaðguðr ok Hervör",
+        "borin var Hlöðvé",
+        "kunn var Ölrún",
+        "Kíárs dóttir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Hlaðguður og Hervör",
+        "borin var Hlöðvé",
+        "kunn var Ölrún",
+        "Kíárs dóttir.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "[Úti stóð kunnig",
+        "kván Níðaðar],",
+        "hon inn of gekk",
+        "endlangan sal,",
+        "stóð á golfi,",
+        "stillti röddu:",
+        "\"Er-a sá nú hýrr,",
+        "er ór holti ferr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "[Úti stóð kunnig",
+        "kvon Níðaðar],",
+        "hún hinn of gekk",
+        "endlangan sal,",
+        "stóð á golfi,",
+        "stillti röddu:",
+        "\"Er-a sá nú hýr,",
+        "er úr holti fer.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Without stood the wife | of Nithuth wise,",
+        "And in she came | from the end of the hall;",
+        "On the floor she stood, | and softly spoke:",
+        "\"Not kind does he look | who comes from the wood.\"⟦17⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      17
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-p2",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Níðuðr konungr gaf dóttur sinni, Böðvildi gullhring þann, er hann tók af bastinu at Völundar, en hann sjálfr bar sverðit, er Völundr átti. En dróttning kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Níðuður konungur gaf dóttur sinni, Böðvildi gullhring þann, er hann tók af bastinu að Völundar, en hann sjálfur bar sverðið, er Völundur átti. En dróttning kvað:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p10⟧King Nithuth gave to his daughter Bothvild the gold ring that he had taken from the bast rope in Völund's house, and he himself wore the sword that Völund had had. The queen spake:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Ámun eru augu",
+        "ormi þeim inum frána,",
+        "tenn hánum teygjask,",
+        "er hánum er tét sverð",
+        "ok hann Böðvildar",
+        "baug of þekkir;",
+        "sníðið ér hann",
+        "sina magni",
+        "ok setið hann síðan",
+        "í Sævarstöð.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Ámun eru augu",
+        "ormi þeim hinum frána,",
+        "tenn hánum teygjast,",
+        "er hánum er tét sverð",
+        "og hann Böðvildar",
+        "baug of þekir;",
+        "sníðið þér hann",
+        "sina magni",
+        "og setið hann síðan",
+        "í Sævarstöð.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"The glow of his eyes | is like gleaming snakes,",
+        "His teeth he gnashes | if now is shown",
+        "The sword, or Bothvild's | ring he sees;",
+        "Let them straightway cut | his sinews of strength,",
+        "And set him then | in Sævarstath.\"⟦18⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      18
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-p3",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Svá var gert, at skornar váru sinar í knésfótum, ok settr í hólm einn, er þar var fyrir landi, er hét Sævarstaðr. Þar smíðaði hann konungi alls kyns görsimar. Engi maðr þorði at fara til hans nema konungr einn."
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Svo var gert, að skornar voru sinar í knésfótum, og settur í hólm einn, er þar var fyrir landi, er hét Sævarstaður. Þar smíðaði hann konungi alls kyns görsimar. Enginn maður þorði að fara til hans nema konungur einn."
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "So was it done: the sinews in his knee-joints were cut, and he was set in an island which was near the mainland, and was called Sævarstath. There he smithied for the king all kinds of precious things. No man dared to go to him, save only the king himself. Völund spake:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Skínn Níðaði",
+        "sverð á linda,",
+        "þat er ek hvessta,",
+        "sem ek hagast kunna",
+        "ok ek herðak,",
+        "sem mér hægst þótti;",
+        "sá er mér fránn mækir",
+        "æ fjarri borinn,",
+        "sékk-a ek þann Völundi",
+        "til smiðju borinn."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Skín Níðaði",
+        "sverð á linda,",
+        "það er eg hvessta,",
+        "sem eg hagast kunna",
+        "og eg herðak,",
+        "sem mér hægst þótti;",
+        "sá er mér fránn mækir",
+        "æ fjarri borinn,",
+        "sékk-a eg þann Völundi",
+        "til smiðju borinn."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"At Nithuth's girdle | gleams the sword",
+        "That I sharpened keen | with cunningest craft,",
+        "(And hardened the steel | with highest skill;)",
+        "The bright blade far | forever is borne,",
+        "(Nor back shall I see it | borne to my smithy;)",
+        "Now Bothvild gets | the golden ring",
+        "(That was once my bride's,— | ne'er well shall it be.)\"⟦19⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Nú berr Böðvildr",
+        "brúðar minnar",
+        "- bíðk-a ek þess bót, -",
+        "bauga rauða.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Nú ber Böðvildur",
+        "brúðar minnar",
+        "- bíðk-a eg þess bót, -",
+        "bauga rauða.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": true,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Sat hann, né hann svaf, ávallt",
+        "ok hann sló hamri;",
+        "vél gerði hann heldr",
+        "hvatt Níðaði.",
+        "Drifu ungir tveir",
+        "á dýr séa",
+        "synir Níðaðar,",
+        "í Sævarstöð."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Sat hann, né hann svaf, ávallt",
+        "og hann sló hamri;",
+        "vél gerði hann heldur",
+        "hvatt Níðaði.",
+        "Drifu ungir tveir",
+        "á dýr séa",
+        "synir Níðaðar,",
+        "í Sævarstöð."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "He sat, nor slept, | and smote with his hammer,",
+        "Fast for Nithuth | wonders he fashioned;",
+        "Two boys did go | in his door to gaze,",
+        "Nithuth's sons, | into Sævarstath.⟦20⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      20
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Kómu þeir til kistu,",
+        "kröfðu lukla,",
+        "opin var illúð",
+        "er þeir í sáu;",
+        "fjölð var þar menja,",
+        "er þeim mögum sýndisk",
+        "at væri gull rautt",
+        "ok görsimar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Komu þeir til kistu,",
+        "kröfðu lukla,",
+        "opin var illúð",
+        "er þeir í sáu;",
+        "fjölð var þar menja,",
+        "er þeim mögum sýndist",
+        "að væri gull rautt",
+        "og görsimar."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "They came to the chest, | and they craved the keys,",
+        "The evil was open | when in they looked;",
+        "To the boys it seemed | that gems they saw,",
+        "Gold in plenty | and precious stones.⟦21⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      21
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "p",
+       "s": "Völundr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Komið einir tveir,",
+        "komið annars dags;",
+        "ykkr læt ek þat gull",
+        "of gefit verða;",
+        "segið-a meyjum",
+        "né salþjóðum,",
+        "manni engum,",
+        "at it mik fyndið.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Völundur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Komið einir tveir,",
+        "komið annars dags;",
+        "ykkur læt eg það gull",
+        "of gefið verða;",
+        "segið-a meyjum",
+        "né salþjóðum,",
+        "manni engum,",
+        "að it mig fyndið.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Völund spake:",
+        "\"Come ye alone, | the next day come,",
+        "Gold to you both | shall then be given;",
+        "Tell not the maids | or the men of the hall,",
+        "To no one say | that me you have sought.\"⟦22⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      22
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Snemma kallaði",
+        "seggr annan,",
+        "bróðir á bróður:",
+        "\"Göngum baug séa!\"",
+        "Kómu til kistu,",
+        "kröfðu lukla,",
+        "opin var illúð,",
+        "er þeir í litu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Snemma kallaði",
+        "seggur annan,",
+        "bróðir á bróður:",
+        "\"Göngum baug séa!\"",
+        "Komu til kistu,",
+        "kröfðu lukla,",
+        "opin var illúð,",
+        "er þeir í lita."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "..............",
+        "Early did brother | to brother call:",
+        "\"Swift let us go | the rings to see.\"⟦23⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "They came to the chest, | and they craved the keys,",
+        "The evil was open | when in they looked;",
+        "He smote off their heads, | and their feet he hid",
+        "Under the sooty | straps of the bellows.⟦24⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      23,
+      24
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Sneið af höfuð",
+        "húna þeira",
+        "ok und fen fjöturs",
+        "fætr of lagði;",
+        "en þær skálar,",
+        "er und skörum váru,",
+        "sveip hann útan silfri,",
+        "seldi Níðaði."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Sneið af höfuð",
+        "húna þeirra",
+        "og und fen fjöturs",
+        "fætur of lagði;",
+        "en þær skálar,",
+        "er und skörum voru,",
+        "sveip hann utan silfri,",
+        "seldi Níðaði."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Their skulls, once hid | by their hair, he took,",
+        "Set them in silver | and sent them to Nithuth;",
+        "Gems full fair | from their eyes he fashioned,",
+        "To Nithuth's wife | so wise he gave them.⟦25⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      25
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "En ór augum",
+        "jarknasteina",
+        "sendi hann kunnigri",
+        "konu Níðaðar,",
+        "en ór tönnum",
+        "tveggja þeira",
+        "sló hann brjóstkringlur",
+        "sendi Böðvildi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "En úr augum",
+        "jarknasteina",
+        "sendi hann kunnigri",
+        "konu Níðaðar,",
+        "en úr tönnum",
+        "tveggja þeirra",
+        "sló hann brjóstkringlur",
+        "sendi Böðvildi."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "And from the teeth | of the twain he wrought",
+        "A brooch for the breast, | to Bothvild he sent it;",
+        "..............⟦26⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      26
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Þá nam Böðvildr",
+        "baugi at hrósa",
+        "-- -- --",
+        "[bar hann Völundi],",
+        "er brotit hafði:",
+        "\"Þorig-a ek at segja",
+        "nema þér einum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Þá nam Böðvildur",
+        "baugi að hrósa",
+        "-- -- --",
+        "[bar hann Völundi],",
+        "er brotið hafði:",
+        "\"Þorig-a eg að segja",
+        "nema þér einum.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Bothvild then of her ring did boast,",
+        "..............",
+        "....... | \"The ring I have broken,",
+        "I dare not say it | save to thee.\"⟦27⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      27
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "p",
+       "s": "Völundr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Ek bæti svá",
+        "brest á gulli",
+        "at feðr þínum",
+        "fegri þykkir",
+        "ok mæðr þinni",
+        "miklu betri",
+        "ok sjalfri þér",
+        "at sama hófi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Völundur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Eg bæti svo",
+        "brest á gulli",
+        "að feður þínum",
+        "fegri þykir",
+        "og mæður þinni",
+        "miklu betri",
+        "og sjalfri þér",
+        "að sama hófi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Völund spake:",
+        "\"I shall weld the break | in the gold so well",
+        "That fairer than ever | thy father shall find it,",
+        "And better much | thy mother shall think it,",
+        "And thou no worse | than ever it was.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      28
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s28",
+     "stanza": 28,
+     "on": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Bar hann hana bjóri,",
+        "því at hann betr kunni",
+        "svá at hon í sessi",
+        "of sofnaði.",
+        "\"Nú hef ek hefnt",
+        "harma minna",
+        "allra nema einna",
+        "íviðgjarna.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Bar hann hana bjóri,",
+        "því að hann betur kunni",
+        "svo að hún í sessi",
+        "of sofnaði.",
+        "\"Nú hef eg hefnt",
+        "harma minna",
+        "allra nema einn",
+        "íviðgjarna.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Beer he brought, | he was better in cunning,",
+        "Until in her seat | full soon she slept."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Völund spake:",
+        "\"Now vengeance I have | for all my hurts,",
+        "Save one alone, | on the evil woman.\"⟦29⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      29
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s29",
+     "stanza": 29,
+     "on": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Vel ek,\" kvað Völundr,",
+        "\"verða ek á fitjum",
+        "þeim er mik Níðaðar",
+        "námu rekkar.\"",
+        "Hlæjandi Völundr",
+        "hófsk at lofti,",
+        "grátandi Böðvildr",
+        "gekk ór eyju,",
+        "tregði för friðils",
+        "ok föður reiði."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Vel eg,\" kvað Völundur,",
+        "\"verða eg á fitjum",
+        "þeim er mig Níðaðar",
+        "námu rekkar.\"",
+        "Hlæjandi Völundur",
+        "hófst að lofti,",
+        "grátandi Böðvildur",
+        "gekk úr eyju,",
+        "tregði för friðils",
+        "og föður reiði."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "..............",
+        "..............",
+        "Quoth Völund: \"Would | that well were the sinews",
+        "Maimed in my feet | by Nithuth's men.\"⟦30⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Laughing Völund | rose aloft,",
+        "Weeping Bothvild | went from the isle,",
+        "For her lover's flight | and her father's wrath.⟦31⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      30,
+      31
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s30",
+     "stanza": 30,
+     "on": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Úti stendr kunnig",
+        "kván Níðaðar,",
+        "ok hon inn of gekk",
+        "endlangan sal,",
+        "- en hann á salgarð",
+        "settisk at hvílask -:",
+        "\"Vakir þú, Níðuðr",
+        "Níara dróttinn?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Úti stendur kunnig",
+        "kvon Níðaðar,",
+        "og hún hinn of gekk",
+        "endlangan sal,",
+        "- en hann á salgarð",
+        "settist að hvílast -:",
+        "\"Vakir þú, Níðuður",
+        "Níara dróttinn?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Without stood the wife | of Nithuth wise,",
+        "And in she came | from the end of the hall;",
+        "But he by the wall | in weariness sat:",
+        "\"Wakest thou, Nithuth, | lord of the Njars?\"⟦32⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      32
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s31",
+     "stanza": 31,
+     "on": [
+      {
+       "t": "p",
+       "s": "Níðuðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Vaki ek ávallt",
+        "viljalauss,",
+        "sofna ek minnst",
+        "síz mína sonu dauða;",
+        "kell mik í höfuð,",
+        "köld eru mér ráð þín,",
+        "vilnumk ek þess nú,",
+        "at ek við Völund dæma."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Níðuður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Vaki eg ávallt",
+        "viljalaus,",
+        "sofna eg minnst",
+        "síz mína sonu dauða;",
+        "kell mig í höfuð,",
+        "köld eru mér ráð þín,",
+        "vilnumk eg þess nú,",
+        "að eg við Völund dæma."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Nithuth spake:",
+        "\"Always I wake, | and ever joyless,",
+        "Little I sleep | since my sons were slain;",
+        "Cold is my head, | cold was thy counsel,",
+        "One thing, with Völund | to speak, I wish.⟦33⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      33
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s32",
+     "stanza": 32,
+     "on": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Seg þú mér þat, Völundr,",
+        "vísi alfa,",
+        "af heilum hvat varð",
+        "húnum mínum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Seg þú mér það, Völundur,",
+        "vísi alfa,",
+        "af heilum hvað varð",
+        "húnum mínum.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "..............",
+        "\"Answer me, Völund, | greatest of elves,",
+        "What happed with my boys | that hale once were?\"⟦34⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      34
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s33",
+     "stanza": 33,
+     "on": [
+      {
+       "t": "p",
+       "s": "Völundr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Eiða skaltu mér áðr",
+        "alla vinna,",
+        "at skips borði",
+        "ok at skjaldar rönd,",
+        "at mars bægi",
+        "ok at mækis egg,",
+        "at þú kvelj-at",
+        "kván Völundar",
+        "né brúði minni",
+        "at bana verðir,",
+        "þótt vér kván eigim,",
+        "þá er ér kunnið,",
+        "eða jóð eigim",
+        "innan hallar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Völundur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Eiða skaltu mér áður",
+        "alla vinna,",
+        "að skips borði",
+        "og að skjaldar rönd,",
+        "að mars bægi",
+        "og að mækis egg,",
+        "að þú kvelj-at",
+        "kvon Völundar",
+        "né brúði minni",
+        "að bana verðir,",
+        "þótt vér kvon eigim,",
+        "þá er þér kunnið,",
+        "eða jóð eigim",
+        "innan hallar."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Völund spake:",
+        "\"First shalt thou all | the oaths now swear,",
+        "By the rail of ship, | and the rim of shield,",
+        "By the shoulder of steed, | and the edge of sword,",
+        "That to Völund's wife | thou wilt work no ill,",
+        "Nor yet my bride | to her death wilt bring,",
+        "Though a wife I should have | that well thou knowest,",
+        "And a child I should have | within thy hall.⟦35⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      35
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s34",
+     "stanza": 34,
+     "on": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Gakk þú til smiðju,",
+        "þeirar er þú gerðir,",
+        "þar fiðr þú belgi",
+        "blóði stokkna;",
+        "sneið ek af höfuð",
+        "húna þinna,",
+        "ok und fen fjöturs",
+        "fætr of lagðak."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Gakk þú til smiðju,",
+        "þeirrar er þú gerðir,",
+        "þar fiður þú belgi",
+        "blóði stokkna;",
+        "sneið eg af höfuð",
+        "húna þinna,",
+        "og und fen fjöturs",
+        "fætur of lagðak."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "\"Seek the smithy | that thou didst set,",
+        "Thou shalt find the bellows | sprinkled with blood;",
+        "I smote off the heads | of both thy sons,",
+        "And their feet 'neath the sooty | straps I hid.⟦36⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      36
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s35",
+     "stanza": 35,
+     "on": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "En þær skálar,",
+        "er und skörum váru,",
+        "sveip ek útan silfri,",
+        "selda ek Níðaði;",
+        "en ór augum",
+        "jarknasteina",
+        "senda ek kunnigri",
+        "kván Níðaðar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "En þær skálar,",
+        "er und skörum voru,",
+        "sveip eg utan silfri,",
+        "selda eg Níðaði;",
+        "en úr augum",
+        "jarknasteina",
+        "senda eg kunnigri",
+        "kvon Níðaðar."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Their skulls, once hid | by their hair, I took,",
+        "Set them in silver | and sent them to Nithuth;",
+        "Gems full fair | from their eyes I fashioned,",
+        "To Nithuth's wife | so wise I gave them.⟦37⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      37
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s36",
+     "stanza": 36,
+     "on": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "En úr tönnum",
+        "tveggja þeira",
+        "sló ek brjóstkringlur,",
+        "senda ek Böðvildi;",
+        "nú gengr Böðvildr",
+        "barni aukin,",
+        "eingadóttir",
+        "ykkur beggja.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "En úr tönnum",
+        "tveggja þeirra",
+        "sló eg brjóstkringlur,",
+        "senda eg Böðvildi;",
+        "nú gengur Böðvildur",
+        "barni aukin,",
+        "eingadóttir",
+        "ykkur beggja.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "\"And from the teeth | of the twain I wrought",
+        "A brooch for the breast, | to Bothvild I gave it;",
+        "Now big with child | does Bothvild go,",
+        "The only daughter | ye two had ever.\"⟦38⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      38
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s37",
+     "stanza": 37,
+     "on": [
+      {
+       "t": "p",
+       "s": "Níðuðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Mæltir-a þú þat mál,",
+        "er mik meir tregi,",
+        "né ek þik vilja, Völundr,",
+        "verr of níta;",
+        "er-at svá maðr hár,",
+        "at þik af hesti taki,",
+        "né svá öflugr,",
+        "at þik neðan skjóti,",
+        "þar er þú skollir",
+        "við ský uppi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Níðuður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Mæltir-a þú það mál,",
+        "er mig meir tregi,",
+        "né eg þig vilja, Völundur,",
+        "verr of níta;",
+        "er-at svo maður hár,",
+        "að þig af hesti taki,",
+        "né svo öflugur,",
+        "að þig neðan skjóti,",
+        "þar er þú skollir",
+        "við ský uppi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Nithuth spake:",
+        "\"Never spakest thou word | that worse could hurt me,",
+        "Nor that made me, Völund, | more bitter for vengeance;",
+        "There is no man so high | from thy horse to take thee,",
+        "Or so doughty an archer | as down to shoot thee,",
+        "While high in the clouds | thy course thou takest.\"⟦39⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      39
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s38",
+     "stanza": 38,
+     "on": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Hlæjandi Völundr",
+        "hófsk at lofti,",
+        "en ókátr Níðuðr",
+        "sat þá eftir."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Hlæjandi Völundur",
+        "hófst að lofti,",
+        "en ókátur Níðuður",
+        "sat þá eftir."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Laughing Völund | rose aloft,",
+        "But left in sadness | Nithuth sat.",
+        "..............⟦40⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      40
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s39",
+     "stanza": 39,
+     "on": [
+      {
+       "t": "p",
+       "s": "Níðuðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Upp rístu, Þakkráðr,",
+        "þræll minn inn bezti,",
+        "bið þú Böðvildi,",
+        "meyna bráhvítu,",
+        "ganga fagrvarið",
+        "við föður ræða."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Níðuður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Upp rístu, Þakkráður,",
+        "þræll minn hinn bezti,",
+        "bið þú Böðvildi,",
+        "meyna bráhvítu,",
+        "ganga fagrvarið",
+        "við föður ræða."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "Then spake Nithuth, | lord of the Njars:",
+        "\"Rise up, Thakkrath, | best of my thralls,",
+        "Bid Bothvild come, | the bright-browed maid,",
+        "Bedecked so fair, | with her father to speak.\"⟦41⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      41
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s40",
+     "stanza": 40,
+     "on": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Er þat satt, Böðvildr,",
+        "er sögðu mér:",
+        "Sátuð it Völundr",
+        "saman í holmi?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Er það satt, Böðvildur,",
+        "er sögðu mér:",
+        "Sátuð it Völundur",
+        "saman í holmi?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "..............",
+        "..............",
+        "\"Is it true, Bothvild, | that which was told me;",
+        "Once in the isle | with Völund wert thou?\"⟦42⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      42
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "vkv-s41",
+     "stanza": 41,
+     "on": [
+      {
+       "t": "p",
+       "s": "Böðvildr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Satt er þat, Níðuðr,",
+        "er sagði þér:",
+        "Sátum vit Völundr",
+        "saman í holmi",
+        "eina ögurstund,",
+        "æva skyldi;",
+        "ek vætr hánum",
+        "vinna kunnak,",
+        "ek vætr hánum",
+        "vinna máttak.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Böðvildur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Satt er það, Níðuður,",
+        "er sagði þér:",
+        "Sátum vit Völundur",
+        "saman í holmi",
+        "eina ögurstund,",
+        "æva skyldi;",
+        "eg vætur hánum",
+        "vinna kunnak,",
+        "eg vætur hánum",
+        "vinna máttak.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "Bothvild spake:",
+        "\"True is it, Nithuth, | that which was told thee,",
+        "Once in the isle | with Völund was I,",
+        "An hour of lust, | alas it should be!",
+        "Nought was my might | with such a man,",
+        "Nor from his strength | could I save myself.\"⟦43⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      43
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "p1",
+     "s": "Prose."
+    },
+    {
+     "n": "p2",
+     "s": "Nithuth (\"Bitter Hater\"): here identified as a king of Sweden, is in the poem (stanzas 9, 15 and 32) called lord of the Njars, which may refer to the people of the Swedish district of Nerike. In any case, the scene of the story has moved from Saxon lands into the Northeast. The first and last sentences of the introduction refer to the second part of the poem; the rest of it concerns the swan-maidens episode."
+    },
+    {
+     "n": "p3",
+     "s": "Bothvild (\"Warlike Maid\"): Völund's victim in the latter part of the poem."
+    },
+    {
+     "n": "p4",
+     "s": "King of the Finns: this notion, clearly later than the poem, which calls Völund an elf, may perhaps be ascribed to the annotator who composed the prose introduction. The Finns, meaning the dwellers in Lapland, were generally credited with magic powers."
+    },
+    {
+     "n": "p5",
+     "s": "Egil appears in the Thithrekssaga as Völund's brother, but Slagfith is not elsewhere mentioned."
+    },
+    {
+     "n": "p6",
+     "s": "Ulfdalir (\"Wolf-Dale\"), Ulfsjar (\"Wolf-Sea\"), Valland (\"Slaughter-Land\"): mythical places without historical identification."
+    },
+    {
+     "n": "p7",
+     "s": "Valkyries: cf. Voluspo, 31 and note; there is nothing in the poem to identify the three swan-maidens as Valkyries except one obscure word in line 2 of stanza 1 and again in line 5 of stanza 5, which may mean, as Gering translates it, \"helmed,\" or else \"fair and wise.\" I suspect that the annotator, anxious to give the Saxon legend as much northern local color as possible, was mistaken in his mythology, and that the poet never conceived of his swan-maidens as Valkyries at all. However, this identification of swan-maidens with Valkyries was not uncommon, cf. Helreith Brynhildar, 7. The three maidens' names, Hlathguth, Hervor, and Olrun, do not appear in the lists of Valkyries."
+    },
+    {
+     "n": "p8",
+     "s": "King Hlothver: this name suggests the southern origin of the story, as it is the northern form of Ludwig; the name appears again in Guthrunarkvitha II, 26, and that of Kjar is found in Atlakvitha, 7, both of these poems being based on German stories."
+    },
+    {
+     "n": "p9",
+     "s": "It is worth noting that the composer of this introductory note seems to have had little or no information beyond what was actually contained in the poem as it has come down to us; he refers to the \"old stories\" about Völund, but either he was unfamiliar with them in detail or else he thought it needless to make use of them. His note simply puts in clear and connected form what the verse tells somewhat obscurely; his only additions are making Nithuth a king of Sweden and Völund's father a king of the Finns, supplying the name Ulfsjar for the lake, identifying the swan-maidens as Valkyries, and giving Kjar a home in Valland."
+    },
+    {
+     "n": "1",
+     "s": "The manuscript indicates line 3 as the beginning of a stanza; two lines may have been lost before or after lines 1-2, and two more, or even six, with the additional stanza describing the theft of the swan-garments, after line 4. Myrkwood: a stock name for a magic, dark forest; cf. Lokasenna, 42."
+    },
+    {
+     "n": "2",
+     "s": "In the manuscript these two lines stand after stanza 16; editors have tried to fit them into various places, but the prose indicates that they belong here, with a gap assumed."
+    },
+    {
+     "n": "3",
+     "s": "In the manuscript these two lines follow stanza 1, with no gap indicated, and the first line marked as the beginning of a stanza. Many editors have combined them with stanza 4."
+    },
+    {
+     "n": "4",
+     "s": "No lacuna indicated in the manuscript; one editor fills the stanza out with a second line running: \"Then to her breast Slagfith embraced.\""
+    },
+    {
+     "n": "5",
+     "s": "Line 3 looks like an interpolation, but line 5, identical with line 2 of stanza 1, may be the superfluous one."
+    },
+    {
+     "n": "6",
+     "s": "The phrase \"Völund home from a weary way\" is an emendation of Bugge's, accepted by many editors. Some of those who do not include it reject line 4, and combine the remainder of the stanza with all or part of stanza 7."
+    },
+    {
+     "n": "7",
+     "s": "The manuscript marks the second, and not the first, line as the beginning of a stanza. Some editors combine lines 2-3 with all or part of stanza 8. No gap is indicated in the manuscript, but many editors have assumed one, some of them accepting Bugge's suggested \"Till back the maiden  bright should come.\""
+    },
+    {
+     "n": "8",
+     "s": "No line in this stanza is indicated in the manuscript as beginning a new stanza; editors have tried all sorts of experiments in regrouping the lines into stanzas with those of stanzas 7 and 9. In line 3 the word long is sheer guesswork, as the line in the manuscript contains a metrical error."
+    },
+    {
+     "n": "9",
+     "s": "Some editors combine the first two lines with parts of stanza 8, and the last two with the first half of stanza 10. Njars: there has been much, and inconclusive, discussion as to what this name means; probably it applies to a semi-mythical people somewhere vaguely in \"the East.\""
+    },
+    {
+     "n": "10",
+     "s": "Some editors combine lines 3-4 with the fragmentary stanza 11."
+    },
+    {
+     "n": "11",
+     "s": "No gap indicated in the manuscript; some editors combine these lines with lines 3-4 of stanza 10, while others combine them with the first two lines of stanza 12. The one ring which Nithuth's men steal is given to Bothvild, and proves the cause of her undoing."
+    },
+    {
+     "n": "12",
+     "s": "The manuscript indicates line 3, and not line 1, as the beginning of a stanza, which has given rise to a large amount of conjectural rearrangement. Line 2 of the original is identical with the phrase added by Bugge in stanza 6. Line 5 may be spurious, or lines 4-5 may have been expanded out of a single line running \"The wind-dried wood  for Völund burned well.\""
+    },
+    {
+     "n": "13",
+     "s": "Elves: the poem here identifies Völund as belonging to the race of the elves. Hlothver's daughter: Hervor; many editors treat the adjective \"all-wise\" here as a proper name."
+    },
+    {
+     "n": "15",
+     "s": "In this poem the manuscript indicates the speakers. Some editors make lines 1-2 into a separate stanza, linking lines 3-5 (or 4-5) with stanza 16. Line 3 is very possibly spurious, a mere expansion of \"Nithuth spake.\" Nithuth, of course, has come with his men to capture Völund, and now charges him with having stolen his treasure."
+    },
+    {
+     "n": "16",
+     "s": "The manuscript definitely assigns this stanza to Völund, but many editors give the first two lines to Nithuth. In the  manuscript stanza 16 is followed by the two lines of stanza 2, and many editions make of lines 3-4 of stanza 16 and stanza 2 a single speech by Völund. Grani's way: Grani was Sigurth's horse, on which he rode to slay Fafnir and win Andvari's hoard; this and the reference to the Rhine as the home of wealth betray the southern source of the story. If lines 1-2 belong to Völund, they mean that Nithuth got his wealth in the Rhine country, and that Völund's hoard has nothing to do with it; if the speaker is Nithuth, they mean that Völund presumably has not killed a dragon, and that he is far from the wealth of the Rhine, so that he must have stolen his treasure from Nithuth himself."
+    },
+    {
+     "n": "17",
+     "s": "Line 1 is lacking in the manuscript, lines 2-4 following immediately after the two lines here given as stanza 2. Line 1, borrowed from line 1 of stanza 32, is placed here by many editors, following Bugge's suggestion. Certainly it is Nithuth's wife who utters line 4. Who comes from the wood: Völund, noted as a hunter. Gering assumes that with the entrance of Nithuth's wife the scene has changed from Völund's house to Nithuth's, but I cannot see that this is necessary."
+    },
+    {
+     "n": "p10",
+     "s": "Prose. The annotator inserted this note rather clumsily in the midst of the speech of Nithuth's wife."
+    },
+    {
+     "n": "18",
+     "s": "In the manuscript lines 2-3 stand before line 1; many editors have made the transposition here indicated. Some editors reject line 3 as spurious. Sævarstath: \"Sea-Stead.\""
+    },
+    {
+     "n": "19",
+     "s": "This stanza is obviously in bad shape. Vigfusson makes two stanzas of it by adding a first line: \"Then did Völund speak,  sagest of elves.\" Editors have rejected various lines, and some have regrouped the last lines with the first two of stanza 20. The elimination of the passages in parenthesis produces a four-line stanza which is metrically correct, but it has little more than guesswork to support it."
+    },
+    {
+     "n": "20",
+     "s": "The editions vary radically in combining the lines of this stanza with those of stanzas 19 and 21, particularly as the manuscript indicates the third line as the beginning of a stanza. The meaning, however, remains unchanged."
+    },
+    {
+     "n": "21",
+     "s": "Several editions make one stanza out of lines 3-4 of stanza 20 and lines 1-2 of stanza 21, and another out of the next four lines. The evil was open: i.e., the gold in the chest was destined to be their undoing."
+    },
+    {
+     "n": "22",
+     "s": "The manuscript indicates line 3 as the beginning of a stanza, and several editors have adopted this grouping. In the Thithrekssaga Völund sends the boys away with instructions not to come back until just after a fall of snow, and then to approach his dwelling walking backward. The boys do this, and when, after he has killed them, Völund is questioned regarding them, he points to the tracks in the snow as evidence that they had left his house."
+    },
+    {
+     "n": "23",
+     "s": "No gap indicated in the manuscript. Some editors assume it, as here; some group the lines with lines 3-4 of stanza 22, and some with lines 1-2 of stanza 24."
+    },
+    {
+     "n": "24",
+     "s": "Some editions begin a new stanza with line 3."
+    },
+    {
+     "n": "25",
+     "s": "The manuscript indicates line 3 as the beginning of a stanza, and many editors have adopted this grouping."
+    },
+    {
+     "n": "26",
+     "s": "These two lines have been grouped in various ways, either with lines 3-4 of stanza 25 or with the fragmentary stanza 27. No gap is indicated in the manuscript, but the loss of something is so obvious that practically all editors have noted it, although they have differed as to the number of lines lost."
+    },
+    {
+     "n": "27",
+     "s": "No gap indicated in the manuscript; the line and a half might be filled out (partly with the aid of late paper manuscripts) thus: \"But soon it broke,  and swiftly to Völund / She bore it and said—\""
+    },
+    {
+     "n": "29",
+     "s": "The manuscript does not name Völund as the speaker before line 3; Vigfusson again inserts his convenient line, \"The Völund spake,  sagest of elves.\" A few editions combine lines 3-4 with the two lines of stanza 30."
+    },
+    {
+     "n": "30",
+     "s": "No gap indicated in the manuscript; some editors combine the two lines with lines 3-4 of stanza 29, and many with the three lines of stanza 31."
+    },
+    {
+     "n": "31",
+     "s": "Something has probably been lost before this stanza, explaining how Völund made himself wings, as otherwise, owing to his lameness, he could not leave the island. The Thithrekssaga tells the story of how Völund's brother, Egil, shot birds and gave him the feathers, out of which he made a feather-garment. This break in the narrative illustrates the lack of knowledge apparently possessed by the compiler who was responsible for the prose notes; had he known the story told in the Thithrekssaga, it is hardly conceivable that he would have failed to indicate the necessary connecting link at this point. Some editors reject line 3 as spurious. The manuscript does not indicate any lacuna."
+    },
+    {
+     "n": "32",
+     "s": "The manuscript indicates line 4 as the beginning of a stanza, and many editors have followed this arrangement."
+    },
+    {
+     "n": "33",
+     "s": "The manuscript does not name the speaker. It indicates line 3 as the beginning of a new stanza. Vigfusson adds before line 1, \"Then spake Nithuth,  lord of the Njars.\""
+    },
+    {
+     "n": "34",
+     "s": "No gap indicated in the manuscript, but it seems clear that something has been lost. Some editors combine these two lines with lines 3-4 of stanza 33. Völund is now flying over Nithuth's hall."
+    },
+    {
+     "n": "35",
+     "s": "The manuscript does not name the speaker; Vigfusson again makes two full stanzas with the line, \"Then did Völund speak,  sagest of elves.\" Some editors begin a new stanza with line 4, while others reject as interpolations lines 2-3 or 5-7. Völund's wife: the reference is to Bothvild, as Völund wishes to have his vengeance fall more heavily on her father than on her."
+    },
+    {
+     "n": "36",
+     "s": "Lines 3-4 are nearly identical with lines 3-4 of stanza 24."
+    },
+    {
+     "n": "37",
+     "s": "Identical, except for the pronouns, with stanza 25."
+    },
+    {
+     "n": "38",
+     "s": "Lines 1-2: cf. stanza 26."
+    },
+    {
+     "n": "39",
+     "s": "The manuscript does not name the speaker. Either line 4 or line 5 may be an interpolation; two editions reject lines 3-5, combining lines 1-2 with stanza 40. In the Thithrekssaga Nithuth actually compels Egil, Völund's brother, to shoot at Völund. The latter has concealed a bladder full of blood under his left arm, and when his brother's arrow pierces this, Nithuth assumes that his enemy has been killed. This episode likewise appears among the scenes from Völund's career rudely carved on an ancient casket of ivory, bearing an Anglo-Saxon inscription in runic letters, which has been preserved."
+    },
+    {
+     "n": "40",
+     "s": "Line 1: cf. stanza 31. THe manuscript indicates no lacuna."
+    },
+    {
+     "n": "41",
+     "s": "The first line is a conjectural addition. Thakkrath is probably the northern form of the Middle High German name Dancrat."
+    },
+    {
+     "n": "42",
+     "s": "The manuscript indicates no gap, but indicates line 3 as the beginning of a stanza; Vigfusson's added \"Then Nithuth spake,  lord of the Njars\" seems plausible enough."
+    },
+    {
+     "n": "43",
+     "s": "The manuscript does not name the speaker. Different editors have rejected one or another of the last three lines, and as the manuscript indicates line 4 as the beginning of a new stanza, the loss of two or three lines has likewise been suggested. According to the Thithrekssaga, the son of Völund and Bothvild was Vithga, or Witege, one of the heroes of Dietrich of Bern."
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "Between the Thrymskvitha and the Alvissmol in the Codex Regius stands the Völundarkvitha. It was also included in the Arnamagnæan Codex, but unluckily it begins at the very end of the fragment which has been preserved, and thus only a few lines of the opening prose remain. This is doubly regrettable because the text in Regius is unquestionably in very bad shape, and the other manuscript would doubtless have been of great assistance in the reconstruction of the poem.",
+    "There has been a vast amount written regarding the Weland tradition as a whole, discussing particularly the relations between the Völundarkvitha and the Weland passage in Deor's Lament. There can be little question that the story came to the North from Saxon regions, along with many of the other early hero tales. In stanza 16 the Rhine is specifically mentioned as the home of treasure; and the presence of the story in Anglo-Saxon poetry probably as early as the first part of the eighth century proves beyond a doubt that the legend cannot have been a native product of Scandinavia. In one form or another, however, the legend of the smith persisted for centuries throughout all the Teutonic lands, and the name of Wayland Smith is familiar to all readers of Walter Scott, and even of Rudyard Kipling's tales of England.",
+    "In what form this story reached the North is uncertain. Sundry striking parallels between the diction of the Völundarkvitha and that of the Weland passage in Deor's Lament make it distinctly probable that a Saxon song on this subject had found its way to Scandinavia or Iceland. But the prose introduction to the poem mentions the \"old sagas\" in which Völund was celebrated, and in the Thithrekssaga we have definite evidence of the existence of such prose narrative in the form of the Velentssaga (Velent, Völund, Weland, and Wayland all being, of course, identical), which gives a long story for which the Völundarkvitha can have supplied relatively little, if any, of the material. It is probable, then, that Weland stories were current in both prose and verse in Scandinavia as early as the latter part of the ninth century.",
+    "Once let a figure become popular in oral tradition, and the number and variety of the incidents connected with his name will increase very rapidly. Doubtless there were scores of Weland stories current in the eighth, ninth, and tenth centuries, many of them with very little if any traditional authority. The main one, however, the story of the laming of the smith by King Nithuth (or by some other enemy) and of Weland's terrible revenge, forms the basis of the Völundarkvitha. To this, by way of introduction, has been added the story of Völund and the swan-maiden, who, to make things even more complex, is likewise said to be a Valkyrie. Some critics maintain that these two sections were originally two distinct poems, merely strung together by the compiler with the help of narrative prose links; but the poem as a whole has a kind of dramatic unity which suggests rather that an early poet—for linguistically the poem belongs among the oldest of the Eddic collection—used two distinct legends, whether in prose or verse, as the basis for the composition of a new and homogeneous poem.",
+    "The swan-maiden story appears, of course, in many places quite distinct from the Weland tradition, and, in another form, became one of the most popular of German folk tales. Like the story of Weland, however, it is of German rather than Scandinavian origin, and the identification of the swan-maidens as Valkyries, which may have taken place before the legend reached the North, may, on the other hand, have been simply an attempt to connect southern tradition with figures well known in northern mythology.",
+    "The Völundarkvitha is full of prose narrative links, including an introduction. The nature of such prose links has already been discussed in the introductory note to the Grimnismol; the Völundarkvitha is a striking illustration of the way in which the function of the earlier Eddic verse was limited chiefly to dialogue or description, the narrative outline being provided, if at all, in prose. This prose was put in by each reciter according to his fancy and knowledge, and his estimate of his hearers' need for such explanations; some of it, as in this instance, eventually found its way into the written record.",
+    "The manuscript of the Völundarkvitha is in such bad shape, and the conjectural emendations have been so numerous, that in the notes I have attempted to record only the most important of them."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Völundarkviða)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Völundarkvitha"
+ }
+}

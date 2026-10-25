@@ -1,0 +1,2641 @@
+{
+ "part": "poetic",
+ "poem": "skm",
+ "title": "Skírnismál",
+ "group": "myth",
+ "chapters": [
+  {
+   "num": 5,
+   "key": "skm",
+   "title": "Skírnismál",
+   "subtitle": null,
+   "group": "myth",
+   "rows": [
+    {
+     "id": "skm-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Freyr, sonr Njarðar, hafði einn dag setzt í Hliðskjálf, ok sá um heima alla. Hann sá í Jötunheima ok sá þar mey fagra, þá er hon gekk frá skála föður síns til skemmu. Þar af fekk hann hugsóttir miklar. Skírnir hét skósveinn Freys. Njörðr bað hann kveðja Frey máls. Þá mælti Skaði:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Freyr, sonur Njarðar, hafði einn dag sest í Hliðskjálf, og sá um heima alla. Hann sá í Jötunheima og sá þar mey fagra, þá er hún gekk frá skála föður síns til skemmu. Þar af fékk hann hugsóttir miklar. Skírnir hét skósveinn Freys. Njörður bað hann kveðja Frey máls. Þá mælti Skaði:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p1⟧Freyr⟦p2⟧, the son of Njorth, had sat one day in Hlithskjolf⟦p3⟧, and looked over all the worlds. He looked into Jotunheim, and saw there a fair maiden, as she went from her father's house to her bower. Forthwith he felt a mighty love-sickness. Skirnir was the name of Freyr’s servant; Njorth bade him ask speech of Freyr. He said⟦p4⟧:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Rístu nú, Skírnir,",
+        "ok gakk skjótt at beiða",
+        "okkarn mála mög",
+        "ok þess at fregna,",
+        "hveim inn fróði sé",
+        "ofreiði afi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Rístu nú, Skírnir,",
+        "og gakk skjótt að beiða",
+        "okkarn mála mög",
+        "og þess að fregna,",
+        "hveim hinn fróði sé",
+        "ofreiði afi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Go now, Skirnir! | and seek to gain",
+        "Speech from my son;",
+        "And answer to win, | for whom the wise one",
+        "Is mightily moved.\"⟦1⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Illra orða",
+        "er mér ón at ykkrum syni,",
+        "ef ek geng at mæla við mög",
+        "ok þess at fregna,",
+        "hveim inn fróði sé",
+        "ofreiði afi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Illra orða",
+        "er mér ón að ykkrum syni,",
+        "ef eg geng að mæla við mög",
+        "og þess að fregna,",
+        "hveim hinn fróði sé",
+        "ofreiði afi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Skirnir spake:",
+        "\"Ill words do I now | await from thy son,",
+        "If I seek to get speech with him,",
+        "And answer to win, | for whom the wise one",
+        "Is mightily moved.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Segðu mér þat, Freyr,",
+        "folkvaldi goða,",
+        "ok ek vilja vita:",
+        "Hví þú einn sitr",
+        "endlanga sali,",
+        "minn dróttinn, um daga?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Segðu mér það, Freyr,",
+        "folkvaldi goða,",
+        "og eg vilja vita:",
+        "Hví þú einn situr",
+        "endlanga sali,",
+        "minn dróttinn, um daga?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Skirnir spake:",
+        "\"Speak prithee, Freyr, | foremost of the gods,",
+        "For now I fain would know;",
+        "Why sittest thou here | in the wide halls,",
+        "Days long, my prince, alone?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "p",
+       "s": "Freyr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Hví um segjak þér,",
+        "seggr inn ungi,",
+        "mikinn móðtrega?",
+        "Því at álfröðull",
+        "lýsir um alla daga",
+        "ok þeygi at mínum munum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Freyr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Hví um segjak þér,",
+        "seggur hinn ungi,",
+        "mikinn móðtrega?",
+        "Því að álfröðull",
+        "lýsir um alla daga",
+        "og þeygi að mínum munum.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Freyr spake:",
+        "\"How shall I tell thee, | thou hero young,",
+        "Of all my grief so great?",
+        "Though every day | the elfbeam dawns,",
+        "It lights my longing never.\"⟦4⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Muni þína",
+        "hykk-a ek svá mikla vera,",
+        "at þú mér, seggr, né segir,",
+        "því at ungir saman",
+        "várum í árdaga,",
+        "vel mættim tveir trúask.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Muni þína",
+        "hykk-a eg svo mikla vera,",
+        "að þú mér, seggur, né segir,",
+        "því að ungir saman",
+        "várum í árdaga,",
+        "vel mættim tveir trúast.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Skirnir spake:",
+        "\"Thy longings, methinks, | are not so large",
+        "That thou mayst not tell them to me;",
+        "Since in days of yore | we were young together,",
+        "We two might each other trust.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "p",
+       "s": "Freyr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Í Gymis görðum",
+        "ek ganga sá",
+        "mér tíða mey;",
+        "armar lýstu,",
+        "en af þaðan",
+        "allt loft ok lögr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Freyr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Í Gymis görðum",
+        "eg ganga sá",
+        "mér tíða mey;",
+        "armar lýstu,",
+        "en af þaðan",
+        "allt loft og lögur.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Freyr spake:",
+        "\"From Gymir's house | I beheld go forth",
+        "A maiden dear to me;",
+        "Her arms glittered, | and from their gleam",
+        "Shone all the sea and sky.⟦6⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Mær er mér tíðari",
+        "en manna hveim",
+        "ungum í árdaga;",
+        "ása ok alfa",
+        "þat vill engi maðr",
+        "at vit samt séim.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Mær er mér tíðari",
+        "en manna hveim",
+        "ungum í árdaga;",
+        "ása og alfa",
+        "það vill enginn maður",
+        "að vit samt séim.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"To me more dear | than in days of old",
+        "Was ever maiden to man;",
+        "But no one of gods | or elves will grant",
+        "That we both together should be.\"⟦7⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Mar gefðu mér þá",
+        "þann er mik um myrkvan beri",
+        "vísan vafrloga,",
+        "ok þat sverð,",
+        "er sjalft vegisk",
+        "við jötna ætt.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Mar gefðu mér þá",
+        "þann er mig um myrkvan beri",
+        "vísan vafrloga,",
+        "og það sverð,",
+        "er sjalft vegist",
+        "við jötna ætt.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Skirnir spake:",
+        "\"Then give me the horse | that goes through the dark",
+        "And magic flickering flames;",
+        "And the sword as well | that fights of itself",
+        "Against the giants grim.\"⟦8⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "p",
+       "s": "Freyr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Mar ek þér þann gef,",
+        "er þik um myrkvan berr",
+        "vísan vafrloga,",
+        "ok þat sverð,",
+        "er sjalft mun vegask",
+        "ef sá er horskr, er hefr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Freyr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Mar eg þér þann gef,",
+        "er þig um myrkvan ber",
+        "vísan vafrloga,",
+        "og það sverð,",
+        "er sjalft mun vegast",
+        "ef sá er horskur, er hefur.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Freyr spake:",
+        "\"The horse will I give thee | that goes through the dark",
+        "And magic flickering flames,",
+        "And the sword as well | that will fight of itself",
+        "If a worthy hero wields it.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "p",
+       "s": "Skírnir mælti við hestinn:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Myrkt er úti,",
+        "mál kveð ek okkr fara",
+        "úrig fjöll yfir,",
+        "þursa þjóð yfir;",
+        "báðir vit komumk,",
+        "eða okkr báða tekr",
+        "sá inn ámáttki jötunn.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Skírnir mælti við hestinn:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Myrkt er úti,",
+        "mál kveð eg okkur fara",
+        "úrig fjöll yfir,",
+        "þursa þjóð yfir;",
+        "báðir vit komumk,",
+        "eða okkur báða tekur",
+        "sá hinn ámáttki jötunn.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Skirnir spake to the horse:",
+        "\"Dark is it without, | and I deem it time",
+        "To fare through the wild fells,",
+        "(To fare through the giants' fastness;)",
+        "We shall both come back, | or us both together",
+        "The terrible giant will take.\"⟦10⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-p2",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Skírnir reið í Jötunheima til Gymisgarða. Þar váru hundar ólmir ok bundnir fyrir skíðgarðs hliði, þess er um sal Gerðar var. Hann reið at þar, er féhirðir sat á haugi, og kvaddi hann:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Skírnir reið í Jötunheima til Gymisgarða. Þar voru hundar ólmir og bundnir fyrir skíðgarðs hliði, þess er um sal Gerðar var. Hann reið að þar, er féhirðir sat á haugi, og kvaddi hann:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Skirnir rode into Jotunheim to Gymir's house. There were fierce dogs bound before the gate of the fence which was around Gerth's hall. He rode to where a herdsman sat on a hill, and said:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Segðu þat, hirðir,",
+        "er þú á haugi sitr",
+        "ok varðar alla vega:",
+        "Hvé ek at andspilli",
+        "komumk ins unga mans",
+        "fyr greyjum Gymis?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Segðu það, hirðir,",
+        "er þú á haugi situr",
+        "og varðar alla vega:",
+        "Hve eg að andspilli",
+        "komumk hins unga mans",
+        "fyr greyjum Gymis?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Tell me, herdsman, | sitting on the hill,",
+        "And watching all the ways,",
+        "How may I win | a word with the maid",
+        "Past the hounds of Gymir here?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hirðir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Hvárt ertu feigr,",
+        "eða ertu framgenginn?",
+        "-- -- --",
+        "Andspillis vanr",
+        "þú skalt æ vera",
+        "góðrar meyjar Gymis.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hirðir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Hvort ertu feigur,",
+        "eða ertu framgenginn?",
+        "-- -- --",
+        "Andspillis vanur",
+        "þú skalt æ vera",
+        "góðrar meyjar Gymis.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "The herdsman spake:",
+        "\"Art thou doomed to die | or already dead,",
+        "Thou horseman that ridest hither?",
+        "Barred from speech | shalt thou ever be",
+        "With Gymir's daughter good.\"⟦12⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Kostir ro betri",
+        "heldr en at klökkva sé,",
+        "hveim er fúss er fara;",
+        "einu dægri",
+        "mér var aldr of skapaðr",
+        "of allt líf of lagit.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Kostir ro betri",
+        "heldur en að klökkva sé,",
+        "hveim er fús er fara;",
+        "einu dægri",
+        "mér var aldur of skapaður",
+        "of allt líf of lagið.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Skirnir spake:",
+        "\"Boldness is better | than plaints can be",
+        "For him whose feet must fare;",
+        "To a destined day | has mine age been doomed,",
+        "And my life's span thereto laid.\"⟦13⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gerðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Hvat er þat hlym hlymja,",
+        "er ek heyri nú til",
+        "ossum rönnum í?",
+        "Jörð bifask,",
+        "en allir fyrir",
+        "skjalfa garðar Gymis.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gerður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Hvað er það hlym hlymja,",
+        "er eg heyri nú til",
+        "ossum rönnum í?",
+        "Jörð bifast,",
+        "en allir fyrir",
+        "skjalfa garðar Gymis.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Gerth spake:",
+        "\"What noise is that | which now so loud",
+        "I hear within our house?",
+        "The ground shakes, | and the home of Gymir",
+        "Around me trembles too.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "p",
+       "s": "Ambátt kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Maðr er hér úti,",
+        "stiginn af mars baki,",
+        "jó lætr til jarðar taka.\"",
+        "-- -- --"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Ambátt kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Maður er hér úti,",
+        "stiginn af mars baki,",
+        "jó lætur til jarðar taka.\"",
+        "-- -- --"
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "The Serving-Maid spake:",
+        "\"One stands without | who has leapt from his steed,",
+        "And lets his horse loose to graze;\"",
+        "..................",
+        "..............⟦15⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      15
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gerðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Inn bið þú hann ganga",
+        "í okkarn sal",
+        "ok drekka inn mæra mjöð;",
+        "þó ek hitt óumk,",
+        "at hér úti sé",
+        "minn bróðurbani."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gerður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Hinn bið þú hann ganga",
+        "í okkarn sal",
+        "og drekka hinn mæra mjöð;",
+        "þó eg hitt Óumk,",
+        "að hér úti sé",
+        "minn bróðurbani."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Gerth spake:",
+        "\"Bid the man come in, | and drink good mead",
+        "Here within our hall;",
+        "Though this I fear, | that there without",
+        "My brother's slayer stands.⟦16⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      16
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Hvat er þat alfa",
+        "né ása sona",
+        "né víssa vana?",
+        "Hví þú einn of komt",
+        "eikinn fúr yfir",
+        "ór salkynni at séa?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Hvað er það alfa",
+        "né ása sona",
+        "né víssa vana?",
+        "Hví þú einn of komt",
+        "eikinn fúr yfir",
+        "úr salkynni að séa?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Art thou of the elves | or the offspring of gods,",
+        "Or of the wise Wanes?",
+        "How camst thou alone | through the leaping flame",
+        "Thus to behold our home?\"⟦17⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      17
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Emk-at ek alfa",
+        "né ása sona",
+        "né víssa vana;",
+        "þó ek einn of komk",
+        "eikinn fúr yfir",
+        "yður salkynni at séa.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Emk-at eg alfa",
+        "né ása sona",
+        "né víssa vana;",
+        "þó eg einn of komk",
+        "eikinn fúr yfir",
+        "yður salkynni að séa.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Skirnir spake:",
+        "\"I am not of the elves, | nor the offspring of gods,",
+        "Nor of the wise Wanes;",
+        "Though I came alone | through the leaping flame",
+        "Thus to behold thy home.⟦18⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      18
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Epli ellifu",
+        "hér hef ek algullin,",
+        "þau mun ek þér, Gerðr, gefa,",
+        "frið at kaupa,",
+        "at þú þér Frey kveðir",
+        "óleiðastan lifa.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Epli ellifu",
+        "hér hef eg algullin,",
+        "þau mun eg þér, Gerður, gefa,",
+        "frið að kaupa,",
+        "að þú þér Frey kveðir",
+        "óleiðastan lifa.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Eleven apples, | all of gold,",
+        "Here will I give thee, Gerth,",
+        "To buy thy troth | that Freyr shall be",
+        "Deemed to be dearest to you.\"⟦19⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gerðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Epli ellifu",
+        "ek þigg aldregi",
+        "at mannskis munum,",
+        "né vit Freyr,",
+        "meðan okkart fjör lifir,",
+        "byggjum bæði saman.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gerður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Epli ellifu",
+        "eg þigg aldregi",
+        "að mannskis munum,",
+        "né vit Freyr,",
+        "meðan okkart fjör lifir,",
+        "byggjum bæði saman.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Gerth spake:",
+        "\"I will not take | at any man's wish",
+        "These eleven apples ever;",
+        "Nor shall Freyr and I | one dwelling find",
+        "So long as we two live.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      20
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Baug ek þér þá gef,",
+        "þann er brenndr var",
+        "með ungum Óðins syni;",
+        "átta eru jafnhöfðir,",
+        "er af drjúpa",
+        "ina níundu hverja nótt.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Baug eg þér þá gef,",
+        "þann er brenndur var",
+        "með ungum Óðins syni;",
+        "átta eru jafnhöfðir,",
+        "er af drjúpa",
+        "hina níundu hverja nótt.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Skirnir spake:",
+        "\"Then do I bring thee | the ring that was burned",
+        "Of old with Othin's son;",
+        "From it do eight | of like weight fall",
+        "On every ninth night.\"⟦21⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      21
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gerðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Baug ek þikk-a-k,",
+        "þótt brenndr séi",
+        "með ungum Óðins syni;",
+        "er-a mér gulls vant",
+        "í görðum Gymis,",
+        "at deila fé föður.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gerður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Baug eg þikk-a-k,",
+        "þótt brenndur séi",
+        "með ungum Óðins syni;",
+        "er-a mér gulls vant",
+        "í görðum Gymis,",
+        "að deila fé föður.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Gerth spake:",
+        "\"The ring I wish not, | though burned it was",
+        "Of old with Othin's son;",
+        "In Gymir's home | is no lack of gold",
+        "In the wealth my father wields.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      22
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Sér þú þenna mæki, mær,",
+        "mjóvan, málfáan,",
+        "er ek hef í hendi hér?",
+        "Höfuð höggva",
+        "ek mun þér hálsi af,",
+        "nema þú mér sætt segir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Sér þú þennan mæki, mær,",
+        "mjóvan, málfáan,",
+        "er eg hef í hendi hér?",
+        "Höfuð höggva",
+        "eg mun þér hálsi af,",
+        "nema þú mér sætt segir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Skirnir spake:",
+        "\"Seest thou, maiden, | this keen, bright sword",
+        "That I hold here in my hand?",
+        "Thy head from thy neck | shall I straightway hew,",
+        "If thou wilt not do my will.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      23
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gerðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Ánauð þola",
+        "ek vil aldregi",
+        "at mannskis munum;",
+        "þó ek hins get,",
+        "ef it Gymir finnizk,",
+        "vígs ótrauðir,",
+        "at ykkr vega tíði.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gerður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Ánauð þola",
+        "eg vil aldregi",
+        "að mannskis munum;",
+        "þó eg hins get,",
+        "ef it Gymir finnizg,",
+        "vígs ótrauðir,",
+        "að ykkur vega tíði.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Gerth spake:",
+        "\"For no man's sake | will I ever suffer",
+        "To be thus moved by might;",
+        "But gladly, methinks, | will Gymir seek",
+        "To fight if he finds thee here.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      24
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Sér þú þenna mæki, mær,",
+        "mjóvan, málfáan,",
+        "er ek hef í hendi hér?",
+        "Fyr þessum eggjum",
+        "hnígr sá inn aldni jötunn,",
+        "verðr þinn feigr faðir."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Sér þú þennan mæki, mær,",
+        "mjóvan, málfáan,",
+        "er eg hef í hendi hér?",
+        "Fyr þessum eggjum",
+        "hnígur sá hinn aldni jötunn,",
+        "verður þinn feigur faðir."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Skirnir spake:",
+        "\"Seest thou, maiden, | this keen, bright sword",
+        "That I hold here in my hand?",
+        "Before its blade | the old giant bends,—",
+        "Thy father is doomed to die.⟦25⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      25
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Tamsvendi ek þik drep,",
+        "en ek þik temja mun,",
+        "mær, at mínum munum;",
+        "þar skaltu ganga,",
+        "er þik gumna synir",
+        "síðan æva séi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Tamsvendi eg þig drep,",
+        "en eg þig temja mun,",
+        "mær, að mínum munum;",
+        "þar skaltu ganga,",
+        "er þig gumna synir",
+        "síðan æva séi."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"I strike thee, maid, | with my magic staff,",
+        "To tame thee to work my will;",
+        "There shalt thou go | where never again",
+        "The sons of men shall see thee.⟦26⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      26
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Ara þúfu á",
+        "skaltu ár sitja",
+        "horfa heimi ór,",
+        "snugga heljar til;",
+        "matr né þér meir leiðr",
+        "en manna hveim",
+        "innfráni ormr með firum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Ara þúfu á",
+        "skaltu ár sitja",
+        "horfa heimi úr,",
+        "snugga heljar til;",
+        "matur né þér meir leiður",
+        "en manna hveim",
+        "innfráni ormur með firum."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"On the eagle's hill | shalt thou ever sit,",
+        "And gaze on the gates of Hel;",
+        "More loathsome to thee | than the light-hued snake",
+        "To men, shall thy meat become.⟦27⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      27
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s28",
+     "stanza": 28,
+     "on": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "At undrsjónum þú verðir,",
+        "er þú út kemr;",
+        "á þik Hrímnir hari,",
+        "á þik hotvetna stari;",
+        "víðkunnari þú verðir",
+        "en vörðr með goðum,",
+        "gapi þú grindum frá."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Að undrsjónum þú verðir,",
+        "er þú út kemur;",
+        "á þig Hrímnir hari,",
+        "á þig hotvetna stari;",
+        "víðkunnari þú verðir",
+        "en vörður með goðum,",
+        "gapi þú grindum frá."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Fearful to see, | if thou comest forth,",
+        "Hrimnir will stand and stare,",
+        "(Men will marvel at thee;)",
+        "More famed shalt thou grow | than the watchman of the gods!",
+        "Peer forth, then, from thy prison.⟦28⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      28
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s29",
+     "stanza": 29,
+     "on": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Tópi ok ópi,",
+        "tjösull ok óþoli,",
+        "vaxi þér tár með trega;",
+        "sezk þú niðr,",
+        "en ek mun segja þér",
+        "sváran súsbreka",
+        "ok tvennan trega:"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Tópi og ópi,",
+        "tjösull og óþoli,",
+        "vaxi þér tár með trega;",
+        "sezg þú niður,",
+        "en eg mun segja þér",
+        "sváran súsbreka",
+        "og tvennan trega:"
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Rage and longing, | fetters and wrath,",
+        "Tears and torment are thine;",
+        "Where thou sittest down | my doom is on thee",
+        "Of heavy heart",
+        "And double dole.⟦29⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      29
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s30",
+     "stanza": 30,
+     "on": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Tramar gneypa",
+        "þik skulu gerstan dag",
+        "jötna görðum í;",
+        "til hrímþursa hallar",
+        "þú skalt hverjan dag",
+        "kranga kostalaus,",
+        "kranga kostavön;",
+        "grát at gamni",
+        "skaltu í gögn hafa",
+        "ok leiða með tárum trega."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Tramar gneypa",
+        "þig skulu gerstan dag",
+        "jötna görðum í;",
+        "til hrímþursa hallar",
+        "þú skalt hverjan dag",
+        "kranga kostalaus,",
+        "kranga kostavön;",
+        "grát að gamni",
+        "skaltu í gögn hafa",
+        "og leiða með tárum trega."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"In the giants' home | shall vile things harm thee",
+        "Each day with evil deeds;",
+        "Grief shalt thou get | instead of gladness,",
+        "And sorrow to suffer with tears.⟦30⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      30
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s31",
+     "stanza": 31,
+     "on": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Með þursi þríhöfðuðum",
+        "þú skalt æ nara,",
+        "eða verlaus vera;",
+        "þitt geð grípi,",
+        "þik morn morni;",
+        "ver þú sem þistill,",
+        "sá er var þrunginn",
+        "í önn ofanverða."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Með þursi þríhöfðuðum",
+        "þú skalt æ nara,",
+        "eða verlaus vera;",
+        "þitt geð grípi,",
+        "þig morn morni;",
+        "ver þú sem þistill,",
+        "sá er var þrungin",
+        "í önn ofanverða."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"With three-headed giants | thou shalt dwell ever,",
+        "Or never know a husband;",
+        "(Let longing grip thee, | let wasting waste thee,—)",
+        "Be like to the thistle | that in the loft",
+        "Was cast and there was crushed.⟦31⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      31
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s32",
+     "stanza": 32,
+     "on": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Til holts ek gekk",
+        "ok til hrás viðar,",
+        "gambantein at geta,",
+        "gambantein ek gat."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Til holts eg gekk",
+        "og til hrás viðar,",
+        "gambantein að geta,",
+        "gambantein eg gat."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"I go to the wood, | and to the wet forest,",
+        "To win a magic wand;",
+        "..................",
+        "I won a magic wand.⟦32⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      32
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s33",
+     "stanza": 33,
+     "on": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Reiðr er þér Óðinn,",
+        "reiðr er þér Ásabragr,",
+        "þik skal Freyr fíask,",
+        "in firinilla mær,",
+        "en þú fengit hefr",
+        "gambanreiði goða."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Reiður er þér Óðinn,",
+        "reiður er þér Ásabragur,",
+        "þig skal Freyr fíast,",
+        "hin firinilla mær,",
+        "en þú fengið hefur",
+        "gambanreiði goða."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Othin grows angry, | angered is the best of the gods,",
+        "Freyr shall be thy foe,",
+        "Most evil maid, | who the magic wrath",
+        "Of gods hast got for thyself.⟦33⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      33
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s34",
+     "stanza": 34,
+     "on": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Heyri jötnar,",
+        "heyri hrímþursar,",
+        "synir Suttungs,",
+        "sjalfir ásliðar,",
+        "hvé ek fyrbýð,",
+        "hvé ek fyrirbanna",
+        "manna glaum mani,",
+        "manna nyt mani."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Heyri jötnar,",
+        "heyri hrímþursar,",
+        "synir Suttungs,",
+        "sjalfir ásliðar,",
+        "hve eg fyrbýð,",
+        "hve eg fyrirbanna",
+        "manna glaum mani,",
+        "manna nyt mani."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Give heed, frost-rulers, | hear it, giants.",
+        "Sons of Suttung,",
+        "And gods, ye too,",
+        "How I forbid | and how I ban",
+        "The meeting of men with the maid,",
+        "(The joy of men with the maid.)⟦34⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      34
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s35",
+     "stanza": 35,
+     "on": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Hrímgrímnir heitir þurs,",
+        "er þik hafa skal",
+        "fyr nágrindr neðan;",
+        "þar þér vílmegir",
+        "á viðarrótum",
+        "geitahland gefi;",
+        "æðri drykkju",
+        "fá þú aldregi,",
+        "mær, af þínum munum,",
+        "mær, at mínum munum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Hrímgrímnir heitir þurs,",
+        "er þig hafa skal",
+        "fyr nágrindur neðan;",
+        "þar þér vílmegir",
+        "á viðarrótum",
+        "geitahland gefi;",
+        "æðri drykkju",
+        "fá þú aldregi,",
+        "mær, af þínum munum,",
+        "mær, að mínum munum."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "\"Hrimgrimnir is he, | the giant who shall have thee",
+        "In the depth by the doors of Hel;",
+        "To the frost-giants' halls | each day shalt thou fare,",
+        "Crawling and craving in vain,",
+        "(Crawling and having no hope.)⟦35⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "\"Base wretches there | by the root of the tree",
+        "Will hold for thee horns of filth;",
+        "A fairer drink | shalt thou never find,",
+        "Maid, to meet thy wish,",
+        "(Maid, to meet my wish.)⟦36⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      35,
+      36
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s36",
+     "stanza": 36,
+     "on": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Þurs ríst ek þér",
+        "ok þría stafi,",
+        "ergi ok æði ok óþola;",
+        "svá ek þat af ríst,",
+        "sem ek þat á reist,",
+        "ef gerask þarfar þess.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Þurs ríst eg þér",
+        "og þría stafi,",
+        "ergi og æði og óþola;",
+        "svo eg það af ríst,",
+        "sem eg það á reist,",
+        "ef gerast þarfar þess.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"I write thee a charm | and three runes therewith,",
+        "Longing and madness and lust;",
+        "But what I have writ | I may yet unwrite",
+        "If I find a need therefor.\"⟦37⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      37
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s37",
+     "stanza": 37,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gerðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Heill ver þú nú heldr, sveinn,",
+        "ok tak við hrímkálki",
+        "fullum forns mjaðar;",
+        "þó hafðak ek þat ætlat,",
+        "at myndak aldregi",
+        "unna vaningja vel.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gerður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Heill ver þú nú heldur, sveinn,",
+        "og tak við hrímkálki",
+        "fullum forns mjaðar;",
+        "þó hafðak eg það ætlað,",
+        "að mundak aldregi",
+        "unna vaningja vel.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Gerth spake:",
+        "\"Find welcome rather, | and with it take",
+        "The frost-cup filled with mead;",
+        "Though I did not believe | that I should so love",
+        "Ever one of the Wanes.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      38
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s38",
+     "stanza": 38,
+     "on": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "\"Örendi mín",
+        "vil ek öll vita,",
+        "áðr ek ríða heim heðan,",
+        "nær þú á þingi",
+        "munt inum þroska",
+        "nenna Njarðar syni.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "\"Erindi mín",
+        "vil eg öll vita,",
+        "áður eg ríða heim héðan,",
+        "nær þú á þingi",
+        "munt hinum þroska",
+        "nenna Njarðar syni.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Skirnir spake:",
+        "\"My tidings all | must I truly learn",
+        "Ere homeward hence I ride:",
+        "How soon thou wilt | with the mighty son",
+        "Of Njorth a meeting make.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      39
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s39",
+     "stanza": 39,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gerðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Barri heitir,",
+        "er vit bæði vitum,",
+        "lundr lognfara;",
+        "en eft nætr níu",
+        "þar mun Njarðar syni",
+        "Gerðr unna gamans.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gerður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Barri heitir,",
+        "er vit bæði vitum,",
+        "lundur lognfara;",
+        "en eft nætur níu",
+        "þar mun Njarðar syni",
+        "Gerður unna gamans.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Gerth spake:",
+        "Barri there is, | which we both know well,",
+        "A forest fair and still;",
+        "And nine nights hence | to the son of Njorth",
+        "Will Gerth there grant delight.\"⟦40⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      40
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s40",
+     "stanza": 40,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þá reið Skírnir heim. Freyr stóð úti ok kvaddi hann ok spurði tíðenda:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "\"Segðu mér þat, Skírnir,",
+        "áðr þú verpir söðli af mar",
+        "ok þú stígir feti framar:",
+        "Hvat þú árnaðir",
+        "í Jötunheima",
+        "þíns eða míns munar?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þá reið Skírnir heim. Freyr stóð úti og kvaddi hann og spurði tíðinda:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "\"Segðu mér það, Skírnir,",
+        "áður þú verpir söðli af mar",
+        "og þú stígir feti framar:",
+        "Hvað þú árnaðir",
+        "í Jötunheima",
+        "þíns eða míns munar?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Tell me, Skirnir, | ere thou take off the saddle,",
+        "Or farest forward a step:",
+        "What hast thou done | in the giants' dwelling",
+        "To make glad thee or me?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      41
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s41",
+     "stanza": 41,
+     "on": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Barri heitir,",
+        "er vit báðir vitum,",
+        "lundr lognfara;",
+        "en eft nætr níu",
+        "þar mun Njarðar syni",
+        "Gerðr unna gamans.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Skírnir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Barri heitir,",
+        "er vit báðir vitum,",
+        "lundur lognfara;",
+        "en eft nætur níu",
+        "þar mun Njarðar syni",
+        "Gerður unna gamans.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "Skirnir spake:",
+        "\"Barri there is, | which we both know well,",
+        "A forest fair and still;",
+        "And nine nights hence | to the son of Njorth",
+        "Will Gerth there grant delight.\"⟦42⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      42
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "skm-s42",
+     "stanza": 42,
+     "on": [
+      {
+       "t": "p",
+       "s": "Freyr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "\"Löng er nótt,",
+        "langar ro tvær,",
+        "hvé of þreyjak þrjár?",
+        "Oft mér mánaðr",
+        "minni þótti",
+        "en sjá half hýnótt.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Freyr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "\"Löng er nótt,",
+        "langar ro tvær,",
+        "hve of þreyjak þrjár?",
+        "Oft mér mánaður",
+        "minni þótti",
+        "en sjá hálf hýnótt.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "Freyr spake:",
+        "\"Long is one night, | longer are two;",
+        "How then shall I bear three?",
+        "Often to me | has a month seemed less",
+        "Than now half a night of desire.\"⟦43⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      43
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c37-5"
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "n": "p1",
+     "s": "Prose."
+    },
+    {
+     "n": "p2",
+     "s": "Freyr: concerning his father, Njorth, and the race of the Wanes in general, cf. Voluspo, 21 and note. Snorri thus describes Njorth's family: \"Njorth begat two children in Noatun; the son was named Freyr, and the daughter Freyja; they were fair of aspect and mighty. Freyr is the noblest of the gods; he rules over rain and sunshine, and therewith the fruitfulness of the earth; it is well to call upon him for plenty and welfare, for he rules over wealth for mankind. Freyja is the noblest of the goddesses. When she rides to the fight, she has one-half of the slain, and Othin has half. When she goes on a journey, she drives her two cats, and sits in a cart. Love-songs please her well, and it is good to call on her in love-matters.\""
+    },
+    {
+     "n": "p3",
+     "s": "Hlithskjolf: Othin's watch-tower; cf. Grimnismol, introductory prose."
+    },
+    {
+     "n": "p4",
+     "s": "He said: both manuscripts have \"Then Skathi said:\" (Skathi was Njorth's wife), but Bugge's emendation, based on Snorri's version, is doubtless correct."
+    },
+    {
+     "n": "1",
+     "s": "My son: both manuscripts, and many editors, have \"our son,\" which, of course, goes with the introduction of Skathi in the prose. As the stanza is clearly addressed to Skirnir, the change of pronouns seems justified. The same confusion occurs in stanza 2, where Skirnir in the manuscripts is made to speak of Freyr as \"your son\" (plural). The plural pronoun in the original involves a metrical error, which is corrected by the emendation."
+    },
+    {
+     "n": "4",
+     "s": "Elfbeam: the sun, so called because its rays were fatal to elves and dwarfs; cf. Alvissmol, 35"
+    },
+    {
+     "n": "6",
+     "s": "Gymir: a mountain-giant, husband of Aurbotha, and father of Gerth, fairest among women. This is all Snorri tells of him in his paraphrase of the story."
+    },
+    {
+     "n": "7",
+     "s": "Snorri's paraphrase of the poem is sufficiently close so that his addition of another sentence to Freyr's speech makes it probable that a stanza has dropped out between 7 and 8. This has been tentatively reconstructed, thus: \"Hither to me  shalt thou bring the maid, / And home shalt thou lead her here, / If her father wills it  or wills it not, / And good reward shalt thou get.\" Finn Magnusen detected the probable omission of a stanza here as early as 1821."
+    },
+    {
+     "n": "8",
+     "s": "The sword: Freyr's gift of his sword to Skirnir eventually proves fatal, for at the last battle, when Freyr is attacked by Beli, whom he kills bare-handed, and later when the fire-demon, Surt, slays him in turn, he is weaponless; cf. Voluspo, 53 and note. Against the giants grim: the condition of this line makes it seem like an error in copying, and it is possible that it should be identical with the fourth line of the next stanza."
+    },
+    {
+     "n": "10",
+     "s": "Some editors reject line 3 as spurious."
+    },
+    {
+     "n": "12",
+     "s": "Line 2 is in neither manuscript, and no gap is indicated. I have followed Grundtvig's conjectural emendation."
+    },
+    {
+     "n": "13",
+     "s": "This stanza is almost exactly like many in the first part of the Hovamol, and may well have been a separate proverb. After this stanza the scene shifts to the interior of the house."
+    },
+    {
+     "n": "15",
+     "s": "No gap indicated in either manuscript. Bugge and Niedner have attempted emendations, while Hildebrand suggests that the last two lines of stanza 14 are spurious, 14, 1-2, and 15 thus forming a single stanza, which seems doubtful."
+    },
+    {
+     "n": "16",
+     "s": "Brother's slayer: perhaps the brother is Beli, slain by Freyr; the only other references are in Voluspo, 53, and in Snorri's paraphrase of the Skirnismol, which merely says that Freyr's gift of his sword to Skirnir \"was the reason why he was weaponless when he met Beli, and he killed him bare-handed.\" Skirnir himself seems never to have killed anybody."
+    },
+    {
+     "n": "17",
+     "s": "Wise Wanes: cf. Voluspo, 21 and note."
+    },
+    {
+     "n": "18",
+     "s": "The Arnamagnæan Codex omits this stanza."
+    },
+    {
+     "n": "19",
+     "s": "Apples: the apple was the symbol of fruitfulness, and also of eternal youth. According to Snorri, the goddess Ithun had charge of the apples which the gods ate whenever they felt themselves growing old."
+    },
+    {
+     "n": "21",
+     "s": "Ring: the ring Draupnir (\"Dropper\") was made by the dwarfs for Othin, who laid it on Baldr's pyre when the latter's corpse was burned (cf. Voluspo, 32 and note, and Baldrs Draumar). Baldr, however, sent the ring back to Othin from hell. How Freyr obtained it is nowhere stated. Andvari's ring (Andvaranaut) had a similar power of creating gold; cf. Reginsmol, prose after stanza 4 and note. Lines 3 and 4 of this stanza, and the first two of stanza 22, are missing in the Arnamagnæan Codex."
+    },
+    {
+     "n": "25",
+     "s": "The first two lines are abbreviated in both manuscripts."
+    },
+    {
+     "n": "26",
+     "s": "With this stanza, bribes and threats having failed, Skirnir begins a curse which, by the power of his magic staff, is to fall on Gerth if she refuses Freyr."
+    },
+    {
+     "n": "27",
+     "s": "Eagle's hill: the hill at the end of heaven, and consequently overlooking hell, where the giant Hræsvelg sits \"in an eagle's guise,\" and makes the winds with his wings; cf. Vafthruthnismol, 37, also Voluspo, 50. The second line is faulty in both manuscripts; Hildebrand's emendation corrects the error, but omits an effective touch; the manuscript line may be rendered \"And look and hanker for hell.\" The Arnamagnæan Codex breaks off with the fourth line of this stanza."
+    },
+    {
+     "n": "28",
+     "s": "Hrimnir: a frost-giant, mentioned elsewhere only in Hyndluljoth, 33. Line 3 is probably spurious. Watchman of the gods: Heimdall; cf. Voluspo, 46."
+    },
+    {
+     "n": "29",
+     "s": "Three nouns of doubtful meaning, which I have rendered rage, longing, and heart respectively, make the precise force of this stanza obscure. Niedner and Sijmons mark the entire stanza as interpolated, and Jonsson rejects line 5."
+    },
+    {
+     "n": "30",
+     "s": "In Regius and in nearly all the editions the first two lines of this stanza are followed by lines 3-5 of stanza 35. I have followed Niedner, Sijmons, and Gering. The two words here translated vile things are obscure; Gering renders the phrase simply \"Kobolde.\""
+    },
+    {
+     "n": "31",
+     "s": "The confusion noted as to the preceding stanza, and a metrical error in the third line, have led to various rearrangements and emendations; line 3 certainly looks like an interpolation. Three-headed giants: concerning giants with numerous heads, cf. Vafthruthnismol, 33, and Hymiskvitha, 8."
+    },
+    {
+     "n": "32",
+     "s": "No gap indicated in the manuscript; Niedner makes the line here given as 4 the first half of line 3, and fills out the stanza thus: \"with which I will tame you, / Maid, to work my will.\" The whole stanza seems to be either interpolated or out of place; it would fit better after stanza 25."
+    },
+    {
+     "n": "33",
+     "s": "Jonsson marks this stanza as interpolated. The word translated most evil is another case of guesswork."
+    },
+    {
+     "n": "34",
+     "s": "Most editors reject line 3 as spurious, and some also reject line 6. Lines 2 and 3 may have been expanded out of a single line running approximately \"Ye gods and Suttung's sons.\" Suttung: concerning this giant cf. Hovamol, 104 and note."
+    },
+    {
+     "n": "35",
+     "s": "Most editors combine lines 1-2 with stanza 36 (either with the first two lines thereof or the whole stanza), as lines 3-5 stand in the manuscript after line 2 of stanza 30. Hrimgrimnir (\"The Frost-Shrouded\"): a giant not elsewhere mentioned. Line 5, as a repetition of line 4, is probably a later addition."
+    },
+    {
+     "n": "36",
+     "s": "For the combination of this stanza with the preceding one, cf. note on stanza 35. The scribe clearly did not consider that the stanza began with line 1, as the first word thereof in the manuscript does not begin with a capital letter and has no period before it. The first word of line 3, however, is so marked. Line 5 may well be spurious."
+    },
+    {
+     "n": "37",
+     "s": "Again the scribe seems to have been uncertain as to the stanza divisions. This time the first line is preceded by a period, but begins with a small letter. Many editors have made line 2 into two half-lines. A charm: literally, the rune Thurs (Þ); the runic letters all had magic attributes; cf. Sigrdrifumol, 6-7 and notes."
+    },
+    {
+     "n": "40",
+     "s": "Barri: \"The Leafy.\""
+    },
+    {
+     "n": "42",
+     "s": "Abbreviated to initial letters in the manuscripts."
+    },
+    {
+     "n": "43",
+     "s": "The superscription is lacking in Regius. Snorri quotes this one stanza in his prose paraphrase, Gylfaginning, chapter 37. The two versions are substantially the same, except that Snorri makes the first line read, \"Long is one night,  long is the second.\""
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "The Skirnismol is found complete in the Codex Regius, and through stanza 27 in the Arnamagnæan Codex. Snorri quotes the concluding stanza. In Regius the poem is entitled \"For Scirnis\" (\"Skirnir's Journey\").",
+    "The Skirnismol differs sharply from the poems preceding it, in that it has a distinctly ballad quality. As a matter of fact, however, its verse is altogether dialogue, the narrative being supplied in the prose \"links,\" concerning which cf. introductory note to the Grimnismol. The dramatic effectiveness and vivid characterization of the poem seem to connect it with the Thrymskvitha, and the two may possibly have been put into their present form by the same man. Bugge's guess that the Skirnismol was the work of the author of the Lokasenna is also possible, though it has less to support it.",
+    "Critics have generally agreed in dating the poem as we now have it as early as the first half of the tenth century; Finnur Jonsson puts it as early as 900, and claims it, as usual, for Norway. Doubtless it was current in Norway, in one form or another, before the first Icelandic settlements, but his argument that the thistle (stanza 31) is not an Icelandic plant has little weight, for such curse-formulas must have traveled freely from place to place. In view of the evidence pointing to a western origin for many or all of the Eddic poems, Jonsson's reiterated \"Digtet er sikkert norsk og ikke islandsk\" is somewhat exasperating. Wherever the Skirnismol was composed, it has been preserved in exceptionally good condition, and seems to be practically devoid of interpolations or lacunæ."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Skírnismál)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Skirnismol"
+ }
+}

@@ -1,0 +1,1014 @@
+{
+ "part": "poetic",
+ "poem": "grt",
+ "title": "Gróttasöngr",
+ "group": "myth",
+ "chapters": [
+  {
+   "num": 15,
+   "key": "grt",
+   "title": "Gróttasöngr",
+   "subtitle": null,
+   "group": "myth",
+   "rows": [
+    {
+     "id": "grt-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Skjöldr hét sonr Óðins, er Skjöldungar er frá komnir. Hann hafði atsetu ok réð löndum, þar sem nú er kölluð Danmörk, en þá var kallat Gotland. Skjöldr átti þann son, er Friðleifr hét, er löndum réð eftir hann. Sonr Friðleifs hét Fróði. Hann tók konungdóm eftir föður sinn í þann tíð, er Ágústus keisari lagði frið of heim allan. Þá var Kristr borinn. En fyrir því at Fróði var allra konunga ríkastr á Norðrlöndum, þá var honum kenndr friðrinn um alla danska tungu, ok kalla Norðmenn þat Fróðafrið. Engi maðr grandaði öðrum, þótt hann hitti fyrir sér föðurbana eða bróðurbana lausan eða bundinn. Þá var ok engi þjófr eða ránsmaðr, svá at gullhringr einn lá á Jalangrsheiði lengi. Fróði konungr sótti heimboð í Svíþjóð til þess konungs, er Fjölnir er nefndr. Þá keypti hann ambáttir tvær, er hétu Fenja ok Menja. Þær váru miklar ok sterkar. Í þann tíma fannst í Danmörk kvernsteinar tveir svá miklir, at engi var svá sterkr, at dregit gæti. En sú náttúra fylgði kvernunum, at þat mólst á kverninni, sem sá mælti fyrir, er mól. Sú kvern hét Grótti. Hengikjöftr er sá nefndr, er Fróða konungi gaf kvernina. Fróði konungr lét leiða ambáttirnar til kvernarinnar ok bað þær mala gull ok frið ok sælu Fróða. Þá gaf hann þeim eigi lengri hvíld eða svefn en gaukrinn þagði eða hljóð mátti kveða. Þá er sagt, at þær kvæði ljóð þau, er kallat er Gróttasöngr. Ok áðr létti kvæðinu, mólu þær her at Fróða, svá at á þeiri nótt kom þar sá sækonungr, er Mýsingr hét, og drap Fróða, tók þar herfang mikit. Þá lagðist Fróðafriðr. Mýsingr hafði með sér Grótta ok svá Fenju ok Menju ok bað þær mala salt. Hann bað þær mala lengr. Þær mólu litla hríð, áðr niðr sukku skipin, ok var þar eftir svelgr í hafinu, er særinn fellr í kvernaraugat. Þá varð sær saltr."
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Skjöldur hét sonur Óðins, er Skjöldungar er frá komnir. Hann hafði atsetu og réð löndum, þar sem nú er kölluð Danmörk, en þá var kallað Gotland. Skjöldur átti þann son, er Friðleifur hét, er löndum réð eftir hann. Sonur Friðleifs hét Fróði. Hann tók konungdóm eftir föður sinn í þann tíð, er Ágústus keisari lagði frið of heim allan. Þá var Kristur borinn. En fyrir því að Fróði var allra konunga ríkastur á Norðrlöndum, þá var honum kenndur friðurinn um alla danska tungu, og kalla Norðmenn það Fróðafrið. Enginn maður grandaði öðrum, þótt hann hitti fyrir sér föðurbana eða bróðurbana lausan eða bundinn. Þá var og enginn þjófur eða ránsmaður, svo að gullhringur einn lá á Jalangrsheiði lengi. Fróði konungur sótti heimboð í Svíþjóð til þess konungs, er Fjölnir er nefndur. Þá keypti hann ambáttir tvær, er hétu Fenja og Menja. Þær voru miklar og sterkar. Í þann tíma fannst í Danmörk kvernsteinar tveir svo miklir, að enginn var svo sterkur, að dregið gæti. En sú náttúra fylgdi kvernunum, að það mólst á kverninni, sem sá mælti fyrir, er mól. sú kvern hét Grótti. Hengikjöftur er sá nefndur, er Fróða konungi gaf kvernina. Fróði konungur lét leiða ambáttirnar til kvernarinnar og bað þær mala gull og frið og sælu Fróða. Þá gaf hann þeim eigi lengri hvíld eða svefn en gaukrinn þagði eða hljóð mátti kveða. Þá er sagt, að þær kvæði ljóð þau, er kallað er Gróttasöngur. Og áður létti kvæðinu, mólu þær her að Fróða, svo að á þeirri nótt kom þar sá sækonungur, er Mýsingur hét, og drap Fróða, tók þar herfang mikið. Þá lagðist Fróðafriður. Mýsingur hafði með sér Grótta og svo Fenju og Menju og bað þær mala salt. Hann bað þær mala lengur. Þær mólu litla hríð, áður niður sukku skipin, og var þar eftir svelgur í hafinu, er særinn fellur í kvernaraugað. Þá varð sær saltur."
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Nú eru komnar",
+        "til konungs húsa",
+        "framvísar tvær,",
+        "Fenja ok Menja;",
+        "þær ro at Fróða",
+        "Friðleifssonar",
+        "máttkar meyjar",
+        "at mani hafðar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Nú eru komnar",
+        "til konungs húsa",
+        "framvísar tvær,",
+        "Fenja og Menja;",
+        "þær ro að Fróða",
+        "Friðleifssonar",
+        "máttkar meyjar",
+        "að mani hafðar."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "s-c52-5"
+     ]
+    },
+    {
+     "id": "grt-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Þær at lúðri",
+        "leiddar váru",
+        "ok grjóts gréa",
+        "gangs of beiddu;",
+        "hét hann hvárigri",
+        "hvíld né ynði,",
+        "áðr hann heyrði",
+        "hljóm ambátta."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Þær að lúðri",
+        "leiddar voru",
+        "og grjóts gréa",
+        "gangs of beiddu;",
+        "hét hann hvárigri",
+        "hvíld né ynti,",
+        "áður hann heyrði",
+        "hljóm ambátta."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Þær þyt þulu",
+        "þögnhorfinnar:",
+        "\"Leggjum lúðra,",
+        "léttum steinum.\"",
+        "Bað hann enn meyjar,",
+        "at þær mala skyldu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Þær þyt þulu",
+        "þögnhorfinnar:",
+        "\"Leggjum lúðra,",
+        "léttum steinum.\"",
+        "Bað hann enn meyjar,",
+        "að þær mala skyldu."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Sungu ok slungu",
+        "snúðga-steini,",
+        "svá at Fróða man",
+        "flest sofnaði;",
+        "þá kvað þat Menja,",
+        "var til meldrs komin:"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Sungu og slungu",
+        "snúðga-steini,",
+        "svo að Fróða man",
+        "flest sofnaði;",
+        "þá kvað það Menja,",
+        "var til meldurs komin:"
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Auð mölum Fróða,",
+        "mölum alsælan,",
+        "mölum fjölð féar",
+        "á feginslúðri;",
+        "siti hann á auði,",
+        "sofi hann á dúni,",
+        "vaki hann at vilja,",
+        "þá er vel malit."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Auð mölum Fróða,",
+        "mölum alsælan,",
+        "mölum fjölð féar",
+        "á feginslúðri;",
+        "siti hann á auði,",
+        "sofi hann á dúni,",
+        "vaki hann að vilja,",
+        "þá er vel malið."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Hér skyli engi",
+        "öðrum granda,",
+        "til böls búa",
+        "né til bana orka,",
+        "né höggva því",
+        "hvössu sverði,",
+        "þó at bana bróður",
+        "bundinn finni.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Hér skyli enginn",
+        "öðrum granda,",
+        "til böls búa",
+        "né til bana orka,",
+        "né höggva því",
+        "hvössu sverði,",
+        "þó að bana bróður",
+        "bundinn finni.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "En hann kvað ekki",
+        "orð it fyrra:",
+        "\"Sofið eigi meir",
+        "en of sal gaukar",
+        "eða lengr en svá",
+        "ljóð eitt kveðak.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "En hann kvað ekki",
+        "orð it fyrra:",
+        "\"Sofið eigi meir",
+        "en of sal gaukar",
+        "eða lengur en svo",
+        "ljóð eitt kveðak.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Var-at-tu, Fróði,",
+        "fullspakr of þik,",
+        "málvinr manna,",
+        "er þú man keyptir;",
+        "kaustu at afli",
+        "ok at álitum,",
+        "en at ætterni",
+        "ekki spurðir."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Var-at-tu, Fróði,",
+        "fullspakur of þig,",
+        "málvinur manna,",
+        "er þú man keyptir;",
+        "kaustu að afli",
+        "og að álitum,",
+        "en að ætterni",
+        "ekki spurðir."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Harðr var Hrungnir",
+        "ok hans faðir,",
+        "þó var Þjazi",
+        "þeim öflgari;",
+        "Iði ok Aurnir,",
+        "okkrir niðjar,",
+        "bræðr bergrisa,",
+        "þeim erum bornar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Harður var Hrungnir",
+        "og hans faðir,",
+        "þó var Þjassi",
+        "þeim öflgari;",
+        "Iði og Aurnir,",
+        "okkrir niðjar,",
+        "bræður bergrisaættar,",
+        "þeim erum bornar."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Kæmi-a Grótti",
+        "ór gréa fjalli",
+        "né sá inn harði",
+        "hallr ór jörðu,",
+        "né mæli svá",
+        "mær bergrisa,",
+        "ef vissi vit",
+        "vætr til hennar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Kæmi-a Grótti",
+        "úr gréa fjalli",
+        "né sá hinn harði",
+        "hallur úr jörðu,",
+        "né mæli svo",
+        "mær bergrisaættar,",
+        "ef vissi vit",
+        "vætur til hennar."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Vér vetr níu",
+        "várum leikur",
+        "öflgar alnar",
+        "fyr jörð neðan;",
+        "stóðu meyjar",
+        "at meginverkum,",
+        "færðum sjalfar",
+        "setberg ór stað."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Vér vetur níu",
+        "várum leikur",
+        "öflgar alnar",
+        "fyr jörð neðan;",
+        "stóðu meyjar",
+        "að meginverkum,",
+        "færðum sjalfar",
+        "setberg úr stað."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Veltum grjóti",
+        "of garð risa,",
+        "svá at fold fyrir",
+        "fór skjalfandi;",
+        "svá slöngðum vit",
+        "snúðga-steini,",
+        "höfga-halli,",
+        "at halir tóku."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Veltum grjóti",
+        "of garð risa,",
+        "svo að fold fyrir",
+        "fór skjalfandi;",
+        "svo slöngðum vit",
+        "snúðga-steini,",
+        "höfga-halli,",
+        "að halir tóku."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "En vit síðan",
+        "á Svíþjóðu",
+        "framvísar tvær",
+        "í folk stigum,",
+        "beiddum björnu,",
+        "en brutum skjöldu,",
+        "gengum í gögnum",
+        "gráserkjat lið."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "En vit síðan",
+        "á Svíþjóðu",
+        "framvísar tvær",
+        "í folk stigum,",
+        "beiddum björnu,",
+        "en brutum skjöldu,",
+        "gengum í gögnum",
+        "gráserkjað lið."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Steypðum stilli,",
+        "studdum annan,",
+        "veittum góðum",
+        "Gothormi lið;",
+        "var-a kyrrseta,",
+        "áðr Knúi felli."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Steypðum stilli,",
+        "studdum annan,",
+        "veittum góðum",
+        "Gothormi lið;",
+        "var-a kyrrseta,",
+        "áður Knúi félli."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Fram heldum því",
+        "þau misseri,",
+        "at vit at köppum",
+        "kenndar várum;",
+        "þar sorðu vit",
+        "skörpum geirum",
+        "blóð ór benjum",
+        "ok brand ruðum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Fram heldum því",
+        "þau misseri,",
+        "að vit að köppum",
+        "kenndar várum;",
+        "þar sorðu vit",
+        "skörpum geirum",
+        "blóð úr benjum",
+        "og brand ruðum."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Nú erum komnar",
+        "til konungs húsa",
+        "miskunnlausar",
+        "ok at mani hafðar;",
+        "aurr etr iljar,",
+        "en ofan kulði,",
+        "drögum dolgs sjötul,",
+        "daprt er at Fróða."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Nú erum komnar",
+        "til konungs húsa",
+        "miskunnlausar",
+        "og að mani hafðar;",
+        "aur etur iljar,",
+        "en ofan kuldi,",
+        "drögum dolgs sjötul,",
+        "daprt er að Fróða."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "s-c52-5"
+     ]
+    },
+    {
+     "id": "grt-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Hendr skulu hvílask,",
+        "hallr standa mun,",
+        "malit hefi ek fyr mik;",
+        "mitt of leiti;",
+        "nú mun-a höndum",
+        "hvíld vel gefa,",
+        "áðr fullmalit",
+        "Fróða þykki."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Hendur skulu hvílast,",
+        "hallur standa mun,",
+        "malið hef eg fyr mig;",
+        "mitt of leiti;",
+        "nú mun-a höndum",
+        "hvíld vel gefa,",
+        "áður fullmalið",
+        "Fróða þyki."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Hendr skulu höndla",
+        "harðar trjónur,",
+        "vápn valdreyrug,",
+        "vaki þú, Fróði,",
+        "vaki þú, Fróði,",
+        "ef þú hlýða vill",
+        "söngum okkrum",
+        "ok sögnum fornum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Hendur skulu höndla",
+        "harðar trjónur,",
+        "vopn valdreyrug,",
+        "vaki þú, Fróði,",
+        "vaki þú, Fróði,",
+        "ef þú hlýða vill",
+        "söngum okkrum",
+        "og sögnum fornum."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Eld sé ek brenna",
+        "fyr austan borg,",
+        "vígspjöll vaka,",
+        "þat mun viti kallaðr,",
+        "mun herr koma",
+        "hinig af bragði",
+        "ok brenna bæ",
+        "fyr buðlungi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Eld sé eg brenna",
+        "fyr austan borg,",
+        "vígspjöll vaka,",
+        "það mun viti kallaður,",
+        "mun her koma",
+        "hinig af bragði",
+        "og brenna bæ",
+        "fyr buðlungi."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Mun-at þú halda",
+        "Hleiðrar stóli,",
+        "rauðum hringum",
+        "né regingrjóti;",
+        "tökum á möndli",
+        "mær, skarpara,",
+        "erum-a varmar",
+        "í valdreyra."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Mun-at þú halda",
+        "Hleiðrar stóli,",
+        "rauðum hringum",
+        "né regingrjóti;",
+        "tökum á möndli",
+        "mær, skarpara,",
+        "erum-a varmar",
+        "í valdreyra."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Mól míns föður",
+        "mær rammliga,",
+        "því at hon feigð fira",
+        "fjölmargra sá;",
+        "stukku stórar",
+        "steðr frá lúðri",
+        "járni varðar,",
+        "mölum enn framar!"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Mól míns föður",
+        "mær rammlega,",
+        "því að hún feigð firra",
+        "fjölmargra sá;",
+        "stukku stórar",
+        "steður frá lúðri",
+        "járni varðar,",
+        "mölum enn framar!"
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Mölum enn framar!",
+        "Mun Yrsu sonr,",
+        "niðr Halfdanar,",
+        "hefna Fróða;",
+        "sá mun hennar",
+        "heitinn verða",
+        "burr ok bróðir,",
+        "vitum báðar þat.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Mölum enn framar!",
+        "Mun Yrsu sonur,",
+        "niður Halfdanar,",
+        "hefna Fróða;",
+        "sá mun hennar",
+        "heitinn verða",
+        "bur og bróðir,",
+        "vitum báðar það.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Mólu meyjar,",
+        "megins kostuðu,",
+        "váru ungar",
+        "í jötunmóði;",
+        "skulfu skaptré,",
+        "skauzk lúðr ofan,",
+        "hraut inn höfgi",
+        "hallr sundr í tvau."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Mólu meyjar,",
+        "megins kostuðu,",
+        "voru ungar",
+        "í jötunmóði;",
+        "skulfu skaptré,",
+        "skauzg lúður ofan,",
+        "hraut hinn höfgi",
+        "hallur sundur í tvö."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grt-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "En bergrisa",
+        "brúðr orð of kvað:",
+        "\"Malit höfum, Fróði,",
+        "sem munum hætta,",
+        "hafa fullstaðit",
+        "fljóð at meldri.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "En bergrisaættar",
+        "brúður orð of kvað:",
+        "\"Malið höfum, Fróði,",
+        "sem munum hætta,",
+        "hafa fullstaðið",
+        "fljóð að meldri.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [],
+   "en_source": null,
+   "en_missing_note": "Bellows did not translate Gróttasöngr. Snorri gives the poem in Skáldskaparmál, where Brodeur translates it."
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Gróttasöngr)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": null
+ }
+}

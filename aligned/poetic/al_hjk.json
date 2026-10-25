@@ -1,0 +1,363 @@
+{
+ "part": "poetic",
+ "poem": "hjk",
+ "title": "Hjálmarskviða",
+ "group": "other",
+ "chapters": [
+  {
+   "num": 38,
+   "key": "hjk",
+   "title": "Hjálmarskviða",
+   "subtitle": null,
+   "group": "other",
+   "rows": [
+    {
+     "id": "hjk-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Hvat er þér, Hjálmarr?",
+        "Hefr þú lit brugðit,",
+        "þik kveð ek mæða",
+        "miklar undir;",
+        "hjálmr er þinn höggvinn,",
+        "en á hlið brynja;",
+        "nú kveð ek fjörvi",
+        "of farit þínu.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Hvað er þér, Hjálmar?",
+        "Hefur þú lit brugðið,",
+        "þig kveð eg mæða",
+        "miklar undir;",
+        "hjálmur er þinn höggvinn,",
+        "en á hlið brynja;",
+        "nú kveð eg fjörvi",
+        "of farið þínu.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hjk-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hjálmarr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Sár hefi ek sextán,",
+        "slitna brynju:",
+        "svart er mér fyrir sjónum,",
+        "sék-a ek ganga;",
+        "hneit mér við hjarta",
+        "hjörr Angantýs,",
+        "hvass blóðrefill",
+        "herðr í eitri.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hjálmar kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Sár hef eg sexton,",
+        "slitna brynju:",
+        "svart er mér fyrir sjóninni,",
+        "sék-a eg ganga;",
+        "hneit mér við hjarta",
+        "hjör Angantýs,",
+        "hvass blóðrefill",
+        "herður í eitri.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hjk-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Áttak á foldu",
+        "fimm tún saman,",
+        "en ek því aldri",
+        "unða ráði;",
+        "nú verð ek liggja",
+        "lífs andvani,",
+        "sverði undaðr,",
+        "í Sámseyju."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Áttak á foldu",
+        "fimm tún saman,",
+        "en eg því aldrei",
+        "unða ráði;",
+        "nú verð eg liggja",
+        "lífs andvani,",
+        "sverði undaður,",
+        "í Sámseyju."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hjk-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Drekka í höllu",
+        "húskarlar mjöð,",
+        "menjum göfgir,",
+        "at míns föður;",
+        "mæðir marga",
+        "mungát fira,",
+        "en mik eggja spor",
+        "í enju þjá."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Drekka í höllu",
+        "húskarlar mjöð,",
+        "menjum göfgir,",
+        "að míns föður;",
+        "mæðir marga",
+        "mungát firra,",
+        "en mig eggja spor",
+        "í enju þjá."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hjk-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Hvarf ek frá hvítri",
+        "hlaðs beðgunni",
+        "á Agnafit",
+        "útanverðri;",
+        "saga mun sannask,",
+        "sú er hon sagði mér,",
+        "at aftr koma",
+        "eigi mundak."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Hvarf eg frá hvítri",
+        "hlaðs beðgunni",
+        "á Agnafið",
+        "útanverðri;",
+        "saga mun sannast,",
+        "sú er hún sagði mér,",
+        "að aftur koma",
+        "eigi mundak."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hjk-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Hvarf ek frá fögrum",
+        "fljóða söngvi,",
+        "ótrauðr gamans",
+        "austr við Sóta;",
+        "för skundaðak",
+        "ok fórk í lið",
+        "hinzta sinni",
+        "frá hollvinum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Hvarf eg frá fögrum",
+        "fljóða söngvi,",
+        "ótrauður gamans",
+        "austur við Sóta;",
+        "för skundaðak",
+        "og fórk í lið",
+        "hinzta sinni",
+        "frá hollvinum."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hjk-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Drag þú mér af hendi",
+        "hring inn rauða",
+        "færðu inni ungu",
+        "Ingibjörgu;",
+        "sá mun henni",
+        "hugfastr tregi,",
+        "er ek eigi kem",
+        "til Uppsala."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Drag þú mér af hendi",
+        "hring hinn rauða",
+        "færðu inni ungu",
+        "Ingibjörgu;",
+        "sá mun henni",
+        "hugfastur tregi,",
+        "er eg eigi kem",
+        "til Uppsala."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hjk-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Hrafn flýgr austan",
+        "af háum meiði,",
+        "flýgr honum eftir",
+        "örn í sinni;",
+        "þeim gef ek erni",
+        "efstum bráðir;",
+        "sá mun á blóði",
+        "bergja mínu.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Hrafn flýgur austan",
+        "af háum meiði,",
+        "flýgur honum eftir",
+        "örn í sinni;",
+        "þeim gef eg erni",
+        "efstum bráðir;",
+        "sá mun á blóði",
+        "bergja mínu.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [],
+   "en_source": null,
+   "en_missing_note": "No public-domain English translation is in this edition yet."
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Hjálmarskviða)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": null
+ }
+}

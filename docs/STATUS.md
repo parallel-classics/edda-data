@@ -19,15 +19,18 @@ Skáldskaparmál  en           0      843        1        0        0       10   
 Háttatal        on         303        0        0        0        0        0      303
 Háttatal        is           0      303        0        0        0        0      303
 Háttatal        en           0        0      303        0        0        0      303
-Völuspá         on          66        0        0        0        0        0       66
-Völuspá         is           0       66        0        0        0        0       66
-Völuspá         en           0       66        0        0        0        0       66
+Poetic Edda     on        1966        0        0        0        0        0     1966
+Poetic Edda     is           0     1966        0        0        0        0     1966
+Poetic Edda     en           0     1585        0        0        0      381     1966
 ```
 
-Völuspá (Poetic Edda, added 2026-10-25): 66 stanzas; Icelandic automatic; English Bellows 1923 (the `auto`
-count means "aligned by the pairing table", not machine text); 31 links to 29 stanzas from Snorri's rows.
+Poetic Edda (added 2026-10-25): 45 poems, 1,966 rows (stanzas and prose passages); Icelandic automatic;
+English Bellows 1923 for 36 poems (1,585 rows; the `auto` count means "matched automatically", not machine
+text); the 381 empty English cells are the 9 poems Bellows did not translate (345 rows) and 36 rows elsewhere (unmatched stanzas, and stanzas whose English sits in the previous row).
+91 links from Snorri's rows to 83 stanzas in 11 poems. Titles: 196 (Snorri's chapters and the poems) in Old
+Norse, automatic Icelandic and AI-draft English.
 
-1,514 rows; 0 reviewed cells; 2 overlay files (304 AI draft records); 73 image records (40 depictions, 38 placed; 33 documentary: 2 manuscripts, 18 monuments, 13 places), 71 placed in all (`placed: false` on `s-c3` and `s-c46`, whose pictures turned out not to show the scene; `p-c5` Sigtún and `g-c54` Gangleri alone have no public-domain depiction at all). Generation briefs for those four slots and eight optional ones: `images/generation-briefs.md`. All 40 records carry `checked_by: claude (Commons API metadata check, 2026-10-24); human verification pending` — the licence basis was read from the Wikimedia Commons file pages, not yet confirmed by a person against the institution records.
+3,480 rows (Snorri 1,514, Poetic Edda 1,966); 0 reviewed cells; 2 overlay files (304 AI draft records); 73 image records (40 depictions, 38 placed; 33 documentary: 2 manuscripts, 18 monuments, 13 places), 71 placed in all (`placed: false` on `s-c3` and `s-c46`, whose pictures turned out not to show the scene; `p-c5` Sigtún and `g-c54` Gangleri alone have no public-domain depiction at all). Generation briefs for those four slots and eight optional ones: `images/generation-briefs.md`. All 40 records carry `checked_by: claude (Commons API metadata check, 2026-10-24); human verification pending` — the licence basis was read from the Wikimedia Commons file pages, not yet confirmed by a person against the institution records.
 
 What the columns contain: Formáli, Skáldskaparmál and Háttatal Icelandic are automatic modernised spelling
 (about 94% of tokens right); Gylfaginning Icelandic is Netútgáfan's text, automatically aligned; English is
@@ -58,14 +61,17 @@ Sources
 - Guðni Jónsson's Gylfaginning ends before the two closing sentences on Öku-Þórr and the Turks that Netútgáfan
   and Brodeur both have (noted at the last row of chapter 54).
 
-Völuspá
-- Bellows' stanza order differs from Guðni Jónsson's after stanza 22 (pairing table in `make_voluspa.py`);
-  the English cell names Bellows' stanza where it differs. Guðni Jónsson 34 (Hauksbók, Váli) has no Bellows
-  stanza; 54 (a fourth refrain) shows Bellows' refrain.
-- Quotation links were found automatically; Snorri's paraphrases (e.g. of the Norns stanza) are not linked.
-- The moderniser now rejects learned word pairs that drop the first letter or more than two letters (they came
-  from misaligned training pairs, e.g. *men* → *en*); held-out accuracy 94.15% (was 94.12%). The
-  Formáli/Skáldskaparmál/Háttatal automatic columns have not been regenerated with it yet.
+Poetic Edda
+- Stanza alignment Guðni Jónsson ↔ Bellows is automatic except Völuspá (hand table; the aligner agrees on 64
+  of 66). A spot check of 30 random stanzas elsewhere found 27 right; misses cluster where Bellows reorders or
+  renumbers (Hávamál 85–90, Atlamál, Fjölsvinnsmál, Sigurðarkviða in skamma near the end, Guðrúnarkviða III,
+  Helgakviða Hundingsbana II 17–19). Weak matches carry `s_en` and show "?" on the page.
+- Speaker lines are kept inside the stanza (Old Norse "Loki kvað:", Bellows "Loki spake:").
+- Quotation links were found automatically; Snorri's paraphrases and strongly variant quotations are not
+  linked.
+- Völuspá: Guðni Jónsson 34 (Hauksbók, Váli) has no Bellows stanza; 54 (a fourth refrain) shows Bellows'
+  refrain. The moderniser rejects learned word pairs that drop the first letter or more than two letters
+  (held-out accuracy 94.15%); Formáli/Skáldskaparmál/Háttatal automatic columns are not regenerated with it yet.
 
 Modernised spelling (automatic column)
 - Residuals such as *it fyrsta* for *hið fyrsta*, occasional inflection endings, and words never seen in

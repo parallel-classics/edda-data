@@ -2,8 +2,9 @@
 
 Checks
   aligned/al_*.json   every row has a non-empty Old Norse cell; row ids are unique; chapter numbers unique per part
-                      (poems, e.g. al_vsp.json: every row carries its id vsp-s<N>, stanzas numbered 1..n in order)
-  aligned/links_*.json  every link names an existing Snorri row and an existing poem stanza
+  aligned/poetic/al_<poem>.json  Poetic Edda: rows carry their own ids <poem>-s<N> / <poem>-p<k>, unique;
+                      index.json lists every poem file; links.json: both ends of every link exist
+  aligned/titles.json every chapter of Snorri's parts and every poem has a title entry
   overlays/**/*.json  {"records": [...]}; every record: row id exists in aligned/, cell in {on, is, en},
                       status in {auto, draft, reviewed, disputed}, non-empty text, author, date YYYY-MM-DD,
                       "replaces" null or string
@@ -30,12 +31,11 @@ PARTS = [  # row-id prefix, aligned file, "part" value inside the file, scenes.j
     ("g", "al_gylf.json", "gylfaginning", "gylfaginning", "Gylfaginning"),
     ("s", "al_skald.json", "skaldskaparmal", "skaldskaparmal", "Skáldskaparmál"),
     ("h", "al_hatt.json", "hattatal", "hattatal", "Háttatal"),
-    ("vsp", "al_vsp.json", "voluspa", "voluspa", "Völuspá"),   # Poetic Edda: one row per stanza, id vsp-s<N>
-]
-POEMS = {"vsp"}
-CELLS = ("on", "is", "en")
+] 
+LANG_CODES = ("on", "is", "en", "ru", "nb", "nn", "da", "sv", "de")   # possible column languages
+CELLS = ("on", "is", "en", "ru", "nb", "nn", "da", "sv", "de")
 STATUSES = ("auto", "draft", "reviewed", "disputed")
-ROW_ID = re.compile(r"^([pgsh]-c\d+-\d+|vsp-s\d+)[a-z]?$")
+ROW_ID = re.compile(r"^([pgsh]-c\d+-\d+|[a-z0-9]+-[sp]\d+)[a-z]?$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 # images/records.json: these keys must be present; the others in images/README.md are optional
 IMAGE_KEYS = ("id", "part", "chapter", "title", "artist", "date", "source_url", "file_url", "width", "height",
@@ -77,37 +77,67 @@ def check_aligned():
             nums.add(num)
             for i, r in enumerate(c.get("rows", []), start=1):
                 rid = f"{prefix}-c{num}-{i}"
-                if prefix in POEMS:
-                    rid = r.get("id", "")
-                    want = f"{prefix}-s{len([x for x in rows if x.startswith(prefix + '-')]) + 1}"
-                    if rid != want:
-                        err(f"{fname}: row id {rid!r}, expected {want!r} (stanzas numbered in order)")
                 if rid in rows:
                     err(f"{fname}: duplicate row id {rid}")
                 on = r.get("on") or []
                 if not on or not any(block_text(b).strip() for b in on):
                     err(f"{fname}: row {rid} has an empty Old Norse cell")
-                rows[rid] = {
-                    "on": bool(on),
-                    "is": bool(r.get("is")),
-                    "en": bool(r.get("en")),
-                    "en_draft": bool(r.get("en_draft")),
-                }
+                rows[rid] = {c: bool(r.get(c)) for c in LANG_CODES}
+                rows[rid]["en_draft"] = bool(r.get("en_draft"))
         chapters[prefix] = nums
+    # Poetic Edda
+    pdir = os.path.join(ROOT, "aligned", "poetic")
+    if os.path.isdir(pdir):
+        idx = load(os.path.join(pdir, "index.json"))
+        listed = {p["file"] for p in idx["poems"]}
+        for f in sorted(glob.glob(os.path.join(pdir, "al_*.json"))):
+            if os.path.basename(f) not in listed:
+                err(f"aligned/poetic/{os.path.basename(f)} is not listed in index.json")
+        for p in idx["poems"]:
+            path = os.path.join(pdir, p["file"])
+            if not os.path.exists(path):
+                err(f"aligned/poetic/index.json names a missing file {p['file']}")
+                continue
+            d = load(path)
+            pfx = d.get("poem")
+            if pfx != p["prefix"]:
+                err(f"{p['file']}: poem {pfx!r} but index says {p['prefix']!r}")
+            for c in d["chapters"]:
+                for r in c["rows"]:
+                    rid = r.get("id", "")
+                    if not re.fullmatch(rf"{re.escape(pfx)}-[sp]\d+b?", rid):
+                        err(f"{p['file']}: bad row id {rid!r}")
+                    if rid in rows:
+                        err(f"{p['file']}: duplicate row id {rid}")
+                    if not r.get("on"):
+                        err(f"{p['file']}: row {rid} has an empty Old Norse cell")
+                    rows[rid] = {c2: bool(r.get(c2)) for c2 in LANG_CODES}
+                    rows[rid]["en_draft"] = False
+                    rows[rid]["poem"] = True
+        chapters["poetic"] = {p["prefix"] for p in idx["poems"]}
     return rows, chapters
 
 
-def check_links(rows):
+def check_links(rows, chapters):
     n = 0
-    for path in sorted(glob.glob(os.path.join(ROOT, "aligned", "links_*.json"))):
-        rel = os.path.relpath(path, ROOT)
-        poem = os.path.basename(path)[6:-5]
+    path = os.path.join(ROOT, "aligned", "poetic", "links.json")
+    if os.path.exists(path):
         for k, l in enumerate(load(path).get("links", [])):
             n += 1
             if l.get("row") not in rows:
-                err(f"{rel}#{k}: Snorri row {l.get('row')!r} does not exist")
-            if f"{poem}-s{l.get('stanza')}" not in rows:
-                err(f"{rel}#{k}: stanza {poem}-s{l.get('stanza')} does not exist")
+                err(f"aligned/poetic/links.json#{k}: Snorri row {l.get('row')!r} does not exist")
+            if l.get("poem_row") not in rows:
+                err(f"aligned/poetic/links.json#{k}: poem row {l.get('poem_row')!r} does not exist")
+    tpath = os.path.join(ROOT, "aligned", "titles.json")
+    if os.path.exists(tpath):
+        titles = load(tpath)["titles"]
+        want = [f"{p}-ch{c}" for p in "pgsh" for c in sorted(chapters.get(p, set()))] + sorted(chapters.get("poetic", set()))
+        miss = [k for k in want if k not in titles]
+        if miss:
+            err(f"aligned/titles.json: no title for {miss[:10]}")
+        for k, t in titles.items():
+            if not t.get("on") or not t.get("en"):
+                warnings.append(f"titles: {k} lacks an Old Norse or English title")
     return n
 
 
@@ -238,11 +268,14 @@ def check_images(rows, chapters):
 def status_table(rows, effective):
     cols = ("source", "auto", "draft", "reviewed", "disputed", "empty")
     table = []
-    for prefix, _, _, _, display in PARTS:
-        for cell in CELLS:
+    groups = [(prefix, display, lambda rid, p=prefix: rid.split("-")[0] == p) for prefix, _, _, _, display in PARTS]
+    groups.append(("poetic", "Poetic Edda", lambda rid: rows[rid].get("poem", False)))
+    for prefix, display, member in groups:
+        present = [c for c in CELLS if any(rows[r][c] for r in rows if member(r))]
+        for cell in present:
             counts = dict.fromkeys(cols, 0)
             for rid, r in rows.items():
-                if rid.split("-")[0] != prefix:
+                if not member(rid):
                     continue
                 st = effective.get((rid, cell))
                 if st is None:
@@ -270,7 +303,7 @@ def main():
     rows, chapters = check_aligned()
     effective, n_overlay_files = check_overlays(rows)
     n_images = check_images(rows, chapters)
-    n_links = check_links(rows)
+    n_links = check_links(rows, chapters)
     print(f"aligned rows: {len(rows)} in {len(chapters)} parts; overlay files: {n_overlay_files}, "
           f"overlay cells: {len(effective)}; image records: {n_images}; quotation links: {n_links}\n")
     status_table(rows, effective)

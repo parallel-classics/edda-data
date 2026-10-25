@@ -1,0 +1,1512 @@
+{
+ "part": "poetic",
+ "poem": "hvk",
+ "title": "Hervararkviða",
+ "group": "other",
+ "chapters": [
+  {
+   "num": 39,
+   "key": "hvk",
+   "title": "Hervararkviða",
+   "subtitle": null,
+   "group": "other",
+   "rows": [
+    {
+     "id": "hvk-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Hitt hefr mær ung",
+        "í Munarvági",
+        "við sólar setr",
+        "segg at hjörðu."
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Hirðir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Hverr er einn saman",
+        "í ey kominn?",
+        "Gakk þú greiðliga",
+        "gistingar til!\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Hitt hefur mær ung",
+        "í Munarvági",
+        "við sólar setur",
+        "segg að hjörðu."
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Hirðir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Hver er einn saman",
+        "í ey kominn?",
+        "Gakk þú greiðlega",
+        "gistingar til!\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Muna-at ek ganga",
+        "gistingar til,",
+        "því at ek engi kann",
+        "eyjaskeggja;",
+        "segðu hraðliga,",
+        "áðr heðan líðir:",
+        "hvar eru Hjörvarði",
+        "haugar kenndir?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Muna-at eg ganga",
+        "gistingar til,",
+        "því að eg enginn kann",
+        "eyjaskeggja;",
+        "segðu hraðlega,",
+        "áður héðan líðir:",
+        "hvar eru Hjörvarði",
+        "haugar kenndir?\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hirðir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Spyj-at-tu at því;",
+        "spakr ertu eigi,",
+        "vinr víkinga,",
+        "ertu vanfarinn;",
+        "förum fráliga,",
+        "sem okkr fætr toga,",
+        "allt er úti",
+        "ámátt firum!\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hirðir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Spyj-at-tu að því;",
+        "spakur ertu eigi,",
+        "vinur víkinga,",
+        "ertu vanfarinn;",
+        "förum frálega,",
+        "sem okkur fætur toga,",
+        "allt er úti",
+        "ámátt firum!\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Men bjóðum þér",
+        "máls at gjöldum;",
+        "mun-a drengja vin",
+        "dælt at letja:",
+        "fær engi mér",
+        "svá fríðar hnossir,",
+        "fagra bauga,",
+        "at ek fara eigi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Men bjóðum þér",
+        "máls að gjöldum;",
+        "mun-a drengja vin",
+        "dælt að letja:",
+        "fær enginn mér",
+        "svo fríðar hnossir,",
+        "fagra bauga,",
+        "að eg fara eigi.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hirðir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Heimskr þykki mér,",
+        "sá er heðra ferr",
+        "maðr einn saman",
+        "myrkvar grímur;",
+        "hyrr er á sveimun,",
+        "haugar opnask,",
+        "brenn fold ok fen;",
+        "förum harðara.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hirðir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Heimskur þyki mér,",
+        "sá er heðra fer",
+        "maður einn saman",
+        "myrkvar grímur;",
+        "hyr er á sveimun,",
+        "haugar opnast,",
+        "brenn fold og fen;",
+        "förum harðar.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Hirðum-at fælask",
+        "við fnösun slíka,",
+        "þótt um alla ey",
+        "eldar brenni;",
+        "látum okkr eigi",
+        "liðna rekka",
+        "skjótla skelfa,",
+        "skulum við talask.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Hirðum-at fælast",
+        "við fnösun slíka,",
+        "þótt um alla ey",
+        "eldar brenni;",
+        "látum okkur eigi",
+        "liðna rekka",
+        "skjótla skelfa,",
+        "skulum við talast.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Var þá féhirðir",
+        "fljótr til skógar",
+        "mjök frá máli",
+        "meyjar þessar;",
+        "en harðsnúinn",
+        "hugr í brjósti",
+        "um sakar slíkar",
+        "svellr Hervöru."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Var þá féhirðir",
+        "fljótur til skógar",
+        "mjög frá máli",
+        "meyjar þessar;",
+        "en harðsnúinn",
+        "hugur í brjósti",
+        "um sakir slíkar",
+        "svellur Hervöru."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hon sá nú haugeldana .... ok gengr til hauganna ok hræðist ekki, ok óð hon eldana sem reyk, þar til er hon kom at haugi berserkjanna. Þá kvað hon:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hún sá nú haugeldana .... og gengur til hauganna og hræðist ekki, og óð hún eldana sem reyg, þar til er hún kom að haugi berserkjanna. Þá kvað hún:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Vaki þú, Angantýr,",
+        "vekr þik Hervör,",
+        "eingadóttir",
+        "ykkur Sváfu;",
+        "sel þú mér ór haugi",
+        "hvassan mæki,",
+        "þann er Svafrlama",
+        "slógu dvergar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Vaki þú, Angantýr,",
+        "vekur þig Hervör,",
+        "eingadóttir",
+        "ykkur Sváfu;",
+        "sel þú mér úr haugi",
+        "hvassan mæki,",
+        "þann er Svafrlama",
+        "slógu dvergar."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Hervarðr, Hjörvarðr,",
+        "Hrani, Angantýr!",
+        "vek ek yðr alla",
+        "undir viðar rótum,",
+        "hjálmi ok með brynju,",
+        "hvössu sverði,",
+        "rönd ok með reiði,",
+        "roðnum geiri."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Hervarður, Hjörvarður,",
+        "Hrani, Angantýr!",
+        "veg eg yður alla",
+        "undir viðar rótum,",
+        "hjálmi og með brynju,",
+        "hvössu sverði,",
+        "rönd og með reiði,",
+        "roðnum geiri."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Mjök eruð orðnir",
+        "Arngríms synir,",
+        "megir meinsamir,",
+        "at moldar auka,",
+        "er engi skal",
+        "sona Eyfuru",
+        "við mik mæla",
+        "í Munarvági."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Mjög eruð orðnir",
+        "Arngríms synir,",
+        "megir meinsamir,",
+        "að moldar auka,",
+        "er enginn skal",
+        "sona Eyfuru",
+        "við mig mæla",
+        "í Munarvági."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Hervarðr, Hjörvarðr,",
+        "Hrani, Angantýr!",
+        "Svá sé yðr öllum",
+        "innan rifja",
+        "sem þér í maura",
+        "mornið haugi,",
+        "nema sverð selið,",
+        "þar er sló Dvalinn;",
+        "samir-a draugum",
+        "dýrt vápn fela.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Hervarður, Hjörvarður,",
+        "Hrani, Angantýr!",
+        "Svo sé yður öllum",
+        "innan rifja",
+        "sem þér í maura",
+        "mornið haugi,",
+        "nema sverð selið,",
+        "þar er sló Dvalinn;",
+        "samir-a draugum",
+        "dýrt vopn fela.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þá svarar Angantýr:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Hervör dóttir,",
+        "hví kallar svá?",
+        "Full feiknstafa",
+        "ferr þú þér at illu!",
+        "Ær ertu orðin",
+        "ok örvita,",
+        "villhyggjandi,",
+        "vekr menn dauða."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þá svarar Angantýr:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Hervör dóttir,",
+        "hví kallar svo?",
+        "Full feiknstafa",
+        "fer þú þér að illu!",
+        "Ær ertu orðin",
+        "og örvita,",
+        "villhyggjandi,",
+        "vekur menn dauða."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Gróf-at mik faðir",
+        "né frændr aðrir;",
+        "þeir höfðu Tyrfing",
+        "tveir, er lifðu;",
+        "varð þó eigandi",
+        "einn um síðir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Gróf-at mig faðir",
+        "né frændur aðrir;",
+        "þeir höfðu Tyrfing",
+        "tveir, er lifðu;",
+        "varð þó eigandi",
+        "einn um síðir.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Segðu einn satt mér,",
+        "svá láti áss þik",
+        "heilan í haugi,",
+        "sem þú hafir eigi",
+        "Tyrfing með þér;",
+        "trautt er þér at veita",
+        "arf, Angantýr,",
+        "eingabarni.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Segðu einn satt mér,",
+        "svo láti ás þig",
+        "heilan í haugi,",
+        "sem þú hafir eigi",
+        "Tyrfing með þér;",
+        "trautt er þér að veita",
+        "arf, Angantýr,",
+        "eingabarni.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Hnigin er helgrind,",
+        "haugar opnask,",
+        "allr er í eldi",
+        "eybarmr at sjá;",
+        "atalt er úti",
+        "um at lítask;",
+        "skyntu, mær, ef þú mátt",
+        "til skipa þinna.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Hnigin er helgrind,",
+        "haugar opnast,",
+        "allur er í eldi",
+        "eybarmur að sjá;",
+        "atalt er úti",
+        "um að lítast;",
+        "skyntu, mær, ef þú mátt",
+        "til skipa þinna.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Brennið eigi svá",
+        "bál á nóttum,",
+        "at ek við elda",
+        "yðra hræðumk;",
+        "skelfr-at meyju",
+        "muntún hugar,",
+        "þótt hon draug sjái",
+        "i durum standa.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Brennið eigi svo",
+        "bál á nóttum,",
+        "að eg við elda",
+        "yðra hræðumk;",
+        "skelfr-at meyju",
+        "muntún hugar,",
+        "þótt hún draug sjái",
+        "i durum standa.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Segi ek þér, Hervör,",
+        "- hlýð þú til enn,",
+        "vísa dóttir, -",
+        "þat er verða mun:",
+        "sjá mun Tyrfingr,",
+        "ef þú trúa mættir,",
+        "ætt þinni, mær,",
+        "allri spilla."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Segi eg þér, Hervör,",
+        "- hlýð þú til enn,",
+        "vísa dóttir, -",
+        "það er verða mun:",
+        "sjá mun Tyrfingur,",
+        "ef þú trúa mættir,",
+        "ætt þinni, mær,",
+        "allri spilla."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Muntu son geta,",
+        "þann er síðan mun",
+        "Tyrfing bera",
+        "ok trúa magni;",
+        "þann munu Heiðrek",
+        "heita lýðar,",
+        "sá mun ríkstr alinn",
+        "und röðuls tjaldi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Muntu son geta,",
+        "þann er síðan mun",
+        "Tyrfing bera",
+        "og trúa magni;",
+        "þann munu Heiðreg",
+        "heita lýðar,",
+        "sá mun ríkstur alinn",
+        "und röðuls tjaldi.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Ek vígi svá",
+        "virða dauða,",
+        "at ér skuluð",
+        "allir liggja",
+        "dauðir með draugum",
+        "í dys fúnir;",
+        "sel mér, Angantýr,",
+        "út ór haugi",
+        "dverga smíði;",
+        "dugir-a þér at leyna.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Eg vígi svo",
+        "virða dauða,",
+        "að þér skuluð",
+        "allir liggja",
+        "dauðir með draugum",
+        "í dys fúnir;",
+        "sel mér, Angantýr,",
+        "út úr haugi",
+        "dverga smíði;",
+        "dugir-a þér að leyna.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Kveðk-at þik, mær ung,",
+        "mönnum líka,",
+        "er þú um hauga",
+        "hvarfar á nóttum",
+        "gröfnum geiri",
+        "ok með Gota málmi,",
+        "hjálmi ok með brynju",
+        "fyrir hallar dyrr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Kveðk-at þig, mær ung,",
+        "mönnum líka,",
+        "er þú um hauga",
+        "hvarfar á nóttum",
+        "gröfnum geiri",
+        "og með Gota málmi,",
+        "hjálmi og með brynju",
+        "fyrir hallar dyr.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Maðr þóttumk ek",
+        "mennskr til þessa,",
+        "áðr ek sali yðra",
+        "sækja réðak;",
+        "sel þú mér ór haugi,",
+        "þann er hatar brynjur,",
+        "hlífum hættan",
+        "Hjálmars bana.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Maður þóttumk eg",
+        "mennskur til þessa,",
+        "áður eg sali yðra",
+        "sækja réðak;",
+        "sel þú mér úr haugi,",
+        "þann er hatar brynjur,",
+        "hlífum hættan",
+        "Hjálmars bana.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Liggr mér und herðum",
+        "Hjálmars bani,",
+        "allr er hann útan",
+        "eldi sveipinn;",
+        "mey veit ek enga",
+        "moldar hvergi,",
+        "at þann hjör þori",
+        "í hendr nema.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Liggur mér und herðum",
+        "Hjálmars bani,",
+        "allur er hann utan",
+        "eldi sveipinn;",
+        "mey veit eg enga",
+        "moldar hvergi,",
+        "að þann hjör þori",
+        "í hendur nema.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Ek mun hirða",
+        "ok í hendr nema",
+        "hvassan mæki,",
+        "ef ek hafa mættak;",
+        "uggi ek eigi",
+        "eld brennanda,",
+        "þegar loga lægir,",
+        "er ek lít yfir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Eg mun hirða",
+        "og í hendur nema",
+        "hvassan mæki,",
+        "ef eg hafa mættak;",
+        "uggi eg eigi",
+        "eld brennanda,",
+        "þegar loga lægir,",
+        "er eg lít yfir.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Heimsks ertu, Hervör,",
+        "hugar eigandi,",
+        "er þú at augum",
+        "í eld hrapar;",
+        "heldr vil ek selja þér",
+        "sverð ór haugi,",
+        "mær in unga,",
+        "mák-at ek þér synja.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Heimsks ertu, Hervör,",
+        "hugar eigandi,",
+        "er þú að augum",
+        "í eld hrapar;",
+        "heldur vil eg selja þér",
+        "sverð úr haugi,",
+        "mær hin unga,",
+        "mák-at eg þér synja.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Vel gerðir þú,",
+        "víkinga niðr,",
+        "er þú seldir mér",
+        "sverð ór haugi;",
+        "betr þykkjumk nú,",
+        "bragningr, hafa",
+        "en ek Nóregi",
+        "næðak öllum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Vel gerðir þú,",
+        "víkinga niður,",
+        "er þú seldir mér",
+        "sverð úr haugi;",
+        "betur þykkjumk nú,",
+        "bragningur, hafa",
+        "en eg Nóregi",
+        "næðak öllum.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Veizt eigi þú,",
+        "- vesöl ertu mála,",
+        "fláráð kona, -",
+        "hví þú fagna skalt;",
+        "sjá mun Tyrfingr,",
+        "ef þú trúa mættir,",
+        "ætt þinni, mær,",
+        "allri spilla.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Veist eigi þú,",
+        "- vesöl ertu mála,",
+        "fláráð kona, -",
+        "hví þú fagna skalt;",
+        "sjá mun Tyrfingur,",
+        "ef þú trúa mættir,",
+        "ætt þinni, mær,",
+        "allri spilla.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Ek mun ganga",
+        "til gjálfrmara;",
+        "nú er hilmis mær",
+        "í hugum góðum;",
+        "lítt ræki ek þat,",
+        "lofðunga niðr,",
+        "hvé synir mínir",
+        "síðan deila.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Eg mun ganga",
+        "til gjálfrmara;",
+        "nú er hilmis mær",
+        "í hugum góðum;",
+        "lítt ræki eg það,",
+        "lofðunga niður,",
+        "hve synir mínir",
+        "síðan deila.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s28",
+     "stanza": 28,
+     "on": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Þú skalt eiga",
+        "ok una lengi,",
+        "hafðu á hulðu",
+        "Hjálmars bana;",
+        "tak-at-tu á eggjum,",
+        "eitr er í báðum;",
+        "sá er manns mjötuðr",
+        "meini verri."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Þú skalt eiga",
+        "og una lengi,",
+        "hafðu á hulðu",
+        "Hjálmars bana;",
+        "tak-at-tu á eggjum,",
+        "eitur er í báðum;",
+        "sá er manns mjötuður",
+        "meini verri."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s29",
+     "stanza": 29,
+     "on": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Far vel, dóttir,",
+        "fljótt gæfak þér",
+        "tolf manna fjör,",
+        "ef þú trúa mættir,",
+        "afl ok eljun,",
+        "allt it góða,",
+        "þat er synir Arngríms",
+        "at sik leifðu.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Far vel, dóttir,",
+        "fljótt gæfak þér",
+        "tolf manna fjör,",
+        "ef þú trúa mættir,",
+        "afl og eljun,",
+        "allt it góða,",
+        "það er synir Arngríms",
+        "að sig leifðu.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hvk-s30",
+     "stanza": 30,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"Búið ér allir,",
+        "- brott fýsir mik, -",
+        "heilir í haugi,",
+        "heðan vil ek skjótla;",
+        "helzt þóttumk nú",
+        "heima í millim,",
+        "er mik umhverfis",
+        "eldar brunnu.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hervör kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"Búið þér allir,",
+        "- brott fýsir mig, -",
+        "heilir í haugi,",
+        "héðan vil eg skjótla;",
+        "hélst þóttumk nú",
+        "heima í millim,",
+        "er mig umhverfis",
+        "eldar brunnu.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [],
+   "en_source": null,
+   "en_missing_note": "No public-domain English translation is in this edition yet."
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Hervararkviða)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": null
+ }
+}

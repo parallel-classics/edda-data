@@ -3,7 +3,7 @@
 Immutable. Nothing in this folder is edited by hand; corrections go to `overlays/`. The medieval texts are in
 the public domain and so are Brodeur's and Bellows' translations; the rights in Guðni Jónsson's normalised
 editions and in Netútgáfan's text are not yet confirmed (`LICENSE`, section 1). Fetch date: **2026-10-23**
-for Snorri's Edda, **2026-10-25** for Völuspá.
+for Snorri's Edda, **2026-10-25** for the Poetic Edda.
 
 ## on/ — Old Norse (Guðni Jónsson 1954)
 
@@ -26,17 +26,25 @@ for Snorri's Edda, **2026-10-25** for Völuspá.
 Block shape (`on_*.json`): `{"title", "chapters": [{"num", "title", "blocks": [...]}]}` with blocks
 `{"t": "p", "s": "<paragraph>"}` or `{"t": "v", "n": <stanza number or null>, "l": ["line", ...]}`.
 
-### Völuspá (Poetic Edda)
+### on/eddukvaedi/ — the Poetic Edda (Guðni Jónsson 1949)
 
 | File | What | Produced by |
 | --- | --- | --- |
-| `voluspa.txt` | Völuspá, 66 stanzas, Guðni Jónsson's numbering | fetched |
+| `gj_eddukvaedi.json` | `{page title: page text}` for the 45 poems of *Eddukvæði* on heimskringla.no, in the edition's order (Völuspá … Forspjallsljóð) | fetched 2026-10-25 through a browser (rendered text of each page) |
+| `voluspa_cltk.txt` | Völuspá from the CLTK mirror, the first source used (same edition, kept for provenance) | fetched |
 
 - Edition: *Eddukvæði (Sæmundar-Edda)*, normalised text by Guðni Jónsson, Íslendingasagnaútgáfan, Reykjavík
-  1949, as published on heimskringla.no. Fetched from the same CLTK mirror, folder
-  `Sæmundar-Edda/Völuspá/txt_files/complete.txt`. The folder has 25 poems in all (Völuspá to Hamðismál).
-- Guðni Jónsson's text mixes the Codex Regius and Hauksbók versions: 66 stanzas, with the refrain
-  (*Geyr nú Garmr mjök …*) four times (44, 49, 54, 58) and the Hauksbók stanza on Váli (34).
+  1949, as published on heimskringla.no (https://heimskringla.no/wiki/Eddukvæði). The CLTK mirror has only 25
+  of the poems (and a truncated Hávamál, 145 of 164 stanzas), so heimskringla.no is the source.
+- Contents: the Codex Regius poems, Baldrs draumar, Rígsþula, Hyndluljóð, Völuspá in skamma, Gróttasöngr,
+  Grógaldr, Fjölsvinnsmál, and the Eddic poems preserved in sagas and elsewhere (Hjálmarskviða, Hervararkviða,
+  Hlöðskviða, Hálfsrekkaljóð, Heiðreksgátur, Eddubrot, Sólarljóð, Forspjallsljóð). Guðni Jónsson prints *Frá
+  dauða Sinfjötla* as the prose opening of Grípisspá, and gives Völuspá in skamma separately from Hyndluljóð.
+- Page text format: stanza number on its own line ("12."), the lines, a blank line; prose paragraphs with
+  three-space indents; speaker lines ("Loki kvað:"); unnumbered verse after a speaker line is the rest of the
+  stanza; editorial gaps as dots. `make_poems.py` parses this.
+- heimskringla.no also carries Norwegian, Danish and Swedish translations of each poem (linked from the
+  language table at the top of every page) — a source for future columns once their status is checked.
 
 ## is/ — Modern Icelandic (Netútgáfan 1997), Gylfaginning only
 
@@ -72,18 +80,20 @@ Block shape (`on_*.json`): `{"title", "chapters": [{"num", "title", "blocks": [.
 - The proofread Wikisource copy of Brodeur is cleaner and is the planned replacement base (roadmap phase 4).
   Brodeur's text stays as a separate, unchanged layer when a new translation is added as overlays.
 
-### Völuspá — Bellows 1923
+### en/bellows/ — the Poetic Edda in English (Bellows 1923)
 
 | File | What | Produced by |
 | --- | --- | --- |
-| `bellows_voluspo.txt` | Bellows' introductory note, 66 stanzas and his notes, as plain text | fetched |
+| `bellows_poetic_edda.json` | `{page: {intro: [...], blocks: [...], notes: {...}}}` for the 35 poem pages of *The Poetic Edda (tr. Bellows)* on English Wikisource | fetched 2026-10-25 (MediaWiki `action=parse`, structured in the browser) |
+| `bellows_voluspo.txt` | Völuspá as plain text, the first fetch | fetched |
 
 - Edition: Henry Adams Bellows, *The Poetic Edda*, The American-Scandinavian Foundation, New York 1923.
-  Public domain (Bellows died in 1939). Fetched 2026-10-25 from English Wikisource,
-  *The Poetic Edda (tr. Bellows)/Voluspo*, rendered page text through the MediaWiki API.
-- Bellows follows the Codex Regius order with changes of his own (he swaps 23 and 24, has two stanzas where Guðni Jónsson
-  has one (28 and 56), prints the refrain three times and leaves out the Hauksbók stanza on Váli). The pairing
-  is in `edda-site/pipeline/make_voluspa.py` (`GJ2B`) and in each row's `en_stanzas`.
-- In the text file a gap inside a line is his half-line division (Wikisource *cesura*); the build shows it as
-  ` | `. Two lines lost their gap in the transcription (stanzas 13 and 15) and are fixed in the script. His
-  notes are numbered by his stanzas; stanzas 11, 13, 16 and 24 have none.
+  Public domain (Bellows died in 1939).
+- Blocks: `{"t": "p", "s": …}` for prose (the manuscript prose and speaker lines) and `{"t": "v", "n": "12",
+  "l": [...], "ref": "⟦cite_note-…⟧"}` for stanzas, in page order after the introductory note; a gap inside a
+  line (Wikisource *cesura*) is written ` | `; note references are kept as `⟦cite_note-id⟧` and resolved
+  against `notes`.
+- Bellows did not translate Gróttasöngr or the saga poems, Sólarljóð and Forspjallsljóð. His Svipdagsmol is
+  Guðni Jónsson's Grógaldr + Fjölsvinnsmál; his Hyndluljoth includes Völuspá in skamma; his Fra Dautha
+  Sinfjotla is the prose that opens Guðni Jónsson's Grípisspá. His stanza numbering and order differ from
+  Guðni Jónsson's in many poems; the pairing is automatic (see edda-site `pipeline/README.md`).

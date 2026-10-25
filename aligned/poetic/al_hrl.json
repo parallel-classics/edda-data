@@ -1,0 +1,1233 @@
+{
+ "part": "poetic",
+ "poem": "hrl",
+ "title": "Hálfsrekkaljóð",
+ "group": "other",
+ "chapters": [
+  {
+   "num": 41,
+   "key": "hrl",
+   "title": "Hálfsrekkaljóð",
+   "subtitle": null,
+   "group": "other",
+   "rows": [
+    {
+     "id": "hrl-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hálfr konungr fór til ríkis síns ór hernaði. Þeir fengu storm mikinn í hafi. Skip þeira varð ekki ausit. Þá var þat ráðs tekit at hluta mann fyrir borð, en þess þurfti eigi, því at hverr bauð sínum félaga fyrir borð at fara. En er þeir stigu fyrir borð, þá mæltu þeir: \"Strálaust er fyrir stokkum.\" En er Hálfr konungr kom til Hörðalands, þá fór Ásmundr konungr á fund hans ok gerðist hans maðr ok sór honum eiða ok bauð honum til veizlu ok hálfu liði hans. En annan morgin er konungr bjóst ok sagði, at helmingr liðs skyldi eftir vera á skipum, kvað Innsteinn:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hálfur konungur fór til ríkis síns úr hernaði. Þeir fengu storm mikinn í hafi. Skip þeirra varð ekki ausið. Þá var það ráðs tekið að hluta mann fyrir borð, en þess þurfti eigi, því að hver bauð sínum félaga fyrir borð að fara. En er þeir stígu fyrir borð, þá mæltu þeir: \"Strálaust er fyrir stokkum.\" En er Hálfur konungur kom til Hörðalands, þá fór Ásmundur konungur á fund hans og gerðist hans maður og sór honum eiða og bauð honum til veizlu og hálfu liði hans. En annan morgun er konungur bjóst og sagði, að helmingur liðs skyldi eftir vera á skipum, kvað Innsteinn:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Upp mundum vér",
+        "allir ganga,",
+        "skatna beztir,",
+        "af skipum várum,",
+        "láta brenna",
+        "bragninga sveit",
+        "ok Ásmundar lið",
+        "aldri týna.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Upp mundum vér",
+        "allir ganga,",
+        "skatna beztir,",
+        "af skipum várum,",
+        "láta brenna",
+        "bragninga sveit",
+        "og Ásmundar lið",
+        "aldrei týna.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "p",
+       "s": "Konungr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Vér skulum hálfir",
+        "herjar þessa",
+        "sáttir sækja",
+        "frá sjó neðan.",
+        "Ásmundr hefir",
+        "oss of boðna",
+        "hringa rauða",
+        "sem hafa viljum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Konungur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Vér skulum hálfir",
+        "herjar þessa",
+        "sáttir sækja",
+        "frá sjó neðan.",
+        "Ásmundur hefur",
+        "oss of boðna",
+        "hringa rauða",
+        "sem hafa viljum.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "p",
+       "s": "Innsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Sér eigi þú allan",
+        "Ásmundar hug,",
+        "hefir fylkir sá",
+        "flærð í brjósti.",
+        "Mundir þú, þengill,",
+        "ef vér því réðim,",
+        "mági þínum",
+        "mjök lítt trúa.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Innsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Sér eigi þú allan",
+        "Ásmundar hug,",
+        "hefur fylkir sá",
+        "flærð í brjósti.",
+        "Mundir þú, þengill,",
+        "ef vér því réðim,",
+        "mági þínum",
+        "mjög lítt trúa.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "p",
+       "s": "Konungr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Ásmundr hefir",
+        "oss of unnit",
+        "margar tryggðir,",
+        "sem menn vitu.",
+        "Mun-at góðr konungr",
+        "ganga á sáttir",
+        "né gramr annan",
+        "í griðum véla.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Konungur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Ásmundur hefur",
+        "oss of unnið",
+        "margar tryggðir,",
+        "sem menn vita.",
+        "Mun-at góður konungur",
+        "ganga á sáttir",
+        "né gramur annan",
+        "í griðum véla.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "p",
+       "s": "Innsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Þér er orðinn",
+        "Óðinn til gramr,",
+        "er þú Ásmundi",
+        "allvel trúir.",
+        "Hann mun alla",
+        "oss of véla,",
+        "nema þú víti",
+        "viðsjár fáir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Innsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Þér er orðinn",
+        "Óðinn til gramur,",
+        "er þú Ásmundi",
+        "allvel trúir.",
+        "Hann mun alla",
+        "oss of véla,",
+        "nema þú víti",
+        "viðsjár fáir.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "p",
+       "s": "Konungr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Æ lystir þik",
+        "æðru at mæla,",
+        "mun-at sá konungr",
+        "sáttir rjúfa.",
+        "Gull eigum þar",
+        "ok gersimar,",
+        "hringa rauða,",
+        "frá hans búum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Konungur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Æ lystir þig",
+        "æðru að mæla,",
+        "mun-at sá konungur",
+        "sáttir rjúfa.",
+        "Gull eigum þar",
+        "og gersimar,",
+        "hringa rauða,",
+        "frá hans búum.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "p",
+       "s": "Innsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Hálfr, dreymði mik,",
+        "- hyggðu at slíku, -",
+        "at logi léki",
+        "of liði váru,",
+        "illt væri þar",
+        "ór at leysask.",
+        "Hvat kveðr þú, þengill,",
+        "þann draum vita?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Innsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Hálfur, dreymdi mig,",
+        "- hyggðu að slíku, -",
+        "að logi léki",
+        "of liði voru,",
+        "illt væri þar",
+        "úr að leysast.",
+        "Hvað kveður þú, þengill,",
+        "þann draum vita?\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "p",
+       "s": "Konungr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Gefa mun ek hverjum",
+        "hjálm ok brynju",
+        "frækna drengja,",
+        "er fylgja mér.",
+        "Þat mun at líta",
+        "sem logi brenni",
+        "skjöldungs liði",
+        "of skarar fjöllum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Konungur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Gefa mun eg hverjum",
+        "hjálm og brynju",
+        "frækna drengja,",
+        "er fylgja mér.",
+        "Það mun að líta",
+        "sem logi brenni",
+        "skjöldungs liði",
+        "of skarar fjöllum.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "p",
+       "s": "Innsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Enn dreymði mik",
+        "öðru sinni:",
+        "Hugðak á öxlum",
+        "elda brenna.",
+        "Gruna tek ek nokkut,",
+        "at þat gott viti.",
+        "Hvat kveðr þú, þengill,",
+        "þann draum vita?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Innsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Enn dreymdi mig",
+        "öðru sinni:",
+        "Hugðak á öxlum",
+        "elda brenna.",
+        "Gruna teg eg nokkut,",
+        "að það gott viti.",
+        "Hvað kveður þú, þengill,",
+        "þann draum vita?\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "p",
+       "s": "Konungr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Hrynja um herðar",
+        "þeim, er hamalt fylkja,",
+        "grams verðungu,",
+        "gylldar brynjur.",
+        "Þat mun á öxlum",
+        "öðlings vinum",
+        "ljóst at líta,",
+        "sem logi brenni.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Konungur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Hrynja um herðar",
+        "þeim, er hamalt fylkja,",
+        "grams verðungu,",
+        "gylldar brynjur.",
+        "Það mun á öxlum",
+        "öðlings vinum",
+        "ljóst að líta,",
+        "sem logi brenni.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "p",
+       "s": "Innsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Þat dreymði mik",
+        "þriðja sinni,",
+        "at vér í kaf niðr",
+        "komnir værim.",
+        "Eiga mun allstórt",
+        "um at véla.",
+        "Hvat kveðr þú, þengill,",
+        "þann draum vita?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Innsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Það dreymdi mig",
+        "þriðja sinni,",
+        "að vér í kaf niður",
+        "komnir værim.",
+        "Eiga mun allstórt",
+        "um að véla.",
+        "Hvað kveður þú, þengill,",
+        "þann draum vita?\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "p",
+       "s": "Konungr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Fulllangt er sjá",
+        "fíflskapr talaðr,",
+        "vera kveð ek ekki",
+        "undir slíku.",
+        "Seg þú enga,",
+        "svá at heyri,",
+        "drauma þína",
+        "í degi síðan.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Konungur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Fulllangt er sjá",
+        "fíflskapur talaður,",
+        "vera kveð eg ekki",
+        "undir slíku.",
+        "Seg þú enga,",
+        "svo að heyri,",
+        "drauma þína",
+        "í degi síðan.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "p",
+       "s": "Innsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Hlýði Hrókar",
+        "ok herr konungs",
+        "orðum mínum,",
+        "Útsteinn þriði:",
+        "Göngum allir",
+        "upp frá ströndu,",
+        "kunnum ekki",
+        "konungs mál of þat.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Innsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Hlýði Hrókar",
+        "og her konungs",
+        "orðum mínum,",
+        "Útsteinn þriðji:",
+        "Göngum allir",
+        "upp frá ströndu,",
+        "kunnum ekki",
+        "konungs mál of það.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "p",
+       "s": "Útsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Konung látum vér",
+        "keppinn ráða",
+        "fyrir í fólki",
+        "um farir várar.",
+        "Hættum, bróðir,",
+        "svá at honum líki,",
+        "fjörvi okkru",
+        "með frömum vísi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Útsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Konung látum vér",
+        "keppinn ráða",
+        "fyrir í fólki",
+        "um farir várar.",
+        "Hættum, bróðir,",
+        "svo að honum líki,",
+        "fjörvi okkru",
+        "með frömum vísi.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "p",
+       "s": "Innsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Hlítt hefir fylkir",
+        "í förum úti",
+        "mínum ráðum",
+        "mörgu sinni.",
+        "Nú kveð ek engu,",
+        "er ek mæli,",
+        "hlýða vilja,",
+        "síz hingat kómum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Innsteinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Hlítt hefur fylkir",
+        "í förum úti",
+        "mínum ráðum",
+        "mörgu sinni.",
+        "Nú kveð eg engu,",
+        "er eg mæli,",
+        "hlýða vilja,",
+        "síz hingað kómum.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-p2",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hálfr konungr gekk upp til bæjar Ásmundar konungs með helming liðs síns. Þar var fyrir fjölmenni mikit. Veizla var kappsamlig ok drykkr svá sterkr, at Hálfsrekkar sofnuðu fast. Ásmundr konungr ok hirðin lögðu eld í höllina. En sá, er fyrst vaknaði af Hálfsrekkum, sá höllina nær fulla af reyk. Hann mælti: \"Rjúka mun um hauka vára nú,\" sagði hann. Síðan lagðist hann niðr ok svaf. Þá vaknaði annarr ok sá, at höllin logaði, ok mælti: \"Drjúpa mun nú vax af söxum.\" Sá lagðist niðr. Ok þá vaknaði Hálfr konungr. Hann stóð upp ok vakti liðit ok bað þá vápnast. Þeir hlupu þá á veggina, svá at af gengu nafarnar af timbrstokkunum. Þá kvað Innsteinn:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hálfur konungur gekk upp til bæjar Ásmundar konungs með helming liðs síns. Þar var fyrir fjölmenni mikið. Veizla var kappsamleg og drykkur svo sterkur, að Hálfsrekkar sofnuðu fast. Ásmundur konungur og hirðin lögðu eld í höllina. En sá, er fyrst vaknaði af Hálfsrekkum, sá höllina nær fulla af reyg. Hann mælti: \"Rjúka mun um hauka vára nú,\" sagði hann. Síðan lagðist hann niður og svaf. Þá vaknaði annar og sá, að höllin logaði, og mælti: \"Drjúpa mun nú vax af söxum.\" Sá lagðist niður. Og þá vaknaði Hálfur konungur. Hann stóð upp og vakti liðið og bað þá vápnast. Þeir hlupu þá á veggina, svo að af gengu nafarnar af timbrstokkunum. Þá kvað Innsteinn:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Rýkr um hauka",
+        "í höll konungs,",
+        "ván er, at drjúpi",
+        "vax af söxum.",
+        "Mál er gulli",
+        "ok gersimum,",
+        "hjálmum skipta",
+        "með Hálfsrekkum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Rýkur um hauka",
+        "í höll konungs,",
+        "von er, að drjúpi",
+        "vax af söxum.",
+        "Mál er gulli",
+        "og gersimum,",
+        "hjálmum skipta",
+        "með Hálfsrekkum."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Hins fýsi ek nú,",
+        "at Hálfr vaki;",
+        "eru-t af eklu",
+        "eldar kyndir.",
+        "Áttu, menbrjótr,",
+        "mági þínum",
+        "grimmlunduðum",
+        "gjafir launa."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Hins fýsi eg nú,",
+        "að Hálfur vaki;",
+        "eru-t af eklu",
+        "eldar kyndir.",
+        "Áttu, menbrjótur,",
+        "mági þínum",
+        "grimmlunduðum",
+        "gjafir launa."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Hrindum heilir",
+        "hallar bjóri.",
+        "Nú taka súlur",
+        "í sundr þoka.",
+        "Æ mun uppi,",
+        "meðan öld lifir,",
+        "Hálfsrekka för",
+        "til hertoga."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Hrindum heilir",
+        "hallar bjóri.",
+        "Nú taka súlur",
+        "í sundur þoka.",
+        "Æ mun uppi,",
+        "meðan öld lifir,",
+        "Hálfsrekka för",
+        "til hertoga."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Hart skulum ganga",
+        "ok hliða ekki við,",
+        "verðr vísis lið",
+        "at vega með söxum.",
+        "Þeir skulu sjálfir",
+        "á sér bera",
+        "blóðgar benjar,",
+        "áðr braki létti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Hart skulum ganga",
+        "og hliða ekki við,",
+        "verður vísis lið",
+        "að vega með söxum.",
+        "Þeir skulu sjálfir",
+        "á sér bera",
+        "blóðgar benjar,",
+        "áður braki létti."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Snúizk snarliga,",
+        "snyrtidrengir,",
+        "út ór eldi",
+        "með auðbrota.",
+        "Engi er ýta,",
+        "sá er æ lifir.",
+        "Mun-at baugbroti",
+        "við bana kvíða.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Snúizg snarlega,",
+        "snyrtidrengir,",
+        "út úr eldi",
+        "með auðbrota.",
+        "Enginn er ýta,",
+        "sá er æ lifir.",
+        "Mun-at baugbroti",
+        "við bana kvíða.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-p3",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Svá er hér sagt, at Hálfr konungr ok Hálfsrekkar kæmist út ór eldinum ok Hálfr konungr felli fyrir ofrefli liðs ok sveit hans. Innsteinn kvað, er konungr var fallinn:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Svo er hér sagt, að Hálfur konungur og Hálfsrekkar kæmist út úr eldinum og Hálfur konungur félli fyrir ofurefli liðs og sveit hans. Innsteinn kvað, er konungur var fallinn:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Hér sá ek alla",
+        "einum fylgja",
+        "jafnröskliga",
+        "öðlings syni.",
+        "Hittumk heilir,",
+        "þá heðan líðum,",
+        "er-at léttara",
+        "líf en dauði.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Hér sá eg alla",
+        "einum fylgja",
+        "jafnrösklega",
+        "öðlings syni.",
+        "Hittumk heilir,",
+        "þá héðan líðum,",
+        "er-at léttara",
+        "líf en dauði.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-p4",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þá kómu Hálfsrekkar til orrustu, þeir sem við skip höfðu verit. Þar fell mikill hlutr Hálfsrekka. Orrustan helzt allt til nætr, áðr Innsteinn fell. Innsteinn kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þá komu Hálfsrekkar til orustu, þeir sem við skip höfðu verið. Þar féll mikill hlutur Hálfsrekka. Orrustan hélst allt til nætur, áður Innsteinn féll. Innsteinn kvað:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Hrókr er fallin",
+        "með hertoga",
+        "frækn at fótum",
+        "fólks oddvita.",
+        "Eigum Óðni",
+        "illt at gjalda,",
+        "er hann slíkan konung",
+        "sigri rænti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Hrókur er fallin",
+        "með hertoga",
+        "frækn að fótum",
+        "fólks oddvita.",
+        "Eigum Óðni",
+        "illt að gjalda,",
+        "er hann slíkan konung",
+        "sigri rænti."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Ek hefi úti",
+        "átján sumur",
+        "fylgt fullhuga",
+        "flein at rjóða.",
+        "Skalk-at annan",
+        "eiga dróttin",
+        "gunnar gjarnan",
+        "né gamall verða."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Eg hef úti",
+        "átjon sumur",
+        "fylgt fullhuga",
+        "flein að rjóða.",
+        "Skalk-at annan",
+        "eiga dróttin",
+        "gunnar gjarnan",
+        "né gamall verða."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrl-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Hér mun Innsteinn",
+        "til jarðar hníga",
+        "horskr at höfði",
+        "hers oddvita.",
+        "Þat munu seggir",
+        "at sögum gera,",
+        "at Hálfr konungr",
+        "hlæjandi dó.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Hér mun Innsteinn",
+        "til jarðar hníga",
+        "horskur að höfði",
+        "hers oddvita.",
+        "Það munu seggir",
+        "að sögum gera,",
+        "að Hálfur konungur",
+        "hlæjandi dó.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [],
+   "en_source": null,
+   "en_missing_note": "No public-domain English translation is in this edition yet."
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Hálfsrekkaljóð)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": null
+ }
+}

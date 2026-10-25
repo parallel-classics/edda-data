@@ -1,0 +1,2247 @@
+{
+ "part": "poetic",
+ "poem": "alv",
+ "title": "Alvíssmál",
+ "group": "myth",
+ "chapters": [
+  {
+   "num": 10,
+   "key": "alv",
+   "title": "Alvíssmál",
+   "subtitle": null,
+   "group": "myth",
+   "rows": [
+    {
+     "id": "alv-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Bekki breiða,",
+        "nú skal brúðr með mér",
+        "heim í sinni snúask;",
+        "hratat um mægi",
+        "mun hverjum þykkja,",
+        "heima skal-at hvíld nema.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Bekki breiða,",
+        "nú skal brúður með mér",
+        "heim í sinni snúast;",
+        "hratað um mægi",
+        "mun hverjum þykja,",
+        "heima skal-at hvíld nema.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Alvis spake:",
+        "\"Now shall the bride | my benches adorn,",
+        "And homeward haste forthwith;",
+        "Eager for wedlock | to all shall I seem,",
+        "Nor at home shall they rob me of rest.\"⟦1⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Hvat er þat fira?",
+        "Hví ertu svá fölr um nasar?",
+        "Vartu í nótt með ná?",
+        "Þursa líki",
+        "þykki mér á þér vera;",
+        "ert-at-tu til brúðar borinn.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Hvað er það firra?",
+        "Hví ertu svo fölur um nasar?",
+        "Vartu í nótt með ná?",
+        "Þursa líki",
+        "þyki mér á þér vera;",
+        "ert-at-tu til brúðar borinn.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Thor spake:",
+        "\"What, pray, art thou? | Why so pale round the nose?",
+        "By the dead hast thou lain of late?",
+        "To a giant like | dost thou look, methinks;",
+        "Thou wast not born for the bride.\"⟦2⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Alvíss ek heiti,",
+        "bý ek fyr jörð neðan,",
+        "á ek undir steini stað;",
+        "vagna vers",
+        "ek em á vit kominn;",
+        "bregði engi föstu heiti fira.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Alvíss eg heiti,",
+        "bý eg fyr jörð neðan,",
+        "á eg undir steini stað;",
+        "vagna vers",
+        "eg em á vit kominn;",
+        "bregði enginn föstu heiti firra.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Alvis spake:",
+        "\"Alvis am I, | and under the earth",
+        "My home 'neath the rocks I have;",
+        "With the wagon-guider | a word do I seek;",
+        "Let the gods their bond not break.\"⟦3⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Ek mun bregða",
+        "því at ek brúðar á",
+        "flest of ráð sem faðir;",
+        "vark-a ek heima,",
+        "þá er þér heitit var,",
+        "at sá einn, er gjöf er, með goðum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Eg mun bregða",
+        "því að eg brúðar á",
+        "flest of ráð sem faðir;",
+        "vark-a eg heima,",
+        "þá er þér heitið var,",
+        "að sá einn, er gjöf er, með goðum.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Thor spake:",
+        "\"Break it shall I, | for over the bride",
+        "Her father has foremost right;",
+        "At home was I not | when the promise thou hadst,",
+        "And I give her alone of the gods.\"⟦4⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Hvat er þat rekka,",
+        "er í ráðum telsk",
+        "fljóðs ins fagrglóa?",
+        "Fjarrafleina",
+        "þik munu fáir kunna;",
+        "hverr hefr þik baugum borit?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Hvað er það rekka,",
+        "er í ráðum telst",
+        "fljóðs hins fagrglóa?",
+        "Fjarrafleina",
+        "þig munu fáir kunna;",
+        "hver hefur þig baugum borið?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Alvis spake:",
+        "\"What hero claims | such right to hold",
+        "O'er the bride that shines so bright?",
+        "Not many will know thee, | thou wandering man!",
+        "Who was bought with rings to bear thee?\"⟦5⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Vingþórr ek heiti,",
+        "ek hef víða ratat,",
+        "sonr em ek Síðgrana;",
+        "at ósátt minni skal-at-tu",
+        "þat it unga man hafa",
+        "ok þat gjaforð geta.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Vingþór eg heiti,",
+        "eg hef víða ratað,",
+        "sonur em eg Síðgrana;",
+        "að ósátt minni skal-at-tu",
+        "það it unga man hafa",
+        "og það gjaforð geta.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Thor spake:",
+        "\"Vingthor, the wanderer | wide, am I,",
+        "And I am Sithgrani's son;",
+        "Against my will | shalt thou get the maid,",
+        "And win the marriage word.\"⟦6⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Sáttir þínar",
+        "er ek vil snemma hafa",
+        "ok þat gjaforð geta;",
+        "eiga vilja",
+        "heldr en án vera",
+        "þat it mjallhvíta man.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Sáttir þínar",
+        "er eg vil snemma hafa",
+        "og það gjaforð geta;",
+        "eiga vilja",
+        "heldur en án vera",
+        "það it mjallhvíta man.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Alvis spake:",
+        "\"Thy good-will now | shall I quickly get,",
+        "And win the marriage word;",
+        "I long to have, | and I would not lack,",
+        "This snow-white maid for mine.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Meyjar ástum",
+        "mun-a þér verða,",
+        "vísi gestr, of varit,",
+        "ef þú ór heimi kannt",
+        "hverjum at segja",
+        "allt þat, er ek vil vita.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Meyjar ástum",
+        "mun-a þér verða,",
+        "vísi gestur, of varið,",
+        "ef þú úr heimi kanntu",
+        "hverjum að segja",
+        "allt það, er eg vil vita.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Thor spake:",
+        "\"The love of the maid | I may not keep thee",
+        "From winning, thou guest so wise,",
+        "If of every world | thou canst tell me all",
+        "That now I wish to know.⟦8⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Segðu mér þat, Alvíss,",
+        "- öll of rök fira",
+        "vörumk, dvergr, at vitir -:",
+        "hvé sú jörð heitir,",
+        "er liggr fyr alda sonum",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Segðu mér það, Alvíss,",
+        "- öll of rög firra",
+        "vörumk, dvergur, að vitir -:",
+        "hve sú jörð heitir,",
+        "er liggur fyr alda sonum",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Answer me, Alvis! | thou knowest all,",
+        "Dwarf, of the doom of men:",
+        "What call they the earth, | that lies before all,",
+        "In each and every world?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Jörð heitir með mönnum,",
+        "en með ásum fold,",
+        "kalla vega vanir,",
+        "ígræn jötnar,",
+        "alfar gróandi,",
+        "kalla aur uppregin.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Jörð heitir með mönnum,",
+        "en með ásum fold,",
+        "kalla vega vanir,",
+        "ígræn jötnar,",
+        "alfar gróandi,",
+        "kalla aur uppregin.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Alvis spake:",
+        "\"'Earth' to men, 'Field' | to the gods it is,",
+        "'The Ways' is it called by the Wanes;",
+        "'Ever Green' by the giants, | 'The Grower' by elves,",
+        "'The Moist' by the holy ones high.\"⟦10⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Segðu mér þat, Alvíss,",
+        "- öll of rök fira",
+        "vörumk, dvergr, at vitir -:",
+        "hvé sá himinn heitir,",
+        "erakendi,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Segðu mér það, Alvíss,",
+        "- öll of rög firra",
+        "vörumk, dvergur, að vitir -:",
+        "hve sá himinn heitir,",
+        "erakendi,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Thor spake:",
+        "\"Answer me, Alvis! | thou knowest all,",
+        "Dwarf, of the doom of men:",
+        "What call they the heaven, | beheld of the high one,",
+        "In each and every world?\"⟦11⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Himinn heitir með mönnum,",
+        "en hlýrnir með goðum,",
+        "kalla vindófni vanir,",
+        "uppheim jötnar,",
+        "alfar fagraræfr,",
+        "dvergar drjúpansal.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Himinn heitir með mönnum,",
+        "en hlýrnir með goðum,",
+        "kalla vindófni vanir,",
+        "uppheim jötnar,",
+        "alfar fagraræfur,",
+        "dvergar drjúpansal.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Alvis spake:",
+        "\"'Heaven' men call it, | 'The Height' the gods,",
+        "The Wanes 'The Weaver of Winds';",
+        "Giants 'The Up-World,' | elves 'The Fair-Roof,'",
+        "The dwarfs 'The Dripping Hall.'\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Segðu mér þat, Avlíss,",
+        "- öll of rök fira",
+        "vörumk, dvergr, at vitir -:",
+        "hversu máni heitir,",
+        "sá er menn séa,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Segðu mér það, Avlíss,",
+        "- öll of rög firra",
+        "vörumk, dvergur, að vitir -:",
+        "hversu máni heitir,",
+        "sá er menn séa,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Thor spake:",
+        "\"Answer me, Alvis! | thou knowest all,",
+        "Dwarf, of the doom of men:",
+        "What call they the moon, | that men behold,",
+        "In each and every world?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Máni heitir með mönnum,",
+        "en mylinn með goðum,",
+        "kalla hverfanda hvél helju í,",
+        "skyndi jötnar,",
+        "en skin dvergar,",
+        "kalla alfar ártala.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Máni heitir með mönnum,",
+        "en mylinn með goðum,",
+        "kalla hverfanda hvél Helju í,",
+        "skyndi jötnar,",
+        "en skin dvergar,",
+        "kalla alfar ártala.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Alvis spake:",
+        "\"'Moon' with men, 'Flame' | the gods among,",
+        "'The Wheel' in the house of hell;",
+        "'The Goer' the giants, | 'The Gleamer' the dwarfs.",
+        "The elves 'The Teller of Time.'\"⟦14⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Segðu mér þat, Alvíss,",
+        "- öll of rök fira",
+        "vörumk, dvergr, at vitir -:",
+        "hvé sú sól heitir,",
+        "er séa alda synir,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Segðu mér það, Alvíss,",
+        "- öll of rög firra",
+        "vörumk, dvergur, að vitir -:",
+        "hve sú sól heitir,",
+        "er séa alda synir,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Thor spake:",
+        "\"Answer me, Alvis! | thou knowest all,",
+        "Dwarf, of the doom of men:",
+        "What call they the sun, | that all men see,",
+        "In each and every world?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      15
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Sól heitir með mönnum,",
+        "en sunna með goðum,",
+        "kalla dvergar Dvalins leika,",
+        "eygló jötnar,",
+        "alfar fagrahvél,",
+        "alskír ása synir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Sól heitir með mönnum,",
+        "en sunna með goðum,",
+        "kalla dvergar Dvalins leika,",
+        "eygló jötnar,",
+        "alfar fagrahvél,",
+        "alskír ása synir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Alvis spake:",
+        "\"Men call it 'Sun,' | gods 'Orb of the Sun,'",
+        "'The Deceiver of Dvalin' the dwarfs;",
+        "The giants 'The Ever-Bright,' | elves 'Fair Wheel,'",
+        "'All-Glowing' the sons of the gods.\"⟦16⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      16
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Segðu mér þat, Alvíss,",
+        "- öll of rök fira",
+        "vörumk, dvergr, at vitir -:",
+        "hvé þau ský heita,",
+        "er skúrum blandask,",
+        "heimi hverjum í?"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Segðu mér það, Alvíss,",
+        "- öll of rög firra",
+        "vörumk, dvergur, að vitir -:",
+        "hve þau ský heita,",
+        "er skúrum blandast,",
+        "heimi hverjum í?"
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Thor spake:",
+        "\"Answer me, Alvis! | thou knowest all,",
+        "Dwarf, of the doom of men:",
+        "What call they the clouds, | that keep the rains,",
+        "In each and every world?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      17
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Ský heita með mönnum,",
+        "en skúrván með goðum,",
+        "kalla vindflot vanir,",
+        "úrván jötnar,",
+        "alfar veðrmegin,",
+        "kalla í helju hjalm huliðs.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Ský heita með mönnum,",
+        "en skúrvon með goðum,",
+        "kalla vindflot vanir,",
+        "úrvon jötnar,",
+        "alfar veðrmegin,",
+        "kalla í Helju hjalm huliðs.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Alvis spake:",
+        "\"'Clouds' men name them, | 'Rain-Hope' gods call them.",
+        "The Wanes call them 'Kites of the Wind';",
+        "'Water-Hope' giants, | 'Weather-Might' elves,",
+        "'The Helmet of Secrets' in hell.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      18
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Segðu mér þat, Alvíss,",
+        "- öll of rök fira",
+        "vörumk, dvergr, at vitir -:",
+        "hvé sá vindr heitir,",
+        "er víðast ferr,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Segðu mér það, Alvíss,",
+        "- öll of rög firra",
+        "vörumk, dvergur, að vitir -:",
+        "hve sá vindur heitir,",
+        "er víðast fer,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Thor spake:",
+        "\"Answer me, Alvis! | thou knowest all,",
+        "Dwarf, of the doom of men:",
+        "What call they the wind, | that widest fares,",
+        "In each and every world?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Vindr heitir með mönnum,",
+        "en váfuðr með goðum,",
+        "kalla gneggjuð ginnregin,",
+        "æpi jötnar,",
+        "alfar dynfara,",
+        "kalla í helju hviðuð.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Vindur heitir með mönnum,",
+        "en váfuður með goðum,",
+        "kalla gneggjuð ginnregin,",
+        "æpi jötnar,",
+        "alfar dynfara,",
+        "kalla í Helju hviðuð.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Alvis spake:",
+        "\"'Wind' do men call it, | the gods 'The Waverer,'",
+        "'The Neigher' the holy ones high;",
+        "'The Wailer' the giants, | 'Roaring Wender' the elves,",
+        "In hell 'The Blustering Blast.'\"⟦20⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      20
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "s-c74-2"
+     ]
+    },
+    {
+     "id": "alv-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Segðu mér þat, Alvíss,",
+        "- öll of rök fira",
+        "vörumk, dvergr, at vitir -:",
+        "hvé þat logn heitir,",
+        "er liggja skal,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Segðu mér það, Alvíss,",
+        "- öll of rög firra",
+        "vörumk, dvergur, að vitir -:",
+        "hve það logn heitir,",
+        "er liggja skal,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Thor spake:",
+        "\"Answer me, Alvis! | thou knowest all,",
+        "Dwarf, of the doom of men:",
+        "What call they the calm, | that quiet lies,",
+        "In each and every world?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      21
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Logn heitir með mönnum,",
+        "en lægi með goðum,",
+        "kalla vindlot vanir,",
+        "ofhlý jötnar,",
+        "alfar dagsefa,",
+        "kalla dvergar dags veru.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Logn heitir með mönnum,",
+        "en lægi með goðum,",
+        "kalla vindlot vanir,",
+        "ofhlý jötnar,",
+        "alfar dagsefa,",
+        "kalla dvergar dags veru.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Alvis spake:",
+        "\"'Calm' men call it, | 'The Quiet' the gods.",
+        "The Wanes 'The Hush of the Winds';",
+        "'The Sultry' the giants, | elves 'Day's Stillness,'",
+        "The dwarfs 'The Shelter of Day.'\"⟦22⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      22
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Segðu mér þat, Alvíss,",
+        "- öll of rök fira",
+        "vörumk, dvergr, at vitir -:",
+        "hvé sá marr heitir,",
+        "er menn róa,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Segðu mér það, Alvíss,",
+        "- öll of rög firra",
+        "vörumk, dvergur, að vitir -:",
+        "hve sá mar heitir,",
+        "er menn róa,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Thor spake:",
+        "\"Answer me, Alvis! | thou knowest all,",
+        "Dwarf, of the doom of men:",
+        "What call they the sea, | whereon men sail,",
+        "In each and every world?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      23
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Sær heitir með mönnum,",
+        "en sílægja með goðum,",
+        "kalla vág vanir,",
+        "álheim jötnar,",
+        "alfar lagastaf,",
+        "kalla dvergar djúpan mar.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Sær heitir með mönnum,",
+        "en sílægja með goðum,",
+        "kalla vág vanir,",
+        "álheim jötnar,",
+        "alfar lagastaf,",
+        "kalla dvergar djúpan mar.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Alvis spake:",
+        "\"'Sea' men call it, | gods 'The Smooth-Lying,'",
+        "'The Wave' is it called by the Wanes;",
+        "'Eel-Home' the giants, | 'Drink-Stuff' the elves,",
+        "For the dwarfs its name is 'The Deep.'\"⟦24⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      24
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Segðu mér þat, Alvíss,",
+        "- öll of rök fira",
+        "vörumk, dvergr, at vitir -:",
+        "hvé sá eldr heitir,",
+        "er brennr fyr alda sonum,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Segðu mér það, Alvíss,",
+        "- öll of rög firra",
+        "vörumk, dvergur, að vitir -:",
+        "hve sá eldur heitir,",
+        "er brennur fyr alda sonum,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Thor spake:",
+        "\"Answer me, Alvis! | thou knowest all,",
+        "Dwarf, of the doom of men:",
+        "What call they the fire, | that flames for men,",
+        "In each of all the worlds?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      25
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Eldr heitir með mönnum,",
+        "en með ásum funi,",
+        "kalla vág vanir,",
+        "frekan jötnar,",
+        "en forbrenni dvergar,",
+        "kalla í helju hröðuð.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Eldur heitir með mönnum,",
+        "en með ásum funi,",
+        "kalla vág vanir,",
+        "frekan jötnar,",
+        "en forbrenni dvergar,",
+        "kalla í Helju hröðuð.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Alvis spake:",
+        "\"'Fire' men call it, | and 'Flame' the gods,",
+        "By the Wanes is it 'Wildfire' called;",
+        "'The Biter' by giants, | 'The Burner' by dwarfs,",
+        "'The Swift' in the house of hell.\"⟦26⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      26
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Segðu mér þat, Alvíss,",
+        "- öll of rök fira",
+        "vörumk, dvergr, at vitir -:",
+        "hvé viðr heitir,",
+        "er vex fyr alda sonum,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Segðu mér það, Alvíss,",
+        "- öll of rög firra",
+        "vörumk, dvergur, að vitir -:",
+        "hve viður heitir,",
+        "er vex fyr alda sonum,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Thor spake:",
+        "\"Answer me, Alvis! | thou knowest all,",
+        "Dwarf, of the doom of men:",
+        "What call they the wood, | that grows for man-kind,",
+        "In each and every world?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      27
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s28",
+     "stanza": 28,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Viðr heitir með mönnum,",
+        "en vallarfax með goðum,",
+        "kalla hlíðþang halir,",
+        "eldi jötnar",
+        "alfar fagrlima,",
+        "kalla vönd vanir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Viður heitir með mönnum,",
+        "en vallarfax með goðum,",
+        "kalla hlíðþang halir,",
+        "eldi jötnar",
+        "alfar fagrlima,",
+        "kalla vönd vanir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Alvis spake:",
+        "\"Men call it 'The Wood,' | gods 'The Mane of the Field,'",
+        "'Seaweed of Hills' in hell;",
+        "'Flame-Food' the giants, | 'Fair-Limbed' the elves,",
+        "'The Wand' is it called by the Wanes.\"⟦28⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      28
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s29",
+     "stanza": 29,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Segðu mér þat, Alvíss,",
+        "- öll of rök fira",
+        "vörumk, dvergr,at vitir,",
+        "hvé sú nótt heitir,",
+        "in Nörvi kennda,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Segðu mér það, Alvíss,",
+        "- öll of rög firra",
+        "vörumk, dvergur,að vitir,",
+        "hve sú nótt heitir,",
+        "hin Nörvi kennda,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Thor spake:",
+        "\"Answer me, Alvis! | thou knowest all,",
+        "Dwarf, of the doom of men:",
+        "What call they the night, | the daughter of Nor,",
+        "In each and every world?\"⟦29⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      29
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s30",
+     "stanza": 30,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"Nótt heitir með mönnum,",
+        "en njól með goðum,",
+        "kalla grímu ginnregin,",
+        "óljós jötnar,",
+        "alfar svefngaman,",
+        "kalla dvergar draumnjörun.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"Nótt heitir með mönnum,",
+        "en njól með goðum,",
+        "kalla grímu ginnregin,",
+        "óljós jötnar,",
+        "alfar svefngaman,",
+        "kalla dvergar draumnjörun.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Alvis spake:",
+        "\"'Night' men call it, | 'Darkness' gods name it,",
+        "'The Hood' the holy ones high;",
+        "The giants 'The Lightless,' | the elves 'Sleep's Joy,'",
+        "The dwarfs 'The Weaver of Dreams.'\"⟦30⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      30
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "s-c78-2"
+     ]
+    },
+    {
+     "id": "alv-s31",
+     "stanza": 31,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Segðu mér þat, Alvíss,",
+        "- öll of rök fira",
+        "vörumk, dvergr, at vitir -:",
+        "hvé þat sáð heitir,",
+        "er sá alda synir,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Segðu mér það, Alvíss,",
+        "- öll of rög firra",
+        "vörumk, dvergur, að vitir -:",
+        "hve það sáð heitir,",
+        "er sá alda synir,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Thor spake:",
+        "\"Answer me, Alvis! | thou knowest all,",
+        "Dwarf, of the doom of men:",
+        "What call they the seed, | that is sown by men,",
+        "In each and every world?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      31
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s32",
+     "stanza": 32,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Bygg heitir með mönnum,",
+        "en barr með goðum,",
+        "kalla vöxt vanir,",
+        "æti jötnar,",
+        "alfar lagastaf,",
+        "kalla í helju hnipin.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Bygg heitir með mönnum,",
+        "en barr með goðum,",
+        "kalla vöxt vanir,",
+        "æti jötnar,",
+        "alfar lagastaf,",
+        "kalla í Helju hnipin.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Alvis spake:",
+        "\"Men call it 'Grain,' | and 'Corn' the gods,",
+        "'Growth' in the world of the Wanes;",
+        "'The Eaten' by giants, | 'Drink-Stuff' by elves,",
+        "In hell 'The Slender Stem.'\"⟦32⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      32
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s33",
+     "stanza": 33,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Segðu mér þat, Alvíss,",
+        "- öll of rök fira",
+        "vörumk, dvergr, at vitir -:",
+        "hvé þat öl heitir,",
+        "er drekka alda synir,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Segðu mér það, Alvíss,",
+        "- öll of rög firra",
+        "vörumk, dvergur, að vitir -:",
+        "hve það öl heitir,",
+        "er drekka alda synir,",
+        "heimi hverjum í?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Thor spake:",
+        "\"Answer me, Alvis! | thou knowest all,",
+        "Dwarf, of the doom of men:",
+        "What call they the ale, | that is quaffed of men,",
+        "In each and every world?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      33
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s34",
+     "stanza": 34,
+     "on": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Öl heitir með mönnum,",
+        "en með ásum bjórr,",
+        "kalla veig vanir,",
+        "hreinalög jötnar,",
+        "en í helju mjöð,",
+        "kalla sumbl Suttungs synir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Alvíss kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Öl heitir með mönnum,",
+        "en með ásum bjór,",
+        "kalla veig vanir,",
+        "hreinalög jötnar,",
+        "en í Helju mjöð,",
+        "kalla sumbl Suttungs synir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Alvis spake:",
+        "\"'Ale' among men, | 'Beer' the gods among,",
+        "In the world of the Wanes 'The Foaming';",
+        "'Bright Draught' with giants, | 'Mead' with dwellers in hell,",
+        "'The Feast-Draught' with Suttung's sons.\"⟦34⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      34
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "alv-s35",
+     "stanza": 35,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "\"Í einu brjósti",
+        "ek sák aldrigi",
+        "fleiri forna stafi;",
+        "miklum tálum",
+        "kveð ek tældan þik:",
+        "Uppi ertu, dvergr, of dagaðr,",
+        "nú skínn sól í sali.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "\"Í einu brjósti",
+        "eg ság aldrigi",
+        "fleiri forna stafi;",
+        "miklum tálum",
+        "kveð eg tældan þig:",
+        "Uppi ertu, dvergur, of dagaður,",
+        "nú skín sól í sali.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Thor spake:",
+        "\"In a single breast | I never have seen",
+        "More wealth of wisdom old;",
+        "But with treacherous wiles | must I now betray thee:",
+        "The day has caught thee, dwarf!",
+        "(Now the sun shines here in the hall.)\"⟦35⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      35
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "1",
+     "s": "Alvis (\"All-Knowing\"): a dwarf, not elsewhere mentioned. The manuscript nowhere indicates the speakers' names. The bride in question is Thor's daughter; Thruth (\"Might\") is the only daughter of his whose name is recorded, and she does not appear elsewhere in the poems. Her mother was Sif, Thor's wife, whereas the god's sons were born of a giantess. Benches: cf. Lokasenna, 15 and note."
+    },
+    {
+     "n": "2",
+     "s": "The dwarfs, living beyond the reach of the sun, which was fatal to them (cf. stanzas 16 and 35), were necessarily pale. Line 3 is, of course, ironical."
+    },
+    {
+     "n": "3",
+     "s": "Wagon-guider: Thor, who travels habitually on his goat-drawn wagon. Bugge changes \"Vagna vers\" to \"Vapna verþs,\" rendering the line \"I am come to seek  the cost of the weapons.\" In either case, Alvis does not as yet recognize Thor."
+    },
+    {
+     "n": "4",
+     "s": "Apparently the gods promised Thor's daughter in marriage to Alvis during her father's absence, perhaps as a reward for some craftsmanship of his (cf. Bugge's suggestion as to stanza 3). The text of line 4 is most uncertain."
+    },
+    {
+     "n": "5",
+     "s": "Hero: ironically spoken; Alvis takes Thor for a tramp, the god's uncouth appearance often leading to such mistakes; cf. Harbarthsljoth, 6. Line 4 is a trifle uncertain; some editors alter the wording to read \"What worthless woman bore thee?\""
+    },
+    {
+     "n": "6",
+     "s": "Vingthor (\"Thor the Hurler\"): cf. Thrymskvitha, 1. Sithgrani (\"Long-Beard\"): Othin."
+    },
+    {
+     "n": "8",
+     "s": "Every world: concerning the nine worlds, cf. Voluspo, 2 and note. Many editors follow this stanza with one spoken by Alvis, found in late paper manuscripts, as follows: \"Ask then, Vingthor,  since eager thou art / The lore of the dwarf to learn; / Oft have I fared  in the nine worlds all, / And wide is my wisdom of each.\""
+    },
+    {
+     "n": "10",
+     "s": "Men, etc.: nothing could more clearly indicate the author's mythological inaccuracy than his confusion of the inhabitants of the nine worlds. Men (dwellers in Mithgarth) appear in each of Alvis's thirteen answers; so do the gods (Asgarth) and the giants (Jotunheim). The elves (Alfheim) appear in eleven answers, the Wanes (Vanaheim) in nine, and the dwarfs (who occupied no special world, unless one identifies them with the dark elves of Svartalfaheim) in seven. The dwellers \"in hell\" appear in six stanzas; the phrase probably refers to the world of the dead, though Mogk thinks it may mean the dwarfs. In stanzas where the gods are already listed appear names elsewhere applied only to them,—\"holy ones,\" \"sons of the gods\" and \"high ones,\"—as if these names meant beings of a separate race. \"Men\" appears twice in the same stanza, and so do the giants, if one assumes that they are \"the sons of Suttung.\" Altogether it is useless to pay much attention to the mythology of Alvis's replies."
+    },
+    {
+     "n": "11",
+     "s": "Lines 1, 2, and 4 of Thor's questions are regularly abbreviated in the manuscript. Beheld, etc.: the word in the manuscript is almost certainly an error, and all kinds of guesses have been made to rectify it. All that can be said is that it means \"beheld of\" or \"known to\" somebody."
+    },
+    {
+     "n": "14",
+     "s": "Flame: a doubtful word; Vigfusson suggests that it properly means a \"mock sun.\" Wheel: the manuscript adds the adjective \"whirling,\" to the destruction of the metre; cf. Hovamol, 84, 3."
+    },
+    {
+     "n": "16",
+     "s": "Deceiver of Dvalin: Dvalin was one of the foremost dwarfs; cf. Voluspo, 14, Fafnismol, 13, and Hovamol, 144. The sun \"deceives\" him because, like the other dwarfs living underground, he cannot live in its light, and always fears lest sunrise may catch him unaware. The sun's rays have power to turn the dwarfs into stone, and the giantess Hrimgerth meets a similar fate (cf. Helgakvitha Hjorvarthssonar, 30). Alvis suffers in the same way; cf. stanza 35."
+    },
+    {
+     "n": "20",
+     "s": "Snorri quotes this stanza in the Skaldskaparmal. Waverer: the word is uncertain, the Prose Edda manuscripts giving it in various forms. Blustering Blast: two Prose Edda manuscripts give a totally different word, meaning \"The Pounder.\""
+    },
+    {
+     "n": "22",
+     "s": "Hush, etc.: the manuscript, by inserting an additional letter, makes the word practically identical with that translated \"Kite\" in stanza 18. Most editors have agree as to the emendation."
+    },
+    {
+     "n": "24",
+     "s": "Drink-Stuff: Gering translates the word thus; I doubt it, but can suggest nothing better."
+    },
+    {
+     "n": "26",
+     "s": "Wildfire: the word may mean any one of various things, including \"Wave,\" which is not unlikely."
+    },
+    {
+     "n": "28",
+     "s": "In hell: the word simply means \"men,\" and it is only a guess, though a generally accepted one, that here it refers to the dead."
+    },
+    {
+     "n": "29",
+     "s": "Nor: presumably the giant whom Snorri calls Norvi or Narfi, father of Not (Night) and grandfather of Dag (Day). Cf. Vafthruthnismol, 25."
+    },
+    {
+     "n": "30",
+     "s": "Snorri quotes this stanza in the Skaldskaparmal. The various Prose Edda manuscripts differ considerably in naming the gods, the giants, etc. Lightless: some manuscripts have \"The Unsorrowing.\""
+    },
+    {
+     "n": "32",
+     "s": "Grain: the two words translated \"grain\" and \"corn\" apparently both meant primarily barley, and thence grain in general, the first being the commoner term of the two. Drink-Stuff: the word is identical with the one used, and commented on, in stanza 24, and again I have followed Gering's interpretation for want of a better one. If his guess is correct, the reference here is evidently to grain as the material from which beer and other drinks are brewed."
+    },
+    {
+     "n": "34",
+     "s": "Suttung's sons: these ought to be the giants, but the giants are specifically mentioned in line 3. The phrase \"Suttung's sons\" occurs in Skirnismol, 34, clearly meaning the giants. Concerning Suttung as the possessor of the mead of poetry, cf. Hovamol, 104."
+    },
+    {
+     "n": "35",
+     "s": "Concerning the inability of the dwarfs to endure sunlight, which turns them into stone, cf. stanza 16 and note. Line 5 may be spurious."
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "No better summary of the Alvissmol can be given than Gering's statement that \"it is a versified chapter from the skaldic Poetics.\" The narrative skeleton, contained solely in stanzas 1-8 and in 35, is of the slightest; the dwarf Alvis, desirous of marrying Thor's daughter, is compelled by the god to answer a number of questions to test his knowledge. That all his answers are quite satisfactory makes no difference whatever to the outcome. The questions and answers differ radically from those of the Vafthruthnismol. Instead of being essentially mythological, they all concern synonyms. Thor asks what the earth, the sky, the moon, and so on, are called \"in each of all the worlds,\" but there is no apparent significance in the fact that the gods call the earth one thing and the giants call it another; the answers are simply strings of poetic circumlocutions, or \"kennings.\" Concerning the use of these \"kennings\" in skaldic poetry, cf. introductory note to the Hymiskvitha.",
+    "Mogk is presumably right in dating the poem as late as the twelfth century, assigning it to the period of \"the Icelandic renaissance of skaldic poetry.\" It appears to have been the work of a man skilled in poetic construction,—Thor's questions, for instance, are neatly balanced in pairs,—and fully familiar with the intricacies of skaldic diction, but distinctly weak in his mythology. In other words, it is learned rather than spontaneous poetry. Finnur Jonsson's attempt to make it a tenth century Norwegian poem baffles logic. Vigfusson is pretty sure the poem shows marked traces of Celtic influence, which is by no means incompatible with Mogk's theory (cf. introductory note to the Rigsthula).",
+    "The poem is found only in Regius, where it follows the Thrymskvitha. Snorri quotes stanzas 20 and 30, the manuscripts of the Prose Edda giving the name of the poem as Alvissmol, Alsvinnsmol or Olvismol. It is apparently in excellent condition, without serious errors of transmission, although interpolations or omissions in such a poem might have been made so easily as to defy detection.",
+    "The translation of the many synonyms presents, of course, unusual difficulties, particularly as many of the Norse words can be properly rendered in English only by more or less extended phrases. I have kept to the original meanings as closely as I could without utterly destroying the metrical structure."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Alvíssmál)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Alvissmol"
+ }
+}

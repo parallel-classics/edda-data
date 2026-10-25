@@ -1,0 +1,2160 @@
+{
+ "part": "poetic",
+ "poem": "hdl",
+ "title": "Hyndluljóð",
+ "group": "myth",
+ "chapters": [
+  {
+   "num": 13,
+   "key": "hdl",
+   "title": "Hyndluljóð",
+   "subtitle": null,
+   "group": "myth",
+   "rows": [
+    {
+     "id": "hdl-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "p",
+       "s": "Freyja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Vaki mær meyja,",
+        "vaki mín vina,",
+        "Hyndla systir,",
+        "er í helli býr;",
+        "nú er rökkr rökkra,",
+        "ríða vit skulum",
+        "til Valhallar",
+        "ok til vés heilags."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Freyja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Vaki mær meyja,",
+        "vaki mín vina,",
+        "Hyndla systir,",
+        "er í helli býr;",
+        "nú er rökkur rökkra,",
+        "ríða vit skulum",
+        "til Valhallar",
+        "og til vés heilags."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Freyja spake:",
+        "\"Maiden, awake! | wake thee, my friend,",
+        "My sister Hyndla, | in thy hollow cave!",
+        "Already comes darkness, | and ride must we",
+        "To Valhall to seek | the sacred hall.⟦1⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Biðjum Herjaföðr",
+        "í hugum sitja,",
+        "hann geldr ok gefr",
+        "gull verðungu;",
+        "gaf hann Hermóði",
+        "hjalm ok brynju,",
+        "en Sigmundi",
+        "sverð at þiggja."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Biðjum Herjaföður",
+        "í hugum sitja,",
+        "hann geldur og gefur",
+        "gull verðungu;",
+        "gaf hann Hermóði",
+        "hjalm og brynju,",
+        "en Sigmundi",
+        "sverð að þiggja."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"The favor of Heerfather | seek we to find,",
+        "To his followers gold | he gladly gives;",
+        "To Hermoth gave he | helm and mail-coat,",
+        "And to Sigmund he gave | a sword as gift.⟦2⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Gefr hann sigr sumum,",
+        "en sumum aura,",
+        "mælsku mörgum",
+        "ok mannvit firum;",
+        "byri gefr hann brögnum,",
+        "en brag skaldum,",
+        "gefr hann mannsemi",
+        "mörgum rekki."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Gefur hann sigur sumum,",
+        "en sumum aura,",
+        "mælsku mörgum",
+        "og manvit firum;",
+        "byri gefur hann brögnum,",
+        "en brag skaldum,",
+        "gefur hann mannsemi",
+        "mörgum rekki."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Triumph to some, | and treasure to others,",
+        "To many wisdom | and skill in words,",
+        "Fair winds to the sailor, | to the singer his art,",
+        "And a manly heart | to many a hero.⟦3⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Þórr mun hon blóta,",
+        "þess mun hon biðja,",
+        "at hann æ við þik",
+        "einart láti;",
+        "þó er hánum ótítt",
+        "við jötuns brúðir."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Þór mun hún blóta,",
+        "þess mun hún biðja,",
+        "að hann æ við þig",
+        "einart láti;",
+        "þó er hánum ótítt",
+        "við jötuns brúðir."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Thor shall I honor, | and this shall I ask,",
+        "That his favor true | mayst thou ever find;",
+        "..............................",
+        "Though little the brides | of the giants he loves.⟦4⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Nú taktu ulf þinn",
+        "einn af stalli,",
+        "lát hann renna",
+        "með runa mínum.\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Hyndla kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Seinn er göltr þinn",
+        "goðveg troða,",
+        "vilk-at ek mar minn",
+        "mætan hlæða."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Nú taktu úlf þinn",
+        "einn af stalli,",
+        "lát hann renna",
+        "með runa mínum.\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Hyndla kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Seinn er göltur þinn",
+        "goðveg troða,",
+        "vilk-at eg mar minn",
+        "mætan hlæða."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"From the stall now one | of thy wolves lead forth,",
+        "And along with my boar | shalt thou let him run;",
+        "For slow my boar goes | on the road of the gods,",
+        "And I would not weary | my worthy steed.\"⟦5⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Flá ertu, Freyja,",
+        "er þú freistar mín,",
+        "vísar þú augum",
+        "á oss þannig,",
+        "er þú hefir ver þinn",
+        "í valsinni",
+        "Óttar unga",
+        "Innsteins bur.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Flá ertu, Freyja,",
+        "er þú freistar mín,",
+        "vísar þú augum",
+        "á oss þannig,",
+        "er þú hefur ver þinn",
+        "í valsinni",
+        "Óttar unga",
+        "Innsteins bur.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Hyndla spake:",
+        "\"Falsely thou askest me, | Freyja, to go,",
+        "For so in the glance | of thine eyes I see;",
+        "On the way of the slain | thy lover goes with thee,",
+        "Ottar the young, | the son of Instein.\"⟦6⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "p",
+       "s": "Freyja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Dulin ertu, Hyndla,",
+        "draums ætlak þér,",
+        "er þú kveðr ver minn",
+        "í valsinni,",
+        "þar er göltr glóar",
+        "Gullinbursti,",
+        "Hildisvíni,",
+        "er mér hagir gerðu,",
+        "dvergar tveir,",
+        "Dáinn ok Nabbi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Freyja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Dulin ertu, Hyndla,",
+        "draums ætlak þér,",
+        "er þú kveður ver minn",
+        "í valsinni,",
+        "þar er göltur glóar",
+        "Gullinbursti,",
+        "Hildisvíni,",
+        "er mér hagir gerðu,",
+        "dvergar tveir,",
+        "Dáinn og Nabbi."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Freyja spake:",
+        "\"Wild dreams, methinks, | are thine when thou sayest",
+        "My lover is with me | on the way of the slain;",
+        "There shines the boar | with bristles of gold,",
+        "Hildisvini, | he who was made",
+        "By Dain and Nabbi, | the cunning dwarfs.⟦7⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Senn vit ór söðlum",
+        "sitja vit skulum",
+        "ok um jöfra",
+        "ættir dæma,",
+        "gumna þeira,",
+        "er frá goðum kvámu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Senn vit úr söðlum",
+        "sitja vit skulum",
+        "og um jöfra",
+        "ættir dæma,",
+        "gumna þeirra,",
+        "er frá goðum kvámu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Now let us down | from our saddles leap,",
+        "And talk of the race | of the heroes twain;",
+        "The men who were born | of the gods above,",
+        "..............................⟦8⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Þeir hafa veðjat",
+        "Vala malmi",
+        "Óttarr ungi",
+        "ok Angantýr;",
+        "skylt er at veita,",
+        "svá at skati inn ungi",
+        "föðurleifð hafi",
+        "eftir frændr sína."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Þeir hafa veðjað",
+        "Vala malmi",
+        "Óttar ungi",
+        "og Angantýr;",
+        "skylt er að veita,",
+        "svo að skati hinn ungi",
+        "föðurleifð hafi",
+        "eftir frændur sína."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"A wager have made | in the foreign metal",
+        "Ottar the young | and Angantyr;",
+        "We must guard, for the hero | young to have,",
+        "His father's wealth, | the fruits of his race.⟦9⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Hörg hann mér gerði",
+        "hlaðinn steinum,",
+        "- nú er grjót þat",
+        "at gleri orðit; -",
+        "rauð hann í nýju",
+        "nauta blóði;",
+        "æ trúði Óttarr",
+        "á ásynjur."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Hörg hann mér gerði",
+        "hlaðinn steinum,",
+        "- nú er grjót það",
+        "að gleri orðið; -",
+        "rauð hann í nýju",
+        "nauta blóði;",
+        "æ trúði Óttar",
+        "á ásynjur."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"For me a shrine | of stones he made,—",
+        "And now to glass | the rock has grown;—",
+        "Oft with the blood | of beasts was it red;",
+        "In the goddesses ever | did Ottar trust.⟦10⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Nú láttu forna",
+        "niðja talða",
+        "ok upp bornar",
+        "ættir manna:",
+        "Hvat ek Skjöldunga,",
+        "hvat ek Skilfinga,",
+        "hvat er Öðlinga,",
+        "hvat er Ylfinga,",
+        "hvat er höldborit,",
+        "hvat er hersborit",
+        "mest manna val",
+        "und Miðgarði?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Nú láttu forna",
+        "niðja talða",
+        "og upp bornar",
+        "ættir manna:",
+        "Hvað eg Skjöldunga,",
+        "hvað eg Skilfinga,",
+        "hvað er Öðlinga,",
+        "hvað er Ylfinga,",
+        "hvað er höldborið,",
+        "hvað er hersborið",
+        "mest manna val",
+        "und Miðgarði?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Tell to me now | the ancient names,",
+        "And the races of all | that were born of old:",
+        "Who are of the Skjoldungs, | who of the Skilfings,",
+        "Who of the Othlings, | who of the Ylfings,",
+        "Who are the free-born, | who are the high-born,",
+        "The noblest of men | that in Mithgarth dwell?\"⟦11⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hyndla kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Þú ert, Óttarr,",
+        "borinn Innsteini,",
+        "en Innsteinn var",
+        "Alfi inum gamla,",
+        "Alfr var Ulfi,",
+        "Ulfr Sæfara,",
+        "en Sæfari",
+        "Svan inum rauða."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hyndla kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Þú ert, Óttar,",
+        "borinn Innsteini,",
+        "en Innsteinn var",
+        "Alfi hinum gamla,",
+        "Álfur var Ulfi,",
+        "Ulfur Sæfara,",
+        "en Sæfari",
+        "Svan hinum rauða."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Hyndla spake:",
+        "\"Thou art, Ottar, | the son of Instein,",
+        "And Instein the son | of Alf the Old,",
+        "Alf of Ulf, | Ulf of Sæfari,",
+        "And Sæfari's father | was Svan the Red.⟦12⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Móður átti faðir þinn",
+        "menjum göfga,",
+        "hygg ek, at hon héti",
+        "Hlédís gyðja;",
+        "Fróði var faðir þeirar,",
+        "en Fríund móðir;",
+        "öll þótti ætt sú",
+        "með yfirmönnum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Móður átti faðir þinn",
+        "menjum göfga,",
+        "hygg eg, að hún héti",
+        "Hlédís gyðja;",
+        "Fróði var faðir þeirrar,",
+        "en Fríund móðir;",
+        "öll þótti ætt sú",
+        "með yfirmönnum."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Thy mother, bright | with bracelets fair,",
+        "Hight, methinks, | the priestess Hledis;",
+        "Frothi her father, | and Friaut her mother;—",
+        "Her race of the mightiest | men must seem."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Auði var áðr",
+        "öflgastr manna,",
+        "Halfdan fyrri",
+        "hæstr Skjöldunga;",
+        "fræg váru folkvíg,",
+        "þau er framir gerðu,",
+        "hvarfla þóttu hans verk",
+        "með himins skautum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Auði var áður",
+        "öflgastur manna,",
+        "Halfdan fyrri",
+        "hæstur Skjöldunga;",
+        "fræg voru folkvíg,",
+        "þau er framir gerðu,",
+        "hvarfla þóttu hans verk",
+        "með himins skautum."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Of old the noblest | of all was Ali,",
+        "Before him Halfdan, | foremost of Skjoldungs;",
+        "Famed were the battles | the hero fought,",
+        "To the corners of heaven | his deeds were carried.⟦14⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Eflðisk hann við Eymund",
+        "æðstan manna,",
+        "en hann vá Sigtrygg",
+        "með svölum eggjum,",
+        "eiga gekk Almveig,",
+        "æðsta kvinna,",
+        "ólu þau ok áttu",
+        "átján sonu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Eflðist hann við Eymund",
+        "æðstan manna,",
+        "en hann vá Sigtrygg",
+        "með svölum eggjum,",
+        "eiga gekk Almveig,",
+        "æðsta kvenna,",
+        "ólu þau og áttu",
+        "átjon sonu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Strengthened by Eymund, | the strongest of men,",
+        "Sigtrygg he slew | with the ice-cold sword;",
+        "His bride was Almveig, | the best of women,",
+        "And eighteen boys | did Almveig bear him."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      15
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Þaðan eru Skjöldungar,",
+        "þaðan Skilfingar,",
+        "þaðan Öðlingar,",
+        "þaðan Ynglingar,",
+        "þaðan höldborit,",
+        "þaðan hersborit,",
+        "mest manna val",
+        "und Miðgarði;",
+        "allt er þat ætt þín,",
+        "Óttarr heimski."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Þaðan eru Skjöldungar,",
+        "þaðan Skilfingar,",
+        "þaðan Öðlingar,",
+        "þaðan Ynglingar,",
+        "þaðan höldborið,",
+        "þaðan hersborið,",
+        "mest manna val",
+        "und Miðgarði;",
+        "allt er það ætt þín,",
+        "Óttar heimski."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Hence come the Skjoldungs, | hence the Skilfings,",
+        "Hence the Othlings, | hence the Ynglings,",
+        "Hence come the free-born, | hence the high-born,",
+        "The noblest of men | that in Mithgarth dwell:",
+        "And all are thy kinsmen, | Ottar, thou fool!⟦16⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      16
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Var Hildigunnr",
+        "hennar móðir,",
+        "Sváfu barn",
+        "ok sækonungs;",
+        "allt er þat ætt þín,",
+        "Óttarr heimski.",
+        "Varðar, at viti svá.",
+        "Viltu enn lengra?"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Var Hildigunnur",
+        "hennar móðir,",
+        "Sváfu barn",
+        "og sækonungs;",
+        "allt er það ætt þín,",
+        "Óttar heimski.",
+        "Varðar, að viti svo.",
+        "Viltu enn lengra?"
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Hildigun then | her mother hight,",
+        "The daughter of Svava | and Sækonung;",
+        "And all are thy kinsmen, | Ottar, thou fool!",
+        "It is much to know,— | wilt thou hear yet more?⟦17⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      17
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Dagr átti Þóru",
+        "drengja móður,",
+        "ólusk í ætt þar",
+        "æðstir kappar:",
+        "Fraðmarr ok Gyrðr",
+        "ok Frekar báðir,",
+        "Ámr ok Jösurmarr,",
+        "Alfr inn gamli.",
+        "Varðar, at viti svá.",
+        "Viltu enn lengra?"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Dagur átti Þóru",
+        "drengja móður,",
+        "ólust í ætt þar",
+        "æðstir kappar:",
+        "Fraðmar og Gyrður",
+        "og Frekar báðir,",
+        "Ámur og Jösurmar,",
+        "Álfur hinn gamli.",
+        "Varðar, að viti svo.",
+        "Viltu enn lengra?"
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"The mate of Dag | was a mother of heroes,",
+        "Thora, who bore him | the bravest of fighters,",
+        "Frathmar and Gyrth | and the Frekis twain,",
+        "Am and Jofurmar, | Alf the Old;",
+        "It is much to know,— | wilt thou hear yet more?⟦18⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      18
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Ketill hét vinr þeira,",
+        "Klypps arfþegi,",
+        "var hann móðurfaðir",
+        "móður þinnar;",
+        "þar var Fróði",
+        "fyrr en Kári,",
+        "inn eldri var",
+        "Alfr of getinn."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Ketill hét vinur þeirra,",
+        "Klypps arfþegi,",
+        "var hann móðurfaðir",
+        "móður þinnar;",
+        "þar var Fróði",
+        "fyrr en Kári,",
+        "hinn eldri var",
+        "Álfur of getinn."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Her husband was Ketil, | the heir of Klypp,",
+        "He was of thy mother | the mother's-father;",
+        "Before the days | of Kari was Frothi,",
+        "And born of Hild | was Hoalf then.⟦19⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Nanna var næst þar",
+        "Nökkva dóttir,",
+        "var mögr hennar",
+        "mágr þíns föður;",
+        "fyrnð er sú mægð,",
+        "fram tel ek lengra;",
+        "kunna ek báða",
+        "Brodd ok Hörvi;",
+        "allt er þat ætt þín,",
+        "Óttarr heimski."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Nanna var næst þar",
+        "Nökkva dóttir,",
+        "var mögur hennar",
+        "mágur þíns föður;",
+        "fyrnð er sú mægð,",
+        "fram tel eg lengra;",
+        "kunna eg báða",
+        "Brodd og Hörvi;",
+        "allt er það ætt þín,",
+        "Óttar heimski."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Next was Nanna, | daughter of Nokkvi,",
+        "Thy father's kinsman | her son became;",
+        "Old is the line, | and longer still,",
+        "And all are thy kinsmen, | Ottar, thou fool!⟦20⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      20
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Ísolfr ok Ásolfr",
+        "Ölmóðs synir",
+        "ok Skúrhildar",
+        "Skekkils dóttur;",
+        "skaltu til telja",
+        "skatna margra;",
+        "allt er þat ætt þín,",
+        "Óttarr heimski."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Ísolfur og Ásolfur",
+        "Ölmóðs synir",
+        "og Skúrhildar",
+        "Skekkils dóttur;",
+        "skaltu til telja",
+        "skatna margra;",
+        "allt er það ætt þín,",
+        "Óttar heimski."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Isolf and Osolf, | the sons of Olmoth,",
+        "Whose wife was Skurhild, | the daughter of Skekkil,",
+        "Count them among | the heroes mighty,",
+        "And all are thy kinsmen, | Ottar, thou fool!⟦21⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Gunnar the Bulwark, | Grim the Hardy,",
+        "Thorir the Iron-shield, | Ulf the Gaper,",
+        "Brodd and Hörvir | both did I know;",
+        "In the household they were | of Hrolf the Old.⟦22⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      21,
+      22
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Gunnarr balkr,",
+        "Grímr arðskafi,",
+        "járnskjöldr Þórir,",
+        "Ulfr gínandi."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "23. [Hervarðr, Hjörvarðr,",
+        "Hrani, Angantýr],",
+        "Búi ok Brámi,",
+        "Barri ok Reifnir,",
+        "Tindr ok Tyrfingr,",
+        "ok tveir Haddingjar;",
+        "allt er þat ætt þín,",
+        "Óttarr heimski."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "24. Austr í Bolm",
+        "váru bornir",
+        "Arngríms synir",
+        "ok Eyfuru,",
+        "brökun var berserkja,",
+        "böl margs konar,",
+        "um lönd ok um lög",
+        "sem logi færi;",
+        "allt er þat ætt þín,",
+        "Óttarr heimski."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Gunnar balkur,",
+        "Grímur arðskafi,",
+        "járnskjöldur Þórir,",
+        "Ulfur gínandi."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "23. [Hervarður, Hjörvarður,",
+        "Hrani, Angantýr],",
+        "Búi og Brámi,",
+        "Barri og Reifnir,",
+        "Tindur og Tyrfingur,",
+        "og tveir Haddingjar;",
+        "allt er það ætt þín,",
+        "Óttar heimski."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "24. Austur í Bolm",
+        "voru bornir",
+        "Arngríms synir",
+        "og Eyfuru,",
+        "brökun var berserkja,",
+        "böl margs konar,",
+        "um lönd og um lög",
+        "sem logi færi;",
+        "allt er það ætt þín,",
+        "Óttar heimski."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Hervarth, Hjorvarth, | Hrani, Angantyr,",
+        "Bui and Brami, | Barri and Reifnir,",
+        "Tind and Tyrfing, | the Haddings twain,—",
+        "And all are thy kinsmen, | Ottar, thou fool!⟦23⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Eastward in Bolm | were born of old",
+        "The sons of Arngrim | and Eyfura;",
+        "With berserk-tumult | and baleful deed",
+        "Like fire o'er land | and sea they fared,—",
+        "And all are thy kinsmen, | Ottar, thou fool!⟦24⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      23,
+      24
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Kunnak báða",
+        "Brodd ok Hörvi;",
+        "váru þeir í hirð",
+        "Hrolfs ins gamla.",
+        "Allir bornir",
+        "frá Jörmunreki,",
+        "Sigurðar mági,",
+        "- hlýð þú sögu minni, -",
+        "folkum grimms,",
+        "þess er Fáfni vá."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Kunnak báða",
+        "Brodd og Hörvi;",
+        "voru þeir í hirð",
+        "Hrolfs hins gamla.",
+        "Allir bornir",
+        "frá Jörmunreki,",
+        "Sigurðar mági,",
+        "- hlýð þú sögu minni, -",
+        "folkum grimms,",
+        "þess er Fáfni vá."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"The sons of Jormunrek | all of yore",
+        "To the gods in death | were as offerings given;",
+        "He was kinsman of Sigurth,— | hear well what I say,—",
+        "The foe of hosts, | and Fafnir's slayer.⟦25⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      25
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Sá var vísir",
+        "frá Völsungi",
+        "ok Hjördís",
+        "frá Hrauðungi,",
+        "en Fylimi",
+        "frá Öðlingum;",
+        "allt er þat ætt þín,",
+        "Óttarr heimski."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Sá var vísir",
+        "frá Völsungi",
+        "og Hjördís",
+        "frá Hrauðungi,",
+        "en Fylimi",
+        "frá Öðlingum;",
+        "allt er það ætt þín,",
+        "Óttar heimski."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"From Volsung's seed | was the hero sprung,",
+        "And Hjordis was born | of Hrauthung's race,",
+        "And Eylimi | from the Othlings came,—",
+        "And all are thy kinsmen, | Ottar, thou fool!⟦26⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      26
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Gunnarr ok Högni,",
+        "Gjúka arfar,",
+        "ok it sama Guðrún,",
+        "systir þeira;",
+        "eigi var Gutþormr",
+        "Gjúka ættar,",
+        "þó var hann bróðir",
+        "beggja þeira;",
+        "allt er þat ætt þín,",
+        "Óttarr heimski."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Gunnar og Högni,",
+        "Gjúka arfar,",
+        "og it sama Guðrún,",
+        "systir þeirra;",
+        "eigi var Gutþormur",
+        "Gjúka ættar,",
+        "þó var hann bróðir",
+        "beggja þeirra;",
+        "allt er það ætt þín,",
+        "Óttar heimski."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Gunnar and Hogni, | the heirs of Gjuki,",
+        "And Guthrun as well, | who their sister was;",
+        "But Gotthorm was not | of Gjuki's race,",
+        "Although the brother | of both he was:",
+        "And all are thy kinsmen, | Ottar, thou fool!⟦27⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      27
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s28",
+     "stanza": 28,
+     "on": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Haraldr hilditönn",
+        "borinn Hræreki",
+        "slöngvanbauga,",
+        "sonr var hann Auðar,",
+        "Auðr djúpúðga",
+        "Ívars dóttir,",
+        "en Ráðbarðr var",
+        "Randvers faðir;",
+        "þeir váru gumnar",
+        "goðum signaðir;",
+        "allt er þat ætt þín,",
+        "Óttarr heimski.\"",
+        "-- -- --"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Haraldur hilditönn",
+        "borinn Hræreki",
+        "slöngvanbauga,",
+        "sonur var hann Auðar,",
+        "Auður djúpúðga",
+        "Ívars dóttir,",
+        "en Ráðbarður var",
+        "Randvers faðir;",
+        "þeir voru gumnar",
+        "goðum signaðir;",
+        "allt er það ætt þín,",
+        "Óttar heimski.\"",
+        "-- -- --"
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Of Hvethna's sons | was Haki the best,",
+        "And Hjorvarth the father | of Hvethna was;",
+        "..............................⟦28⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Harald Battle-tooth | of Auth was born,",
+        "Hrörek the Ring-giver | her husband was;",
+        "Auth the Deep-minded | was Ivar's daughter,",
+        "But Rathbarth the father | of Randver was:",
+        "And all are thy kinsmen, | Ottar, thou fool!\""
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "***⟦29⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      28,
+      29
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s29",
+     "stanza": 29,
+     "on": [
+      {
+       "t": "p",
+       "s": "Freyja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Ber þú minnisöl",
+        "mínum gesti,",
+        "svá hann öll muni",
+        "orð at tína",
+        "þessar ræðu",
+        "á þriðja morgni,",
+        "þá er þeir Angantýr",
+        "ættir rekja.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Freyja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Ber þú minnisöl",
+        "mínum gesti,",
+        "svo hann öll muni",
+        "orð að tína",
+        "þessar ræðu",
+        "á þriðja morgni,",
+        "þá er þeir Angantýr",
+        "ættir rekja.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Eleven in number | the gods were known,",
+        "When Baldr o'er the hill | of death was bowed;",
+        "And this to avenge | was Vali swift,",
+        "When his brother's slayer | soon he slew.⟦30⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      30
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "s_en": 0.32
+    },
+    {
+     "id": "hdl-s30",
+     "stanza": 30,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hyndla kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"Snúðu braut heðan,",
+        "sofa lystir mik,",
+        "fær þú fátt af mér",
+        "fríðra kosta;",
+        "hleypr þú, Óðs vina,",
+        "úti á náttum,",
+        "sem með höfrum",
+        "Heiðrún fari."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hyndla kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"Snúðu braut héðan,",
+        "sofa lystir mig,",
+        "fær þú fátt af mér",
+        "fríðra kosta;",
+        "hleypur þú, Óðs vina,",
+        "úti á náttum,",
+        "sem með höfrum",
+        "Heiðrún fari."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "The father of Baldr | was the heir of Bur,",
+        "..............................⟦31⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      31
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "s_en": 0.12
+    },
+    {
+     "id": "hdl-s31",
+     "stanza": 31,
+     "on": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Rannt at Óði",
+        "ey þreyjandi,",
+        "skutusk þér fleiri",
+        "und fyrirskyrtu;",
+        "hleypr þú, Óðs vina,",
+        "úti á náttum,",
+        "sem með höfrum",
+        "Heiðrún fari.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Rannt að Óði",
+        "ey þreyjandi,",
+        "skutust þér fleiri",
+        "und fyrirskyrtu;",
+        "hleypur þú, Óðs vina,",
+        "úti á náttum,",
+        "sem með höfrum",
+        "Heiðrún fari.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Freyr's wife was Gerth, | the daughter of Gymir,",
+        "Of the giants' brood, | and Aurbotha bore her;",
+        "To these as well | was Thjazi kin,",
+        "The dark-loving giant; | his daughter was Skathi.⟦32⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      32
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "s_en": 0.31
+    },
+    {
+     "id": "hdl-s32",
+     "stanza": 32,
+     "on": [
+      {
+       "t": "p",
+       "s": "Freyja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Ek slæ eldi",
+        "of íviðju,",
+        "svá at þú eigi kemsk",
+        "á braut heðan.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Freyja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Eg slæ eldi",
+        "of íviðju,",
+        "svo að þú eigi kemst",
+        "á braut héðan.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Much have I told thee, | and further will tell;",
+        "There is much that I know;— | wilt thou hear yet more?⟦33⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Heith and Hrossthjof, | the children of Hrimnir.",
+        "..............................⟦34⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      33,
+      34
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hdl-s33",
+     "stanza": 33,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hyndla kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Hyr sé ek brenna,",
+        "en hauðr loga,",
+        "verða flestir",
+        "fjörlausn þola;",
+        "ber þú Óttari",
+        "bjór at hendi",
+        "eitri blandinn mjök,",
+        "illu heilli.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hyndla kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Hyr sé eg brenna,",
+        "en hauður loga,",
+        "verða flestir",
+        "fjörlausn þola;",
+        "ber þú Óttari",
+        "bjór að hendi",
+        "eitri blandinn mjög,",
+        "illu heilli.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "The sybils arose | from Vitholf's race,",
+        "From Vilmeith | all the seers are,",
+        "And the workers of charms | are Svarthofthi's children,",
+        "And from Ymir sprang | the giants all.⟦35⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Much have I told thee, | and further will tell;",
+        "There is much that I know;— | wilt thou hear yet more?"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      35,
+      36
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "s_en": 0.23
+    },
+    {
+     "id": "hdl-s34",
+     "stanza": 34,
+     "on": [
+      {
+       "t": "p",
+       "s": "Freyja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Orðheill þín",
+        "skal engu ráða,",
+        "þóttú, brúðr jötuns,",
+        "bölvi heitir;",
+        "hann skal drekka",
+        "dýrar veigar;",
+        "bið ek Óttari",
+        "öll goð duga.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Freyja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Orðheill þín",
+        "skal engu ráða,",
+        "þóttú, brúður jötuns,",
+        "bölvi heitir;",
+        "hann skal drekka",
+        "dýrar veigar;",
+        "bið eg Óttari",
+        "öll guð duga.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "One there was born | in the bygone days,",
+        "Of the race of the gods, | and great was his might;",
+        "Nine giant women, | at the world's edge,",
+        "Once bore the man | so mighty in arms.⟦37⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Gjolp there bore him, | Greip there bore him,",
+        "Eistla bore him, | and Eyrgjafa,",
+        "Ulfrun bore him, | and Angeyja,",
+        "Imth and Atla, | and Jarnsaxa.⟦38⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      37,
+      38
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "s_en": 0.32
+    }
+   ],
+   "notes": [
+    {
+     "n": "1",
+     "s": "Freyja: The names of the speakers do not appear in the manuscripts. On Freyja cf. Voluspo, 21 and note; Skirnismol, introductory prose and note; Lokasenna, introductory prose and note. As stanzas 9-10 show, Ottar has made a wager of his entire inheritance with Angantyr regarding the relative loftiness of their ancestry, and by rich offerings (Hyndla hints at less commendable methods) has induced Freyja to assist him in establishing his genealogy. Freyja, having turned Ottar for purposes of disguise into a boar, calls on the giantess Hyndla (\"She-Dog\") to aid her. Hyndla does not appear elsewhere in the poems."
+    },
+    {
+     "n": "2",
+     "s": "Heerfather: Othin; cf. Voluspo, 30. Hermoth: mentioned in the Prose Edda as a son of Othin who is sent to Hel to ask for the return of the slain Baldr. Sigmund: according to the Volsungasaga Sigmund was the son of Volsung, and hence Othin's great-great-grandson (note that Wagner eliminates all the intervening generations by the simple expedient of using Volsung's name as one of Othin's many appellations). Sigmund alone was able to draw from the tree the sword which a mysterious stranger (Othin, of course) had thrust into it (compare the first act of Wagner's Die Walküre)."
+    },
+    {
+     "n": "3",
+     "s": "Sijmons suggests that this stanza may be an interpolation."
+    },
+    {
+     "n": "4",
+     "s": "No lacuna after line 2 is indicated in the manuscript. Editors have attempted various experiments in rearranging this and the following stanza."
+    },
+    {
+     "n": "5",
+     "s": "Some editors, following Simrock, assign this whole stanza to Hyndla; others assign to her lines 3-4. Giving the entire stanza to Freyja makes better sense than any other arrangement, but is dependent on changing the manuscript's \"thy\" in line 3 to \"my,\" as suggested by Bugge. The boar on which Freyja rides (\"my worthy steed\") is, of course, Ottar."
+    },
+    {
+     "n": "6",
+     "s": "Hyndla detects Ottar, and accuses Freyja of having her lover with her. Unless Ottar is identical with Oth (cf. Voluspo, 25 and note), which seems most unlikely, there is no other reference to this love affair. The way of the slain: the road to Valhall."
+    },
+    {
+     "n": "7",
+     "s": "Various experiments have been made in condensing the stanza into four lines, or in combining it with stanza 8. Hildisvini (\"Battle-Swine\"): perhaps Freyja refers to the boar with golden bristles given, according to Snorri, to her brother Freyr by the dwarfs. Dain: a dwarf; cf. Voluspo, 11. Nabbi: a dwarf nowhere else mentioned."
+    },
+    {
+     "n": "8",
+     "s": "The first line is obviously corrupt in the manuscript, and has been variously emended. The general assumption is that in the interval between stanzas 7 and 8 Freyja and Hyndla have arrived at Valhall. No lacuna is indicated in the manuscript."
+    },
+    {
+     "n": "9",
+     "s": "Foreign metal: gold. The word valr, meaning \"foreign,\" and akin to \"Welsh,\" is interesting in this connection, and some editors interpret it frankly as \"Celtic,\" i.e., Irish."
+    },
+    {
+     "n": "10",
+     "s": "To glass: i.e., the constant fires on the altar have fused the stone into glass. Glass beads, etc., were of very early use, though the use of glass for windows probably did not begin in Iceland much before 1200."
+    },
+    {
+     "n": "11",
+     "s": "Possibly two stanzas, or perhaps one with interpolations. The manuscript omits the first half of line 4, here filled out from stanza 16, line 2. Skjoldungs: the descendants of Skjold, a mythical king who was Othin's son and the ancestor of the Danish kings; cf. Snorri's Edda, Skaldskaparmal, 43. Skilfings: mentioned by Snorri as descendants of King Skelfir, a mythical ruler in \"the East.\" In Grimnismol, 54, the name Skilfing appears as one of Othin's many appellations. Othlings: Snorri derives this race from Authi, the son of Halfdan the Old (cf. stanza 14). Ylfings: some editors have changed this to \"Ynglings,\" as in stanza 16, referring to the descendants of Yng or Yngvi, another son of Halfdan, but the reference may be to the same mythical family to which Helgi Hundingsbane belonged (cf. Helgakvitha Hundingsbana I, 5)."
+    },
+    {
+     "n": "12",
+     "s": "Instein: mentioned in the Halfssaga as one of the warriors of King Half of Horthaland (the so-called Halfsrekkar). The others mentioned in this stanza appear in one of the later mythical accounts of the settlement of Norway."
+    },
+    {
+     "n": "14",
+     "s": "Stanzas 14-16 are clearly interpolated, as Friaut (stanza 13, line 3) is the daughter of Hildigun (stanza 17, line 1). Halfdan the Old, a mythical king of Denmark, called by Snorri \"the most famous of all kings,\" of whom it was foretold that \"for three hundred years there should be no woman and no man in his line who was not of great repute.\" After the slaying of Sigtrygg he married Almveig (or Alvig), daughter of King Eymund of Holmgarth (i.e., Russia), who bore him eighteen sons, nine at one birth. These nine were all slain, but the other nine were traditionally the ancestors of the most famous families in Northern hero lore."
+    },
+    {
+     "n": "16",
+     "s": "Compare stanza 11. All or part of this stanza may be interpolated."
+    },
+    {
+     "n": "17",
+     "s": "Hildigun (or Hildiguth): with this the poem returns to Ottar's direct ancestry, Hildigun being Friaut's mother. Line 4: cf. the refrain-line in the Voluspo (stanzas 27, 29, etc.)."
+    },
+    {
+     "n": "18",
+     "s": "Another interpolation, as Ketil (stanza 19, line 1) is the husband of Hildigun (stanza 17). Dag: one of Halfdan's sons, and ancestor of the Döglings. Line 5 may be a late addition."
+    },
+    {
+     "n": "19",
+     "s": "Ketil: the semi-mythical Ketil Hortha-Kari, from whom various Icelandic families traced their descent. Hoalf: probably King Half of Horthaland, hero of the Halfssaga, and son of Hjorleif and Hild (cf. stanza 12, note)."
+    },
+    {
+     "n": "20",
+     "s": "Nanna: the manuscript has \"Manna.\" Of Nanna and her father, Nokkvi, we know nothing, but apparently Nanna's son married a sister of Instein, Ottar's father."
+    },
+    {
+     "n": "21",
+     "s": "Olmoth: one of the sons of Ketil Hortha-Kari. Line 4: here, and generally hereafter when it appears in the poem, this refrain-line is abbreviated in the manuscript to the word \"all.\""
+    },
+    {
+     "n": "22",
+     "s": "An isolated stanza, which some editors place after stanza 24, others combining lines 1-2 with the fragmentary stanza 23. In the manuscript lines 3-4 stand after stanza 24, where they fail to connect clearly with anything. Hrolf the Old: probably King Hrolf Gautreksson of Gautland, in the saga relating to whom (Fornaldar sögur III, 57 ff.) appear the names of Thorir the Iron-shield and Grim Thorkelsson."
+    },
+    {
+     "n": "23",
+     "s": "Stanzas 23 and 24 name the twelve Berserkers, the sons of Arngrim and Eyfura, the story of whom is told in the Hervararsaga and the Orvar-Oddssaga. Saxo Grammaticus tells of the battle between them and Hjalmar and Orvar-Odd. Line 1 does not appear in the manuscript, but is added from the list of names given in the sagas. The Berserkers were wild warriors, distinguished above all by the fits of frenzy to which they were subject in battle; during these fits they howled like wild beasts, foamed at the mouth, and gnawed the iron rims of their shields. At such times they were proof against steel or fire, but when the fever abated they were weak. The etymology of the word berserk is disputed; probably, however, it means \"bear-shirt.\""
+    },
+    {
+     "n": "24",
+     "s": "The manuscript omits the first half of line 1, here supplied from the Orvar-Oddssaga. Bolm: probably the island of Bolmsö, in the Swedish province of Smaland. In the manuscript and in most editions stanza 24 is followed by lines 3-4 of stanza 22. Some editors reject line 5 as spurious."
+    },
+    {
+     "n": "25",
+     "s": "In the manuscript line 1 stands after line 4 of stanza 29. Probably a stanza enumerating Jormunrek's sons has been lost. Many editors combine lines 3-4 of stanza 22 and lines 2-4 of stanza 25 into one stanza. Jormunrek: the historical Ermanarich, king of the Goths, who died about 376. According to Norse tradition, in which Jormunrek played a large part, he slew his own sons (cf. Guthrunarhvot and Hamthesmol). In the saga Jormunrek married Sigurth's daughter, Svanhild. Stanzas 25-27 connect Ottar's descent with the whole Volsung-Sigurth-Jormunrek-Gjuki genealogy. The story of Sigurth is the basis for most of the heroic poems of the Edda, of the famous Volsungasaga, and, in Germany, of the Nibelungenlied. On his battle with the dragon Fafnir cf. Fafnismol."
+    },
+    {
+     "n": "26",
+     "s": "Volsung: Sigurth's grandfather and Othin's great-grandson. Hjordis: daughter of King Eylimi, wife of Sigmund and mother of Sigurth. Othlings: cf. stanza 11."
+    },
+    {
+     "n": "27",
+     "s": "Gunnar, Hogni, and Guthrun: the three children of the Burgundian king Gjuki and his wife Grimhild (Kriemhild); Guthrun was Sigurth's wife. Gotthorm, the third brother, who Sigurth at Brynhild's behest, was Grimhild's son, and thus a step-son of Gjuki. These four play an important part in the heroic cycle of Eddic poems. Cf. Gripisspo, introductory note."
+    },
+    {
+     "n": "28",
+     "s": "In the manuscript and in many editions these two lines stand between stanzas 33 and 34. The change here made follows Bugge. The manuscript indicates no gap between stanzas 27 and 29. Hvethna: wife of king Halfdan of Denmark."
+    },
+    {
+     "n": "29",
+     "s": "The manuscript and many editions include line 1 of stanza 25 after line 4 of stanza 29. The story of Harald Battle-tooth is told in detail by Saxo Grammaticus. Harald's father was Hrörek, king of Denmark; his mother was Auth, daughter of Ivar, king of Sweden. After Ivar had treacherously destroyed Hrörek, Auth fled with Harald to Russia, where she married King Rathbarth. Harald's warlike career in Norway, and his death on the Bravalla-field at the hands of his nephew, Sigurth Ring, son of Randver and grandson of Rathbarth and Auth, were favorite saga themes."
+    },
+    {
+     "n": "30",
+     "s": "At this point begins the fragmentary and interpolated \"short Voluspo\" identified by Snorri. The manuscript gives no indication of the break in the poem's continuity. Eleven: there are various references to the \"twelve\" gods (including Baldr); Snorri (Gylfaginning, 20-33) lists the following twelve in addition to Othin: Thor, Baldr, Njorth, Freyr, Tyr, Bragi, Heimdall, Hoth, Vithar, Vali, Ull and Forseti; he adds Loki as of doubtful divinity. Baldr and Vali: cf. Voluspo, 32-33."
+    },
+    {
+     "n": "31",
+     "s": "The fragmentary stanzas 31-34 have been regrouped in various ways, and with many conjectures as to omissions, none of which are indicated in the manuscript. The order here is as in the manuscript, except that lines 1-2 of stanza 28 have been transposed from after line 2 of stanza 33. Bur's heir: Othin, cf. Voluspo, 4."
+    },
+    {
+     "n": "32",
+     "s": "Freyr, Gerth, Gymir: cf. Skirnismol. Aurbotha: a giantess, mother of Gerth. Thjazi and Skathi: cf. Lokasenna, 49, and Harbarthsljoth, 19."
+    },
+    {
+     "n": "33",
+     "s": "Cf. Voluspo, 44 and 27."
+    },
+    {
+     "n": "34",
+     "s": "Heith (\"Witch\") and Hrossthjof (\"Horse-thief\"): the only other reference to the giant Hrimnir (Skirnismol, 28) makes no mention of his children."
+    },
+    {
+     "n": "35",
+     "s": "This stanza is quoted by Snorri (Gylfaginning, 5). Of Vitholf (\"Forest Wolf\"), Vilmeith (\"Wish-Tree\") and Svarthofthi (\"Black Head\") nothing further is known. Ymir: cf. Voluspo, 3."
+    },
+    {
+     "n": "37",
+     "s": "According to Snorri (Gylfaginning, 27) Heimdall was the son of Othin and of nine sisters. As Heimdall was the watchman of the gods, this has given rise to much \"solar myth\" discussion. The names of his nine giantess mothers are frequently said to denote attributes of the sea."
+    },
+    {
+     "n": "38",
+     "s": "The names of Heimdall's mothers may be rendered \"Yelper,\" \"Griper,\" \"Foamer,\" \"Sand-Strewer,\" \"She-Wolf,\" \"Sorrow-Whelmer,\" \"Dusk,\" \"Fury,\" and \"Iron-Sword.\""
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "The Hyndluljoth is found in neither of the great manuscripts of the Poetic Edda, but is included in the so-called Flateyjarbok (Book of the Flat Island), an enormous compilation made somewhere about 1400. The lateness of this manuscript would of itself be enough to cast a doubt upon the condition in which the poem has been preserved, and there can be no question that what we have of it is in very poor shape. It is, in fact, two separate poems, or parts of them, clumsily put together. The longer one, the Poem of Hyndla proper, is chiefly a collection of names, not strictly mythological but belonging to the semi-historical hero-sagas of Norse tradition. The wise-woman, Hyndla, being asked by Freyja to trace the ancestry of her favorite, Ottar, for the purpose of deciding a wager, gives a complex genealogy including many of the heroes who appear in the popular sagas handed down from days long before the Icelandic settlements. The poet was learned, but without enthusiasm; it is not likely that he composed the Hyndluljoth much before the twelfth century, though the material of which it is compounded must have been very much older. Although the genealogies are essentially continental, the poem seems rather like a product of the archæological period of Iceland.",
+    "Inserted bodily in the Hyndluljoth proper is a fragment of fifty-one lines, taken from a poem of which, by a curious chance, we know the name. Snorri quotes one stanza of it, calling it \"the short Voluspo.\" The fragment preserved gives, of course, no indication of the length of the original poem, but it shows that it was a late and very inferior imitation of the great Voluspo. Like the Hyndluljoth proper, it apparently comes from the twelfth century; but there is nothing whatever to indicate that the two poems were the work of the same man, or were ever connected in any way until some blundering copyist mixed them up. Certainly the connection did not exist in the middle of the thirteenth century, when Snorri quoted \"the short Voluspo.\"",
+    "Neither poem is of any great value, either as mythology or as poetry. The author of \"the short Voluspo\" seems, indeed, to have been more or less confused as to his facts; and both poets were too late to feel anything of the enthusiasm of the earlier school. The names of Hyndla's heroes, of course, suggest an unlimited number of stories, but as most of these have no direct relation to the poems of the Edda, I have limited the notes to a mere record of who the persons mentioned were, and the saga-groups in which they appeared."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Hyndluljóð)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Hyndluljoth"
+ }
+}

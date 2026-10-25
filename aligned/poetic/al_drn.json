@@ -1,0 +1,101 @@
+{
+ "part": "poetic",
+ "poem": "drn",
+ "title": "Dráp Niflunga",
+ "group": "heroic",
+ "chapters": [
+  {
+   "num": 30,
+   "key": "drn",
+   "title": "Dráp Niflunga",
+   "subtitle": null,
+   "group": "heroic",
+   "rows": [
+    {
+     "id": "drn-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gunnarr ok Högni tóku þá gullit allt, Fáfnis arf. Ófriðr var þá í milli Gjúkunga ok Atla. Kenndi hann Gjúkungum völd um andlát Brynhildar. Þat var til sætta, at þeir skyldu gifta hánum Guðrúnu, ok gáfu henni óminnisveig at drekka, áðr hon játti at giftast Atla. Synir Atla váru þeir Erpr ok Eitill, en Svanhildr var Sigurðar dóttir ok Guðrúnar. Atli konungr bauð heim Gunnari ok Högna ok sendi Vinga eða Knéfröð. Guðrún vissi vélar ok sendi með rúnum orð, at þeir skyldu eigi koma, ok til jartegna sendi hon Högna hringinn Andvaranaut ok knýtti í vargshár. Gunnarr hafði beðit Oddrúnar, systur Atla, ok gat eigi. Þá fekk hann Glaumvarar, en Högni átti Kostberu. Þeira synir váru þeir Sólarr ok Snævarr ok Gjúki. En er Gjúkungar kómu til Atla, þá bað Guðrún sonu sína, at þeir bæði Gjúkungum lífs, en þeir vildu eigi. Hjarta var skorit ór Högna, en Gunnarr settr í ormgarð. Hann sló hörpu ok svæfði ormana, en naðra stakk hann til lifrar."
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gunnar og Högni tóku þá gullið allt, Fáfnis arf. Ófriður var þá í milli Gjúkunga og Atla. Kenndi hann Gjúkungum völd um andlát Brynhildar. Það var til sætta, að þeir skyldu gifta hánum Guðrúnu, og gáfu henni óminnisveig að drekka, áður hún játti að giftast Atla. Synir Atla voru þeir Erpur og Eitill, en Svanhildur var Sigurðar dóttir og Guðrúnar. Atli konungur bauð heim Gunnari og Högna og sendi Vinga eða Knéfröð. Guðrún vissi vélar og sendi með rúnum orð, að þeir skyldu eigi koma, og til jartegna sendi hún Högna hringinn Andvaranaut og knýtti í vargshár. Gunnar hafði beðið Oddrúnar, systur Atla, og gat eigi. Þá fékk hann Glaumvarar, en Högni átti Kostberu. Þeirra synir voru þeir Sólar og Snævar og Gjúki. En er Gjúkungar komu til Atla, þá bað Guðrún sonu sína, að þeir bæði Gjúkungum lífs, en þeir vildu eigi. Hjarta var skorið úr Högna, en Gunnar settur í ormgarð. Hann sló hörpu og svæfði ormana, en naðra stakk hann til lifrar."
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p1⟧Gunnar and Hogni then took all the gold that Fafnir had had. There was strife between the Gjukungs and Atli, for he held the Gjukungs guilty of Brynhild's death. It was agreed that they should give him Guthrun as wife, and they gave her a draught of forgetfulness⟦p2⟧ to drink before she would consent to be wedded to Atli. The sons of Atli were Erp and Eitil⟦p3⟧, and Svanhild⟦p4⟧ was the daughter of Sigurth and Guthrun. King Atli invited Gunnar and Hogni to come to him, and sent as messenger Vingi or Knefröth⟦p5⟧. Guthrun was aware of treachery, and sent with him a message in runes that they should not come, and as a token she sent to Hogni the ring Andvaranaut⟦p6⟧ and tied a wolf's hair in it. Gunnar had sought Oddrun⟦p7⟧, Atli's sister, for his wife, but had her not; then he married Glaumvor⟦p8⟧, and Hogni's wife was Kostbera⟦p9⟧; their sons were Solar and Snævar and Gjuki.⟦p10⟧ And when the Gjukungs came to Atli, then Guthrun besought her sons to plead for the lives of both the Gjukungs, but they would not do it. Hogni's heart was cut out, and Gunnar was cast into the serpent's den. He smote on the harp and put the serpents to sleep, but an adder⟦p11⟧ stung him in the liver."
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "p1",
+     "s": "Prose. Niflungs: regarding the mistaken application of this name to the sons of Gjuki, who were Burgundians, cf. Brot, 17 and note."
+    },
+    {
+     "n": "p2",
+     "s": "Draught of forgetfulness: according to the Volsungasaga Grimhild, Guthrun's mother, administered this, just as she did the similar draught which made Sigurth forget Brynhild."
+    },
+    {
+     "n": "p3",
+     "s": "Erp and Eitil: Guthrun kills her two sons by Atli as part of her revenge; the annotator here explains her act further by saying that Guthrun asked her sons to intercede with their father in favor of Guthrun's brothers, but that they refused, a detail which he appears to have invented, as it is found nowhere else."
+    },
+    {
+     "n": "p4",
+     "s": "Svanhild: cf. Sigurtharkvitha en skamma, 54 and note."
+    },
+    {
+     "n": "p5",
+     "s": "Vingi or Knefröth: Atlakvitha (stanza 1) calls the messenger Knefröth; Atlamol (stanza 4) speaks of two messengers, but names only one of them, Vingi. The annotator has here tried, unsuccessfully, to combine the two accounts."
+    },
+    {
+     "n": "p6",
+     "s": "Andvaranaut: regarding the origin of Andvari's ring cf. Reginsmol, prose after stanzas 4 and 5 and notes; Sigurth gave the ring to Guthrun. Here again the annotator is combining two stories; in Atlakvitha (stanza 8) Guthrun sends a ring (not Andvaranaut) with a wolf's hair; in Atlamol (stanza 4) she sends a message written in runes. The messenger obscures these runes, and Kostbera, Hogni's wife, who attempts to decipher them, is not clear as to their meaning, though she suspects danger."
+    },
+    {
+     "n": "p7",
+     "s": "Oddrun: cf. Sigurtharkvitha en skamma, 57 and note."
+    },
+    {
+     "n": "p8",
+     "s": "Glaumvor: almost nothing is told of Gunnar's second wife, though she appears frequently in the Atlamol."
+    },
+    {
+     "n": "p9",
+     "s": "Kostbera: (or Bera), Hogni's wife, is known only as skilled in runes. Her brother was Orkning."
+    },
+    {
+     "n": "p10",
+     "s": "The sons of Hogni and Kostbera, according to the Atlamol (stanza 28), were Solar and Snævar; the third son, Gjuki, named after his grandfather, seems to be an invention of the annotator's."
+    },
+    {
+     "n": "p11",
+     "s": "Adder: according to Oddrunargratr (stanza 30) Atli's mother assumed this form in order to complete her son's vengeance."
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "It has been already pointed out (introductory note to Reginsmol) that the compiler of the Eddic collection had clearly undertaken to formulate a coherent narrative of the entire Sigurth cycle, piecing together the various poems by means of prose narrative links. To some extent these links were based on traditions existing outside of the lays themselves, but in the main the material was gathered from the contents of the poems. The short prose passage entitled Drap Niflunga, which in the Codex Regius immediately follows the Helreith Brynhildar, is just such a narrative link, and scarcely deserves a special heading, but as nearly all editions separate it from the preceding and following poems, I have followed their example.",
+    "With Sigurth and Brynhild both dead, the story turns to the slaying of the sons of Gjuki by Atli, Guthrun's second husband, and to a few subsequent incidents, mostly late incorporations from other narrative cycles, including the tragic death of Svanhild, daughter of Sigurth and Guthrun and wife of Jormunrek (Ermanarich), and the exploits of Hamther, son of Guthrun and her third husband, Jonak. These stories are told, or outlined, in the two Atli lays, the second and third Guthrun lays, the Oddrunargratr, the Guthrunarhvot, and the Hamthesmol. Had the compiler seen fit to put the Atli lays immediately after the Helreith Brynhildar, he would have needed only a very brief transitional note to make the course of the story clear, but as the second Guthrun lay, the next poem in the collection, is a lament following the death of Guthrun's brothers, some sort of a narrative bridge was manifestly needed.",
+    "Drap Niflunga is based entirely on the poems which follow it in the collection, with no use of extraneous material. The part of the story which it summarizes belongs to the semi-historical Burgundian tradition (cf. introductory note to Gripisspo), in many respects parallel to the familiar narrative of the Nibelungenlied, and, except in minor details, showing few essentially Northern additions. Sigurth is scarcely mentioned, and the outstanding episode is the slaying of Gunnar and Hogni, following their journey to Atli's home."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Dráp Niflunga)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Drap Niflunga"
+ }
+}

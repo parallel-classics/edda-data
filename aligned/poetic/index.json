@@ -1,0 +1,472 @@
+{
+ "_note": "Poetic Edda: poems in Guðni Jónsson's order, grouped as in the site's tabs.",
+ "groups": [
+  {
+   "key": "myth",
+   "title": "Mythological poems",
+   "title_is": "Goðakvæði"
+  },
+  {
+   "key": "heroic",
+   "title": "Heroic poems",
+   "title_is": "Hetjukvæði"
+  },
+  {
+   "key": "other",
+   "title": "Other Eddic poems",
+   "title_is": "Önnur eddukvæði"
+  }
+ ],
+ "poems": [
+  {
+   "prefix": "vsp",
+   "title": "Völuspá",
+   "group": "myth",
+   "file": "al_vsp.json",
+   "stanzas": 66,
+   "rows": 66,
+   "en_rows": 66,
+   "low": 0
+  },
+  {
+   "prefix": "hav",
+   "title": "Hávamál",
+   "group": "myth",
+   "file": "al_hav.json",
+   "stanzas": 164,
+   "rows": 164,
+   "en_rows": 163,
+   "low": 0
+  },
+  {
+   "prefix": "vm",
+   "title": "Vafþrúðnismál",
+   "group": "myth",
+   "file": "al_vm.json",
+   "stanzas": 55,
+   "rows": 55,
+   "en_rows": 55,
+   "low": 0
+  },
+  {
+   "prefix": "grm",
+   "title": "Grímnismál",
+   "group": "myth",
+   "file": "al_grm.json",
+   "stanzas": 54,
+   "rows": 56,
+   "en_rows": 56,
+   "low": 0
+  },
+  {
+   "prefix": "skm",
+   "title": "Skírnismál",
+   "group": "myth",
+   "file": "al_skm.json",
+   "stanzas": 42,
+   "rows": 44,
+   "en_rows": 44,
+   "low": 0
+  },
+  {
+   "prefix": "hrbl",
+   "title": "Hárbarðsljóð",
+   "group": "myth",
+   "file": "al_hrbl.json",
+   "stanzas": 60,
+   "rows": 61,
+   "en_rows": 61,
+   "low": 0
+  },
+  {
+   "prefix": "hym",
+   "title": "Hymiskviða",
+   "group": "myth",
+   "file": "al_hym.json",
+   "stanzas": 38,
+   "rows": 38,
+   "en_rows": 38,
+   "low": 0
+  },
+  {
+   "prefix": "ls",
+   "title": "Lokasenna",
+   "group": "myth",
+   "file": "al_ls.json",
+   "stanzas": 64,
+   "rows": 68,
+   "en_rows": 68,
+   "low": 0
+  },
+  {
+   "prefix": "thrk",
+   "title": "Þrymskviða",
+   "group": "myth",
+   "file": "al_thrk.json",
+   "stanzas": 32,
+   "rows": 32,
+   "en_rows": 32,
+   "low": 0
+  },
+  {
+   "prefix": "alv",
+   "title": "Alvíssmál",
+   "group": "myth",
+   "file": "al_alv.json",
+   "stanzas": 35,
+   "rows": 35,
+   "en_rows": 35,
+   "low": 0
+  },
+  {
+   "prefix": "bdr",
+   "title": "Baldrs draumar",
+   "group": "myth",
+   "file": "al_bdr.json",
+   "stanzas": 14,
+   "rows": 14,
+   "en_rows": 14,
+   "low": 0
+  },
+  {
+   "prefix": "rth",
+   "title": "Rígsþula",
+   "group": "myth",
+   "file": "al_rth.json",
+   "stanzas": 49,
+   "rows": 50,
+   "en_rows": 47,
+   "low": 2
+  },
+  {
+   "prefix": "hdl",
+   "title": "Hyndluljóð",
+   "group": "myth",
+   "file": "al_hdl.json",
+   "stanzas": 32,
+   "rows": 32,
+   "en_rows": 32,
+   "low": 5
+  },
+  {
+   "prefix": "vsk",
+   "title": "Völuspá in skamma",
+   "group": "myth",
+   "file": "al_vsk.json",
+   "stanzas": 15,
+   "rows": 15,
+   "en_rows": 14,
+   "low": 0
+  },
+  {
+   "prefix": "grt",
+   "title": "Gróttasöngr",
+   "group": "myth",
+   "file": "al_grt.json",
+   "stanzas": 24,
+   "rows": 25,
+   "en_rows": 0,
+   "low": 0
+  },
+  {
+   "prefix": "grg",
+   "title": "Grógaldr",
+   "group": "myth",
+   "file": "al_grg.json",
+   "stanzas": 16,
+   "rows": 16,
+   "en_rows": 16,
+   "low": 0
+  },
+  {
+   "prefix": "fjm",
+   "title": "Fjölsvinnsmál",
+   "group": "myth",
+   "file": "al_fjm.json",
+   "stanzas": 46,
+   "rows": 46,
+   "en_rows": 46,
+   "low": 2
+  },
+  {
+   "prefix": "vkv",
+   "title": "Völundarkviða",
+   "group": "heroic",
+   "file": "al_vkv.json",
+   "stanzas": 41,
+   "rows": 44,
+   "en_rows": 42,
+   "low": 0
+  },
+  {
+   "prefix": "hhv",
+   "title": "Helgakviða Hjörvarðssonar",
+   "group": "heroic",
+   "file": "al_hhv.json",
+   "stanzas": 43,
+   "rows": 50,
+   "en_rows": 49,
+   "low": 0
+  },
+  {
+   "prefix": "hh1",
+   "title": "Helgakviða Hundingsbana I",
+   "group": "heroic",
+   "file": "al_hh1.json",
+   "stanzas": 56,
+   "rows": 57,
+   "en_rows": 56,
+   "low": 0
+  },
+  {
+   "prefix": "hh2",
+   "title": "Völsungakviða in forna (Helgakviða Hundingsbana II)",
+   "group": "heroic",
+   "file": "al_hh2.json",
+   "stanzas": 51,
+   "rows": 63,
+   "en_rows": 61,
+   "low": 5
+  },
+  {
+   "prefix": "grp",
+   "title": "Grípisspá (with Frá dauða Sinfjötla)",
+   "group": "heroic",
+   "file": "al_grp.json",
+   "stanzas": 53,
+   "rows": 54,
+   "en_rows": 54,
+   "low": 0
+  },
+  {
+   "prefix": "rm",
+   "title": "Reginsmál",
+   "group": "heroic",
+   "file": "al_rm.json",
+   "stanzas": 26,
+   "rows": 37,
+   "en_rows": 35,
+   "low": 0
+  },
+  {
+   "prefix": "fm",
+   "title": "Fáfnismál",
+   "group": "heroic",
+   "file": "al_fm.json",
+   "stanzas": 44,
+   "rows": 51,
+   "en_rows": 49,
+   "low": 1
+  },
+  {
+   "prefix": "sd",
+   "title": "Sigrdrífumál",
+   "group": "heroic",
+   "file": "al_sd.json",
+   "stanzas": 37,
+   "rows": 42,
+   "en_rows": 41,
+   "low": 1
+  },
+  {
+   "prefix": "br",
+   "title": "Sigurðarkviða in meiri (Brot af Sigurðarkviðu)",
+   "group": "heroic",
+   "file": "al_br.json",
+   "stanzas": 23,
+   "rows": 24,
+   "en_rows": 23,
+   "low": 0
+  },
+  {
+   "prefix": "gdr1",
+   "title": "Guðrúnarkviða in fyrsta",
+   "group": "heroic",
+   "file": "al_gdr1.json",
+   "stanzas": 27,
+   "rows": 29,
+   "en_rows": 27,
+   "low": 0
+  },
+  {
+   "prefix": "sg",
+   "title": "Sigurðarkviða in skamma",
+   "group": "heroic",
+   "file": "al_sg.json",
+   "stanzas": 67,
+   "rows": 67,
+   "en_rows": 66,
+   "low": 0
+  },
+  {
+   "prefix": "hlr",
+   "title": "Helreið Brynhildar",
+   "group": "heroic",
+   "file": "al_hlr.json",
+   "stanzas": 15,
+   "rows": 16,
+   "en_rows": 15,
+   "low": 0
+  },
+  {
+   "prefix": "drn",
+   "title": "Dráp Niflunga",
+   "group": "heroic",
+   "file": "al_drn.json",
+   "stanzas": 0,
+   "rows": 1,
+   "en_rows": 1,
+   "low": 0
+  },
+  {
+   "prefix": "gdr2",
+   "title": "Guðrúnarkviða in forna (Guðrúnarkviða II)",
+   "group": "heroic",
+   "file": "al_gdr2.json",
+   "stanzas": 44,
+   "rows": 45,
+   "en_rows": 45,
+   "low": 2
+  },
+  {
+   "prefix": "gdr3",
+   "title": "Guðrúnarkviða in þriðja",
+   "group": "heroic",
+   "file": "al_gdr3.json",
+   "stanzas": 11,
+   "rows": 12,
+   "en_rows": 11,
+   "low": 1
+  },
+  {
+   "prefix": "od",
+   "title": "Oddrúnarkviða (Oddrúnargrátr)",
+   "group": "heroic",
+   "file": "al_od.json",
+   "stanzas": 34,
+   "rows": 35,
+   "en_rows": 35,
+   "low": 1
+  },
+  {
+   "prefix": "akv",
+   "title": "Atlakviða",
+   "group": "heroic",
+   "file": "al_akv.json",
+   "stanzas": 43,
+   "rows": 44,
+   "en_rows": 44,
+   "low": 0
+  },
+  {
+   "prefix": "am",
+   "title": "Atlamál in grænlenzku",
+   "group": "heroic",
+   "file": "al_am.json",
+   "stanzas": 105,
+   "rows": 105,
+   "en_rows": 99,
+   "low": 2
+  },
+  {
+   "prefix": "ghv",
+   "title": "Guðrúnarhvöt",
+   "group": "heroic",
+   "file": "al_ghv.json",
+   "stanzas": 21,
+   "rows": 22,
+   "en_rows": 22,
+   "low": 0
+  },
+  {
+   "prefix": "hm",
+   "title": "Hamðismál",
+   "group": "heroic",
+   "file": "al_hm.json",
+   "stanzas": 31,
+   "rows": 31,
+   "en_rows": 29,
+   "low": 2
+  },
+  {
+   "prefix": "hjk",
+   "title": "Hjálmarskviða",
+   "group": "other",
+   "file": "al_hjk.json",
+   "stanzas": 8,
+   "rows": 8,
+   "en_rows": 0,
+   "low": 0
+  },
+  {
+   "prefix": "hvk",
+   "title": "Hervararkviða",
+   "group": "other",
+   "file": "al_hvk.json",
+   "stanzas": 30,
+   "rows": 31,
+   "en_rows": 0,
+   "low": 0
+  },
+  {
+   "prefix": "hlk",
+   "title": "Hlöðskviða",
+   "group": "other",
+   "file": "al_hlk.json",
+   "stanzas": 31,
+   "rows": 43,
+   "en_rows": 0,
+   "low": 0
+  },
+  {
+   "prefix": "hrl",
+   "title": "Hálfsrekkaljóð",
+   "group": "other",
+   "file": "al_hrl.json",
+   "stanzas": 24,
+   "rows": 28,
+   "en_rows": 0,
+   "low": 0
+  },
+  {
+   "prefix": "heid",
+   "title": "Heiðreksgátur",
+   "group": "other",
+   "file": "al_heid.json",
+   "stanzas": 37,
+   "rows": 65,
+   "en_rows": 0,
+   "low": 0
+  },
+  {
+   "prefix": "ebr",
+   "title": "Eddubrot",
+   "group": "other",
+   "file": "al_ebr.json",
+   "stanzas": 15,
+   "rows": 37,
+   "en_rows": 0,
+   "low": 0
+  },
+  {
+   "prefix": "sol",
+   "title": "Sólarljóð",
+   "group": "other",
+   "file": "al_sol.json",
+   "stanzas": 82,
+   "rows": 82,
+   "en_rows": 0,
+   "low": 0
+  },
+  {
+   "prefix": "fsl",
+   "title": "Forspjallsljóð (Hrafnagaldr Óðins)",
+   "group": "other",
+   "file": "al_fsl.json",
+   "stanzas": 26,
+   "rows": 26,
+   "en_rows": 0,
+   "low": 0
+  }
+ ]
+}

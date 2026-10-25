@@ -1,0 +1,3568 @@
+{
+ "part": "poetic",
+ "poem": "hrbl",
+ "title": "Hárbarðsljóð",
+ "group": "myth",
+ "chapters": [
+  {
+   "num": 6,
+   "key": "hrbl",
+   "title": "Hárbarðsljóð",
+   "subtitle": null,
+   "group": "myth",
+   "rows": [
+    {
+     "id": "hrbl-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr fór ór Austrvegi ok kom at sundi einu. Öðrum megin sundsins var ferjukarlinn með skipit. Þórr kallaði:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór fór úr Austrvegi og kom að sundi einu. Öðrum megin sundsins var ferjukarlinn með skipið. Þór kallaði:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Thor was on his way back from a journey in the East, and came to a sound; on the other side of the sound was a ferryman with a boat. Thor called out:⟦p1⟧"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Hverr er sá sveinn sveina,",
+        "er stendr fyr sundit handan?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Hver er sá sveinn sveina,",
+        "er stendur fyr sundið handan?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Who is the fellow yonder, | on the farther shore of the sound?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "p",
+       "s": "Ferjukarlinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Hverr er sá karl karla,",
+        "er kallar of váginn?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Ferjukarlinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Hver er sá karl karla,",
+        "er kallar of váginn?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "The ferryman spake:",
+        "\"What kind of a peasant is yon, | that calls o'er the bay?\"⟦2⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Fer þú mik um sundit,",
+        "fæði ek þik á morgun;",
+        "meis hef ek á baki,",
+        "verðr-a matr in betri;",
+        "át ek í hvíld,",
+        "áðr ek heiman fór,",
+        "síldr ok hafra;",
+        "saðr em ek enn þess.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Fer þú mig um sundið,",
+        "fæði eg þig á morgun;",
+        "meis hef eg á baki,",
+        "verðr-a matur hin betri;",
+        "át eg í hvíld,",
+        "áður eg heiman fór,",
+        "síldur og hafra;",
+        "saður em eg enn þess.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Thor spake:",
+        "\"Ferry me over the sound; | I will feed thee therefor in the morning;",
+        "A basket I have on my back, | and food therein, none better;",
+        "At leisure I ate, | ere the house I left,",
+        "Of herrings and porridge, | so plenty I had.\"⟦3⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "p",
+       "s": "Ferjukarlinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Árligum verkum",
+        "hrósar þú, verðinum;",
+        "veizt-at-tu fyrir görla,",
+        "döpr eru þín heimkynni,",
+        "dauð, hygg ek, at þín móðir sé.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Ferjukarlinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Árligum verkum",
+        "hrósar þú, verðinum;",
+        "veizt-at-tu fyrir görla,",
+        "döpur eru þín heimkynni,",
+        "dauð, hygg eg, að þín móðir sé.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "The ferryman spake:",
+        "\"Of thy morning feats art thou proud, | but the future thou knowest not wholly;",
+        "Doleful thine home-coming is: | thy mother, methinks, is dead.\"⟦4⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Þat segir þú nú,",
+        "er hverjum þykkir",
+        "mest at vita,",
+        "at mín móðir dauð sé.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Það segir þú nú,",
+        "er hverjum þykir",
+        "mest að vita,",
+        "að mín móðir dauð sé.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Thor spake:",
+        "\"Now hast thou said | what to each must seem",
+        "The mightiest grief, | that my mother is dead.\"⟦5⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "p",
+       "s": "Ferjukarlinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Þeygi er sem þú",
+        "þrjú bú góð eigir;",
+        "berbeinn þú stendr",
+        "ok hefr brautinga gervi,",
+        "þatki, at þú hafir brækr þínar.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Ferjukarlinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Þeygi er sem þú",
+        "þrjú bú góð eegir;",
+        "berbeinn þú stendur",
+        "og hefur brautinga gervi,",
+        "þatki, að þú hafir brækur þínar.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "The ferryman spake:",
+        "\"Three good dwellings, | methinks, thou hast not;",
+        "Barefoot thou standest, | and wearest a beggar's dress;",
+        "Not even hose dost thou have.\"⟦6⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Stýrðu hingat eikjunni,",
+        "ek mun þér stöðna kenna, -",
+        "eða hverr á skipit,",
+        "er þú heldr við landit?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Stýrðu hingað eikjunni,",
+        "eg mun þér stöðna kenna, -",
+        "eða hver á skipið,",
+        "er þú heldur við landið?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Thor spake:",
+        "\"Steer thou hither the boat; | the landing here shall I show thee;",
+        "But whose the craft | that thou keepest on the shore?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "p",
+       "s": "Ferjukarlinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Hildolfr sá heitir,",
+        "er mik halda bað,",
+        "rekkr inn ráðsvinni,",
+        "er býr í Ráðseyjarsundi;",
+        "bað-at hann hlennimenn flytja",
+        "eða hrossaþjófa,",
+        "góða eina",
+        "ok þá, er ek görva kunna;",
+        "segðu til nafns þíns,",
+        "ef þú vill um sundit fara!\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Ferjukarlinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Hildolfur sá heitir,",
+        "er mig halda bað,",
+        "rekkur hinn ráðsvinni,",
+        "er býr í Ráðseyjarsundi;",
+        "bað-at hann hlennimenn flytja",
+        "eða hrossaþjófa,",
+        "góða eina",
+        "og þá, er eg gerva kunna;",
+        "segðu til nafns þíns,",
+        "ef þú vill um sundið fara!\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "The ferryman spake:",
+        "\"Hildolf is he | who bade me have it,",
+        "A hero wise; | his home is at Rathsey's sound.",
+        "He bade me no robbers to steer, | nor stealers of steeds,",
+        "But worthy men, | and those whom well do I know.",
+        "Say now thy name, | if over the sound thou wilt fare.\"⟦8⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Segja mun ek til nafns míns,",
+        "þótt ek sekr séak,",
+        "ok til alls eðlis:",
+        "Ek em Óðins sonr,",
+        "Meila bróðir,",
+        "en Magna faðir,",
+        "þrúðvaldr goða,",
+        "við Þór knáttu hér dæma!",
+        "Hins vil ek nú spyrja,",
+        "hvat þú heitir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Segja mun eg til nafns míns,",
+        "þótt eg sekur séak,",
+        "og til alls eðlis:",
+        "Eg em Óðins sonur,",
+        "Meila bróðir,",
+        "en Magna faðir,",
+        "þrúðvaldur goða,",
+        "við Þór knáttu hér dæma!",
+        "Hins vil eg nú spyrja,",
+        "hvað þú heitir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Thor spake:",
+        "\"My name indeed shall I tell, | though in danger I am,",
+        "And all my race; | I am Othin's son,",
+        "Meili's brother, | and Magni's father,",
+        "The strong one of the gods; | with Thor now speech canst thou get.",
+        "And now would I know | what name thou hast.\"⟦9⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "p",
+       "s": "Ferjukarlinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Hárbarðr ek heiti,",
+        "hylk um nafn sjaldan.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Ferjukarlinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Hárbarður eg heiti,",
+        "hylk um nafn sjaldan.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "The ferryman spake:",
+        "\"Harbarth am I, | and seldom I hide my name.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Hvat skaltu of nafn hylja,",
+        "nema þú sakar eigir?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Hvað skaltu of nafn hylja,",
+        "nema þú sakir eegir?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Thor spake:",
+        "\"Why shouldst thou hide thy name, | if quarrel thou hast not?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"En þótt ek sakar eiga,",
+        "þá mun ek forða fjörvi mínu",
+        "fyr slíkum sem þú ert,",
+        "nema ek feigr sé.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"En þótt eg sakir eiga,",
+        "þá mun eg forða fjörvi mínu",
+        "fyr slíkum sem þú ert,",
+        "nema eg feigur sé.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Harbarth spake:",
+        "\"And though I had a quarrel, | from such as thou art",
+        "Yet none the less | my life would I guard,",
+        "Unless I be doomed to die.\"⟦12⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Harm ljótan",
+        "mér þykkir í því",
+        "at vaða um váginn til þín",
+        "ok væta ögur minn;",
+        "skylda ek launa",
+        "kögursveini þínum",
+        "kanginyrði,",
+        "ef ek kæmumk yfir sundit.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Harm ljótan",
+        "mér þykir í því",
+        "að vaða um váginn til þín",
+        "og væta ögur minn;",
+        "skylda eg launa",
+        "kögursveini þínum",
+        "kanginyrði,",
+        "ef eg kæmumk yfir sundið.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Thor spake:",
+        "\"Great trouble, methinks, | would it be to come to thee,",
+        "To wade the waters across, | and wet my middle;",
+        "Weakling, well shall I pay | thy mocking words,",
+        "if across the sound I come.\"⟦13⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Hér mun ek standa",
+        "ok þín heðan bíða;",
+        "fannt-a þú mann in harðara",
+        "at Hrungni dauðan.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Hér mun eg standa",
+        "og þín héðan bíða;",
+        "fannt-a þú mann hin harðar",
+        "að Hrungni dauðan.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Harbarth spake:",
+        "\"Here shall I stand | and await thee here;",
+        "Thou hast found since Hrungnir died | no fiercer man.\"⟦14⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Hins viltu nú geta,",
+        "er vit Hrungnir deildum,",
+        "sá inn stórúðgi jötunn,",
+        "er ór steini var höfuðit á;",
+        "þó lét ek hann falla",
+        "ok fyrir hníga.",
+        "Hvat vanntu þá meðan, Hárbarðr?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Hins viltu nú geta,",
+        "er vit Hrungnir deildum,",
+        "sá hinn stórúðgi jötunn,",
+        "er úr steini var höfuðið á;",
+        "þó lét eg hann falla",
+        "og fyrir hníga.",
+        "Hvað vanntu þá meðan, Hárbarður?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Thor spake:",
+        "\"Fain art thou to tell | how with Hrungnir I fought,",
+        "The haughty giant, | whose head of stone was made;",
+        "And yet I felled him, | and stretched him before me.",
+        "What, Harbarth, didst thou the while?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      15
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Var ek með Fjölvari",
+        "fimm vetr alla",
+        "í ey þeiri,",
+        "er Algræn heitir;",
+        "vega vér þar knáttum",
+        "ok val fella,",
+        "margs at freista,",
+        "mans at kosta.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Var eg með Fjölvari",
+        "fimm vetur alla",
+        "í ey þeirri,",
+        "er Algræn heitir;",
+        "vega vér þar knáttum",
+        "og val fella,",
+        "margs að freista,",
+        "mans að kosta.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Harbarth spake:",
+        "Five full winters | with Fjolvar was I,",
+        "And dwelt in the isle | that is Algrön called;",
+        "There could we fight, | and fell the slain,",
+        "Much could we seek, | and maids could master.\"⟦16⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      16
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Hversu snúnuðu yðr konur yðrar?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Hversu snúnuðu yður konur yðrar?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Thor spake:",
+        "\"How won ye success with your women?\"⟦17⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      17
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Sparkar áttu vér konur,",
+        "ef oss at spökum yrði;",
+        "horskar áttu vér konur,",
+        "ef oss hollar væri;",
+        "þær ór sandi",
+        "síma undu,",
+        "ok ór dali djúpum",
+        "grund of grófu;",
+        "varð ek þeim einn öllum",
+        "efri at ráðum;",
+        "hvílda ek hjá þeim systrum sjau,",
+        "ok hafða ek geð þeira allt ok gaman.",
+        "Hvat vanntu þá meðan, Þórr?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Sparkar áttu vér konur,",
+        "ef oss að spökum yrðu;",
+        "horskar áttu vér konur,",
+        "ef oss hollar væri;",
+        "þær úr sandi",
+        "síma undu,",
+        "og úr dali djúpum",
+        "grund of grófu;",
+        "varð eg þeim einn öllum",
+        "efri að ráðum;",
+        "hvílda eg hjá þeim systrum sjö,",
+        "og hafða eg geð þeirra allt og gaman.",
+        "Hvað vanntu þá meðan, Þór?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Harbarth spake:",
+        "\"Lively women we had, | if they wise for us were;",
+        "Wise were the women we had, | if they kind for us were;",
+        "For ropes of sand | they would seek to wind,",
+        "And the bottom to dig | from the deepest dale.",
+        "Wiser than all | in counsel I was,",
+        "And there I slept | by the sisters seven,",
+        "And joy full great | did I get from each.",
+        "What, Thor, didst thou the while?\"⟦18⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      18
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Ek drap Þjaza,",
+        "inn þrúðmóðga jötun,",
+        "upp ek varp augum",
+        "Alvalda sonar",
+        "á þann inn heiða himin;",
+        "þau eru merki mest",
+        "minna verka,",
+        "þau er allir menn síðan of séa.",
+        "Hvat vanntu þá meðan, Hárbarðr?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Eg drap Þjassa,",
+        "hinn þrúðmóðga jötun,",
+        "upp eg varp augum",
+        "Alvalda sonar",
+        "á þann hinn heiða himin;",
+        "þau eru merki mest",
+        "minna verka,",
+        "þau er allir menn síðan of séa.",
+        "Hvað vanntu þá meðan, Hárbarður?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Thor spake:",
+        "\"Thjazi I felled, | the giant fierce,",
+        "And I hurled the eyes | of Alvaldi's son",
+        "To the heavens hot above;",
+        "Of my deeds the mightiest | marks are these,",
+        "That all men since can see.",
+        "What, Harbarth, didst thou the while?\"⟦19⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Miklar manvélar",
+        "ek hafða við myrkriður,",
+        "þá er ek vélta þær frá verum;",
+        "harðan jötun",
+        "ek hugða Hlébarð vera,",
+        "gaf hann mér gambantein,",
+        "en ek vélta hann ór viti.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Miklar manvélar",
+        "eg hafða við myrkriður,",
+        "þá er eg vélta þær frá verum;",
+        "harðan jötun",
+        "eg hugði Hlébarð vera,",
+        "gaf hann mér gambantein,",
+        "en eg vélta hann úr viti.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Harbarth spake:",
+        "\"Much love-craft I wrought | with them who ride by night,",
+        "When I stole them by stealth from their husbands;",
+        "A giant hard | was Hlebarth, methinks:",
+        "His wand he gave me as gift,",
+        "And I stole his wits away.\"⟦20⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      20
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Illum huga",
+        "launaðir þú þá góðar gjafar.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Illum huga",
+        "launaðir þú þá góðar gafar.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Thor spake:",
+        "\"Thou didst repay good gifts with evil mind.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      21
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Þat hefr eik,",
+        "er af annarri skefr,",
+        "of sik er hverr í slíku.",
+        "Hvat vanntu þá meðan Þórr?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Það hefur eik,",
+        "er af annarri skefur,",
+        "of sig er hver í slíku.",
+        "Hvað vanntu þá meðan Þór?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Harbarth spake:",
+        "\"The oak must have | what it shaves from another;",
+        "In such things each for himself.",
+        "What, Thor, didst thou the while?\"⟦22⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      22
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Ek var austr",
+        "ok jötna barðak",
+        "brúðir bölvísar,",
+        "er til bjargs gengu;",
+        "mikil myndi ætt jötna,",
+        "ef allir lifði",
+        "vætr myndi manna",
+        "undir Miðgarði.",
+        "Hvat vanntu þá meðan, Hárbarðr?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Eg var austur",
+        "og jötna barðak",
+        "brúðir bölvísar,",
+        "er til bjargs gengu;",
+        "mikil myndi ætt jötna,",
+        "ef allir lifði",
+        "vætur myndi manna",
+        "undir Miðgarði.",
+        "Hvað vanntu þá meðan, Hárbarður?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Thor spake:",
+        "\"Eastward I fared, | of the giants I felled",
+        "Their ill-working women | who went to the mountain;",
+        "And large were the giants' throng | if all were alive;",
+        "No men would there be | in Mithgarth more.",
+        "What, Harbarth, didst thou the while?\"⟦23⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      23
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Var ek á Vallandi",
+        "ok vígum fylgdak,",
+        "atta ek jöfrum,",
+        "en aldri sættak;",
+        "Óðinn á jarla,",
+        "þá er í val falla,",
+        "en Þórr á þrælakyn.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Var eg á Vallandi",
+        "og vígum fylgdak,",
+        "atta eg jöfrum,",
+        "en aldrei sættak;",
+        "Óðinn á jarla,",
+        "þá er í val falla,",
+        "en Þór á þrælakyn.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Harbarth spake:",
+        "\"In Valland I was, | and wars I raised,",
+        "Princes I angered, | and peace brought never;",
+        "The noble who fall | in the fight hath Othin,",
+        "And Thor hath the race of the thralls.\"⟦24⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      24
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Ójafnt skipta",
+        "er þú myndir með ásum liði,",
+        "ef þú ættir vilgi mikils vald.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Ójafnt skipta",
+        "er þú myndir með ásum liði,",
+        "ef þú ættir vilgi mikils vald.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Thor spake:",
+        "\"Unequal gifts | of men wouldst thou give to the gods,",
+        "If might too much thou shouldst have.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      25
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Þórr á afl ærit,",
+        "en ekki hjarta;",
+        "af hræðslu ok hugbleyði",
+        "þér var í hanzka troðit,",
+        "ok þóttisk-a þú þá Þórr vera;",
+        "hvárki þú þá þorðir",
+        "fyr hræðslu þinni",
+        "hnjósa né físa,",
+        "svá at Fjalarr heyrði.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Þór á afl ærið,",
+        "en ekki hjarta;",
+        "af hræðslu og hugbleyði",
+        "þér var í hanska troðið,",
+        "og þóttisk-a þú þá Þór vera;",
+        "hvárki þú þá þorðir",
+        "fyr hræðslu þinni",
+        "hnjósa né físa,",
+        "svo að Fjalar heyrði.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Harbarth spake:",
+        "\"Thor has might enough, | but never a heart;",
+        "For cowardly fear | in a glove wast thou fain to crawl,",
+        "And there forgot thou wast Thor;",
+        "Afraid there thou wast, | thy fear was such,",
+        "To fart or sneeze | lest Fjalar should hear.\"⟦26⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      26
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Hárbarðr inn ragi,",
+        "ek mynda þik í hel drepa,",
+        "ef ek mætta seilask um sund.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Hárbarður hinn ragi,",
+        "eg mun þig í hel drepa,",
+        "ef eg mætta seilast um sund.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Thor spake:",
+        "\"Thou womanish Harbarth, | to hell would I smite thee straight,",
+        "Could mine arm reach over the sound.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      27
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s28",
+     "stanza": 28,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Hvat skyldir um sund seilask,",
+        "er sakir ro alls engar?",
+        "Hvat vanntu þá, Þórr?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Hvað skyldir um sund seilast,",
+        "er sakir ro alls engar?",
+        "Hvað vanntu þá, Þór?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Harbarth spake:",
+        "\"Wherefore reach over the sound, | since strife we have none?",
+        "What, Thor, didst thou do then?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      28
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s29",
+     "stanza": 29,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Ek var austr",
+        "ok ána varðak,",
+        "þá er mik sóttu",
+        "þeir Svárangs synir;",
+        "grjóti þeir mik börðu,",
+        "gagni urðu þeir þó lítt fegnir,",
+        "þó urðu þeir mik fyrri",
+        "friðar at biðja.",
+        "Hvat vanntu þá meðan, Hárbarðr?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Eg var austur",
+        "og ána varðak,",
+        "þá er mig sóttu",
+        "þeir Svárangs synir;",
+        "grjóti þeir mig börðu,",
+        "gagni urðu þeir þó lítt fegnir,",
+        "þó urðu þeir mig fyrri",
+        "friðar að biðja.",
+        "Hvað vanntu þá meðan, Hárbarður?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Thor spake:",
+        "\"Eastward I was, | and the river I guarded well,",
+        "Where the sons of Svarang | sought me there;",
+        "Stones did they hurl; | small joy did they have of winning;",
+        "Before me there | to ask for peace did they fare.",
+        "What, Harbarth, didst thou the while?\"⟦29⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      29
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s30",
+     "stanza": 30,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"Ek var austr",
+        "ok við einhverja dæmðak,",
+        "lék ek við ina línhvítu",
+        "ok launþing háðak;",
+        "gladdak ina gullbjörtu,",
+        "gamni mær unði.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"Eg var austur",
+        "og við einhverja dæmðak,",
+        "lék eg við hina línhvítu",
+        "og launþing háðak;",
+        "gladdak hina gullbjörtu,",
+        "gamni mær unti.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Harbarth spake:",
+        "\"Eastward I was, | and spake with a certain one,",
+        "I played with the linen-white maid, | and met her by stealth;",
+        "I gladdened the gold-decked one, | and she granted me joy.\"⟦30⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      30
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s31",
+     "stanza": 31,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Góð átt þú þér mankynni þar þá.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Góð átt þú þér mankynni þar þá.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Thor spake:",
+        "\"Full fair was thy woman-finding.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      31
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s32",
+     "stanza": 32,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Liðs þíns",
+        "væra ek þá þurfi, Þórr,",
+        "at ek helda þeiri inni línhvítu mey.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Liðs þíns",
+        "væri eg þá þurfi, Þór,",
+        "að eg helda þeirri inni línhvítu mey.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Harbarth spake:",
+        "\"Thy help did I need then, Thor, | to hold the white maid fast.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      32
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s33",
+     "stanza": 33,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Ek munda þér þá þat veita,",
+        "ef ek viðr of kæmumk.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Eg munda þér þá það veita,",
+        "ef eg viður of kæmumk.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Thor spake:",
+        "\"Gladly, had I been there, | my help to thee had been given.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      33
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s34",
+     "stanza": 34,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Ek mynda þér þá trúa,",
+        "nema þú mik í tryggð véltir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Eg mun þér þá trúa,",
+        "nema þú mig í tryggð véltir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Harbarth spake:",
+        "\"I might have trusted thee then, | didst thou not betray thy troth.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      34
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s35",
+     "stanza": 35,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "\"Emk-at ek sá hælbítr",
+        "sem húðskór forn á vár.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "\"Emk-at eg sá hælbítur",
+        "sem húðskór forn á vár.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Thor spake:",
+        "\"No heel-biter am I, in truth, | like an old leather shoe in spring.\"⟦35⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      35
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s36",
+     "stanza": 36,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "\"Hvat vanntu þá meðan, Þórr?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "\"Hvað vanntu þá meðan, Þór?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Harbarth spake:",
+        "\"What, Thor, didst thou the while?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      36
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s37",
+     "stanza": 37,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Brúðir berserkja",
+        "barðak í Hléseyju;",
+        "þær höfðu verst unnit,",
+        "vélta þjóð alla.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Brúðir berserkja",
+        "barðak í Hléseyju;",
+        "þær höfðu verst unnið,",
+        "vélta þjóð alla.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Thor spake:",
+        "\"In Hlesey the brides | of the Berserkers slew I;",
+        "Most evil they were, | and all they betrayed.\"⟦37⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      37
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s38",
+     "stanza": 38,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "\"Klæki vanntu þá, Þórr,",
+        "er þú á konum barðir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "\"Klæki vanntu þá, Þór,",
+        "er þú á konum barðir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Harbarth spake:",
+        "\"Shame didst thou win, | that women thou slewest, Thor.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      38
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s39",
+     "stanza": 39,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Vargynjur þat váru,",
+        "en varla konur,",
+        "skelldu skip mitt,",
+        "er ek skorðat hafðak,",
+        "ægðu mér járnlurki",
+        "en eltu Þjalfa.",
+        "Hvat vanntu meðan, Hárbarðr?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Vargynjur það voru,",
+        "en varla konur,",
+        "skelldu skip mitt,",
+        "er eg skorðað hafðak,",
+        "ægðu mér járnlurki",
+        "en eltu Þjalfa.",
+        "Hvað vanntu meðan, Hárbarður?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Thor spake:",
+        "\"She-wolves they were like, | and women but little;",
+        "My ship, which well | I had trimmed, did they shake;",
+        "With clubs of iron they threatened, | and Thjalfi they drove off.",
+        "What, Harbarth, didst thou the while?\"⟦39⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      39
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s40",
+     "stanza": 40,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "\"Ek vark í hernum,",
+        "er hingat gerðisk",
+        "gnæfa gunnfana,",
+        "geir at rjóða.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "\"Eg vark í hernum,",
+        "er hingað gerðist",
+        "gnæfa gunnfana,",
+        "geir að rjóða.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Harbarth spake:",
+        "\"In the host I was | that hither fared,",
+        "The banners to raise, | and the spear to redden.\"⟦40⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      40
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s41",
+     "stanza": 41,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Þess viltu nú geta,",
+        "er þú fórt oss óljúfan at bjóða.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Þess viltu nú geta,",
+        "er þú fórt oss óljúfan að bjóða.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "Thor spake:",
+        "\"Wilt thou now say | that hatred thou soughtest to bring us?\"⟦41⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      41
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s42",
+     "stanza": 42,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "\"Bæta skal þér þat þá",
+        "munda baugi,",
+        "sem jafnendr unnu,",
+        "þeir er okkr vilja sætta.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "\"Bæta skal þér það þá",
+        "munda baugi,",
+        "sem jafnendur unnu,",
+        "þeir er okkur vilja sætta.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "Harbarth spake:",
+        "\"A ring for thy hand | shall make all right for thee,",
+        "As the judge decides | who sets us two at peace.\"⟦42⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      42
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s43",
+     "stanza": 43,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "\"Hvar namtu þessi",
+        "in hnæfiligu orð,",
+        "er ek heyrða aldregi",
+        "in hnæfiligri?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "\"Hvar namtu þessi",
+        "hin hnæfiligu orð,",
+        "er eg heyrði aldregi",
+        "hin hnæfiligri?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "Thor spake:",
+        "\"Where foundest thou | so foul and scornful a speech?",
+        "More foul a speech | I never before have heard.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      43
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s44",
+     "stanza": 44,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "\"Nam ek at mönnum",
+        "þeim inum aldrænum,",
+        "er búa í heimis skógum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "\"Nam eg að mönnum",
+        "þeim hinum aldrænum,",
+        "er búa í heimis skógum.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "Harbarth spake:",
+        "\"I learned it from men, | the men so old,",
+        "Who dwell in the hills of home.\"⟦44⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      44
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s45",
+     "stanza": 45,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "\"Þó gefr þú gott nafn dysjum,",
+        "er þú kallar þær heimis skóga.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "\"Þó gefur þú gott nafn dysjum,",
+        "er þú kallar þær heimis skóga.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "Thor spake:",
+        "\"A name full good | to heaps of stones thou givest",
+        "When thou callest them hills of home.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      45
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s46",
+     "stanza": 46,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "\"Svá dæmi ek of slíkt far.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "\"Svo dæmi eg of slíkt far.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "Harbarth spake:",
+        "\"Of such things speak I so.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      46
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s47",
+     "stanza": 47,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "\"Orðkringi þín",
+        "mun þér illa koma,",
+        "ef ek ræð á vág at vaða;",
+        "ulfi hæra",
+        "hygg ek þik æpa munu,",
+        "ef þú hlýtr af hamri högg.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "\"Orðkringi þín",
+        "mun þér illa koma,",
+        "ef eg ræð á vág að vaða;",
+        "ulfi hærra",
+        "hygg eg þig æpa munu,",
+        "ef þú hlýtur af hamri högg.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "Thor spake:",
+        "\"Ill for thee comes | thy keenness of tongue,",
+        "If the water I choose to wade;",
+        "Louder, I ween, | than a wolf thou cryest,",
+        "If a blow of my hammer thou hast.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      47
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s48",
+     "stanza": 48,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "\"Sif á hó heima,",
+        "hans muntu fund vilja,",
+        "þann muntu þrek drýgja,",
+        "þat er þér skyldara.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "\"Sif á hó heima,",
+        "hans muntu fund vilja,",
+        "þann muntu þreg drýgja,",
+        "það er þér skyldara.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "Harbarth spake:",
+        "\"Sif has a lover at home, | and him shouldst thou meet;",
+        "More fitting it were | on him to put forth thy strength.\"⟦48⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      48
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s49",
+     "stanza": 49,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "\"Mælir þú at munns ráði,",
+        "svá at mér skyldi verst þykkja,",
+        "halr inn hugblauði,",
+        "hygg ek, at þú ljúgir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "\"Mælir þú að munns ráði,",
+        "svo að mér skyldi verst þykja,",
+        "halur hinn hugblauði,",
+        "hygg eg, að þú ljúgir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "Thor spake:",
+        "\"Thy tongue still makes thee say | what seems most ill to me,",
+        "Thou witless man! Thou liest, I ween.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      49
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s50",
+     "stanza": 50,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "\"Satt hygg ek mik segja;",
+        "seinn ertu at för þinni,",
+        "langt myndir þú nú kominn, Þórr,",
+        "ef þú litum færir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "\"Satt hygg eg mig segja;",
+        "seinn ertu að för þinni,",
+        "langt myndir þú nú kominn, Þór,",
+        "ef þú litum færir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "Harbarth spake:",
+        "\"Truth do I speak, | but slow on thy way thou art;",
+        "Far hadst thou gone | if now in the boat thou hadst fared.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      50
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s51",
+     "stanza": 51,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "\"Hárbarðr inn ragi,",
+        "heldr hefr þú nú mik dvalðan.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "\"Hárbarður hinn ragi,",
+        "heldur hefur þú nú mig dvalðan.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "Thor spake:",
+        "\"Thou womanish Harbarth! | here hast thou held me too long.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      51
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s52",
+     "stanza": 52,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "\"Ása-þórs hugða ek",
+        "aldregi mundu",
+        "glepja féhirði farar.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "\"Ása-þórs hugði eg",
+        "aldregi myndu",
+        "glepja féhirði farar.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "Harbarth spake:",
+        "\"I thought not ever | that Asathor would be hindered",
+        "By a ferryman thus from faring.\"⟦52⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      52
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s53",
+     "stanza": 53,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "\"Ráð mun ek þér nú ráða;",
+        "ró þú hingat bátinum,",
+        "hættum hætingi,",
+        "hittu föður Magna.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "\"Ráð mun eg þér nú ráða;",
+        "ró þú hingað bátinum,",
+        "hættum hætingi,",
+        "hittu föður Magna.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "Thor spake:",
+        "\"One counsel I bring thee now: | row hither thy boat;",
+        "No more of scoffing; | set Magni's father across.\"⟦53⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      53
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s54",
+     "stanza": 54,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "\"Farðu firr sundi,",
+        "þér skal fars synja.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "\"Farðu fir sundi,",
+        "þér skal fars synja.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "Harbarth spake:",
+        "\"From the sound go hence; | the passage thou hast not.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      54
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s55",
+     "stanza": 55,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "\"Vísa þú mér nú leiðina,",
+        "alls þú vill mik eigi um váginn ferja.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "\"Vísa þú mér nú leiðina,",
+        "alls þú vill mig eigi um váginn ferja.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "Thor spake:",
+        "\"The way now show me, | since thou takest me not o'er the water.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      55
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s56",
+     "stanza": 56,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 56,
+       "l": [
+        "Lítit er at synja,",
+        "langt er at fara;",
+        "stund er til stokksins,",
+        "önnur til steinsins,",
+        "haltu svá til vinstra vegsins,",
+        "unz þú hittir Verland;",
+        "þar mun Fjörgyn",
+        "hitta Þór, son sinn,",
+        "ok mun hon kenna hánum áttunga brautir",
+        "til Óðins landa.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 56,
+       "l": [
+        "Lítið er að synja,",
+        "langt er að fara;",
+        "stund er til stokksins,",
+        "önnur til steinsins,",
+        "haltu svo til vinstra vegsins,",
+        "uns þú hittir Verland;",
+        "þar mun Fjörgyn",
+        "hitta Þór, son sinn,",
+        "og mun hún kenna hánum áttunga brautir",
+        "til Óðins landa.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 56,
+       "l": [
+        "Harbarth spake:",
+        "\"To refuse it is little, | to fare it is long;",
+        "A while to the stock, | and a while to the stone;",
+        "Then the road to thy left, | till Verland thou reachest;",
+        "And there shall Fjorgyn | her son Thor find,",
+        "And the road of her children | she shows him to Othin's realm.\"⟦56⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      56
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s57",
+     "stanza": 57,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 57,
+       "l": [
+        "\"Mun ek taka þangat í dag?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 57,
+       "l": [
+        "\"Mun eg taka þangað í dag?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 57,
+       "l": [
+        "Thor spake:",
+        "\"May I come so far in a day?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      57
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s58",
+     "stanza": 58,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 58,
+       "l": [
+        "\"Taka við víl ok erfiði,",
+        "at upprennandi sólu,",
+        "er ek get þána.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 58,
+       "l": [
+        "\"Taka við víl og erfiði,",
+        "að upprennandi sólu,",
+        "er eg get þána.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 58,
+       "l": [
+        "Harbarth spake:",
+        "\"With toil and trouble perchance,",
+        "While the sun still shines, | or so I think.\"⟦58⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      58
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s59",
+     "stanza": 59,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 59,
+       "l": [
+        "\"Skammt mun nú mál okkat,",
+        "alls þú mér skætingu einni svarar;",
+        "launa mun ek þér farsynjun,",
+        "ef vit finnumk í sinn annat.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 59,
+       "l": [
+        "\"Skammt mun nú mál okkað,",
+        "alls þú mér skætingu einni svarar;",
+        "launa mun eg þér farsynjun,",
+        "ef vit finnumk í sinn annað.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 59,
+       "l": [
+        "Thor spake:",
+        "\"Short now shall be our speech, | for thou speakest in mockery only;",
+        "The passage thou gavest me not | I shall pay thee if ever we meet.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      59
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hrbl-s60",
+     "stanza": 60,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hárbarðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 60,
+       "l": [
+        "\"Far þú nú,",
+        "þars þik hafi allan gramir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hárbarður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 60,
+       "l": [
+        "\"Far þú nú,",
+        "þars þig hafi allan gramir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 60,
+       "l": [
+        "Harbarth spake:",
+        "\"Get hence where every evil thing shall have thee!\"⟦60⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      60
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "p1",
+     "s": "Prose. Harbarth (\"Gray-Beard\"): Othin. On the nature of the prose notes found in the manuscripts, cf. Grimnismol, introduction. Thor: the journeys of the thunder-god were almost as numerous as those of Othin; cf . Thrymskvitha and Hymiskvitha. Like the Robin Hood of the British ballads, Thor was often temporarily worsted, but always managed to come out ahead in the end. His \"Journey in the East\" is presumably the famous episode, related in full by Snorri, in the course of which he encountered the giant Skrymir, and in the house of Utgartha-Loki lifted the cat which turned out to be Mithgarthsorm. The Hymiskvitha relates a further incident of this journey."
+    },
+    {
+     "n": "2",
+     "s": "The superscriptions to the speeches are badly confused in the manuscripts, but editors have agreed fairly well as to where they belong."
+    },
+    {
+     "n": "3",
+     "s": "From the fact that in Regius line 3 begins with a capital letter, it is possible that lines 3-4 constitute the ferryman's reply, with something lost before stanza 4."
+    },
+    {
+     "n": "4",
+     "s": "Thy mother: Jorth (Earth)"
+    },
+    {
+     "n": "5",
+     "s": "Some editors assume a lacuna after this stanza."
+    },
+    {
+     "n": "6",
+     "s": "Three good dwellings: this has been generally assumed to mean three separate establishments, but may refer simply to the three parts of a single farm, the dwelling proper, the cattle-barn and the storehouse; i.e., Thor is not even a respectable peasant."
+    },
+    {
+     "n": "8",
+     "s": "Hildolf (\"slaughtering wolf\"): not elsewhere mentioned in the Edda. Rathsey (\"Isle of Counsel\"): likewise not mentioned elsewhere."
+    },
+    {
+     "n": "9",
+     "s": "In danger: Thor is \"sekr,\" i.e., without the protection of any law, so long as he is in the territory of his enemies, the giants. Meili: a practically unknown son of Othin, mentioned here only in the Edda. Magni: son of Thor and the giantess Jarnsaxa; after Thor's fight with Hrungir (cf. stanza 14, note) Magni, though but three days old, was the only one of the gods strong enough to lift the dead giant's foot from Thor's neck. After rescuing his father, Magni said to him: \"There would have been little trouble, father, had I but come sooner; I think I should have sent this giant to hell with my fist if I had met him first.\" Magni and his brother, Mothi, inherit Thor's hammer."
+    },
+    {
+     "n": "12",
+     "s": "This stanza is hopelessly confused as to form, but none of the editorial rearrangements have materially altered the meaning. Doomed to die: the word \"feigr\" occurs constantly in the Old Norse poems and sagas; the idea of an inevitable but unknown fate seems to have been practically universal throughout the pre-Christian period. On the concealment of names from enemies, cf. Fafnismol, prose after stanza 1."
+    },
+    {
+     "n": "13",
+     "s": "This stanza, like the preceding one, is peculiarly chaotic in the manuscript, and has been variously emended."
+    },
+    {
+     "n": "14",
+     "s": "Hrungnir: this giant rashly wagered his head that his horse, Gullfaxi, was swifter than Othin's Sleipnir. In the race, which Hrungnir lost, he managed to dash uninvited into the home of the gods, where he became very drunk. Thor ejected him, and accepted his challenge to a duel. Hrungnir, terrified, had a helper made for him in the form of a dummy giant nine miles high and three miles broad. Hrungnir himself had a three-horned heart of stone and a head of stone; his shield was of stone and his weapon was a grindstone. But Thjalfi, Thor's servant, told him the god would attack him out of the ground, wherefore Hrungnir laid down his shield and stood on it. The hammer Mjollnir shattered both the grindstone and Hrungnir's head, but part of the grindstone knocked Thor down, and the giant fell with his foot on Thor's neck (cf. note on stanza 9). Meanwhile Thjalfi dispatched the dummy giant without trouble."
+    },
+    {
+     "n": "16",
+     "s": "Fjolvar: not elsewhere mentioned in the poems; perhaps the father of the \"seven sisters\" referred to in stanza 18. Algrön \"The All-Green\": not mentioned elsehwere in the Edda."
+    },
+    {
+     "n": "17",
+     "s": "Thor is always eager for stories of this sort; cf. stanzas 31 and 33."
+    },
+    {
+     "n": "18",
+     "s": "Lines 1-2 are obscure, but apparently Harbarth means that the women were wise to give in to him cheerfully, resistance to his power being as impossible as (lines 3-4) making ropes of sand or digging the bottoms out of the valleys. Nothing further is known of these unlucky \"seven sisters.\""
+    },
+    {
+     "n": "19",
+     "s": "Thjazi: this giant, by a trick, secured possession of the goddess Ithun and her apples (cf. Skirnismol, 19, note), and carried her off into Jotunheim. Loki, through whose fault she had been betrayed, was sent after her by the gods. He went in Freyja's \"hawk's-dress\" (cf. Thrymskvitha, 3), turned Ithun into a nut, and flew back with her. Thjazi, in the shape of an eagle, gave chase. But the gods kindled a fire which burnt the eagle's wings, and then they killed him. Snorri's prose version does not attribute this feat particularly to Thor. Thjazi's daughter was Skathi, whom the gods permitted to marry Njorth as a recompense for her father's death. Alvaldi: of him we know only that he was the father of Thjazi, Ithi and Gang, who divided his wealth, each taking a mouthful of gold. The name is variously spelled. It is not known which stars were called \"Thjazi's Eyes.\" In the middle of line 4 begins the fragmentary version of the poem found in the Arnamagnæan Codex."
+    },
+    {
+     "n": "20",
+     "s": "Riders by night: witches, who were supposed to ride on wolves in the dark. Nothing further is known of this adventure."
+    },
+    {
+     "n": "22",
+     "s": "The oak, etc.: this proverb is found elsewhere (e.g., Grettissaga) in approximately the same words. Its force is much like our \"to the victor belong the spoils.\""
+    },
+    {
+     "n": "23",
+     "s": "Thor killed no women of the giants' race on the \"journey to the East\" so fully described by Snorri, his great giant-killing adventure being the one narrated in the Thrymskvitha."
+    },
+    {
+     "n": "24",
+     "s": "Valland: this mythical place (\"Land of Slaughter\") is elsewhere mentioned, but not further characterised; cf. prose introduction to Völundarkvitha, and Helreith Brynhildar, 2. On the bringing of slain heroes to Othin, cf. Voluspo, 31 and note, and, for a somewhat different version, Grimnismol, 14. Nowhere else is it indicated that Thor has an asylum for dead peasants."
+    },
+    {
+     "n": "26",
+     "s": "The reference here is to one of the most familiar episodes in Thor's eastward journey. He and his companions came to a house in the forest, and went in to spend the night. Being disturbed by an earthquake and a terrific noise, they all crawled into a smaller room opening from the main one. In the morning, however, they discovered that the earthquake had been occasioned by the giant Skrymir's lying down near them, and the noise by his snoring. The house in which they had taken refuge was his glove, the smaller room being the thumb. Skrymir was in fact Utgartha-Loki himself. That he is in this stanza called Fjalar (the name occurs also in Hovamol, 14) is probably due to a confusion of the names by which Utgartha-Loki went. Loki taunts Thor with this adventure in Lokasenna, 60 and 62, line 3 of this stanza being perhaps interpolated from Lokasenna, 60, 4."
+    },
+    {
+     "n": "29",
+     "s": "The river: probably Ifing, which flows between the land of the gods and that of the giants; cf. Vafthruthnismol, 16. Sons of Svarang: presumably the giants; Svarang is not elsewhere mentioned in the poems, nor is there any other account of Thor's defense of the passage."
+    },
+    {
+     "n": "30",
+     "s": "Othin's adventure of this sort were too numerous to make it possible to identify this particular person. By stealth: so the Arnamagnæan Codes; Regius, followed by several editors, has \"long meeting with her.\""
+    },
+    {
+     "n": "35",
+     "s": "Heel-biter: this effective parallel to our \"back-biter\" is not found elsewhere in Old Norse."
+    },
+    {
+     "n": "37",
+     "s": "Hlesey: \"the Island of the Sea-God\" (Hler = Ægir), identified with the Danish island Läsö, in the Kattegat. It appears again, much out of place, in Oddrunargratr, 28. Berserkers: originally men who could turn themselves into bears, hence the name, \"bear-shirts\"; cf. the werewolf or loupgarou. Later the name was applied to men who at times became seized with a madness for bloodshed; cf. Hyndluljoth, 23 and note. The women here mentioned are obviously of the earlier type."
+    },
+    {
+     "n": "39",
+     "s": "Thjalfi: Thor's servant; cf. note on stanza 14."
+    },
+    {
+     "n": "40",
+     "s": "To what expedition this refers is unknown, but apparently Othin speaks of himself as allied to the foes of the gods."
+    },
+    {
+     "n": "41",
+     "s": "Hatred: so Regius; the other manuscript has, apparently, \"sickness.\""
+    },
+    {
+     "n": "42",
+     "s": "Just what Othin means, or why his words should so have enraged Thor, is not evident, though he may imply that Thor is open to bribery. Perhaps a passage has dropped out before stanza 43."
+    },
+    {
+     "n": "44",
+     "s": "Othin refers to the dead, from whom he seeks information through his magic power."
+    },
+    {
+     "n": "48",
+     "s": "Sif: Thor's wife, the lover being presumably Loki; cf. Lokasenna, 54."
+    },
+    {
+     "n": "52",
+     "s": "Asathor: Thor goes by various names in the poems: e.g., Vingthor, Vingnir, Hlorrithi. Asathor means \"Thor of the Gods.\""
+    },
+    {
+     "n": "53",
+     "s": "Magni: Thor's son; cf. stanza 9 and note."
+    },
+    {
+     "n": "56",
+     "s": "Line 2: the phrases mean simply \"a long way\"; cf. \"over stock and stone.\" Verland: the \"Land of Men\" to which Thor must come from the land of the giants. The Arnamagnæan Codex has \"Valland\" (cf. stanza 24 and note), but this is obviously an error. Fjorgyn: a feminine form of the same name, which belongs to Othin (cf. Voluspo, 56 and note); here it evidently means Jorth (Earth), Thor's mother. The road: the rainbow bridge, Bifrost; cf. Grimnismol, 29 and note."
+    },
+    {
+     "n": "58",
+     "s": "Line 2: so Regius; the other manuscript has \"ere sunrise.\""
+    },
+    {
+     "n": "60",
+     "s": "The Arnamagnæan Codex clearly indicates Harbarth as the speaker of this line, but Regius has no superscription, and begins the line with a small letter not preceded by a period, thereby assigning it to Thor."
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "The Harbarthsljoth is found complete in the Codex Regius, where it follows the Skirnismol, and from the fourth line of stan a 19 to the end of the poem in the Arnamagnæan Codex, of which it occupies the first page and a half.",
+    "The poem differs sharply from those which precede it in the Codex Regius, both in metrical form and in spirit. It is, indeed, the most nearly formless of all the Eddic poems. The normal metre is the Malahattr (cf. Introduction, where an example is given). The name of this verse-form means \"in the manner of conversation,\" and the Harbarthsljoth's verse fully justifies the term. The Atli poems exemplify the conventional use of Malahattr, but in the Harbarthsljoth the form is used with extraordinary freedom, and other metrical forms are frequently employed. A few of the speeches of which the poem is composed cannot be twisted into any known Old Norse metre, and appear to be simply prose.",
+    "How far this confusion is due to interpolations and faulty transmission of the original poem is uncertain. Finnur Jonsson has attempted a wholesale purification of the poem, but his arbitrary condemnation of words, lines, and entire stanzas as spurious is quite unjustified by any positive evidence. I have accepted Mogk's theory that the author was \"a first-rate psychologist, but a poor poet,\" and have translated the poem as it stands in the manuscripts. I have preserved the metrical confusion of the original by keeping throughout so far as possible to the metres found in the poem; if the rhythm of the translation is often hard to catch, the difficulty is no less with the original Norse.",
+    "The poem is simply a contest of abuse, such as the early Norwegian and Icelander delighted in, the opposing figures being Thor and Othin, the latter appearing in the disguise of the ferryman Harbarth. Such billingsgate lent itself readily to changes, interpolations and omissions, and it is little wonder that the poem is chaotic. It consists mainly of boasting and of references, often luckily obscure, to disreputable events in the life of one or the other of the disputants. Some editors have sought to read a complex symbolism into it, particularly by representing it as a contest between the noble or warrior class (Othin) and the peasant (Thor). But it seems a pity to take such a vigorous piece of broad farce too seriously.",
+    "Verse-form, substance, and certain linguistic peculiarities, notably the suffixed articles, point to a relatively late date (eleventh century) for the poem in its present form. Probably it had its origin in the early days, but its colloquial nature and its vulgarity made it readily susceptible to changes.",
+    "Owing to the chaotic state of the text, and the fact that none of the editors or commentators have succeeded in improving it much, I have not in this case attempted to give all the important emendations and suggestions. The stanza-divisions are largely arbitrary."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Hárbarðsljóð)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Harbarthsljoth"
+ }
+}

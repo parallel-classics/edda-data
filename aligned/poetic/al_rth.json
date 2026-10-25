@@ -1,0 +1,2861 @@
+{
+ "part": "poetic",
+ "poem": "rth",
+ "title": "Rígsþula",
+ "group": "myth",
+ "chapters": [
+  {
+   "num": 12,
+   "key": "rth",
+   "title": "Rígsþula",
+   "subtitle": null,
+   "group": "myth",
+   "rows": [
+    {
+     "id": "rth-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Svá segja menn í fornum sögum, at einnhverr af ásum, sá er Heimdallr hét, fór ferðar sinnar ok fram með sjóvarströndu nökkurri, kom at einum húsabæ ok nefndist Rígr. Eftir þeiri sögu er kvæði þetta:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Svo segja menn í fornum sögum, að einnhver af ásum, sá er Heimdallur hét, fór ferðar sinnar og fram með sjóvarströndu nokkurri, kom að einum húsabæ og nefndist Rígur. Eftir þeirri sögu er kvæði þetta:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p1⟧They tell in old stories⟦p2⟧ that one of the gods, whose name was Heimdall, went on his way along a certain seashore, and came to a dwelling, where he called himself Rig⟦p3⟧. According to these stories is the following poem:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Ár kváðu ganga",
+        "grænar brautir",
+        "öflgan ok aldinn",
+        "ás kunnigan,",
+        "ramman ok röskvan",
+        "Ríg stíganda."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Ár kváðu ganga",
+        "grænar brautir",
+        "öflgan og aldinn",
+        "ás kunnigan,",
+        "ramman og röskvan",
+        "Ríg stíganda."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Men say there went | by ways so green",
+        "Of old the god, | the aged and wise,",
+        "Mighty and strong | did Rig go striding.",
+        "..............................⟦1⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Gekk hann meir at þat",
+        "miðrar brautar;",
+        "kom hann at húsi,",
+        "hurð var á gætti;",
+        "inn nam at ganga,",
+        "eldr var á golfi;",
+        "hjón sátu þar",
+        "hár at arni,",
+        "Ái ok Edda,",
+        "aldinfalda."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Gekk hann meir að það",
+        "miðrar brautar;",
+        "kom hann að húsi,",
+        "hurð var á gætti;",
+        "hinn nam að ganga,",
+        "eldur var á golfi;",
+        "hjón sátu þar",
+        "hár að arni,",
+        "Ái og Edda,",
+        "aldinfalda."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Forward he went | on the midmost way,",
+        "He came to a dwelling, | a door on its posts;",
+        "In did he fare, | on the floor was a fire,",
+        "Two hoary ones | by the hearth there sat,",
+        "Ai and Edda, | in olden dress.⟦2⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Rígr kunni þeim",
+        "ráð at segja;",
+        "meir settisk hann",
+        "miðra fletja,",
+        "en á hlið hvára",
+        "hjón salkynna."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Rígur kunni þeim",
+        "ráð að segja;",
+        "meir settist hann",
+        "miðra fletja,",
+        "en á hlið hvára",
+        "hjón salkynna."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Rig knew well | wise words to speak,",
+        "Soon in the midst | of the room he sat,",
+        "And on either side | the others were.⟦3⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Þá tók Edda",
+        "ökkvinn hleif,",
+        "þungan ok þykkvan,",
+        "þrunginn sáðum;",
+        "bar hon meir at þat",
+        "miðra skutla,",
+        "soð var í bolla,",
+        "setti á bjóð;",
+        "var kalfr soðinn",
+        "krása beztr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Þá tók Edda",
+        "ökkvinn hleif,",
+        "þungan og þykkvan,",
+        "þrungin sáðum;",
+        "bar hún meir að það",
+        "miðra skutla,",
+        "soð var í bolla,",
+        "setti á bjóð;",
+        "var kalfur soðinn",
+        "krása bestur."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "A loaf of bread | did Edda bring,",
+        "Heavy and thick | and swollen with husks;",
+        "Forth on the table | she set the fare,",
+        "And broth for the meal | in a bowl there was.",
+        "(Calf's flesh boiled | was the best of the dainties.)⟦4⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Rígr kunni þeim",
+        "ráð at segja;",
+        "reis hann upp þaðan,",
+        "réðsk at sofna;",
+        "meir lagðisk hann",
+        "miðrar rekkju,",
+        "en á hlið hvára",
+        "hjón salkynna."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Rígur kunni þeim",
+        "ráð að segja;",
+        "reis hann upp þaðan,",
+        "réðst að sofna;",
+        "meir lagðist hann",
+        "miðrar rekkju,",
+        "en á hlið hvára",
+        "hjón salkynna."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Rig knew well | wise words to speak,",
+        "Thence did he rise, | made ready to sleep;",
+        "Soon in the bed | himself did he lay,",
+        "And on either side | the others were.⟦5⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Þar var hann at þat",
+        "þríar nætr saman,",
+        "gekk hann meir at þat",
+        "miðrar brautar;",
+        "liðu meir at þat",
+        "mánuðr níu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Þar var hann að það",
+        "þríar nætur saman,",
+        "gekk hann meir að það",
+        "miðrar brautar;",
+        "liðu meir að það",
+        "mánuður níu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Thus was he there | for three nights long,",
+        "Then forward he went | on the midmost way,",
+        "And so nine months | were soon passed by.⟦6⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Jóð ól Edda",
+        "jósu vatni,",
+        "hörvi svartan,",
+        "hétu Þræl."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Jóð ól Edda",
+        "jósu vatni,",
+        "hörvi svartan,",
+        "hétu Þræl."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "A son bore Edda, | with water they sprinkled him,",
+        "With a cloth his hair | so black they covered;",
+        "Thræll they named him, | . . . . . . . . . . . . . . .⟦7⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Hann nam at vaxa",
+        "ok vel dafna;",
+        "var þar á höndum",
+        "hrokkit skinn,",
+        "kropnir knúar,",
+        "fingr digrir,",
+        "fúlligt andlit,",
+        "lotr hryggr,",
+        "langir hælar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Hann nam að vaxa",
+        "og vel dafna;",
+        "var þar á höndum",
+        "hrokkið skinn,",
+        "kropnir knúar,",
+        "fingur digrir,",
+        "fúllegt andlit,",
+        "lotur hryggur,",
+        "langir hælar."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "The skin was wrinkled | and rough on his hands,",
+        "Knotted his knuckles, | . . . . . . . . . . . . . . .",
+        "Thick his fingers, | and ugly his face,",
+        "Twisted his back, | and big his heels.⟦8⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Nam han meir at þat",
+        "magns of kosta,",
+        "bast at binda,",
+        "byrðar gerva;",
+        "bar hann heim at þat",
+        "hrís gerstan dag."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Nam han meir að það",
+        "magns of kosta,",
+        "bast að binda,",
+        "byrðar gerva;",
+        "bar hann heim að það",
+        "hrís gerstan dag."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "He began to grow, | and to gain in strength,",
+        "Soon of his might | good use he made;",
+        "With bast he bound, | and burdens carried,",
+        "Home bore faggots | the whole day long.⟦9⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Þar kom at garði",
+        "gengilbeina,",
+        "aurr var á iljum,",
+        "armr sólbrunninn,",
+        "niðrbjúgt er nef,",
+        "nefndisk Þír."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Þar kom að garði",
+        "gengilbeina,",
+        "aur var á iljum,",
+        "armur sólbrunninn,",
+        "niðrbjúgt er nef,",
+        "nefndist Þír."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "One came to their home, | crooked her legs,",
+        "Stained were her feet, | and sunburned her arms,",
+        "Flat was her nose; | her name was Thir.⟦10⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Miðra fletja",
+        "meir settisk hon;",
+        "sat hjá henni",
+        "sonr húss;",
+        "ræddu ok rýndu,",
+        "rekkju gerðu",
+        "Þræll ok Þír",
+        "þrungin dægr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Miðra fletja",
+        "meir settist hún;",
+        "sat hjá henni",
+        "sonur húss;",
+        "ræddu og rýndu,",
+        "rekkju gerðu",
+        "Þræll og Þír",
+        "þrungin dægur."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Soon in the midst | of the room she sat,",
+        "By her side there sat | the son of the house;",
+        "They whispered both, | and the bed made ready,",
+        "Thræll and Thir, | till the day was through."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Börn ólu þau,",
+        "- bjuggu ok unðu, -",
+        "hygg ek at héti",
+        "Hreimr ok Fjósnir,",
+        "Klúrr ok Kleggi,",
+        "Kefsir, Fúlnir,",
+        "Drumbr, Digraldi,",
+        "Dröttr ok Hösvir.",
+        "Lútr ok Leggjaldi;",
+        "lögðu garða,",
+        "akra töddu,",
+        "unnu at svínum,",
+        "geita gættu,",
+        "grófu torf."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Börn ólu þau,",
+        "- bjuggu og unðu, -",
+        "hygg eg að héti",
+        "Hreimur og Fjósnir,",
+        "Klúr og Kleggi,",
+        "Kefsir, Fúlnir,",
+        "Drumbr, Digraldi,",
+        "Dröttur og Hösvir.",
+        "Lútur og Leggjaldi;",
+        "lögðu garða,",
+        "akra töddu,",
+        "unnu að svínum,",
+        "geita gættu,",
+        "grófu torf."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Children they had, | they lived and were happy,",
+        "Fjosnir and Klur | they were called, methinks,",
+        "Hreim and Kleggi, | Kefsir, Fulnir,",
+        "Drumb, Digraldi, | Drott and Leggjaldi,",
+        "Lut and Hosvir; | the house they cared for,",
+        "Ground they dunged, | and swine they guarded,",
+        "Goats they tended, | and turf they dug.⟦12⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Dætr váru þær",
+        "Drumba ok Kumba,",
+        "Ökkvinkalfa",
+        "ok Arinnefja,",
+        "Ysja ok Ambátt,",
+        "Eikintjasna,",
+        "Tötrughypja",
+        "ok Trönubeina.",
+        "Þaðan eru komnar",
+        "þræla ættir."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Dætur voru þær",
+        "Drumba og Kumba,",
+        "Ökkvinkalfa",
+        "og Arinnefja,",
+        "Ysja og Ambátt,",
+        "Eikintjasna,",
+        "Tötrughypja",
+        "og Trönubeina.",
+        "Þaðan eru komnar",
+        "þræla ættir."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Daughters had they, | Drumba and Kumba,",
+        "Ökkvinkalfa, | Arinnefja,",
+        "Ysja and Ambott, | Eikintjasna,",
+        "Totrughypja | and Tronubeina;",
+        "And thence has risen | the race of thralls.⟦13⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Gekk Rígr at þat",
+        "réttar brautir,",
+        "kom hann at höllu,",
+        "hurð var á skíði,",
+        "inn nam at ganga,",
+        "eldr var á golfi,",
+        "hjón sátu þar,",
+        "heldu á sýslu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Gekk Rígur að það",
+        "réttar brautir,",
+        "kom hann að höllu,",
+        "hurð var á skíði,",
+        "hinn nam að ganga,",
+        "eldur var á golfi,",
+        "hjón sátu þar,",
+        "heldu á sýslu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Forward went Rig, | his road was straight,",
+        "To a hall he came, | and a door there hung;",
+        "In did he fare, | on the floor was a fire:",
+        "Ail and Amma | owned the house.⟦14⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Maðr teglði þar",
+        "meið til rifjar;",
+        "var skegg skapat,",
+        "skör var fyrir enni,",
+        "skyrtu þröngva,",
+        "skokkr var á golfi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Maður tegldi þar",
+        "meið til rifjar;",
+        "var skegg skapað,",
+        "skör var fyrir enni,",
+        "skyrtu þröngja,",
+        "skokkur var á golfi."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "There sat the twain, | and worked at their tasks:",
+        "The man hewed wood | for the weaver's beam;",
+        "His beard was trimmed, | o'er his brow a curl,",
+        "His clothes fitted close; | in the corner a chest.⟦15⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      15
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Sat þar kona,",
+        "sveigði rokk,",
+        "breiddi faðm,",
+        "bjó til váðar;",
+        "sveigr var á höfði,",
+        "smokkr var á bringu,",
+        "dúkr var á halsi,",
+        "dvergar á öxlum.",
+        "Afi ok Amma",
+        "áttu hús."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Sat þar kona,",
+        "sveigði rokk,",
+        "breiddi faðm,",
+        "bjó til váðar;",
+        "sveigur var á höfði,",
+        "smokkur var á bringu,",
+        "dúkur var á halsi,",
+        "dvergar á öxlum.",
+        "Afi og Amma",
+        "áttu hús."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "The woman sat | and the distaff wielded,",
+        "At the weaving with arms | outstretched she worked;",
+        "On her head was a band, | on her breast a smock;",
+        "On her shoulders a kerchief | with clasps there was.⟦16⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      16
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Rígr kunni þeim",
+        "ráð at segja;",
+        "[meir settisk hann",
+        "miðra fletja,",
+        "en á hlið hvára",
+        "hjón salkynna].::",
+        "18.",
+        "[Þá tók Amma]",
+        "-- -- --",
+        "var kalfr soðinn",
+        "krása beztr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Rígur kunni þeim",
+        "ráð að segja;",
+        "[meir settist hann",
+        "miðra fletja,",
+        "en á hlið hvára",
+        "hjón salkynna].::",
+        "18.",
+        "[Þá tók Amma]",
+        "-- -- --",
+        "var kalfur soðinn",
+        "krása bestur."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Rig knew well | wise words to speak,",
+        "Soon in the midst | of the room he sat,",
+        "And on either side | the others were.⟦17⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Then took Amma | . . . . . . . . . . . . . . .",
+        "The vessels full | with the fare she set,",
+        "Calf's flesh boiled | was the best of the dainties.⟦18⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      17,
+      18
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "[Rígr kunni þeim",
+        "ráð at segja]",
+        "reis frá borði,",
+        "réð at sofna;",
+        "meir lagðisk hann",
+        "miðrar rekkju,",
+        "en á hlið hvára",
+        "hjón salkynna."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "[Rígur kunni þeim",
+        "ráð að segja]",
+        "reis frá borði,",
+        "réð að sofna;",
+        "meir lagðist hann",
+        "miðrar rekkju,",
+        "en á hlið hvára",
+        "hjón salkynna."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Rig knew well | wise words to speak,",
+        "He rose from the board, | made ready to sleep;",
+        "Soon in the bed | himself did he lay,",
+        "And on either side | the others were.⟦19⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Þar var hann at þat",
+        "þríar nætr saman;",
+        "liðu meir at þat",
+        "mánuðr níu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Þar var hann að það",
+        "þríar nætur saman;",
+        "liðu meir að það",
+        "mánuður níu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Thus was he there | for three nights long,",
+        "Then forward he went | on the midmost way,",
+        "And so nine months | were soon passed by.⟦20⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      20
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Jóð ól Amma",
+        "jósu vatni,",
+        "kölluðu Karl,",
+        "kona sveip rifti,",
+        "rauðan ok rjóðan,",
+        "riðuðu augu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Jóð ól Amma",
+        "jósu vatni,",
+        "kölluðu Karl,",
+        "kona sveip rifti,",
+        "rauðan og rjóðan,",
+        "riðuðu augu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "A son bore Amma, | with water they sprinkled him,",
+        "Karl they named him; | in a cloth she wrapped him,",
+        "He was ruddy of face, | and flashing his eyes.⟦21⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      21
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Hann nam at vaxa",
+        "ok vel dafna,",
+        "öxn nam at temja,",
+        "arðr at gerva,",
+        "hús at timbra",
+        "ok hlöður smíða,",
+        "karta at gerva",
+        "ok keyra plóg."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Hann nam að vaxa",
+        "og vel dafna,",
+        "öxn nam að temja,",
+        "arður að gerva,",
+        "hús að timbra",
+        "og hlöður smíða,",
+        "karta að gerva",
+        "og keyra plóg."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "He began to grow, | and to gain in strength,",
+        "Oxen he ruled, | and plows made ready,",
+        "Houses he built, | and barns he fashioned,",
+        "Carts he made, | and the plow he managed.⟦22⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      22
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Heim óku þá",
+        "hanginluklu,",
+        "geitakyrtlu,",
+        "giftu Karli;",
+        "Snör heitir sú,",
+        "settisk und rifti;",
+        "bjuggu hjón,",
+        "bauga deildu,",
+        "breiddu blæjur",
+        "ok bú gerðu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Heim óku þá",
+        "hanginluklu,",
+        "geitakyrtlu,",
+        "giftu Karli;",
+        "Snör heitir sú,",
+        "settist und rifti;",
+        "bjuggu hjón,",
+        "bauga deildu,",
+        "breiddu blæjur",
+        "og bú gerðu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Home did they bring | the bride for Karl,",
+        "In goatskins clad, | and keys she bore;",
+        "Snör was her name, | 'neath the veil she sat;",
+        "A home they made ready, | and rings exchanged,",
+        "The bed they decked, | and a dwelling made.⟦23⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      23
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Börn ólu þau,",
+        "- bjuggu ok unðu, -",
+        "hét Halr ok Drengr,",
+        "Hölðr, Þegn ok Smiðr,",
+        "Breiðr, Bóndi,",
+        "Bundinskeggi,",
+        "Búi ok Boddi,",
+        "Brattskeggr ok Seggr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Börn ólu þau,",
+        "- bjuggu og unðu, -",
+        "hét Halur og Drengur,",
+        "Hölður, Þegn og Smiður,",
+        "Breiður, Bóndi,",
+        "Bundinskeggi,",
+        "Búi og Boddi,",
+        "Brattskeggur og Seggur."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Sons they had, | they lived and were happy:",
+        "Hal and Dreng, | Holth, Thegn and Smith,",
+        "Breith and Bondi, | Bundinskeggi,",
+        "Bui and Boddi, | Brattskegg and Segg.⟦24⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      24
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Enn hétu svá",
+        "öðrum nöfnum,",
+        "Snót, Brúðr, Svanni,",
+        "Svarri, Sprakki,",
+        "Fljóð, Sprund ok Víf,",
+        "Feima, Ristill.",
+        "Þaðan eru komnar",
+        "karla ættir."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Enn hétu svo",
+        "öðrum nöfnum,",
+        "Snót, Brúður, Svanni,",
+        "Svarri, Sprakki,",
+        "Fljóð, Sprund og Víf,",
+        "Feima, Ristill.",
+        "Þaðan eru komnar",
+        "karla ættir."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Daughters they had, | and their names are here:",
+        "Snot, Bruth, Svanni, | Svarri, Sprakki,",
+        "Fljoth, Sprund and Vif, | Feima, Ristil:",
+        "And thence has risen | the yeomen's race.⟦25⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      25
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Gekk Rígr þaðan",
+        "réttar brautir;",
+        "kom hann at sal,",
+        "suðr horfðu dyrr,",
+        "var hurð hnigin,",
+        "hringr var í gætti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Gekk Rígur þaðan",
+        "réttar brautir;",
+        "kom hann að sal,",
+        "suður horfðu dyr,",
+        "var hurð hnigin,",
+        "hringur var í gætti."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Thence went Rig, | his road was straight,",
+        "A hall he saw, | the doors faced south;",
+        "The portal stood wide, | on the posts was a ring,",
+        "Then in he fared; | the floor was strewn.⟦26⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      26
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Gekk hann inn at þat,",
+        "golf var stráat;",
+        "sátu hjón,",
+        "sáusk í augu,",
+        "Faðir ok Móðir,",
+        "fingrum at leika."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Gekk hann hinn að það,",
+        "golf var stráað;",
+        "sátu hjón,",
+        "sáust í augu,",
+        "Faðir og Móðir,",
+        "fingrum að leika."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Within two gazed | in each other's eyes,",
+        "Fathir and Mothir, | and played with their fingers;",
+        "There sat the house-lord, | wound strings for the bow,",
+        "Shafts he fashioned, | and bows he shaped.⟦27⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      27
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s28",
+     "stanza": 28,
+     "on": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Sat húsgumi",
+        "ok sneri streng,",
+        "alm of bendi,",
+        "örvar skefti;",
+        "en húskona",
+        "hugði at örmum,",
+        "strauk of rifti,",
+        "sterti ermar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Sat húsgumi",
+        "og sneri streng,",
+        "alm of bendi,",
+        "örvar skefti;",
+        "en húskona",
+        "hugði að örmum,",
+        "strauk of rifti,",
+        "sterti ermar."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s29",
+     "stanza": 29,
+     "on": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Keisti fald,",
+        "kinga var á bringu,",
+        "síðar slæður,",
+        "serk bláfáan;",
+        "brún bjartari,",
+        "brjóst ljósara,",
+        "hals hvítari",
+        "hreinni mjöllu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Keisti fald,",
+        "kinga var á bringu,",
+        "síðar slæður,",
+        "serk bláfáan;",
+        "brún bjartari,",
+        "brjóst ljósara,",
+        "hals hvítari",
+        "hreinni mjöllu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "The lady sat, | at her arms she looked,",
+        "She smoothed the cloth, | and fitted the sleeves;",
+        "Gay was her cap, | on her breast were clasps,",
+        "Broad was her train, | of blue was her gown,",
+        "Her brows were bright, | her breast was shining,",
+        "Whiter her neck | than new-fallen snow.⟦28⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      28
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s30",
+     "stanza": 30,
+     "on": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Rígr kunni þeim",
+        "ráð at segja;",
+        "meir settisk hann",
+        "miðra fletja,",
+        "en á hlið hvára",
+        "hjón salkynna."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Rígur kunni þeim",
+        "ráð að segja;",
+        "meir settist hann",
+        "miðra fletja,",
+        "en á hlið hvára",
+        "hjón salkynna."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Rig knew well | wise words to speak,",
+        "Soon in the midst | of the room he sat,",
+        "And on either side | the others were."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      29
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s31",
+     "stanza": 31,
+     "on": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Þá tók Móðir",
+        "merkðan dúk,",
+        "hvítan af hörvi,",
+        "hulði bjóð,",
+        "hon tók at þat",
+        "hleifa þunna,",
+        "hvíta af hveiti,",
+        "ok hulði dúk."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Þá tók Móðir",
+        "merkðan dúk,",
+        "hvítan af hörvi,",
+        "huldi bjóð,",
+        "hún tók að það",
+        "hleifa þunna,",
+        "hvíta af hveiti,",
+        "og huldi dúk."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Then Mothir brought | a broidered cloth,",
+        "Of linen bright, | and the board she covered;",
+        "And then she took | the loaves so thin,",
+        "And laid them, white | from the wheat, on the cloth."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      30
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s32",
+     "stanza": 32,
+     "on": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Framm setti hon",
+        "fulla skutla,",
+        "silfri varða, á bjóð,",
+        "fáin fleski",
+        "ok fugla steikða,",
+        "vín var í könnu,",
+        "varðir kálkar;",
+        "drukku ok dæmðu,",
+        "dagr var á sinnum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Framm setti hún",
+        "fulla skutla,",
+        "silfri varða, á bjóð,",
+        "fáin fleski",
+        "og fugla steikða,",
+        "vín var í könnu,",
+        "varðir kálkar;",
+        "drukku og dæmðu,",
+        "dagur var á sinnum."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Then forth she brought | the vessels full,",
+        "With silver covered, | and set before them,",
+        "Meat all browned, | and well-cooked birds;",
+        "In the pitcher was wine, | of plate were the cups,",
+        "So drank they and talked | till the day was gone.⟦31⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      31
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s33",
+     "stanza": 33,
+     "on": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Rígr kunni þeim",
+        "ráð at segja;",
+        "reis hann at þat,",
+        "rekkju gerði.",
+        "Þar var hann at þat",
+        "þríar nætr saman;",
+        "gekk hann meir at þat",
+        "miðrar brautar;",
+        "liðu meir at þat",
+        "mánuðr níu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Rígur kunni þeim",
+        "ráð að segja;",
+        "reis hann að það,",
+        "rekkju gerði.",
+        "Þar var hann að það",
+        "þríar nætur saman;",
+        "gekk hann meir að það",
+        "miðrar brautar;",
+        "liðu meir að það",
+        "mánuður níu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Rig knew well | wise words to speak,",
+        "Soon did he rise, | made ready to sleep;",
+        "So in the bed | himself did he lay,",
+        "And on either side | the others were.⟦32⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Thus was he there | for three nights long,",
+        "Then forward he went | on the midmost way,",
+        "And so nine months | were soon passed by."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      32,
+      33
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s34",
+     "stanza": 34,
+     "on": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Svein ól Móðir,",
+        "silki vafði,",
+        "jósu vatni,",
+        "Jarl létu heita;",
+        "bleikt var hár,",
+        "bjartir vangar,",
+        "ötul váru augu",
+        "sem yrmlingi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Svein ól Móðir,",
+        "silki vafði,",
+        "jósu vatni,",
+        "Jarl létu heita;",
+        "bleikt var hár,",
+        "bjartir vangar,",
+        "ötul voru augu",
+        "sem yrmlingi."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "A son had Mothir, | in silk they wrapped him,",
+        "With water they sprinkled him, | Jarl he was;",
+        "Blond was his hair, | and bright his cheeks,",
+        "Grim as a snake's | were his glowing eyes.⟦34⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      34
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s35",
+     "stanza": 35,
+     "on": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Upp óx þar",
+        "Jarl á fletjum;",
+        "lind nam at skelfa,",
+        "leggja strengi,",
+        "alm at beygja,",
+        "örvar skefta,",
+        "flein at fleygja,",
+        "frökkur dýja,",
+        "hestum ríða,",
+        "hundum verpa,",
+        "sverðum bregða,",
+        "sund at fremja."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Upp óx þar",
+        "Jarl á fletjum;",
+        "lind nam að skelfa,",
+        "leggja strengi,",
+        "alm að beygja,",
+        "örvar skefta,",
+        "flein að fleygja,",
+        "frokkur dýja,",
+        "hestum ríða,",
+        "hundum verpa,",
+        "sverðum bregða,",
+        "sund að fremja."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "To grow in the house | did Jarl begin,",
+        "Shields he brandished, | and bow-strings wound,",
+        "Bows he shot, | and shafts he fashioned,",
+        "Arrows he loosened, | and lances wielded,",
+        "Horses he rode, | and hounds unleashed,",
+        "Swords he handled, | and sounds he swam.⟦35⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      35
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s36",
+     "stanza": 36,
+     "on": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Kom þar ór runni",
+        "Rígr gangandi,",
+        "Rígr gangandi,",
+        "rúnar kendi;",
+        "sitt gaf heiti,",
+        "son kveðsk eiga;",
+        "þann bað hann eignask",
+        "óðalvöllu,",
+        "óðalvöllu,",
+        "aldnar byggðir."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Kom þar úr runni",
+        "Rígur gangandi,",
+        "Rígur gangandi,",
+        "rúnir kendi;",
+        "sitt gaf heiti,",
+        "son kveðst eiga;",
+        "þann bað hann eignast",
+        "óðalvöllu,",
+        "óðalvöllu,",
+        "aldnar byggðir."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Straight from the grove | came striding Rig,",
+        "Rig came striding, | and runes he taught him;",
+        "By his name he called him, | as son he claimed him,",
+        "And bade him hold | his heritage wide,",
+        "His heritage wide, | the ancient homes.⟦36⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      36
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s37",
+     "stanza": 37,
+     "on": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Reið hann meir þaðan",
+        "myrkvan við,",
+        "hélug fjöll,",
+        "unz at höllu kom;",
+        "skaft nam at dýja,",
+        "skelfði lind,",
+        "hesti hleypði",
+        "ok hjörvi brá;",
+        "víg nam at vekja,",
+        "völl nam at rjóða,",
+        "val nam at fella,",
+        "vá til landa."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Reið hann meir þaðan",
+        "myrkvan við,",
+        "hélug fjöll,",
+        "uns að höllu kom;",
+        "skaft nam að dýja,",
+        "skelfði lind,",
+        "hesti hleypti",
+        "og hjörvi brá;",
+        "víg nam að vekja,",
+        "völl nam að rjóða,",
+        "val nam að fella,",
+        "vá til landa."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "..............................",
+        "Forward he rode | through the forest dark,",
+        "O'er the frosty crags, | till a hall he found.⟦37⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      37
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "s_en": 0.34
+    },
+    {
+     "id": "rth-s38",
+     "stanza": 38,
+     "on": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Réð hann einn at þat",
+        "átján búum,",
+        "auð nam skipta,",
+        "öllum veita",
+        "meiðmar ok mösma,",
+        "mara svangrifja,",
+        "hringum hreytti,",
+        "hjó sundr baug."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Réð hann einn að það",
+        "átjon búum,",
+        "auð nam skipta,",
+        "öllum veita",
+        "meiðmar og mösma,",
+        "mara svangrifja,",
+        "hringum hreytti,",
+        "hjó sundur baug."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "His spear he shook, | his shield he brandished,",
+        "His horse he spurred, | with his sword he hewed;",
+        "Wars he raised, | and reddened the field,",
+        "Warriors slew he, | and land he won."
+       ]
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Eighteen halls | ere long did he hold,",
+        "Wealth did he get, | and gave to all,",
+        "Stones and jewels | and slim-flanked steeds,",
+        "Rings he offered, | and arm-rings shared.⟦39⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      38,
+      39
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s39",
+     "stanza": 39,
+     "on": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Óku ærir",
+        "úrgar brautir,",
+        "kómu at höllu,",
+        "þar er Hersir bjó;",
+        "mey átti hann",
+        "mjófingraða,",
+        "hvíta ok horska,",
+        "hétu Erna."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Óku ærir",
+        "úrgar brautir,",
+        "komu að höllu,",
+        "þar er Hersir bjó;",
+        "mey átti hann",
+        "mjófingraða,",
+        "hvíta og horska,",
+        "hétu Erna."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "His messengers went | by the ways so wet,",
+        "And came to the hall | where Hersir dwelt;",
+        "His daughter was fair | and slender-fingered,",
+        "Erna the wise | the maiden was.⟦40⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      40
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s40",
+     "stanza": 40,
+     "on": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Báðu hennar",
+        "ok heim óku,",
+        "giftu Jarli,",
+        "gekk hon und líni;",
+        "saman bjuggu þau",
+        "ok sér unðu,",
+        "ættir jóku",
+        "ok aldrs nutu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Báðu hennar",
+        "og heim óku,",
+        "giftu Jarli,",
+        "gekk hún und líni;",
+        "saman bjuggu þau",
+        "og sér unðu,",
+        "ættir jóku",
+        "og aldurs nutu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "Her hand they sought, | and home they brought her,",
+        "Wedded to Jarl | the veil she wore;",
+        "Together they dwelt, | their joy was great,",
+        "Children they had, | and happy they lived."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      41
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s41",
+     "stanza": 41,
+     "on": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "Burr var inn ellsti,",
+        "en Barn annat,",
+        "Jóð ok Aðal,",
+        "Arfi, Mögr,",
+        "Niðr ok Niðjungr,",
+        "- námu leika, -",
+        "Sonr ok Sveinn,",
+        "- sund ok tafl, -",
+        "Kundr hét enn,",
+        "Konr var inn yngsti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "Bur var hinn ellsti,",
+        "en Barn annað,",
+        "Jóð og Aðal,",
+        "Arfi, Mögur,",
+        "Niður og Niðjungur,",
+        "- námu leika, -",
+        "Sonur og Sveinn,",
+        "- sund og tafl, -",
+        "Kundur hét enn,",
+        "Konur var hinn yngsti."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "Bur was the eldest, | and Barn the next,",
+        "Joth and Athal, | Arfi, Mog,",
+        "Nith and Svein, | soon they began—",
+        "Sun and Nithjung— | to play and swim;",
+        "Kund was one, | and the youngest Kon.⟦42⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      42
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s42",
+     "stanza": 42,
+     "on": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "Upp óxu þar",
+        "Jarli bornir,",
+        "hesta tömðu,",
+        "hlífar bendu,",
+        "skeyti skófu,",
+        "skelfðu aska."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "Upp óxu þar",
+        "Jarli bornir,",
+        "hesta tömðu,",
+        "hlífar bendu,",
+        "skeyti skófu,",
+        "skelfðu aska."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "Soon grew up | the sons of Jarl,",
+        "Beasts they tamed, | and bucklers rounded,",
+        "Shafts they fashioned, | and spears they shook."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      43
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s43",
+     "stanza": 43,
+     "on": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "En Konr ungr",
+        "kunni rúnar,",
+        "ævinrúnar",
+        "ok aldrrúnar;",
+        "meir kunni hann",
+        "mönnum bjarga,",
+        "eggjar deyfa,",
+        "ægi lægja."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "En Konur ungur",
+        "kunni rúnir,",
+        "ævinrúnar",
+        "og aldrrúnar;",
+        "meir kunni hann",
+        "mönnum bjarga,",
+        "eggjar deyfa,",
+        "ægi lægja."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "But Kon the Young | learned runes to use,",
+        "Runes everlasting, | the runes of life;",
+        "Soon could he well | the warriors shield,",
+        "Dull the swordblade, | and still the seas.⟦44⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      44
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s44",
+     "stanza": 44,
+     "on": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "Klök nam fugla,",
+        "kyrra elda,",
+        "sefa of svefja,",
+        "sorgir lægja,",
+        "afl ok eljun",
+        "átta manna."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "Klög nam fugla,",
+        "kyrra elda,",
+        "sefa of svefja,",
+        "sorgir lægja,",
+        "afl og eljun",
+        "átta manna."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "Bird-chatter learned he, | flames could he lessen,",
+        "Minds could quiet, | and sorrows calm;",
+        "..............................",
+        "The might and strength | of twice four men.⟦45⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      45
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s45",
+     "stanza": 45,
+     "on": [
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "Hann við Ríg jarl",
+        "rúnar deildi,",
+        "brögðum beitti",
+        "ok betr kunni;",
+        "þá öðlaðisk",
+        "ok þá eiga gat",
+        "Rígr at heita,",
+        "rúnar kunna."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "Hann við Ríg jarl",
+        "rúnir deildi,",
+        "brögðum beitti",
+        "og betur kunni;",
+        "þá öðlaðist",
+        "og þá eiga gat",
+        "Rígur að heita,",
+        "rúnir kunna."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "With Rig-Jarl soon | the runes he shared,",
+        "More crafty he was, | and greater his wisdom;",
+        "The right he sought, | and soon he won it,",
+        "Rig to be called, | and runes to know.⟦46⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      46
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s46",
+     "stanza": 46,
+     "on": [
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "Reið Konr ungr",
+        "kjörr ok skóga,",
+        "kolfi fleygði,",
+        "kyrrði fugla."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "Reið Konur ungur",
+        "kjör og skóga,",
+        "kolfi fleygði,",
+        "kyrrði fugla."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "Young Kon rode forth | through forest and grove,",
+        "Shafts let loose, | and birds he lured;",
+        "There spake a crow | on a bough that sat:",
+        "\"Why lurest thou, Kon, | the birds to come?⟦47⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      47
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s47",
+     "stanza": 47,
+     "on": [
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "Þá kvað þat kráka,",
+        "sat kvisti ein:",
+        "\"Hvat skaltu, Konr ungr,",
+        "kyrra fugla?",
+        "Heldr mætti ér",
+        "hestum ríða,",
+        "[hjörvi bregða]",
+        "ok her fella."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "Þá kvað það kráka,",
+        "sat kvisti ein:",
+        "\"Hvað skaltu, Konur ungur,",
+        "kyrra fugla?",
+        "Heldur mætti þér",
+        "hestum ríða,",
+        "[hjörvi bregða]",
+        "og her fella."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "\"'Twere better forth | on thy steed to fare,",
+        ". . . . . . . . . . . . . . . | and the host to slay.⟦48⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      48
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "s_en": 0.05
+    },
+    {
+     "id": "rth-s48",
+     "stanza": 48,
+     "on": [
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "Á Danr ok Danpr",
+        "dýrar hallir,",
+        "æðra óðal",
+        "en ér hafið;",
+        "þeir kunnu vel",
+        "kjóli at ríða,",
+        "egg at kenna,",
+        "undir rjúfa.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "Á Danur og Danpur",
+        "dýrar hallir,",
+        "æðra óðal",
+        "en þér hafið;",
+        "þeir kunnu vel",
+        "kjóli að ríða,",
+        "egg að kenna,",
+        "undir rjúfa.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "\"The halls of Dan | and Danp are noble,",
+        "Greater their wealth | than thou hast gained;",
+        "Good are they | at guiding the keel,",
+        "Trying of weapons, | and giving of wounds.",
+        "***⟦49⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      49
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s49",
+     "stanza": 49,
+     "on": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "Brún bjartari,",
+        "brjóst ljósara,",
+        "hals hvítari",
+        "hreinni mjöllu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "Brún bjartari,",
+        "brjóst ljósara,",
+        "hals hvítari",
+        "hreinni mjöllu."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rth-s50",
+     "stanza": 50,
+     "on": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "Bjuggu hjón,",
+        "bauga deildu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "Bjuggu hjón,",
+        "bauga deildu."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "p1",
+     "s": "Prose."
+    },
+    {
+     "n": "p2",
+     "s": "It would be interesting to know how much the annotator meant by the phrase old stories. Was he familiar with the tradition in forms other than that of the poem? If so, his introductory note was scanty, for, outside of identifying Rig as Heimdall, he provides no information not found in the poem. Probably he meant simply to refer to the poem itself as a relic of antiquity, and the identification of Rig as Heimdall may well have been an attempt at constructive criticism of his own. The note was presumably written somewhere about 1300, or even later, and there is no reason for crediting the annotator with any considerable knowledge of mythology. There is little to favor the identification of Rig with Heimdall, the watchman of the gods, beyond a few rather vague passages in the other poems. Thus in Voluspo, 1, the Volva asks hearing \"from Heimdall's sons both high and low\"; in Grimnismol, 13, there is a very doubtful line which may mean that Heimdall \"o'er men holds sway, it is said,\" and in \"the Short Voluspo\" (Hyndluljoth, 40) he is called \"the kinsman of men.\" On the other hand, everything in the Rigsthula, including the phrase \"the aged and wise\" in stanza 1, and the references to runes in stanzas 36, 44, and 46, fits Othin exceedingly well. It seems probable that the annotator was wrong, and that Rig is Othin, and not Heimdall."
+    },
+    {
+     "n": "p3",
+     "s": "Rig: almost certainly based on the Old Irish word for \"king,\" \"ri\" or \"rig.\""
+    },
+    {
+     "n": "1",
+     "s": "No gap is indicated, but editors have generally assumed one. Some editors, however, add line 1 of stanza 2 to stanza 1."
+    },
+    {
+     "n": "2",
+     "s": "Most editions make line 5 a part of the stanza, as here, but some indicate it as the sole remnant of one or more stanzas descriptive of Ai and Edda, just as Afi and Amma, Fathir and Mothir, are later described. Ai and Edda: Great-Grandfather and Great-Grandmother; the latter name was responsible for Jakob Grimm's famous guess at the meaning of the word \"Edda\" as applied to the whole collection (cf. Introduction)."
+    },
+    {
+     "n": "3",
+     "s": "A line may have been lost from this stanza."
+    },
+    {
+     "n": "4",
+     "s": "Line 5 has generally been rejected as spurious."
+    },
+    {
+     "n": "5",
+     "s": "The manuscript has lines 1-2 in inverse order, but marks the word \"Rig\" as the beginning of a stanza."
+    },
+    {
+     "n": "6",
+     "s": "The manuscript does not indicate that these lines form a separate stanza, and as only one line and a fragment of another are left of stanza 7, the editions have grouped the lines in all sorts of ways, with, of course, various conjectures as to where lines may have been lost."
+    },
+    {
+     "n": "7",
+     "s": "After line 1 the manuscript has only four words: \"cloth,\" \"black,\" \"named,\" and \"Thræll.\" No gap is anywhere indicated. Editors have pieced out the passage in various ways. Water, etc.: concerning the custom of sprinkling water on children, which long antedated the introduction of Christianity, cf. Hovamol, 159 and note. Black: dark hair, among the blond Scandinavians, was the mark of a foreigner, hence of a slave. Thræll: Thrall or Slave."
+    },
+    {
+     "n": "8",
+     "s": "In the manuscript line 1 of stanza 9 stands before stanza 8, neither line being capitalized as the beginning of a stanza. I have followed Bugge's rearrangement. The manuscript indicates no gap in line 2, but nearly all editors have assumed one, Grundtvig supplying \"and rough his nails.\""
+    },
+    {
+     "n": "9",
+     "s": "The manuscript marks line 2 as the beginning of a stanza."
+    },
+    {
+     "n": "10",
+     "s": "A line may well have dropped out, but the manuscript is too uncertain as to the stanza-divisions to make any guess safe. Crooked: the word in the original is obscure. Stained: literally, \"water was on her soles.\" Thir: \"Serving-Woman.\""
+    },
+    {
+     "n": "12",
+     "s": "There is some confusion as to the arrangement of the lines and division into stanzas of 12 and 13. The names mean: Fjosnir, \"Cattle-Man\"; Klur, \"The Coarse\"; Hreim, \"The Shouter\"; Kleggi, \"The Horse-Fly\"; Kefsir, \"Concubine-Keeper\"; Fulnir, \"The Stinking\"; Drumb, \"The Log\"; Digraldi, \"The Fat\"; Drott, \"The Sluggard\", Leggjaldi, \"The Big-Legged\"; Lut, \"The Bent\"; Hosvir, \"The Grey.\""
+    },
+    {
+     "n": "13",
+     "s": "The names mean: Drumba, \"The Log\"; Kumba, \"The Stumpy\"; Ökkvinkalfa, \"Fat-Legged\"; Arinnefja, \"Homely-Nosed\"; Ysja, \"The Noisy\"; Ambott, \"The Servant\"; Eikintjasna, \"The Oaken Peg\" (?); Totrughypja, \"Clothed in Rags\"; Tronubeina, \"Crane-Legged.\""
+    },
+    {
+     "n": "14",
+     "s": "In the manuscript line 4 stands after line 4 of stanza 16, but several editors have rearranged the lines, as here. Afi and Amma: Grandfather and Grandmother."
+    },
+    {
+     "n": "15",
+     "s": "There is considerable confusion among the editors as to where this stanza begins and ends."
+    },
+    {
+     "n": "16",
+     "s": "The manuscript marks line 3 as the beginning of a stanza."
+    },
+    {
+     "n": "17",
+     "s": "The manuscript jumps from stanza 17, line 1, to stanza 19, line 2. Bugge points out that the copyist's eye was presumably led astray by the fact that 17, 1, and 19, 1, were identical. Lines 2-3 of 17 are supplied from stanzas 3 and 29."
+    },
+    {
+     "n": "18",
+     "s": "I have followed Bugge's conjectural construction of the missing stanza, taking lines 2 and 3 from stanzas 31 and 4."
+    },
+    {
+     "n": "19",
+     "s": "The manuscript marks line 2 as the beginning of a stanza."
+    },
+    {
+     "n": "20",
+     "s": "The manuscript omits line 2, supplied by analogy with stanza 6"
+    },
+    {
+     "n": "21",
+     "s": "Most editors assume a lacuna, after either line 2 or line 3. Sijmons assumes, on the analogy of stanza 8, that a complete stanza describing Karl (\"Yeoman\") has been lost between stanzas 21 and 22."
+    },
+    {
+     "n": "22",
+     "s": "No line indicated in the manuscript as beginning a stanza. Cart: the word in the original, \"kartr,\" is one of the clear signs of the Celtic influence noted in the introduction."
+    },
+    {
+     "n": "23",
+     "s": "Bring: the word literally means \"drove in a wagon\"—a mark of the bride's social status. Snör: \"Daughter-in-Law.\" Bugge, followed by several editors, maintains that line 4 was wrongly interpolated here from a missing stanza describing the marriage of Kon."
+    },
+    {
+     "n": "24",
+     "s": "No line indicated in the manuscript as beginning a stanza. The names mean: Hal, \"Man\"; Dreng, \"The Strong\"; Holth, \"The Holder of Land\"; Thegn, \"Freeman\"; Smith, \"Craftsman\"; Breith, \"The Broad-Shouldered\"; Bondi, \"Yeoman\"; Bundinskeggi, \"With Beard Bound\" (i.e., not allowed to hang unkempt); Bui, \"Dwelling-Owner\"; Boddi, \"Farm-Holder\"; Brattskegg, \"With Beard Carried High\"; Segg, \"Man.\""
+    },
+    {
+     "n": "25",
+     "s": "No line indicated in the manuscript as beginning a stanza. The names mean: Snot, \"Worthy Woman\"; Bruth, \"Bride\"; Svanni, \"The Slender\"; Svarri, \"The Proud\"; Sprakki, \"The Fair\"; Fljoth, \"Woman\" (?); Sprund, \"The Proud\"; Vif, \"Wife\"; Feima, \"The Bashful\"; Ristil, \"The Graceful.\""
+    },
+    {
+     "n": "26",
+     "s": "Many editors make a stanza out of line 4 and lines 1-2 of the following stanza. Strewn: with fresh straw in preparation for a feast; cf. Thrymskvitha, 22."
+    },
+    {
+     "n": "27",
+     "s": "Fathir and Mothir: Father and Mother. Perhaps lines 3-4 should form a stanza with 28, 1-2."
+    },
+    {
+     "n": "28",
+     "s": "Bugge thinks lines 5-6, like 23, 4, got in here from the lost stanzas describing Kon's bride and his marriage."
+    },
+    {
+     "n": "31",
+     "s": "The manuscript of lines 1-3 is obviously defective, as there are too many words for two lines, and not enough for the full three. The meaning, however, is clearly very much as indicated in the translation. Gering's emendation, which I have followed, consists simply in shifting \"set before them\" from the first line to the second—where the manuscript has no verb,—and supplying the verb \"brought\" in line 1. The various editions contain all sorts of suggestions."
+    },
+    {
+     "n": "32",
+     "s": "The manuscript begins both line 1 and line 2 with a  capital preceded by a period, which has led to all sorts of strange stanza-combinations and guesses at lost lines in the various editions. The confusion includes stanza 33, wherein no line is marked in the manuscript as beginning a stanza."
+    },
+    {
+     "n": "34",
+     "s": "Jarl: \"Nobly-Born.\""
+    },
+    {
+     "n": "35",
+     "s": "Various lines have been regarded as interpolations, 3 and 6 being most often thus rejected."
+    },
+    {
+     "n": "36",
+     "s": "Lines 1, 2, and 5 all begin with capitals preceded by periods, a fact which, taken in conjunction with the obviously defective state of the following stanza, has led to all sorts of conjectural emendations. The exact significane of Rig's giving his own name to Jarl (cf. stanza 46), and thus recognizing him, potentially at least, as a king, depends on the conditions under which the poem was composed (cf. Introductory Note). The whole stanza, particularly the reference to the teaching of magic (runes), fits Othin far better than Heimdall."
+    },
+    {
+     "n": "37",
+     "s": "Something—one or two lines, or a longer passage—has clearly been lost, describing the beginning of Jarl's journey. Yet many editors, relying on the manuscript punctuation, make 37 and 38 into a single stanza."
+    },
+    {
+     "n": "39",
+     "s": "The manuscript marks both lines 1 and 2 as beginning stanzas."
+    },
+    {
+     "n": "40",
+     "s": "Hersir: \"Lord\"; the hersir was, in the early days before the establishment of a kingdom in Norway, the local chief, and hence the highest recognized authority. During and after the time of Harald the Fair-Haired the name lost something of its distinction, the hersir coming to take rank below the jarl. Erna: \"The Capable.\""
+    },
+    {
+     "n": "42",
+     "s": "The names mean: Bur, \"Son\"; Barn, \"Child\"; Joth, \"Child\"; Athal, \"Offspring\"; Arfi, \"Heir\"; Mog, \"Son\"; Nith, \"Descendant\"; Svein, \"Boy\"; Sun, \"Son\"; Nithjung, \"Descendant\"; Kund, \"Kinsman\"; Kon, \"Son\" (of noble birth). Concerning the use made of this last name, see note on stanza 44. It is curious that there is no list of daughters of Jarl and Erna, and accordingly Vigfusson inserts here the names listed in stanza 25. Grundtvig rearranges the lines of stanzas 42 and 43."
+    },
+    {
+     "n": "44",
+     "s": "The manuscript indicates no line as beginning a stanza. Kon the Young: a remarkable bit of fanciful etymology; the phrase is \"Konr ungr,\" which could readily be contracted into \"Konungr,\" the regular word meaning \"king.\" The \"kon\" part is actually not far out, but the second syllable of \"konungr\" has nothing to do with \"ungr\" meaning \"young.\" Runes: a long list of just such magic charms, dulling swordblades, quenching flames, and so on, is given in Hovamol, 147-163."
+    },
+    {
+     "n": "45",
+     "s": "The manuscript indicates no line as beginning a stanza. Minds: possibly \"seas,\" the word being doubtful. Most editors assume the gap as indicated."
+    },
+    {
+     "n": "46",
+     "s": "The manuscript indicates no line as beginning a stanza. Rig-Jarl: Kon's father; cf. stanza 36."
+    },
+    {
+     "n": "47",
+     "s": "This stanza has often been combined with 48, either as a whole or in part. Crow: birds frequently play the part of mentor in Norse literature; cf., for example, Helgakvitha Hundingsbana I, 5, and Fafnismol, 32."
+    },
+    {
+     "n": "48",
+     "s": "This fragment is not indicated as a separate stanza in the manuscript. Perhaps half a line has disappeared, or, as seems more likely, the gap includes two lines and a half. Sijmons actually constructs these lines, largely on the basis of stanzas 35 and 38. Bugge fills in the half-line lacuna as indicated above with \"The sword to wield.\""
+    },
+    {
+     "n": "49",
+     "s": "Dan and Danp: These names are largely responsible for the theory that the Rigsthula was composed in Denmark. According to the Latin epitome of the Skjöldungasaga by Arngrimur Jonsson, \"Rig (Rigus) was a man not the least among the great ones of his time. He married the daughter of a certain Danp, lord of Danpsted, whose name was Dana; and later, having won the royal title for his province, left as his heir his son by Dana, called Dan or Danum, all of whose subjects were called Danes.\" This may or may not be conclusive, and it is a great pity that the manuscript breaks off abruptly at this stanza."
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "The Rigsthula is found in neither of the principal codices. The only manuscript containing it is the so-called Codex Wormanius, a manuscript of Snorri's Prose Edda. The poem appears on the last sheet of this manuscript, which unluckily is incomplete, and thus the end of the poem is lacking. In the Codex Wormanius itself the poem has no title, but a fragmentary parchment included with it calls the poem the Rigsthula. Some late paper manuscripts give it the title of Rigsmol.",
+    "The Rigsthula is essentially unlike anything else which editors have agreed to include in the so-called Edda. It is a definitely cultural poem, explaining, on a mythological basis, the origin of the different castes of early society: the thralls, the peasants, and the warriors. From the warriors, finally, springs one who is destined to become a king, and thus the whole poem is a song in praise of the royal estate. This fact in itself would suffice to indicate that the Rigsthula was not composed in Iceland, where for centuries kings were regarded with profound disapproval.",
+    "Not only does the Rigsthula praise royalty, but it has many of the earmarks of a poem composed in praise of a particular king. The manuscript breaks off at a most exasperating point, just as the connection between the mythical \"Young Kon\" (Konr ungr, konungr, \"king\"; but cf. stanza 44, note) and the monarch in question is about to be established. Owing to the character of the Norse settlements in Iceland, Ireland, and the western islands generally, search for a specific king leads back to either Norway or Denmark; despite the arguments advanced by Edzardi, Vigfusson, Powell, and others, it seems most improbable that such a poem should have been produced elsewhere than on the Continent, the region where Scandinavian royalty most flourished. Finnur Jonsson's claim for Norway, with Harald the Fair-Haired as the probable king in question, is much less impressive than Mogk's ingenious demonstration that the poem was in all probability composed in Denmark, in honor of either Gorm the Old or Harald Blue-Tooth. His proof is based chiefly on the evidence provided by stanza 49, and is summarized in the note to that stanza.",
+    "The poet, however, was certainly not a Dane, but probably a wandering Norse singer, who may have had a dozen homes, and who clearly had spent much time in some part of the western island world chiefly inhabited by Celts. The extent of Celtic influence on the Eddic poems in general is a matter of sharp dispute. Powell, for example, claims almost all the poems for the \"Western Isles,\" and attributes nearly all their good qualities to Celtic influence. Without here attempting to enter into the details of the argument, it may be said that the weight of authoritative opinion, while clearly recognizing the marks of Celtic influence in the poems, is against this view; contact between the roving Norsemen of Norway and Iceland and the Celts of Ireland and the \"Western Isles,\" and particularly the Orkneys, was so extensive as to make the presumption of an actual Celtic home for the poems seem quite unnecessary.",
+    "In the case of the Rigsthula the poet unquestionably had not only picked up bits of the Celtic speech (the name Rig itself is almost certainly of Celtic origin, and there are various other Celtic words employed), but also had caught something of the Celtic literary spirit. This explains the cultural nature of the poem, quite foreign to Norse poetry in general. On the other hand, the style as a whole is vigorously Norse, and thus the explanation that the poem was composed by an itinerant Norse poet who had lived for some time in the Celtic islands, and who was on a visit to the court of a Danish king, fits the ascertainable facts exceedingly well. As Christianity was introduced into Denmark around 960, the Rigsthula is not likely to have been composed much after that date, and probably belongs to the first half of the tenth century. Gorm the Old died about the year 935, and was succeeded by Harald Blue-Tooth, who died about 985.",
+    "The fourteenth (or late thirteenth) century annotator identifies Rig with Heimdall, but there is nothing in the poem itself, and very little anywhere else, to warrant this, and it seems likely that the poet had Othin, and not Heimdall, in mind, his purpose being to trace the origin of the royal estate to the chief of the gods. The evidence bearing on this identification is briefly summed up in the note on the introductory prose passage, but the question involves complex and baffling problems in mythology, and from very early times the status of Heimdall was unquestionably confusing to the Norse mind."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Rígsþula)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Rigsthula"
+ }
+}

@@ -1,0 +1,1769 @@
+{
+ "_note": "Titles per language. 'on' is the edition's heading, 'is' automatic, 'en' an unreviewed AI draft; status per language in 'status'.",
+ "titles": {
+  "p-ch1": {
+   "on": "Þróun guðshugmyndar",
+   "is": "Þróun guðshugmyndar",
+   "en": "How the idea of God arose",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "p-ch2": {
+   "on": "Um þrjár hálfur veraldar",
+   "is": "Um þrjár hálfur veraldar",
+   "en": "The three parts of the world",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "p-ch3": {
+   "on": "Frá Trjóumönnum",
+   "is": "Frá Trjóumönnum",
+   "en": "Of the men of Troy",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "p-ch4": {
+   "on": "För Óðins norðr í heim",
+   "is": "För Óðins norður í heim",
+   "en": "Óðinn's journey to the north",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "p-ch5": {
+   "on": "Óðinn tók sér bústað í Sigtúnum",
+   "is": "Óðinn tók sér bústað í Sigtúnum",
+   "en": "Óðinn settles at Sigtún",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch1": {
+   "on": "Frá Gylfa konungi ok Gefjuni",
+   "is": "Frá Gylfa konungi og Gefjuni",
+   "en": "Of King Gylfi and Gefjun",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch2": {
+   "on": "Gylfi kom til Ásgarðs",
+   "is": "Gylfi kom til Ásgarðs",
+   "en": "Gylfi comes to Ásgarðr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch3": {
+   "on": "Um Alföðr, æðstan goða",
+   "is": "Um Alföður, æðstan goða",
+   "en": "Of the All-Father, highest of the gods",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch4": {
+   "on": "Frá Niflheimi ok Múspelli",
+   "is": "Frá Niflheimi og Múspelli",
+   "en": "Of Niflheimr and Múspell",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch5": {
+   "on": "Upphaf Ymis ok hrímþursa",
+   "is": "Upphaf Ýmis og hrímþursa",
+   "en": "The beginning of Ymir and the frost-giants",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch6": {
+   "on": "Frá Auðhumlu ok upphafi Óðins",
+   "is": "Frá Auðhumlu og upphafi Óðins",
+   "en": "Of Auðhumla and the beginning of Óðinn",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch7": {
+   "on": "Dráp Ymis ok frá Bergelmi",
+   "is": "Dráp Ýmis og frá Bergelmi",
+   "en": "The killing of Ymir; of Bergelmir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch8": {
+   "on": "Borssynir skópu jörð ok himinn",
+   "is": "Borssynir skópu jörð og himinn",
+   "en": "Borr's sons make earth and sky",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch9": {
+   "on": "Borssynir skópu Ask ok Emblu",
+   "is": "Borssynir skópu Ask og Emblu",
+   "en": "Borr's sons make Askr and Embla",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch10": {
+   "on": "Tilkváma Dags ok Nætr",
+   "is": "Tilkváma Dags og Nætur",
+   "en": "The coming of Day and Night",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch11": {
+   "on": "Frá Sól ok Mána",
+   "is": "Frá Sól og Mána",
+   "en": "Of Sól and Máni",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch12": {
+   "on": "Frá úlfakreppu Sólar",
+   "is": "Frá úlfakreppu Sólar",
+   "en": "Of the wolves that hunt the sun",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch13": {
+   "on": "Um Bifröst",
+   "is": "Um Bifröst",
+   "en": "Of Bifröst",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch14": {
+   "on": "Um bústaði goða ok upphaf dverga",
+   "is": "Um bústaði goða og upphaf dverga",
+   "en": "Of the gods' dwellings and the beginning of the dwarfs",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch15": {
+   "on": "Frá askinum, Urðarbrunni ok nornum",
+   "is": "Frá askinum, Urðarbrunni og nornum",
+   "en": "Of the ash, Urðr's well and the Norns",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch16": {
+   "on": "Enn frá askinum",
+   "is": "Enn frá askinum",
+   "en": "More about the ash",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch17": {
+   "on": "Höfuðstaðir goðanna",
+   "is": "Höfuðstaðir goðanna",
+   "en": "The chief dwellings of the gods",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch18": {
+   "on": "Um uppruna vindsins",
+   "is": "Um uppruna vindsins",
+   "en": "Where the wind comes from",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch19": {
+   "on": "Um mismun Sumars ok Vetrar",
+   "is": "Um mismun Sumars og Vetrar",
+   "en": "Why summer and winter differ",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch20": {
+   "on": "Frá Óðni ok nöfnum hans",
+   "is": "Frá Óðni og nöfnum hans",
+   "en": "Of Óðinn and his names",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch21": {
+   "on": "Frá Ása-Þór",
+   "is": "Frá Ása-Þór",
+   "en": "Of Ása-Þórr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch22": {
+   "on": "Frá Baldri",
+   "is": "Frá Baldri",
+   "en": "Of Baldr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch23": {
+   "on": "Frá Nirði ok Skaða",
+   "is": "Frá Nirði og Skaða",
+   "en": "Of Njörðr and Skaði",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch24": {
+   "on": "Frá Frey ok Freyju",
+   "is": "Frá Frey og Freyju",
+   "en": "Of Freyr and Freyja",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch25": {
+   "on": "Frá Tý",
+   "is": "Frá Tý",
+   "en": "Of Týr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch26": {
+   "on": "Frá Braga ok Iðunni",
+   "is": "Frá Braga og Iðunni",
+   "en": "Of Bragi and Iðunn",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch27": {
+   "on": "Frá Heimdalli",
+   "is": "Frá Heimdalli",
+   "en": "Of Heimdallr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch28": {
+   "on": "Frá Heði",
+   "is": "Frá Heði",
+   "en": "Of Höðr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch29": {
+   "on": "Frá Víðari",
+   "is": "Frá Víðari",
+   "en": "Of Víðarr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch30": {
+   "on": "Frá Vála",
+   "is": "Frá Vála",
+   "en": "Of Váli",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch31": {
+   "on": "Frá Ulli",
+   "is": "Frá Ulli",
+   "en": "Of Ullr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch32": {
+   "on": "Frá Forseta",
+   "is": "Frá Forseta",
+   "en": "Of Forseti",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch33": {
+   "on": "Frá Loka Laufeyjarsyni",
+   "is": "Frá Loka Laufeyjarsuni",
+   "en": "Of Loki Laufeyjarson",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch34": {
+   "on": "Frá börnum Loka ok bundinn Fenrisúlfr",
+   "is": "Frá börnum Loka og bundinn Fenrisúlfur",
+   "en": "Of Loki's children; the binding of Fenrir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch35": {
+   "on": "Frá ásynjum",
+   "is": "Frá ásynjum",
+   "en": "Of the goddesses",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch36": {
+   "on": "Frá valkyrjum",
+   "is": "Frá valkyrjum",
+   "en": "Of the valkyries",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch37": {
+   "on": "Freyr fekk Gerðar Gymisdóttir",
+   "is": "Freyr fékk Gerðar Gymisdóttir",
+   "en": "Freyr wins Gerðr Gymisdóttir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch38": {
+   "on": "Frá vist Einherja ok Óðins",
+   "is": "Frá vist einherja og Óðins",
+   "en": "Of the food of the Einherjar and of Óðinn",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch39": {
+   "on": "Frá drykk Einherja",
+   "is": "Frá drykk einherja",
+   "en": "Of the drink of the Einherjar",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch40": {
+   "on": "Um stærð Valhallar",
+   "is": "Um stærð Valhallar",
+   "en": "Of the size of Valhöll",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch41": {
+   "on": "Frá skemmtan Einherja",
+   "is": "Frá skemmtan einherja",
+   "en": "Of the Einherjar's pastimes",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch42": {
+   "on": "Æsir rufu eiða sína á borgarsmiðnum",
+   "is": "Æsir rufu eiða sína á borgarsmiðnum",
+   "en": "The Æsir break their oaths to the master-builder",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch43": {
+   "on": "Frá Skíðblaðni",
+   "is": "Frá Skíðblaðni",
+   "en": "Of Skíðblaðnir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch44": {
+   "on": "Þórr hóf för sína til Útgarða-Loka",
+   "is": "Þór hóf för sína til Útgarða-Loka",
+   "en": "Þórr sets out for Útgarða-Loki",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch45": {
+   "on": "Frá skiptum Þórs ok Skrýmis",
+   "is": "Frá skiptum Þórs og Skrýmis",
+   "en": "Of Þórr and Skrýmir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch46": {
+   "on": "Frá íþróttum Þórs ok félaga hans",
+   "is": "Frá íþróttum Þórs og félaga hans",
+   "en": "Of the contests of Þórr and his companions",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch47": {
+   "on": "Skilnaðr Þórs ok Útgarða-Loka",
+   "is": "Skilnaður Þórs og Útgarða-Loka",
+   "en": "Þórr and Útgarða-Loki part",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch48": {
+   "on": "Þórr reri á sæ með Hymi",
+   "is": "Þór reri á sæ með Hymi",
+   "en": "Þórr rows out to sea with Hymir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch49": {
+   "on": "Dauði Baldrs ins góða",
+   "is": "Dauði Baldurs hins góða",
+   "en": "The death of Baldr the Good",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch50": {
+   "on": "Loki bundin",
+   "is": "Loki bundin",
+   "en": "Loki bound",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch51": {
+   "on": "Frá ragnarökum",
+   "is": "Frá ragnarökum",
+   "en": "Of Ragnarök",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch52": {
+   "on": "Vistarverur eftir ragnarökr",
+   "is": "Vistarverur eftir ragnarökkur",
+   "en": "Dwelling-places after Ragnarök",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch53": {
+   "on": "Hverir lifa af ragnarökr",
+   "is": "Hverjir lifa af ragnarökkur",
+   "en": "Who survives Ragnarök",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "g-ch54": {
+   "on": "Frá Ganglera",
+   "is": "Frá Ganglera",
+   "en": "Of Gangleri",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch1": {
+   "on": "Ægir sækir heim æsi",
+   "is": "Ægir sækir heim æsi",
+   "en": "Ægir visits the Æsir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch2": {
+   "on": "Þjazi jötunn rænti Iðunni",
+   "is": "Þjassi jötunn rænti Iðunni",
+   "en": "The giant Þjazi carries off Iðunn",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch3": {
+   "on": "Loki náði Iðunni ok dráp Þjaza",
+   "is": "Loki náði Iðunni og dráp Þjassa",
+   "en": "Loki brings back Iðunn; the killing of Þjazi",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch4": {
+   "on": "Af ætt Þjaza",
+   "is": "Af ætt Þjassa",
+   "en": "Of Þjazi's kin",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch5": {
+   "on": "Upphaf Suttungamjaðar",
+   "is": "Upphaf Suttungamjaðar",
+   "en": "The origin of the mead of Suttungr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch6": {
+   "on": "Hversu Óðinn komst at miðinum",
+   "is": "Hversu Óðinn komst að miðinum",
+   "en": "How Óðinn got the mead",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch7": {
+   "on": "Einkenni skáldskapar",
+   "is": "Einkenni skáldskapar",
+   "en": "The marks of poetry",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch8": {
+   "on": "Orðum beint til ungra skálda",
+   "is": "Orðum beint til ungra skálda",
+   "en": "Words addressed to young poets",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch9": {
+   "on": "Óðinsheiti ok Óðinskenningar",
+   "is": "Óðinsheiti og Óðinskenningar",
+   "en": "Names and kennings for Óðinn",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch10": {
+   "on": "Skáldskaparkenningar",
+   "is": "Skáldskaparkenningar",
+   "en": "Kennings for poetry",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch11": {
+   "on": "Þórskenningar",
+   "is": "Þórskenningar",
+   "en": "Kennings for Þórr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch12": {
+   "on": "Baldrskenningar",
+   "is": "Baldrskenningar",
+   "en": "Kennings for Baldr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch13": {
+   "on": "Njarðarkenningar",
+   "is": "Njarðarkenningar",
+   "en": "Kennings for Njörðr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch14": {
+   "on": "Freyskenningar",
+   "is": "Freyskenningar",
+   "en": "Kennings for Freyr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch15": {
+   "on": "Heimdallarkenningar",
+   "is": "Heimdallarkenningar",
+   "en": "Kennings for Heimdallr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch16": {
+   "on": "Týskenningar",
+   "is": "Týskenningar",
+   "en": "Kennings for Týr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch17": {
+   "on": "Bragakenningar",
+   "is": "Bragakenningar",
+   "en": "Kennings for Bragi",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch18": {
+   "on": "Víðarskenningar",
+   "is": "Víðarskenningar",
+   "en": "Kennings for Víðarr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch19": {
+   "on": "Válakenningar",
+   "is": "Válakenningar",
+   "en": "Kennings for Váli",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch20": {
+   "on": "Haðarkenningar",
+   "is": "Haðarkenningar",
+   "en": "Kennings for Höðr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch21": {
+   "on": "Ullarkenningar",
+   "is": "Ullarkenningar",
+   "en": "Kennings for Ullr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch22": {
+   "on": "Hæniskenningar",
+   "is": "Hæniskenningar",
+   "en": "Kennings for Hœnir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch23": {
+   "on": "Lokakenningar",
+   "is": "Lokakenningar",
+   "en": "Kennings for Loki",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch24": {
+   "on": "Frá Hrugni jötni",
+   "is": "Frá Hrugni jötni",
+   "en": "Of the giant Hrungnir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch25": {
+   "on": "Frá Gróu völu",
+   "is": "Frá Gróu völu",
+   "en": "Of the seeress Gróa",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch26": {
+   "on": "För Þórs til Geirröðargarða",
+   "is": "För Þórs til Geirröðargarða",
+   "en": "Þórr's journey to Geirröðr's court",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch27": {
+   "on": "Friggjarkenningar",
+   "is": "Friggjarkenningar",
+   "en": "Kennings for Frigg",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch28": {
+   "on": "Freyjukenningar",
+   "is": "Freyjukenningar",
+   "en": "Kennings for Freyja",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch29": {
+   "on": "Sifjarkenningar",
+   "is": "Sifjarkenningar",
+   "en": "Kennings for Sif",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch30": {
+   "on": "Iðunnarkenningar",
+   "is": "Iðunnarkenningar",
+   "en": "Kennings for Iðunn",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch31": {
+   "on": "Himinskenningar",
+   "is": "Himinskenningar",
+   "en": "Kennings for the sky",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch32": {
+   "on": "Jarðarkenningar",
+   "is": "Jarðarkenningar",
+   "en": "Kennings for the earth",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch33": {
+   "on": "Sjávarkenningar",
+   "is": "Sjávarkenningar",
+   "en": "Kennings for the sea",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch34": {
+   "on": "Sólarkenningar",
+   "is": "Sólarkenningar",
+   "en": "Kennings for the sun",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch35": {
+   "on": "Vindskenningar",
+   "is": "Vindskenningar",
+   "en": "Kennings for the wind",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch36": {
+   "on": "Eldskenningar",
+   "is": "Eldskenningar",
+   "en": "Kennings for fire",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch37": {
+   "on": "Vetrarkenningar",
+   "is": "Vetrarkenningar",
+   "en": "Kennings for winter",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch38": {
+   "on": "Sumarkenningar",
+   "is": "Sumarkenningar",
+   "en": "Kennings for summer",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch39": {
+   "on": "Mannkenningar ok kvenkenningar",
+   "is": "Mannkenningar og kvenkenningar",
+   "en": "Kennings for men and women",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch40": {
+   "on": "Gullskenningar",
+   "is": "Gullskenningar",
+   "en": "Kennings for gold",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch41": {
+   "on": "Æsir þágu veizlu at Ægis",
+   "is": "Æsir þágu veizlu að Ægis",
+   "en": "The Æsir feast at Ægir's",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch42": {
+   "on": "Frá lundinum Glasi",
+   "is": "Frá lundinum Glasi",
+   "en": "Of the grove Glasir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch43": {
+   "on": "Af smíðum Ívaldasona ok Sindra dvergs",
+   "is": "Af smíðum Ívaldasona og Sindra dvergs",
+   "en": "The work of Ívaldi's sons and the dwarf Sindri",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch44": {
+   "on": "Kenningar á gulli ok Freyju",
+   "is": "Kenningar á gulli og Freyju",
+   "en": "Kennings for gold and for Freyja",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch45": {
+   "on": "Gull kallat mál jötna",
+   "is": "Gull kallað mál jötna",
+   "en": "Gold called the speech of giants",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch46": {
+   "on": "Af otrgjöldum",
+   "is": "Af otrgjöldum",
+   "en": "Of the otter's ransom",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch47": {
+   "on": "Frá Fáfni, Regin ok Sigurði",
+   "is": "Frá Fáfni, Regin og Sigurði",
+   "en": "Of Fáfnir, Reginn and Sigurðr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch48": {
+   "on": "Frá Sigurði ok Gjúkungum",
+   "is": "Frá Sigurði og Gjúkungum",
+   "en": "Of Sigurðr and the Gjúkungs",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch49": {
+   "on": "Drepinn Sigurðr",
+   "is": "Drepinn Sigurður",
+   "en": "Sigurðr is killed",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch50": {
+   "on": "Dráp Gjúkunga ok hefndir Guðrúnar",
+   "is": "Dráp Gjúkunga og hefndir Guðrúnar",
+   "en": "The killing of the Gjúkungs and Guðrún's revenge",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch51": {
+   "on": "Frá Völsungum",
+   "is": "Frá Völsungum",
+   "en": "Of the Völsungs",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch52": {
+   "on": "Frá Fróða konungi ok kverninni Grótta",
+   "is": "Frá Fróða konungi og kverninni Grótta",
+   "en": "Of King Fróði and the mill Grotti",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch53": {
+   "on": "Frá Hrólfi kraka ok Vögg",
+   "is": "Frá Hrólfi kraka og Vögg",
+   "en": "Of Hrólfr kraki and Vöggr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch54": {
+   "on": "Frá Hrólfi hraka ok Aðilsi konungi",
+   "is": "Frá Hrólfi hraka og Aðilsi konungi",
+   "en": "Of Hrólfr kraki and King Aðils",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch55": {
+   "on": "Frá Hölga konungi",
+   "is": "Frá Hölga konungi",
+   "en": "Of King Hölgi",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch56": {
+   "on": "Enn frá gullskenningum",
+   "is": "Enn frá gullskenningum",
+   "en": "More kennings for gold",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch57": {
+   "on": "Maðr kenndr til gulls",
+   "is": "Maður kenndur til gulls",
+   "en": "A man referred to by gold",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch58": {
+   "on": "Kona kennd til gulls",
+   "is": "Kona kennd til gulls",
+   "en": "A woman referred to by gold",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch59": {
+   "on": "Maðr kenndr til viða",
+   "is": "Maður kenndur til viða",
+   "en": "A man referred to by trees",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch60": {
+   "on": "Orrostukenningar",
+   "is": "Orrostukenningar",
+   "en": "Kennings for battle",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch61": {
+   "on": "Vápnakenningar ok herklæða",
+   "is": "Vápnakenningar og herklæða",
+   "en": "Kennings for weapons and armour",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch62": {
+   "on": "Frá Hjaðningavígum",
+   "is": "Frá Hjaðningavígum",
+   "en": "Of the battle of the Hjaðningar",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch63": {
+   "on": "Orrosta kennd til Óðins",
+   "is": "Orrosta kennd til Óðins",
+   "en": "Battle referred to by Óðinn",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch64": {
+   "on": "Skipskenningar",
+   "is": "Skipskenningar",
+   "en": "Kennings for ships",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch65": {
+   "on": "Kristskenningar",
+   "is": "Kristskenningar",
+   "en": "Kennings for Christ",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch66": {
+   "on": "Konungakenningar ok fyrirmanna",
+   "is": "Konungakenningar og fyrirmanna",
+   "en": "Kennings for kings and chieftains",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch67": {
+   "on": "Skáldskaparheiti",
+   "is": "Skáldskaparheiti",
+   "en": "Poetic terms",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch68": {
+   "on": "Goðaheiti",
+   "is": "Goðaheiti",
+   "en": "Names of the gods",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch69": {
+   "on": "Himins heiti, sólar ok tungls",
+   "is": "Himins heiti, sólar og tungls",
+   "en": "Names for the sky, the sun and the moon",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch70": {
+   "on": "Jarðarheiti",
+   "is": "Jarðarheiti",
+   "en": "Names for the earth",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch71": {
+   "on": "Úlfs heiti, bjarnar ok hjartar",
+   "is": "Úlfs heiti, bjarnar og hjartar",
+   "en": "Names for the wolf, the bear and the hart",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch72": {
+   "on": "Hestaheiti",
+   "is": "Hestaheiti",
+   "en": "Names for horses",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch73": {
+   "on": "Öxn, ormar, sauðir, svín",
+   "is": "Öxn, ormar, sauðir, svín",
+   "en": "Oxen, serpents, sheep, swine",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch74": {
+   "on": "Heiti lofts ok veðra",
+   "is": "Heiti lofts og veðra",
+   "en": "Names for air and weather",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch75": {
+   "on": "Hrafnsheiti ok arnar",
+   "is": "Hrafnsheiti og arnarham",
+   "en": "Names for the raven and the eagle",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch76": {
+   "on": "Sævarheiti",
+   "is": "Sævarheiti",
+   "en": "Names for the sea",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch77": {
+   "on": "Eldsheiti",
+   "is": "Eldsheiti",
+   "en": "Names for fire",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch78": {
+   "on": "Heiti stundanna",
+   "is": "Heiti stundanna",
+   "en": "Names for times of day and year",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch79": {
+   "on": "Konungaheiti",
+   "is": "Konungaheiti",
+   "en": "Names for kings",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch80": {
+   "on": "Frá Halfdani gamla ok konungaættum",
+   "is": "Frá Halfdani gamla og konungaættum",
+   "en": "Of Hálfdan the Old and the royal lines",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch81": {
+   "on": "Mannaheiti",
+   "is": "Mannaheiti",
+   "en": "Names for men",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch82": {
+   "on": "Hópaheiti",
+   "is": "Hópaheiti",
+   "en": "Names for companies of men",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch83": {
+   "on": "Viðkenningar ok sannkenningar",
+   "is": "Viðkenningar og sannkenningar",
+   "en": "Substitutions and descriptive terms",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch84": {
+   "on": "Kvennaheiti",
+   "is": "Kvennaheiti",
+   "en": "Names for women",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch85": {
+   "on": "Höfuð ok hlutar þess",
+   "is": "Höfuð og hlutar þess",
+   "en": "The head and its parts",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch86": {
+   "on": "Hjarta, brjóst, hugr",
+   "is": "Hjarta, brjóst, hugur",
+   "en": "Heart, breast, mind",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch87": {
+   "on": "Hönd, fótr",
+   "is": "Hönd, fótur",
+   "en": "Hand and foot",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch88": {
+   "on": "Mál ok vit",
+   "is": "Mál og vit",
+   "en": "Speech and wit",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "s-ch89": {
+   "on": "At yrkja fólgit eða ofljóst",
+   "is": "Að yrkja fólgið eða ofljóst",
+   "en": "Hidden and double-meaning verse",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "h-ch1": {
+   "on": "Erindi 1–30",
+   "is": "Erindi 1–30",
+   "en": "Stanzas 1–30",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "h-ch2": {
+   "on": "Erindi 31–67",
+   "is": "Erindi 31–67",
+   "en": "Stanzas 31–67",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "h-ch3": {
+   "on": "Erindi 68–102",
+   "is": "Erindi 68–102",
+   "en": "Stanzas 68–102",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "vsp": {
+   "on": "Völuspá",
+   "is": "Völuspá",
+   "en": "The Seeress's Prophecy",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "hav": {
+   "on": "Hávamál",
+   "is": "Hávamál",
+   "en": "The Sayings of the High One",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "vm": {
+   "on": "Vafþrúðnismál",
+   "is": "Vafþrúðnismál",
+   "en": "The Lay of Vafþrúðnir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "grm": {
+   "on": "Grímnismál",
+   "is": "Grímnismál",
+   "en": "The Lay of Grímnir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "skm": {
+   "on": "Skírnismál",
+   "is": "Skírnismál",
+   "en": "The Lay of Skírnir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "hrbl": {
+   "on": "Hárbarðsljóð",
+   "is": "Hárbarðsljóð",
+   "en": "The Lay of Hárbarðr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "hym": {
+   "on": "Hymiskviða",
+   "is": "Hymiskviða",
+   "en": "The Lay of Hymir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "ls": {
+   "on": "Lokasenna",
+   "is": "Lokasenna",
+   "en": "Loki's Quarrel",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "thrk": {
+   "on": "Þrymskviða",
+   "is": "Þrymskviða",
+   "en": "The Lay of Þrymr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "alv": {
+   "on": "Alvíssmál",
+   "is": "Alvíssmál",
+   "en": "The Lay of Alvíss",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "bdr": {
+   "on": "Baldrs draumar",
+   "is": "Baldurs draumar",
+   "en": "Baldr's Dreams",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "rth": {
+   "on": "Rígsþula",
+   "is": "Rígsþula",
+   "en": "The List of Rígr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "hdl": {
+   "on": "Hyndluljóð",
+   "is": "Hyndluljóð",
+   "en": "The Lay of Hyndla",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "vsk": {
+   "on": "Völuspá in skamma",
+   "is": "Völuspá hin skamma",
+   "en": "The Short Seeress's Prophecy",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "grt": {
+   "on": "Gróttasöngr",
+   "is": "Gróttasöngur",
+   "en": "The Song of Grotti",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "grg": {
+   "on": "Grógaldr",
+   "is": "Grógaldur",
+   "en": "Gróa's Spell",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "fjm": {
+   "on": "Fjölsvinnsmál",
+   "is": "Fjölsvinnsmál",
+   "en": "The Lay of Fjölsviðr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "vkv": {
+   "on": "Völundarkviða",
+   "is": "Völundarkviða",
+   "en": "The Lay of Völundr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "hhv": {
+   "on": "Helgakviða Hjörvarðssonar",
+   "is": "Helgakviða Hjörvarðssonar",
+   "en": "The Lay of Helgi Hjörvarðsson",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "hh1": {
+   "on": "Helgakviða Hundingsbana I",
+   "is": "Helgakviða Hundingsbana I",
+   "en": "The First Lay of Helgi Hundingsbani",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "hh2": {
+   "on": "Völsungakviða in forna (Helgakviða Hundingsbana II)",
+   "is": "Völsungakviða hin forna (Helgakviða Hundingsbana II)",
+   "en": "The Old Lay of the Völsungs (Second Lay of Helgi Hundingsbani)",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "grp": {
+   "on": "Grípisspá (with Frá dauða Sinfjötla)",
+   "is": "Grípisspá (with Frá dauða Sinfjötla)",
+   "en": "Grípir's Prophecy (with The Death of Sinfjötli)",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "rm": {
+   "on": "Reginsmál",
+   "is": "Reginsmál",
+   "en": "The Lay of Reginn",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "fm": {
+   "on": "Fáfnismál",
+   "is": "Fáfnismál",
+   "en": "The Lay of Fáfnir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "sd": {
+   "on": "Sigrdrífumál",
+   "is": "Sigrdrífumál",
+   "en": "The Lay of Sigrdrífa",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "br": {
+   "on": "Sigurðarkviða in meiri (Brot af Sigurðarkviðu)",
+   "is": "Sigurðarkviða hin meiri (Brot af Sigurðarkviðu)",
+   "en": "The Longer Lay of Sigurðr (Fragment of a Sigurðr Lay)",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "gdr1": {
+   "on": "Guðrúnarkviða in fyrsta",
+   "is": "Guðrúnarkviða hin fyrsta",
+   "en": "The First Lay of Guðrún",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "sg": {
+   "on": "Sigurðarkviða in skamma",
+   "is": "Sigurðarkviða hin skamma",
+   "en": "The Short Lay of Sigurðr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "hlr": {
+   "on": "Helreið Brynhildar",
+   "is": "Helreið Brynhildar",
+   "en": "Brynhildr's Ride to Hel",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "drn": {
+   "on": "Dráp Niflunga",
+   "is": "Dráp Niflunga",
+   "en": "The Killing of the Niflungs",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "gdr2": {
+   "on": "Guðrúnarkviða in forna (Guðrúnarkviða II)",
+   "is": "Guðrúnarkviða hin forna (Guðrúnarkviða II)",
+   "en": "The Old Lay of Guðrún (Second Lay of Guðrún)",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "gdr3": {
+   "on": "Guðrúnarkviða in þriðja",
+   "is": "Guðrúnarkviða hin þriðja",
+   "en": "The Third Lay of Guðrún",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "od": {
+   "on": "Oddrúnarkviða (Oddrúnargrátr)",
+   "is": "Oddrúnarkviða (Oddrúnargrátur)",
+   "en": "Oddrún's Lament",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "akv": {
+   "on": "Atlakviða",
+   "is": "Atlakviða",
+   "en": "The Lay of Atli",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "am": {
+   "on": "Atlamál in grænlenzku",
+   "is": "Atlamál hin grænlenzku",
+   "en": "The Greenlandic Lay of Atli",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "ghv": {
+   "on": "Guðrúnarhvöt",
+   "is": "Guðrúnarhvöt",
+   "en": "Guðrún's Inciting",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "hm": {
+   "on": "Hamðismál",
+   "is": "Hamðismál",
+   "en": "The Lay of Hamðir",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "hjk": {
+   "on": "Hjálmarskviða",
+   "is": "Hjálmarskviða",
+   "en": "Hjálmarr's Death-Song",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "hvk": {
+   "on": "Hervararkviða",
+   "is": "Hervararkviða",
+   "en": "The Waking of Angantýr",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "hlk": {
+   "on": "Hlöðskviða",
+   "is": "Hlöðskviða",
+   "en": "The Battle of the Goths and Huns",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "hrl": {
+   "on": "Hálfsrekkaljóð",
+   "is": "Hálfsrekkaljóð",
+   "en": "The Lays of Hálfr's Warriors",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "heid": {
+   "on": "Heiðreksgátur",
+   "is": "Heiðreksgátur",
+   "en": "Heiðrekr's Riddles",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "ebr": {
+   "on": "Eddubrot",
+   "is": "Eddubrot",
+   "en": "Eddic Fragments",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "sol": {
+   "on": "Sólarljóð",
+   "is": "Sólarljóð",
+   "en": "The Song of the Sun",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  },
+  "fsl": {
+   "on": "Forspjallsljóð (Hrafnagaldr Óðins)",
+   "is": "Forspjallsljóð (Hrafnagaldur Óðins)",
+   "en": "Óðinn's Raven-Spell (Forspjallsljóð)",
+   "status": {
+    "is": "auto",
+    "en": "draft"
+   }
+  }
+ }
+}

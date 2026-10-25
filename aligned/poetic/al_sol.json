@@ -1,0 +1,3064 @@
+{
+ "part": "poetic",
+ "poem": "sol",
+ "title": "Sólarljóð",
+ "group": "other",
+ "chapters": [
+  {
+   "num": 44,
+   "key": "sol",
+   "title": "Sólarljóð",
+   "subtitle": null,
+   "group": "other",
+   "rows": [
+    {
+     "id": "sol-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Fé ok fjörvi",
+        "rænti fyrða kind",
+        "sá hinn grimmi Greppr;",
+        "yfir þá vegu,",
+        "er hann varðaði,",
+        "náði engi kvikr komask."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Fé og fjörvi",
+        "rænti fyrða kind",
+        "sá hitt grimmi Greppur;",
+        "yfir þá vega,",
+        "er hann varðaði,",
+        "náði enginn kvikur komast."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "head": "I."
+    },
+    {
+     "id": "sol-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Einn hann át",
+        "oft harðla,",
+        "aldri bauð hann manni til matar,",
+        "áðr enn móðr",
+        "ok meginlítill",
+        "Gestr af götu kom."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Einn hann át",
+        "oft harðla,",
+        "aldrei bauð hann manni til matar,",
+        "áður enn móður",
+        "og meginlítill",
+        "Gestur af götu kom."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Drykks of þurfi",
+        "lézk inn dæsti maðr",
+        "ok vanmettr vera;",
+        "hræddu hjarta",
+        "hann lézk trúa,",
+        "þeim er áðr hafði vályndr verit."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Drykks of þurfi",
+        "lézg hinn dæsti maður",
+        "og vanmettur vera;",
+        "hræddu hjarta",
+        "hann lézg trúa,",
+        "þeim er áður hafði vályndur verið."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Mat ok drykk",
+        "veitti hann þeim, er móðr var,",
+        "allt af heilum hug;",
+        "guðs hann gáði,",
+        "góðu honum beindi,",
+        "því hann hugðisk váligr vera."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Mat og drykk",
+        "veitti hann þeim, er móður var,",
+        "allt af heilum hug;",
+        "guðs hann gáði,",
+        "góðu honum beindi,",
+        "því hann hugðist váligur vera."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Upp hinn stóð,",
+        "illt hann hugði,",
+        "eigi var þarfsamliga þegit;",
+        "synð hans svall,",
+        "sofanda myrði",
+        "fróðan, fjölvaran."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Upp hitt stóð,",
+        "illt hann hugði,",
+        "eigi var þarfsamlega þegið;",
+        "synð hans svall,",
+        "sofanda myrði",
+        "fróðan, fjölvaran."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Himna guð",
+        "bað hann hjálpa sér,",
+        "þá hann veginn vaknaði;",
+        "en sá gat",
+        "við synðum taka,",
+        "er hann hafði saklausan svikit."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Himna guð",
+        "bað hann hjálpa sér,",
+        "þá hann veginn vaknaði;",
+        "en sá gat",
+        "við synðum taka,",
+        "er hann hafði saklausan svikið."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Helgir englar",
+        "kómu ór himnum ofan",
+        "ok tóku sál hans til sín;",
+        "í hreinu lífi",
+        "hon skal lifa",
+        "æ með almáttkum guði."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Helgir englar",
+        "komu úr himnum ofan",
+        "og tóku sál hans til sín;",
+        "í hreinu lífi",
+        "hún skal lifa",
+        "æ með almáttkum guði."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Auð né heilsu",
+        "ræðr engi maðr,",
+        "þótt honum gangi greitt;",
+        "margan þat sækir",
+        "er minnst of varir,",
+        "engi ræðr sættum sjálfr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Auð né heilsu",
+        "ræður enginn maður,",
+        "þótt honum gangi greitt;",
+        "margan það sækir",
+        "er minnst of varir,",
+        "enginn ræður sættum sjálfur."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Ekki þeir hugðu",
+        "Unnarr ok Sævaldi,",
+        "at þeim myndi heill hrapa;",
+        "nakðir þeir urðu",
+        "ok næmðir hvívetna,",
+        "ok runnu sem vargar til viðar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Ekki þeir hugðu",
+        "Unnar og Sævaldi,",
+        "að þeim myndi heill hrapa;",
+        "nakðir þeir urðu",
+        "og næmðir hvívetna,",
+        "og runnu sem vargar til viðar."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Munaðar ríki",
+        "hefir margan tregat,",
+        "oft verðr kvalræði af konum;",
+        "meingar þær urðu,",
+        "þó inn máttki guð",
+        "skapaði skírliga."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Munaðar ríki",
+        "hefur margan tregað,",
+        "oft verður kvalræði af konum;",
+        "meingar þær urðu,",
+        "þó hinn máttki guð",
+        "skapaði skírlega."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Sáttir þeir váru",
+        "Sváfaðr ok Skartheðinn,",
+        "hvárrgi mátti annars án vera,",
+        "fyrr enn þeir æddusk",
+        "fyr einni konu:",
+        "hon var þeim til lýta lagin."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Sáttir þeir voru",
+        "Sváfaður og Skartheðinn,",
+        "hvárrgi mátti annars án vera,",
+        "fyrr enn þeir æddust",
+        "fyr einni konu:",
+        "hún var þeim til lýta lagin."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Hvárskis þeir gáðu",
+        "fyr þá hvítu mey,",
+        "leiks né ljóss daga;",
+        "engan hlut",
+        "máttu þeir annan muna",
+        "en þat ljósa lík."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Hvárskis þeir gáðu",
+        "fyr þá hvítu mey,",
+        "leiks né ljós daga;",
+        "engan hluta",
+        "máttu þeir annan muna",
+        "en það ljósa lík."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Daprar þeim urðu",
+        "inar dimmu nætr,",
+        "engan máttu þeir sætan sofa;",
+        "en af þeim harmi",
+        "rann heift saman",
+        "millum virkðavina."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Daprar þeim urðu",
+        "hinar dimmu nætur,",
+        "engan máttu þeir sætan sofa;",
+        "en af þeim harmi",
+        "rann heift saman",
+        "millum virkðavina."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Fádæmi verða",
+        "í flestum stöðum",
+        "goldin grimmliga;",
+        "á hólm þeir gengu",
+        "fyr it horska víf",
+        "ok fengu báðir bana."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Fádæmi verða",
+        "í flestum stöðum",
+        "goldin grimmlega;",
+        "á hólm þeir gengu",
+        "fyr it horska víf",
+        "og fengu báðir bana."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Ofmetnað drýgja",
+        "skyldi engi maðr,",
+        "þat hefik sannliga sét,",
+        "því at þeir hverfa,",
+        "er honum fylgja,",
+        "flestir guði frá."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Ofmetnað drýgja",
+        "skyldi enginn maður,",
+        "það hefig sannlega séð,",
+        "því að þeir hverfa,",
+        "er honum fylgja,",
+        "flestir guði frá."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Rík þau váru",
+        "Ráðný ok Véboði",
+        "ok hugðusk gott eitt gera;",
+        "nú þau sitja",
+        "ok sárum snúa",
+        "ýmsum elda til."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Rík þau voru",
+        "Ráðný og Véboði",
+        "og hugðust gott eitt gera;",
+        "nú þau sitja",
+        "og sárum snúa",
+        "ýmsum elda til."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Á sik þau trúðu",
+        "ok þóttusk ein vera",
+        "allri þjóð yfir;",
+        "en þó leizk",
+        "þeira hagr",
+        "annan veg almáttkum guði."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Á sig þau trúðu",
+        "og þóttust ein vera",
+        "allri þjóð yfir;",
+        "en þó leizg",
+        "þeirra hagur",
+        "annan veg almáttkum guði."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Munað þau drýgðu",
+        "á marga vegu",
+        "ok höfðu gull fyr gaman;",
+        "nú er þeim goldit,",
+        "er þau ganga skulu",
+        "milli frosts ok funa."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Munað þau drýgðu",
+        "á marga vega",
+        "og höfðu gull fyr gaman;",
+        "nú er þeim goldið,",
+        "er þau ganga skulu",
+        "milli frosts og funa."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Óvinum þínum",
+        "trúðu aldregi,",
+        "þó þér fagrt mæli fyrir;",
+        "góðu þú heit,",
+        "gott er annars",
+        "víti hafa at varnaði."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Óvinum þínum",
+        "trúðu aldregi,",
+        "þó þér fagurt mæli fyrir;",
+        "góðu þú heit,",
+        "gott er annars",
+        "víti hafa að varnaði."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Svá honum gafsk",
+        "Sörla inum góðráða,",
+        "þá er hann lagði á Vígúlfs vald;",
+        "tryggliga hann trúði,",
+        "- en hinn at tálum varð, -",
+        "sínum bróðurbana."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Svo honum gafst",
+        "Sörla hinum góðráða,",
+        "þá er hann lagði á Vígúlfs vald;",
+        "trygglega hann trúði,",
+        "- en hitt að tálum varð, -",
+        "sínum bróðurbana."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Grið hann þeim seldi",
+        "af góðum hug,",
+        "en þeir hétu honum gulli í gegn;",
+        "sáttir létusk,",
+        "meðan saman drukku,",
+        "en þó kómu flærðir fram."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Grið hann þeim seldi",
+        "af góðum hug,",
+        "en þeir hétu honum gulli í gegn;",
+        "sáttir létust,",
+        "meðan saman drukku,",
+        "en þó komu flærðir fram."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "En þá eftir",
+        "á öðrum degi,",
+        "er þeir höfðu í Rýgjardal riðit,",
+        "sverðum þeir meiddu,",
+        "þann er saklauss var",
+        "ok létu hans fjörvi farit."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "En þá eftir",
+        "á öðrum degi,",
+        "er þeir höfðu í Rýgjardal riðið,",
+        "sverðum þeir meiddu,",
+        "þann er saklaus var",
+        "og létu hans fjörvi farið."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Lík hans þeir drógu",
+        "á leynigötu",
+        "ok brytjuðu í brunn niðr;",
+        "dylja þeir vildu,",
+        "en dróttinn sá",
+        "heilagr himnum af."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Lík hans þeir drógu",
+        "á leynigötu",
+        "og brytjuðu í brunn niður;",
+        "dylja þeir vildu,",
+        "en dróttinn sá",
+        "heilagur himnum af."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Sál hans bað",
+        "inn sanni guð",
+        "í sinn fögnuð fara;",
+        "en sökudólgar",
+        "hygg ek síðla muni",
+        "kallaðir frá kvölum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Sál hans bað",
+        "hinn sanni guð",
+        "í sinn fögnuð fara;",
+        "en sökudólgar",
+        "hygg eg síðla muni",
+        "kallaðir frá kvölum."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Dísir bið þú þér",
+        "dróttins mála",
+        "vera hollar í hugum;",
+        "viku eftir",
+        "mun þér vilja þíns",
+        "alt at óskum ganga."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Dísir bið þú þér",
+        "dróttins mála",
+        "vera hollar í hugum;",
+        "viku eftir",
+        "mun þér vilja þíns",
+        "alt að óskum ganga."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "head": "II."
+    },
+    {
+     "id": "sol-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Reiðiverk,",
+        "þau er þú unnit hefr,",
+        "bæt þú eigi illu yfir;",
+        "grættan gæla",
+        "skaltu með góðum hlutum,",
+        "þat kveða sálu sama."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Reiðiverk,",
+        "þau er þú unnið hefur,",
+        "bæt þú eigi illu yfir;",
+        "grættan gæla",
+        "skaltu með góðum hlutum,",
+        "það kveða sálu sama."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Á guð skal heita",
+        "til góðra hluta,",
+        "þann er hefir skatna skapat;",
+        "mjök fyrir verðr",
+        "manna hverr,",
+        "er seinar finna föður."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Á guð skal heita",
+        "til góðra hluta,",
+        "þann er hefur skatna skapað;",
+        "mjög fyrir verður",
+        "manna hver,",
+        "er seinar finna föður."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s28",
+     "stanza": 28,
+     "on": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Æsta dugir",
+        "einkum vandliga",
+        "þess er þykkir vant vera;",
+        "alls á mis verðr,",
+        "sá er einskis biðr;",
+        "fár hyggr þegjanda þörf."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Æsta dugir",
+        "einkum vandlega",
+        "þess er þykir vant vera;",
+        "alls á mis verður,",
+        "sá er einskis biður;",
+        "fár hyggur þegjanda þörf."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s29",
+     "stanza": 29,
+     "on": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Síðla ek kom,",
+        "snemma kallaðr,",
+        "til dómvalds dyra;",
+        "þangat ek ætlumk,",
+        "því mér heitit var:",
+        "sá hefir krás, er krefr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Síðla eg kom,",
+        "snemma kallaður,",
+        "til dómvalds dyra;",
+        "þangað eg ætlumk,",
+        "því mér heitið var:",
+        "sá hefur krás, er krefur."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s30",
+     "stanza": 30,
+     "on": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Syndir því valda,",
+        "at vér hryggvir förum",
+        "ægisheimi ór;",
+        "engi óttask,",
+        "nema illt geri;",
+        "gott er vammalausum vera."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Syndir því valda,",
+        "að vér hryggir förum",
+        "ægisheimi úr;",
+        "enginn óttast,",
+        "nema illt geri;",
+        "gott er vammalausum vera."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s31",
+     "stanza": 31,
+     "on": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Úlfum glíkir",
+        "þykkja allir þeir,",
+        "sem eiga hverfan hug;",
+        "svá mun gefask,",
+        "þeim er ganga skal",
+        "þær inar glæddu götur."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Úlfum glíkir",
+        "þykja allir þeir,",
+        "sem eiga hverfan hug;",
+        "svo mun gefast,",
+        "þeim er ganga skal",
+        "þær hinar glæddu götur."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s32",
+     "stanza": 32,
+     "on": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Vinsamlig ráð",
+        "ok viti bundin",
+        "kenni ek þér sjau saman;",
+        "görla þau mun",
+        "ok glata aldregi,",
+        "öll eru þau nýt at nema."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Vinsamleg ráð",
+        "og viti bundin",
+        "kenni eg þér sjö saman;",
+        "görla þau mun",
+        "og glata aldregi,",
+        "öll eru þau nýt að nema."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s33",
+     "stanza": 33,
+     "on": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Frá því er at segja,",
+        "hvé sæll ek var",
+        "ynðisheimi í,",
+        "ok hinu öðru,",
+        "hvé ýta synir",
+        "verða nauðgir at náum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Frá því er að segja,",
+        "hve sæll eg var",
+        "ynðisheimi í,",
+        "og hinu öðru,",
+        "hve ýta synir",
+        "verða nauðgir að náum."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "head": "III."
+    },
+    {
+     "id": "sol-s34",
+     "stanza": 34,
+     "on": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Vil ok dul",
+        "tælir virða sonu,",
+        "þá er fíkjask á fé;",
+        "ljósir aurar",
+        "verða at löngum trega;",
+        "margan hefir auðr apat."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Vil og dul",
+        "tælir virða sonu,",
+        "þá er fíkjast á fé;",
+        "ljósir aurar",
+        "verða að löngum trega;",
+        "margan hefur auður apað."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s35",
+     "stanza": 35,
+     "on": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Glaðr at mörgu",
+        "þótta ek gumnum vera,",
+        "því at ek vissa fátt fyrir;",
+        "dvalarheim",
+        "hefr dróttinn skapat",
+        "munafullan mjök."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Glaður að mörgu",
+        "þótta eg gumnum vera,",
+        "því að eg vissa fátt fyrir;",
+        "dvalarheim",
+        "hefur dróttinn skapað",
+        "munafullan mjög."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s36",
+     "stanza": 36,
+     "on": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Lútr ek sat,",
+        "lengi ek hölluðumk,",
+        "mjök var ek þá lystr at lifa;",
+        "en sá réð,",
+        "sem ríkr var;",
+        "frammi eru feigs götur."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Lútur eg sat,",
+        "lengi eg hölluðumk,",
+        "mjög var eg þá lystur að lifa;",
+        "en sá réð,",
+        "sem ríkur var;",
+        "frammi eru feigs götur."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s37",
+     "stanza": 37,
+     "on": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Heljar reip",
+        "kómu harðliga",
+        "sveigð at síðum mér;",
+        "slíta ek vilda,",
+        "en þau seig váru;",
+        "létt er lauss at fara."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Heljar reip",
+        "komu harðlega",
+        "sveigð að síðum mér;",
+        "slíta eg vilda,",
+        "en þau seig voru;",
+        "létt er laus að fara."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s38",
+     "stanza": 38,
+     "on": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Einn ek vissa,",
+        "hvé alla vega",
+        "sullu sútir mér;",
+        "Heljar meyar",
+        "er mér hrolla buðu",
+        "heim á hverju kveldi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Einn eg vissa,",
+        "hve alla vega",
+        "sullu sútir mér;",
+        "Heljar meyar",
+        "er mér hrolla buðu",
+        "heim á hverju kveldi."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s39",
+     "stanza": 39,
+     "on": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Sól ek sá,",
+        "sanna dagstjörnu,",
+        "drúpa dynheimum í;",
+        "en Heljar grind",
+        "heyrðak ek á annan veg",
+        "þjóta þungliga."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Sól eg sá,",
+        "sanna dagstjörnu,",
+        "drúpa dynheimum í;",
+        "en Heljar grind",
+        "heyrðak eg á annan veg",
+        "þjóta þunglega."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s40",
+     "stanza": 40,
+     "on": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Sól ek sá",
+        "setta dreyrstöfum;",
+        "mjök var ek þá ór heimi hallr;",
+        "máttug hon leizk",
+        "á marga vegu",
+        "frá því sem fyrri var."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Sól eg sá",
+        "setta dreyrstöfum;",
+        "mjög var eg þá úr heimi hallur;",
+        "máttug hún leizg",
+        "á marga vega",
+        "frá því sem fyrri var."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s41",
+     "stanza": 41,
+     "on": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "Sól ek sá,",
+        "svá þótti mér,",
+        "sem ek sæja göfgan guð;",
+        "henni ek laut",
+        "hinzta sinni",
+        "aldaheimi í."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "Sól eg sá,",
+        "svo þótti mér,",
+        "sem eg sæja göfgan guð;",
+        "henni eg laut",
+        "hinzta sinni",
+        "aldaheimi í."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s42",
+     "stanza": 42,
+     "on": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "Sól ek sá,",
+        "svá hon geislaði,",
+        "at ek þóttumk vættki vita;",
+        "en gylfar straumar",
+        "grenjuðu annan veg,",
+        "blandnir mjök við blóð."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "Sól eg sá,",
+        "svo hún geislaði,",
+        "að eg þóttumk vættki vita;",
+        "en gylfar straumar",
+        "grenjuðu annan veg,",
+        "blandnir mjög við blóð."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s43",
+     "stanza": 43,
+     "on": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "Sól ek sá",
+        "á sjónum skjálfandi,",
+        "hræðslufullr ok hnipinn;",
+        "því at hjarta mitt",
+        "var harðla mjök",
+        "runnit sundr í sega."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "Sól eg sá",
+        "á sjóninni skjálfandi,",
+        "hræðslufullur og hnipinn;",
+        "því að hjarta mitt",
+        "var harðla mjög",
+        "runnið sundur í sega."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s44",
+     "stanza": 44,
+     "on": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "Sól ek sá",
+        "sjaldan hryggvari;",
+        "mjök var ek þá ór heimi hallr;",
+        "tunga mín",
+        "var til trés metin,",
+        "ok kólnat at fyrir utan."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "Sól eg sá",
+        "sjaldan hryggvari;",
+        "mjög var eg þá úr heimi hallur;",
+        "tunga mín",
+        "var til trés metin,",
+        "og kólnað að fyrir utan."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s45",
+     "stanza": 45,
+     "on": [
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "Sól ek sá",
+        "síðan aldregi",
+        "eftir þann dapra dag,",
+        "því at fjalla vötn",
+        "lukðusk fyrir mér saman,",
+        "en ek hvarf kallaðr frá kvölum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "Sól eg sá",
+        "síðan aldregi",
+        "eftir þann dapra dag,",
+        "því að fjalla vötn",
+        "lukðust fyrir mér saman,",
+        "en eg hvarf kallaður frá kvölum."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s46",
+     "stanza": 46,
+     "on": [
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "Vánarstjarna flaug",
+        "- þá var ek fæddr, -",
+        "brott frá brjósti mér;",
+        "hátt-at hon fló,",
+        "hvergi settisk,",
+        "svá at hon mætti hvíld hafa."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "Vánarstjarna flaug",
+        "- þá var eg fæddur, -",
+        "brott frá brjósti mér;",
+        "hátt-at hún fló,",
+        "hvergi settist,",
+        "svo að hún mætti hvíld hafa."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s47",
+     "stanza": 47,
+     "on": [
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "Öllum lengri",
+        "var sú in eina nótt,",
+        "er ek lá stirðr á stráum;",
+        "þá merkir þat,",
+        "er guð mælti,",
+        "at maðr er moldu samr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "Öllum lengri",
+        "var sú hin eina nótt,",
+        "er eg lá stirður á stráum;",
+        "þá merkir það,",
+        "er guð mælti,",
+        "að maður er moldu samur."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s48",
+     "stanza": 48,
+     "on": [
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "Virði þat ok viti",
+        "in virki guð,",
+        "sá er skóp hauðr ok himin;",
+        "hversu munaðarlausir",
+        "margir fara,",
+        "þótt við skylda skili."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "Virði það og viti",
+        "hin virki guð,",
+        "sá er skóp hauður og himin;",
+        "hversu munaðarlausir",
+        "margir fara,",
+        "þótt við skylda skili."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s49",
+     "stanza": 49,
+     "on": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "Sinna verka",
+        "nýtr seggja hverr;",
+        "sæll er sá, sem gott gerir;",
+        "auði frá",
+        "er mér ætluð var",
+        "sandi orpin sæng."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "Sinna verka",
+        "nýtur seggja hver;",
+        "sæll er sá, sem gott gerir;",
+        "auði frá",
+        "er mér ætluð var",
+        "sandi orpin sæng."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s50",
+     "stanza": 50,
+     "on": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "Hörundar hungr",
+        "tælir hölða oft,",
+        "hann hefir margr til mikinn;",
+        "lauga vatn",
+        "er mér leiðast var",
+        "eitt allra hluta."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "Hörundar hungur",
+        "tælir hölða oft,",
+        "hann hefur margur til mikinn;",
+        "lauga vatn",
+        "er mér leiðast var",
+        "eitt allra hluta."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s51",
+     "stanza": 51,
+     "on": [
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "Á norna stóli",
+        "sat ek níu daga,",
+        "þaðan var ek á hest hafinn;",
+        "gýgjar sólir",
+        "skinu grimmliga",
+        "ór skýdrúpnis skýjum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "Á norna stóli",
+        "sat eg níu daga,",
+        "þaðan var eg á hest hafinn;",
+        "gýgjar sólir",
+        "skinu grimmlega",
+        "úr skýdrúpnis skýjum."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s52",
+     "stanza": 52,
+     "on": [
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "Utan ok innan",
+        "þóttumk ek alla fara",
+        "sigrheima sjau;",
+        "upp ok niðr",
+        "leitaða ek æðra vegar,",
+        "hvar mér væri greiðastar götur."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "Utan og innan",
+        "þóttumk eg alla fara",
+        "sigrheima sjö;",
+        "upp og niður",
+        "leitaða eg æðra vegar,",
+        "hvar mér væri greiðastar götur."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s53",
+     "stanza": 53,
+     "on": [
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "Frá því er at segja,",
+        "hvat ek fyrst of sá,",
+        "þá er ek var í kvölheima kominn:",
+        "sviðnir fuglar,",
+        "er sálir váru,",
+        "flugu svá margir sem mý."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "Frá því er að segja,",
+        "hvað eg fyrst of sá,",
+        "þá er eg var í kvölheima kominn:",
+        "sviðnir fuglar,",
+        "er sálir voru,",
+        "flugu svo margir sem mý."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s54",
+     "stanza": 54,
+     "on": [
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "Vestan sá ek",
+        "fljúga Vánar dreka,",
+        "ok fell á glævalds götu;",
+        "vængi þeir skóku,",
+        "svá víða þótti mér",
+        "springa hauðr ok himinn."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "Vestan sá eg",
+        "fljúga Vánar dreka,",
+        "og féll á glævalds götu;",
+        "vængi þeir skóku,",
+        "svo víða þótti mér",
+        "springa hauður og himinn."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s55",
+     "stanza": 55,
+     "on": [
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "Sólar hjört",
+        "leit ek sunnan fara,",
+        "hann teymðu tveir saman;",
+        "fætr hans",
+        "stóðu foldu á,",
+        "en tóku horn til himins."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "Sólar hjört",
+        "leit eg sunnan fara,",
+        "hann teymðu tveir saman;",
+        "fætur hans",
+        "stóðu foldu á,",
+        "en tóku horn til himins."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s56",
+     "stanza": 56,
+     "on": [
+      {
+       "t": "v",
+       "n": 56,
+       "l": [
+        "Norðan sá ek",
+        "ríða niðja sonu,",
+        "ok váru sjau saman;",
+        "hornum fullum",
+        "drukku þeir inn hreina mjöð",
+        "ór brunni Baugregins."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 56,
+       "l": [
+        "Norðan sá eg",
+        "ríða niðja sonu,",
+        "og voru sjö saman;",
+        "hornum fullum",
+        "drukku þeir hinn hreina mjöð",
+        "úr brunni Baugregins."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s57",
+     "stanza": 57,
+     "on": [
+      {
+       "t": "v",
+       "n": 57,
+       "l": [
+        "Vindr þagði,",
+        "vötn stöðvaði,",
+        "þá heyrða ek grimmligan gný;",
+        "sínum mönnum",
+        "svipvísar konur",
+        "mólu mold til matar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 57,
+       "l": [
+        "Vindur þagði,",
+        "vötn stöðvaði,",
+        "þá heyrði eg grimmligan gný;",
+        "sínum mönnum",
+        "svipvísar konur",
+        "mólu mold til matar."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s58",
+     "stanza": 58,
+     "on": [
+      {
+       "t": "v",
+       "n": 58,
+       "l": [
+        "Dreyra steina",
+        "þær inar dökku konur",
+        "drógu daprliga;",
+        "blóðug hjörtu",
+        "hengu þeim fyrir brjóst utan,",
+        "mædd við miklum trega."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 58,
+       "l": [
+        "Dreyra steina",
+        "þær hinar dökku konur",
+        "drógu daprlega;",
+        "blóðug hjörtu",
+        "hengu þeim fyrir brjóst utan,",
+        "mædd við miklum trega."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s59",
+     "stanza": 59,
+     "on": [
+      {
+       "t": "v",
+       "n": 59,
+       "l": [
+        "Margan mann",
+        "sá ek meiddan fara",
+        "á þeim glæddu götum;",
+        "andlit þeira",
+        "sýndusk mér öll vera",
+        "rýgjar blóði roðin."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 59,
+       "l": [
+        "Margan mann",
+        "sá eg meiddan fara",
+        "á þeim glæddu götum;",
+        "andlit þeirra",
+        "sýndust mér öll vera",
+        "rýgjar blóði roðin."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s60",
+     "stanza": 60,
+     "on": [
+      {
+       "t": "v",
+       "n": 60,
+       "l": [
+        "Marga menn",
+        "sá ek moldar gengna,",
+        "þá er eigi máttu þjónustu ná;",
+        "heiðnar stjörnur",
+        "stóðu yfir höfði þeim",
+        "fáðar feiknstöfum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 60,
+       "l": [
+        "Marga menn",
+        "sá eg moldar gengna,",
+        "þá er eigi máttu þjónustu ná;",
+        "heiðnar stjörnur",
+        "stóðu yfir höfði þeim",
+        "fáðar feiknstöfum."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s61",
+     "stanza": 61,
+     "on": [
+      {
+       "t": "v",
+       "n": 61,
+       "l": [
+        "Menn sá ek þá,",
+        "er mjök ala",
+        "öfund um annars hagi;",
+        "blóðgar rúnar",
+        "váru á brjósti þeim",
+        "merkðar meinliga."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 61,
+       "l": [
+        "Menn sá eg þá,",
+        "er mjög ala",
+        "öfund um annars hagi;",
+        "blóðgar rúnir",
+        "voru á brjósti þeim",
+        "merkðar meinlega."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s62",
+     "stanza": 62,
+     "on": [
+      {
+       "t": "v",
+       "n": 62,
+       "l": [
+        "Menn sá ek þar",
+        "marga ófegna,",
+        "þeir váru villir vega;",
+        "þat kaupir sá,",
+        "er þessa heims",
+        "apask at óheillum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 62,
+       "l": [
+        "Menn sá eg þar",
+        "marga ófegna,",
+        "þeir voru villir vega;",
+        "það kaupir sá,",
+        "er þessa heims",
+        "apast að óheillum."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s63",
+     "stanza": 63,
+     "on": [
+      {
+       "t": "v",
+       "n": 63,
+       "l": [
+        "Menn sá ek þá,",
+        "er mörgum hlutum",
+        "véltu um annars eign;",
+        "flokkum þeir fóru",
+        "til Fégjarnsborgar",
+        "ok höfðu byrðar af blýi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 63,
+       "l": [
+        "Menn sá eg þá,",
+        "er mörgum hlutum",
+        "véltu um annars eign;",
+        "flokkum þeir fóru",
+        "til Fégjarnsborgar",
+        "og höfðu byrðar af blýi."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s64",
+     "stanza": 64,
+     "on": [
+      {
+       "t": "v",
+       "n": 64,
+       "l": [
+        "Menn sá ek þá,",
+        "er margan höfðu",
+        "fé ok fjörvi rænt;",
+        "brjóst í gegnum",
+        "renndu brögnum þeim",
+        "öflgir eitrdrekar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 64,
+       "l": [
+        "Menn sá eg þá,",
+        "er margan höfðu",
+        "fé og fjörvi rænt;",
+        "brjóst í gegnum",
+        "renndu brögnum þeim",
+        "öflgir eitrdrekar."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s65",
+     "stanza": 65,
+     "on": [
+      {
+       "t": "v",
+       "n": 65,
+       "l": [
+        "Menn sá ek þá,",
+        "er minnst vildu",
+        "halda helga daga;",
+        "hendr þeira",
+        "váru á heitum steinum",
+        "negldar nauðliga."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 65,
+       "l": [
+        "Menn sá eg þá,",
+        "er minnst vildu",
+        "halda helga daga;",
+        "hendur þeirra",
+        "voru á heitum steinum",
+        "negldar nauðlega."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s66",
+     "stanza": 66,
+     "on": [
+      {
+       "t": "v",
+       "n": 66,
+       "l": [
+        "Menn sá ek þá,",
+        "er af mikillæti",
+        "virðusk vánum framar;",
+        "klæði þeira",
+        "váru kynliga",
+        "eldi um slegin."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 66,
+       "l": [
+        "Menn sá eg þá,",
+        "er af mikillæti",
+        "virðust vánum framar;",
+        "klæði þeirra",
+        "voru kynlega",
+        "eldi um slegin."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s67",
+     "stanza": 67,
+     "on": [
+      {
+       "t": "v",
+       "n": 67,
+       "l": [
+        "Menn sá ek þá,",
+        "er margt höfðu",
+        "orð á annan logit;",
+        "heljar hrafnar",
+        "ór höfði þeim",
+        "harðliga sjónir slitu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 67,
+       "l": [
+        "Menn sá eg þá,",
+        "er margt höfðu",
+        "orð á annan logið;",
+        "heljar hrafnar",
+        "úr höfði þeim",
+        "harðlega sjónir slita."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s68",
+     "stanza": 68,
+     "on": [
+      {
+       "t": "v",
+       "n": 68,
+       "l": [
+        "Allar ógnir",
+        "fær þú eigi vitat,",
+        "þær sem helgengnir hafa;",
+        "sætar syndir",
+        "verða at sárum bótum;",
+        "æ koma mein eftir munuð."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 68,
+       "l": [
+        "Allar ógnir",
+        "fær þú eigi vitað,",
+        "þær sem helgengnir hafa;",
+        "sætar syndir",
+        "verða að sárum bótum;",
+        "æ koma mein eftir munuð."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s69",
+     "stanza": 69,
+     "on": [
+      {
+       "t": "v",
+       "n": 69,
+       "l": [
+        "Menn sá ek þá,",
+        "er margt höfðu",
+        "gefit at guðs lögum;",
+        "hreinir kyndlar",
+        "váru yfir höfði þeim",
+        "brenndir bjartliga."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 69,
+       "l": [
+        "Menn sá eg þá,",
+        "er margt höfðu",
+        "gefið að guðs lögum;",
+        "hreinir kyndlar",
+        "voru yfir höfði þeim",
+        "brenndir bjartlega."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s70",
+     "stanza": 70,
+     "on": [
+      {
+       "t": "v",
+       "n": 70,
+       "l": [
+        "Menn sá ek þá,",
+        "er af miklum hug",
+        "veittu fátækum frama;",
+        "lásu englar bækr",
+        "ok ymna skrift",
+        "helgar yfir höfði þeim."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 70,
+       "l": [
+        "Menn sá eg þá,",
+        "er af miklum hug",
+        "veittu fátækum frama;",
+        "lásu englar bækur",
+        "og ymna skrift",
+        "helgar yfir höfði þeim."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s71",
+     "stanza": 71,
+     "on": [
+      {
+       "t": "v",
+       "n": 71,
+       "l": [
+        "Menn sá ek þá,",
+        "er mjök höfðu",
+        "hungri farit hörund;",
+        "englar guðs",
+        "lutu öllum þeim;",
+        "þat er æðsta unað."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 71,
+       "l": [
+        "Menn sá eg þá,",
+        "er mjög höfðu",
+        "hungri farið hörund;",
+        "englar guðs",
+        "lutu öllum þeim;",
+        "það er æðsta unað."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s72",
+     "stanza": 72,
+     "on": [
+      {
+       "t": "v",
+       "n": 72,
+       "l": [
+        "Menn sá ek þá,",
+        "er móður höfðu",
+        "látit mat í munn;",
+        "hvílur þeira",
+        "váru á himingeislum",
+        "hafðar hagliga."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 72,
+       "l": [
+        "Menn sá eg þá,",
+        "er móður höfðu",
+        "látið mat í munn;",
+        "hvílur þeirra",
+        "voru á himingeislum",
+        "hafðar haglega."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s73",
+     "stanza": 73,
+     "on": [
+      {
+       "t": "v",
+       "n": 73,
+       "l": [
+        "Helgar meyjar",
+        "höfðu hreinliga",
+        "sál af syndum þvegit",
+        "manna þeira,",
+        "er á mörgum degi",
+        "pína sjálfa sik."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 73,
+       "l": [
+        "Helgar meyjar",
+        "höfðu hreinlega",
+        "sál af syndum þvegið",
+        "manna þeirra,",
+        "er á mörgum degi",
+        "pína sjálfa sig."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s74",
+     "stanza": 74,
+     "on": [
+      {
+       "t": "v",
+       "n": 74,
+       "l": [
+        "Hávar reiðir",
+        "sá ek með himnum fara,",
+        "þær eiga götur til guðs;",
+        "menn þeim stýra,",
+        "er myrðir eru",
+        "alls fyrir engar sakir."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 74,
+       "l": [
+        "Hávar reiðir",
+        "sá eg með himnum fara,",
+        "þær eiga götur til guðs;",
+        "menn þeim stýra,",
+        "er myrðir eru",
+        "alls fyrir engar sakir."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s75",
+     "stanza": 75,
+     "on": [
+      {
+       "t": "v",
+       "n": 75,
+       "l": [
+        "Inn máttki faðir!",
+        "Inn mæzti sonr!",
+        "Heilagr andi himins!",
+        "Þik bið ek skilja,",
+        "er skapat hefr,",
+        "oss alla eymðum frá."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 75,
+       "l": [
+        "Hinn máttki faðir!",
+        "Hinn mæzti sonur!",
+        "Heilagur andi himins!",
+        "Þig bið eg skilja,",
+        "er skapað hefur,",
+        "oss alla eymðum frá."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s76",
+     "stanza": 76,
+     "on": [
+      {
+       "t": "v",
+       "n": 76,
+       "l": [
+        "Hringvör ok Listvör",
+        "sitja í Herðis dyrum",
+        "organs stóli á;",
+        "járn dreyri",
+        "fellr ór nösum þeim,",
+        "sá vekr fjón með fyrðum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 76,
+       "l": [
+        "Hringvör og Listvör",
+        "sitja í Herðis dyrum",
+        "organs stóli á;",
+        "járn dreyri",
+        "fellur úr nösum þeim,",
+        "sá vekur fjón með fyrðum."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "head": "IV."
+    },
+    {
+     "id": "sol-s77",
+     "stanza": 77,
+     "on": [
+      {
+       "t": "v",
+       "n": 77,
+       "l": [
+        "Óðins kván",
+        "rær á jarðar skipi,",
+        "móðug á munað;",
+        "seglum hennar",
+        "verðr síð hlaðit,",
+        "þeim er á þráreipum þruma."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 77,
+       "l": [
+        "Óðins kvon",
+        "rær á jarðar skipi,",
+        "móðug á munað;",
+        "seglum hennar",
+        "verður síðan hlaðið,",
+        "þeim er á þráreipum þruma."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s78",
+     "stanza": 78,
+     "on": [
+      {
+       "t": "v",
+       "n": 78,
+       "l": [
+        "Arfi, faðir",
+        "einn þér ráðit hefi",
+        "ok þeir Sólkötlu synir",
+        "hjartar horn,",
+        "þat er ór haugi bar",
+        "inn vitri Vígdvalinn."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 78,
+       "l": [
+        "Arfi, faðir",
+        "einn þér ráðið hef",
+        "og þeir Sólkötlu synir",
+        "hjartar horn,",
+        "það er úr haugi bar",
+        "hinn vitri Vígdvalinn."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s79",
+     "stanza": 79,
+     "on": [
+      {
+       "t": "v",
+       "n": 79,
+       "l": [
+        "Hér eru rúnar,",
+        "sem ristit hafa",
+        "Njarðar dætr níu:",
+        "Böðveig hin elzta",
+        "ok Kreppvör hin yngsta",
+        "ok þeira systr sjau."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 79,
+       "l": [
+        "Hér eru rúnir,",
+        "sem ristið hafa",
+        "Njarðar dætur níu:",
+        "Böðveig hin elzta",
+        "og Kreppvör hin yngsta",
+        "og þeirra systur sjö."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s80",
+     "stanza": 80,
+     "on": [
+      {
+       "t": "v",
+       "n": 80,
+       "l": [
+        "Bölvi hverju",
+        "þeir bellt hafa",
+        "Sváfr ok Sváfrlogi;",
+        "blóð þeir vökðu",
+        "ok benjar sugu",
+        "illum ey vana."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 80,
+       "l": [
+        "Bölvi hverju",
+        "þeir bellt hafa",
+        "Sváfur og Sváfrlogi;",
+        "blóð þeir vöktu",
+        "og benjar sugu",
+        "illum ey vana."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sol-s81",
+     "stanza": 81,
+     "on": [
+      {
+       "t": "v",
+       "n": 81,
+       "l": [
+        "Kvæði þetta,",
+        "er þér kennt hefik,",
+        "skaltu fyrir kvikum kveða:",
+        "Sólarljóð,",
+        "er sýnask munu",
+        "minnst at mörgu login."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 81,
+       "l": [
+        "Kvæði þetta,",
+        "er þér kennt hefig,",
+        "skaltu fyrir kvikum kveða:",
+        "Sólarljóð,",
+        "er sýnast munu",
+        "minnst að mörgu login."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "head": "V."
+    },
+    {
+     "id": "sol-s82",
+     "stanza": 82,
+     "on": [
+      {
+       "t": "v",
+       "n": 82,
+       "l": [
+        "Hér vit skiljumk,",
+        "ok hittask munum",
+        "á feginsdegi fira;",
+        "dróttinn minn",
+        "gefi dauðum ró,",
+        "en hinum líkn, er lifa."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 82,
+       "l": [
+        "Hér vit skiljumk,",
+        "og hittast munum",
+        "á feginsdegi firra;",
+        "dróttinn minn",
+        "gefi dauðum ró,",
+        "en hinum líkn, er lifa."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [],
+   "en_source": null,
+   "en_missing_note": "No public-domain English translation is in this edition yet."
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Sólarljóð)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": null
+ }
+}

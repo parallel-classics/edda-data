@@ -1,0 +1,914 @@
+{
+ "part": "poetic",
+ "poem": "hlr",
+ "title": "Helreið Brynhildar",
+ "group": "heroic",
+ "chapters": [
+  {
+   "num": 29,
+   "key": "hlr",
+   "title": "Helreið Brynhildar",
+   "subtitle": null,
+   "group": "heroic",
+   "rows": [
+    {
+     "id": "hlr-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Eftir dauða Brynhildar váru gör bál tvau, annat Sigurði, ok brann þat fyrr, enn Brynhildr var á öðru brennd, ok var hon í reið þeiri, er guðvefjum var tjölduð. Svá er sagt, at Brynhildr ók með reiðinni á helveg ok fór um tún, þar er gýgr nökkur bjó. Gýgrin kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Eftir dauða Brynhildar voru gör bál tvö, annað Sigurði, og brann það fyrr, enn Brynhildur var á öðru brennd, og var hún í reið þeirri, er guðvefjum var tjölduð. Svo er sagt, að Brynhildur ók með reiðinni á helveg og fór um tún, þar er gýgur nokkur bjó. Gýgrin kvað:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p1⟧After the death of Brynhild there were made two bale-fires⟦p2⟧, the one for Sigurth, and that burned first, and on the other was Brynhild burned, and she was on a wagon which was covered with a rich cloth. Thus it is told, that Brynhild went in the wagon on Hel-way, and passed by a house where dwelt a certain giantess. The giantess spake:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlr-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Skaltu í gögnum",
+        "ganga eigi",
+        "grjóti studda",
+        "garða mína,",
+        "betr semði þér",
+        "borða at rekja",
+        "heldr en vitja",
+        "vers annarrar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Skaltu í gögnum",
+        "ganga eigi",
+        "grjóti studda",
+        "garða mína,",
+        "betur semði þér",
+        "borða að rekja",
+        "heldur en vitja",
+        "vers annarrar."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Thou shalt not further | forward fare,",
+        "My dwelling ribbed | with rocks across;",
+        "More seemly it were | at thy weaving to stay,",
+        "Than another's husband | here to follow."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlr-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Hvat skaltu vitja",
+        "af Vallandi,",
+        "hvarfúst höfuð,",
+        "húsa minna?",
+        "Þú hefir, Vár gulls,",
+        "ef þik vita lystir,",
+        "mild af höndum",
+        "manns blóð þvegit.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Hvað skaltu vitja",
+        "af Vallandi,",
+        "hvarfúst höfuð,",
+        "húsa minna?",
+        "Þú hefur, Vár gulls,",
+        "ef þig vita lystir,",
+        "mild af höndum",
+        "manns blóð þvegið.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"What wouldst thou have | from Valland here,",
+        "Fickle of heart, | in this my house?",
+        "Gold-goddess, now, | if thou wouldst know,",
+        "Heroes' blood | from thy hands hast washed.\"⟦2⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlr-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "p",
+       "s": "Brynhildr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Bregðu eigi mér,",
+        "brúðr ór steini,",
+        "þótt ek værak",
+        "í víkingu;",
+        "ek mun okkur",
+        "æðri þykkja,",
+        "hvars menn eðli",
+        "okkart kunna.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Brynhildur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Bregðu eigi mér,",
+        "brúður úr steini,",
+        "þótt eg værak",
+        "í víkingu;",
+        "eg mun okkur",
+        "æðri þykja,",
+        "hvars menn eðli",
+        "okkart kunna.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Brynhild spake:",
+        "\"Chide me not, woman | from rocky walls,",
+        "Though to battle once | I was wont to go;",
+        "Better than thou | I shall seem to be,",
+        "When men us two | shall truly know.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlr-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gýgrin kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Þú vart, Brynhildr",
+        "Buðla dóttir,",
+        "heilli verstu",
+        "í heim borin;",
+        "þú hefir Gjúka",
+        "of glatat börnum",
+        "ok búi þeira",
+        "brugðit góðu.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gýgrin kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Þú vart, Brynhildur",
+        "Buðla dóttir,",
+        "heilli verstu",
+        "í heim borin;",
+        "þú hefur Gjúka",
+        "of glatað börnum",
+        "og búi þeirra",
+        "brugðið góðu.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "The giantess spake:",
+        "\"Thou wast, Brynhild, | Buthli's daughter,",
+        "For the worst of evils | born in the world;",
+        "To death thou hast given | Gjuki's children,",
+        "And laid their lofty | house full low.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlr-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "p",
+       "s": "Brynhildr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Ek mun segja þér",
+        "svinn ór reiðu",
+        "vitlaussi mjök,",
+        "ef þik vita lystir,",
+        "hvé gerðu mik",
+        "Gjúka arfar",
+        "ástalausa",
+        "ok eiðrofa."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Brynhildur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Eg mun segja þér",
+        "svinn úr reiðu",
+        "vitlaussi mjög,",
+        "ef þig vita lystir,",
+        "hve gerðu mig",
+        "Gjúka arfar",
+        "ástalausa",
+        "og eiðrofa."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Brynhild spake:",
+        "\"Truth from the wagon | here I tell thee,",
+        "Witless one, | if know thou wilt",
+        "How the heirs of Gjuki | gave me to be",
+        "Joyless ever, | a breaker of oaths."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlr-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Hétu mik allir",
+        "í Hlymdölum",
+        "Hildi undir hjalmi",
+        "hverr er kunni."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Hétu mig allir",
+        "í Hlymdölum",
+        "Hildi undir hjalmi",
+        "hver er kunni."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Hild the helmed | in Hlymdalir",
+        "They named me of old, | all they who knew me.",
+        "..............",
+        "..............⟦6⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlr-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Annar hét Agnarr,",
+        "Auðu bróðir,",
+        "er véttr engi",
+        "vildi týja."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Annar hét Agnar,",
+        "Auðu bróðir,",
+        "er véttur enginn",
+        "vildi týja."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlr-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Lét hami vára",
+        "hugfullr konungr",
+        "átta systra",
+        "undir eik borit;",
+        "var ek vetra tolf,",
+        "ef þik vita lystir,",
+        "er ek ungum gram",
+        "eiða seldak."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Lét hami vára",
+        "hugfullur konungur",
+        "átta systra",
+        "undir eik borið;",
+        "var eg vetra tolf,",
+        "ef þig vita lystir,",
+        "er eg ungum gram",
+        "eiða seldak."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"The monarch bold | the swan-robes bore",
+        "Of the sisters eight | beneath an oak;",
+        "Twelve winters I was, | if know thou wilt,",
+        "When oaths I yielded | the king so young.⟦7⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlr-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Þá lét ek gamlan",
+        "á Goðþjóðu",
+        "Hjalmgunnar næst",
+        "heljar ganga;",
+        "gaf ek ungum sigr",
+        "Auðu bróður;",
+        "þar varð mér Óðinn",
+        "ofreiðr of þat."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Þá lét eg gamlan",
+        "á Goðþjóðu",
+        "Hjalmgunnar næst",
+        "heljar ganga;",
+        "gaf eg ungum sigur",
+        "Auðu bróður;",
+        "þar varð mér Óðinn",
+        "ofreiður of það."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Next I let | the leader of Goths,",
+        "Hjalmgunnar the old, | go down to hell,",
+        "And victory brought | to Autha's brother;",
+        "For this was Othin's | anger mighty.⟦8⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlr-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Lauk hann mik skjöldum",
+        "í Skatalundi",
+        "rauðum ok hvítum,",
+        "randir snurtu;",
+        "þann bað hann slíta",
+        "svefni mínum,",
+        "er hvergi lands",
+        "hræðask kynni."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Lauk hann mig skjöldum",
+        "í Skatalundi",
+        "rauðum og hvítum,",
+        "randir snurtu;",
+        "þann bað hann slíta",
+        "svefni mínum,",
+        "er hvergi lands",
+        "hræðast kynni."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"He beset me with shields | in Skatalund,",
+        "Red and white, | their rims o'erlapped;",
+        "He bade that my sleep | should broken be",
+        "By him who fear | had nowhere found.⟦9⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlr-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Lét hann um sal minn",
+        "sunnanverðan",
+        "hávan brenna",
+        "her alls viðar;",
+        "þar bað hann einn þegn",
+        "yfir at ríða,",
+        "þanns mér færði gull,",
+        "þats und Fáfni lá."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Lét hann um sal minn",
+        "sunnanverðan",
+        "hávan brenna",
+        "her alls viðar;",
+        "þar bað hann einn þegn",
+        "yfir að ríða,",
+        "þanns mér færði gull,",
+        "þats und Fáfni lá."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"He let round my hall, | that southward looked,",
+        "The branches' foe | high-leaping burn;",
+        "Across it he bade | the hero come",
+        "Who brought me the gold | that Fafnir guarded.⟦10⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlr-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Reið góðr Grana",
+        "gullmiðlandi,",
+        "þars fóstri minn",
+        "fletjum stýrði;",
+        "einn þótti hann þar",
+        "öllum betri",
+        "víkingr Dana",
+        "í verðungu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Reið góður Grana",
+        "gullmiðlandi,",
+        "þars fóstri minn",
+        "fletjum stýrði;",
+        "einn þótti hann þar",
+        "öllum betri",
+        "víkingur Dana",
+        "í verðungu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"On Grani rode | the giver of gold,",
+        "Where my foster-father | ruled his folk;",
+        "Best of all | he seemed to be,",
+        "The prince of the Danes, | when the people met.⟦11⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlr-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Sváfu við ok unðum",
+        "í sæing einni,",
+        "sem hann minn bróðir",
+        "of borinn væri;",
+        "hvárki knátti",
+        "hönd yfir annat",
+        "átta nóttum",
+        "okkart leggja."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Sváfu við og unðum",
+        "í sæng einni,",
+        "sem hann minn bróðir",
+        "of borinn væri;",
+        "hvárki knátti",
+        "hönd yfir annað",
+        "átta nóttum",
+        "okkart leggja."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Happy we slept, | one bed we had,",
+        "As he my brother | born had been;",
+        "Eight were the nights | when neither there",
+        "Loving hand | on the other laid.⟦12⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlr-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Því brá mér Guðrún",
+        "Gjúka dóttir,",
+        "at ek Sigurði",
+        "svæfak á armi,",
+        "þar varð ek þess vís,",
+        "er ek vildig-a-k,",
+        "at þau véltu mik",
+        "í verfangi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Því brá mér Guðrún",
+        "Gjúka dóttir,",
+        "að eg Sigurði",
+        "svæfak á armi,",
+        "þar varð eg þess vís,",
+        "er eg vildig-a-k,",
+        "að þau véltu mig",
+        "í verfangi."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Yet Guthrun reproached me, | Gjuki's daughter,",
+        "That I in Sigurth's | arms had slept;",
+        "Then did I hear | what I would were hid,",
+        "That they had betrayed me | in taking a mate."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlr-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Munu við ofstríð",
+        "alls til lengi",
+        "konur ok karlar",
+        "kvikvir fæðask;",
+        "við skulum okkrum",
+        "aldri slíta",
+        "Sigurðr saman.",
+        "Sökkstu, gýgjar kyn.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Munu við ofstríð",
+        "alls til lengi",
+        "konur og karlar",
+        "kvikvir fæðast;",
+        "við skulum okkrum",
+        "aldrei slíta",
+        "Sigurður saman.",
+        "Sökkstu, gýgjar kyn.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Ever with grief | and all too long",
+        "Are men and women | born in the world;",
+        "But yet we shall live | our lives together,",
+        "Sigurth and I. | Sink down, Giantess!\"⟦14⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "p1",
+     "s": "Prose. The prose follows the last stanza of Sigurtharkvitha en skamma without break."
+    },
+    {
+     "n": "p2",
+     "s": "Two bale-fires: this contradicts the statement made in the concluding stanzas of Sigurtharkvitha en skamma, that Sigurth and Brynhild were burned on the same pyre; there is no evidence that the annotator here had anything but his own mistaken imagination to go on."
+    },
+    {
+     "n": "2",
+     "s": "Valland: this name (\"Land of Slaughter\") is used elsewhere of mythical places; cf. Harbarthsljoth, 24, and prose introduction to Völundarkvitha; it may here not be a proper name at all. Gold-goddess: poetic circumlocution for \"woman.\""
+    },
+    {
+     "n": "6",
+     "s": "In Regius these two lines stand after stanza 7, but most editions place them as here. They are not quoted in the Nornageststhattr. Presumably two lines, and perhaps more, have been lost. It has frequently been argued that all or part of the passage from stanza 6 through stanza 10 (6-10, 7-10 or 8-10) comes originally from the so-called Sigrdrifumol, where it would undoubtedly fit exceedingly well. Hild: a Valkyrie name meaning \"Fighter\" (cf. Voluspo, 31). In such compound names as Brynhild (\"Fighter in Armor\") the first element was occasionally omitted. Hlymdalir (\"Tumult-Dale\"): a mythical name, merely signifying the place of battle as the home of Valkyries."
+    },
+    {
+     "n": "7",
+     "s": "Regarding the identification of swan-maidens with Valkyries, and the manner in which men could get them in their power by stealing their swan-garments, cf. Völundarkvitha, introductory prose and note, where the same thing happens. The monarch: perhaps Agnar, brother of Autha, mentioned in Sigrdrifumol (prose and quoted verse following stanza 4) as the warrior for whose sake Brynhild defied Othin in slaying Hjalmgunnar. Eight: the Nornageststhattr manuscripts have \"sisters of Atli\" instead of \"sisters eight.\""
+    },
+    {
+     "n": "8",
+     "s": "Hjalmgunnar: regarding this king of the Goths (the phrase means little) and his battle with Agnar, brother of Autha, cf. Sigrdrifumol, prose after stanza 4. One Nornageststhattr manuscript has \"brother of the giantess\" in place of \"leader of Goths.\""
+    },
+    {
+     "n": "9",
+     "s": "Cf. Sigrdrifumol, prose introduction. Skatalund (\"Warriors' Grove\"): a mythical name; elsewhere the place where Brynhild lay is called Hindarfjoll."
+    },
+    {
+     "n": "10",
+     "s": "Branches' foe: fire. Regarding the treasure cf. Fafnismol."
+    },
+    {
+     "n": "11",
+     "s": "This stanza is presumably an interpolation, reflecting a different version of the story, wherein Sigurth meets Brynhild at the home of her brother-in-law and foster-father, Heimir (cf. Gripisspo, 19 and 27). Grani: Sigurth's horse. Danes: nowhere else does Sigurth appear in this capacity. Perhaps this is a curious relic of the Helgi tradition."
+    },
+    {
+     "n": "12",
+     "s": "Eight nights: elsewhere (cf. Gripisspo, 42) the time is stated as three nights, not eight. There is a confusion of traditions here, as in Gripisspo. In the version of the story wherein Sigurth met Brynhild before he encountered the Gjukungs, Sigurth was bound by no oaths, and the union was completed; it is only in the alternative version that the episode of the sword laid between the two occurs."
+    },
+    {
+     "n": "14",
+     "s": "The idea apparently conveyed in the concluding lines, that Sigurth and Brynhild will be together in some future life, is utterly out of keeping with the Norse pagan traditions, and the whole stanza indicates the influence of Christianity."
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "The little Helreith Brynhildar immediately follows the \"short\" Sigurth lay in the Codex Regius, being linked to it by the brief prose note; the heading, \"Brynhild's Ride on Hel-Way,\" stands just before the first stanza. The entire poem, with the exception of stanza 6, is likewise quoted in the Nornageststhattr. Outside of one stanza (No. 11), which is a fairly obvious interpolation, the poem possesses an extraordinary degree of dramatic unity, and, certain pedantic commentators notwithstanding, it is one of the most vivid and powerful in the whole collection. None the less, it has been extensively argued that parts of it belonged originally to the so-called Sigrdrifumol. That it stands in close relation to this poem is evident enough, but it is difficult to believe that such a masterpiece of dramatic poetry was ever the result of mere compilation. It seems more reasonable to regard the Helreith, with the exception of stanza 11 and allowing for the loss of two lines from stanza 6, as a complete and carefully constructed unit, based undoubtedly on older poems, but none the less an artistic creation in itself.",
+    "The poem is generally dated as late as the eleventh century, and the concluding stanza betrays Christian influence almost unmistakably. It shows the confusion of traditions manifest in all the later poems; for example, Brynhild is here not only a Valkyrie but also a swan-maiden. Only three stanzas have any reference to the Guthrun-Gunnar part of the story; otherwise the poem is concerned solely with the episode of Sigurth's finding the sleeping Valkyrie. Late as it is, therefore, it is essentially a Norse creation, involving very few of the details of the German cycle (cf. introductory note to Gripisspo)."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Helreið Brynhildar)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Helreith Brynhildar"
+ }
+}

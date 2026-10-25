@@ -1,0 +1,1955 @@
+{
+ "part": "poetic",
+ "poem": "rm",
+ "title": "Reginsmál",
+ "group": "heroic",
+ "chapters": [
+  {
+   "num": 23,
+   "key": "rm",
+   "title": "Reginsmál",
+   "subtitle": null,
+   "group": "heroic",
+   "rows": [
+    {
+     "id": "rm-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr gekk til stóðs Hjálpreks ok kaus sér af hest einn, er Grani var kallaðr síðan. Þá var kominn Reginn til Hjálpreks, sonr Hreiðmars. Hann var hverjum manni hagari ok dvergr of vöxt. Hann var vitr, grimmr ok fjölkunnigr. Reginn veitti Sigurði fóstr ok kennslu ok elskaði hann mjök. Hann sagði Sigurði frá forellri sínu ok þeim atburðum, at Óðinn ok Hænir ok Loki höfðu komit til Andvarafors. Í þeim forsi var fjölði fiska. Einn dvergr hét Andvari. Hann var löngum í forsinum í geddu líki ok fekk sér þar matar. \"Otr hét bróðir várr,\" kvað Reginn, \"er oft fór í forsinn í otrs líki. Hann hafði tekit einn lax ok sat á árbakkanum ok át blundandi. Loki laust hann með steini til bana. Þóttust æsir mjök heppnir verit hafa ok flógu belg af otrinum. Þat sama kveld sóttu þeir gisting til Hreiðmars ok sýndu veiði sína. Þá tókum vér þá höndum ok lögðum þeim fjörlausn at fylla otrbelginn með gulli ok hylja útan með rauðu gulli. Þá sendu þeir Loka at afla gullsins. Hann kom til Ránar ok fekk net hennar ok fór þá til Andvarafors ok kastaði netinu fyrir gedduna, en hon hljóp í netit. Þá mælti Loki:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður gekk til stóðs Hjálpreks og kaus sér af hest einn, er Grani var kallaður síðan. Þá var kominn Reginn til Hjálpreks, sonur Hreiðmars. Hann var hverjum manni hagari og dvergur of vöxt. Hann var vitur, grimmur og fjölkunnugur. Reginn veitti Sigurði fóstur og kennslu og elskaði hann mjög. Hann sagði Sigurði frá forellri sínu og þeim atburðum, að Óðinn og Hænir og Loki höfðu komið til Andvarafors. Í þeim forsi var fjöldi fiska. Einn dvergur hét Andvari. Hann var löngum í fossinum í geddu líki og fékk sér þar matar. \"Otur hét bróðir vár,\" kvað Reginn, \"er oft fór í fossinn í otrs líki. Hann hafði tekið einn lax og sat á árbakkanum og át blundandi. Loki laust hann með steini til bana. Þóttust æsir mjög heppnir verið hafa og flógu belg af otrinum. Það sama kveld sóttu þeir gisting til Hreiðmars og sýndu veiði sína. Þá tókum vér þá höndum og lögðum þeim fjörlausn að fylla otrbelginn með gulli og hylja utan með rauðu gulli. Þá sendu þeir Loka að afla gullsins. Hann kom til Ránar og fékk net hennar og fór þá til Andvarafors og kastaði netinu fyrir gedduna, en hún hljóp í netið. Þá mælti Loki:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p1⟧Sigurth went to Hjalprek's⟦p2⟧ stud and chose for himself a horse, who thereafter was called Grani⟦p3⟧. At that time Regin⟦p4⟧, the son of Hreithmar⟦p5⟧, was come to Hjalprek's home; he was more ingenious than all other men, and a dwarf in stature; he was wise, fierce and skilled in magic. Regin undertook Sigurth's bringing up and teaching, and loved him much. He told Sigurth of his forefathers, and also of this: that once Othin and Hönir and Loki⟦p6⟧ had come to Andvari's waterfall⟦p7⟧, and in the fall were many fish. Andvari was a dwarf, who had dwelt long in the waterfall in the shape of a pike, and there he got his food. \"Otr was the name of a brother of ours,\" said Regin, \"who often went into the fall in the shape of an otter; he had caught a salmon, and sat on the high bank eating it with his eyes shut⟦p8⟧. Loki threw a stone at him and killed him; the gods thought they had had great good luck, and stripped the skin off the otter. That same evening they sought a night's lodging at Hreithmar's house, and showed their booty. Then we seized them, and told them, as ransom for their lives, to fill the otter skin with gold, and completely cover it outside as well with red gold. Then they sent Loki to get the gold; he went to Ron⟦p9⟧ and got her net, and went then to Andvari's fall and cast the net in front of the pike, and the pike leaped into the net.\" Then Loki said:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Hvat er þat fiska,",
+        "er renn flóði í,",
+        "kann-at sér við víti varask?",
+        "Höfuð þitt",
+        "leystu helju ór,",
+        "finn mér lindar loga.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Hvað er það fiska,",
+        "er rennur flóði í,",
+        "kann-at sér við víti varast?",
+        "Höfuð þitt",
+        "leystu Helju úr,",
+        "finn mér lindar loga.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"What is the fish | that runs in the flood,",
+        "And itself from ill cannot save?",
+        "If thy head thou wouldst | from hell redeem,",
+        "Find me the water's flame.\"⟦1⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "p",
+       "s": "Geddan kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Andvari ek heiti,",
+        "Óinn hét minn faðir,",
+        "margan hef ek fors of farit;",
+        "aumlig norn",
+        "skóp oss í árdaga,",
+        "at ek skylda í vatni vaða.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Geddan kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Andvari eg heiti,",
+        "Óðinn hét minn faðir,",
+        "margan hef eg fors of farið;",
+        "aumleg norn",
+        "skóp oss í árdaga,",
+        "að eg skylda í vatni vaða.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Andvari spake:",
+        "\"Andvari am I, | and Oin my father,",
+        "In many a fall have I fared;",
+        "An evil Norn | in olden days",
+        "Doomed me in waters to dwell.\"⟦2⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Segðu þat, Andvari,",
+        "ef þú eiga vill",
+        "líf í lýða sölum,",
+        "hver gjöld fáa",
+        "gumna synir,",
+        "ef þeir höggvask orðum á?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Segðu það, Andvari,",
+        "ef þú eiga vill",
+        "líf í lýða sölum,",
+        "hver gjöld fáa",
+        "gumna synir,",
+        "ef þeir höggvast orðum á?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Loki spake:",
+        "\"Andvari, say, | if thou seekest still",
+        "To live in the land of men,",
+        "What payment is set | for the sons of men",
+        "Who war with lying words?\"⟦3⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "p",
+       "s": "Andvari kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Ofrgjöld fáa",
+        "gumna synir,",
+        "þeir er Vaðgelmi vaða;",
+        "ósaðra orða,",
+        "hverr er á annan lýgr,",
+        "oflengi leiða limar.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Andvari kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Ofrgjöld fáa",
+        "gumna synir,",
+        "þeir er Vaðgelmi vaða;",
+        "ósaðra orða,",
+        "hver er á annan lýgur,",
+        "oflengi leiða limar.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Andvari spake:",
+        "\"A mighty payment | the men must make",
+        "Who in Vathgelmir's waters wade;",
+        "On a long road lead | the lying words",
+        "That one to another utters.\"⟦4⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-p2",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki sá allt gull þat, er Andvari átti. En er hann hafði framreitt gullit, þá hafði hann eftir einn hring, ok tók Loki þann af hánum. Dvergrinn gekk inn í steininn ok mælti:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki sá allt gull það, er Andvari átti. En er hann hafði framreitt gullið, þá hafði hann eftir einn hring, og tók Loki þann af hánum. Dvergurinn gekk hinn í steininn og mælti:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Loki saw all the gold that Andvari had. But when he had brought forth all the gold, he held back one ring, and Loki took this from him. The dwarf went into his rocky hole and said:⟦p10⟧"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Þat skal gull,",
+        "er Gustr átti,",
+        "bræðrum tveim",
+        "at bana verða",
+        "ok öðlingum",
+        "átta at rógi;",
+        "mun míns féar",
+        "manngi njóta.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Það skal gull,",
+        "er Gustur átti,",
+        "bræðrum tveim",
+        "að bana verða",
+        "og öðlingum",
+        "átta að rógi;",
+        "mun míns féar",
+        "manngi njóta.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Now shall the gold | that Gust once had",
+        "Bring their death | to brothers twain,",
+        "And evil be | for heroes eight;",
+        "Joy of my wealth | shall no man win.\"⟦5⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-p3",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Æsir reiddu Hreiðmari féit ok tráðu upp otrbelginn ok reistu á fætr. Þá skyldu æsirnir hlaða upp gullinu ok hylja. En er þat var gört, gekk Hreiðmarr fram ok sá eitt granahár ok bað hylja. Þá dró Óðinn fram hringinn Andvaranaut ok hulði hárit. Loki kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Æsir reiddu Hreiðmari féið og tráðu upp otrbelginn og reistu á fætur. Þá skyldu æsirnir hlaða upp gullinu og hylja. En er það var gört, gekk Hreiðmar fram og sá eitt granahár og bað hylja. Þá dró Óðinn fram hringinn Andvaranaut og huldi hárið. Loki kvað:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p11⟧The gods gave Hreithmar the gold, and filled up the otter-skin, and stood it on its feet. Then the gods had to heap up gold and hide it. And when that was done, Hreithmar came forward and saw a single whisker, and bade them cover it. Then Othin brought out the ring Andvaranaut⟦p12⟧ and covered the hair. Then Loki said:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Gull er þér nú reitt,",
+        "en þú gjöld hefir",
+        "mikil míns höfuðs;",
+        "syni þínum",
+        "verðr-a sæla sköpuð;",
+        "þat verðr ykkarr beggja bani.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Gull er þér nú reitt,",
+        "en þú gjöld hefur",
+        "mikil míns höfuðs;",
+        "syni þínum",
+        "verðr-a sæla sköpuð;",
+        "það verður ykkar beggja bani.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"The gold is given, | and great the price",
+        "Thou hast my head to save;",
+        "But fortune thy sons | shall find not there,",
+        "The bane of ye both it is.\"⟦6⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hreiðmarr sagði:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Gjafar þú gaft,",
+        "gaft-at-tu ástgjafar,",
+        "gaft-at-tu af heilum hug;",
+        "fjörvi yðru",
+        "skylduð ér firrðir vera,",
+        "ef ek vissa ek þat fár fyrir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hreiðmar sagði:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Gafar þú gaft,",
+        "gaft-at-tu ástgjafar,",
+        "gaft-at-tu af heilum hug;",
+        "fjörvi yðru",
+        "skylduð þér firrðir vera,",
+        "ef eg vissa eg það fár fyrir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Hreithmar spake:",
+        "\"Gifts ye gave, | but ye gave not kindly,",
+        "Gave not with hearts that were whole;",
+        "Your lives ere this | should ye all have lost,",
+        "If sooner this fate I had seen.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Enn er verra",
+        "- þat vita þykkjumk -",
+        "niðja stríð of neppt;",
+        "jöfra óborna",
+        "hygg ek þá enn vera",
+        "er þat er til hatrs hugat.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Enn er verra",
+        "- það vita þykkjumk -",
+        "niðja stríð of neppt;",
+        "jöfra óborna",
+        "hygg eg þá enn vera",
+        "er það er til hatrs hugað.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Loki spake:",
+        "\"Worse is this | that methinks I see,",
+        "For a maid shall kinsmen clash;",
+        "Heroes unborn | thereby shall be,",
+        "I deem, to hatred doomed.\"⟦8⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hreiðmarr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Rauðu gulli",
+        "hygg ek mik ráða munu,",
+        "svá lengi sem ek lifi;",
+        "hót þín",
+        "hræðumk ekki lyf,",
+        "of haldið heim heðan.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hreiðmar kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Rauðu gulli",
+        "hygg eg mig ráða munu,",
+        "svo lengi sem eg lifi;",
+        "hót þín",
+        "hræðumk ekki lyf,",
+        "of haldið heim héðan.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Hreithmar spake:",
+        "\"The gold so red | shall I rule, methinks,",
+        "So long as I shall live;",
+        "Nought of fear | for thy threats I feel,",
+        "So get ye hence to your homes.\"⟦9⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-p4",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Fáfnir ok Reginn kröfðu Hreiðmarr niðgjalda eftir Otr bróður sinn. Hann kvað nei við. En Fáfnir lagði sverði Hreiðmar, föður sinn, sofanda. Hreiðmarr kallaði á dætr sínar:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Fáfnir og Reginn kröfðu Hreiðmar niðgjalda eftir Otur bróður sinn. Hann kvað nei við. En Fáfnir lagði sverði Hreiðmar, föður sinn, sofanda. Hreiðmar kallaði á dætur sínar:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Fafnir and Regin asked Hreithmar for a share of the wealth that was paid for the slaying of their brother, Otr. This he refused, and Fafnir thrust his sword through the body of his father, Hreithmar, while he was sleeping. Hreithmar called to his daughters:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Lyngheiðr ok Lofnheiðr,",
+        "vitið mínu lífi farit,",
+        "mart er þat, er þörf þéar.\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Lyngheiðr sagði:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Fá mun systir,",
+        "þótt föður missi,",
+        "hefna hlýra harms.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Lyngheiður og Lofnheiður,",
+        "vitið mínu lífi farið,",
+        "mart er það, er þörf þéar.\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Lyngheiður sagði:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Fá mun systir,",
+        "þótt föður missi,",
+        "hefna hlýra harms.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Lyngheith and Lofnheith, | fled is my life,",
+        "And mighty now is my need!\""
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Lyngheith spake:",
+        "\"Though a sister loses | her father, seldom",
+        "Revenge on her brother she brings.\"⟦10⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hreiðmarr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Al þú þó dóttur,",
+        "dís ulfhuguð,",
+        "ef þú getr-at son",
+        "við siklingi;",
+        "fá mey mann",
+        "í meginþarfar;",
+        "þá mun þeirar sonr",
+        "þíns harms reka.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hreiðmar kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Al þú þó dóttur,",
+        "dís ulfhuguð,",
+        "ef þú getr-at son",
+        "við siklingi;",
+        "fá mey mann",
+        "í meginþarfar;",
+        "þá mun þeirrar sonur",
+        "þíns harms reka.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Hreithmar spake:",
+        "\"A daughter, woman | with wolf's heart, bear,",
+        "If thou hast no son | with the hero brave;",
+        "If one weds the maid, | for the need is mighty,",
+        "Their son for thy hurt | may vengeance seek.\"⟦11⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-p5",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þá dó Hreiðmarr, en Fáfnir tók gullit allt. Þá beiddist Reginn at hafa föðurarf sinn, en Fáfnir galt þar nei við. Þá leitaði Reginn ráða við Lyngheiði, systur sína, hvernig hann skyldi heimta föðurarf sinn. Hon kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þá dó Hreiðmar, en Fáfnir tók gullið allt. Þá beiddist Reginn að hafa föðurarf sinn, en Fáfnir galt þar nei við. Þá leitaði Reginn ráða við Lyngheiði, systur sína, hvernig hann skyldi heimta föðurarf sinn. Hún kvað:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Then Hreithmar died, and Fafnir took all the gold. Thereupon Regin asked to have his inheritance from his father, but Fafnir refused this. Then Regin asked counsel of Lyngheith, his sister, how he should win his inheritance. She said:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Bróður kveðja",
+        "skaltu blíðliga",
+        "arfs ok æðra hugar;",
+        "er-a þat hæft,",
+        "at þú hjörvi skylir",
+        "kveðju Fáfni féar.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Bróður kveðja",
+        "skaltu blíðlega",
+        "arfs og æðra hugar;",
+        "er-a það hæft,",
+        "að þú hjörvi skylir",
+        "kveðju Fáfni féar.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"In friendly wise | the wealth shalt thou ask",
+        "Of thy brother, and better will;",
+        "Not seemly is it | to seek with the sword",
+        "Fafnir's treasure to take.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-p6",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þessa hluti sagði Reginn Sigurði. Einn dag, er hann kom til húsa Regins, var hánum vel fagnat. Reginn kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þessa hluti sagði Reginn Sigurði. Einn dag, er hann kom til húsa Regins, var hánum vel fagnað. Reginn kvað:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "All these happenings did Regin tell to Sigurth."
+      },
+      {
+       "t": "p",
+       "s": "One day, when he came to Regin's house, he was gladly welcomed. Regin said:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Kominn er hingat",
+        "konr Sigmundar,",
+        "seggr inn snarráði,",
+        "til sala várra,",
+        "móð hefir meira",
+        "en maðr gamall,",
+        "ok er mér fangs ván",
+        "at frekum ulfi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Kominn er hingað",
+        "konur Sigmundar,",
+        "seggur hinn snarráði,",
+        "til sala várra,",
+        "móð hefur meira",
+        "en maður gamall,",
+        "og er mér fangs von",
+        "að frekum ulfi."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Hither the son | of Sigmund is come,",
+        "The hero eager, | here to our hall;",
+        "His courage is more | than an ancient man's,",
+        "And battle I hope | from the hardy wolf.⟦13⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Ek mun fæða",
+        "folkdjarfan gram;",
+        "nú er Yngva konr",
+        "með oss kominn;",
+        "sjá mun ræsir",
+        "ríkstr und sólu;",
+        "þrymr um öll lönd",
+        "örlögsímu.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Eg mun fæða",
+        "folkdjarfan gram;",
+        "nú er Yngja konur",
+        "með oss kominn;",
+        "sjá mun ræsir",
+        "ríkstur und sólu;",
+        "þrymur um öll lönd",
+        "örlögsímu.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Here shall I foster | the fearless prince,",
+        "Now Yngvi's heir | to us is come;",
+        "The noblest hero | beneath the sun,",
+        "The threads of his fate | all lands enfold.\"⟦14⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-p7",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr var þá jafnan með Regin, ok sagði hann Sigurði, at Fáfnir lá á Gnitaheiði ok var í orms líki. Hann átti ægishjalm, er öll kvikendi hræddust við. Reginn gerði Sigurði sverð, er Gramr hét. Þat var svá hvasst, at hann brá því ofan í Rín ok lét reka ullarlagð fyrir straumi ok tók í sundr lagðinn sem vatnit. Því sverði klauf Sigurðr í sundr steðja Regins. Eftir þat eggjaði Reginn Sigurð at vega Fáfni. Hann sagði:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður var þá jafnan með Regin, og sagði hann Sigurði, að Fáfnir lá á Gnitaheiði og var í orms líki. Hann átti ægishjalm, er öll kvikendi hræddust við. Reginn gerði Sigurði sverð, er Gramur hét. Það var svo hvasst, að hann brá því ofan í Rín og lét reka ullarlagð fyrir straumi og tók í sundur lagðinn sem vatnið. Því sverði klauf Sigurður í sundur steðja Regins. Eftir það eggjaði Reginn Sigurð að vega Fáfni. Hann sagði:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Hátt munu hlæja",
+        "Hundings synir,",
+        "þeir er Eylima",
+        "aldrs synjuðu,",
+        "ef meir tyggja",
+        "munar at sækja",
+        "hringa rauða",
+        "en hefnd föður.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Hátt munu hlæja",
+        "Hundings synir,",
+        "þeir er Eylima",
+        "aldurs synjuðu,",
+        "ef meir tyggja",
+        "munar að sækja",
+        "hringa rauða",
+        "en hefnd föður.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Loud will the sons | of Hunding laugh,",
+        "Who low did Eylimi | lay in death,",
+        "If the hero sooner | seeks the red",
+        "Rings to find | than his father's vengeance.\"⟦15⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      15
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-p8",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hjálprekr konungr fekk Sigurði skipalið til föðurhefnda. Þeir fengu storm mikinn ok beittu fyrir bergsnös nökkura. Maðr einn stóð á berginu ok kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hjálprekur konungur fékk Sigurði skipalið til föðurhefnda. Þeir fengu storm mikinn og beittu fyrir bergsnös nokkra. Maður einn stóð á berginu og kvað:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p13⟧King Hjalprek gave Sigurth a fleet for the avenging of his father. They ran into a great storm,⟦p14⟧ and were off a certain headland. A man⟦p15⟧ stood on the mountain, and said:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Hverir ríða þar",
+        "Ræfils hestum",
+        "hávar unnir,",
+        "haf glymjanda?",
+        "Seglvigg eru",
+        "sveita stokkin,",
+        "mun-at vágmarar",
+        "vind of standask.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Hverjir ríða þar",
+        "Ræfils hestum",
+        "hávar unnir,",
+        "haf glymjanda?",
+        "Seglvigg eru",
+        "sveita stokkin,",
+        "mun-at vágmarar",
+        "vind of standast.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Who yonder rides | on Rævil's steeds,",
+        "O'er towering waves | and waters wild?",
+        "The sail-horses all | with sweat are dripping,",
+        "Nor can the sea-steeds | the gale withstand.\"⟦16⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      16
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "p",
+       "s": "Reginn svaraði:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Hér ro vér Sigurðr",
+        "á sætréum;",
+        "er oss byrr gefinn",
+        "við bana sjalfan;",
+        "fellr brattr breki",
+        "bröndum hæri,",
+        "hlunnvigg hrapa.",
+        "Hverr spyrr at því?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Reginn svaraði:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Hér ro vér Sigurður",
+        "á sætréum;",
+        "er oss byr gefinn",
+        "við bana sjálfan;",
+        "fellur brattur breki",
+        "bröndum hæri,",
+        "hlunnvigg hrapa.",
+        "Hver spyr að því?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Regin answered:",
+        "\"On the sea-trees here | are Sigurth and I,",
+        "The storm wind drives us | on to our death;",
+        "The waves crash down | on the forward deck,",
+        "And the roller-steeds sink; | who seeks our names?\"⟦17⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      17
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "p",
+       "s": "Maðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Hnikar hétu mik,",
+        "þá er hugin gladdak",
+        "Völsungr ungi,",
+        "ok vegit hafðak;",
+        "nú máttu kalla",
+        "karl af bergi",
+        "Fengi eða Fjölni;",
+        "far vil ek þiggja.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Maður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Hnikar hétu mig,",
+        "þá er hugin gladdak",
+        "Völsungur ungi,",
+        "og vegið hafðak;",
+        "nú máttu kalla",
+        "karl af bergi",
+        "Fengi eða Fjölni;",
+        "far vil eg þiggja.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "The Man spake:",
+        "\"Hnikar I was | when Volsung once",
+        "Gladdened the ravens | and battle gave;",
+        "Call me the Man | from the Mountain now,",
+        "Feng or Fjolnir; | with you will I fare.\"⟦18⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      18
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-p9",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þeir viku at landi, ok gekk karl á skip, ok lægði þá veðrit. Sigurðr kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þeir viku að landi, og gekk karl á skip, og lægði þá veðrið. Sigurður kvað:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Segðu mér þat, Hnikarr,",
+        "alls þá hvárttveggja veizt",
+        "goða heill ok guma:",
+        "hver bözt eru,",
+        "ef berjask skal,",
+        "heill at sverða svipun.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Segðu mér það, Hnikar,",
+        "alls þá hvárttveggja veist",
+        "goða heill og guma:",
+        "hver böst eru,",
+        "ef berjast skal,",
+        "heill að sverða svipun.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Hnikar, say, | for thou seest the fate",
+        "That to gods and men is given;",
+        "What sign is fairest | for him who fights,",
+        "And best for the swinging of swords?\"⟦19⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hnikarr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Mörg eru góð,",
+        "ef gumar vissi,",
+        "heill at sverða svipun;",
+        "dyggva fylgju",
+        "hygg ek ins dökkva vera",
+        "hrottameiði hrafns."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hnikar kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Mörg eru góð,",
+        "ef gumar vissi,",
+        "heill að sverða svipun;",
+        "dyggja fylgju",
+        "hygg eg hins dökkva vera",
+        "hrottameiði hrafns."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Hnikar spake:",
+        "\"Many the signs, | if men but knew,",
+        "That are good for the swinging of swords;",
+        "It is well, methinks, | if the warrior meets",
+        "A raven black on his road."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      20
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Þat er annat,",
+        "ef þú ert út of kominn",
+        "ok ert á braut búinn,",
+        "tvá þú lítr",
+        "á tái standa",
+        "hróðrfúsa hali."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Það er annað,",
+        "ef þú ert út of kominn",
+        "og ert á braut búinn,",
+        "tvo þú lítur",
+        "á tái standa",
+        "hróðrfúsa hali."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Another it is | if out thou art come,",
+        "And art ready forth to fare,",
+        "To behold on the path | before thy house",
+        "Two fighters greedy of fame."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      21
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Þat er it þriðja,",
+        "ef þú þjóta heyrir",
+        "ulf und asklimum;",
+        "heilla auðit",
+        "verðr þér af hjalmstöfum,",
+        "ef þú sér þá fyrri fara."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Það er it þriðja,",
+        "ef þú þjóta heyrir",
+        "úlf und asklimum;",
+        "heilla auðið",
+        "verður þér af hjalmstöfum,",
+        "ef þú sér þá fyrri fara."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Third it is well | if a howling wolf",
+        "Thou hearest under the ash;",
+        "And fortune comes | if thy foe thou seest",
+        "Ere thee the hero beholds."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      22
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Engr skal gumna",
+        "í gögn vega",
+        "síð skínandi",
+        "systur Mána;",
+        "þeir sigr hafa,",
+        "er séa kunnu,",
+        "hjörleiks hvatir,",
+        "eða hamalt fylkja."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Engur skal gumna",
+        "í gögn vega",
+        "síðan skínandi",
+        "systur Mána;",
+        "þeir sigur hafa,",
+        "er séa kunnu,",
+        "hjörleiks hvatir,",
+        "eða hamalt fylkja."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"A man shall fight not | when he must face",
+        "The moon's bright sister | setting late;",
+        "Win he shall | who well can see,",
+        "And wedge-like forms | his men for the fray.⟦23⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      23
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Þat er fár mikit,",
+        "ef þú fæti drepr,",
+        "þars þú at vígi veðr;",
+        "tálar dísir",
+        "standa þér á tvær hliðar",
+        "ok vilja þik sáran sjá."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Það er fár mikið,",
+        "ef þú fæti drepur,",
+        "þars þú að vígi veður;",
+        "tálar dísir",
+        "standa þér á tvær hliðar",
+        "og vilja þig sáran sjá."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Foul is the sign | if thy foot shall stumble",
+        "As thou goest forth to fight;",
+        "Goddesses baneful | at both thy sides",
+        "Will that wounds thou shalt get.⟦24⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      24
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Kembður ok þveginn",
+        "skal kænna hverr",
+        "ok at morgni mettr,",
+        "því at ósýnt er,",
+        "hvar at aftni kemr;",
+        "illt er fyr heill at hrapa.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Kembður og þveginn",
+        "skal kænna hver",
+        "og að morgni mettur,",
+        "því að ósýnt er,",
+        "hvar að aftni kemur;",
+        "illt er fyr heill að hrapa.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Combed and washed | shall the wise man go,",
+        "And a meal at morn shall take;",
+        "For unknown it is | where at eve he may be;",
+        "It is ill thy luck to lose.\"⟦25⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      25
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-p10",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr átti orrostu mikla við Lyngva Hundingsson ok bræðr hans. Þar fell Lyngvi ok þeir þrír bræðr. Eftir orrostu kvað Reginn:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður átti orustu mikla við Lyngja Hundingsson og bræður hans. Þar féll Lyngvi og þeir þrír bræður. Eftir orustu kvað Reginn:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p16⟧Sigurth had a great battle with Lyngvi⟦p17⟧, the son of Hunding, and his brothers; there Lyngvi fell, and his two brothers with him.⟦p18⟧ After the battle Regin said:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Nú er blóðugr örn",
+        "bitrum hjörvi",
+        "bana Sigmundar",
+        "á baki ristinn;",
+        "engr var fremri,",
+        "sá er fold ryði,",
+        "hilmis arfi,",
+        "ok hugin gladdi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Nú er blóðugur örn",
+        "bitrum hjörvi",
+        "bana Sigmundar",
+        "á baki ristinn;",
+        "engur var fremri,",
+        "sá er fold ryði,",
+        "hilmis arfi,",
+        "og hugin gladdi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Now the bloody eagle | with biting sword",
+        "Is carved on the back | of Sigmund's killer;",
+        "Few were more fierce | in fight than his son,",
+        "Who reddened the earth | and gladdened the ravens.\"⟦26⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      26
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "rm-p11",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Heim fór Sigurðr til Hjálpreks. Þá eggjaði Reginn Sigurð til at vega Fáfni."
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Heim fór Sigurður til Hjálpreks. Þá eggjaði Reginn Sigurð til að vega Fáfni."
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Sigurth went home to Hjalprek's house; thereupon Regin egged him on to fight with Fafnir.⟦p19⟧"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "p1",
+     "s": "Prose."
+    },
+    {
+     "n": "p2",
+     "s": "Hjalprek: father of Alf, Sigurth's step-father; cf. Fra Dautha Sinfjotla, and note."
+    },
+    {
+     "n": "p3",
+     "s": "Grani: cf. Gripisspo, 5 and note."
+    },
+    {
+     "n": "p4",
+     "s": "Regin (\"Counsel-Giver\"): undoubtetly he goes back to the smith of the German story; in the Thithrekssaga version he is called Mimir, while Regin is there the name of the dragon (here Regin's brother, Fafnir). The Voluspo (stanza 12) names a Regin among the dwarfs, and the name may have assisted in making Regin a dwarf here."
+    },
+    {
+     "n": "p5",
+     "s": "Hreithmar: nothing is known of him outside of this story."
+    },
+    {
+     "n": "p6",
+     "s": "Othin, Hönir and Loki: these same three gods appear in company in Voluspo, 17-18."
+    },
+    {
+     "n": "p7",
+     "s": "Andvari's fall: according to Snorri, who tells this entire story in the Skaldskaparmal, Andvari's fall was in the world of the dark elves, while the one where Loki killed the otter was not; here, however, the two are considered identical."
+    },
+    {
+     "n": "p8",
+     "s": "With his eyes shut: according to Snorri, Otr ate with his eyes shut because be was so greedy that he could not bear to see the food before him diminishing."
+    },
+    {
+     "n": "p9",
+     "s": "Ron: wife of the sea-god Ægir, who draws down drowning men with her net; cf. Helgakvitha Hjorvarthssonar, 18 and note. Snorri says that Loki caught the pike with his hands."
+    },
+    {
+     "n": "1",
+     "s": "Snorri quotes this stanza. Water's flame: gold, so called because Ægir, the sea-god, was wont to light his hall with gold."
+    },
+    {
+     "n": "2",
+     "s": "Snorri quotes this stanza. The name of the speaker is not given in the manuscripts. Oin: nothing further is known of Andvari's father. Norn: cf. Voluspo, 20."
+    },
+    {
+     "n": "3",
+     "s": "Stanzas 3-4 may well be fragments of some other poem. Certainly Loki's question does not fit the situation, and the passage looks like an extract from some such poem as Vafthruthnismol. In Regius the phrase \"Loki spake\" stands in the middle of line 1."
+    },
+    {
+     "n": "4",
+     "s": "The manuscript does not name the speaker. Vathgelmir (\"Raging to Wade\"): a river not elsewhere mentioned, but cf. Voluspo, 39."
+    },
+    {
+     "n": "p10",
+     "s": "Prose. Snorri says Andvari's ring had the power to create new gold. In this it resembled Baldr's ring, Draupnir; c.f. Skirnismol, 21 and note."
+    },
+    {
+     "n": "5",
+     "s": "This stanza apparently comes from a different source from stanzas 1-4 (or 1-2 if 3-4 are interpolated) and 6-10; cf. Introductory Note. In the Volsungasaga Andvari lays his curse particularly on the ring. Gust: possibly a name for Andvari himself, or for an earlier possessor of the treasure. Brothers twain: Fafnir and Regin. Heroes eight: the word \"eight\" may easily have been substituted for something like \"all\" to make the stanza fit the case; the \"eight\" in question are presumably Sigurth, Gotthorm, Gunnar, Hogni, Atli, Erp, Sorli and Hamther, all of whom are slain in the course of the story. But the stanza may originally not have referred to Andvari's treasure at all."
+    },
+    {
+     "n": "p11",
+     "s": "Prose."
+    },
+    {
+     "n": "p12",
+     "s": "Andvaranaut: \"Andvari's Gem.\""
+    },
+    {
+     "n": "6",
+     "s": "Snorri quotes this stanza, introducing it, as here, with \"Then Loki said\" in the prose. Regius omits this phrase, but inserts \"said Loki\" in line 1."
+    },
+    {
+     "n": "8",
+     "s": "The word translated \"maid\" in line 2 is obscure, and \"gold\" may be meant. Apparently, however, the reference is to the fight between Sigurth and the sons of Gjuki over Brynhild. The manuscript does not name the speaker, and many editions assign this stanza to Hreithmar."
+    },
+    {
+     "n": "9",
+     "s": "The manuscript includes \"said Hreithmar\" (abbreviated) in the middle of line 1, and some editors have followed this."
+    },
+    {
+     "n": "10",
+     "s": "Hreithmar's daughters do not appear elsewhere. It has been suggested that originally stanza 10 was followed by one in which Lofnheith lamented her inability to avenge her father, as she was married and had no son."
+    },
+    {
+     "n": "11",
+     "s": "Apparently an interpolation (cf. Introductory Note). Vigfusson tries to reconstruct lines 2 and 4 to fit the Ljothahattr rhythm, but without much success. Hreithmar urges his daughter, as she has no sons, to bear a daughter who, in turn, will have a son to avenge his great-grandfather. Grundtvig worked out an ingenious theory to fit this stanza, making Sigurth's grandfather, Eylimi, the husband of Lyngheith's daughter, but there is absolutely no evidence to support this. The stanza may have nothing to do with Hreithmar."
+    },
+    {
+     "n": "13",
+     "s": "This and the following stanza may be out of place here, really belonging, together with their introductory prose sentence, in the opening prose passage, following the first sentence describing Regin. Certainly they seem to relate to Regin's first meeting with Sigurth. Stanzas 13-26, interspersed with prose, are quoted in the Nornageststhattr. Stanzas 13-18 may be the remnants of a lost poem belonging to the Helgi cycle (cf. Introductory Note). Hardy wolf: warrior, i. e., Sigurth."
+    },
+    {
+     "n": "14",
+     "s": "Yngvi's heir: Yngvi was one of the sons of the Danish king Halfdan the Old, and traditionally an ancestor of Helgi (cf. Helgakvitha Hundingsbana I, 57 and note). Calling Sigurth a descendant of Yngvi is, of course, absurd, and the use of this phrase is one of the many reasons for believing that stanzas 13-18 belonged originally to the Helgi cycle. The threads, etc.: another link with Helgi; cf. Helgakvitha Hundingsbana I, 3-4. As Helgi was likewise regarded as a son of Sigmund, stanzas 13-14 would fit him just as well as Sigurth."
+    },
+    {
+     "n": "15",
+     "s": "Regarding the sons of Hunding and Eylimi, father of Sigurth's mother, all of whom belong to the Helgi tradition, cf. Fra Dautha Sinfjotla and note."
+    },
+    {
+     "n": "p13",
+     "s": "Prose."
+    },
+    {
+     "n": "p14",
+     "s": "The fleet, and the subsequent storm, are also reminiscent of the Helgi cycle; cf. Helgakvitha Hundingsbana I, 29-31, and II, prose after stanza 16."
+    },
+    {
+     "n": "p15",
+     "s": "A man: Othin."
+    },
+    {
+     "n": "16",
+     "s": "Rævil's steeds (Rævil was a sea-king, possibly the grandson of Ragnar Lothbrok mentioned in the Hervararsaga), sail-horses and sea-steeds all mean \"ships.\""
+    },
+    {
+     "n": "17",
+     "s": "Sea-trees and roller-steeds (the latter because ships were pulled up on shore by means of rollers) both mean \"ships.\""
+    },
+    {
+     "n": "18",
+     "s": "The Volsungasaga quotes this stanza. Hnikar and Fjolnir: Othin gives himself both these names in Grimnismol, 47; Feng (\"The Seizer\") does not appear elsewhere. According to the Volsungasaga, no one knew Othin's name when he came to Volsung's house and left the sword there for Sigmund."
+    },
+    {
+     "n": "19",
+     "s": "This and the following stanzas are strongly suggestive of the Hovamol, and probably came originally from some such collection."
+    },
+    {
+     "n": "23",
+     "s": "This stanza is clearly an interpolation, drawn in by the common-sense advice, as distinct from omens, given in the last lines of stanza 22. Moon's sister: the sun; cf. Vafthruthnismol, 23 and note. Wedge-like: the wedge formation (prescribed anew in 1920 for the United States Army under certain circumstances) was said to have been invented by Othin himself, and taught by him only to the most favored warriors."
+    },
+    {
+     "n": "24",
+     "s": "Goddesses: Norse mythology included an almost limitless number of minor deities, the female ones, both kind and unkind, being generally classed among the lesser Norns."
+    },
+    {
+     "n": "25",
+     "s": "This stanza almost certainly had nothing originally to do with the others in this passage; it may have been taken from a longer version of the Hovamol itself."
+    },
+    {
+     "n": "p16",
+     "s": "Prose."
+    },
+    {
+     "n": "p17",
+     "s": "Lyngvi: the son of Hunding who killed Sigmund in jealousy of his marriage with Hjordis; cf. Fra Dautha Sinfjotla and note."
+    },
+    {
+     "n": "p18",
+     "s": "The Volsungasaga names one brother who was with Lyngvi in the battle, Hjorvarth, and Sigurth kills him as readily as if he had not already been killed long before by Helgi. But, as has been seen, it was nothing for a man to be killed in two or three different ways."
+    },
+    {
+     "n": "26",
+     "s": "Bloody eagle, etc.: the Nornageststhattr describes the manner in which the captured Lyngvi was put to death. \"Regin advised that they should carve the bloody eagle on his back. So Regin took his sword and cleft Lyngvi's back so that he severed his back from his ribs, and then drew out his lungs. So died Lyngvi with great courage.\""
+    },
+    {
+     "n": "p19",
+     "s": "Prose. In Regius there is no break of any kind between this prose passage and the prose introduction to the Fafnismol (cf. Introductory Note)."
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "The Reginsmol immediately follows the Gripisspo in the Codex Regius, and in addition stanzas 1, 2, 6, and 18 are quoted in the Volsungasaga, and stanzas 13-26 in the Nornageststhattr. In no instance is the title of the poem stated, and in Regius there stands before the introductory prose, very faintly written, what appears to be \"Of Sigurth.\" As a result, various titles have been affixed to it, the two most often used being \"the Balled of Regin\" and \"the First Lay of Sigurth Fafnisbane.\"",
+    "As a matter of fact, it is by no means clear that the compiler of the Eddic collection regarded this or either of the two following poems, the Fafnismol and the Sigrdrifumol, as separate and distinct poems at all. There are no specific titles given, and the prose notes link the three poems in a fairly consecutive whole. Furthermore, the prose passage introducing the Reginsmol connects directly with Fra Dautha Sinfjotla, and only the insertion of the Gripisspo at this point, which may well have been done by some stupid copyist, breaks the continuity of the story.",
+    "For convenience I have here followed the usual plan of dividing this material into distinct parts, or poems, but I greatly doubt if this division is logically sound. The compiler seems, rather, to have undertaken to set down the story of Sigurth in consecutive form, making use of all the verse with which he was familiar, and which, by any stretch of the imagination, could be made to fit, filling up the gaps with prose narrative notes based on the living oral tradition.",
+    "This view is supported by the fact that not one of the three poems in question, and least of all the Reginsmol, can possibly be regarded as a unit. For one thing, each of them includes both types of stanza commonly used in the Eddic poems, and this, notwithstanding the efforts of Grundtvig and Müllenhoff to prove the contrary, is almost if not quite conclusive proof that each poem consists of material taken from more than one source. Furthermore, there is nowhere continuity within the verse itself for more than a very few stanzas. An analysis of the Reginsmol shows that stanzas 1-4, 6-10, and 12, all in Ljothahattr stanza form, seem to belong together as fragments of a poem dealing with Loki's (not Andvari's) curse on the gold taken by the gods from Andvari and paid to Hreithmar, together with Hreithmar's death at the hands of his son, Fafnir, as the first result of this curse. Stanza 5, in Fornyrthislag, is a curse on the gold, here ascribed to Andvari, but the only proper name in the stanza, Gust, is quite unidentifiable, and the stanza may originally have had to do with a totally different story. Stanza 11, likewise in Fornyrthislag, is merely a father's demand that his daughter rear a family to avenge his death; there is nothing in it to link it necessarily with the dying Hreithmar. Stanzas 13-18, all in Fornyrthislag, give Regin's welcome to Sigurth (stanzas 13-14), Sigurth's announcement that he will avenge his father's death on the sons of Hunding before he seeks any treasure (stanza 15), and a dialogue between a certain Hnikar, who is really Othin, and Regin, as the latter and Sigurth are on the point of being shipwrecked. This section (stanzas 13-18) bears a striking resemblance to the Helgi lays, and may well have come originally from that cycle. Next follows a passage in Ljothahattr form (stanzas 19-22 and 24-25) in which Hnikar-Othin gives some general advice as to lucky omens and good conduct in battle; the entire passage might equally well stand in the Hovamol, and I suspect that it originally came from just such a collection of wise saws. Inserted in this passage is stanza 23, in Fornyrthislag, likewise on the conduct of battle, with a bit of tactical advice included. The \"poem\" ends with a single stanza, in Fornyrthislag, simply stating that the bloody fight is over and that Sigurth fought well—a statement equally applicable to any part of the hero's career.",
+    "Finnur Jonsson has divided the Reginsmol into two poems, or rather into two sets of fragments, but this, as the foregoing analysis has indicated, does not appear to go nearly far enough. It accords much better with the facts to assume that the compiler of the collection represented by the Codex Regius, having set out to tell the story of Sigurth, took his verse fragments pretty much wherever he happened to find them. In this connection, it should be remembered that in the fluid state of oral tradition poems, fragments, and stanzas passed readily and frequently from one story to another. Tradition, never critical, doubtless connected with the Sigurth story much verse that never originated there.",
+    "If the entire passage beginning with the prose Fra Dautha Sinfjotla, and, except for the Gripisspo, including the Reginsmol, Fafnismol, and Sigrdrifumol, be regarded as a highly uncritical piece of compilation, rendered consecutive by the compiler's prose narrative, its difficulties are largely smoothed away; any other way of looking at it results in utterly inconclusive attempts to reconstruct poems some of which quite possibly never existed.",
+    "The twenty-six stanzas and accompanying prose notes included under the heading of Reginsmol belong almost wholly to the northern part of the Sigurth legend; the mythological features have no counterpart in the southern stories, and only here and there is there any betrayal of the tradition's Frankish home. The story of Andvari, Loki, and Hreithmar is purely Norse, as is the concluding section containing Othin's counsels. If we assume that the passage dealing with the victory over Hunding's sons belongs to the Helgi cycle (cf. introductory notes to Helgakvitha Hjorvarthssonar and Helgakvitha Hundingsbana I), there is very little left to reflect the Sigurth tradition proper.",
+    "Regarding the general development of the story of Sigurth in the North, see the introductory note to the Gripisspo."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Reginsmál)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Reginsmol"
+ }
+}

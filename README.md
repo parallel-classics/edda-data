@@ -1,10 +1,11 @@
 # edda-data — Open Edda, the dataset
 
-An open, community-corrected parallel edition of Snorri Sturluson's *Edda* (c. 1220) and of the
-*Poetic Edda* poems he drew on, in three texts: the normalised Old Norse, the text in modern Icelandic
-spelling, and an English translation. All four parts of Snorri's Edda (Formáli/Prologue, Gylfaginning,
-Skáldskaparmál, Háttatal) are aligned paragraph by paragraph into 1,514 rows; the first poem, Völuspá, is
-aligned stanza by stanza (66 rows) and linked to the 31 places where Snorri quotes it.
+An open, community-corrected parallel edition of both Eddas: Snorri Sturluson's *Edda* (c. 1220) and the
+*Poetic Edda*. The normalised Old Norse is the pivot; beside it stand the text in modern Icelandic spelling and
+an English translation, and further languages can be added as columns. All four parts of Snorri's Edda
+(Formáli/Prologue, Gylfaginning, Skáldskaparmál, Háttatal) are aligned paragraph by paragraph into 1,514
+rows; the 45 poems of Guðni Jónsson's *Eddukvæði* are aligned stanza by stanza into 1,966 rows, and 91 places
+where Snorri quotes a poem are linked both ways.
 
 This repository is the thing to cite: the sources as fetched, the aligned rows, the human corrections
 (overlays), the image records and the licences. It contains no code beyond a validator. The pipeline that
@@ -21,8 +22,8 @@ The English translations (Brodeur 1916, Bellows 1923) are in the public domain.
 | Old Norse (`on`) | *Edda Snorra Sturlusonar* | Guðni Jónsson's normalised edition (Íslendingasagnaútgáfan, 1954) as published by heimskringla.no | GitHub mirror `cltk/old_norse_texts_heimskringla` (CLTK Old Norse corpus) | all four |
 | Modern Icelandic (`is`) | *Gylfaginning* | Netútgáfan, June 1997 | https://netutgafan.snerpa.is/snorri/gylf.htm | Gylfaginning only; the other parts carry an automatic modernisation |
 | English (`en`) | *The Prose Edda* | Arthur Gilchrist Brodeur (American-Scandinavian Foundation, 1916) | sacred-texts.com transcription | Prologue, Gylfaginning, Skáldskaparmál (Brodeur omitted Háttatal) |
-| Old Norse (`on`), poems | *Eddukvæði* | Guðni Jónsson's normalised edition (Íslendingasagnaútgáfan, 1949) as published by heimskringla.no | GitHub mirror `cltk/old_norse_texts_heimskringla`, folder `Sæmundar-Edda/` | Völuspá (25 poems available) |
-| English (`en`), poems | *The Poetic Edda* | Henry Adams Bellows (American-Scandinavian Foundation, 1923) | English Wikisource, *The Poetic Edda (tr. Bellows)* | Völuspá |
+| Old Norse (`on`), poems | *Eddukvæði* | Guðni Jónsson's normalised edition (Íslendingasagnaútgáfan, 1949) as published by heimskringla.no | heimskringla.no pages, fetched 2026-10-25 | all 45 poems |
+| English (`en`), poems | *The Poetic Edda* | Henry Adams Bellows (American-Scandinavian Foundation, 1923) | English Wikisource, *The Poetic Edda (tr. Bellows)*, MediaWiki API | 36 of the 45 poems (his 35 pages; Svipdagsmol and Hyndluljoth each cover two of Guðni Jónsson's poems, Fra Dautha Sinfjotla joins Grípisspá) |
 
 Details per file, fetch dates and known defects: `sources/README.md`. The Wikisource proofread copy of
 Brodeur is the planned cleaner base for the English column (see `docs/ROADMAP.md`).
@@ -35,10 +36,11 @@ Brodeur is the planned cleaner base for the English column (see `docs/ROADMAP.md
 | Gylfaginning | 54 | 345 | Guðni Jónsson 1954 | Netútgáfan 1997 | Brodeur 1916 |
 | Skáldskaparmál | 89 | 854 | Guðni Jónsson 1954 | automatic modernisation | Brodeur 1916 (his 74 chapters mapped onto 89) |
 | Háttatal | 3 sections, 102 stanzas | 303 | Guðni Jónsson 1954 | automatic modernisation | AI draft, unreviewed |
-| *Poetic Edda:* Völuspá | 9 sections, 66 stanzas | 66 | Guðni Jónsson 1949 | automatic modernisation | Bellows 1923 |
+| *Poetic Edda* | 45 poems in 3 groups (17 mythological, 20 heroic, 8 other) | 1,966 (stanzas and prose passages) | Guðni Jónsson 1949 | automatic modernisation | Bellows 1923 for 36 poems (1,585 rows); none yet for 9 |
 
-Total for Snorri's Edda: 1,514 rows; with Völuspá, 1,580. Poem rows have ids `vsp-s<stanza>`; Snorri's
-quotations of the poem are listed in `aligned/links_vsp.json`. A row is one Old Norse paragraph or stanza with its Icelandic and English counterparts.
+Total: 3,480 rows (Snorri 1,514, poems 1,966). Poem rows have ids `<poem>-s<stanza>` (`vsp-s19`) and
+`<poem>-p<k>` for prose passages; Snorri's quotations of the poems are listed in `aligned/poetic/links.json`.
+Chapter and poem titles in each language are in `aligned/titles.json` (English titles are an unreviewed AI draft). A row is one Old Norse paragraph or stanza with its Icelandic and English counterparts.
 Row ids look like `g-c35-5` (Gylfaginning, chapter 35, row 5) and never change once published.
 
 What is automatic, and how good it is:
@@ -60,12 +62,15 @@ Nothing automatic is presented as settled: every cell has a status (`auto`, `dra
 
 ```
 sources/      the base texts as fetched (txt/html) and their parsed JSON — immutable
-  on/         Guðni Jónsson: prologus.txt, gylfaginning.txt, skaaldskaparmaal.txt, haattatal.txtl; on_{prol,gylf,skald,hatt}.json; voluspa.txt
+  on/         Guðni Jónsson: prologus.txt, gylfaginning.txt, skaaldskaparmaal.txt, haattatal.txtl; on_{prol,gylf,skald,hatt}.json
+  on/eddukvaedi/  gj_eddukvaedi.json — the 45 poems as fetched from heimskringla.no (page text per poem)
   is/         Netútgáfan: gylf_is.html; is_gylf.json
-  en/         Brodeur: brodeur_{prologue,gylf,skald}.html; en_{prol,gylf,skald}.json; Bellows: bellows_voluspo.txt
-aligned/      al_{prol,gylf,skald,hatt}.json — the rows; al_vsp.json — Völuspá; links_vsp.json — Snorri's quotations of it;
-              GENERATED by the edda-site pipeline, never hand-edited
-auto/         modernizer.json (learned tables), is_{prol,skald,hatt}_auto.json, en_draft.json (AI draft, as produced)
+  en/         Brodeur: brodeur_{prologue,gylf,skald}.html; en_{prol,gylf,skald}.json
+  en/bellows/ bellows_poetic_edda.json — Bellows' 35 Wikisource pages (stanzas, prose, notes, introductions)
+aligned/      al_{prol,gylf,skald,hatt}.json — Snorri's rows; poetic/al_<poem>.json, index.json, links.json — the poems
+              and Snorri's quotations of them; titles.json — titles per language. GENERATED by edda-site, never hand-edited
+auto/         modernizer.json (learned tables), is_{prol,skald,hatt}_auto.json, en_draft.json (AI draft, as produced),
+              titles_en.json (AI draft English titles)
 overlays/     human (and labelled AI) changes keyed by row id and cell: overlays/{on,is,en}/*.json
 images/       scenes.json (42 illustration briefs), records.json (verified public-domain images), pd/ (files)
 scripts/      validate.py (checks everything, prints the status table), drafts_to_overlays.py

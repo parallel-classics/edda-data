@@ -1,0 +1,4327 @@
+{
+ "part": "poetic",
+ "poem": "ls",
+ "title": "Lokasenna",
+ "group": "myth",
+ "chapters": [
+  {
+   "num": 8,
+   "key": "ls",
+   "title": "Lokasenna",
+   "subtitle": null,
+   "group": "myth",
+   "rows": [
+    {
+     "id": "ls-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Ægir, er öðru nafni hét Gymir, hann hafði búit ásum öl, þá er hann hafði fengit ketil inn mikla, sem nú er sagt. Til þeirar veizlu kom Óðinn ok Frigg, kona hans. Þórr kom eigi, því at hann var í austrvegi. Sif var þar, kona Þórs, Bragi ok Iðunn, kona hans. Týr var þar. Hann var einhendr, - Fenrisúlfr sleit hönd af honum, þá er hann var bundinn. Þar var Njörðr ok kona hans Skaði, Freyr ok Freyja, Víðarr, son Óðins. Loki var þar ok þjónustumenn Freys, Byggvir ok Beyla. Margt var þar ása ok alfa. Ægir átti tvá þjónustumenn, Fimafengr ok Eldir. Þar var lýsigull haft fyrir elts ljós. Sjálft barst þar öl. Þar var griðastaðr mikill. Menn lofuðu mjök, hversu góðir þjónustumenn Ægis váru. Loki mátti eigi heyra þat, ok drap hann Fimafeng. Þá skóku æsir skjöldu sína ok æpðu at Loka ok eltu hann braut til skógar, en þeir fóru at drekka. Loki hvarf aftr ok hitti úti Eldi. Loki kvaddi hann:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Ægir, er öðru nafni hét Gymir, hann hafði búið ásum öl, þá er hann hafði fengið ketil hinn mikla, sem nú er sagt. Til þeirrar veizlu kom Óðinn og Frigg, kona hans. Þór kom eigi, því að hann var í austrvegi. Sif var þar, kona Þórs, Bragi og Iðunn, kona hans. Týr var þar. Hann var einhendur, - Fenrisúlfur sleit hönd af honum, þá er hann var bundinn. Þar var Njörður og kona hans Skaði, Freyr og Freyja, Víðar, son Óðins. Loki var þar og þjónustumenn Freys, Byggir og Beyla. Margt var þar ása og alfa. Ægir átti tvo þjónustumenn, Fimafengur og Eldir. Þar var lýsigull haft fyrir elts ljós. Sjálft barst þar öl. Þar var griðastaður mikill. Menn lofuðu mjög, hversu góðir þjónustumenn Ægis voru. Loki mátti eigi heyra það, og drap hann Fimafeng. Þá skóku æsir skjöldu sína og æpðu að Loka og eltu hann braut til skógar, en þeir fóru að drekka. Loki hvarf aftur og hitti úti Eldi. Loki kvaddi hann:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p1⟧Ægir⟦p2⟧, who was also called Gymir, had prepared ale for the gods, after he had got the mighty kettle, as now has been told. To this feast came Othin and Frigg⟦p3⟧, his wife. Thor⟦p4⟧ came not, as he was on a journey in the East. Sif⟦p5⟧, Thor's wife, was there, and Bragi⟦p6⟧ with Ithun⟦p7⟧, his wife. Tyr⟦p8⟧, who had but one hand, was there; the wolf Fenrir had bitten off his other hand when they had bound him. There were Njorth⟦p9⟧ and Skathi⟦p10⟧ his wife, Freyr and Freyja, and Vithar⟦p11⟧, the son of Othin. Loki⟦p12⟧ was there, and Freyr's servants Byggvir and Beyla⟦p13⟧. Many were there of the gods and elves."
+      },
+      {
+       "t": "p",
+       "s": "Ægir had two serving-men, Fimafeng and Eldir⟦p14⟧. Glittering gold⟦p15⟧ they had in place of firelight; the ale came in of itself; and great was the peace. The guests praised much the ability of Ægir's serving-men. Loki might not endure that, and he slew Fimafeng. Then the gods shook their shields and howled at Loki and drove him away to the forest, and thereafter set to drinking again. Loki turned back, and outside he met Eldir. Loki spoke to him:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Segðu þat, Eldir,",
+        "svá at þú einugi",
+        "feti gangir framar,",
+        "hvat hér inni",
+        "hafa at ölmálum",
+        "sigtíva synir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Segðu það, Eldir,",
+        "svo að þú einugi",
+        "feti gangir framar,",
+        "hvað hér inni",
+        "hafa að ölmálum",
+        "sigtíva synir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Speak now, Eldir, | for not one step",
+        "Farther shalt thou fare;",
+        "What ale-talk here | do they have within,",
+        "The sons of the glorious gods?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "p",
+       "s": "Eldir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Of vápn sín dæma",
+        "ok um vígrisni sína",
+        "sigtíva synir;",
+        "ása ok alfa",
+        "er hér inni eru,",
+        "manngi er þér í orði vinr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Eldir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Of vopn sín dæma",
+        "og um vígrisni sína",
+        "sigtíva synir;",
+        "ása og alfa",
+        "er hér inni eru,",
+        "manngi er þér í orði vinur.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Eldir spake:",
+        "\"Of their weapons they talk, | and their might in war,",
+        "The sons of the glorious gods;",
+        "From the gods and elves | who are gathered here",
+        "No friend in words shalt thou find.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Inn skal ganga",
+        "Ægis hallir í",
+        "á þat sumbl at sjá;",
+        "jöll ok áfu",
+        "færi ek ása sonum,",
+        "ok blend ek þeim svá meini mjöð.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Hinn skal ganga",
+        "Ægis hallir í",
+        "á það sumbl að sjá;",
+        "jöll og áfu",
+        "færi eg ása sonum,",
+        "og blend eg þeim svo meini mjöð.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Loki spake:",
+        "\"In shall I go | into Ægir's hall,",
+        "For the feast I fain would see;",
+        "Bale and hatred | I bring to the gods,",
+        "And their mead with venom I mix.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "p",
+       "s": "Eldir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Veiztu, ef þú inn gengr",
+        "Ægis hallir í",
+        "á þat sumbl at sjá,",
+        "hrópi ok rógi",
+        "ef þú eyss á holl regin,",
+        "á þér munu þau þerra þat.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Eldir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Veistu, ef þú hinn gengur",
+        "Ægis hallir í",
+        "á það sumbl að sjá,",
+        "hrópi og rógi",
+        "ef þú eyss á holl regin,",
+        "á þér munu þau þerra það.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Eldir spake:",
+        "\"If in thou goest | to Ægir's hall,",
+        "And fain the feast wouldst see,",
+        "And with slander and spite | wouldst sprinkle the gods,",
+        "Think well lest they wipe it on thee.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Veiztu þat, Eldir,",
+        "ef vit einir skulum",
+        "sáryrðum sakask,",
+        "auðigr verða",
+        "mun ek í andsvörum,",
+        "ef þú mælir til margt.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Veistu það, Eldir,",
+        "ef vit einir skulum",
+        "sáryrðum sakast,",
+        "auðugur verða",
+        "mun eg í andsvörum,",
+        "ef þú mælir til margt.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Loki spake:",
+        "\"Bethink thee, Eldir, | if thou and I",
+        "Shall strive with spiteful speech;",
+        "Richer I grow | in ready words",
+        "If thou speakest too much to me.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-p2",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Síðan gekk Loki inn í höllina. En er þeir sá, er fyrir váru, hverr inn var kominn, þögnuðu þeir allir."
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Síðan gekk Loki hinn í höllina. En er þeir sá, er fyrir voru, hver hinn var kominn, þögnuðu þeir allir."
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Then Loki went into the hall, but when they who were there saw who had entered, they were all silent."
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Þyrstr ek kom",
+        "þessar hallar til,",
+        "Loftr, um langan veg",
+        "ásu at biðja,",
+        "at mér einn gefi",
+        "mæran drykk mjaðar.",
+        "7.",
+        "Hví þegið ér svá,",
+        "þrungin goð,",
+        "at þér mæla né meguð?",
+        "Sessa ok staði",
+        "velið mér sumbli at",
+        "eða heitið mik heðan.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Þyrstur eg kom",
+        "þessar hallar til,",
+        "Loftur, um langan veg",
+        "ásu að biðja,",
+        "að mér einn gefi",
+        "mæran drykk mjaðar.",
+        "7.",
+        "Hví þegið þér svo,",
+        "þrungin guð,",
+        "að þér mæla né megið?",
+        "Sessa og staði",
+        "velið mér sumbli að",
+        "eða heitið mig héðan.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Loki spake:",
+        "\"Thirsty I come | into this thine hall,",
+        "I, Lopt, from a journey long,",
+        "To ask of the gods | that one should give",
+        "Fair mead for a drink to me.⟦6⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Why sit ye silent, | swollen with pride,",
+        "Ye gods, and no answer give?",
+        "At your feast a place | and a seat prepare me,",
+        "Or bid me forth to fare.\"⟦7⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6,
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "p",
+       "s": "Bragi kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Sessa ok staði",
+        "velja þér sumbli at",
+        "æsir aldregi,",
+        "því at æsir vitu,",
+        "hveim þeir alda skulu",
+        "gambansumbl of geta.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Bragi kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Sessa og staði",
+        "velja þér sumbli að",
+        "æsir aldregi,",
+        "því að æsir vita,",
+        "hveim þeir alda skulu",
+        "gambansumbl of geta.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Bragi spake:",
+        "\"A place and a seat | will the gods prepare",
+        "No more in their midst for thee;",
+        "For the gods know well | what men they wish",
+        "To find at their mighty feasts.\"⟦8⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Mantu þat, Óðinn,",
+        "er vit í árdaga",
+        "blendum blóði saman?",
+        "Ölvi bergja",
+        "lézktu eigi mundu,",
+        "nema okkr væri báðum borit.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Mantu það, Óðinn,",
+        "er vit í árdaga",
+        "blindum blóði saman?",
+        "Ölvi bergja",
+        "lézktu eigi myndu,",
+        "nema okkur væri báðum borið.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Loki spake:",
+        "\"Remember, Othin, | in olden days",
+        "That we both our blood have mixed;",
+        "Then didst thou promise | no ale to pour,",
+        "Unless it were brought for us both.\"⟦9⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Rístu þá, Viðarr,",
+        "ok lát ulfs föður",
+        "sitja sumbli at,",
+        "síðr oss Loki",
+        "kveði lastastöfum",
+        "Ægis höllu í.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Rístu þá, Viðar,",
+        "og lát ulfs föður",
+        "sitja sumbli að,",
+        "síður oss Loki",
+        "kveði lastastöfum",
+        "Ægis höllu í.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Othin spake:",
+        "\"Stand forth then, Vithar, | and let the wolf's father",
+        "Find a seat at our feast;",
+        "Lest evil should Loki | speak aloud",
+        "Here within Ægir's hall.\"⟦10⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-p3",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þá stóð Viðarr upp ok skenkði Loka. En áðr hann drykki, kvaddi hann ásuna:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þá stóð Viðar upp og skenkði Loka. En áður hann drykki, kvaddi hann ásuna:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Then Vithar arose and poured drink for Loki; but before he drank he spoke to the gods:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Heilir æsir,",
+        "heilar ásynjur",
+        "ok öll ginnheilög goð -",
+        "nema sá einn áss",
+        "er innar sitr,",
+        "Bragi, bekkjum á.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Heilir æsir,",
+        "heilar ásynjur",
+        "og öll ginnheilug guð -",
+        "nema sá einn ás",
+        "er innar situr,",
+        "Bragi, bekkjum á.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Hail to you, gods! | ye goddesses, hail!",
+        "Hail to the holy throng!",
+        "Save for the god | who yonder sits,",
+        "Bragi there on the bench.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "p",
+       "s": "Bragi kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Mar ok mæki",
+        "gef ek þér míns féar,",
+        "ok bætir þér svá baugi Bragi,",
+        "síðr þú ásum",
+        "öfund of gjaldir,",
+        "grem þú eigi goð at þér.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Bragi kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Mar og mæki",
+        "gef eg þér míns féar,",
+        "og bætir þér svo baugi Bragi,",
+        "síður þú ásum",
+        "öfund of gjaldir,",
+        "grem þú eigi guð að þér.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Bragi spake:",
+        "\"A horse and a sword | from my hoard will I give,",
+        "And a ring gives Bragi to boot,",
+        "That hatred thou makst not | among the gods;",
+        "So rouse not the great ones to wrath.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Jós ok armbauga",
+        "mundu æ vera",
+        "beggja vanr, Bragi;",
+        "ása ok alfa,",
+        "er hér inni eru,",
+        "þú ert við víg varastr",
+        "ok skjarrastr við skot.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Jós og armbauga",
+        "myndu æ vera",
+        "beggja vanur, Bragi;",
+        "ása og alfa,",
+        "er hér inni eru,",
+        "þú ert við víg varastur",
+        "og skjarrastur við skot.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Loki spake:",
+        "\"In horses and rings | thou shalt never be rich,",
+        "Bragi, but both shalt thou lack;",
+        "Of the gods and elves | here together met",
+        "Least brave in battle art thou,",
+        "(And shyest thou art of the shot.)\"⟦13⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "p",
+       "s": "Bragi kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Veit ek, ef fyr útan værak,",
+        "svá sem fyr innan emk,",
+        "Ægis höll of kominn,",
+        "höfuð þitt",
+        "bæra ek í hendi mér;",
+        "lykak þér þat fyr lygi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Bragi kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Veit eg, ef fyr utan værak,",
+        "svo sem fyr innan emk,",
+        "Ægis höll of kominn,",
+        "höfuð þitt",
+        "bæra eg í hendi mér;",
+        "lykak þér það fyr lygi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Bragi spake:",
+        "\"Now were I without | as I am within,",
+        "And here in Ægir's hall,",
+        "Thine head would I bear | in mine hands away,",
+        "And pay thee the price of thy lies.\"⟦14⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Snjallr ertu í sessi,",
+        "skal-at-tu svá gera,",
+        "Bragi bekkskrautuðr;",
+        "vega þú gakk,",
+        "ef þú vreiðr séir;",
+        "hyggsk vætr hvatr fyrir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Snjallur ertu í sessi,",
+        "skal-at-tu svo gera,",
+        "Bragi bekkskrautuður;",
+        "vega þú gakk,",
+        "ef þú vreiður séir;",
+        "hyggst vætur hvatur fyrir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Loki spake:",
+        "\"In thy seat art thou bold, | not so are thy deeds,",
+        "Bragi, adorner of benches!",
+        "Go out and fight | if angered thou feelest,",
+        "No hero such forethought has.\"⟦15⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      15
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "p",
+       "s": "Iðunn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Bið ek þik, Bragi,",
+        "barna sifjar duga",
+        "ok allra óskmaga,",
+        "at þú Loka",
+        "kveðir-a lastastöfum",
+        "Ægis höllu í.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Iðunn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Bið eg þig, Bragi,",
+        "barna sifjar duga",
+        "og allra óskmaga,",
+        "að þú Loka",
+        "kveðir-a lastastöfum",
+        "Ægis höllu í.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Ithun spake:",
+        "\"Well, prithee, Bragi, | his kinship weigh,",
+        "Since chosen as wish-son he was;",
+        "And speak not to Loki | such words of spite",
+        "Here within Ægir's hall.\"⟦16⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      16
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Þegi þú, Iðunn,",
+        "þik kveð ek allra kvenna",
+        "vergjarnasta vera,",
+        "síztu arma þína",
+        "lagðir ítrþvegna",
+        "um þinn bróðurbana.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Þegi þú, Iðunn,",
+        "þig kveð eg allra kvenna",
+        "vergjarnasta vera,",
+        "síztu arma þína",
+        "lagðir ítrþvegna",
+        "um þinn bróðurbana.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Loki spake:",
+        "\"Be silent, Ithun! | thou art, I say,",
+        "Of women most lustful in love,",
+        "Since thou thy washed-bright | arms didst wind",
+        "About thy brother's slayer.\"⟦17⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      17
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "p",
+       "s": "Iðunn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Loka ek kveðk-a",
+        "lastastöfum",
+        "Ægis höllu í:",
+        "Braga ek kyrri",
+        "bjórreifan;",
+        "vilk-at ek, at it vreiðir vegizk.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Iðunn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Loka eg kveðk-a",
+        "lastastöfum",
+        "Ægis höllu í:",
+        "Braga eg kyrri",
+        "bjórreifan;",
+        "vilk-at eg, að it vreiðir vegizg.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Ithun spake:",
+        "\"To Loki I speak not | with spiteful words",
+        "Here within Ægir's hall;",
+        "And Bragi I calm, | who is hot with beer,",
+        "For I wish not that fierce they should fight.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      18
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gefjun kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Hví it æsir tveir",
+        "skuluð inni hér",
+        "sáryrðum sakask?",
+        "Loftki þat veit,",
+        "at hann leikinn er",
+        "ok hann fjörg öll fía.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gefjun kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Hví it æsir tveir",
+        "skuluð inni hér",
+        "sáryrðum sakast?",
+        "Loftki það veit,",
+        "að hann leikinn er",
+        "og hann fjörg öll fía.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Gefjun spake:",
+        "\"Why, ye gods twain, | with bitter tongues",
+        "Raise hate among us here?",
+        "Loki is famed | for his mockery foul,",
+        "And the dwellers in heaven he hates.\"⟦19⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Þegi þú, Gefjun,",
+        "þess mun ek nú geta,",
+        "er þik glapði at geði",
+        "sveinn inn hvíti,",
+        "er þér sigli gaf",
+        "ok þú lagðir lær yfir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Þegi þú, Gefjun,",
+        "þess mun eg nú geta,",
+        "er þig glapði að geði",
+        "sveinn hinn hvíti,",
+        "er þér sigli gaf",
+        "og þú lagðir lær yfir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Loki spake:",
+        "\"Be silent, Gefjun! | for now shall I say",
+        "Who led thee to evil life;",
+        "The boy so fair | gave a necklace bright,",
+        "And about him thy leg was laid.\"⟦20⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      20
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Ærr ertu, Loki,",
+        "ok örviti,",
+        "er þú fær þér Gefjun at gremi,",
+        "því at aldar örlög",
+        "hygg ek, at hon öll of viti",
+        "jafngörla sem ek.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Ær ertu, Loki,",
+        "og örviti,",
+        "er þú fær þér Gefjun að gremi,",
+        "því að aldar örlög",
+        "hygg eg, að hún öll of viti",
+        "jafngörla sem eg.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Othin spake:",
+        "\"Mad art thou, Loki, | and little of wit,",
+        "The wrath of Gefjun to rouse;",
+        "For the fate that is set | for all she sees,",
+        "Even as I, methinks.\"⟦21⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      21
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c20-5"
+     ]
+    },
+    {
+     "id": "ls-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Þegi þú, Óðinn,",
+        "þú kunnir aldregi",
+        "deila víg með verum;",
+        "oft þú gaft,",
+        "þeim er þú gefa skyldir-a,",
+        "inum slævurum sigr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Þegi þú, Óðinn,",
+        "þú kunnir aldregi",
+        "deila víg með verum;",
+        "oft þú gaft,",
+        "þeim er þú gefa skyldir-a,",
+        "hinum slævurum sigur.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Loki spake:",
+        "\"Be silent, Othin! | not justly thou settest",
+        "The fate of the fight among men;",
+        "Oft gavst thou to him | who deserved not the gift,",
+        "To the baser, the battle's prize.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      22
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Veiztu, ef ek gaf,",
+        "þeim er ek gefa né skylda,",
+        "inum slævurum, sigr,",
+        "átta vetr",
+        "vartu fyr jörð neðan,",
+        "kýr mólkandi ok kona,",
+        "ok hefr þú þar börn borit,",
+        "ok hugða ek þat args aðal.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Óðinn kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Veistu, ef eg gaf,",
+        "þeim er eg gefa né skylda,",
+        "hinum slævurum, sigur,",
+        "átta vetur",
+        "vartu fyr jörð neðan,",
+        "kýr mólkandi og kona,",
+        "og hefur þú þar börn borið,",
+        "og hugði eg það args aðal.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Othin spake:",
+        "\"Though I gave to him | who deserved not the gift,",
+        "To the baser, the battle's prize;",
+        "Winters eight | wast thou under the earth,",
+        "Milking the cows as a maid,",
+        "(Ay, and babes didst thou bear;",
+        "Unmanly thy soul must seem.)\"⟦23⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      23
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"En þik síða kóðu",
+        "Sámseyu í,",
+        "ok draptu á vétt sem völur;",
+        "vitka líki",
+        "fórtu verþjóð yfir,",
+        "ok hugða ek þat args aðal.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"En þig síða kóðu",
+        "Sámseyu í,",
+        "og draptu á vétt sem völur;",
+        "vitka líki",
+        "fórtu verþjóð yfir,",
+        "og hugði eg það args aðal.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Loki spake:",
+        "\"They say that with spells | in Samsey once",
+        "Like witches with charms didst thou work;",
+        "And in witch's guise | among men didst thou go;",
+        "Unmanly thy soul must seem.\"⟦24⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      24
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "p",
+       "s": "Frigg kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Örlögum ykkrum",
+        "skylið aldregi",
+        "segja seggjum frá,",
+        "hvat it æsir tveir",
+        "drýgðuð í árdaga;",
+        "firrisk æ forn rök firar.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Frigg kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Örlögum ykkrum",
+        "skylið aldregi",
+        "segja seggjum frá,",
+        "hvað it æsir tveir",
+        "drýgðuð í árdaga;",
+        "firrist æ forn rög firrar.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Frigg spake:",
+        "\"Of the deeds ye two | of old have done",
+        "Ye should make no speech among men;",
+        "Whate'er ye have done | in days gone by,",
+        "Old tales should ne'er be told.\"⟦25⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      25
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Þegi þú, Frigg,",
+        "þú ert Fjörgyns mær",
+        "ok hefr æ vergjörn verit,",
+        "er þá Véa ok Vilja",
+        "léztu þér, Viðris kvæn,",
+        "báða i baðm of tekit.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Þegi þú, Frigg,",
+        "þú ert Fjörgyns mær",
+        "og hefur æ vergjörn verið,",
+        "er þá Véa og Vilja",
+        "léztu þér, Viðris kvæn,",
+        "báða i baðm of tekið.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Loki spake:",
+        "\"Be silent, Frigg! | thou art Fjorgyn's wife,",
+        "But ever lustful in love;",
+        "For Vili and Ve, | thou wife of Vithrir,",
+        "Both in thy bosom have lain.\"⟦26⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      26
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "p",
+       "s": "Frigg kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Veiztu, ef ek inni ættak",
+        "Ægis höllum i",
+        "Baldri líkan bur,",
+        "út þú né kvæmir",
+        "frá ása sonum,",
+        "ok væri þá at þér vreiðum vegit.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Frigg kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Veistu, ef eg inni ættak",
+        "Ægis höllum i",
+        "Baldri líkan bur,",
+        "út þú né kvæmir",
+        "frá ása sonum,",
+        "og væri þá að þér vreiðum vegið.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Frigg spake:",
+        "\"If a son like Baldr | were by me now,",
+        "Here within Ægir's hall,",
+        "From the sons of the gods | thou shouldst go not forth",
+        "Till thy fierceness in fight were tried.\"⟦27⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      27
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s28",
+     "stanza": 28,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Enn vill þú, Frigg,",
+        "at ek fleiri telja",
+        "mína meinstafi:",
+        "ek því réð,",
+        "er þú ríða sér-at",
+        "síðan Baldr at sölum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"Enn vill þú, Frigg,",
+        "að eg fleiri telja",
+        "mína meinstafi:",
+        "eg því réð,",
+        "er þú ríða sér-at",
+        "síðan Baldur að sölum.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Loki spake:",
+        "\"Thou wilt then, Frigg, | that further I tell",
+        "Of the ill that now I know;",
+        "Mine is the blame | that Baldr no more",
+        "Thou seest ride home to the hall.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      28
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s29",
+     "stanza": 29,
+     "on": [
+      {
+       "t": "p",
+       "s": "Freyja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Ærr ertu, Loki,",
+        "er þú yðra telr",
+        "ljóta leiðstafi;",
+        "örlög Frigg,",
+        "hygg ek, at öll viti,",
+        "þótt hon sjalfgi segi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Freyja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Ær ertu, Loki,",
+        "er þú yðra telur",
+        "ljóta leiðstafi;",
+        "örlög Frigg,",
+        "hygg eg, að öll viti,",
+        "þótt hún sjálfgi segi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Freyja spake:",
+        "\"Mad art thou, Loki, | that known thou makest",
+        "The wrong and shame thou hast wrought;",
+        "The fate of all | does Frigg know well,",
+        "Though herself she says it not.\"⟦29⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      29
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [
+      "g-c20-5"
+     ]
+    },
+    {
+     "id": "ls-s30",
+     "stanza": 30,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"Þegi þú, Freyja,",
+        "þik kann ek fullgörva,",
+        "er-a þér vamma vant:",
+        "ása ok alfa,",
+        "er hér inni eru,",
+        "hverr hefir þinn hór verit.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"Þegi þú, Freyja,",
+        "þig kann eg fullgörva,",
+        "er-a þér vamma vant:",
+        "ása og alfa,",
+        "er hér inni eru,",
+        "hver hefur þinn hór verið.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Loki spake:",
+        "\"Be silent, Freyja! | for fully I know thee,",
+        "Sinless thou art not thyself;",
+        "Of the gods and elves | who are gathered here,",
+        "Each one as thy lover has lain.\"⟦30⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      30
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s31",
+     "stanza": 31,
+     "on": [
+      {
+       "t": "p",
+       "s": "Freyja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Flá er þér tunga,",
+        "hygg ek, at þér fremr myni",
+        "ógótt of gala;",
+        "reiðir ro þér æsir",
+        "ok ásynjur,",
+        "hryggr muntu heim fara.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Freyja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Flá er þér tunga,",
+        "hygg eg, að þér fremur muni",
+        "ógótt of gala;",
+        "reiðir ro þér æsir",
+        "og ásynjur,",
+        "hryggur muntu heim fara.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Freyja spake:",
+        "\"False is thy tongue, | and soon shalt thou find",
+        "That it sings thee an evil song;",
+        "The gods are wroth, | and the goddesses all,",
+        "And in grief shalt thou homeward go.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      31
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s32",
+     "stanza": 32,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Þegi þú, Freyja,",
+        "þú ert fordæða",
+        "ok meini blandin mjök,",
+        "síz þik at bræðr þínum",
+        "stóðu blíð regin",
+        "ok myndir þú þá, Freyja, frata.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Þegi þú, Freyja,",
+        "þú ert fordæða",
+        "og meini blandin mjög,",
+        "síz þig að bræður þínum",
+        "stóðu blíð regin",
+        "og myndir þú þá, Freyja, frata.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Loki spake:",
+        "\"Be silent, Freyja! | thou foulest witch,",
+        "And steeped full sore in sin;",
+        "In the arms of thy brother | the bright gods caught thee",
+        "When Freyja her wind set free.\"⟦32⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      32
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s33",
+     "stanza": 33,
+     "on": [
+      {
+       "t": "p",
+       "s": "Njörðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Þat er válítit,",
+        "þótt sér varðir",
+        "vers fái, hós eða hvárs;",
+        "hitt er undr, er áss ragr",
+        "er hér inn of kominn",
+        "ok hefir sá börn of borit.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Njörður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Það er válítið,",
+        "þótt sér varðir",
+        "vers fái, hós eða hvárs;",
+        "hitt er undur, er ás ragur",
+        "er hér hinn of kominn",
+        "og hefur sá börn of borið.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Njorth spake:",
+        "\"Small ill does it work | though a woman may have",
+        "A lord or a lover or both;",
+        "But a wonder it is | that this womanish god",
+        "Comes hither, though babes he has borne.\"⟦33⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      33
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s34",
+     "stanza": 34,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Þegi þú, Njörðr,",
+        "þú vart austr heðan",
+        "gíls of sendr at goðum;",
+        "Hymis meyjar",
+        "höfðu þik at hlandtrogi",
+        "ok þér i munn migu.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Þegi þú, Njörður,",
+        "þú vart austur héðan",
+        "gíls of sendur að goðum;",
+        "Hymis meyjar",
+        "höfðu þig að hlandtrogi",
+        "og þér i munn migu.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Loki spake:",
+        "\"Be silent, Njorth; | thou wast eastward sent,",
+        "To the gods as a hostage given;",
+        "And the daughters of Hymir | their privy had",
+        "When use did they make of thy mouth.\"⟦34⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      34
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s35",
+     "stanza": 35,
+     "on": [
+      {
+       "t": "p",
+       "s": "Njörðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "\"Sú erumk líkn,",
+        "er ek vark langt heðan",
+        "gísl of sendr at goðum,",
+        "þá ek mög gat,",
+        "þann er mangi fíár,",
+        "ok þykkir sá ása jaðarr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Njörður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "\"sú erumk líkn,",
+        "er eg vark langt héðan",
+        "gísl of sendur að goðum,",
+        "þá eg mög gat,",
+        "þann er mangi fíár,",
+        "og þykir sá ása jaðar.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Njorth spake:",
+        "\"Great was my gain, | though long was I gone,",
+        "To the gods as a hostage given;",
+        "The son did I have | whom no man hates,",
+        "And foremost of gods is found.\"⟦35⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      35
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s36",
+     "stanza": 36,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "\"Hættu nú, Njörðr,",
+        "haf þú á hófi þik,",
+        "munk-a ek því leyna lengr:",
+        "við systur þinni",
+        "gaztu slíkan mög,",
+        "ok er-a þó vánu verr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "\"Hættu nú, Njörður,",
+        "haf þú á hófi þig,",
+        "munk-a eg því leyna lengur:",
+        "við systur þinni",
+        "gaztu slíkan mög,",
+        "og er-a þó vánu verr.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Loki spake:",
+        "\"Give heed now, Njorth, | nor boast too high,",
+        "No longer I hold it hid;",
+        "With thy sister hadst thou | so fair a son,",
+        "Thus hadst thou no worse a hope.\"⟦36⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      36
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s37",
+     "stanza": 37,
+     "on": [
+      {
+       "t": "p",
+       "s": "Týr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Freyr er beztr",
+        "allra ballriða",
+        "ása görðum í;",
+        "mey hann né grætir",
+        "né manns konu",
+        "ok leysir ór höftum hvern.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Týr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Freyr er bestur",
+        "allra ballriða",
+        "ása görðum í;",
+        "mey hann né grætir",
+        "né manns konu",
+        "og leysir úr höftum hvern.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Tyr spake:",
+        "\"Of the heroes brave | is Freyr the best",
+        "Here in the home of the gods;",
+        "He harms not maids | nor the wives of men,",
+        "And the bound from their fetters he frees.\"⟦37⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      37
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s38",
+     "stanza": 38,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "\"Þegi þú, Týr,",
+        "þú kunnir aldregi",
+        "bera tilt með tveim;",
+        "handar innar hægri",
+        "mun ek hinnar geta,",
+        "er þér sleit Fenrir frá.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "\"Þegi þú, Týr,",
+        "þú kunnir aldregi",
+        "bera tilt með tveim;",
+        "handar innar hægri",
+        "mun eg hinnar geta,",
+        "er þér sleit Fenrir frá.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Loki spake:",
+        "\"Be silent, Tyr! | for between two men",
+        "Friendship thou ne'er couldst fashion;",
+        "Fain would I tell | how Fenrir once",
+        "Thy right hand rent from thee.\"⟦38⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      38
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s39",
+     "stanza": 39,
+     "on": [
+      {
+       "t": "p",
+       "s": "Týr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Handar em ek vanr,",
+        "en þú hróðrsvitnis,",
+        "böl er beggja þrá;",
+        "ulfgi hefir ok vel,",
+        "er í böndum skal",
+        "bíða ragnarökrs.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Týr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Handar em eg vanur,",
+        "en þú hróðrsvitnis,",
+        "böl er beggja þrá;",
+        "ulfgi hefur og vel,",
+        "er í böndum skal",
+        "bíða ragnarökkurs.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Tyr spake:",
+        "\"My hand do I lack, | but Hrothvitnir thou,",
+        "And the loss brings longing to both;",
+        "Ill fares the wolf | who shall ever await",
+        "In fetters the fall of the gods.\"⟦39⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      39
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s40",
+     "stanza": 40,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "\"Þegi þú, Týr,",
+        "þat varð þinni konu,",
+        "at hon átti mög við mér;",
+        "öln né penning",
+        "hafðir þú þess aldregi",
+        "vanréttis, vesall.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "\"Þegi þú, Týr,",
+        "það varð þinni konu,",
+        "að hún átti mög við mér;",
+        "öln né penning",
+        "hafðir þú þess aldregi",
+        "vanréttis, vesall.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Loki spake:",
+        "\"Be silent, Tyr! | for a son with me",
+        "Thy wife once chanced to win;",
+        "Not a penny, methinks, | wast thou paid for the wrong,",
+        "Nor wast righted an inch, poor wretch.\"⟦40⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      40
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s41",
+     "stanza": 41,
+     "on": [
+      {
+       "t": "p",
+       "s": "Freyr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Ulfr sé ek liggja",
+        "árósi fyrir,",
+        "unz rjúfask regin;",
+        "því mundu næst,",
+        "nema þú nú þegir,",
+        "bundinn, bölvasmiðr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Freyr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Ulfur sé eg liggja",
+        "árósi fyrir,",
+        "uns rjúfast regin;",
+        "því myndu næst,",
+        "nema þú nú þegir,",
+        "bundinn, bölvasmiður.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "Freyr spake:",
+        "\"By the mouth of the river | the wolf remains",
+        "Till the gods to destruction go;",
+        "Thou too shalt soon, | if thy tongue is not stilled,",
+        "Be fettered, thou forger of ill.\"⟦41⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      41
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s42",
+     "stanza": 42,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "\"Gulli keypta",
+        "léztu Gymis dóttur",
+        "ok seldir þitt svá sverð;",
+        "en er Múspells synir",
+        "ríða Myrkvið yfir,",
+        "veizt-a þú þá, vesall, hvé þú vegr.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "\"Gulli keypta",
+        "léztu Gymis dóttur",
+        "og seldir þitt svo sverð;",
+        "en er Múspells synir",
+        "ríða Myrkvið yfir,",
+        "veizt-a þú þá, vesall, hve þú vegur.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "Loki spake:",
+        "\"The daughter of Gymir | with gold didst thou buy,",
+        "And sold thy sword to boot;",
+        "But when Muspell's sons | through Myrkwood ride,",
+        "Thou shalt weaponless wait, poor wretch.\"⟦42⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      42
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s43",
+     "stanza": 43,
+     "on": [
+      {
+       "t": "p",
+       "s": "Byggvir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "\"Veiztu, ef ek eðli ættak",
+        "sem Ingunar-Freyr",
+        "ok svá sælligt setr,",
+        "mergi smæra",
+        "mölða ek þá meinkráku",
+        "ok lemða alla í liðu.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Byggir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "\"Veistu, ef eg eðli ættak",
+        "sem Ingunar-Freyr",
+        "og svo sællegt setur,",
+        "mergi smæra",
+        "mölða eg þá meinkráku",
+        "og lemða alla í liðu.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "Byggvir spake:",
+        "\"Had I birth so famous | as Ingunar-Freyr,",
+        "And sat in so lofty a seat,",
+        "I would crush to marrow | this croaker of ill,",
+        "And beat all his body to bits.\"⟦43⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      43
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s44",
+     "stanza": 44,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "\"Hvat er þat it litla",
+        "er ek þat löggra sék",
+        "ok snapvíst snapir?",
+        "At eyrum Freys",
+        "mundu æ vera",
+        "ok und kvernum klaka.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "\"Hvað er það it litla",
+        "er eg það löggra ség",
+        "og snapvíst snapir?",
+        "Að eyrum Freys",
+        "myndu æ vera",
+        "og und kvernum klaka.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "Loki spake:",
+        "\"What little creature | goes crawling there,",
+        "Snuffling and snapping about?",
+        "At Freyr's ears ever | wilt thou be found,",
+        "Or muttering hard at the mill.\"⟦44⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      44
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s45",
+     "stanza": 45,
+     "on": [
+      {
+       "t": "p",
+       "s": "Byggvir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "\"Byggvir ek heiti,",
+        "en mik bráðan kveða",
+        "goð öll ok gumar;",
+        "því em ek hér hróðugr,",
+        "at drekka Hrofts megir",
+        "allir öl saman.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Byggir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "\"Byggir eg heiti,",
+        "en mig bráðan kveða",
+        "guð öll og gumar;",
+        "því em eg hér hróðugur,",
+        "að drekka Hrofts megir",
+        "allir öl saman.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "Byggvir spake:",
+        "\"Byggvir my name, | and nimble am I,",
+        "As gods and men do grant;",
+        "And here am I proud | that the children of Hropt",
+        "Together all drink ale.\"⟦45⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      45
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s46",
+     "stanza": 46,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "\"Þegi þú, Byggvir,",
+        "þú kunnir aldregi",
+        "deila með mönnum mat,",
+        "ok þik í flets strái",
+        "finna né máttu,",
+        "þá er vágu verar.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "\"Þegi þú, Byggir,",
+        "þú kunnir aldregi",
+        "deila með mönnum mat,",
+        "og þig í flets strái",
+        "finna né máttu,",
+        "þá er vágu verar.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "Loki spake:",
+        "\"Be silent, Byggvir! | thou never couldst set",
+        "Their shares of the meat for men;",
+        "Hid in straw on the floor, | they found thee not",
+        "When heroes were fain to fight.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      46
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s47",
+     "stanza": 47,
+     "on": [
+      {
+       "t": "p",
+       "s": "Heimdallr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "\"Ölr ertu, Loki,",
+        "svá at þú ert örviti,",
+        "- hví né lezk-a-ðu, Loki? -",
+        "því at ofdrykkja",
+        "veldr alda hveim,",
+        "er sína mælgi né man-at.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Heimdallur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "\"Ölur ertu, Loki,",
+        "svo að þú ert örviti,",
+        "- hví né lezk-a-ðu, Loki? -",
+        "því að ofdrykja",
+        "veldur alda hveim,",
+        "er sína mælgi né man-at.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "Heimdall spake:",
+        "\"Drunk art thou, Loki, | and mad are thy deeds,",
+        "Why, Loki, leavst thou this not?",
+        "For drink beyond measure | will lead all men",
+        "No thought of their tongues to take.\"⟦47⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      47
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s48",
+     "stanza": 48,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "\"Þegi þú, Heimdallr,",
+        "þér var í árdaga",
+        "it ljóta líf of lagit;",
+        "örgu baki",
+        "þú munt æ vera",
+        "ok vaka vörðr goða.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "\"Þegi þú, Heimdallur,",
+        "þér var í árdaga",
+        "it ljóta líf of lagið;",
+        "örgu baki",
+        "þú munt æ vera",
+        "og vaka vörður goða.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "Loki spake:",
+        "\"Be silent, Heimdall! | in days long since",
+        "Was an evil fate for thee fixed;",
+        "With back held stiff | must thou ever stand,",
+        "As warder of heaven to watch.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      48
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s49",
+     "stanza": 49,
+     "on": [
+      {
+       "t": "p",
+       "s": "Skaði kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "\"Létt er þér, Loki;",
+        "mun-at-tu lengi svá",
+        "leika lausum hala,",
+        "því at þik á hjörvi",
+        "skulu ins hrímkalda magar",
+        "görnum binda goð.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Skaði kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "\"Létt er þér, Loki;",
+        "mun-at-tu lengi svo",
+        "leika lausum hala,",
+        "því að þig á hjörvi",
+        "skulu hins hrímkalda magar",
+        "görnum binda guð.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "Skathi spake:",
+        "\"Light art thou, Loki, | but longer thou mayst not",
+        "In freedom flourish thy tail;",
+        "On the rocks the gods bind thee | with bowels torn",
+        "Forth from thy frost-cold son.\"⟦49⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      49
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s50",
+     "stanza": 50,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "\"Veiztu, ef mik á hjörvi",
+        "skulu ins hrímkalda magar",
+        "görnum binda goð,",
+        "fyrstr ok efstr",
+        "var ek at fjörlagi,",
+        "þars vér á Þjaza þrifum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "\"Veistu, ef mig á hjörvi",
+        "skulu hins hrímkalda magar",
+        "görnum binda guð,",
+        "fyrstur og efstur",
+        "var eg að fjörlagi,",
+        "þars vér á Þjassa þrifum.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "Loki spake:",
+        "\"Though on rocks the gods bind me | with bowels torn",
+        "Forth from my frost-cold son,",
+        "I was first and last | at the deadly fight",
+        "There where Thjazi we caught.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      50
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s51",
+     "stanza": 51,
+     "on": [
+      {
+       "t": "p",
+       "s": "Skaði kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "\"Veiztu, ef fyrstr ok efstr",
+        "vartu at fjörlagi,",
+        "þá er ér á Þjaza þrifuð,",
+        "frá mínum véum",
+        "ok vöngum skulu",
+        "þér æ köld ráð koma.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Skaði kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "\"Veistu, ef fyrstur og efstur",
+        "vartu að fjörlagi,",
+        "þá er þér á Þjassa þrifuð,",
+        "frá mínum véum",
+        "og vöngum skulu",
+        "þér æ köld ráð koma.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "Skathi spake:",
+        "\"Wert thou first and last | at the deadly fight",
+        "There where Thjazi was caught,",
+        "From my dwellings and fields | shall ever come forth",
+        "A counsel cold for thee.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      51
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s52",
+     "stanza": 52,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "\"Léttari í málum",
+        "vartu við Laufeyjar son,",
+        "þá er þú létz mér á beð þinn boðit;",
+        "getit verðr oss slíks,",
+        "ef vér görva skulum",
+        "telja vömmin vár.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "\"Léttari í málum",
+        "vartu við Laufeyjar son,",
+        "þá er þú létz mér á beð þinn boðið;",
+        "getið verður oss slíks,",
+        "ef vér gerva skulum",
+        "telja vömmin vár.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "Loki spake:",
+        "\"More lightly thou spakest | with Laufey's son,",
+        "When thou badst me come to thy bed;",
+        "Such things must be known | if now we two",
+        "Shall seek our sins to tell.\"⟦52⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      52
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s53",
+     "stanza": 53,
+     "on": [
+      {
+       "t": "p",
+       "s": "þá gekk Sif fram ok byrlaði Loka í hrímkálki mjöð ok mælti:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "\"Heill ver þú nú, Loki,",
+        "ok tak við hrímkálki",
+        "fullum forns mjaðar,",
+        "heldr þú hana eina",
+        "látir með ása sonum",
+        "vammalausa vera.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "þá gekk Sif fram og byrlaði Loka í hrímkálki mjöð og mælti:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "\"Heill ver þú nú, Loki,",
+        "og tak við hrímkálki",
+        "fullum forns mjaðar,",
+        "heldur þú hana eina",
+        "látir með ása sonum",
+        "vammalausa vera.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "\"Hail to thee, Loki, | and take thou here",
+        "The crystal cup of old mead;",
+        "For me at least, | alone of the gods,",
+        "Blameless thou knowest to be.\"⟦53⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      53
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s54",
+     "stanza": 54,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hann tók við horni ok drakk af:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "\"Ein þú værir,",
+        "ef þú svá værir,",
+        "vör ok gröm at veri;",
+        "einn ek veit,",
+        "svá at ek vita þykkjumk,",
+        "hór ok af Hlórriða,",
+        "ok var þat sá inn lævísi Loki.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hann tók við horni og drakk af:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "\"Ein þú værir,",
+        "ef þú svo værir,",
+        "vör og gröm að veri;",
+        "einn eg veit,",
+        "svo að eg vita þykkjumk,",
+        "hór og af Hlórriða,",
+        "og var það sá hinn lævísi Loki.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "\"Alone thou wert | if truly thou wouldst",
+        "All men so shyly shun;",
+        "But one do I know | full well, methinks,",
+        "Who had thee from Hlorrithi's arms,—",
+        "(Loki the crafty in lies.)\"⟦54⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      54
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s55",
+     "stanza": 55,
+     "on": [
+      {
+       "t": "p",
+       "s": "Beyla kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "\"Fjöll öll skjalfa;",
+        "hygg ek á för vera",
+        "heiman Hlórriða;",
+        "han ræðr ró,",
+        "þeim er rægir hér",
+        "goð öll ok guma.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Beyla kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "\"Fjöll öll skjalfa;",
+        "hygg eg á för vera",
+        "heiman Hlórriða;",
+        "han ræður ró,",
+        "þeim er rægir hér",
+        "guð öll og guma.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "Beyla spake:",
+        "\"The mountains shake, | and surely I think",
+        "From his home comes Hlorrithi now;",
+        "He will silence the man | who is slandering here",
+        "Together both gods and men.\"⟦55⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      55
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s56",
+     "stanza": 56,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 56,
+       "l": [
+        "\"Þegi þú, Beyla,",
+        "þú ert Byggvis kvæn",
+        "ok meini blandinn mjök,",
+        "ókynjan meira",
+        "kom-a med ása sonum;",
+        "öll ertu, deigja, dritin.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 56,
+       "l": [
+        "\"Þegi þú, Beyla,",
+        "þú ert Byggvis kvæn",
+        "og meini blandinn mjög,",
+        "ókynjan meira",
+        "kom-a med ása sonum;",
+        "öll ertu, deigja, dritin.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 56,
+       "l": [
+        "Loki spake:",
+        "\"Be silent, Beyla! | thou art Byggvir's wife,",
+        "And deep art thou steeped in sin;",
+        "A greater shame | to the gods came ne'er,",
+        "Befouled thou art with thy filth.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      56
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s57",
+     "stanza": 57,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þá kom Þórr at ok kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 57,
+       "l": [
+        "\"Þegi þú, rög vættr,",
+        "þér skal minn þrúðhamarr,",
+        "Mjöllnir, mál fyrnema;",
+        "herðaklett",
+        "drep ek þér halsi af,",
+        "ok verðr þá þínu fjörvi of farit.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þá kom Þór að og kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 57,
+       "l": [
+        "\"Þegi þú, rög vættur,",
+        "þér skal minn þrúðhamar,",
+        "Mjöllnir, mál fyrnema;",
+        "herðaklett",
+        "drep eg þér halsi af,",
+        "og verður þá þínu fjörvi of farið.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Then came Thor forth, and spake:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 57,
+       "l": [
+        "\"Unmanly one, cease, | or the mighty hammer,",
+        "Mjollnir, shall close thy mouth;",
+        "Thy shoulder-cliff | shall I cleave from thy neck,",
+        "And so shall thy life be lost.\"⟦57⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      57
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s58",
+     "stanza": 58,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 58,
+       "l": [
+        "\"Jarðar burr",
+        "er hér nú inn kominn,",
+        "hví þrasir þú svá, Þórr?",
+        "En þá þorir þú ekki,",
+        "er þú skalt við ulfinn vega,",
+        "ok svelgr hann allan Sigföður.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 58,
+       "l": [
+        "\"Jarðar bur",
+        "er hér nú hinn kominn,",
+        "hví þrasir þú svo, Þór?",
+        "En þá þorir þú ekki,",
+        "er þú skalt við ulfinn vega,",
+        "og svelgur hann allan Sigföður.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 58,
+       "l": [
+        "Loki spake:",
+        "\"Lo, in has come | the son of Earth:",
+        "Why threaten so loudly, Thor?",
+        "Less fierce thou shalt go | to fight with the wolf",
+        "When he swallows Sigfather up.\"⟦58⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      58
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s59",
+     "stanza": 59,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 59,
+       "l": [
+        "\"Þegi þú, rög vættr,",
+        "þér skal minn þrúðhamarr,",
+        "Mjöllnir, mál fyrnema;",
+        "upp ek þér verp",
+        "ok á austrvega,",
+        "síðan þik manngi sér.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 59,
+       "l": [
+        "\"Þegi þú, rög vættur,",
+        "þér skal minn þrúðhamar,",
+        "Mjöllnir, mál fyrnema;",
+        "upp eg þér verp",
+        "og á austrvega,",
+        "síðan þig manngi sér.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 59,
+       "l": [
+        "Thor spake:",
+        "\"Unmanly one, cease, | or the mighty hammer,",
+        "Mjollnir, shall close thy mouth;",
+        "I shall hurl thee up | and out in the East,",
+        "Where men shall see thee no more.\"⟦59⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      59
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s60",
+     "stanza": 60,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 60,
+       "l": [
+        "\"Austrförum þínum",
+        "skaltu aldregi",
+        "segja seggjum frá,",
+        "síz í hanska þumlungi",
+        "hnúkðir þú einheri,",
+        "ok þóttisk-a þú þá Þórr vera.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 60,
+       "l": [
+        "\"Austrförum þínum",
+        "skaltu aldregi",
+        "segja seggjum frá,",
+        "síz í hanska þumlungi",
+        "hnúkðir þú einheri,",
+        "og þóttisk-a þú þá Þór vera.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 60,
+       "l": [
+        "Loki spake:",
+        "\"That thou hast fared | on the East-road forth;",
+        "To men shouldst thou say no more;",
+        "In the thumb of a glove | didst thou hide, thou great one,",
+        "And there forgot thou wast Thor.\"⟦60⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      60
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s61",
+     "stanza": 61,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 61,
+       "l": [
+        "\"Þegi þú, rög vættr,",
+        "þér skal minn þrúðhamarr,",
+        "Mjöllnir, mál fyrnema;",
+        "hendi inni hægri",
+        "drep ek þik Hrungnis bana,",
+        "svá at þér brotnar beina hvat.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 61,
+       "l": [
+        "\"Þegi þú, rög vættur,",
+        "þér skal minn þrúðhamar,",
+        "Mjöllnir, mál fyrnema;",
+        "hendi inni hægri",
+        "drep eg þig Hrungnis bana,",
+        "svo að þér brotnar beina hvað.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 61,
+       "l": [
+        "Thor spake:",
+        "\"Unmanly one, cease, | or the mighty hammer,",
+        "Mjollnir, shall close thy mouth;",
+        "My right hand shall smite thee | with Hrungnir's slayer,",
+        "Till all thy bones are broken.\"⟦61⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      61
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s62",
+     "stanza": 62,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 62,
+       "l": [
+        "\"Lifa ætla ek mér",
+        "langan aldr,",
+        "þóttú hætir hamri mér;",
+        "skarpar álar",
+        "þóttu þér Skrýmis vera,",
+        "ok máttir-a þú þá nesti ná,",
+        "ok svalzt þú þá hungri heill.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 62,
+       "l": [
+        "\"Lifa ætla eg mér",
+        "langan aldur,",
+        "þóttú hætir hamri mér;",
+        "skarpar álar",
+        "þóttu þér Skrýmis vera,",
+        "og máttir-a þú þá nesti ná,",
+        "og svalst þú þá hungri heill.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 62,
+       "l": [
+        "Loki spake:",
+        "\"A long time still | do I think to live,",
+        "Though thou threatenest thus with thy hammer;",
+        "Rough seemed the straps | of Skrymir's wallet,",
+        "When thy meat thou mightest not get,",
+        "(And faint from hunger didst feel.)\"⟦62⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      62
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s63",
+     "stanza": 63,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 63,
+       "l": [
+        "\"Þegi þú, rög vættr,",
+        "þér skal minn þrúðhamarr,",
+        "Mjöllnir, mál fyrnema;",
+        "Hrungnis bani",
+        "mun þér í hel koma",
+        "fyr nágrindr neðan.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 63,
+       "l": [
+        "\"Þegi þú, rög vættur,",
+        "þér skal minn þrúðhamar,",
+        "Mjöllnir, mál fyrnema;",
+        "Hrungnis bani",
+        "mun þér í hel koma",
+        "fyr nágrindur neðan.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 63,
+       "l": [
+        "Thor spake:",
+        "\"Unmanly one, cease, | or the mighty hammer,",
+        "Mjollnir, shall close thy mouth;",
+        "The slayer of Hrungnir | shall send thee to hell,",
+        "And down to the gate of death.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      63
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s64",
+     "stanza": 64,
+     "on": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 64,
+       "l": [
+        "\"Kvað ek fyr ásum,",
+        "kvað ek fyr ása sonum,",
+        "þats mik hvatti hugr,",
+        "en fyr þér einum",
+        "mun ek út ganga,",
+        "því at ek veit, at þú vegr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 64,
+       "l": [
+        "\"Kvað eg fyr ásum,",
+        "kvað eg fyr ása sonum,",
+        "þats mig hvatti hugur,",
+        "en fyr þér einum",
+        "mun eg út ganga,",
+        "því að eg veit, að þú vegur."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 64,
+       "l": [
+        "Loki spake:",
+        "\"I have said to the gods | and the sons of the gods",
+        "The things that whetted my thoughts;",
+        "But before thee alone | do I now go forth,",
+        "For thou fightest well, I ween."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      64
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-s65",
+     "stanza": 65,
+     "on": [
+      {
+       "t": "v",
+       "n": 65,
+       "l": [
+        "Öl gerðir þú, Ægir,",
+        "en þú aldri munt",
+        "síðan sumbl of gera;",
+        "eiga þín öll,",
+        "er hér inni er,",
+        "leiki yfir logi,",
+        "ok brenni þér á baki.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 65,
+       "l": [
+        "Öl gerðir þú, Ægir,",
+        "en þú aldrei munt",
+        "síðan sumbl of gera;",
+        "eiga þín öll,",
+        "er hér inni er,",
+        "leiki yfir logi,",
+        "og brenni þér á baki.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 65,
+       "l": [
+        "\"Ale hast thou brewed, | but, Ægir, now",
+        "Such feasts shalt thou make no more;",
+        "O'er all that thou hast | which is here within",
+        "Shall play the flickering flames,",
+        "(And thy back shall be burnt with fire.)\"⟦65⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      65
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "ls-p4",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "En eftir þetta falst Loki í Fránangrsforsi í lax líki. Þar tóku æsir hann. Hann var bundinn með þörmum sonar síns, Vála, en Narfi, sonr hans, varð at vargi. Skaði tók eitrorm ok festi upp yfir annlit Loka. Draup þar ór eitr. Sigyn, kona Loka, sat þar ok helt munnlaug undir eitrið. En er munnlaugin var full, bar hon út eitrið, en meðan draup eitrit á Loka. Þá kippðist hann svá hart við, at þaðan af skalf jörð öll. Þat eru nú kallaðir landsskjálftar."
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "En eftir þetta falst Loki í Fránangrsforsi í lax líki. Þar tóku æsir hann. Hann var bundinn með þörmum sonar síns, Vála, en Narfi, sonur hans, varð að vargi. Skaði tók eiturorm og festi upp yfir annlið Loka. Draup þar úr eitur. Sigyn, kona Loka, sat þar og hélt munnlaug undir eitrið. En er munnlaugin var full, bar hún út eitrið, en meðan draup eitrið á Loka. Þá kippðist hann svo hart við, að þaðan af skalf jörð öll. Það eru nú kallaðir landsskjálftar."
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p16⟧And after that Loki hid himself in Franang's⟦p17⟧ waterfall in the guise of a salmon, and there the gods took him. He was bound with the bowels of his son Vali⟦p18⟧, but his son Narfi⟦p18⟧ was changed to a wolf. Skathi took a poison-snake and fastened it up over Loki's face, and the poison dropped thereon. Sigyn⟦p19⟧, Loki's wife, sat there and held a shell under the poison, but when the shell was full she bore away the poison, and meanwhile the poison dropped on Loki. Then he struggled so hard that the whole earth shook therewith; and now that is called an earthquake.⟦p20⟧"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "p1",
+     "s": "Prose."
+    },
+    {
+     "n": "p2",
+     "s": "Ægir: the sea-god; Snorri gives Hler as another of his names, but he is not elsewhere called Gymir, which is the name of the giant, Gerth's father, in the Skirnismol. On Ægir cf. Grimnismol, 45, and Hymiskvitha, 1."
+    },
+    {
+     "n": "p3",
+     "s": "Frigg: though Othin's wife is often mentioned, she plays only a minor part in the Eddic poems; cf. Voluspo, 34, Vafthruthnismol, 1, and Grimnismol, introductory prose."
+    },
+    {
+     "n": "p4",
+     "s": "Thor: the compiler is apparently a trifle confused as to Thor's movements; the \"journey to the East\" here mentioned cannot be the one described in the Hymiskvitha, nor yet the one narrated by Snorri, as Loki was with Thor throughout that expedition. He probably means no more than that Thor was off killing giants."
+    },
+    {
+     "n": "p5",
+     "s": "Sif: concerning Thor's wife the chief incident is that Loki cut off her hair, and, at the command of the wrathful Thor, was compelled to have the dwarfs fashion her a new supply of hair out of gold; cf. Harbarthsljoth, 48."
+    },
+    {
+     "n": "p6",
+     "s": "Bragi: the god of poetry; cf. Grimnismol, 44 and note."
+    },
+    {
+     "n": "p7",
+     "s": "Ithun: the goddess of youth; cf. note on Skirnismol, 19. Ithun is not mentioned by name in any other of the Eddic poems, but Snorri tells in detail how the giant Thjazi stole her and her apples, explaining the reference in Harbarthsljoth, 19 (q. v.)."
+    },
+    {
+     "n": "p8",
+     "s": "Tyr: the god of battle; cf. Hymiskvitha, 4, and (concerning his dealings with the wolf Fenrir) Voluspo, 39, note."
+    },
+    {
+     "n": "p9",
+     "s": "Njorth: the chief of the Wanes, and father of Freyr and Freyja; cf. (concerning the whole family) Skirnismol, introductory prose and note, also Voluspo, 21 and note."
+    },
+    {
+     "n": "p10",
+     "s": "Skathi: Njorth's wife was the daughter of the giant Thjazi; cf. Harbarthsljoth, 19, note, and Grimnismol, 11."
+    },
+    {
+     "n": "p11",
+     "s": "Vithar: the silent god, the son of Othin who avenged his father by slaying the wolf Fenrir; cf. Voluspo, 54, Vafthruthnismol, 51, and Grimnismol, 17."
+    },
+    {
+     "n": "p12",
+     "s": "Loki: the mischief-making fire-god; in addition to the many references to his career in the Lokasenna, cf. particularly Voluspo, 32 and 35, and notes."
+    },
+    {
+     "n": "p13",
+     "s": "Byggvir and Beyla: not mentioned elsewhere in the poems; Freyr's conspicuous servant is Skirnir, hero of the Skirnismol."
+    },
+    {
+     "n": "p14",
+     "s": "Fimafeng (\"The Swift Handler\") and Eldir (\"The Man of the Fire\"): mentioned only in connection with this incident."
+    },
+    {
+     "n": "p15",
+     "s": "Glittering gold: Ægir's use of gold to light his hall, which was often thought of as under the sea, was responsible for the phrase \"flame of the flood,\" and sundry kindred phrases, meaning \"gold.\""
+    },
+    {
+     "n": "6",
+     "s": "Lopt: like Lothur (cf. Voluspo, 18) another name for Loki; cf. Hyndluljoth, 43, and Svipdagsmol, 42."
+    },
+    {
+     "n": "7",
+     "s": "In the manuscript this stanza begins with a small letter, and Heinzel unites it with stanza 6."
+    },
+    {
+     "n": "8",
+     "s": "Bragi: cf. note on introductory prose. Why Loki taunts him with cowardice (stanzas 11-13-15) is not clear, for poetry, of which Bragi was the patron, was generally associated in the Norse mind with peculiar valor, and most of the skaldic poets were likewise noted fighters."
+    },
+    {
+     "n": "9",
+     "s": "There exists no account of any incident in which Othin and Loki thus swore blood-brotherhood, but they were so often allied in enterprises that the idea is wholly reasonable. The common process of \"mingling blood\" was carried out quite literally, and the promise of which Loki speaks is characteristic of those which, in the sagas, often accompanied the ceremony; cf. Brot af Sigurtharkvithu, 18 and note."
+    },
+    {
+     "n": "10",
+     "s": "In stanzas 10-31 the manuscript has nothing to indicate the identity of the several speakers, but these are uniformly clear enough through the context. Vithar: cf. note on introductory prose. The wolf's father: Loki; cf. Voluspo, 39 and note."
+    },
+    {
+     "n": "13",
+     "s": "Sijmons makes one line of lines 4-5 by cutting out a part of each; Finnur Jonsson rejects 5 as spurious."
+    },
+    {
+     "n": "14",
+     "s": "The text of line 4 is somewhat obscure, and has been variously emended, one often adopted suggestion making the line read, \"Little is that for thy lies.\""
+    },
+    {
+     "n": "15",
+     "s": "Adorner of benches: this epithet presumably implies that Bragi is not only slothful, but also effeminate, for a very similar word, \"pride of the benches,\" means a bride."
+    },
+    {
+     "n": "16",
+     "s": "Ithun: Bragi's wife; cf. note on introductory prose. The goddesses who, finding that their husbands are getting the worst of it, take up the cudgels with Loki, all find themselves confronted with undeniable facts in their own careers; cf. stanzas 26 (Frigg), 52 (Skathi) and 54 (Sif). Gefjun and Freyja are silenced in similar fashion. Wish-son: adopted son; Loki was the son of the giant Farbauti and the giantess Laufey, and hence was not of the race of the gods, but had been virtually adopted by Othin, who subsequently had good reason to regret it."
+    },
+    {
+     "n": "17",
+     "s": "We do not even know who Ithun's brother was, much less who slew him."
+    },
+    {
+     "n": "19",
+     "s": "Gefjun: a goddess, not elsewhere mentioned in the poems, who, according to Snorri, was served by the women who died maidens. Beyond this nothing is known of her. Lines 3-4 in the manuscript are puzzling, and have been freely emended."
+    },
+    {
+     "n": "20",
+     "s": "Nothing is known of the incident here mentioned. There is a good deal of confusion as to various of the gods and goddesses, and it has been suggested that Gefjun is really Frigg under another name, with a little of Freyja—whose attributes were frequently confused with Frigg's—thrown in. Certainly Othin's answer (stanza 21, lines 3-4) fits Frigg perfectly, for she shared his knowledge of the future, whereas it has no relation to anything known of Gefjun. As for the necklace (line 3), it may be the Brisings' necklace, which appears in the Thrymskvitha as Freyja's, but which, in some mythological writings, is assigned to Frigg."
+    },
+    {
+     "n": "21",
+     "s": "Snorri quotes line 1; cf. note on stanza 29."
+    },
+    {
+     "n": "23",
+     "s": "There is no other reference to Loki's having spent eight years underground, or to his cow-milking. On one occasion, however, he did bear offspring. A giant had undertaken to build the gods a fortress, his reward being Freyja and the sun and moon, provided the work was done by a given time. His sole helper was his horse, Svathilfari. The work being nearly done, and the gods fearing to lose Freyja and the sun and moon, Loki turned himself into a mare, and so effectually distracted Svathilfari from his task that shortly afterwards Loki gave birth to Othin's eight-legged horse, Sleipnir. In such contests of abuse a man was not infrequently taunted with having borne children; cf. Helgakvitha Hundingsbana I, 39-45. One or two of the last three lines may be spurious."
+    },
+    {
+     "n": "24",
+     "s": "Samsey: perhaps the Danish island of Samsö. Othin was the god of magic, but there is no other reference to his ever having disguised himself as a witch."
+    },
+    {
+     "n": "25",
+     "s": "Frigg: Othin's wife; cf. note to introductory prose."
+    },
+    {
+     "n": "26",
+     "s": "Fjorgyn: Othin; cf. Voluspo, 56 and note. Vili and Ve: Othin's brothers, who appear merely as, with Othin, the sons of Bur and Bestla; cf. Voluspo, 4. The Ynglingasaga says that, during one of Othin's protracted absences, his two brothers took Frigg as their mistress. Vithrir: another name for Othin."
+    },
+    {
+     "n": "27",
+     "s": "On the death of Baldr, slain through Loki's cunning by the blind Hoth, cf. Voluspo, 32 and note."
+    },
+    {
+     "n": "29",
+     "s": "Freyja: daughter of Njorth and sister of Freyr; cf. note on introductory prose. Snorri, in speaking of Frigg's knowledge of the future, makes a stanza out of Lokasenna, 21, 1; 47, 2; 29, 3-4, thus: \"Mad art thou, Loki,  and little of wit, / Why, Loki, leavst thou this not? / The fate of all  does Frigg know well, / Though herself she says it not.\""
+    },
+    {
+     "n": "30",
+     "s": "According to Snorri, Freyja was a model of fidelity to her husband, Oth."
+    },
+    {
+     "n": "32",
+     "s": "Before each of stanzas 32-42 the manuscript indicates the speaker, through the initial letter of the name written in the margin. Thy brother: Freyr; there is no other indication that such a relation existed between these two, but they themselves were the product of such a union; cf. stanza 36 and note."
+    },
+    {
+     "n": "33",
+     "s": "Njorth: father of Freyr and Freyja, and given by the Wanes as a hostage, in exchange for Hönir, at the close of the first war; cf. Voluspo, 21 and note, also Skirnismol, introductory prose and note. Babes: cf. stanza 23 and note. Bugge suggests that this clause may have been a late insertion."
+    },
+    {
+     "n": "34",
+     "s": "Daughters of Hymir: we have no clue to who these were, though Hymir is doubtless the frost-giant of the Hymiskvitha (q.v.). Loki's point is that Njorth is not a god, but the product of an inferior race (the Wanes)."
+    },
+    {
+     "n": "35",
+     "s": "The son: Freyr."
+    },
+    {
+     "n": "36",
+     "s": "Thy sister: the Ynglingasaga supports this story of Njorth's having had two children by his sister before he came among the gods. Snorri, on the other hand, specifically says that Freyr and Freyja were born after Njorth came to the gods."
+    },
+    {
+     "n": "37",
+     "s": "Tyr: the god of battle; cf. notes on Hymiskvitha, 4, and Voluspo, 39. Freyr; concerning his noble qualities cf. Skirnismol, introductory prose and note."
+    },
+    {
+     "n": "38",
+     "s": "Snorri mentiones Tyr's incompetence as a peacemaker. Fenrir: the wolf, Loki's son; cf. Voluspo, 39."
+    },
+    {
+     "n": "39",
+     "s": "Hrothvitnir (\"The Mighty Wolf\"): Fenrir, who awaits in chains the final battle and death at the hands of Vithar. The manuscript has a metrical error in line 3, which has led to various emendations, all with much the same meaning."
+    },
+    {
+     "n": "40",
+     "s": "Thy wife: there is no other reference to Tyr's wife, nor do we know who was the son in question."
+    },
+    {
+     "n": "41",
+     "s": "The mouth of the river: according to Snorri, the chained Fenrir \"roars horribly, and the slaver runs from his mouth, and makes the river called Vam; he lies there till the doom of the gods.\" Freyr's threat is actually carried out; cf. concluding prose."
+    },
+    {
+     "n": "42",
+     "s": "The daughter of Gymir: Gerth, heroine of the Skirnismol, which gives the details of Freyr's loss of his sword. Muspell's sons: the name Muspell is not used elsewhere in the poems; Snorri uses it frequently, but only in this same phrase, \"Muspell's sons.\" They are the dwellers in the fire-world, Muspellsheim, led by Surt against the gods in the last battle; cf. Voluspo, 47 and 52 and notes. Myrkwood: here the dark forest bounding the fire-world; in the Atlakvitha (stanza 3) the name is used of another boundary forest."
+    },
+    {
+     "n": "43",
+     "s": "Byggvir: one of Freyr's two servants; cf. introductory prose. Ingunar-Freyr: the name is not used elsewhere in the poems, or by Snorri; it may be the genitive of a woman's name, Ingun, the unknown sister of Njorth who was Freyr's mother (cf. stanza 36), or a corruption of the name Ingw, used for Freyr (Fro) in old German mythology."
+    },
+    {
+     "n": "44",
+     "s": "Beginning with this stanza, the names of the speakers are lacking in the manuscript. The mill: i.e., at slaves' tasks."
+    },
+    {
+     "n": "45",
+     "s": "Nothing further is known of either Byggvir's swiftness or his cowardice. Hropt: Othin."
+    },
+    {
+     "n": "47",
+     "s": "Heimdall: besides being the watchman of the gods (cf. Voluspo, 27), he appears also as the god of light (cf. Thrymskvitha, 14), and possibly also as a complex cultural deity in the Rigsthula. He was a son of Othin, born of nine sisters; cf. Hyndluljoth, 37-40. In the last battle he and Loki slay one another. Line 2 is quoted by Snorri; cf. stanza 29, note."
+    },
+    {
+     "n": "49",
+     "s": "Skathi: the wife of Njorth, and daughter of the giant Thjazi, concerning whose death cf. Harbarthsljoth, 19, note. Bowels, etc.: according to the prose note at the end of the Lokasenna, the gods bound Loki with the bowels of his son Vali, and changed his other son, Narfi, into a wolf. Snorri turns the story about, Vali being the wolf, who tears his brother to pieces, the gods then using Narfi's intestines to bind Loki. Narfi—and presumably Vali—were the sons of Loki and his wife, Sigyn. They appear only in this episode, though Narfi (or Nari) is named by Snorri in his list of Loki's children. Cf. concluding prose, and note."
+    },
+    {
+     "n": "52",
+     "s": "Laufey's son: Loki; not much is known of his parents beyond their names. His father was the giant Farbauti, his mother Laufey, sometimes called Nal. There is an elaborate but far-fetched hypothesis explaining these three on the basis of a nature-myth. There is no other reference to such a relation between Skathi and Loki as he here suggests."
+    },
+    {
+     "n": "53",
+     "s": "Sif: Thor's wife; cf. Harbarthsljoth, 48, where her infidelity is again mentioned. The manuscript omits the proper name from the preceding prose, and a few editors have, obviously in error, attributed the speech to Beyla."
+    },
+    {
+     "n": "54",
+     "s": "Hlorrithi: Thor. Line 5 is probably spurious."
+    },
+    {
+     "n": "55",
+     "s": "Beyla: Freyr's servant, wife of Byggvir; cf. introductory prose and note."
+    },
+    {
+     "n": "57",
+     "s": "Mjollnir: concerning Thor's famous hammer see particularly Thrymskvitha, 1 and note. Shoulder-cliff: head; concerning the use of such diction in the Edda, cf. introductory note to Hymiskvitha. The manuscript indicates line 3 as the beginning of a stanza, but is apparently a scribal error."
+    },
+    {
+     "n": "58",
+     "s": "Son of Earth: Thor, son of Othin and Jorth (Earth). The manuscript omits the word \"son,\" but all editors have agreed in supplying it. The wolf: Fenrir, Loki's son, who slays Othin (Sigfather: \"Father of Victory\") in the final battle. Thor, according to Snorri and to the Voluspo, 56, fights with Mithgarthsorm and not with Fenrir, who is killed by Vithar."
+    },
+    {
+     "n": "59",
+     "s": "Lines 1-2 are abbreviated in the manuscript, as also in stanzas 61 and 63."
+    },
+    {
+     "n": "60",
+     "s": "Loki's taunt that Thor hid in the thumb of Skrymir's glove is similar to that of Othin, Harbarthsljoth, 26, in the note to which the story is outlined. Line 4 is identical with line 3 of Harbarthsljoth, 26."
+    },
+    {
+     "n": "61",
+     "s": "Hrungnir's slayer: the hammer; the story of how Thor slew this stone-headed giant is indicated in Harbarthsljoth, 14-15, and outlined in the note to stanza 14 of that poem."
+    },
+    {
+     "n": "62",
+     "s": "On the day following the adventure of the glove, Thor, Loki and Thor's servants proceed on their way in company with Skrymir, who puts all their food in his wallet. At evening Skrymir goes to sleep, and Thor tries to get at the food, but cannot loosen the straps of the wallet. In a rage he smites Skrymir three times on the head with his hammer, but the giant—who, it subsequently appears, deftly dodges the blows—is totally undisturbed. Line 5 may well be spurious."
+    },
+    {
+     "n": "65",
+     "s": "The flames: the fire that consumes the world on the last day; cf. Voluspo, 57. Line 5 may be spurious."
+    },
+    {
+     "n": "p16",
+     "s": "Prose: Snorri tells the same story, with minor differences, but makes it the consequence of Loki's part in the slaying of Baldr, which undoubtedly represents the correct tradition. The compiler of the poems either was confused or thought the incident was useful as indicating what finally happened to Loki. Possibly he did not mean to imply that Loki's fate was brought upon him by his abuse of the gods, but simply tried to round out the story."
+    },
+    {
+     "n": "p17",
+     "s": "Franang: \"Gleaming Water.\""
+    },
+    {
+     "n": "p18",
+     "s": "Vali and Narfi: cf. stanza 49 and note."
+    },
+    {
+     "n": "p19",
+     "s": "Sigyn: cf. Voluspo, 35, the only other place where she is mentioned in the poems."
+    },
+    {
+     "n": "p20",
+     "s": "Snorri omits the naive note about earthquakes, his narrative ending with the words, \"And there he lies till the destruction of the gods.\""
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "The Lokasenna is found only in Regius, where it follows the Hymiskvitha; Snorri quotes four lines of it, grouped together as a single stanza.",
+    "The poem is one of the most vigorous of the entire collection, and seems to have been preserved in exceptionally good condition. The exchange or contest of insults was dear to the Norse heart, and the Lokasenna consists chiefly of Loki's taunts to the assembled gods and goddesses, and their largely ineffectual attempts to talk back to him. The author was evidently well versed in mythological lore, and the poem is full of references to incidents not elsewhere recorded. As to its date and origin there is the usual dispute, but the latter part of the tenth century and Iceland seem the best guesses.",
+    "The prose notes are long and of unusual interest. The introductory one links the poem closely to the Hymiskvitha, much as the Reginsmol, Fafnismol and Sigrdrifumol are linked together; the others fill in the narrative gaps in the dialogue—very like stage directions,—and provide a conclusion by relating Loki's punishment, which, presumably, is here connected with the wrong incident. It is likely that often when the poem was recited during the two centuries or so before it was committed to writing, the speaker inserted some such explanatory comments, and the compiler of the collection followed this example by adding such explanations as he thought necessary. The Lokasenna is certainly much older than the Hymiskvitha, the connection between them being purely one of subject-matter; and the twelfth-century compiler evidently knew a good deal less about mythology than the author whose work he was annotating."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Lokasenna)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Lokasenna"
+ }
+}

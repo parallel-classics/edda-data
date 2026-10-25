@@ -1,0 +1,932 @@
+{
+ "part": "poetic",
+ "poem": "grg",
+ "title": "Grógaldr",
+ "group": "myth",
+ "chapters": [
+  {
+   "num": 16,
+   "key": "grg",
+   "title": "Grógaldr",
+   "subtitle": null,
+   "group": "myth",
+   "rows": [
+    {
+     "id": "grg-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sonr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Vaki þú, Gróa,",
+        "vaki þú, góð kona,",
+        "vek ek þik dauðra dura,",
+        "ef þú þat mant,",
+        "at þú þinn mög bæðir",
+        "til kumbldysjar koma.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sonur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Vaki þú, Gróa,",
+        "vaki þú, góð kona,",
+        "veg eg þig dauðra dura,",
+        "ef þú það mant,",
+        "að þú þinn mög bæðir",
+        "til kumbldysjar koma.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Svipdag spake:",
+        "\"Wake thee, Groa! | wake, mother good!",
+        "At the doors of the dead I call thee;",
+        "Thy son, bethink thee, | thou badst to seek",
+        "Thy help at the hill of death.\"⟦1⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grg-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gróa kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Hvat er nú annt",
+        "mínum eingasyni,",
+        "hverju ertu nú bölvi borinn,",
+        "er þú þá móður kallar,",
+        "er til moldar er komin",
+        "ok ór ljóðheimum liðin?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gróa kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Hvað er nú annt",
+        "mínum eingasuni,",
+        "hverju ertu nú bölvi borinn,",
+        "er þú þá móður kallar,",
+        "er til moldar er komin",
+        "og úr ljóðheimum liðin?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Groa spake:",
+        "\"What evil vexes | mine only son,",
+        "What baleful fate hast thou found,",
+        "That thou callest thy mother, | who lies in the mould,",
+        "And the world of the living has left?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grg-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sonr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Ljótu leikborði",
+        "skaut fyr mik in lævísa kona,",
+        "sú er faðmaði minn föður;",
+        "þar bað hon mik koma,",
+        "er kvæmtki veit,",
+        "móti Menglöðu.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sonur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Ljótu leikborði",
+        "skaut fyr mig hin lævísa kona,",
+        "sú er faðmaði minn föður;",
+        "þar bað hún mig koma,",
+        "er kvæmtki veit,",
+        "móti Menglöðu.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Svipdag spake:",
+        "\"The woman false | whom my father embraced",
+        "Has brought me a baleful game;",
+        "For she bade me go forth | where none may fare,",
+        "And Mengloth the maid to seek.\"⟦3⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grg-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gróa kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Löng er för,",
+        "langir ro farvegar,",
+        "langir ro manna munir,",
+        "ef þat verðr,",
+        "at þú þinn vilja bíðr,",
+        "ok skeikar þá Skuld at sköpum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gróa kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Löng er för,",
+        "langir ro farvegar,",
+        "langir ro manna munir,",
+        "ef það verður,",
+        "að þú þinn vilja bíður,",
+        "og skeikar þá Skuld að sköpum.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Groa spake:",
+        "\"Long is the way, | long must thou wander,",
+        "But long is love as well;",
+        "Thou mayst find, perchance, | what thou fain wouldst have,",
+        "If the fates their favor will give.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grg-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sonr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Galdra þú mér gal,",
+        "þá er góðir eru,",
+        "bjarg þú, móðir, megi;",
+        "á vegum allr",
+        "hygg ek, at ek verða muna,",
+        "þykkjumk ek til ungr afi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sonur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Galdra þú mér gal,",
+        "þá er góðir eru,",
+        "bjarg þú, móðir, megi;",
+        "á vegum allur",
+        "hygg eg, að eg verða muna,",
+        "þykkjumk eg til ungur afi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Svipdag spake:",
+        "\"Charms full good | then chant to me, mother,",
+        "And seek thy son to guard;",
+        "For death do I fear | on the way I shall fare,",
+        "And in years am I young, methinks.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grg-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gróa kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Þann gel ek þér fyrstan,",
+        "- þann kveða fjölnýtan,",
+        "þann gól Rindi Rani, -",
+        "at þú of öxl skjótir,",
+        "því er þér atalt þykkir;",
+        "sjalfr leið þú sjalfan þik."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gróa kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Þann gel eg þér fyrstan,",
+        "- þann kveða fjölnýtan,",
+        "þann gól Rindi Rani, -",
+        "að þú of öxl skjótir,",
+        "því er þér atalt þykir;",
+        "sjalfur leið þú sjálfan þig."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Groa spake:",
+        "\"Then first I will chant thee | the charm oft-tried,",
+        "That Rani taught to Rind;",
+        "From the shoulder whate'er | mislikes thee shake,",
+        "For helper thyself shalt thou have.⟦6⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grg-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Þann gel ek þér annan,",
+        "ef þú árna skalt",
+        "viljalauss á vegum,",
+        "Urðar lokur",
+        "haldi þér öllum megum,",
+        "er þú á sinnum sér."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Þann gel eg þér annan,",
+        "ef þú árna skalt",
+        "viljalaus á vegum,",
+        "Urðar lokur",
+        "Haldi þér öllum megum,",
+        "er þú á sinnum sér."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Then next I will chant thee, | if needs thou must travel,",
+        "And wander a purposeless way:",
+        "The bolts of Urth | shall on every side",
+        "Be thy guards on the road thou goest.⟦7⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grg-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Þann gel ek þér inn þriðja,",
+        "ef þér þjóðáar",
+        "falla at fjörlotum,",
+        "Horn ok Ruðr",
+        "snúisk til heljar meðan,",
+        "en þverri æ fyr þér."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Þann gel eg þér hinn þriðja,",
+        "ef þér þjóðáar",
+        "falla að fjörlotum,",
+        "Horn og Ruður",
+        "snúist til heljar meðan,",
+        "en þverri æ fyr þér."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Then third I will chant thee, | if threatening streams",
+        "The danger of death shall bring:",
+        "Yet to Hel shall turn | both Horn and Ruth,",
+        "And before thee the waters shall fail.⟦8⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grg-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Þann gel ek þér inn fjórða,",
+        "ef þik fjándr standa",
+        "görvir á galgvegi,",
+        "hugr þeim hverfi",
+        "til handa þér,",
+        "ok snúisk þeim til sátta sefi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Þann gel eg þér hinn fjórða,",
+        "ef þig fjándur standa",
+        "görvir á galgvegi,",
+        "hugur þeim hverfi",
+        "til handa þér,",
+        "og snúist þeim til sátta sefi."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Then fourth I will chant thee, | if come thy foes",
+        "On the gallows-way against thee:",
+        "Into thine hands | shall their hearts be given,",
+        "And peace shall the warriors wish."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grg-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Þann gel ek þér inn fimmta,",
+        "ef þér fjöturr verðr",
+        "borinn at boglimum,",
+        "leysigaldr læt ek",
+        "þér fyr legg of kveðinn,",
+        "ok stökkr þá láss af limum,",
+        "en af fótum fjöturr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Þann gel eg þér hinn fimmta,",
+        "ef þér fjötur verður",
+        "borinn að boglimum,",
+        "leysigaldur læt eg",
+        "þér fyr legg of kveðinn,",
+        "og stökkur þá láss af limum,",
+        "en af fótum fjötur."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Then fifth I will chant thee, | if fetters perchance",
+        "Shall bind thy bending limbs:",
+        "O'er thy thighs do I chant | a loosening-charm,",
+        "And the lock is burst from the limbs,",
+        "And the fetters fall from the feet.⟦10⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grg-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Þann gel ek þér inn sétta,",
+        "ef þú á sjó kemr",
+        "meira en menn viti,",
+        "logn ok lögr",
+        "gangi þér í lúðr saman",
+        "ok léi þér æ friðdrjúgrar farar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Þann gel eg þér hinn sjötta,",
+        "ef þú á sjó kemur",
+        "meira en menn viti,",
+        "logn og lögur",
+        "gangi þér í lúður saman",
+        "og léi þér æ friðdrjúgrar farar."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Then sixth I will chant thee, | if storms on the sea",
+        "Have might unknown to man:",
+        "Yet never shall wind | or wave do harm,",
+        "And calm is the course of thy boat."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grg-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Þann gel ek þér inn sjaunda,",
+        "ef þik sækja kemr",
+        "frost á fjalli háu,",
+        "hræva kulði",
+        "megi-t þínu holdi fara,",
+        "ok haldisk æ lík at liðum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Þann gel eg þér hinn sjöunda,",
+        "ef þig sækja kemur",
+        "frost á fjalli háu,",
+        "hræva kuldi",
+        "megi-t þínu holdi fara,",
+        "og haldist æ lík að liðum."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Then seventh I chant thee, | if frost shall seek",
+        "To kill thee on lofty crags:",
+        "The fatal cold | shall not grip thy flesh,",
+        "And whole thy body shall be."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grg-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Þann gel ek þér inn átta,",
+        "ef þik úti nemr",
+        "nótt á niflvegi,",
+        "at því firr megi",
+        "þér til meins gera",
+        "kristin dauð kona."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Þann gel eg þér hinn átta,",
+        "ef þig úti nemur",
+        "nótt á niflvegi,",
+        "að því fir megi",
+        "þér til meins gera",
+        "kristin dauð kona."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Then eighth will I chant thee, | if ever by night",
+        "Thou shalt wander on murky ways:",
+        "Yet never the curse | of a Christian woman",
+        "From the dead shall do thee harm.⟦13⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grg-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Þann gel ek þér inn níunda,",
+        "ef þú við inn naddgöfga",
+        "orðum skiptir jötun,",
+        "máls ok mannvits",
+        "sé þér á minni ok hjarta",
+        "gnóga of gefit."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Þann gel eg þér hinn níunda,",
+        "ef þú við hinn naddgöfga",
+        "orðum skiptir jötun,",
+        "máls og manvits",
+        "sé þér á minni og hjarta",
+        "gnóga of gefið."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Then ninth will I chant thee, | if needs thou must strive",
+        "With a warlike giant in words:",
+        "Thy heart good store | of wit shall have,",
+        "And thy mouth of words full wise."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grg-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Far þú nú æva,",
+        "þar er forað þykkir,",
+        "ok standi-t þér mein fyr munum;",
+        "á jarðföstum steini",
+        "stóð ek innan dura,",
+        "meðan ek þér galdra gól."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Far þú nú æva,",
+        "þar er forað þykir,",
+        "og standi-t þér mein fyr munum;",
+        "á jarðföstum steini",
+        "stóð eg innan dura,",
+        "meðan eg þér galdra gól."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Now fare on the way | where danger waits,",
+        "Let evils not lessen thy love!",
+        "I have stood at the door | of the earth-fixed stones,",
+        "The while I chanted thee charms."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      15
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "grg-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Móður orð",
+        "ber þú, mögr, heðan",
+        "ok lát þér í brjósti búa;",
+        "iðgnóga heill",
+        "skaltu of aldr hafa,",
+        "meðan þú mín orð of mant.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Móður orð",
+        "ber þú, mögur, héðan",
+        "og lát þér í brjósti búa;",
+        "iðgnóga heill",
+        "skaltu of aldur hafa,",
+        "meðan þú mín orð of mant.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Bear hence, my son, | what thy mother hath said,",
+        "And let it live in thy breast;",
+        "Thine ever shall be | the best of fortune,",
+        "So long as my words shall last.\"⟦16⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      16
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "1",
+     "s": "Svipdag (\"Swift Day\"): the names of the speakers are lacking in the manuscripts."
+    },
+    {
+     "n": "3",
+     "s": "The woman: Svipdag's stepmother, who is responsible for his search for Mengloth (\"Necklace-Glad\"). This name has suggested that Mengloth is really Frigg, possessor of the famous Brisings' necklace, or else Freyja (cf. Lokasenna, 20, note)."
+    },
+    {
+     "n": "6",
+     "s": "For this catalogue of charms (stanzas 6-14) cf. the Ljothatal (Hovamol, 147-165). Rani and Rind: the manuscripts have these words in inverse relation; I have followed Neckel's emendation. Rind was the giantess who became the mother of Vali, Othin's son, the one-night-old avenger of Baldr (cf. Voluspo, 33-34, and Baldrs Draumar, 11 and note). Rani is presumably Othin, who, according to a skaldic poem, won Rind by magic."
+    },
+    {
+     "n": "7",
+     "s": "Urth: one of the three Norns, or Fates; cf. Voluspo, 20."
+    },
+    {
+     "n": "8",
+     "s": "Horn and Ruth: these two rivers, here used merely to symbolize all dangerous streams, are not included in the catalogue of rivers given in Grimnismol, 27-29, for which reason some editors have changed the names to Hron and Hrith."
+    },
+    {
+     "n": "10",
+     "s": "This stanza is a close parallel to Hovamol, 150, and the fifth line may well be an interpolation from line 4 of that stanza."
+    },
+    {
+     "n": "13",
+     "s": "A dead Christian woman: this passage has distressed many editors, who have sought to emend the text so as to make it mean simply \"a dead witch.\" The fact seems to be, however, that this particular charm was composed at a time when Christians were regarded by all conservative pagans as emissaries of darkness. A dead woman's curse would naturally be more potent, whether she was Christian or otherwise, than a living one's. Presumably this charm is much older than the poem in which it here stands."
+    },
+    {
+     "n": "16",
+     "s": "At this point Groa's song ends, and Svipdag, thus fortified, goes to seek Mengloth. All the link that is needed between the poems is approximately this: \"Then Svipdag searched long for Mengloth, and at last he came to a great house set all about with flames. And before the house there was a giant.\""
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "The two poems, Grougaldr (Groa's Spell) and Fjolsvinnsmol (the Ballad of Fjolsvith), which many editors have, very wisely, united under the single title of Svipdagsmol, are found only in paper manuscripts, none of them antedating the seventeenth century. Everything points to a relatively late origin for the poems: their extensive use of \"kennings\" or poetical circumlocutions, their romantic spirit, quite foreign to the character of the unquestionably older poems, the absence of any reference to them in the earlier documents, the frequent errors in mythology, and, finally, the fact that the poems appear to have been preserved in unusually good condition. Whether or not a connecting link of narrative verse joining the two parts has been lost is an open question; on the whole it seems likely that the story was sufficiently well known so that the reciter of the poem (or poems) merely filled in the gap with a brief prose summary in pretty much his own words. The general relationship between dialogue and narrative in the Eddic poems is discussed in the introductory note to the Grimnismol, in connection with the use of prose links.",
+    "The love story of Svipdag and Mengloth is not referred to elsewhere in the Poetic Edda, nor does Snorri mention it; however, Groa, who here appears as Svipdag's mother, is spoken of by Snorri as a wise woman, the wife of Orvandil, who helps Thor with her magic charms. On the other hand, the essence of the story, the hero's winning of a bride ringed about by flames, is strongly suggestive of parts of the Sigurth-Brynhild traditions. Whether or not it is to be regarded as a nature or solar myth depends entirely on one's view of the whole \"solar myth\" school of criticism, not so highly esteemed today as formerly; such an interpretation is certainly not necessary to explain what is, under any circumstances, a very charming romance told, in the main, with dramatic effectiveness.",
+    "In later years the story of Svipdag and Mengloth became popular throughout the North, and was made the subject of many Danish and Swedish as well as Norwegian ballads. These have greatly assisted in the reconstruction of the outlines of the narrative surrounding the dialogue poems here given."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Grógaldr)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Svipdagsmol"
+ }
+}

@@ -4,13 +4,19 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 ## Unreleased
 
-- Poetic Edda: Völuspá, 66 stanzas in 9 sections (`aligned/al_vsp.json`, row ids `vsp-s<N>`): Guðni Jónsson's
-  Old Norse (`sources/on/voluspa.txt`), automatic modern Icelandic, Bellows 1923 with his notes
-  (`sources/en/bellows_voluspo.txt`, Wikisource, fetched 2026-10-25).
-- `aligned/links_vsp.json`: 31 links from Snorri's rows (Gylfaginning) to 29 Völuspá stanzas.
+- Poetic Edda, complete: the 45 poems of Guðni Jónsson's *Eddukvæði* (heimskringla.no, fetched 2026-10-25;
+  `sources/on/eddukvaedi/`) as 1,966 rows in `aligned/poetic/al_<poem>.json` (ids `<poem>-s<N>`, `<poem>-p<k>`),
+  automatic modern Icelandic, Bellows 1923 for the 36 poems he translated (`sources/en/bellows/`, Wikisource),
+  his notes and introductions; `aligned/poetic/index.json` (order, groups), `links.json` (91 Snorri quotations).
+  Völuspá keeps its ids and hand pairing; `aligned/al_vsp.json` and `links_vsp.json` are replaced by the
+  poetic folder.
+- `aligned/titles.json`: chapter and poem titles in Old Norse, automatic Icelandic and AI-draft English
+  (`auto/titles_en.json`).
+- Columns generalised to a list of languages (data model, validator); `ru`, `nb`, `nn`, `da`, `sv`, `de`
+  reserved.
 - Licence wording corrected: Guðni Jónsson's normalised editions and Netútgáfan's text are no longer described
   as public domain; their status is being confirmed (`LICENSE` §1).
-- Validator: poem rows, link files.
+- Validator: poem files, links, titles, any language column.
 
 ## 0.1.0 — 2026-10-24 — initial import
 

@@ -1,0 +1,1618 @@
+{
+ "part": "poetic",
+ "poem": "hlk",
+ "title": "Hlöðskviða",
+ "group": "other",
+ "chapters": [
+  {
+   "num": 40,
+   "key": "hlk",
+   "title": "Hlöðskviða",
+   "subtitle": null,
+   "group": "other",
+   "rows": [
+    {
+     "id": "hlk-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Ár kváðu Humla",
+        "Húnum ráða,",
+        "Gizur Gautum,",
+        "Gotum Angantý,",
+        "Valdarr Dönum,",
+        "en Völum Kíarr,",
+        "Alrekr inn frækni",
+        "enskri þjóðu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Ár kváðu Humla",
+        "Húnum ráða,",
+        "Gizur Gautum,",
+        "Gotum Angantý,",
+        "Valdar Dönum,",
+        "en Völum Kíar,",
+        "Alrekur hinn frækni",
+        "enskri þjóðu."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Hlöðr var þar borinn",
+        "í Húnalandi",
+        "saxi ok með sverði,",
+        "síðri brynju,",
+        "hjalmi hringreifðum,",
+        "hvössum mæki,",
+        "mari vel tömum",
+        "á mörk inni helgu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Hlöður var þar borinn",
+        "í Húnalandi",
+        "saxi og með sverði,",
+        "síðri brynju,",
+        "hjalmi hringreifðum,",
+        "hvössum mæki,",
+        "mari vel tömum",
+        "á mörk inni helgu."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Hlöðr reið austan,",
+        "Heiðreks arfi;",
+        "kom hann at garði,",
+        "þar er Gotar byggja,",
+        "á Árheima,",
+        "arfs at kveðja;",
+        "þar drakk Angantýr",
+        "erfi Heiðreks."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Hlöður reið austan,",
+        "Heiðreks arfi;",
+        "kom hann að garði,",
+        "þar er Gotar byggja,",
+        "á Árheima,",
+        "arfs að kveðja;",
+        "þar drakk Angantýr",
+        "erfi Heiðreks."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Segg fann hann úti",
+        "fyr sal hávum",
+        "ok síðförlan",
+        "síðan kvaddi?",
+        "\"Inn gakktu, seggr,",
+        "í sal hávan,",
+        "bið mér Angantý",
+        "andspjöll bera.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Segg fann hann úti",
+        "fyr sal hávum",
+        "og síðförlan",
+        "síðan kvaddi?",
+        "\"Hinn gakktu, seggur,",
+        "í sal hávan,",
+        "bið mér Angantý",
+        "andspjöll bera.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sá gekk inn fyrir konungs borð ok kvaddi Angantý konung vel ok mælti síðan:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sá gekk hinn fyrir konungs borð og kvaddi Angantý konung vel og mælti síðan:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Hér er Hlöðr kominn,",
+        "Heiðreks arfþegi,",
+        "bróðir þinn",
+        "inn böðskái;",
+        "mikill er sá maðr ungr",
+        "á mars baki,",
+        "vill nú, þjóðann,",
+        "við þik tala.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Hér er Hlöður kominn,",
+        "Heiðreks arfþegi,",
+        "bróðir þinn",
+        "hinn böðskái;",
+        "mikill er sá maður ungur",
+        "á mars baki,",
+        "vill nú, þjóðann,",
+        "við þig tala.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Rymr varð í ranni,",
+        "risu með góðum;",
+        "vildi hverr heyra,",
+        "hvat Hlöðr mælti",
+        "ok þat, er Angantýr",
+        "andsvör veitti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Rymur varð í ranni,",
+        "risu með góðum;",
+        "vildi hver heyra,",
+        "hvað Hlöður mælti",
+        "og það, er Angantýr",
+        "andsvör veitti."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þá mælti Angantýr:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Heill kom þú, Hlöðr,",
+        "Heiðreks arfi,",
+        "bróðir minn,",
+        "gakk á bekk sitja;",
+        "drekkum Heiðreks",
+        "hollar veigar",
+        "feðr okkrum",
+        "fyrstum manna,",
+        "vín eða mjöð,",
+        "hvárts þér vildra þykkir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þá mælti Angantýr:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Heill kom þú, Hlöður,",
+        "Heiðreks arfi,",
+        "bróðir minn,",
+        "gakk á bekk sitja;",
+        "drekkum Heiðreks",
+        "hollar veigar",
+        "feður okkrum",
+        "fyrstum manna,",
+        "vín eða mjöð,",
+        "hvárts þér vildra þykir.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þá kvað Hlöðr:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Til annars vér",
+        "en öl at drekka",
+        "hingat fórum",
+        "[af Húna landi]",
+        "þigg-a-k, þjóðann,",
+        "þínar veigar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þá kvað Hlöður:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Til annars vér",
+        "en öl að drekka",
+        "hingað fórum",
+        "[af Húna landi]",
+        "þigg-a-k, þjóðann,",
+        "þínar veigar."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Hafa vil ek halft allt,",
+        "þat er Heiðrekr átti,",
+        "al ok af oddi,",
+        "einum skatti,",
+        "kú ok af kalfi,",
+        "kvern þjótandi,",
+        "þý ok af þræli",
+        "ok þeira barni;"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Hafa vil eg halft allt,",
+        "það er Heiðrekur átti,",
+        "al og af oddi,",
+        "einum skatti,",
+        "kú og af kalfi,",
+        "kvern þjótandi,",
+        "þý og af þræli",
+        "og þeirra barni;"
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Hrís þat it mæra,",
+        "er Myrkvið heita,",
+        "gröf þá ina helgu,",
+        "er stendr á Goðþjóðu,",
+        "stein þann inn fagra,",
+        "er stendr á stöðum Danpar,",
+        "halfar herborgir,",
+        "þær er Heiðrekr átti,",
+        "lönd ok lýða",
+        "ok ljósa bauga.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Hrís það it mæra,",
+        "er Myrkvið heita,",
+        "gröf þá hina helgu,",
+        "er stendur á Goðþjóðu,",
+        "stein þann hinn fagra,",
+        "er stendur á stöðum Danpar,",
+        "halfar herborgir,",
+        "þær er Heiðrekur átti,",
+        "lönd og lýða",
+        "og ljósa bauga.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Bresta mun fyrr, bróðir,",
+        "in blikhvíta lind",
+        "ok kaldr geirr",
+        "koma við annan",
+        "ok margr gumi",
+        "í gras hníga,",
+        "áðr en Tyrfing",
+        "í tvau deilak",
+        "eða þér, Humlungr,",
+        "halfan arf látak."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "12",
+        "Ek mun bjóða þér",
+        "bjartar vigrar,",
+        "fé ok fjölð meiðma,",
+        "sem þik fremst tíðir;",
+        "tolf hundruð gef ek þér manna,",
+        "tolf huhdruð gef ek þér mara,",
+        "tolf hundruð gef ek þér skálka,",
+        "þeira er skjöld bera."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Bresta mun fyrr, bróðir,",
+        "hin blikhvíta lind",
+        "og kaldur geir",
+        "koma við annan",
+        "og margur gumi",
+        "í gras hníga,",
+        "áður en Tyrfing",
+        "í tvö deilak",
+        "eða þér, Humlungur,",
+        "hálfan arf látak."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "12",
+        "Eg mun bjóða þér",
+        "bjartar vigrar,",
+        "fé og fjölð meiðma,",
+        "sem þig fremst tíðir;",
+        "tolf hundruð gef eg þér manna,",
+        "tolf huhdruð gef eg þér mara,",
+        "tolf hundruð gef eg þér skálka,",
+        "þeirra er skjöld bera."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Manni gef ek hverjum",
+        "margt at þiggja",
+        "annat æðra",
+        "en hann á at ráða;",
+        "mey gef ek hverjum",
+        "manni at þiggja,",
+        "men spenni ek hverri",
+        "meyju at halsi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Manni gef eg hverjum",
+        "margt að þiggja",
+        "annað æðra",
+        "en hann á að ráða;",
+        "mey gef eg hverjum",
+        "manni að þiggja,",
+        "men spenni eg hverri",
+        "meyju að halsi."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Mun ek um þik sitjanda",
+        "silfri mæla,",
+        "en ganganda þik",
+        "gulli steypa,",
+        "svá at á vega alla",
+        "velti baugar;",
+        "þriðjung Goðþjóðar, -",
+        "því skaltu ráða.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Mun eg um þig sitjanda",
+        "silfri mæla,",
+        "en ganganda þig",
+        "gulli steypa,",
+        "svo að á vega alla",
+        "velti baugar;",
+        "þriðjung Goðþjóðar, -",
+        "því skaltu ráða.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-p2",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gizurr Grýtingaliði, fóstri Heiðreks konungs, var þá með Angantý konungi. Hann var þá ofrgamall. Ok er hann heyrði boð Angantýs, þótti honum hann of mikit bjóða ok kvað þá:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gizur Grýtingaliði, fóstri Heiðreks konungs, var þá með Angantý konungi. Hann var þá ofrgamall. Og er hann heyrði boð Angantýs, þótti honum hann of mikið bjóða og kvað þá:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Þetta er þiggjanda",
+        "þýjar barni,",
+        "barni þýjar,",
+        "þótt sé borinn konungi;",
+        "þá hornungr",
+        "á haugi sat,",
+        "er öðlingr",
+        "arfi skipti.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"Þetta er þiggjanda",
+        "þýjar barni,",
+        "barni þýjar,",
+        "þótt sé borinn konungi;",
+        "þá hornungur",
+        "á haugi sat,",
+        "er öðlingur",
+        "arfi skipti.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-p3",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hlöðr reiddist nú mjök, er hann var þýbarn ok hornungr kallaðr, ef hann þægi boð bróður síns, ok sneri hann þá þegar í burt með alla sína menn, til þess er hann kom heim í Húnaland til Humla konungs, frænda síns, ok sagði honum, at Angantýr, bróðir hans, hefði synjat honum helmingaskiptis. Humli spyrr nú allt tal þeira. Varð hann þá reiðr mjök, ef Hlöðr, dóttursonr hans, skyldi ambáttarsonr heita, ok kvað þá:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hlöður reiddist nú mjög, er hann var þýbarn og hornungur kallaður, ef hann þægi boð bróður síns, og sneri hann þá þegar í burt með alla sína menn, til þess er hann kom heim í Húnaland til Humla konungs, frænda síns, og sagði honum, að Angantýr, bróðir hans, hefði synjað honum helmingaskiptis. Humli spyr nú allt tal þeirra. Varð hann þá reiður mjög, ef Hlöður, dóttursonur hans, skyldi ambáttarsonur heita, og kvað þá:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Sitja skulu vér í vetr",
+        "ok sælliga lifa,",
+        "drekka ok dæma",
+        "dýrar veigar,",
+        "kenna Húnum",
+        "hervápn búa,",
+        "þau er fræknliga",
+        "skulum fram bera."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"Sitja skulu vér í vetur",
+        "og sællega lifa,",
+        "drekka og dæma",
+        "dýrar veigar,",
+        "kenna Húnum",
+        "hervápn búa,",
+        "þau er fræknlega",
+        "skulum fram bera."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Vel skulum þér, Hlöðr,",
+        "herlið búa",
+        "ok framliga",
+        "fylki týja;",
+        "með tolf vetra mengi",
+        "ok tvævetrum fola,",
+        "svá skal Húna",
+        "her of samna.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Vel skulum þér, Hlöður,",
+        "herlið búa",
+        "og framlega",
+        "fylki týja;",
+        "með tolf vetra mengi",
+        "og tvævetrum fola,",
+        "svo skal Húna",
+        "her of samna.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-p4",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þenna vetr sátu þeir Humli ok Hlöðr um kyrrt. Um várit drógu þeir her saman svá mikinn, at aleyða var eftir vígra manna í Húnalandi.... Sem þessi herr kom saman, riðu þeir skóg þann, er Myrkviðr heitir, er skilr Húnaland ok Gotaland. En sem þeir kómu af skóginum, þá váru byggðir stórar ok vellir sléttir, ok á völlunum stóð borg ein fögr, en þar réð fyrir Hervör, systir Angantýs konungs, ok Ormarr, fóstri hennar. Váru þau sett þar til landgæzlu fyrir her Húna, ok höfðu þau þar mikit lið. Þat var einn morgun í sólar upprás, at Hervör stóð upp á kastala einum yfir borgarhliði. Hon sá jóreyki stóra suðr til skógarins, svá at löngum fal sólina. Því næst sá hon glóa undir jóreyknum, sem á gull eitt liti, fagra skjöldu ok gulli lagða, gyllta hjalma ok hvítar brynjur. Sá hon þá, at þetta var herr Húna ok mikill fjölði. Hervör gekk ofan skyndiliga ok kallar lúðrsvein ok bað blása saman lið. Ok síðan mælti Hervör: \"Takið vápn yður ok búizk til orrostu, en þú, Ormarr, ríð í mót Húnum ok bjóð þeim orrostu fyrir borgarhliði inu syðra.\" Ormarr kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þennan vetur sátu þeir Humli og Hlöður um kyrrt. Um várið drógu þeir her saman svo mikinn, að aleyða var eftir vígra manna í Húnalandi.... Sem þessi her kom saman, riðu þeir skóg þann, er Myrkviður heitir, er skilur Húnaland og Gotaland. En sem þeir komu af skóginum, þá voru byggðir stórar og vellir sléttir, og á völlunum stóð borg ein fögur, en þar réð fyrir Hervör, systir Angantýs konungs, og Ormar, fóstri hennar. Voru þau sett þar til landgæzlu fyrir her Húna, og höfðu þau þar mikið lið. Það var einn morgun í sólar upprás, að Hervör stóð upp á kastala einum yfir borgarhliði. Hún sá jóreyki stóra suður til skógarins, svo að löngum fal sólina. Því næst sá hún glóa undir jóreyknum, sem á gull eitt liti, fagra skjöldu og gulli lagða, gyllta hjalma og hvítar brynjur. Sá hún þá, að þetta var her Húna og mikill fjöldi. Hervör gekk ofan skyndilega og kallar lúðrsvein og bað blása saman lið. Og síðan mælti Hervör: \"Takið vopn yður og búizg til orustu, en þú, Ormar, ríð í mót Húnum og bjóð þeim orustu fyrir borgarhliði hinu syðra.\" Ormar kvað:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Skal ek víst ríða",
+        "ok rönd bera,",
+        "-- -- --",
+        "Gota þjóðum",
+        "gunni at heyja.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Skal eg víst ríða",
+        "og rönd bera,",
+        "-- -- --",
+        "Gota þjóðum",
+        "gunni að heyja.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-p5",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þá reið Ormarr af borginni ok í mót hernum. Hann kallaði hátt ok bað þá ríða til borgarinnar, -- \"ok úti fyrir borgarhliðinu suðr á völlinn -- þar býð ek yðr til orrostu. Bíði þeir þar annarra, er fyrr koma.\" Nú reið Ormarr aftr til borgarinnar, ok var Hervör þá albúin ok allr herr. Riðu þau nú út af borginni með hernum móti Húnum, ok hófsk þar allmikil orrosta. En með því at Húnar hafa lið miklu meira, sneri mannfallinu í lið þeira Hervarar, ok um síðir fell Hervör ok mikit lið umhverfis hana. En er Ormarr sá fall hennar, flýði hann ok allir þeir, er lífit þágu. Ormarr reið dag ok nótt, sem mest mátti hann, á fund Angantýs konungs í Árheima. .... Og sem Ormarr kom fyrir Angantý konung, þá kvað hann:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þá reið Ormar af borginni og í mót hernum. Hann kallaði hátt og bað þá ríða til borgarinnar, -- \"og úti fyrir borgarhliðinu suður á völlinn -- þar býð eg yður til orustu. Bíði þeir þar annarra, er fyrr koma.\" Nú reið Ormar aftur til borgarinnar, og var Hervör þá albúin og allur her. Riðu þau nú út af borginni með hernum móti Húnum, og hófst þar allmikil orrosta. En með því að Húnar hafa lið miklu meira, sneri mannfallinu í lið þeirra Hervarar, og um síðir féll Hervör og mikið lið umhverfis hana. En er Ormar sá fall hennar, flýði hann og allir þeir, er lífið þágu. Ormar reið dag og nótt, sem mest mátti hann, á fund Angantýs konungs í Árheima. .... Og sem Ormar kom fyrir Angantý konung, þá kvað hann:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Sunnan em ek kominn",
+        "at segja spjöll þessi:",
+        "Sviðin er öll in mæra",
+        "Myrkviðar heiðr,",
+        "drifin öll Goðþjóð",
+        "gumna blóði."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Sunnan em eg kominn",
+        "að segja spjöll þessi:",
+        "Sviðin er öll hin mæra",
+        "Myrkviðar heiður,",
+        "drifin öll Goðþjóð",
+        "gumna blóði."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Mey veit ek Heiðreks,",
+        "[fyr mækis eggjum],",
+        "systur þína,",
+        "svigna til jarðar;",
+        "hafa Húnar",
+        "hana fellda",
+        "ok marga aðra",
+        "yðra þegna."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Mey veit eg Heiðreks,",
+        "[fyr mækis eggjum],",
+        "systur þína,",
+        "svigna til jarðar;",
+        "hafa Húnar",
+        "hana fellda",
+        "og marga aðra",
+        "yðra þegna."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Léttari gerðisk hon at böð",
+        "en við biðil ræða",
+        "eða í bekk at fara",
+        "at brúðar gangi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Léttari gerðist hún að böð",
+        "en við biðil ræða",
+        "eða í bekk að fara",
+        "að brúðar gangi.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-p6",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Angantýr konungr, þá er hann heyrði þetta, brá hann grönum ok varð seint til orða ok mælti þetta um síðir:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Angantýr konungur, þá er hann heyrði þetta, brá hann grönum og varð seint til orða og mælti þetta um síðir:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Óbróðurliga vartu leikin,",
+        "in ágæta systir!\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Óbróðurlega vartu leikin,",
+        "hin ágæta systir!\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-p7",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Ok síðan leit hann yfir hirðina, ok var ekki margt liðs með honum. Hann kvað þá:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Og síðan leit hann yfir hirðina, og var ekki margt liðs með honum. Hann kvað þá:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-p8",
+     "stanza": null,
+     "on": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Mjök várum vér margir,",
+        "er vér mjöð drukkum,",
+        "nú erum vér færi,",
+        "er vér fleiri skyldum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Mjög várum vér margir,",
+        "er vér mjöð drukkum,",
+        "nú erum vér færi,",
+        "er vér fleiri skyldum."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Sé ek eigi mann",
+        "í mínu liði,",
+        "þótt ek biðja",
+        "ok baugum kaupa,",
+        "er muni ríða",
+        "ok rönd bera",
+        "ok þeira Húna",
+        "herlið finna.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Sé eg eigi mann",
+        "í mínu liði,",
+        "þótt eg biðja",
+        "og baugum kaupa,",
+        "er muni ríða",
+        "og rönd bera",
+        "og þeirra Húna",
+        "herlið finna.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gizurr gamli sagði:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Ek mun þik einkis",
+        "eyris krefja",
+        "né skjallanda",
+        "skarfs ór gulli;",
+        "þó mun ek ríða",
+        "ok rönd bera,",
+        "Húna þjóðum",
+        "herstaf bjóða.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gizur gamli sagði:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "\"Eg mun þig einkis",
+        "eyris krefja",
+        "né skjallanda",
+        "skarfs úr gulli;",
+        "þó mun eg ríða",
+        "og rönd bera,",
+        "Húna þjóðum",
+        "herstaf bjóða.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-p9",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": ".... Gizurr herklæddist með góðum hervápnum ok hljóp á hest sinn, sem ungr væri. Þá mælti hann til konungs:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": ".... Gizur herklæddist með góðum hervápnum og hljóp á hest sinn, sem ungur væri. Þá mælti hann til konungs:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Hvar skal ek Húnum",
+        "hervíg kenna?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "\"Hvar skal eg Húnum",
+        "hervíg kenna?\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Kenndu at Dylgju",
+        "ok á Dúnheiði",
+        "ok á þeim öldnum",
+        "Jassarfjöllum;",
+        "þar oft Gotar",
+        "gunni háðu",
+        "ok fagran sigr",
+        "frægir vágu.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Angantýr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Kenndu að Dylgju",
+        "og á Dúnheiði",
+        "og á þeim öldnum",
+        "Jassarfjöllum;",
+        "þar oft Gotar",
+        "gunni háðu",
+        "og fagran sigur",
+        "frægir vágu.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-p10",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Nú reið Gizurr í brott ok þar til, er hann kom í her Húna. Hann reið eigi nær en svá, at hann mátti tala við þá. Þá kallar hann hári röddu ok kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Nú reið Gizur í brott og þar til, er hann kom í her Húna. Hann reið eigi nær en svo, að hann mátti tala við þá. Þá kallar hann hári röddu og kvað:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Felmtr er yðru fylki,",
+        "feigr er yðvarr vísi,",
+        "gnæfar yðr gunnfani,",
+        "gramr er yðr Óðinn."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Felmtur er yðru fylki,",
+        "feigur er yðvar vísi,",
+        "gnæfir yður gunnfani,",
+        "gramur er yður Óðinn."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s28",
+     "stanza": 28,
+     "on": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Býð ek yðr at Dylgju",
+        "ok á Dúnheiði",
+        "orrostu undir",
+        "Jassarfjöllum,",
+        "hræsi yður",
+        "at há hverju,",
+        "ok láti svá Óðinn flein fljúga",
+        "sem ek fyrir mæli.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Býð eg yður að Dylgju",
+        "og á Dúnheiði",
+        "orustu undir",
+        "Jassarfjöllum,",
+        "hræsi yður",
+        "að há hverju,",
+        "og láti svo Óðinn flein fljúga",
+        "sem eg fyrir mæli.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s29",
+     "stanza": 29,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þá er Hlöðr hafði heyrt orð Gizurar, þá kvað hann:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Taki þér Gizur",
+        "Grýtingaliða,",
+        "mann Angantýs,",
+        "kominn af Árheimum.\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Humli konungr sagði:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Eigi skulum",
+        "árum spilla,",
+        "þeim er fara",
+        "einir saman.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þá er Hlöður hafði heyrt orð Gizurar, þá kvað hann:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Taki þér Gizur",
+        "Grýtingaliða,",
+        "mann Angantýs,",
+        "kominn af Árheimum.\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Humli konungur sagði:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Eigi skulum",
+        "árum spilla,",
+        "þeim er fara",
+        "einir saman.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-p11",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gizurr drap þá hest sinn með sporum ok reið á fund Angantýs konungs. .... Angantýr spyrr, hvat mikit lið Húnar hafa. Gizurr mælti: \"Mikit er þeira mengi:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gizur drap þá hest sinn með sporum og reið á fund Angantýs konungs. .... Angantýr spyr, hvað mikið lið Húnar hafa. Gizur mælti: \"Mikið er þeirra mengi:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s30",
+     "stanza": 30,
+     "on": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Sex ein eru",
+        "seggja fylki,",
+        "í fylki hverju",
+        "fimm þúsundir,",
+        "í þúsund hverri",
+        "þrettán hundruð,",
+        "í hundraði hverju",
+        "halir fjórtalðir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Sex ein eru",
+        "seggja fylki,",
+        "í fylki hverju",
+        "fimm þúsundir,",
+        "í þúsund hverri",
+        "þretton hundruð,",
+        "í hundraði hverju",
+        "halir fjórtalðir.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-p12",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Angantýr spyrr nú til Húna hers. Þá sendi hann alla vegu menn frá sér ok stefndi hverjum manni til sín, er honum vildi lið veita ok vápnum mætti valda. Fór hann þá á Dúnheiði með lið sitt, ok var þat allmikill herr. Kom þá á móti honum herr Húna, ok höfðu þeir lið hálfu fleira. At öðrum degi hófu þeir sína orrostu ok börðust allan þann dag ok fóru at kveldi í herbúðir sínar. Þeir börðust svá átta daga, at höfðingjar váru enn heilir, en engi vissi manntal, hvat margt fell. En bæði dag ok nótt dreif lið til Angantýs af öllum vegum, ok þá kom svá, at hann hafði eigi færa fólk en í fyrstu. Varð nú orrostan enn ákafari. Váru Húnar allákafir ok sá þá sinn kost, at sú ein var lífs ván, ef þeir sigruðust, ok illt mundi Gota griða at biðja. Gotar vörðu frelsi sitt ok fóstrjörð fyrir Húnum, stóðu því fast, ok eggjaði hverr annan. Þá er á leið daginn, gerðu Gotar atgöngu svá harða, at fylkingar Húna svignuðu fyrir. Ok er Angantyýr sá þat, gekk hann fram ór skjaldborginni ok í öndverða fylking ok hafði í hendi Tyrfing ok hjó þá bæði menn ok hesta. Raufst þá skjaldborg fyrir Húna konungum, ok skiptust þeir bræðr höggum við. Þar fell Hlöðr ok Humli konungr, ok þá brast flótti á Húnum, en Gotar drápu þá. .... Angantýr konungr gekk þá at kanna valinn ok fann Hlöð, bróður sinn. Þá kvað hann:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Angantýr spyr nú til Húna hers. Þá sendi hann alla vega menn frá sér og stefndi hverjum manni til sín, er honum vildi lið veita og vopnum mætti valda. Fór hann þá á Dúnheiði með lið sitt, og var það allmikill her. Kom þá á móti honum her Húna, og höfðu þeir lið hálfu fleira. Að öðrum degi hófu þeir sína orustu og börðust allan þann dag og fóru að kveldi í herbúðir sínar. Þeir börðust svo átta daga, að höfðingjar voru enn heilir, en enginn vissi manntal, hvað margt féll. En bæði dag og nótt dreif lið til Angantýs af öllum vegum, og þá kom svo, að hann hafði eigi færa fólk en í fyrstu. Varð nú orrostan enn ákafari. Voru Húnar allákafir og sá þá sinn kost, að sú ein var lífs von, ef þeir sigruðust, og illt myndi Gota griða að biðja. Gotar vörðu frelsi sitt og fóstrjörð fyrir Húnum, stóðu því fast, og eggjaði hver annan. Þá er á leið daginn, gerðu Gotar aðgöngu svo harða, að fylkingar Húna svignuðu fyrir. Og er Angantyýr sá það, gekk hann fram úr skjaldborginni og í öndverða fylking og hafði í hendi Tyrfing og hjó þá bæði menn og hesta. Raufst þá skjaldborg fyrir Húna konungum, og skiptust þeir bræður höggum við. Þar féll Hlöður og Humli konungur, og þá brast flótti á Húnum, en Gotar drápu þá. .... Angantýr konungur gekk þá að kanna valinn og fann Hlöð, bróður sinn. Þá kvað hann:"
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s31",
+     "stanza": 31,
+     "on": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Bauð ek þér, bróðir,",
+        "basmir óskerðar,",
+        "fé ok fjölð meiðma,",
+        "sem þik fremst tíddi;",
+        "nú hefir þú hvárki",
+        "hildar at gjöldum",
+        "ljósa bauga",
+        "né land ekki."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Bauð eg þér, bróðir,",
+        "basmir óskerðar,",
+        "fé og fjölð meiðma,",
+        "sem þig fremst tíddi;",
+        "nú hefur þú hvárki",
+        "hildar að gjöldum",
+        "ljósa bauga",
+        "né land ekki."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hlk-s32",
+     "stanza": 32,
+     "on": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Bölvat er okkr, bróðir,",
+        "bani em ek þinn orðinn;",
+        "þat mun æ uppi;",
+        "illr er dómr norna.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Bölvað er okkur, bróðir,",
+        "bani em eg þinn orðinn;",
+        "það mun æ uppi;",
+        "illur er dómur norna.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [],
+   "en_source": null,
+   "en_missing_note": "No public-domain English translation is in this edition yet."
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Hlöðskviða)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": null
+ }
+}

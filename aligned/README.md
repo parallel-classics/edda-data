@@ -1,6 +1,6 @@
 # aligned/ — the rows
 
-**GENERATED. Do not hand-edit.** These four files are produced by the edda-site pipeline
+**GENERATED. Do not hand-edit.** Snorri's four files are produced by the edda-site pipeline
 (`pipeline/align2.py`, then `pipeline/integrate_drafts.py` for the draft cells). A correction to any cell is an
 overlay record in `overlays/`; the build applies overlays on top of these rows. Re-running the aligner
 replaces these files wholesale, so anything typed into them is lost.
@@ -11,14 +11,19 @@ replaces these files wholesale, so anything typed into them is lost.
 | `al_gylf.json` | Gylfaginning | `gylfaginning` | `g` | 54 | 345 |
 | `al_skald.json` | Skáldskaparmál | `skaldskaparmal` | `s` | 89 | 854 |
 | `al_hatt.json` | Háttatal | `hattatal` | `h` | 3 sections | 303 |
-| `al_vsp.json` | Völuspá (Poetic Edda) | `voluspa` | `vsp` | 9 sections | 66 |
-| `links_vsp.json` | Snorri's quotations of Völuspá: `{"row": "g-c4-3", "stanza": 3, "lines": 6}` | | | | 31 links |
+| `poetic/al_<poem>.json` | one per poem of the Poetic Edda (45) | `poetic` | the poem prefix (`vsp`, `hav`, `grm`, …) | 1 per file | 1,966 in all |
+| `poetic/index.json` | poem order, prefixes, titles, groups (`myth`, `heroic`, `other`), row counts | | | | |
+| `poetic/links.json` | Snorri's quotations: `{"row": "g-c4-3", "poem_row": "vsp-s3", "lines": 6}` | | | | 91 links |
+| `titles.json` | chapter and poem titles per language: `{"g-ch34": {"on", "is", "en", "status": {…}}, "vsp": {…}}` | | | | 196 |
 
-Poem rows differ from Snorri rows in three ways: each row carries its own `id` (`vsp-s<stanza>`, Guðni
-Jónsson's stanza number, not a row counter); `en_stanzas` lists the Bellows stanza numbers in the English cell
-(empty, one, or two); `quoted_in` lists the Snorri rows that quote the stanza. Sections (`chapters[]`) are an
-editorial grouping for navigation with an English title and `stanzas: [first, last]`. Produced by
-`edda-site/pipeline/make_voluspa.py`.
+Poem files hold one chapter (the poem) with `title`, `subtitle`, `group`, `notes` (Bellows'), `intro_en`
+(his introductory note), `en_source` or `en_missing_note`. Poem rows differ from Snorri rows: each carries its
+own `id` (`<poem>-s<N>`, Guðni Jónsson's stanza number, or `<poem>-p<k>` for the k-th prose passage);
+`stanza`; `en_stanzas` (Bellows' stanza numbers in the English cell: none, one or two); `quoted_in` (Snorri
+rows that quote it); optional `head` (a heading shown above the row: Völuspá's editorial sections, Guðni
+Jónsson's subtitles, Hávamál's section numerals); `s_en` only on weak automatic matches. A speaker line
+("Loki kvað:") is a prose block with `"sp": true` inside the stanza's cell. Produced by
+`edda-site/pipeline/make_poems.py`; titles by `make_titles.py`.
 
 ## File shape
 

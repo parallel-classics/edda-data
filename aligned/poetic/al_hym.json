@@ -1,0 +1,2355 @@
+{
+ "part": "poetic",
+ "poem": "hym",
+ "title": "Hymiskviða",
+ "group": "myth",
+ "chapters": [
+  {
+   "num": 7,
+   "key": "hym",
+   "title": "Hymiskviða",
+   "subtitle": null,
+   "group": "myth",
+   "rows": [
+    {
+     "id": "hym-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Ár valtívar",
+        "veiðar námu",
+        "ok sumblsamir,",
+        "áðr saðir yrði,",
+        "hristu teina",
+        "ok á hlaut sáu;",
+        "fundu þeir at Ægis",
+        "örkost hvera."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Ár valtívar",
+        "veiðar námu",
+        "og sumblsamir,",
+        "áður saðir yrðu,",
+        "hristu teina",
+        "og á hlaut sáu;",
+        "fundu þeir að Ægis",
+        "örkost hvera."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Of old the gods | made feast together,",
+        "And drink they sought | ere sated they were;",
+        "Twigs they shook, | and blood they tried:",
+        "Rich fare in Ægir's | hall they found.⟦1⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Sat bergbúi",
+        "barnteitr fyr",
+        "mjök glíkr megi",
+        "miskorblinda;",
+        "leit í augu",
+        "Yggs barn í þrá:",
+        "\"Þú skalt ásum",
+        "oft sumbl gera.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Sat bergbúi",
+        "barnteitur fyr",
+        "mjög glíkur megi",
+        "miskorblinda;",
+        "leit í augu",
+        "Yggs barn í þrá:",
+        "\"Þú skalt ásum",
+        "oft sumbl gera.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "The mountain-dweller | sat merry as boyhood,",
+        "But soon like a blinded | man he seemed;",
+        "The son of Ygg | gazed in his eyes:",
+        "\"For the gods a feast | shalt thou forthwith get.\"⟦2⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Önn fekk jötni",
+        "orðbæginn halr,",
+        "hugði at hefndum",
+        "hann næst við goð,",
+        "bað hann Sifjar ver",
+        "sér færa hver, -",
+        "\"þanns ek öllum öl",
+        "yðr of heita.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Önn fékk jötni",
+        "orðbæginn halur,",
+        "hugði að hefndum",
+        "hann næst við guð,",
+        "bað hann Sifjar ver",
+        "sér færa hver, -",
+        "\"þanns eg öllum öl",
+        "yður of heita.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "The word-wielder toil | for the giant worked,",
+        "And so revenge | on the gods he sought;",
+        "He bade Sif's mate | the kettle bring:",
+        "\"Therein for ye all | much ale shall I brew.\"⟦3⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Né þat máttu",
+        "mærir tívar",
+        "ok ginnregin",
+        "of geta hvergi,",
+        "unz af tryggðum",
+        "Týr Hlórriða",
+        "ástráð mikit",
+        "einum sagði:"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Né það máttu",
+        "mærir tívar",
+        "og ginnregin",
+        "of geta hvergi,",
+        "uns af tryggðum",
+        "Týr Hlórriða",
+        "ástráð mikið",
+        "einum sagði:"
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "The far-famed ones | could find it not,",
+        "And the holy gods | could get it nowhere;",
+        "Till in truthful wise | did Tyr speak forth,",
+        "And helpful counsel | to Hlorrithi gave.⟦4⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Býr fyr austan",
+        "Élivága",
+        "hundvíss Hymir",
+        "at himins enda;",
+        "á minn faðir",
+        "móðugr ketil,",
+        "rúmbrugðinn hver,",
+        "rastar djúpan.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Býr fyr austan",
+        "Élivága",
+        "hundvíss Hymir",
+        "að himins enda;",
+        "á minn faðir",
+        "móðugur ketil,",
+        "rúmbrugðinn hver,",
+        "rastar djúpan.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"There dwells to the east | of Elivagar",
+        "Hymir the wise | at the end of heaven;",
+        "A kettle my father | fierce doth own,",
+        "A mighty vessel | a mile in depth.\"⟦5⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "p",
+       "s": "Þórr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Veiztu ef þiggjum",
+        "þann lögvelli?\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Týr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Ef, vinr, vélar",
+        "vit gervum til.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Þór kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Veistu ef þiggjum",
+        "þann lögvelli?\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Týr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Ef, vinur, vélar",
+        "vit gervum til.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Thor spake:",
+        "“May we win, dost thou think, | this whirler of water?”",
+        "Tyr spake:",
+        "“Aye, friend, we can, | if cunning we are.”⟦6⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Fóru drjúgum",
+        "dag þann fram",
+        "Ásgarði frá,",
+        "unz til Egils kvámu;",
+        "hirði hann hafra",
+        "horngöfgasta;",
+        "hurfu at höllu,",
+        "er Hymir átti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Fóru drjúgum",
+        "dag þann fram",
+        "Ásgarði frá,",
+        "uns til Egils kvámu;",
+        "hirði hann hafra",
+        "horngöfgasta;",
+        "hurfu að höllu,",
+        "er Hymir átti."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Forward that day | with speed they fared,",
+        "From Asgarth came they | to Egil's home;",
+        "The goats with horns | bedecked he guarded;",
+        "Then they sped to the hall | where Hymir dwelt.⟦7⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Mögr fann ömmu",
+        "mjök leiða sér,",
+        "hafði höfða",
+        "hundruð níu,",
+        "en önnur gekk",
+        "algullin fram",
+        "brúnhvít bera",
+        "bjórveig syni:"
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "9. \"Áttniðr jötna,",
+        "ek viljak ykkr",
+        "hugfulla tvá",
+        "und hvera setja;",
+        "er minn fríi",
+        "mörgu sinni",
+        "glöggr við gesti,",
+        "görr ills hugar.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Mögur fann ömmu",
+        "mjög leiða sér,",
+        "hafði höfða",
+        "hundruð níu,",
+        "en önnur gekk",
+        "algullin fram",
+        "brúnhvít bera",
+        "bjórveig syni:"
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "9. \"Áttniður jötna,",
+        "eg viljak ykkur",
+        "hugfulla tvo",
+        "und hvera setja;",
+        "er minn fríi",
+        "mörgu sinni",
+        "glöggur við gesti,",
+        "gör ills hugar.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "The youth found his grandam, | that greatly he loathed,",
+        "And full nine hundred | heads she had;",
+        "But the other fair | with gold came forth,",
+        "And the bright-browed one | brought beer to her son.⟦8⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Kinsman of giants, | beneath the kettle",
+        "Will I set ye both, | ye heroes bold;",
+        "For many a time | my dear-loved mate",
+        "To guests is wrathful | and grim of mind.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8,
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "En váskapaðr",
+        "varð síðbúinn",
+        "harðráðr Hymir",
+        "heim af veiðum,",
+        "gekk inn í sal,",
+        "glumðu jöklar,",
+        "var karls, en kom,",
+        "kinnskógr frörinn."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "En váskapaður",
+        "varð síðbúinn",
+        "harðráður Hymir",
+        "heim af veiðum,",
+        "gekk hinn í sal,",
+        "glumðu jöklar,",
+        "var karls, en kom,",
+        "kinnskógur frörinn."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Late to his home | the misshapen Hymir,",
+        "The giant harsh, | from his hunting came;",
+        "The icicles rattled | as in he came,",
+        "For the fellow's chin-forest | frozen was."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "p",
+       "s": "Frilla kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Ver þú heill, Hymir,",
+        "í hugum góðum,",
+        "nú er sonr kominn",
+        "til sala þinna,",
+        "sá er vit vættum",
+        "af vegi löngum;",
+        "fylgir hánum",
+        "hróðrs andskoti,",
+        "vinr verliða;",
+        "Véurr heitir sá."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Frilla kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Ver þú heill, Hymir,",
+        "í hugum góðum,",
+        "nú er sonur kominn",
+        "til sala þinna,",
+        "sá er vit vættum",
+        "af vegi löngum;",
+        "fylgir hánum",
+        "hróðrs andskoti,",
+        "vinur verliða;",
+        "Véur heitir sá."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Hail to thee, Hymir! | good thoughts mayst thou have;",
+        "Here has thy son | to thine hall now come;",
+        "(For him have we waited, | his way was long;)",
+        "And with him fares | the foeman of Hroth,",
+        "The friend of mankind, | and Veur they call him.⟦11⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Sé þú, hvar sitja",
+        "und salar gafli,",
+        "svá forða sér,",
+        "stendr súl fyrir.\"",
+        "Sundr stökk súla",
+        "fyr sjón jötuns,",
+        "en áðr í tvau",
+        "áss brotnaði."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Sé þú, hvar sitja",
+        "und salar gafli,",
+        "svo forða sér,",
+        "stendur súl fyrir.\"",
+        "Sundur stökk súla",
+        "fyr sjón jötuns,",
+        "en áður í tvö",
+        "ás brotnaði."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"See where under | the gable they sit!",
+        "Behind the beam | do they hide themselves.\"",
+        "The beam at the glance | of the giant broke,",
+        "And the mighty pillar | in pieces fell."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Stukku átta,",
+        "en einn af þeim",
+        "hverr harðsleginn",
+        "heill af þolli;",
+        "fram gengu þeir,",
+        "en forn jötunn",
+        "sjónum leiddi",
+        "sinn andskota."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Stukku átta,",
+        "en einn af þeim",
+        "hver harðsleginn",
+        "heill af þolli;",
+        "fram gengu þeir,",
+        "en forn jötunn",
+        "sjóninni leiddi",
+        "sinn andskota."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Eight fell from the ledge, | and one alone,",
+        "The hard-hammered kettle, | of all was whole;",
+        "Forth came they then, | and his foes he sought,",
+        "The giant old, | and held with his eyes.⟦13⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Sagði-t hánum",
+        "hugr vel þá,",
+        "er hann sá gýgjar græti",
+        "á golf kominn,",
+        "þar váru þjórar",
+        "þrír of teknir,",
+        "bað senn jötunn",
+        "sjóða ganga."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Sagði-t hánum",
+        "hugur vel þá,",
+        "er hann sá gýgjar græti",
+        "á golf kominn,",
+        "þar voru þjórar",
+        "þrír of teknir,",
+        "bað senn jötunn",
+        "sjóða ganga."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Much sorrow his heart | foretold when he saw",
+        "The giantess' foeman | come forth on the floor;",
+        "Then of the steers | did they bring in three;",
+        "Their flesh to boil | did the giant bid.⟦14⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Hvern létu þeir",
+        "höfði skemmra",
+        "ok á seyði",
+        "síðan báru;",
+        "át Sifjar verr,",
+        "áðr sofa gengi,",
+        "einn með öllu",
+        "öxn tvá Hymis."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Hvern létu þeir",
+        "höfði skemmra",
+        "og á seyði",
+        "síðan báru;",
+        "át Sifjar verr,",
+        "áður sofa gengi,",
+        "einn með öllu",
+        "öxn tvo Hymis."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "By a head was each | the shorter hewed,",
+        "And the beasts to the fire | straight they bore;",
+        "The husband of Sif, | ere to sleep he went,",
+        "Alone two oxen | of Hymir's ate.⟦15⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      15
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Þótti hárum",
+        "Hrungnis spjalla",
+        "verðr Hlórriða",
+        "vel fullmikill:",
+        "\"Munum at aftni",
+        "öðrum verða",
+        "við veiðimat",
+        "vér þrír lifa.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Þótti hárum",
+        "Hrungnis spjalla",
+        "verður Hlórriða",
+        "vel fullmikill:",
+        "\"Munum að aftni",
+        "öðrum verða",
+        "við veiðimað",
+        "vér þrír lifa.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "To the comrade hoary | of Hrungnir then",
+        "Did Hlorrithi's meal | full mighty seem;",
+        "\"Next time at eve | we three must eat",
+        "The food we have | s the hunting's spoil.\"⟦16⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      16
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Véurr kvaðzk vilja",
+        "á vág róa,",
+        "ef ballr jötunn",
+        "beitr gæfi."
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Hymir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Hverf þú til hjarðar,",
+        "ef þú hug trúir,",
+        "brjótr berg - Dana,",
+        "beitur sækja."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Véur kvaðzg vilja",
+        "á vág róa,",
+        "ef ballur jötunn",
+        "beitur gæfi."
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Hymir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Hverf þú til hjarðar,",
+        "ef þú hug trúir,",
+        "brjótur berg - Dana,",
+        "beitur sækja."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "...............",
+        "Fain to row on the sea | was Veur, he said,",
+        "If the giant bold | would give him bait.⟦17⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      17
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Þess vænti ek,",
+        "at þér myni-t",
+        "ögn af oxa",
+        "auðfeng vera.\"",
+        "Sveinn sýsliga",
+        "sveif til skógar,",
+        "þar er uxi stóð",
+        "alsvartr fyrir."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Þess vænti eg,",
+        "að þér myni-t",
+        "ögn af oxa",
+        "auðfeng vera.\"",
+        "Sveinn sýslega",
+        "sveif til skógar,",
+        "þar er uxi stóð",
+        "alsvartur fyrir."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Hymir spake:",
+        "\"Go to the herd, | if thou hast it in mind,",
+        "Thou slayer of giants, | thy bait to seek;",
+        "For there thou soon | mayst find, methinks,",
+        "Bait from the oxen | easy to get.\"⟦18⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Swift to the wood | the hero went,",
+        "Till before him an ox | all black he found;",
+        "From the beast the slayer | of giants broke",
+        "The fortress high | of his double horns.⟦19⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      18,
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Braut af þjóri",
+        "þurs ráðbani",
+        "hátún ofan",
+        "horna tveggja."
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Hymir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Verk þykkja þín",
+        "verri miklu",
+        "kjóla valdi",
+        "en þú kyrr sitir.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Braut af þjóri",
+        "þurs ráðbani",
+        "hátún ofan",
+        "horna tveggja."
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Hymir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Verk þykja þín",
+        "verri miklu",
+        "kjóla valdi",
+        "en þú kyr sitir.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Hymir spake:",
+        "\"Thy works, methinks, | are worse by far,",
+        "Thou steerer of ships, | than when still thou sittest.\"",
+        "................",
+        "................⟦20⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      20
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Bað hlunngota",
+        "hafra dróttinn",
+        "áttrunn apa",
+        "útar færa,",
+        "en sá jötunn",
+        "sína talði",
+        "lítla fýsi",
+        "at róa lengra."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Bað hlunngota",
+        "hafra dróttinn",
+        "áttrunn afa",
+        "utar færa,",
+        "en sá jötunn",
+        "sína taldi",
+        "lítla fýsi",
+        "að róa lengra."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "The lord of the goats | bade the ape-begotten",
+        "Farther to steer | the steed of the rollers;",
+        "But the giant said | that his will, forsooth,",
+        "Longer to row | was little enough.⟦21⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      21
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Dró meir Hymir",
+        "móðugr hvali",
+        "einn á öngli",
+        "upp senn tváa,",
+        "en aftr í skut",
+        "Óðni sifjaðr",
+        "Véurr við vélar",
+        "vað gerði sér."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Dró meir Hymir",
+        "móðugur hvali",
+        "einn á öngli",
+        "upp senn tváa,",
+        "en aftur í skut",
+        "Óðni sifjaður",
+        "Véur við vélar",
+        "vað gerði sér."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Two whales on his hook | did the mighty Hymir",
+        "Soon pull up | on a single cast;",
+        "In the stern the kinsman | of Othin sat,",
+        "And Veur with cunning | his cast prepared."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      22
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Egndi á öngul,",
+        "sá er öldum bergr,",
+        "orms einbani",
+        "uxa höfði;",
+        "gein við agni,",
+        "sú er goð fía,",
+        "umgjörð neðan",
+        "allra landa."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Egndi á öngul,",
+        "sá er öldum bergur,",
+        "orms einbani",
+        "uxa höfði;",
+        "gein við agni,",
+        "sú er guð fía,",
+        "umgjörð neðan",
+        "allra landa."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "The warder of men, | the worm's destroyer,",
+        "Fixed on his hook | the head of the ox;",
+        "There gaped at the bait | the foe of the gods,",
+        "The girdler of all | the earth beneath.⟦23⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      23
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Dró djarfliga",
+        "dáðrakkr Þórr",
+        "orm eitrfáan",
+        "upp at borði;",
+        "hamri kníði",
+        "háfjall skarar",
+        "ofljótt ofan",
+        "ulfs hnitbróður."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Dró djarflega",
+        "dáðrakkur Þór",
+        "orm eitrfáan",
+        "upp að borði;",
+        "hamri kníði",
+        "háfjall skarar",
+        "ofljótt ofan",
+        "ulfs hnitbróður."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "The venomous serpent | swiftly up",
+        "To the boat did Thor, | the bold one, pull;",
+        "With his hammer the loathly | hill of the hair",
+        "Of the brother of Fenrir | he smote from above.⟦24⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      24
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Hraungalkn hlumðu,",
+        "en hölkn þutu,",
+        "fór in forna",
+        "fold öll saman;",
+        "sökkðisk síðan",
+        "sá fiskr í mar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Hraungalkn hlumðu,",
+        "en hölkn þutu,",
+        "fór hin forna",
+        "fold öll saman;",
+        "sökkðist síðan",
+        "sá fiskur í mar."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "The monsters roared, | and the rocks resounded,",
+        "And all the earth | so old was shaken;",
+        "................",
+        "Then sank the fish | in the sea forthwith.⟦25⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      25
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Óteitr jötunn,",
+        "er aftr reru,",
+        "svá at ár Hymir",
+        "ekki mælti,",
+        "veifði hann ræði",
+        "veðrs annars til."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Óteitur jötunn,",
+        "er aftur reru,",
+        "svo að ár Hymir",
+        "ekki mælti,",
+        "veifði hann ræði",
+        "veðrs annars til."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "................",
+        "Joyless as back | they rowed was the giant;",
+        "Speechless did Hymir | sit at the oars,",
+        "With the rudder he sought | a second wind.⟦26⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      26
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hymir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Mundu of vinna",
+        "verk halft við mik,",
+        "at þú heim hvali",
+        "haf til bæjar",
+        "eða flotbrúsa",
+        "festir okkarn.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hymir kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "\"Myndu of vinna",
+        "verk halft við mig,",
+        "að þú heim hvali",
+        "haf til bæjar",
+        "eða flotbrúsa",
+        "festir okkarn.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Hymir spake:",
+        "\"The half of our toil | wilt thou have with me,",
+        "And now make fast | our goat of the flood;",
+        "Or home wilt thou bear | the whales to the house,",
+        "Across the gorge | of the wooded glen?\"⟦27⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      27
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Gekk Hlórriði,",
+        "greip á stafni",
+        "vatt með austri",
+        "upp lögfáki,",
+        "einn með árum",
+        "ok með austskotu",
+        "bar hann til bæjar",
+        "brimsvín jötuns",
+        "ok holtriða",
+        "hver í gegnum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Gekk Hlórriðji,",
+        "greip á stafni",
+        "vatt með austri",
+        "upp lögfáki,",
+        "einn með árum",
+        "og með austskotu",
+        "bar hann til bæjar",
+        "brimsvín jötuns",
+        "og holtriða",
+        "hver í gegnum."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Hlorrithi stood | and the stem he gripped,",
+        "And the sea-horse with water | awash he lifted;",
+        "Oars and bailer | and all he bore",
+        "With the surf-swine home | to the giant's house.⟦28⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      28
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s28",
+     "stanza": 28,
+     "on": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Ok enn jötunn",
+        "um afrendi,",
+        "þrágirni vanr,",
+        "við Þór sennti,",
+        "kvað-at mann ramman,",
+        "þótt róa kynni",
+        "kröfturligan,",
+        "nema kálk bryti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Og enn jötunn",
+        "um afrendi,",
+        "þrágirni vanur,",
+        "við Þór sennti,",
+        "kvað-at mann ramman,",
+        "þótt róa kynni",
+        "kröfturligan,",
+        "nema kálk bryti."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "His might the giant | again would match,",
+        "For stubborn he was, | with the strength of Thor;",
+        "None truly strong, | though stoutly he rowed,",
+        "Would he call save one | who could break the cup.⟦29⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      29
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s29",
+     "stanza": 29,
+     "on": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "En Hlórriði,",
+        "er at höndum kom,",
+        "brátt lét bresta",
+        "brattstein gleri;",
+        "sló hann sitjandi",
+        "súlur í gögnum;",
+        "báru þó heilan",
+        "fyr Hymi síðan."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "En Hlórriðji,",
+        "er að höndum kom,",
+        "brátt lét bresta",
+        "brattstein gleri;",
+        "sló hann sitjandi",
+        "súlur í gögnum;",
+        "báru þó heilan",
+        "fyr Hymi síðan."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Hlorrithi then, | when the cup he held,",
+        "Struck with the glass | the pillars of stone;",
+        "As he sat the posts | in pieces he shattered,",
+        "Yet the glass to Hymir | whole they brought."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      30
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s30",
+     "stanza": 30,
+     "on": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Unz þat in fríða",
+        "frilla kenndi",
+        "ástráð mikit,",
+        "eitt er vissi:",
+        "\"Drep við haus Hymis,",
+        "hann er harðari,",
+        "kostmóðs jötuns",
+        "kálki hverjum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Uns það hin fríða",
+        "frilla kenndi",
+        "ástráð mikið,",
+        "eitt er vissi:",
+        "\"Drep við haus Hymis,",
+        "hann er harðari,",
+        "kostmóðs jötuns",
+        "kálki hverjum.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "But the loved one fair | of the giant found",
+        "A counsel true, | and told her thought:",
+        "Smite the skull of Hymir, | heavy with food,",
+        "For harder it is | than ever was glass.\"⟦31⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      31
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s31",
+     "stanza": 31,
+     "on": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Harðr reis á kné",
+        "hafra dróttinn,",
+        "færðisk allra",
+        "í ásmegin;",
+        "heill var karli",
+        "hjalmstofn ofan,",
+        "en vínferill",
+        "valr rifnaði."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Harður reis á kné",
+        "hafra dróttinn,",
+        "færðist allra",
+        "í ásmegin;",
+        "heill var karli",
+        "hjalmstofn ofan,",
+        "en vínferill",
+        "valur rifnaði."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "The goats' mighty ruler | then rose on his knee,",
+        "And with all the strength | of a god he struck;",
+        "Whole was the fellow's | helmet-stem,",
+        "But shattered the wine-cup | rounded was.⟦32⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      32
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s32",
+     "stanza": 32,
+     "on": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Mörg veit ek mæti",
+        "mér gengin frá,",
+        "er ek kálki sé",
+        "ór knéum hrundit;\"",
+        "karl orð of kvað:",
+        "\"knákat ek segja",
+        "aftr ævagi,",
+        "þú ert, ölðr, of heitt."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Mörg veit eg mæti",
+        "mér gengin frá,",
+        "er eg kálki sé",
+        "úr knéum hrundið;\"",
+        "karl orð of kvað:",
+        "\"knákað eg segja",
+        "aftur ævagi,",
+        "þú ert, ölður, of heitt."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Hymir spake:",
+        "\"Fair is the treasure | that from me is gone,",
+        "Since now the cup | on my knees lies shattered;\"",
+        "So spake the giant: | \"No more can I say",
+        "In days to be, | 'Thou art brewed, mine ale.'⟦33⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      33
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s33",
+     "stanza": 33,
+     "on": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Þat er til kostar,",
+        "ef koma mættið",
+        "út ór óru",
+        "ölkjól hofi.\"",
+        "Týr leitaði",
+        "tysvar hræra;",
+        "stóð at hváru",
+        "hverr kyrr fyrir."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Það er til kostar,",
+        "ef koma mættið",
+        "út úr óru",
+        "ölkjól hofi.\"",
+        "Týr leitaði",
+        "tysvar hræra;",
+        "stóð að hvoru",
+        "hver kyr fyrir."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Enough shall it be | if out ye can bring",
+        "Forth from our house | the kettle here.\"",
+        "Tyr then twice | to move it tried,",
+        "But before him the kettle | twice stood fast."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      34
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s34",
+     "stanza": 34,
+     "on": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Faðir Móða",
+        "fekk á þremi",
+        "ok í gegnum steig",
+        "golf niðr í sal;",
+        "hóf sér á höfuð upp",
+        "hver Sifjar verr,",
+        "en á hælum",
+        "hringar skullu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Faðir Móða",
+        "fékk á þremi",
+        "og í gegnum steig",
+        "golf niður í sal;",
+        "hóf sér á höfuð upp",
+        "hver Sifjar verr,",
+        "en á hælum",
+        "hringar skullu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "The father of Mothi | the rim seized firm,",
+        "And before it stood | on the floor below;",
+        "Up on his head | Sif's husband raised it,",
+        "And about his heels | the handles clattered.⟦35⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      35
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s35",
+     "stanza": 35,
+     "on": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Fóru-t lengi,",
+        "áðr líta nam",
+        "aftr Óðins sonr",
+        "einu sinni;",
+        "sá hann ór hreysum",
+        "með Hymi austan",
+        "folkdrótt fara",
+        "fjölhöfðaða."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Fóru-t lengi,",
+        "áður líta nam",
+        "aftur Óðins sonur",
+        "einu sinni;",
+        "sá hann úr hreysum",
+        "með Hymi austan",
+        "folkdrótt fara",
+        "fjölhöfðaða."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Not long had they fared, | ere backwards looked",
+        "The son of Othin, | once more to see;",
+        "From their caves in the east | beheld he coming",
+        "With Hymir the throng | of the many-headed.⟦36⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      36
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s36",
+     "stanza": 36,
+     "on": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Hóf hann sér af herðum",
+        "hver standanda,",
+        "veifði hann Mjöllni",
+        "morðgjörnum fram,",
+        "ok hraunhvala",
+        "hann alla drap."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Hóf hann sér af herðum",
+        "hver standanda,",
+        "veifði hann Mjöllni",
+        "morðgjörnum fram,",
+        "og hraunhvala",
+        "hann alla drap."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "He stood and cast | from his back the kettle,",
+        "And Mjollnir, the lover | of murder, he wielded;",
+        "................",
+        "So all the whales | of the waste he slew.⟦37⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      37
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s37",
+     "stanza": 37,
+     "on": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Fóru-t lengi,",
+        "áðr liggja nam",
+        "hafr Hlórriða",
+        "halfdauðr fyrir;",
+        "var skær skökuls",
+        "skakkr á beini,",
+        "en því inn lævísi",
+        "Loki of olli."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Fóru-t lengi,",
+        "áður liggja nam",
+        "hafur Hlórriða",
+        "halfdauður fyrir;",
+        "var skær skökuls",
+        "skakkur á beini,",
+        "en því hinn lævísi",
+        "Loki of olli."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Not long had they fared | ere one there lay",
+        "Of Hlorrithi's goats | half-dead on the ground;",
+        "In his leg the pole-horse | there was lame;",
+        "The deed the evil | Loki had done.⟦38⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      38
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s38",
+     "stanza": 38,
+     "on": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "En ér heyrt hafið, -",
+        "hverr kann of þat",
+        "goðmálugra",
+        "görr at skilja? -",
+        "hver af hraunbúa",
+        "hann laun of fekk,",
+        "er hann bæði galt",
+        "börn sín fyrir."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "En þér heyrt hafið, -",
+        "hver kann of það",
+        "goðmálugra",
+        "gör að skilja? -",
+        "hver af hraunbúa",
+        "hann laun of fékk,",
+        "er hann bæði galt",
+        "börn sín fyrir."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "But ye all have heard,— | for of them who have",
+        "The tales of the gods, | who better can tell?—",
+        "What prize he won | from the wilderness-dweller,",
+        "Who both his children | gave him to boot.⟦39⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      39
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "hym-s39",
+     "stanza": 39,
+     "on": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Þróttöflugr kom",
+        "á þing goða",
+        "ok hafði hver,",
+        "þanns Hymir átti;",
+        "en véar hverjan",
+        "vel skulu drekka",
+        "ölðr at Ægis",
+        "eitt hörmeitið."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Þróttöflugur kom",
+        "á þing goða",
+        "og hafði hver,",
+        "þanns Hymir átti;",
+        "en véar hverjan",
+        "vel skulu drekka",
+        "ölður að Ægis",
+        "eitt hörmeitið."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "The mighty one came | to the council of gods,",
+        "And the kettle he had | that Hymir's was;",
+        "So gladly their ale | the gods could drink",
+        "In Ægir's hall | at the autumn-time.⟦40⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      40
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "1",
+     "s": "Twigs: Vigfusson comments at some length on \"the rite practised in the heathen age of inquiring into the future by dipping bunches of chips or twigs into the blood (of sacrifices) and shaking them.\" But the two operations may have been separate, the twigs being simply \"divining-rods\" marked with runes. In either case, the gods were seeking information by magic as to where they could find plenty to drink. Ægir: a giant who is also the god of the sea; little is known of him outside of what is told here and in the introductory prose to the Lokasenna, though Snorri has a brief account of him, giving his home as Hlesey (Läsö, cf. Harbarthsljoth, 37). Grimnismol, 45, has a reference to this same feast."
+    },
+    {
+     "n": "2",
+     "s": "Mountain-dweller: the giant (Ægir). Line 2: the principal word in the original has defied interpretation, and any translation of the line must be largely guesswork. Ygg: Othin; his son is Thor. Some editors assume a gap after this stanza."
+    },
+    {
+     "n": "3",
+     "s": "Word-wielder: Thor. The giant: Ægir. Sif: Thor's wife; cf. Harbarthsljoth, 48. The kettle: Ægir's kettle is possibly the sea itself."
+    },
+    {
+     "n": "4",
+     "s": "Tyr: the god of battle; his two great achievements were thrusting his hand into the mouth of the wolf Fenrir so that the gods might bind him, whereby he lost his hand (cf. Voluspo, 39, note), and his fight with the hound Garm in the last battle, in which they kill each other. Hlorrithi: Thor."
+    },
+    {
+     "n": "5",
+     "s": "Elivagar (\"Stormy Waves\"): possibly the Milky Way; cf. Vafthruthnismol, 31, note. Hymir: this giant figures only in this episode. It is not clear why Tyr, who is elsewhere spoken of as a son of Othin, should here call Hymir his father. Finnur Jonsson, in an attempt to get round this difficulty, deliberately changed the word \"father\" to \"grandfather,\" but this does not help greatly."
+    },
+    {
+     "n": "6",
+     "s": "Neither manuscript has any superscriptions, but most editors have supplied them as above. From this point through stanza 11 the editors have varied considerably in grouping the lines into stanzas. The manuscripts indicate the third lines of stanzas 7, 8, 9, and 10 as beginning stanzas, but this makes more complications than the present arrangement. It is possible that, as Sijmons suggests, two lines have been lost after stanza 6."
+    },
+    {
+     "n": "7",
+     "s": "Egil: possibly, though by no means certainly, the father of Thor's servant, Thjalfi, for, according to Snorri, Thor's first\nstop on this journey was at the house of a peasant whose children, Thjalfi and Roskva, he took into his service; cf. stanza 38, note. The Arnamagnæan Codex has \"Ægir\" instead of \"Egil,\" but, aside from the fact that Thor had just left Ægir's house, the sea-god can hardly have been spoken of as a goat-herd."
+    },
+    {
+     "n": "8",
+     "s": "The youth: Tyr, whose extraordinary grandmother is Hymir's mother. We know nothing further of her, or of the other, who is Hymir's wife and Tyr's mother. It may be guessed, however, that she belonged rather to the race of the gods than to that of the giants."
+    },
+    {
+     "n": "11",
+     "s": "Two or three editors give this stanza a superscription (\"The concubine spake,\" \"The daughter spake\"). Line 3 is commonly regarded as spurious. The foeman of Hroth: of course this means Thor, but nothing is known of any enemy of his by this name. Several editors have sought to make a single word meaning \"the famous enemy\" out of the phrase. Concerning Thor as the friend of man, particularly of the peasant class, cf. introduction to Harbarthsljoth. Veur: another name, of uncertain meaning, for Thor."
+    },
+    {
+     "n": "13",
+     "s": "Eight: the giant's glance, besides breaking the beam, knocks down all the kettles with such violence that all but the one under which Thor and Tyr are hiding are broken."
+    },
+    {
+     "n": "14",
+     "s": "Hymir's wrath does not permit him to ignore the duties of a host to his guests, always strongly insisted on."
+    },
+    {
+     "n": "15",
+     "s": "Thor's appetite figures elsewhere; cf. Thrymskvitha, 24."
+    },
+    {
+     "n": "16",
+     "s": "The comrade of Hrungnir: Hymir, presumably simply because both are giants; cf. Harbarthsljoth, 14 and note."
+    },
+    {
+     "n": "17",
+     "s": "The manuscripts indicate no lacuna, and many editors unite stanza 17 with lines 1 and 2 of 18. Sijmons and Gering assume a gap after these two lines, but it seems more probable that the missing passage, if any, belonged before them, supplying the connection with the previous stanza."
+    },
+    {
+     "n": "18",
+     "s": "The manuscripts have no superscription. Many editors combine lines 3 and 4 with lines 1 and 2 of stanza 19. In Snorri's extended paraphrase of the story, Hymir declines to go fishing with Thor on the ground that the latter is too small a person to be worth bothering about. \"You would freeze,\" he says, \"if you stayed out in mid-ocean as long as I generally do.\" Bait (line 4): the word literally means \"chaff,\" hence any small bits; Hymir means that Thor should collect dung for bait."
+    },
+    {
+     "n": "19",
+     "s": "Many editors combine lines 3 and 4 with stanza 20. Fortress, etc.: the ox's head; cf. introductory note concerning the diction of this poem. Several editors assume a lacuna after stanza 19, but this seems unnecessary."
+    },
+    {
+     "n": "20",
+     "s": "The manuscripts have no superscription. Steerer of ships: probably merely a reference to Thor's intention to go fishing. The lacuna after stanza 20 is assumed by most editors."
+    },
+    {
+     "n": "21",
+     "s": "Lord of the goats: Thor, because of his goat-drawn chariot. Ape-begotten: Hymir; the word \"api,\" rare until relatively late times in its literal sense, is fairly common with the meaning of \"fool.\" Giants were generally assumed to be stupid. Steed of the rollers: a ship, because boats were pulled up on shore by means of rollers."
+    },
+    {
+     "n": "23",
+     "s": "Warder of men: Thor; cf. stanza 11. Worm's destroyer: likewise Thor, who in the last battle slays, and is slain by, Mithgarthsorm; cf. Voluspo, 56. The foe of the gods: Mithgarthsorm, who lies in the sea, and surrounds the whole earth."
+    },
+    {
+     "n": "24",
+     "s": "Hill of the hair: head,—a thoroughly characteristic skaldic phrase. Brother of Fenrir: Mithgarthsorm was, like the wolf Fenrir and the goddess Hel, born to Loki and the giantess Angrbotha (cf. Voluspo, 39 and note), and I have translated this line accordingly; but the word used in the text has been guessed as meaning almost anything from \"comrade\" to \"enemy.\""
+    },
+    {
+     "n": "25",
+     "s": "No gap is indicated in the manuscripts, but that a line or more has been lost is highly probable. In Snorri's version, Thor pulls so hard on the line that he drives both his feet through the flooring of the boat, and stands on bottom. When he pulls the serpent up, Hymir cuts the line with his bait-knife, which explains the serpent's escape. Thor, in a rage, knocks Hymir overboard with his hammer, and then wades ashore. The lines of stanzas 25 and 26 have been variously grouped."
+    },
+    {
+     "n": "26",
+     "s": "No gap is indicated in the manuscripts, but line 2 begins with a small letter. A second wind: another direction, i. e., he put about for the shore."
+    },
+    {
+     "n": "27",
+     "s": "No superscription in the manuscripts. In its place Bugge supplies a line—\"These words spake Hymir,  the giant wise.\" The manuscripts reverse the order of the lines 2 and 3, and in both of them line 4 stands after stanza 28. Goat of the flood: boat."
+    },
+    {
+     "n": "28",
+     "s": "Sea-horse: boat. Surf-swine: the whales."
+    },
+    {
+     "n": "29",
+     "s": "Snorri says nothing of this episode of Hymir's cup. The glass which cannot be broken appears in the folklore of various races."
+    },
+    {
+     "n": "31",
+     "s": "The loved one: Hymir's wife and Tyr's mother; cf. stanza 8 and note. The idea that a giant's skull is harder than stone or anything else is characteristic of the later Norse folk-stories, and in one of the so-called \"mythical sagas\" we find a giant actually named Hard-Skull."
+    },
+    {
+     "n": "32",
+     "s": "Helmet-stem: head."
+    },
+    {
+     "n": "33",
+     "s": "The manuscripts have no superscription. Line 4 in the manuscripts is somewhat obscure, and Bugge, followed by some editors, suggests a reading which may be rendered (beginning with the second half of line 3): \"No more can I speak / Ever again  as I spoke of old.\""
+    },
+    {
+     "n": "35",
+     "s": "The father of Mothi and Sif's husband: Thor."
+    },
+    {
+     "n": "36",
+     "s": "The many-headed: The giants, although rarely designated as a race in this way, sometimes had two or more heads; cf. stanza 8, Skirnismol, 31 and Vafthruthnismol, 33. Hymir's mother is, however, the only many-headed giant actually to appear in the action of the poems, and it is safe to assume that the tradition as a whole belongs to the period of Norse folk-tales of the märchen order."
+    },
+    {
+     "n": "37",
+     "s": "No gap is indicated in the manuscripts. Some editors put the missing line as 2, some as 3, and some, leaving the present three lines together, add a fourth, and metrically incorrect, one from late paper manuscripts: \"Who with Hymir  followed after.\" Whales of waste: giants."
+    },
+    {
+     "n": "38",
+     "s": "According to Snorri, when Thor set out with Loki (not Tyr) for the giants' land, he stopped first at a peasant's house (cf. stanza 7 and note). There he proceeded to cook his own goats for supper. The peasant's son, Thjalfi, eager to get at the marrow, split one of the leg-bones with his knife. The next morning, when Thor was ready to proceed with his journey, he called the goats to life again, but one of them proved irretrievably lame. His wrath led the peasant to give him both his children as servants (cf. stanza 39). Snorri does not indicate that Loki was in any way to blame."
+    },
+    {
+     "n": "39",
+     "s": "This deliberate introduction of the story-teller is exceedingly rare in the older poetry."
+    },
+    {
+     "n": "40",
+     "s": "The translation of the last two lines is mostly guesswork, as the word rendered \"gods\" is uncertain, and the one rendered \"at the autumn-time\" is quite obscure."
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "The Hymiskvitha is found complete in both manuscripts; in Regius it follows the Harbarthsljoth, while in the Arnamagnæan Codex it comes after the Grimnismol. Snorri does not quote it, although he tells the main story involved.",
+    "The poem is a distinctly inferior piece of work, obviously based on various narrative fragments, awkwardly pieced together. Some critics, Jessen and Edzardi for instance, have maintained that the compiler had before him three distinct poems, which he simply put together; others, like Finnur Jonsson and Mogk, think that the author made a new poem of his own on the basis of earlier poems, now lost. It seems probable that he took a lot of odds and ends of material concerning Thor, whether in prose or in verse, and worked them together in a perfunctory way, without much caring how well they fitted. His chief aim was probably to impress the credulous imaginations of hearers greedy for wonders.",
+    "The poem is almost certainly one of the latest of those dealing with the gods, though Finnur Jonsson, in order to support his theory of a Norwegian origin, has to date it relatively early. If, as seems probable, it was produced in Iceland, the chances are that it was composed in the first half of the eleventh century. Jessen, rather recklessly, goes so far as to put it two hundred years later. In any case, it belongs to a period of literary decadence,—the great days of Eddic poetry would never have permitted the nine hundred headed person found in Hymir's home—and to one in which the usual forms of diction in mythological poetry had yielded somewhat to the verbal subtleties of skaldic verse.",
+    "While the skaldic poetry properly falls outside the limits of this book, it is necessary here to say a word about it. There is preserved, in the sagas and elsewhere, a very considerable body of lyric poetry, the authorship of each poem being nearly always definitely stated, whether correctly or otherwise. This type of poetry is marked by an extraordinary complexity of diction, with a peculiarly difficult vocabulary of its own. It was to explain some of the \"kennings\" which composed this special vocabulary that Snorri wrote one of the sections of the Prose Edda. As an illustration, in a single stanza of one poem in the Egilssaga, a sword is called \"the halo of the helm,\" \"the wound-hoe,\" \"the blood-snake\" (possibly; no one is sure what the compound word means) and \"the ice of the girdle,\" while men appear in the same stanza as \"Othin's ash-trees,\" and battle is spoken of as \"the iron game.\" One of the eight lines has defied translation completely.",
+    "Skaldic diction made relatively few inroads into the earlier Eddic poems, but in the Hymiskvitha these circumlocutions are fairly numerous. This sets the poem somewhat apart from the rest of the mythological collection. Only the vigor of the two main stories—Thor's expedition after Hymir's kettle and the fishing trip in which he caught Mithgarthsorm—saves it from complete mediocrity."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Hymiskviða)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Hymiskvitha"
+ }
+}

@@ -1,0 +1,2356 @@
+{
+ "part": "poetic",
+ "poem": "sd",
+ "title": "Sigrdrífumál",
+ "group": "heroic",
+ "chapters": [
+  {
+   "num": 25,
+   "key": "sd",
+   "title": "Sigrdrífumál",
+   "subtitle": null,
+   "group": "heroic",
+   "rows": [
+    {
+     "id": "sd-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr reið upp á Hindarfjall ok stefndi suðr til Frakklands. Á fjallinu sá hann ljós mikit, svá sem eldr brynni, ok ljómaði af til himins. En er hann kom at, þá stóð þar skjaldborg ok upp ór merki. Sigurðr gekk í skjaldborgina ok sá , at þar lá maðr ok svaf með öllum hervápnum. Hann tók fyrst hjálminn af höfði hánum. Þá sá hann, at þat var kona. Brynjan var föst sem hon væri holdgróin. Þá reist hann með Gram frá höfuðsmátt brynjuna í gögnum niðr ok svá út í gögnum báðar ermar. Þá tók hann brynju af henni, en hon vaknaði, ok settist hon upp ok sá Sigurð ok mælti:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður reið upp á Hindarfjall og stefndi suður til Frakklands. Á fjallinu sá hann ljós mikið, svo sem eldur brynni, og ljómaði af til himins. En er hann kom að, þá stóð þar skjaldborg og upp úr merki. Sigurður gekk í skjaldborgina og sá , að þar lá maður og svaf með öllum hervápnum. Hann tók fyrst hjálminn af höfði hánum. Þá sá hann, að það var kona. Brynjan var föst sem hún væri holdgróin. Þá reist hann með Gram frá höfuðsmátt brynjuna í gögnum niður og svo út í gögnum báðar ermar. Þá tók hann brynju af henni, en hún vaknaði, og settist hún upp og sá Sigurð og mælti:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p1⟧Sigurth rode up on Hindarfjoll⟦p2⟧ and turned southward toward the land of the Franks⟦p3⟧. On the mountain he saw a great light, as if fire were burning, and the glow reached up to heaven. And when he came thither, there stood a tower of shields,⟦p4⟧ and above it was a banner. Sigurth went into the shield-tower, and saw that a man lay there sleeping with all his war-weapons. First he took the helm from his head, and then he saw that it was a woman. The mail-coat was as fast as if it had grown to the flesh. Then he cut the mail-coat from the head-opening downward, and out to both the arm-holes. Then he took the mail-coat from her, and she awoke, and sat up and saw Sigurth, and said:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Hvat beit brynju?",
+        "Hví brá ek svefni?",
+        "Hverr felldi af mér",
+        "fölvar nauðir?\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Hann svaraði:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Sigmundar burr,",
+        "- sleit fyr skömmu",
+        "hrafn hrælundir, -",
+        "hjörr Sigurðar!\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Hvað beit brynju?",
+        "Hví brá eg svefni?",
+        "Hver felldu af mér",
+        "fölvar nauðir?\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Hann svaraði:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Sigmundar bur,",
+        "- sleit fyr skömmu",
+        "hrafn hrælundir, -",
+        "hjör Sigurðar!\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"What bit through the byrnie? | how was broken my sleep?",
+        "Who made me free | of the fetters pale?\""
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "He answered:",
+        "\"Sigmund's son, | with Sigurth's sword,",
+        "That late with flesh | hath fed the ravens.\"⟦1⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hon kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Lengi ek svaf,",
+        "lengi ek sofnuð var,",
+        "löng eru lýða læ;",
+        "Óðinn því veldr,",
+        "er ek eigi máttak",
+        "bregða blundstöfum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hún kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Lengi eg svaf,",
+        "lengi eg sofnuð var,",
+        "löng eru lýða læ;",
+        "Óðinn því veldur,",
+        "er eg eigi máttak",
+        "bregða blundstöfum.\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-p2",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr settist niðr ok spyrr hana nafns. Hon tók þá horn fullt mjaðar ok gaf honum minnisveig:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður settist niður og spyr hana nafns. Hún tók þá horn fullt mjaðar og gaf honum minnisveig:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Sigurth sat beside her and asked her name. She took a horn full of mead and gave him a memory-draught.⟦p5⟧"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Heill dagr!",
+        "Heilir dags synir!",
+        "Heil nótt ok nift!",
+        "Óreiðum augum",
+        "lítið okkr þinig",
+        "ok gefið sitjöndum sigr!"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Heill dagur!",
+        "Heilir dags synir!",
+        "Heil nótt og nift!",
+        "Óreiðum augum",
+        "lítið okkur þinig",
+        "og gefið sitjöndum sigur!"
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Hail, day! | Hail, sons of day!",
+        "And night and her daughter now!",
+        "Look on us here | with loving eyes,",
+        "That waiting we victory win.⟦2⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Heilir æsir!",
+        "Heilar ásynjur!",
+        "Heil sjá in fjölnýta fold!",
+        "Mál ok mannvit",
+        "gefið okkr mærum tveim",
+        "ok læknishendr, meðan lifum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Heilir æsir!",
+        "Heilar ásynjur!",
+        "Heil sjá hin fjölnýta fold!",
+        "Mál og manvit",
+        "gefið okkur mærum tveim",
+        "og læknishendur, meðan lifum.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Hail to the gods! | Ye goddesses, hail,",
+        "And all the generous earth!",
+        "Give to us wisdom | and goodly speech,",
+        "And healing hands, life-long."
+       ]
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Long did I sleep, | my slumber was long,",
+        "And long are the griefs of life;",
+        "Othin decreed | that I could not break",
+        "The heavy spells of sleep.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3,
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-p3",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Hon nefndist Sigrdrífa ok var valkyrja. Hon sagði, at tveir konungar börðust. Hét annarr Hjálmgunnarr. Hann var þá gamall ok inn mesti hermaðr, ok hafði Óðinn hánum sigri heitit en"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Hún nefndist Sigrdrífa og var valkyrja. Hún sagði, að tveir konungar börðust. Hét annar Hjálmgunnar. Hann var þá gamall og hinn mesti hermaður, og hafði Óðinn hánum sigri heitið en"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "⟦p6⟧Her name was Sigrdrifa⟦p7⟧, and she was a Valkyrie. She said that two kings fought in battle; one was called Hjalmgunnar, an old man but a mighty warrior, and Othin had promised him the victory, and"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-p4",
+     "stanza": null,
+     "on": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"annarr hét Agnarr,",
+        "Auðu bróðir,",
+        "er vætr engi",
+        "vildi þiggja.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"annar hét Agnar,",
+        "Auðu bróðir,",
+        "er vætur enginn",
+        "vildi þiggja.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "The other was Agnar, | brother of Autha,",
+        "None he found | who fain would shield him."
+       ]
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-p5",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigrdrífa felldi Hjálmgunnarr í orrustunni, en Óðinn stakk hana svefnþorni í hefnd þess ok kvað hana aldri skyldu síðan sigr vega í orrustu ok kvað hana giftast skyldu - \"en ek sagðak hánum, at ek strengðak heit þar í mót at giftast engum þeim manni, er hræðast kynni.\" Hann segir ok biðr hana kenna sér speki, ef hon vissi tíðindi ór öllum heimum. Sigrdrífa kvað:"
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigrdrífa felldu Hjálmgunnar í orrustunni, en Óðinn stakk hana svefnþorni í hefnd þess og kvað hana aldrei skyldu síðan sigur vega í orustu og kvað hana giftast skyldu - \"en eg sagðak hánum, að eg strengðak heit þar í mót að giftast engum þeim manni, er hræðast kynni.\" Hann segir og biður hana kenna sér speki, ef hún vissi tíðindi úr öllum heimum. Sigrdrífa kvað:"
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Sigrdrifa slew Hjalmgunnar in the battle, and Othin pricked her with the sleep-thorn in punishment for this, and said that she should never thereafter win victory in battle, but that she should be wedded. \"And I said to him that I had made a vow in my turn, that I would never marry a man who knew the meaning of fear.\" Sigurth answered and asked her to teach him wisdom, if she knew of what took place in all the worlds. Sigrdrifa said:"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Bjór færi ek þér,",
+        "brynþings apaldr,",
+        "magni blandinn",
+        "ok megintíri;",
+        "fullr er hann ljóða",
+        "ok líknstafa,",
+        "góðra galdra",
+        "ok gamanrúna."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Bjór færi eg þér,",
+        "brynþings apaldur,",
+        "magni blandinn",
+        "og megintíri;",
+        "fullur er hann ljóða",
+        "og líknstafa,",
+        "góðra galdra",
+        "og gamanrúna."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Beer I bring thee, | tree of battle,",
+        "Mingled of strength | and mighty fame;",
+        "Charms it holds | and healing signs,",
+        "Spells full good, | and gladness-runes.\""
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "******⟦5⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Sigrúnar skaltu kunna,",
+        "ef þú vilt sigr hafa,",
+        "ok rísta á hjalti hjörs,",
+        "sumar á véttrimum,",
+        "sumar á valböstum,",
+        "ok nefna tysvar Tý."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Sigrúnar skaltu kunna,",
+        "ef þú vilt sigur hafa,",
+        "og rísta á hjalti hjörs,",
+        "sumar á véttrimum,",
+        "sumar á valböstum,",
+        "og nefna tysvar Tý."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Winning-runes learn, | if thou longest to win,",
+        "And the runes on thy sword-hilt write;",
+        "Some on the furrow, | and some on the flat,",
+        "And twice shalt thou call on Tyr.⟦6⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Ölrúnar skaltu kunna,",
+        "ef þú vill annars kvæn",
+        "véli-t þik í tryggð, ef þú trúir;",
+        "á horni skal þær rísta",
+        "ok á handar baki",
+        "ok merkja á nagli Nauð."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Ölrúnar skaltu kunna,",
+        "ef þú vill annars kvæn",
+        "véli-t þig í tryggð, ef þú trúir;",
+        "á horni skal þær rísta",
+        "og á handar baki",
+        "og merkja á nagli Nauð."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Ale-runes learn, | that with lies the wife",
+        "Of another betray not thy trust;",
+        "On the horn thou shalt write, | and the backs of thy hands,",
+        "And Need shalt mark on thy nails.",
+        "Thou shalt bless the draught, | and danger escape,",
+        "And cast a leek in the cup;",
+        "(For so I know | thou never shalt see",
+        "Thy mead with evil mixed.)⟦7⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Full skal signa",
+        "ok við fári sjá",
+        "ok verpa lauki í lög;",
+        "þá ek þat veit,",
+        "at þér verðr aldri",
+        "meinblandinn mjöðr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Full skal signa",
+        "og við fári sjá",
+        "og verpa lauki í lög;",
+        "þá eg það veit,",
+        "að þér verður aldrei",
+        "meinblandinn mjöður."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Birth-runes learn, | if help thou wilt lend,",
+        "The babe from the mother to bring;",
+        "On thy palms shalt write them, | and round thy joints,",
+        "And ask the fates to aid."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Bjargrúnar skaltu kunna,",
+        "ef þú bjarga vilt",
+        "ok leysa kind frá konum;",
+        "á lófum þær skal rísta",
+        "ok of liðu spenna",
+        "ok biðja þá dísir duga."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Bjargrúnar skaltu kunna,",
+        "ef þú bjarga vilt",
+        "og leysa kind frá konum;",
+        "á lófum þær skal rísta",
+        "og of liðu spenna",
+        "og biðja þá dísir duga."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Wave-runes learn, | if well thou wouldst shelter",
+        "The sail-steeds out on the sea;",
+        "On the stem shalt thou write, | and the steering-blade,",
+        "And burn them into the oars;",
+        "Though high be the breakers, | and black the waves,",
+        "Thou shalt safe the harbor seek.⟦9⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Brimrúnar skaltu rísta,",
+        "ef þú vilt borgit hafa",
+        "á sundi seglmörum;",
+        "á stafni skal rísta",
+        "ok á stjórnarblaði",
+        "ok leggja eld í ár,",
+        "er-a svá brattr breki",
+        "né svá bláar unnir,",
+        "þó kemstu heill af hafi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Brimrúnar skaltu rísta,",
+        "ef þú vilt borgið hafa",
+        "á sundi seglmörum;",
+        "á stafni skal rísta",
+        "og á stjórnarblaði",
+        "og leggja eld í ár,",
+        "er-a svo brattur breki",
+        "né svo bláar unnir,",
+        "þó kemstu heill af hafi."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Branch-runes learn, | if a healer wouldst be,",
+        "And cure for wounds wouldst work;",
+        "On the bark shalt thou write, | and on trees that be",
+        "With boughs to the eastward bent.⟦10⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Limrúnar skaltu kunna,",
+        "af þú vilt læknir vera,",
+        "ok kunna sár at sjá;",
+        "á berki skal þær rísta",
+        "ok á baðmi viðar,",
+        "þeim er lúta austr limar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Limrúnar skaltu kunna,",
+        "af þú vilt læknir vera,",
+        "og kunna sár að sjá;",
+        "á berki skal þær rísta",
+        "og á baðmi viðar,",
+        "þeim er lúta austur limar."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Speech-runes learn, | that none may seek",
+        "To answer harm with hate;",
+        "Well he winds | and weaves them all,",
+        "And sets them side by side,",
+        "At the judgment-place, | when justice there",
+        "The folk shall fairly win.⟦11⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Málrúnar skaltu kunna,",
+        "ef þú vilt, at manngi þér",
+        "heiftum gjaldi harm:",
+        "þær of vindr,",
+        "þær of vefr,",
+        "þær of setr allar saman",
+        "á því þingi,",
+        "er þjóðir skulu",
+        "í fulla dóma fara."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Málrúnar skaltu kunna,",
+        "ef þú vilt, að manngi þér",
+        "heiftum gjaldi harm:",
+        "þær of vindur,",
+        "þær of vefur,",
+        "þær of setur allar saman",
+        "á því þingi,",
+        "er þjóðir skulu",
+        "í fulla dóma fara."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Thought-runes learn, | if all shall think",
+        "Thou art keenest minded of men."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "******⟦12⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "s_en": 0.29
+    },
+    {
+     "id": "sd-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Hugrúnar skaltu kunna,",
+        "ef þú vilt hverjum vera",
+        "geðsvinnari guma;",
+        "þær of réð,",
+        "þær of reist,",
+        "þær of hugði Hroftr",
+        "af þeim legi,",
+        "er lekit hafði",
+        "ór hausi Heiðdraupnis",
+        "ok ór horni Hoddrofnis."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Hugrúnar skaltu kunna,",
+        "ef þú vilt hverjum vera",
+        "geðsvinnari guma;",
+        "þær of réð,",
+        "þær of reist,",
+        "þær of hugði Hroftur",
+        "af þeim legi,",
+        "er lekið hafði",
+        "úr hausi Heiðdraupnis",
+        "og úr horni Hoddrofnis."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Them Hropt arranged, | and them he wrote,",
+        "And them in thought he made,",
+        "Out of the draught | that down had dropped",
+        "From the head of Heithdraupnir,",
+        "And the horn of Hoddrofnir.⟦13⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Á bjargi stóð",
+        "með Brimis eggjar,",
+        "hafði sér á höfði hjalm;",
+        "þá mælti Mímis höfuð",
+        "fróðligt it fyrsta orð",
+        "ok sagði sanna stafi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Á bjargi stóð",
+        "með Brimis eggjar,",
+        "hafði sér á höfði hjalm;",
+        "þá mælti Mímis höfuð",
+        "fróðlegt it fyrsta orð",
+        "og sagði sanna stafi."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "On the mountain he stood | with Brimir's sword,",
+        "On his head the helm he bore;",
+        "Then first the head | of Mim spoke forth,",
+        "And words of truth it told."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "******⟦14⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Á skildi kvað ristnar,",
+        "þeim er stendr fyr skínandi goði,",
+        "á eyra Árvakrs",
+        "ok á Alsvinns hófi,",
+        "á því hvéli, er snýsk",
+        "undir reið Hrungnis,",
+        "á Sleipnis tönnum",
+        "ok á sleða fjötrum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Á skildi kvað ristnar,",
+        "þeim er stendur fyr skínandi goði,",
+        "á eyra Árvakkurs",
+        "og á Alsvinns hófi,",
+        "á því hvéli, er snýst",
+        "undir reið Hrungnis,",
+        "á Sleipnis tönnum",
+        "og á sleða fjötrum."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "He bade write on the shield | before the shining goddess,",
+        "On Arvak's ear, | and on Alsvith's hoof,",
+        "On the wheel of the car | of Hrungnir's killer,",
+        "On Sleipnir's teeth, | and the straps of the sledge.⟦15⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      15
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Á bjarnar hrammi",
+        "ok á Braga tungu,",
+        "á ulfs klóum",
+        "ok á arnar nefi,",
+        "á blóðgum vængjum",
+        "ok á brúar sporði,",
+        "á lausnar lófa",
+        "ok á líknar spori."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Á bjarnar hrammi",
+        "og á Braga tungu,",
+        "á ulfs klóum",
+        "og á arnarham nefi,",
+        "á blóðgum vængjum",
+        "og á brúar sporði,",
+        "á lausnar lófa",
+        "og á líknar spori."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "On the paws of the bear, | and on Bragi's tongue,",
+        "On the wolf's claws bared, | and the eagle's beak,",
+        "On bloody wings, | and bridge's end,",
+        "On freeing hands | and helping foot-prints.⟦16⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      16
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Á gleri ok á gulli",
+        "ok á gumna heillum,",
+        "í víni ok í virtri",
+        "ok vilisessi,",
+        "á Gugnis oddi",
+        "ok á Grana brjósti,",
+        "á nornar nagli",
+        "ok á nefi uglu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Á gleri og á gulli",
+        "og á gumna heillum,",
+        "í víni og í virtri",
+        "og vilisessi,",
+        "á Gugnis oddi",
+        "og á Grana brjósti,",
+        "á nornar nagli",
+        "og á nefi uglu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "On glass and on gold, | and on goodly charms,",
+        "In wine and in beer, | and on well-loved seats,",
+        "On Gungnir's point, | and on Grani's breast,",
+        "On the nails of Norns, | and the night-owl's beak."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "******⟦17⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      17
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Allar váru af skafnar,",
+        "þær er váru á ristnar,",
+        "ok hverfðar við inn helga mjöð",
+        "ok sendar á víða vega;",
+        "þær ro með ásum,",
+        "þær ro með alfum,",
+        "sumar með vísum vönum",
+        "sumar hafa mennskir menn."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Allar voru af skafnar,",
+        "þær er voru á ristnar,",
+        "og hverfðar við hinn helga mjöð",
+        "og sendar á víða vega;",
+        "þær ro með ásum,",
+        "þær ro með álfum,",
+        "sumar með vísum vönum",
+        "sumar hafa mennskir menn."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Shaved off were the runes | that of old were written,",
+        "And mixed with the holy mead,",
+        "And sent on ways so wide;",
+        "So the gods had them, | so the elves got them,",
+        "And some for the Wanes so wise,",
+        "And some for mortal men.⟦18⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      18
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Þat eru bókrúnar,",
+        "þat eru bjargrúnar",
+        "ok allar ölrúnar",
+        "ok mætar meginrúnar,",
+        "hveim er þær kná óvilltar",
+        "ok óspilltar",
+        "sér at heillum hafa;",
+        "njóttu, ef þú namst,",
+        "unz rjúfask regin."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Það eru bókrúnar,",
+        "það eru bjargrúnar",
+        "og allar ölrúnar",
+        "og mætar meginrúnar,",
+        "hveim er þær kná óvilltar",
+        "og óspilltar",
+        "sér að heillum hafa;",
+        "njóttu, ef þú namst,",
+        "uns rjúfast regin."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Beech-runes are there, | birth-runes are there,",
+        "And all the runes of ale,",
+        "And the magic runes of might;",
+        "Who knows them rightly | and reads them true,",
+        "Has them himself to help;",
+        "Ever they aid,",
+        "Till the gods are gone."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "******⟦19⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Nú skaltu kjósa,",
+        "alls þér er kostr of boðinn,",
+        "hvassa vápna hlynr;",
+        "sögn eða þögn",
+        "hafðu þér sjalfr í hug;",
+        "öll eru mein of metin.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Nú skaltu kjósa,",
+        "alls þér er kostur of boðinn,",
+        "hvassa vápna hlynur;",
+        "sögn eða þögn",
+        "hafðu þér sjalfur í hug;",
+        "öll eru mein of metin.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Brynhild spake:",
+        "\"Now shalt thou choose, | for the choice is given,",
+        "Thou tree of the biting blade;",
+        "Speech or silence, | 'tis thine to say,",
+        "Our evil is destined all.\"⟦20⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      20
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigurðr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Munk-a ek flæja,",
+        "þótt mik feigan vitir,",
+        "emk-a ek með bleyði borinn;",
+        "ástráð þín",
+        "ek vil öll hafa;",
+        "svá lengi sem ek lifi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigurður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Munk-a eg flæja,",
+        "þótt mig feigan vitir,",
+        "emk-a eg með bleyði borinn;",
+        "ástráð þín",
+        "eg vil öll hafa;",
+        "svo lengi sem eg lifi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Sigurth spake:",
+        "\"I shall not flee, | though my fate be near,",
+        "I was born not a coward to be;",
+        "Thy loving word | for mine will I win,",
+        "As long as I shall live.\""
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "******⟦21⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      21
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "p",
+       "s": "Sigrdrífa kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Þat ræð ek þér it fyrsta,",
+        "at þú við frændr þína",
+        "vammalaust verir;",
+        "síðr þú hefnir,",
+        "þótt þeir sakar geri;",
+        "þat kveða dauðum duga."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Sigrdrífa kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Það ræð eg þér it fyrsta,",
+        "að þú við frændur þína",
+        "vammalaust verir;",
+        "síður þú hefnir,",
+        "þótt þeir sakir geri;",
+        "það kveða dauðum duga."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Then first I rede thee, | that free of guilt",
+        "Toward kinsmen ever thou art;",
+        "No vengeance have, | though they work thee harm,",
+        "Reward after death thou shalt win.⟦22⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      22
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Þat ræð ek þér annat,",
+        "at þú eið né sverir,",
+        "nema þann er saðr sé;",
+        "grimmar limar",
+        "ganga at tryggðrofi;",
+        "armr er vára vargr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Það ræð eg þér annað,",
+        "að þú eið né sverir,",
+        "nema þann er saður sé;",
+        "grimmar limar",
+        "ganga að tryggðrofi;",
+        "armur er vára vargur."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Then second I rede thee, | to swear no oath",
+        "If true thou knowest it not;",
+        "Bitter the fate | of the breaker of troth,",
+        "And poor is the wolf of his word.⟦23⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      23
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Þat ræð ek þér þriðja,",
+        "at þú þingi á",
+        "deili-t við heimska hali,",
+        "því að ósviðr maðr",
+        "lætur oft kveðin",
+        "verri orð en viti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Það ræð eg þér þriðja,",
+        "að þú þingi á",
+        "deili-t við heimska hali,",
+        "því að ósviður maður",
+        "lætur oft kveðin",
+        "verri orð en viti."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Then third I rede thee, | that thou at the Thing",
+        "Shalt fight not in words with fools;",
+        "For the man unwise | a worser word",
+        "Than he thinks doth utter oft."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      24
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Allt er vant,",
+        "ef þú við þegir,",
+        "þá þykkir þú með bleyði borinn",
+        "eða sönnu sagðr;",
+        "hættr er heimis kviðr,",
+        "nema sér góðan geti; -",
+        "annars dags",
+        "láttu hans öndu farit,",
+        "ok launa svá lýðum lygi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Allt er vant,",
+        "ef þú við þegir,",
+        "þá þykir þú með bleyði borinn",
+        "eða sönnu sagður;",
+        "hættur er heimis kviður,",
+        "nema sér góðan geti; -",
+        "annars dags",
+        "láttu hans öndu farið,",
+        "og launa svo lýðum lygi."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Ill it is | if silent thou art,",
+        "A coward born men call thee,",
+        "And truth mayhap they tell;",
+        "Seldom safe is fame,",
+        "Unless wide renown be won;",
+        "On the day thereafter | send him to death,",
+        "Let him pay the price of his lies.⟦25⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      25
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Þat ræð ek þér it fjórða,",
+        "ef býr fordæða",
+        "vammafull á vegi,",
+        "ganga er betra",
+        "en giska sé,",
+        "þótt þik nótt of nemi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Það ræð eg þér it fjórða,",
+        "ef býr fordæða",
+        "vammafull á vegi,",
+        "ganga er betri",
+        "en giska sé,",
+        "þótt þig nótt of nemi."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Then fourth I rede thee, | if thou shalt find",
+        "A wily witch on thy road,",
+        "It is better to go | than her guest to be,",
+        "Though night enfold thee fast."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      26
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s27",
+     "stanza": 27,
+     "on": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Fornjósnar augu",
+        "þurfu fira synir,",
+        "hvars skulu vreiðir vega;",
+        "oft bölvísar konur",
+        "sitja brautu nær,",
+        "þær er deyfa sverð ok sefa."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Fornjósnar augu",
+        "þurfu firra synir,",
+        "hvars skulu vreiðir vega;",
+        "oft bölvísar konur",
+        "sitja brautu nær,",
+        "þær er deyfa sverð og sefa."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Eyes that see | need the sons of men",
+        "Who fight in battle fierce;",
+        "Oft witches evil | sit by the way,",
+        "Who blade and courage blunt.⟦27⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      27
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s28",
+     "stanza": 28,
+     "on": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Þat ræð ek þér it fimmta,",
+        "þóttú fagrar séir",
+        "brúðir bekkjum á,",
+        "sifja silfr",
+        "lát-a-ðu þínum svefni ráða;",
+        "teygj-at-tu þér at kossi konur."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Það ræð eg þér it fimmta,",
+        "þóttú fagrar séir",
+        "brúðir bekkjum á,",
+        "sifja silfur",
+        "lát-a-ðu þínum svefni ráða;",
+        "teygj-at-tu þér að kossi konur."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Then fifth I rede thee, | though maidens fair",
+        "Thou seest on benches sitting,",
+        "Let the silver of kinship | not rob thee of sleep,",
+        "And the kissing of women beware.⟦28⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      28
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s29",
+     "stanza": 29,
+     "on": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Þat ræð ek þér it sétta,",
+        "þótt með seggjum fari",
+        "ölðrmál til öfug,",
+        "drukkin deila",
+        "skal-at-tu við dolgviðu;",
+        "margan stelr vín viti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Það ræð eg þér it sjötta,",
+        "þótt með seggjum fari",
+        "ölðrmál til öfug,",
+        "drukkin deila",
+        "skal-at-tu við dolgviðu;",
+        "margan stelur vín viti."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Then sixth I rede thee, | if men shall wrangle,",
+        "And ale-talk rise to wrath,",
+        "No words with a drunken | warrior have,",
+        "For wine steals many men's wits.⟦29⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      29
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s30",
+     "stanza": 30,
+     "on": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Söngr ok öl",
+        "hefr seggjum verit",
+        "mörgum at móðtrega,",
+        "sumum at bana,",
+        "sumum at bölstöfum;",
+        "fjölð er, þat er fira tregr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Söngur og öl",
+        "hefur seggjum verið",
+        "mörgum að móðtrega,",
+        "sumum að bana,",
+        "sumum að bölstöfum;",
+        "fjölð er, það er firra tregur."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Brawls and ale | full oft have been",
+        "An ill to many a man,",
+        "Death for some, | and sorrow for some;",
+        "Full many the woes of men.⟦30⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      30
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s31",
+     "stanza": 31,
+     "on": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Þat ræð ek þér it sjaunda,",
+        "ef þú sakar deilir",
+        "við hugfulla hali,",
+        "berjask er betra",
+        "en brenna sé",
+        "inni auðstöfum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Það ræð eg þér it sjöunda,",
+        "ef þú sakir deilir",
+        "við hugfulla hali,",
+        "berjast er betri",
+        "en brenna sé",
+        "inni auðstöfum."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Then seventh I rede thee, | if battle thou seekest",
+        "With a foe that is full of might;",
+        "It is better to fight | than to burn alive",
+        "In the hall of the hero rich.⟦31⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      31
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s32",
+     "stanza": 32,
+     "on": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Þat ræð ek þér it átta,",
+        "at þú skalt við illu sjá",
+        "ok firrask flærðarstafi;",
+        "mey þú teygj-at",
+        "né manns konu",
+        "né eggja ofgamans."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Það ræð eg þér it átta,",
+        "að þú skalt við illu sjá",
+        "og firrast flærðarstafi;",
+        "mey þú teygj-at",
+        "né manns konu",
+        "né eggja ofgamans."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Then eighth I rede thee, | that evil thou shun,",
+        "And beware of lying words;",
+        "Take not a maid, | nor the wife of a man,",
+        "Nor lure them on to lust."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      32
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s33",
+     "stanza": 33,
+     "on": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Þat ræð ek þér it níunda,",
+        "at þú náum bjargir,",
+        "hvars þú á foldu finnr,",
+        "hvárts eru sóttdauðir",
+        "eða eru sædauðir",
+        "eða eru vápndauðir verar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Það ræð eg þér it níunda,",
+        "að þú náum bjargir,",
+        "hvars þú á foldu finnur,",
+        "hvárts eru sóttdauðir",
+        "eða eru sædauðir",
+        "eða eru vápndauðir verar."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Then ninth I rede thee: | burial render",
+        "If thou findest a fallen corpse,",
+        "Of sickness dead, | or dead in the sea,",
+        "Or dead of weapons' wounds."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      33
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s34",
+     "stanza": 34,
+     "on": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Laug skal gera,",
+        "þeim er liðnir eru,",
+        "þváa hendr ok höfuð,",
+        "kemba ok þerra,",
+        "áðr í kistu fari,",
+        "ok biðja sælan sofa."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Laug skal gera,",
+        "þeim er liðnir eru,",
+        "þváa hendur og höfuð,",
+        "kemba og þerra,",
+        "áður í kistu fari,",
+        "og biðja sælan sofa."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "A bath shalt thou give them | who corpses be,",
+        "And hands and head shalt wash;",
+        "Wipe them and comb, | ere they go in the coffin,",
+        "And pray that they sleep in peace.⟦34⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      34
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s35",
+     "stanza": 35,
+     "on": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Þat ræð ek þér it tíunda,",
+        "at þú trúir aldregi",
+        "várum vargdropa,",
+        "hvárstu ert bróður bani",
+        "eða hafir þú felldan föður;",
+        "ulfr er í ungum syni,",
+        "þó sé hann gulli gladdr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Það ræð eg þér it tíunda,",
+        "að þú trúir aldregi",
+        "várum vargdropa,",
+        "hvárstu ert bróður bani",
+        "eða hafir þú felldan föður;",
+        "ulfur er í ungum syni,",
+        "þó sé hann gulli gladdur."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Then tenth I rede thee, | that never thou trust",
+        "The word of the race of wolves,",
+        "(If his brother thou broughtest to death,",
+        "Or his father thou didst fell;)",
+        "Often a wolf | in a son there is,",
+        "Though gold he gladly takes.⟦35⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      35
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s36",
+     "stanza": 36,
+     "on": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Sakar ok heiftir",
+        "hyggja-t svefngar vera",
+        "né harm in heldr;",
+        "vits ok vápna",
+        "vant er jöfri at fá",
+        "þeim er skal fremstr með firum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Sakir og heiftir",
+        "hyggja-t svefngar vera",
+        "né harm hin heldur;",
+        "vits og vápna",
+        "vant er jöfri að fá",
+        "þeim er skal fremstur með firum."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Battle and hate | and harm, methinks,",
+        "Full seldom fall asleep;",
+        "Wits and weapons | the warrior needs",
+        "If boldest of men he would be.⟦36⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      36
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "sd-s37",
+     "stanza": 37,
+     "on": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Þat ræð ek þér it ellifta,",
+        "at þú við illu séir",
+        "hvern veg at vini;",
+        "langt líf þykkjumk-a-k",
+        "lofðungs vita;",
+        "römm eru róg of risin.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Það ræð eg þér it ellefta,",
+        "að þú við illu séir",
+        "hvern veg að vini;",
+        "langt líf þykkjumk-a-k",
+        "lofðungs vita;",
+        "römm eru róg of risin.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Then eleventh I rede thee, | that wrath thou shun,",
+        "And treachery false with thy friends;",
+        "Not long the leader's | life shall be,",
+        "For great are the foes he faces.⟦37⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      37
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "p1",
+     "s": "Prose. The introductory prose follows without break the prose concluding the Fafnismol, the point of division being arbitrary and not agreed upon by all editors."
+    },
+    {
+     "n": "p2",
+     "s": "Hindarfjoll: cf. Fafnismol, 42 and note."
+    },
+    {
+     "n": "p3",
+     "s": "Franks: this does not necessarily mean that Sigurth was on his way to the Gjukungs' home, for Sigmund had a kingdom in the land of the Franks (cf. Fra Dautha Sinfjotla)."
+    },
+    {
+     "n": "p4",
+     "s": "Shields: the annotator probably drew the notion of the shield-tower from the reference in Helreith Brynhildar, 9. The flame-girt tower was not uncommon; cf. Mengloth's hall in Svipdagsmol."
+    },
+    {
+     "n": "1",
+     "s": "This stanza, and the two lines included in the prose after stanza 4, and possibly stanza 5 as well, evidently come from a different poem from stanzas 2-4. Lines 3-4 in the original are obscure, though the general meaning is clear."
+    },
+    {
+     "n": "p5",
+     "s": "Prose (after stanza 1). In the manuscript stanza 4 stands before this prose note and stanzas 2-3. The best arrangement of the stanzas seems to be the one here given, following Müllenhoff's suggestion, but the prose note is out of place anywhere. The first sentence of it ought to follow stanza 4 and immediately precede the next prose note; the second sentence ought to precede stanza 5."
+    },
+    {
+     "n": "2",
+     "s": "Sons of day: the spirits of light. The daughter of night (Not), according to Snorri, was Jorth (Earth)."
+    },
+    {
+     "n": "p6",
+     "s": "Prose (after stanza 4). A few editions insert in this prose passage stanzas 7-10 of Helreith Brynhildar, which may or may not have belonged originally to this poem."
+    },
+    {
+     "n": "p7",
+     "s": "Sigrdrifa: on the error whereby this epithet, \"victory-bringer,\" became a proper name cf. Fafnismol, 44 and note."
+    },
+    {
+     "n": "5",
+     "s": "This stanza is perhaps, but by no means surely, from the same poem as stanza 1. Tree of battle: warrior. Runes: the earliest runes were not letters, but simply signs supposed to possess magic power; out of them developed the \"runic alphabet.\""
+    },
+    {
+     "n": "6",
+     "s": "Stanzas 6-12 give a list of runes which probably had no original connection with the Brynhild-Sigurth story. Tyr: the sword-god (cf. Hymiskvitha, 4 and note); \"tyr\" is also the name of a rune which became \"T.\""
+    },
+    {
+     "n": "7",
+     "s": "Regius gives only lines 1-6; lines 7-8 are added from Volsungasaga. Lies, etc.: a guest on his arrival received a draught of ale from the hands of his host's wife, and it was to prevent this draught from bewitching him that the runes were recommended. Need: the word \"nauth,\" meaning \"need,\" is also the name of the rune which became \"N.\" Leek: leeks were long supposed to have the power of counteracting poison or witchcraft."
+    },
+    {
+     "n": "9",
+     "s": "Sail-steeds: ships."
+    },
+    {
+     "n": "10",
+     "s": "Branch-runes: runes cut in the bark of trees. Such runes were believed to transfer sickness from the invalid to the tree. Some editors, however, have changed \"limrunar\" (\"branch-runes\") to \"lifrunar\" (\"life-runes\")."
+    },
+    {
+     "n": "11",
+     "s": "Lines 3-6 look like an accidental addition, replacing two lines now lost. They mean, apparently, that the man who interweaves his speech with \"speech-runes\" when he pleads his case at the \"Thing,\" or popular tribunal, will not unduly enrage his adversary in the argument of the case."
+    },
+    {
+     "n": "12",
+     "s": "Here the list of runes breaks off, though the manuscript indicates no gap, and three short passages of a different type, though all dealing with runes, follow."
+    },
+    {
+     "n": "13",
+     "s": "Stanzas 13-14 appear to have come from a passage regarding Othin's getting of the runes similar to Hovamol, 139-146. Editors have tried various combinations of the lines in stanzas 12-14. Hropt: Othin; cf. Voluspo, 62. The draught, etc.: apparently the reference is to the head of Mim, from which Othin derived his wisdom in magic (cf. Voluspo, 47 and note); Heithdraupnir (\"Light-Dropper\") and Hoddrofnir (\"Treasure-Opener\") seem to be names for Mim."
+    },
+    {
+     "n": "14",
+     "s": "This stanza is clearly in bad shape; perhaps, as the manuscript indicates, a new stanza, of which most has been lost, should begin with line 3. Brimir: a giant (cf. Voluspo, 9 and 37); why Othin should have his sword is unknown."
+    },
+    {
+     "n": "15",
+     "s": "Stanzas 15-17 constitute a wholly distinct rune-chant. Line 1 is unusually long in the original, as here. Shield: the shield Svalin (\"Cooling\") that stands in front of the sun; cf. Grimnismol, 38. Arvak (\"Early Waker\") and Alsvith (\"All-Swift\"): the horses that draw the sun's car; cf. Grimnismol, 37. Hrungnir: the slayer of the giant Hrungnir was Thor (cf. Harbarthsljoth, 14 and note), but the line is in bad shape; the name may not be Hrungnir, and \"killer\" is a conjectural addition. Sleipnir: Othin's eight-legged horse; cf. Grimnismol, 44 and note. Sledge: perhaps the one mentioned in Grimnismol, 49."
+    },
+    {
+     "n": "16",
+     "s": "Bragi: the god of poetry; cf. Grimnismol, 44 and note."
+    },
+    {
+     "n": "17",
+     "s": "Charms: the wearing of amulets was very common. Gungnir: Othin's spear, made by the dwarfs, which he occasionally lent to heroes to whom he granted victory. Grani: Sigurth's horse; the Volsungasaga has \"giantesses'.\""
+    },
+    {
+     "n": "18",
+     "s": "Stanzas 18-19, which editors have freely rearranged, apparently come from another source than any of the rest. Shaved off: the runes were shaved off by Othin from the wood on which they were carved, and the shavings bearing them were put into the magic mead. Wanes: cf. Voluspo, 21, note."
+    },
+    {
+     "n": "19",
+     "s": "Lines 3, 6, and 7 look like spurious additions, but the whole stanza is chaotic. Beech-runes: runes carved on beech-trees."
+    },
+    {
+     "n": "20",
+     "s": "Stanzas 20-21 are all that remains of the dialogue between Brynhild and Sigurth from the poem to which stanzas 2-4 belong; cf. Introductory Note. In the intervening lost stanzas Brynhild has evidently warned Sigurth of the perils that will follow if he swears loyalty to her; hence the choice to which she here refers. Tree, etc.: warrior. The manuscript does not indicate the speaker of either this or the following stanza; the Volsungasaga names Sigurth before stanza 21."
+    },
+    {
+     "n": "21",
+     "s": "It is quite possible that the original poem concluded with two stanzas after this, paraphrased thus in the Volsungasaga: \"Sigurth said: 'Nowhere is to be found any one wiser than thou, and this I swear, that I shall have thee for mine, and that thou art after my heart's desire.' She answered: 'I would rather have thee though I might choose among all men.' And this they bound between them with oaths.\" Stanzas 22-37, which the Volsungasaga paraphrases, may have been introduced at a relatively early time, but can hardly have formed part of the original poem."
+    },
+    {
+     "n": "22",
+     "s": "With this stanza begins the list of numbered counsels, closely resembling the Loddfafnismol (Hovamol, 111-138), here attributed to Brynhild. That the section originally had anything to do with Brynhild is more than improbable."
+    },
+    {
+     "n": "23",
+     "s": "Wolf of his word: oath-destroyer, oath-breaker."
+    },
+    {
+     "n": "25",
+     "s": "This chaotic and obscure jumble of lines has been unsuccessfully \"improved\" by various editors. It is clearly an interpolation, meaning, in substance: \"It is dangerous to keep silent too long, as men may think you a coward; but if any one taunts you falsely because of your silence, do not argue with him, but the next morning kill him as proof that he is a liar.\""
+    },
+    {
+     "n": "27",
+     "s": "Probably another interpolation."
+    },
+    {
+     "n": "28",
+     "s": "Silver of kinship: the passage is doubtful, but apparently it means the \"marriage-price\" for which a bride was \"bought.\""
+    },
+    {
+     "n": "29",
+     "s": "Line 1 comes at the end of the thirty-second leaf of Regius, and whatever further was contained in that manuscript has  vanished with the lost eight-leaf folio (cf. Introductory Note). The rest of stanza 29, and stanzas 30-37, are added from later paper manuscripts, which were undoubtedly copied from an old parchment, though probably not from the complete Regius. The Volsungasaga paraphrases these additional stanzas."
+    },
+    {
+     "n": "30",
+     "s": "Probably an interpolation."
+    },
+    {
+     "n": "31",
+     "s": "The meaning is that it is better to go forth to battle than to stay at home and be burned to death. Many a Norse warrior met his death in this latter way; the burning of the house in the Njalssaga is the most famous instance."
+    },
+    {
+     "n": "34",
+     "s": "Probably an interpolation."
+    },
+    {
+     "n": "35",
+     "s": "Lines 3-4 are probably interpolated. Race of wolves: family of a slain foe."
+    },
+    {
+     "n": "36",
+     "s": "Probably an interpolation."
+    },
+    {
+     "n": "37",
+     "s": "Lines 3-4 may well have come from the old Sigurth-Brynhild poem, like stanzas 2-4 and 20-21, being inserted here, where they do not fit particularly well, in place of the two lines with which the eleventh counsel originally ended. Perhaps they formed part of the stanza of warning which evidently preceded Brynhild's speech in stanza 20. In the Volsungasaga they are paraphrased at the end of Brynhild's long speech of advice (stanzas 20-37), and are immediately followed by the prose passage given in the note on stanza 21. It seems likely, therefore, that the paper manuscripts have preserved all of the so-called Sigrdrifumol which was contained in the lost section of Regius, with the possible exception of these two concluding stanzas, and these may very well have been given only in the form of a prose note, though it is practically certain that at one time they existed in verse form."
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "The so-called Sigrdrifumol, which immediately follows the Fafnismol in the Codex Regius without any indication of a break, and without separate title, is unquestionably the most chaotic of all the poems in the Eddic collection. The end of it has been entirely lost, for the fifth folio of eight sheets is missing from Regius, the gap coming after the first line of stanza 29 of this poem. That stanza has been completed, and eight more have been added, from much later paper manuscripts, but even so the conclusion of the poem is in obscurity.",
+    "Properly speaking, however, the strange conglomeration of stanzas which the compiler of the collection has left for us, and which, in much the same general form, seems to have lain before the authors of the Volsungasaga, in which eighteen of its stanzas are quoted, is not a poem at all. Even its customary title is an absurd error. The mistake made by the annotator in thinking that the epithet \"sigrdrifa,\" rightly applied to Brynhild as a \"bringer of victory,\" was a proper name has already been explained and commented on (note on Fafnismol, 44). Even if the collection of stanzas were in any real sense a poem, which it emphatically is not, it is certainly not the \"Ballad of Sigrdrifa\" which it is commonly called. \"Ballad of Brynhild\" would be a sufficiently suitable title, and I have here brought the established name \"Sigrdrifumol\" into accord with this by translating the epithet instead of treating it as a proper name.",
+    "Even apart from the title, however, the Sigrdrifumol has little claim to be regarded as a distinct poem, nor is there any indication that the compiler did so regard it. Handicapped as we are by the loss of the concluding section, and of the material which followed it on those missing pages, we can yet see that the process which began with the prose Fra Dautha Sinfjotla, and which, interrupted by the insertion of the Gripisspo, went on through the Reginsmol and the Fafnismol, continued through as much of the Sigrdrifumol as is left to us. In other words, the compiler told the story of Sigurth in mixed prose and verse, using whatever verse he could find without much questioning as to its origin, and filling in the gaps with his own prose. Fra Dautha Sinfjotla, Reginsmol, Fafnismol, and Sigrdrifumol are essentially a coherent unit, but one of the compiler's making only; they represent neither one poem nor three distinct poems, and the divisions and titles which have been almost universally adopted by editors are both arbitrary and misleading.",
+    "The Sigrdrifumol section as we now have it is an extraordinary piece of patchwork. It is most unlikely that the compiler himself brought all these fragments together for the first time; little by little, through a process of accretion and also, unluckily, through one of elimination, the material grew into its present shape. Certainly the basis of it is a poem dealing with the finding of Brynhild by Sigurth, but of this original poem only five stanzas (2-4 and 20-21) can be identified with any degree of confidence. To these five stanzas should probably, however, be added some, if not all, of the passage (stanzas 6-12) in which Brynhild teaches Sigurth the magic runes. These stanzas of rune-lore attracted sundry similar passages from other sources, including stanza 5, in which a magic draught is administered (not necessarily by Brynhild or to Sigurth), the curious rune-chant in stanzas 15-17, and stanzas 13-14 and 18-19. Beginning with stanza 22, and running to the end of the fragment (stanza 37), is a set of numbered counsels closely resembling the Loddfafnismol (Hovamol, stanzas 111-138), which manifestly has nothing whatever to do with Brynhild. Even in this passage there are probably interpolations (stanzas 25, 27, 30, 34, and 36). Finally, and bespeaking the existence at some earlier time of another Sigurth-Brynhild poem, is stanza 1, sharply distinguished by its metrical form from stanzas 2-4 and 20-21. Many critics argue that stanzas 6-10 of Helreith Brynhildar belonged originally to the same poem as stanza 1 of the Sigrdrifumol.",
+    "The Sigrdrifumol, then, must be regarded simply as a collection of fragments, most of them originally having no relation to the main subject. All of the story, the dialogue and the characterization are embodied in stanzas 1-4 and 20-21 and in the prose notes accompanying the first four stanzas; all of the rest might equally well (or better) be transferred to the Hovamol, where its character entitles it to a place. Yet stanzas 2-4 are as fine as anything in Old Norse poetry, and it is out of the scanty material of these three stanzas that Wagner constructed much of the third act of \"Siegfried.\"",
+    "The Sigrdrifumol represents almost exclusively the contributions of the North to the Sigurth tradition (cf. introductory note to the Gripisspo). Brynhild, here disguised by the annotator as \"Sigrdrifa,\" appears simply as a battle-maid and supernatural dispenser of wisdom; there is no trace of the daughter of Buthli and the rival of Guthrun. There is, however, so little of the \"poem\" which can definitely be assigned to the Sigurth cycle that it is impossible to trace back any of the underlying narrative substance.",
+    "The nature and condition of the material have made editorial conjectures and emendations very numerous, and as most of the guesses are neither conclusive nor particularly important, only a few of them are mentioned in the notes."
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Sigrdrífumál)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Sigrdrifumol"
+ }
+}

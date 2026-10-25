@@ -1,0 +1,460 @@
+{
+ "_note": "Snorri's quotations of the Eddic poems: Snorri row -> poem row; found by line matching (difflib ratio >= 0.78, two or more lines, at least one line unique to that stanza).",
+ "links": [
+  {
+   "row": "g-c2-6",
+   "poem_row": "hav-s1",
+   "lines": 6
+  },
+  {
+   "row": "g-c2-11",
+   "poem_row": "ebr-p2",
+   "lines": 3
+  },
+  {
+   "row": "g-c4-3",
+   "poem_row": "vsp-s3",
+   "lines": 6
+  },
+  {
+   "row": "g-c4-6",
+   "poem_row": "vsp-s52",
+   "lines": 8
+  },
+  {
+   "row": "g-c5-5",
+   "poem_row": "vsk-s5",
+   "lines": 8
+  },
+  {
+   "row": "g-c5-7",
+   "poem_row": "vm-s31",
+   "lines": 6
+  },
+  {
+   "row": "g-c7-3",
+   "poem_row": "vm-s35",
+   "lines": 6
+  },
+  {
+   "row": "g-c8-5",
+   "poem_row": "vsp-s5",
+   "lines": 6
+  },
+  {
+   "row": "g-c8-9",
+   "poem_row": "grm-s40",
+   "lines": 6
+  },
+  {
+   "row": "g-c8-9",
+   "poem_row": "grm-s41",
+   "lines": 6
+  },
+  {
+   "row": "g-c12-7",
+   "poem_row": "vsp-s40",
+   "lines": 7
+  },
+  {
+   "row": "g-c12-8",
+   "poem_row": "vsp-s41",
+   "lines": 8
+  },
+  {
+   "row": "g-c14-3",
+   "poem_row": "vsp-s9",
+   "lines": 7
+  },
+  {
+   "row": "g-c14-4",
+   "poem_row": "vsp-s10",
+   "lines": 4
+  },
+  {
+   "row": "g-c14-6",
+   "poem_row": "vsp-s11",
+   "lines": 8
+  },
+  {
+   "row": "g-c14-7",
+   "poem_row": "vsp-s12",
+   "lines": 4
+  },
+  {
+   "row": "g-c14-7",
+   "poem_row": "vsp-s13",
+   "lines": 2
+  },
+  {
+   "row": "g-c14-9",
+   "poem_row": "vsp-s15",
+   "lines": 2
+  },
+  {
+   "row": "g-c14-11",
+   "poem_row": "vsp-s15",
+   "lines": 2
+  },
+  {
+   "row": "g-c14-11",
+   "poem_row": "vsp-s16",
+   "lines": 4
+  },
+  {
+   "row": "g-c15-5",
+   "poem_row": "vsp-s28",
+   "lines": 8
+  },
+  {
+   "row": "g-c15-7",
+   "poem_row": "grm-s29",
+   "lines": 9
+  },
+  {
+   "row": "g-c15-10",
+   "poem_row": "fm-s13",
+   "lines": 6
+  },
+  {
+   "row": "g-c16-3",
+   "poem_row": "grm-s35",
+   "lines": 5
+  },
+  {
+   "row": "g-c16-5",
+   "poem_row": "grm-s34",
+   "lines": 9
+  },
+  {
+   "row": "g-c16-7",
+   "poem_row": "vsp-s19",
+   "lines": 6
+  },
+  {
+   "row": "g-c17-3",
+   "poem_row": "vsp-s64",
+   "lines": 6
+  },
+  {
+   "row": "g-c18-3",
+   "poem_row": "vm-s37",
+   "lines": 6
+  },
+  {
+   "row": "g-c20-5",
+   "poem_row": "ls-s21",
+   "lines": 2
+  },
+  {
+   "row": "g-c20-5",
+   "poem_row": "ls-s29",
+   "lines": 4
+  },
+  {
+   "row": "g-c20-7",
+   "poem_row": "grm-s46",
+   "lines": 3
+  },
+  {
+   "row": "g-c20-8",
+   "poem_row": "grm-s47",
+   "lines": 5
+  },
+  {
+   "row": "g-c20-8",
+   "poem_row": "grm-s48",
+   "lines": 2
+  },
+  {
+   "row": "g-c20-8",
+   "poem_row": "grm-s49",
+   "lines": 2
+  },
+  {
+   "row": "g-c20-8",
+   "poem_row": "grm-s54",
+   "lines": 2
+  },
+  {
+   "row": "g-c21-3",
+   "poem_row": "grm-s24",
+   "lines": 6
+  },
+  {
+   "row": "g-c22-3",
+   "poem_row": "grm-s5",
+   "lines": 2
+  },
+  {
+   "row": "g-c22-3",
+   "poem_row": "grm-s12",
+   "lines": 3
+  },
+  {
+   "row": "g-c23-2",
+   "poem_row": "ebr-p4",
+   "lines": 6
+  },
+  {
+   "row": "g-c23-4",
+   "poem_row": "ebr-p4",
+   "lines": 6
+  },
+  {
+   "row": "g-c23-6",
+   "poem_row": "grm-s11",
+   "lines": 5
+  },
+  {
+   "row": "g-c24-2",
+   "poem_row": "grm-s14",
+   "lines": 5
+  },
+  {
+   "row": "g-c27-2",
+   "poem_row": "grm-s13",
+   "lines": 5
+  },
+  {
+   "row": "g-c27-4",
+   "poem_row": "ebr-p6",
+   "lines": 2
+  },
+  {
+   "row": "g-c32-2",
+   "poem_row": "grm-s15",
+   "lines": 5
+  },
+  {
+   "row": "g-c35-16",
+   "poem_row": "ebr-p8",
+   "lines": 3
+  },
+  {
+   "row": "g-c35-18",
+   "poem_row": "ebr-p8",
+   "lines": 6
+  },
+  {
+   "row": "g-c36-2",
+   "poem_row": "grm-s36",
+   "lines": 9
+  },
+  {
+   "row": "g-c37-5",
+   "poem_row": "skm-s42",
+   "lines": 4
+  },
+  {
+   "row": "g-c38-3",
+   "poem_row": "grm-s18",
+   "lines": 6
+  },
+  {
+   "row": "g-c38-6",
+   "poem_row": "grm-s19",
+   "lines": 5
+  },
+  {
+   "row": "g-c38-8",
+   "poem_row": "grm-s20",
+   "lines": 6
+  },
+  {
+   "row": "g-c40-3",
+   "poem_row": "grm-s23",
+   "lines": 6
+  },
+  {
+   "row": "g-c41-3",
+   "poem_row": "vm-s41",
+   "lines": 6
+  },
+  {
+   "row": "g-c41-5",
+   "poem_row": "grm-s44",
+   "lines": 9
+  },
+  {
+   "row": "g-c42-6",
+   "poem_row": "vsp-s25",
+   "lines": 8
+  },
+  {
+   "row": "g-c42-7",
+   "poem_row": "vsp-s26",
+   "lines": 8
+  },
+  {
+   "row": "g-c49-24",
+   "poem_row": "ebr-p10",
+   "lines": 6
+  },
+  {
+   "row": "g-c51-3",
+   "poem_row": "vsp-s45",
+   "lines": 9
+  },
+  {
+   "row": "g-c51-6",
+   "poem_row": "vsp-s46",
+   "lines": 4
+  },
+  {
+   "row": "g-c51-6",
+   "poem_row": "vsp-s47",
+   "lines": 4
+  },
+  {
+   "row": "g-c51-7",
+   "poem_row": "vsp-s48",
+   "lines": 8
+  },
+  {
+   "row": "g-c51-8",
+   "poem_row": "vsp-s50",
+   "lines": 7
+  },
+  {
+   "row": "g-c51-9",
+   "poem_row": "vsp-s51",
+   "lines": 7
+  },
+  {
+   "row": "g-c51-10",
+   "poem_row": "vsp-s52",
+   "lines": 8
+  },
+  {
+   "row": "g-c51-11",
+   "poem_row": "vsp-s53",
+   "lines": 8
+  },
+  {
+   "row": "g-c51-12",
+   "poem_row": "vsp-s55",
+   "lines": 6
+  },
+  {
+   "row": "g-c51-13",
+   "poem_row": "vsp-s56",
+   "lines": 6
+  },
+  {
+   "row": "g-c51-14",
+   "poem_row": "vsp-s57",
+   "lines": 8
+  },
+  {
+   "row": "g-c51-16",
+   "poem_row": "vm-s18",
+   "lines": 6
+  },
+  {
+   "row": "g-c52-3",
+   "poem_row": "vsp-s38",
+   "lines": 7
+  },
+  {
+   "row": "g-c52-4",
+   "poem_row": "vsp-s39",
+   "lines": 2
+  },
+  {
+   "row": "g-c53-3",
+   "poem_row": "vm-s51",
+   "lines": 5
+  },
+  {
+   "row": "g-c53-5",
+   "poem_row": "vm-s45",
+   "lines": 5
+  },
+  {
+   "row": "g-c53-7",
+   "poem_row": "vm-s47",
+   "lines": 6
+  },
+  {
+   "row": "s-c14-6",
+   "poem_row": "grm-s43",
+   "lines": 6
+  },
+  {
+   "row": "s-c42-2",
+   "poem_row": "ebr-p17",
+   "lines": 3
+  },
+  {
+   "row": "s-c47-7",
+   "poem_row": "fm-s32",
+   "lines": 8
+  },
+  {
+   "row": "s-c47-8",
+   "poem_row": "fm-s33",
+   "lines": 7
+  },
+  {
+   "row": "s-c52-5",
+   "poem_row": "grt-s16",
+   "lines": 2
+  },
+  {
+   "row": "s-c52-5",
+   "poem_row": "grt-s1",
+   "lines": 6
+  },
+  {
+   "row": "s-c72-2",
+   "poem_row": "ebr-s9",
+   "lines": 7
+  },
+  {
+   "row": "s-c72-3",
+   "poem_row": "ebr-s9",
+   "lines": 6
+  },
+  {
+   "row": "s-c72-4",
+   "poem_row": "ebr-s9",
+   "lines": 5
+  },
+  {
+   "row": "s-c72-4",
+   "poem_row": "grm-s30",
+   "lines": 2
+  },
+  {
+   "row": "s-c72-6",
+   "poem_row": "ebr-s11",
+   "lines": 8
+  },
+  {
+   "row": "s-c72-7",
+   "poem_row": "ebr-s11",
+   "lines": 10
+  },
+  {
+   "row": "s-c72-8",
+   "poem_row": "ebr-s11",
+   "lines": 8
+  },
+  {
+   "row": "s-c73-2",
+   "poem_row": "ebr-s10",
+   "lines": 6
+  },
+  {
+   "row": "s-c74-2",
+   "poem_row": "alv-s20",
+   "lines": 3
+  },
+  {
+   "row": "s-c78-2",
+   "poem_row": "alv-s30",
+   "lines": 5
+  }
+ ]
+}

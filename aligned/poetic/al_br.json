@@ -1,0 +1,1410 @@
+{
+ "part": "poetic",
+ "poem": "br",
+ "title": "Sigurðarkviða in meiri (Brot af Sigurðarkviðu)",
+ "group": "heroic",
+ "chapters": [
+  {
+   "num": 26,
+   "key": "br",
+   "title": "Sigurðarkviða in meiri (Brot af Sigurðarkviðu)",
+   "subtitle": null,
+   "group": "heroic",
+   "rows": [
+    {
+     "id": "br-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Eldr nam at æsask",
+        "en jörð at skjalfa",
+        "ok hár logi",
+        "við himni gnæfa;",
+        "fár treystisk þar",
+        "fylkis rekka",
+        "eld at ríða",
+        "né yfir stíga."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Eldur nam að æsast",
+        "en jörð að skjalfa",
+        "og hár logi",
+        "við himni gnæfa;",
+        "fár treystist þar",
+        "fylkis rekka",
+        "eld að ríða",
+        "né yfir stíga."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Sigurðr Grana",
+        "sverði keyrði;",
+        "eldr sloknaði",
+        "fyrir öðlingi,",
+        "logi allr lægðisk",
+        "fyrir lofgjörnum,",
+        "bliku reiði",
+        "er Reginn átti",
+        "-- -- --"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Sigurður Grana",
+        "sverði keyrði;",
+        "eldur sloknaði",
+        "fyrir öðlingi,",
+        "logi allur lægðist",
+        "fyrir lofgjörnum,",
+        "bliku reiði",
+        "er Reginn átti",
+        "-- -- --"
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "The fire raged, | the earth was rocked,",
+        "The flames leaped high | to heaven itself;",
+        "Few were the hardy | heroes would dare",
+        "To ride or leap | the raging flames."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Sigurth urged Grani | then with his sword,",
+        "The fire slackened | before the hero,",
+        "The flames sank low | for the greedy of fame,",
+        "The armor flashed | that Regin had fashioned."
+       ]
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "p",
+       "s": "Brynhildr kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Sigurðr vá at ormi,",
+        "en þat síðan mun",
+        "engum fyrnask,",
+        "meðan öld lifir;",
+        "en hlýri þinn",
+        "hvárki þorði",
+        "eld at ríða",
+        "né yfir stíga.\"",
+        "-- -- --"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Brynhildur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Sigurður vá að ormi,",
+        "en það síðan mun",
+        "engum fyrnast,",
+        "meðan öld lifir;",
+        "en hlýri þinn",
+        "hvárki þorði",
+        "eld að ríða",
+        "né yfir stíga.\"",
+        "-- -- --"
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Sigurth the dragon | slew, and that",
+        "Will men recall | while the world remains;",
+        "But little boldness | thy brother had",
+        "To ride or leap | the raging flames."
+       ]
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Út gekk Sigurðr",
+        "andspjalli frá,",
+        "hollvinr lofða,",
+        "ok hnipnaði,",
+        "svá at ganga nam",
+        "gunnarfúsum",
+        "sundr of síður",
+        "serkr járnofinn.",
+        "-- -- --"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Út gekk Sigurður",
+        "andspjalli frá,",
+        "hollvinur lofða,",
+        "og hnipnaði,",
+        "svo að ganga nam",
+        "gunnarfúsum",
+        "sundur of síður",
+        "serkur járnofinn.",
+        "-- -- --"
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Forth went Sigurth, | and speech he sought not,",
+        "The friend of heroes, | his head bowed down;",
+        "Such was his grief | that asunder burst",
+        "His mail-coat all | of iron wrought."
+       ]
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "p",
+       "s": "Högni kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"[hvat hefir Sigurðr",
+        "til] saka unnit,",
+        "er þú fræknan vill",
+        "fjörvi næma?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Högni kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"[hvað hefur Sigurður",
+        "til] saka unnið,",
+        "er þú fræknan vill",
+        "fjörvi næma?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Hogni spake:",
+        "\"(What evil deed | has Sigurth) done,",
+        "That the hero's life | thou fain wouldst have?\"⟦1⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      1
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "p",
+       "s": "Gunnar kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Mér hefir Sigurðr",
+        "selda eiða,",
+        "eiða selda,",
+        "alla logna;",
+        "þá vélti hann mik,",
+        "er hann vera skyldi",
+        "allra eiða",
+        "einn fulltrúi.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Gunnar kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Mér hefur Sigurður",
+        "selda eiða,",
+        "eiða selda,",
+        "alla logna;",
+        "þá vélti hann mig,",
+        "er hann vera skyldi",
+        "allra eiða",
+        "einn fulltrúi.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Gunnar spake:",
+        "\"Sigurth oaths | to me hath sworn,",
+        "Oaths hath sworn, | and all hath broken;",
+        "He betrayed me there | where truest all",
+        "His oaths, methinks, | he ought to have kept.\"⟦2⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      2
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "p",
+       "s": "Högni kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Þik hefir Brynhildr",
+        "böl at gerva",
+        "heiftar hvattan",
+        "harm at vinna;",
+        "fyrman hon Guðrúnu",
+        "góðra ráða,",
+        "en síðan þér",
+        "sín at njóta.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Högni kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Þig hefur Brynhildur",
+        "böl að gerva",
+        "heiftar hvattan",
+        "harm að vinna;",
+        "fyrman hún Guðrúnu",
+        "góðra ráða,",
+        "en síðan þér",
+        "sín að njóta.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Hogni spake:",
+        "\"Thy heart hath Brynhild | whetted to hate,",
+        "Evil to work | and harm to win;",
+        "She grudges the honor | that Guthrun has,",
+        "And that joy of herself | thou still dost have.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      3
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Sumir ulf sviðu,",
+        "sumir orm sniðu,",
+        "sumir Gotþormi",
+        "af gera deildu;",
+        "áðr þeir mætti",
+        "meins of lystir",
+        "á horskum hal",
+        "hendr of leggja."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Sumir úlf sviðu,",
+        "sumir orm sniðu,",
+        "sumir Gotþormi",
+        "af gera deildu;",
+        "áður þeir mætti",
+        "meins of lystir",
+        "á horskum hal",
+        "hendur of leggja."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "They cooked a wolf, | they cut up a snake,",
+        "They gave to Gotthorm | the greedy one's flesh,",
+        "Before the men, | to murder minded,",
+        "Laid their hands | on the hero bold.⟦4⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      4
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Soltinn varð Sigurðr",
+        "sunnan Rínar;",
+        "hrafn af meiði",
+        "hátt kallaði:",
+        "\"Ykkr mun Atli",
+        "eggjar rjóða,",
+        "munu vígskáum",
+        "of viða eiðar.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Soltinn varð Sigurður",
+        "sunnan Rínar;",
+        "hrafn af meiði",
+        "hátt kallaði:",
+        "\"Ykkur mun Atli",
+        "eggjar rjóða,",
+        "munu vígskáum",
+        "of viða eiðar.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Slain was Sigurth | south of the Rhine;",
+        "From a limb a raven | called full loud:",
+        "\"Your blood shall redden | Atli's blade,",
+        "And your oaths shall bind | you both in chains.\"⟦5⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      5
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Úti stóð Guðrún",
+        "Gjúka dóttir,",
+        "ok hon þat orða",
+        "alls fyrst of kvað:",
+        "\"Hvar er nú Sigurðr,",
+        "seggja dróttinn,",
+        "er frændr mínir",
+        "fyrri ríða?\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Úti stóð Guðrún",
+        "Gjúka dóttir,",
+        "og hún það orða",
+        "alls fyrst of kvað:",
+        "\"Hvar er nú Sigurður,",
+        "seggja dróttinn,",
+        "er frændur mínir",
+        "fyrri ríða?\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Without stood Guthrun, | Gjuki's daughter,",
+        "Hear now the speech | that first she spake:",
+        "\"Where is Sigurth now, | the noble king,",
+        "That my kinsmen riding | before him come?\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      6
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Einn því Högni",
+        "andsvör veitti:",
+        "\"Sundr höfum Sigurð",
+        "sverði höggvinn;",
+        "gnapir æ grár jór",
+        "yfir gram dauðum.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Einn því Högni",
+        "andsvör veitti:",
+        "\"Sundur höfum Sigurð",
+        "sverði höggvinn;",
+        "gnapir æ grár jór",
+        "yfir gram dauðum.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Only this | did Hogni answer:",
+        "\"Sigurth we | with our swords have slain;",
+        "The gray horse mourns | by his master dead.\"⟦7⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      7
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Þá kvað þat Brynhildr",
+        "Buðla dóttir:",
+        "\"Vel skuluð njóta",
+        "vápna ok landa;",
+        "einn mundi Sigurðr",
+        "öllu ráða,",
+        "ef hann lengr litlu",
+        "lífi heldi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Þá kvað það Brynhildur",
+        "Buðla dóttir:",
+        "\"Vel skuluð njóta",
+        "vápna og landa;",
+        "einn myndi Sigurður",
+        "öllu ráða,",
+        "ef hann lengur litlu",
+        "lífi heldi."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Then Brynhild spake, | the daughter of Buthli:",
+        "\"Well shall ye joy | in weapons and lands;",
+        "Sigurth alone | of all had been lord,",
+        "If a little longer | his life had been.⟦8⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      8
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Væri-a þat sæmt,",
+        "at hann svá réði",
+        "Gjúka arfi",
+        "ok Gota mengi,",
+        "er hann fimm sonu",
+        "at folkræði,",
+        "gunnarfúsa,",
+        "getna hafði.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Væri-a það sæmt,",
+        "að hann svo réði",
+        "Gjúka arfi",
+        "og Gota mengi,",
+        "er hann fimm sonu",
+        "að folkræði,",
+        "gunnarfúsa,",
+        "getna hafði.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"Right were it not | that so he should rule",
+        "O'er Gjuki's wealth | and the race of the Goths;",
+        "Five are the sons | for ruling the folk,",
+        "And greedy of fight, | that he hath fathered.\"⟦9⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      9
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Hló þá Brynhildr",
+        "- bær allr dunði -",
+        "einu sinni",
+        "af öllum hug:",
+        "\"Lengi skuluð njóta",
+        "landa ok þegna,",
+        "er þér fræknan gram",
+        "falla létuð.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Hló þá Brynhildur",
+        "- bær allur dunti -",
+        "einu sinni",
+        "af öllum hug:",
+        "\"Lengi skuluð njóta",
+        "landa og þegna,",
+        "er þér fræknan gram",
+        "falla létuð.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Then Brynhild laughed— | and the building echoed—",
+        "Only once, | with all her heart;",
+        "\"Long shall ye joy | in lands and men,",
+        "Now ye have slain | the hero noble.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      10
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Þá kvað þat Guðrún",
+        "Gjúka dóttir:",
+        "\"Mjök mælir þú",
+        "miklar firnar;",
+        "gramir hafi Gunnar,",
+        "götvað Sigurðar;",
+        "heiftgjarns hugar",
+        "hefnt skal verða.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Þá kvað það Guðrún",
+        "Gjúka dóttir:",
+        "\"Mjög mælir þú",
+        "miklar firnar;",
+        "gramir hafi Gunnar,",
+        "götvað Sigurðar;",
+        "heiftgjarns hugar",
+        "hefnt skal verða.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Then Guthrun spake, | the daughter of Gjuki:",
+        "\"Much thou speakest | in evil speech;",
+        "Accursed be Gunnar, | Sigurth's killer,",
+        "Vengeance shall come | for his cruel heart.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      11
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Fram var kvelda,",
+        "fjölð var drukkit,",
+        "þá var hvívetna",
+        "vilmál talið,",
+        "sofnuðu allir,",
+        "er i sæing kómu,",
+        "einn vakði Gunnarr",
+        "öllum lengr."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Fram var kvelda,",
+        "fjölð var drukkið,",
+        "þá var hvívetna",
+        "vilmál talið,",
+        "sofnuðu allir,",
+        "er i sæng komu,",
+        "einn vakði Gunnar",
+        "öllum lengur."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Early came evening, | and ale was drunk,",
+        "And among them long | and loud they talked;",
+        "They slumbered all | when their beds they sought,",
+        "But Gunnar alone | was long awake.⟦12⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      12
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Fót nam-at hræra,",
+        "fjölð nam-at spjalla,",
+        "hitt herglötuðr",
+        "hyggja téði,",
+        "hvat þeir í bölvi",
+        "báðir sögðu",
+        "hrafn ey ok örn,",
+        "er þeir heim riðu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Fót nam-at hræra,",
+        "fjölð nam-at spjalla,",
+        "hitt herglötuður",
+        "hyggja téði,",
+        "hvað þeir í bölvi",
+        "báðir sögðu",
+        "hrafn ey og örn,",
+        "er þeir heim riðu."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "His feet were tossing, | he talked to himself,",
+        "And the slayer of hosts | began to heed",
+        "What the twain from the tree | had told him then,",
+        "The raven and eagle, | as home they rode.⟦13⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      13
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Vaknaði Brynhildr",
+        "Buðla dóttir,",
+        "dís skjöldunga,",
+        "fyr dag litlu:",
+        "\"Hvetið mik eða letið mik",
+        "- harmr er unninn -",
+        "sorg at segja",
+        "eða svá láta.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Vaknaði Brynhildur",
+        "Buðla dóttir,",
+        "dís skjöldunga,",
+        "fyr dag litlu:",
+        "\"Hvetið mig eða letið mig",
+        "- harmur er unninn -",
+        "sorg að segja",
+        "eða svo láta.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Brynhild awoke, | the daughter of Buthli,",
+        "The warrior's daughter, | ere dawn of day:",
+        "\"Love me or hate me, | the harm is done,",
+        "And my grief cries out, | or else I die.\""
+       ]
+      }
+     ],
+     "en_stanzas": [
+      14
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Þögðu allir",
+        "við því orði,",
+        "fár kunni þeim",
+        "fljóða látum,",
+        "er hon grátandi",
+        "gerðisk at segja",
+        "þat er hlæjandi",
+        "hölða beiddi:"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Þögðu allir",
+        "við því orði,",
+        "fár kunni þeim",
+        "fljóða látum,",
+        "er hún grátandi",
+        "gerðist að segja",
+        "það er hlæjandi",
+        "hölða beiddi:"
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Silent were all | who heard her speak,",
+        "And nought of the heart | of the queen they knew,",
+        "Who wept such tears | the thing to tell",
+        "That laughing once | of the men she had won."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      15
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Hugða ek mér, Gunnarr,",
+        "grimmt í svefni,",
+        "svalt allt í sal,",
+        "ætta sæing kalda;",
+        "enn þú, gramr, riðir",
+        "glaums andvani,",
+        "fjötri fatlaðr,",
+        "í fjánda lið;",
+        "svá mun öll yður",
+        "ætt Niflunga",
+        "afli gengin,",
+        "eruð eiðrofa."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Hugði eg mér, Gunnar,",
+        "grimmt í svefni,",
+        "svalt allt í sal,",
+        "ætta sæng kalda;",
+        "enn þú, gramur, riðir",
+        "glaums andvani,",
+        "fjötri fatlaður,",
+        "í fjánda lið;",
+        "svo mun öll yður",
+        "ætt Niflunga",
+        "afli gengin,",
+        "eruð eiðrofa."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Brynhild spake:",
+        "\"Gunnar, I dreamed | a dream full grim:",
+        "In the hall were corpses; | cold was my bed;",
+        "And, ruler, thou | didst joyless ride,",
+        "With fetters bound | in the foemen's throng.⟦16⟧"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"..............",
+        "..............",
+        "Utterly now | your Niflung race",
+        "All shall die; | your oaths ye have broken.⟦17⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      16,
+      17
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Mant-at-tu, Gunnarr,",
+        "til görva þat,",
+        "er þit blóði í spor",
+        "báðir rennduð;",
+        "nú hefir þú hánum þat allt",
+        "illu launat,",
+        "er hann fremstan þik",
+        "finna vildi."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Mant-at-tu, Gunnar,",
+        "til gerva það,",
+        "er þið blóði í spor",
+        "báðir rennduð;",
+        "nú hefur þú hánum það allt",
+        "illu launað,",
+        "er hann fremstan þig",
+        "finna vildi."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Thou hast, Gunnar, | the deed forgot,",
+        "When blood in your footprints | both ye mingled;",
+        "All to him | hast repaid with ill",
+        "Who fain had made thee | the foremost of kings.⟦18⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      18
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Þá reyndi þat,",
+        "er riðit hafði",
+        "móðigr á vit",
+        "mín at biðja,",
+        "hvé herglötuðr",
+        "hafði fyrri",
+        "eiðum haldit",
+        "við inn unga gram."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Þá reyndi það,",
+        "er riðið hafði",
+        "móðigur á vit",
+        "mín að biðja,",
+        "hve herglötuður",
+        "hafði fyrri",
+        "eiðum haldið",
+        "við hinn unga gram."
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"Well did he prove, | when proud he rode",
+        "To win me then | thy wife to be,",
+        "How true the host-slayer | ever had held",
+        "The oaths he had made | with the monarch young."
+       ]
+      }
+     ],
+     "en_stanzas": [
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Benvönd of lét,",
+        "brugðinn gulli,",
+        "margdýrr konungr",
+        "á meðal okkar;",
+        "eldi váru eggjar",
+        "útan görvar,",
+        "en eitrdropum",
+        "innan fáðar.\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Benvönd of lét,",
+        "brugðinn gulli,",
+        "margdýr konungur",
+        "á meðal okkar;",
+        "eldi voru eggjar",
+        "utan görvar,",
+        "en eitrdropum",
+        "innan fáðar.\""
+       ]
+      }
+     ],
+     "en": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"The wound-staff then, | all wound with gold,",
+        "The hero let | between us lie;",
+        "With fire the edge | was forged full keen,",
+        "And with drops of venom | the blade was damp.\"⟦20⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      20
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "br-p1",
+     "stanza": null,
+     "on": [
+      {
+       "t": "p",
+       "s": "Frá dauða Sigurðar"
+      },
+      {
+       "t": "p",
+       "s": "Hér er sagt í þessi kviðu frá dauða Sigurðar, ok víkr hér svá til sem þeir dræpi hann úti, en sumir segja svá, at þeir dræpi hann inni í rekkju sinni sofanda. En þýðverskir menn segja svá, at þeir dræpi hann úti í skógi, ok svá segir í Guðrúnarkviðu inni fornu, at Sigurðr ok Gjúkasynir hefði til þings riðit, þá er hann var drepinn. En þat segja allir einnig, at þeir sviku hann í tryggð ok vógu at hánum liggjanda ok óbúnum."
+      }
+     ],
+     "is": [
+      {
+       "t": "p",
+       "s": "Frá dauða Sigurðar"
+      },
+      {
+       "t": "p",
+       "s": "Hér er sagt í þessi kviðu frá dauða Sigurðar, og víkur hér svo til sem þeir dræpi hann úti, en sumir segja svo, að þeir dræpi hann inni í rekkju sinni sofanda. En þýðverskir menn segja svo, að þeir dræpi hann úti í skógi, og svo segir í Guðrúnarkviðu inni fornu, að Sigurður og Gjúkasynir hefði til þings riðið, þá er hann var drepinn. En það segja allir einnig, að þeir sviku hann í tryggð og vógu að hánum liggjanda og óbúnum."
+      }
+     ],
+     "en": [
+      {
+       "t": "p",
+       "s": "Here it is told in this poem about the death of Sigurth, and the story goes here that they slew him out of doors, but some say that they slew him in the house, on his bed while he was sleeping. But German men say that they killed him out of doors in the forest; and so it is told in the old Guthrun lay, that Sigurth and Gjuki's sons had ridden to the council-place, and that he was slain there. But in this they are all agreed, that they deceived him in his trust of them, and fell upon him when he was lying down and unprepared.⟦p1⟧"
+      }
+     ],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [
+    {
+     "n": "1",
+     "s": "The fragment begins with the last words of line 1 (probably line 3 of the stanza). A few editors ascribe this speech to Gunnar and the next to Brynhild; one reconstruction of lines 1-2 on this probably false assumption runs: \"Why art thou,  Brynhild,  daughter of Buthli, / Scheming ill  with evil counsel?"
+    },
+    {
+     "n": "2",
+     "s": "A few editors ascribe this speech to Brynhild. Gunnar, if the stanza is his, has believed Brynhild's statement regarding Sigurth's disloyalty to his blood-brother."
+    },
+    {
+     "n": "4",
+     "s": "The Volsungasaga quotes a somewhat different version of this stanza, in which the snake is called \"wood-fish\" and the third line adds \"beer and many things.\" Eating snakes and the flesh of beasts of prey was commonly supposed to induce ferocity. Gotthorm: Grimhild's son, half-brother to Gunnar. He it is who, not having sworn brotherhood with Sigurth, does the killing."
+    },
+    {
+     "n": "5",
+     "s": "In the manuscript this stanza stands between stanzas 11 and 12; most editions have made the change here indicated. South of the Rhine: the definite localization of the action shows how clearly all this part of the story was recognized in the North as of German origin. Atli (Attila; cf. introductory note to Gripisspo): the Northern version of the story makes him Brynhild's brother. His marriage with Guthrun, and his slaying of her brothers, are told in the Atli poems. Regarding the manner of Sigurth's death cf. concluding prose passage and note. Stanza 13 indicates that after stanza 5 a stanza containing the words of an eagle has been lost."
+    },
+    {
+     "n": "7",
+     "s": "One line of this stanza, but it is not clear which, seems to have been lost. The gray horse: Grani."
+    },
+    {
+     "n": "8",
+     "s": "Some editions set stanzas 8 and 9 after stanza 11; Sijmons marks them as spurious. Buthli: cf. Gripisspo, 19, note."
+    },
+    {
+     "n": "9",
+     "s": "Goths: a generic term for any German race; cf. Gripisspo, 35 and note. Five sons: according to the Volsungasaga Sigurth had only one son, named Sigmund, who was killed at Brynhild's behest. Sigurtharkvitha en skamma and Guthrunarkvitha II likewise mention only one son. The daughter of Sigurth and Guthrun, Svanhild, marries Jormunrek (Ermanarich)."
+    },
+    {
+     "n": "12",
+     "s": "The manuscript marks line 4 as the beginning of a new stanza, and a few editions combine it with stanza 13."
+    },
+    {
+     "n": "13",
+     "s": "Slayer of hosts: warrior (Gunnar). Raven and eagle: cf. note on stanza 5."
+    },
+    {
+     "n": "16",
+     "s": "Mogk regards stanzas 16 and 17 as interpolated, but on not very satisfactory grounds. On the death of Gunnar cf. Drap Niflunga."
+    },
+    {
+     "n": "17",
+     "s": "No gap is indicated in the manuscript, and some editions attach these two lines to stanza 16. Niflungs: this name (German Nibelungen), meaning \"sons of the mist,\" seems to have belonged originally to the race of supernatural beings to which the treasure belonged in the German version. It was subsequently extended to include the Gjukungs and their Burgundians. This question, of minor importance in the Norse poems, has evoked an enormous amount of learned discussion in connection with the Nibelungenlied."
+    },
+    {
+     "n": "18",
+     "s": "Footprints: the actual mingling of blood in one another's footprints was a part of the ceremony of swearing blood-brotherhood, the oath which Gunnar and Sigurth had taken. The fourth line refers to the fact that Sigurth had won many battles for Gunnar."
+    },
+    {
+     "n": "20",
+     "s": "Regarding the sword episode cf. Gripisspo, 41 and note. Wound-staff: sword."
+    },
+    {
+     "n": "p1",
+     "s": "Prose. This prose passage has in the manuscript, written in red, the phrase \"Of Sigurth's Death\" as a heading; there is no break between it and the prose introducing Guthrunarkvitha I, the heading for that poem coming just before stanza 1. This note is of special interest as an effort at real criticism. The annotator, troubled by the two versions of the story of Sigurth's death, feels it incumbent on him not only to point the fact out, but to cite the authority of \"German men\" for the form which appears in this poem. The alternative version, wherein Sigurth is slain in bed, appears in Sigurtharkvitha en skamma, Guthrunarhvot, and Hamthesmol, and also in the Volsungasaga, which tells how Gotthorm tried twice to kill Sigurth but was terrified by the brightness of his eyes, and succeeded only after the hero had fallen asleep. That the annotator was correct in citing German authority for the slaying of Sigurth in the forest is shown by the Nibelungenlied and the Thithrekssaga. The \"old\" Guthrun lay is unquestionably Guthrunarkvitha II."
+    }
+   ],
+   "en_source": "Bellows 1923",
+   "en_missing_note": null,
+   "intro_en": [
+    "The gap of eight leaves in the Codex Regius (cf. introductory note to the Sigrdrifumol) is followed by a passage of twenty stanzas which is evidently the end of a longer poem, the greater part of it having been contained in the lost section of the manuscript. There is here little question of such a compilation as made up the so-called Reginsmol, Fafnismol, and Sigrdrifumol; the extant fragment shows every sign of being part of a poem which, as it stood in the manuscript, was a complete and definite unit. The end is clearly marked; the following poem, Gurthrunarkvitha I, carries a specific heading in the manuscript, so that there is no uncertainty as to where the fragment closes.",
+    "It seems altogether likely that the twenty stanzas thus remaining are the end of a poem entitled Sigurtharkvitha (Lay of Sigurth), and, more specifically, the \"Long\" Lay of Sigurth. The extant and complete Sigurth lay, a relatively late work, is referred to by the annotator as the \"Short\" Lay of Sigurth, which, of course, presupposes the existence of a longer poem with the same title. As the \"short\" lay is one of the longest poems in the whole collection (seventy stanzas), it follows that the other one must have been considerably more extensive in order to have been thus distinguished by its length. It may be guessed, then, that not less than eighty or a hundred stanzas, and possibly more, of the \"Long\" Lay of Sigurth have been lost with the missing pages of Regius.",
+    "The narrative, from the point at which the so-called Sigrdrifumol breaks off to that at which the Brot takes it up, is given with considerable detail in the Volsungasaga. In this prose narrative four stanzas are quoted, and one of them is specifically introduced with the phrase: \"as is told in the Lay of Sigurth.\" It is possible, but most unlikely, that the entire passage paraphrases this poem alone; such an assumption would give the Lay of Sigurth not less than two hundred and fifty stanzas (allowing about fifteen stanzas to each of the missing pages), and moreover there are inconsistencies in the Volsungasaga narrative suggesting that different and more or less conflicting poems were used as sources. The chances are that the \"Long\" Lay of Sigurth filled approximately the latter half of the lost section of the manuscript, the first half including poems of which the only trace is to be found in the Volsungasaga prose paraphrase and in two of the stanzas therein quoted.",
+    "The course of the Volsungasaga's story from the Sigrdrifumol to the Brot is, briefly, as follows. After leaving the Valkyrie, Sigurth comes to the dwelling of Heimir, Brynhild's brother-in-law, where he meets Brynhild and they swear oaths of fidelity anew (the Volsungasaga is no more lucid with regard to the Brynhild-Sigrdrifa confusion than was the annotator of the poems). Then the scene shifts to the home of the Gjukungs. Guthrun, Gjuki's daughter, has a terrifying dream, and visits Brynhild to have it explained, which the latter does by foretelling pretty much everything that is going to happen; this episode was presumably the subject of a separate poem in the lost section of the manuscript. Guthrun returns home, and Sigurth soon arrives, to be made enthusiastically welcome. Grimhild, mother of Gunnar and Guthrun, gives him a magic draught which makes him forget all about Brynhild, and shortly thereafter he marries Guthrun.",
+    "Then follows the episode of the winning of Brynhild for Gunnar (cf. Gripisspo, 37 and note). This was certainly the subject of a poem, possibly of the first part of the \"Long\" Lay of Sigurth, although it seems more likely that the episode was dealt with in a separate poem. The Volsungasaga quotes two stanzas describing Sigurth's triumphant passing through the flames after Gunnar has failed and the two have changed forms. They run thus:"
+   ]
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Sigurðarkviða in meiri)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Brot af Sigurtharkvithu"
+ }
+}

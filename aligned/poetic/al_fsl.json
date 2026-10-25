@@ -1,0 +1,1092 @@
+{
+ "part": "poetic",
+ "poem": "fsl",
+ "title": "Forspjallsljóð (Hrafnagaldr Óðins)",
+ "group": "other",
+ "chapters": [
+  {
+   "num": 45,
+   "key": "fsl",
+   "title": "Forspjallsljóð (Hrafnagaldr Óðins)",
+   "subtitle": null,
+   "group": "other",
+   "rows": [
+    {
+     "id": "fsl-s1",
+     "stanza": 1,
+     "on": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Alföðr orkar,",
+        "álfar skilja,",
+        "Vanir vitu,",
+        "vísa nornir,",
+        "elr íviðja,",
+        "aldir bera,",
+        "þreyja þursar,",
+        "þrá valkyrjur."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Alföður orkar,",
+        "álfar skilja,",
+        "vanir vita,",
+        "vísa nornir,",
+        "elur íviðja,",
+        "aldir bera,",
+        "þreyja þursar,",
+        "þrá valkyrjur."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "head": "Steindór Andersen & Sigur Rós - Hrafnagaldur Óðins."
+    },
+    {
+     "id": "fsl-s2",
+     "stanza": 2,
+     "on": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Ætlun Æsir",
+        "illa gátu,",
+        "verpir villtu",
+        "vættar rúnum;",
+        "Óðhrærir skyldi",
+        "Urðr geyma",
+        "máttk at verja",
+        "mestum þorra."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Ætlun Æsir",
+        "illa gátu,",
+        "verpir villtu",
+        "vættar rúnum;",
+        "Óðhrærir skyldi",
+        "Urður geyma",
+        "máttg að verja",
+        "mestum þorra."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s3",
+     "stanza": 3,
+     "on": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Hverfr því Hugr,",
+        "hinna leitar,",
+        "grunar guma",
+        "grand, ef dvelr;",
+        "þótti er Þráins",
+        "þunga draumr;",
+        "Dáins dulu",
+        "draumr þótti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Hverfur því Hugur,",
+        "hinna leitar,",
+        "grunar guma",
+        "grand, ef dvelur;",
+        "þótti er Þráins",
+        "þunga draumur;",
+        "Dáins dulu",
+        "draumur þótti."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s4",
+     "stanza": 4,
+     "on": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Dugir með dvergum",
+        "dvína, heimar",
+        "niðr at Ginnungs",
+        "niði sökkva;",
+        "oft Alsviðr",
+        "ofan fellir",
+        "oft of föllnum",
+        "aftr safnar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Dugir með dvergum",
+        "dvína, heimar",
+        "niður að Ginnungs",
+        "niði sökkva;",
+        "oft Alsvinnur",
+        "ofan fellir",
+        "oft of föllnum",
+        "aftur safnar."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s5",
+     "stanza": 5,
+     "on": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Stendr æva",
+        "strind né röðull,",
+        "lofti með lævi",
+        "linnir ei straumi;",
+        "mærum dylst",
+        "í Mímis brunni",
+        "vissa vera;",
+        "vitið enn eða hvað?"
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Stendur æva",
+        "strind né röðull,",
+        "lofti með lævi",
+        "linnir ei straumi;",
+        "mærum dylst",
+        "í Mímis brunni",
+        "vissa vera;",
+        "vitið enn eða hvað?"
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s6",
+     "stanza": 6,
+     "on": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Dvelr í dölum",
+        "dís forvitin,",
+        "Yggdrasils frá",
+        "aski hnigin;",
+        "álfa ættar",
+        "Iðunni hétu",
+        "Ívalds eldri",
+        "yngsta barna."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Dvelur í dölum",
+        "dís forvitin,",
+        "Yggdrasils frá",
+        "aski hnigin;",
+        "álfa ættar",
+        "Iðunni hétu",
+        "Ívalds eldri",
+        "yngsta barna."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s7",
+     "stanza": 7,
+     "on": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Eirði illa",
+        "ofankomu",
+        "hárbaðms undir",
+        "haldin meiði;",
+        "kunni sízt",
+        "at kundar Nörva",
+        "vön at værri",
+        "vistum heima."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Eirði illa",
+        "ofankomu",
+        "hárbaðms undir",
+        "haldin meiði;",
+        "kunni síst",
+        "að kundar Nörva",
+        "vön að værri",
+        "vistum heima."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s8",
+     "stanza": 8,
+     "on": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Sjá sigtívar",
+        "syrgja Naumu,",
+        "Viggjar at véum",
+        "vargsbelg seldu;",
+        "lét í færast",
+        "lyndi breytti,",
+        "lék at lævísi,",
+        "litum skipti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Sjá sigtívar",
+        "syrgja Naumu,",
+        "Viggjar að véum",
+        "vargsbelg seldu;",
+        "lét í færast",
+        "lyndi breytti,",
+        "lék að lævísi,",
+        "litum skipti."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s9",
+     "stanza": 9,
+     "on": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Valdi Viðrir",
+        "vörð Bifrastar",
+        "Gjallar sunnu",
+        "gátt at frétta,",
+        "heims hvívetna",
+        "hvert er vissi.",
+        "Bragi ok Loftr",
+        "báru kviðu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Valdi Viðrir",
+        "vörð Bifrastar",
+        "Gjallar sunnu",
+        "gátt að frétta,",
+        "heims hvívetna",
+        "hvert er vissi.",
+        "Bragi og Loftur",
+        "báru kviðu."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s10",
+     "stanza": 10,
+     "on": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Galdr gólu,",
+        "göndum riðu",
+        "Rögnir og Reginn",
+        "at ranni heimis;",
+        "hlustar Óðinn",
+        "Hliðskjálfu í,",
+        "lét braut vera",
+        "langa vegu."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Galdur gólu,",
+        "göndum riðu",
+        "Rögnir og Reginn",
+        "að ranni heimis;",
+        "hlustar Óðinn",
+        "Hliðskjálfu í,",
+        "lét braut vera",
+        "langa vega."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s11",
+     "stanza": 11,
+     "on": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Frá enn vitri",
+        "veiga selju",
+        "banda burða",
+        "ok brauta sinna;",
+        "hlýrnis, heljar,",
+        "heims ef vissi,",
+        "ártíð, æfi,",
+        "aldrtila."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Frá enn vitri",
+        "veega selju",
+        "banda burða",
+        "og brauta sinna;",
+        "hlýrnis, heljar,",
+        "heims ef vissi,",
+        "ártíð, æfi,",
+        "aldrtila."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s12",
+     "stanza": 12,
+     "on": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Né mun mælti",
+        "né mál knátti",
+        "Gefjun greiða",
+        "né glaum hjaldi;",
+        "tár af tíndust",
+        "törgum hjarnar,",
+        "eljun faldin",
+        "endrrjóða."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Né mun mælti",
+        "né mál knátti",
+        "Gefjun greiða",
+        "né glaum hjaldi;",
+        "tár af tíndust",
+        "törgum hjarnar,",
+        "eljun faldin",
+        "endrrjóða."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s13",
+     "stanza": 13,
+     "on": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Eins kemr austan",
+        "úr Elivágum",
+        "þorn af akri",
+        "þurs hrímkalda,",
+        "hveim drepr dróttir",
+        "Dáinn allar",
+        "mæran of Miðgarð",
+        "með nátt hver."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Eins kemur austan",
+        "úr Elivágum",
+        "þorn af akri",
+        "þurs hrímkalda,",
+        "hveim drepur dróttir",
+        "Dáinn allar",
+        "mæran of Miðgarð",
+        "með nátt hver."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s14",
+     "stanza": 14,
+     "on": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Dofna þá dáðir,",
+        "detta hendr,",
+        "svífr of svimi",
+        "sverð áss hvíta;",
+        "rennir örvit",
+        "rýgjar glýgju",
+        "sefa sveiflum",
+        "sókn gjörvallri."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Dofna þá dáðir,",
+        "detta hendur,",
+        "svífur of svimi",
+        "sverð ás hvíta;",
+        "rennir örvið",
+        "rýgjar glýgju",
+        "sefa sveiflum",
+        "sókn gjörvallri."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s15",
+     "stanza": 15,
+     "on": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Jamt þótti Jórunn",
+        "jólnum komin,",
+        "sollin sútum,",
+        "svars er ei gátu;",
+        "sóttu því meir",
+        "at syn var fyrir,",
+        "mun þó miðr",
+        "mælgi dugði."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Jamt þótti Jórunn",
+        "jólnum komin,",
+        "sollin sútum,",
+        "svars er ei gátu;",
+        "sóttu því meir",
+        "að syn var fyrir,",
+        "mun þó miður",
+        "mælgi dugði."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s16",
+     "stanza": 16,
+     "on": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Fór frumkvöðull",
+        "fregnar brauta",
+        "hirðr at Herjans",
+        "horni Gjallar;",
+        "Nálar nefa",
+        "nam til fylgis,",
+        "greppr Grímnis",
+        "grund varðveitti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Fór frumkvöðull",
+        "fregnar brauta",
+        "hirður að Herjans",
+        "horni Gjallar;",
+        "Nálar nefa",
+        "nam til fylgis,",
+        "greppur Grímnis",
+        "grund varðveitti."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s17",
+     "stanza": 17,
+     "on": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Vingólf tóku",
+        "Viðars þegnar,",
+        "Fornjóts sefum",
+        "fluttir báðir;",
+        "iðar ganga,",
+        "æsi kveðja,",
+        "Yggjar þegar",
+        "við ölteiti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Vingólf tóku",
+        "Viðars þegnar,",
+        "Fornjóts sefum",
+        "fluttir báðir;",
+        "iðar ganga,",
+        "æsi kveðja,",
+        "Yggjar þegar",
+        "við ölteiti."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s18",
+     "stanza": 18,
+     "on": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Heilan Hangatý",
+        "heppnastan ása,",
+        "virt öndvegis",
+        "valda báðu;",
+        "sæla at sumbli",
+        "sitja día,",
+        "æ með Yggjungi",
+        "yndi halda."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Heilan Hangatý",
+        "heppnastan ása,",
+        "virt öndvegis",
+        "valda báðu;",
+        "sæla að sumbli",
+        "sitja día,",
+        "æ með Yggjungi",
+        "yndi halda."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s19",
+     "stanza": 19,
+     "on": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Bekkjarsett",
+        "at Bölverks ráði",
+        "sjöt Sæhrímni",
+        "saddist rakna;",
+        "Skögul at skutlum",
+        "skaptker Hnikars",
+        "mat af miði",
+        "Mímis hornum."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Bekkjarsett",
+        "að Bölverks ráði",
+        "sjöt Sæhrímni",
+        "saddist rakna;",
+        "Skögul að skutlum",
+        "skaptker Hnikars",
+        "mat af miði",
+        "Mímis hornum."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s20",
+     "stanza": 20,
+     "on": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Margs of frágu",
+        "máltíð yfir",
+        "Heimdall há goð,",
+        "hörgar Loka,",
+        "spár eða spakmál",
+        "sprund ef kenndi,",
+        "undorn of fram,",
+        "unz nam húma."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Margs of frágu",
+        "máltíð yfir",
+        "Heimdall há guð,",
+        "hörgar Loka,",
+        "spár eða spakmál",
+        "sprund ef kenndi,",
+        "undorn of fram,",
+        "uns nam húma."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s21",
+     "stanza": 21,
+     "on": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Illa létu",
+        "orðið hafa",
+        "erindisleysu",
+        "oflítilfræga;",
+        "vant að væla",
+        "verða myndi,",
+        "svá af svanna",
+        "svars of gæti."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Illa létu",
+        "orðið hafa",
+        "erindisleysu",
+        "oflítilfræga;",
+        "vant að væla",
+        "verða myndi,",
+        "svo af svanna",
+        "svars of gæti."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s22",
+     "stanza": 22,
+     "on": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Ansar Ómi,",
+        "allir hlýddu:",
+        "\"Nótt skal nema",
+        "nýræða til;",
+        "hugsi til myrgins",
+        "hverr sem orkar",
+        "ráð til leggja",
+        "rausnar ásum!\""
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Ansar Ómi,",
+        "allir hlýddu:",
+        "\"Nótt skal nema",
+        "nýræða til;",
+        "hugsi til myrgins",
+        "hver sem orkar",
+        "ráð til leggja",
+        "rausnar ásum!\""
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s23",
+     "stanza": 23,
+     "on": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Rann með röstum",
+        "Rindar móðr",
+        "föðrlarðr",
+        "Fenris valla;",
+        "gengu frá gildi",
+        "goðin, kvöddu",
+        "Hropt ok Frigg",
+        "sem Hrímfaxa fór."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Rann með röstum",
+        "Rindar móður",
+        "föðrlarður",
+        "Fenris valla;",
+        "gengu frá gildi",
+        "goðin, kvöddu",
+        "Hropt og Frigg",
+        "sem Hrímfaxa fór."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s24",
+     "stanza": 24,
+     "on": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Dýrum settan",
+        "Dellings mögr",
+        "jó fram keyrði",
+        "jarknasteinum;",
+        "mars of manheim",
+        "mön af glóar,",
+        "dró leik Dvalins",
+        "drösull í reið."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Dýrum settan",
+        "Dellings mögur",
+        "jó fram keyrði",
+        "jarknasteinum;",
+        "mars of manheim",
+        "mön af glóar,",
+        "dró leik Dvalins",
+        "drösull í reið."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s25",
+     "stanza": 25,
+     "on": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Jörmungrundar",
+        "í jódyr nyrðra",
+        "und rót yztu",
+        "aðalþollar,",
+        "gengu til rekkju",
+        "gýgjur ok þursar,",
+        "náir, dvergar,",
+        "ok dökkálfar."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Jörmungrundar",
+        "í jódyr nyrðra",
+        "und rót yztu",
+        "aðalþollar,",
+        "gengu til rekkju",
+        "gýgjur og þursar,",
+        "náir, dvergar,",
+        "og dökkálfar."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    },
+    {
+     "id": "fsl-s26",
+     "stanza": 26,
+     "on": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Risu raknar,",
+        "rann álfröðull,",
+        "norðr at Niflheim",
+        "njóla sótti;",
+        "upp nam árgjöll",
+        "Úlfrúnar niðr,",
+        "hornþytvaldr",
+        "Himinbjarga."
+       ]
+      }
+     ],
+     "is": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Risu raknar,",
+        "rann álfröðull,",
+        "norður að Niflheim",
+        "njóla sótti;",
+        "upp nam árgjöll",
+        "Úlfrúnar niður,",
+        "hornþytvaldur",
+        "Himinbjarga."
+       ]
+      }
+     ],
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": []
+    }
+   ],
+   "notes": [],
+   "en_source": null,
+   "en_missing_note": "No public-domain English translation is in this edition yet."
+  }
+ ],
+ "sources": {
+  "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Forspjallsljóð)",
+  "is": "automatic modernisation of the Old Norse",
+  "en": null
+ }
+}
