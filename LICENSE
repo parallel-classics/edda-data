@@ -1,18 +1,28 @@
 Open Snorra Edda — edda-data
 Licensing summary
 
-1. Source texts (public domain)
+1. Source texts
 
-   The base texts in sources/ and their parsed forms are in the public domain:
+   The medieval works themselves (Snorri's Edda, the Eddic poems) are in the public domain. The editions
+   used here have different statuses:
 
-   - Old Norse: Edda Snorra Sturlusonar, normalised edition by Guðni Jónsson (Íslendingasagnaútgáfan, 1954),
-     as published by heimskringla.no. Heimskringla.no asks to be credited; please do.
+   - Old Norse: Edda Snorra Sturlusonar (1954) and Eddukvæði (1949), normalised editions by Guðni Jónsson
+     (Íslendingasagnaútgáfan), as published by heimskringla.no. EDITION RIGHTS NOT YET CONFIRMED. Guðni
+     Jónsson died in 1974; if a normalised edition is protected as the editor's own work, protection could
+     run to the end of 2044. heimskringla.no publishes the texts freely and asks to be credited; please do.
+     Permission is being requested from heimskringla.no. If it is not given, the Old Norse column will be
+     re-based on a source whose status is clear (a 19th-century edition, or a new normalisation made from
+     the manuscript transcriptions), keeping row ids.
    - Modern Icelandic: Gylfaginning, Netútgáfan, June 1997 (https://netutgafan.snerpa.is/snorri/gylf.htm).
+     Published freely online; its terms of use are NOT YET CONFIRMED.
    - English: Arthur Gilchrist Brodeur, The Prose Edda (American-Scandinavian Foundation, 1916), via the
-     sacred-texts.com transcription.
+     sacred-texts.com transcription. Public domain.
+   - English: Henry Adams Bellows, The Poetic Edda (American-Scandinavian Foundation, 1923), via the
+     Wikisource transcription. Public domain (Bellows died in 1939).
 
    No new rights are claimed over these texts or over the automatic alignment and modernisation derived
-   from them (aligned/, auto/).
+   from them (aligned/, auto/). Until the two open points above are settled, do not describe the whole
+   dataset as public domain.
 
 2. Contributions (CC BY 4.0)
 

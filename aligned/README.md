@@ -11,6 +11,14 @@ replaces these files wholesale, so anything typed into them is lost.
 | `al_gylf.json` | Gylfaginning | `gylfaginning` | `g` | 54 | 345 |
 | `al_skald.json` | Skáldskaparmál | `skaldskaparmal` | `s` | 89 | 854 |
 | `al_hatt.json` | Háttatal | `hattatal` | `h` | 3 sections | 303 |
+| `al_vsp.json` | Völuspá (Poetic Edda) | `voluspa` | `vsp` | 9 sections | 66 |
+| `links_vsp.json` | Snorri's quotations of Völuspá: `{"row": "g-c4-3", "stanza": 3, "lines": 6}` | | | | 31 links |
+
+Poem rows differ from Snorri rows in three ways: each row carries its own `id` (`vsp-s<stanza>`, Guðni
+Jónsson's stanza number, not a row counter); `en_stanzas` lists the Bellows stanza numbers in the English cell
+(empty, one, or two); `quoted_in` lists the Snorri rows that quote the stanza. Sections (`chapters[]`) are an
+editorial grouping for navigation with an English title and `stanzas: [first, last]`. Produced by
+`edda-site/pipeline/make_voluspa.py`.
 
 ## File shape
 

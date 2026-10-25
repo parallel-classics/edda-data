@@ -19,7 +19,13 @@ Skáldskaparmál  en           0      843        1        0        0       10   
 Háttatal        on         303        0        0        0        0        0      303
 Háttatal        is           0      303        0        0        0        0      303
 Háttatal        en           0        0      303        0        0        0      303
+Völuspá         on          66        0        0        0        0        0       66
+Völuspá         is           0       66        0        0        0        0       66
+Völuspá         en           0       66        0        0        0        0       66
 ```
+
+Völuspá (Poetic Edda, added 2026-10-25): 66 stanzas; Icelandic automatic; English Bellows 1923 (the `auto`
+count means "aligned by the pairing table", not machine text); 31 links to 29 stanzas from Snorri's rows.
 
 1,514 rows; 0 reviewed cells; 2 overlay files (304 AI draft records); 73 image records (40 depictions, 38 placed; 33 documentary: 2 manuscripts, 18 monuments, 13 places), 71 placed in all (`placed: false` on `s-c3` and `s-c46`, whose pictures turned out not to show the scene; `p-c5` Sigtún and `g-c54` Gangleri alone have no public-domain depiction at all). Generation briefs for those four slots and eight optional ones: `images/generation-briefs.md`. All 40 records carry `checked_by: claude (Commons API metadata check, 2026-10-24); human verification pending` — the licence basis was read from the Wikimedia Commons file pages, not yet confirmed by a person against the institution records.
 
@@ -44,11 +50,22 @@ Alignment
 - Skáldskaparmál English has 10 empty cells (`en_cont`) where Brodeur ran two paragraphs into one sentence.
 
 Sources
+- Licence: the medieval texts and both English translations are public domain; the rights in Guðni Jónsson's
+  normalised editions (1949, 1954) and in Netútgáfan's Gylfaginning are not yet confirmed (`LICENSE` §1).
 - Brodeur (sacred-texts transcription): ten scan errors fixed by a list in `parse_en.py`; every lost *œ*
   restored; page-break joins applied. Unknown residual errors are likely; the Wikisource proofread copy is the
   planned replacement base.
 - Guðni Jónsson's Gylfaginning ends before the two closing sentences on Öku-Þórr and the Turks that Netútgáfan
   and Brodeur both have (noted at the last row of chapter 54).
+
+Völuspá
+- Bellows' stanza order differs from Guðni Jónsson's after stanza 22 (pairing table in `make_voluspa.py`);
+  the English cell names Bellows' stanza where it differs. Guðni Jónsson 34 (Hauksbók, Váli) has no Bellows
+  stanza; 54 (a fourth refrain) shows Bellows' refrain.
+- Quotation links were found automatically; Snorri's paraphrases (e.g. of the Norns stanza) are not linked.
+- The moderniser now rejects learned word pairs that drop the first letter or more than two letters (they came
+  from misaligned training pairs, e.g. *men* → *en*); held-out accuracy 94.15% (was 94.12%). The
+  Formáli/Skáldskaparmál/Háttatal automatic columns have not been regenerated with it yet.
 
 Modernised spelling (automatic column)
 - Residuals such as *it fyrsta* for *hið fyrsta*, occasional inflection endings, and words never seen in

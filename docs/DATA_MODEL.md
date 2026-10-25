@@ -10,9 +10,19 @@ The row is the unit of everything: reading, editing, reviewing, citing.
 | `g` | Gylfaginning | `aligned/al_gylf.json` | 1–54 |
 | `s` | Skáldskaparmál | `aligned/al_skald.json` | 1–89 (Guðni Jónsson's division; Brodeur's 74 mapped onto them) |
 | `h` | Háttatal | `aligned/al_hatt.json` | sections 1–3 (stanzas 1–30, 31–67, 68–102) |
+| `vsp` | Völuspá (Poetic Edda) | `aligned/al_vsp.json` | sections 1–9, an editorial grouping of stanzas 1–66 |
 
 Row id: `<prefix>-c<chapter>-<row>`, row 1-based within the chapter, e.g. `s-c11-4`. Chapter id on the page:
 `<prefix>-ch<chapter>`. Ids are the stable reference for citing, reporting and editing.
+
+Poems of the Poetic Edda are a second book on the same model. A poem row is one stanza and its id is the
+stanza number in Guðni Jónsson's edition: `vsp-s<N>` (e.g. `vsp-s19`, *Ask veit ek standa*). Sections can be
+regrouped without touching ids. Each further poem gets a short prefix (planned: `vm` Vafþrúðnismál, `grm`
+Grímnismál, `hav` Hávamál, `ls` Lokasenna, `thrk` Þrymskviða, …; fixed when the poem is added).
+
+Cross-references: `aligned/links_<poem>.json` lists `{"row": <Snorri row id>, "stanza": <N>, "lines": <k>}`
+for every verse block in Snorri's Edda that quotes the poem (found by line matching, at least two lines and
+one line unique to that stanza). The build links both rows to each other. The validator checks both ends exist.
 
 ## Blocks
 

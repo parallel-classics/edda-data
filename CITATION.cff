@@ -6,7 +6,9 @@ abstract: >-
   Snorri Sturluson's Edda (Formáli, Gylfaginning, Skáldskaparmál, Háttatal) aligned paragraph by paragraph
   into 1,514 rows: Guðni Jónsson's normalised Old Norse (1954, via heimskringla.no), modern Icelandic spelling
   (Netútgáfan 1997 for Gylfaginning, automatic modernisation elsewhere) and English (A. G. Brodeur 1916;
-  AI draft for Háttatal, unreviewed), with community overlays, cell statuses and public-domain image records.
+  AI draft for Háttatal, unreviewed), with community overlays, cell statuses and openly licensed image
+  records. From the Poetic Edda, Völuspá is aligned stanza by stanza (Guðni Jónsson 1949; H. A. Bellows 1923)
+  and linked to Snorri's quotations of it.
 authors:
   - family-names: Sapunov
     given-names: Grigory

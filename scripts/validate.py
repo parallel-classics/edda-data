@@ -2,6 +2,8 @@
 
 Checks
   aligned/al_*.json   every row has a non-empty Old Norse cell; row ids are unique; chapter numbers unique per part
+                      (poems, e.g. al_vsp.json: every row carries its id vsp-s<N>, stanzas numbered 1..n in order)
+  aligned/links_*.json  every link names an existing Snorri row and an existing poem stanza
   overlays/**/*.json  {"records": [...]}; every record: row id exists in aligned/, cell in {on, is, en},
                       status in {auto, draft, reviewed, disputed}, non-empty text, author, date YYYY-MM-DD,
                       "replaces" null or string
@@ -28,10 +30,12 @@ PARTS = [  # row-id prefix, aligned file, "part" value inside the file, scenes.j
     ("g", "al_gylf.json", "gylfaginning", "gylfaginning", "Gylfaginning"),
     ("s", "al_skald.json", "skaldskaparmal", "skaldskaparmal", "Skáldskaparmál"),
     ("h", "al_hatt.json", "hattatal", "hattatal", "Háttatal"),
+    ("vsp", "al_vsp.json", "voluspa", "voluspa", "Völuspá"),   # Poetic Edda: one row per stanza, id vsp-s<N>
 ]
+POEMS = {"vsp"}
 CELLS = ("on", "is", "en")
 STATUSES = ("auto", "draft", "reviewed", "disputed")
-ROW_ID = re.compile(r"^[pgsh]-c\d+-\d+[a-z]?$")
+ROW_ID = re.compile(r"^([pgsh]-c\d+-\d+|vsp-s\d+)[a-z]?$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 # images/records.json: these keys must be present; the others in images/README.md are optional
 IMAGE_KEYS = ("id", "part", "chapter", "title", "artist", "date", "source_url", "file_url", "width", "height",
@@ -73,6 +77,11 @@ def check_aligned():
             nums.add(num)
             for i, r in enumerate(c.get("rows", []), start=1):
                 rid = f"{prefix}-c{num}-{i}"
+                if prefix in POEMS:
+                    rid = r.get("id", "")
+                    want = f"{prefix}-s{len([x for x in rows if x.startswith(prefix + '-')]) + 1}"
+                    if rid != want:
+                        err(f"{fname}: row id {rid!r}, expected {want!r} (stanzas numbered in order)")
                 if rid in rows:
                     err(f"{fname}: duplicate row id {rid}")
                 on = r.get("on") or []
@@ -86,6 +95,20 @@ def check_aligned():
                 }
         chapters[prefix] = nums
     return rows, chapters
+
+
+def check_links(rows):
+    n = 0
+    for path in sorted(glob.glob(os.path.join(ROOT, "aligned", "links_*.json"))):
+        rel = os.path.relpath(path, ROOT)
+        poem = os.path.basename(path)[6:-5]
+        for k, l in enumerate(load(path).get("links", [])):
+            n += 1
+            if l.get("row") not in rows:
+                err(f"{rel}#{k}: Snorri row {l.get('row')!r} does not exist")
+            if f"{poem}-s{l.get('stanza')}" not in rows:
+                err(f"{rel}#{k}: stanza {poem}-s{l.get('stanza')} does not exist")
+    return n
 
 
 def check_overlays(rows):
@@ -110,7 +133,7 @@ def check_overlays(rows):
             if not isinstance(rid, str) or not ROW_ID.match(rid):
                 err(f"{where}: bad row id {rid!r}")
                 continue
-            base = re.sub(r"[a-z]$", "", rid)  # a suffixed id (split row) must point at an existing base id
+            base = re.sub(r"(?<=\d)[a-z]$", "", rid)  # a suffixed id (split row) must point at an existing base id
             if rid not in rows and base not in rows:
                 err(f"{where}: row {rid} does not exist in aligned/")
             if cell not in CELLS:
@@ -219,7 +242,7 @@ def status_table(rows, effective):
         for cell in CELLS:
             counts = dict.fromkeys(cols, 0)
             for rid, r in rows.items():
-                if rid[0] != prefix:
+                if rid.split("-")[0] != prefix:
                     continue
                 st = effective.get((rid, cell))
                 if st is None:
@@ -247,8 +270,9 @@ def main():
     rows, chapters = check_aligned()
     effective, n_overlay_files = check_overlays(rows)
     n_images = check_images(rows, chapters)
+    n_links = check_links(rows)
     print(f"aligned rows: {len(rows)} in {len(chapters)} parts; overlay files: {n_overlay_files}, "
-          f"overlay cells: {len(effective)}; image records: {n_images}\n")
+          f"overlay cells: {len(effective)}; image records: {n_images}; quotation links: {n_links}\n")
     status_table(rows, effective)
     print()
     print("source = base edition text (Old Norse), auto = automatic alignment or modernisation, "

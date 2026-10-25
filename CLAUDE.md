@@ -13,7 +13,7 @@ The pipeline and the website are in the sibling repository `edda-site` (expected
 3. Keep status labels honest. Status values are exactly `auto`, `draft`, `reviewed`, `disputed`.
    Never write `reviewed` for machine output or for an AI draft; AI text is `draft` with an `author` of the
    form `ai:<model>-<yyyy-mm>`.
-4. Row ids (`<p>-c<chapter>-<row>`, p in p/g/s/h) never change. A split row gets a letter suffix
+4. Row ids (`<p>-c<chapter>-<row>`, p in p/g/s/h; poems `<poem>-s<stanza>`, e.g. `vsp-s19`) never change. A split row gets a letter suffix
    (`s-c11-4a`); the old id keeps resolving. Never renumber.
 5. Do not add dependencies. Scripts are Python 3.11+ standard library, run with `python -I`.
 6. Run `python -I scripts/validate.py` before you finish; it must print `OK` and exit 0.
@@ -25,6 +25,8 @@ The pipeline and the website are in the sibling repository `edda-site` (expected
 ```
 sources/{on,is,en}/   base texts as fetched + parsed JSON (sources/README.md: provenance)
 aligned/al_*.json     one file per part; rows = {on, is, en, is_cont, en_cont, s_en, s_is, en_draft?}
+                      al_vsp.json: Völuspá (Poetic Edda), rows also carry id, en_stanzas, quoted_in
+aligned/links_*.json  Snorri row -> poem stanza quotation links
 auto/                 modernizer.json, is_*_auto.json, en_draft.json (AI draft as produced)
 overlays/{on,is,en}/  {"_note": ..., "records": [ {row, cell, text, status, author, date, reason, replaces} ]}
 images/               scenes.json (briefs), records.json (verified PD images), pd/ (image files)

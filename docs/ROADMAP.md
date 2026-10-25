@@ -10,6 +10,7 @@ phase is over. Phases 2, 3 and 4 run side by side. Site and edit-service work is
 | 2 Icelandic outreach (12 weeks) | Icelandic overlays arrive for Formáli, then Skáldskaparmál; monthly moderniser retraining from accepted fixes, `auto/` and `aligned/` regenerated, accuracy reported in `docs/STATUS.md`; a tagged release per month | Formáli 100% reviewed; Skáldskaparmál Icelandic 50% reviewed |
 | 3 Images (11 weeks) | `images/records.json`: the 40 Commons records verified by a person against institution records; documentary images (manuscript pages, monuments, places; PD / CC0 / CC BY / CC BY-SA, see `images/README.md`) added within the density rule; community-track schema added when the track opens | 30 slots with a verified depiction; documentary strip on every part |
 | 4 English (19 weeks) | Nafnaþulur added as a fifth part (`sources/on/`, `aligned/al_thul.json`; Old Norse, automatic Icelandic, English glosses); Háttatal draft reviewed row by row (overlays → `reviewed`); Brodeur base swapped to the Wikisource proofread copy (new `sources/en/`, re-aligned rows, ids preserved or suffixed); new-translation overlays start on Gylfaginning; glossary file added | Háttatal English reviewed on every row |
+| Poetic Edda (alongside 2–4) | Völuspá added 2026-10-25 (`aligned/al_vsp.json`, `links_vsp.json`). Next the poems Snorri quotes most: Vafþrúðnismál, Grímnismál, then Hávamál, Lokasenna, Þrymskviða, Hymiskviða, Baldrs draumar; then the rest of the 25 in the source folder. Each: Old Norse, automatic Icelandic, Bellows, quotation links | Völuspá reviewed by one reader; the three quoted poems in |
 | 5 Scholarly release | `v1.0.0` frozen, tagged, DOI; contributors listed in the release; description paper; scope the next phase (Uppsala Edda variants, þulur) | v1.0 published and cited |
 
 ## Rules that hold through every phase
@@ -21,6 +22,11 @@ phase is over. Phases 2, 3 and 4 run side by side. Site and edit-service work is
   edda-site with the row-id diff stated in its description; reviewed overlays must still resolve.
 
 ## Open decisions affecting this repository
+
+- Rights in Guðni Jónsson's normalised editions (and Netútgáfan's text): permission from heimskringla.no, or a
+  re-based Old Norse column (19th-century editions, or our own normalisation from handrit.is transcriptions).
+  This blocks calling the dataset public domain, and should be settled before the DOI release.
+- Whether the Poetic Edda becomes its own dataset repository or stays here (current: here, same model).
 
 - Licence for contributions: CC BY 4.0 (current) or CC0.
 - Whether a free modern-spelling Skáldskaparmál exists anywhere (it would replace the automatic column).
