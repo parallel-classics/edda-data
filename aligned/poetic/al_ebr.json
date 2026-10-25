@@ -12,29 +12,6 @@
    "group": "other",
    "rows": [
     {
-     "id": "ebr-s1",
-     "stanza": 1,
-     "on": [
-      {
-       "t": "v",
-       "n": 1,
-       "l": []
-      }
-     ],
-     "is": [
-      {
-       "t": "v",
-       "n": 1,
-       "l": []
-      }
-     ],
-     "en": [],
-     "en_stanzas": [],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": []
-    },
-    {
      "id": "ebr-p1",
      "stanza": null,
      "on": [
@@ -49,14 +26,21 @@
        "s": "Hár segir, að hann (Gylfi) kom eigi heill út, nema hann sé fróðari, og"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Hárr says that he (Gylfi) would not come out unharmed unless he proved the wiser, and"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "head": "1.",
+     "en_draft": true
     },
     {
-     "id": "ebr-p2",
+     "id": "ebr-v1",
      "stanza": null,
      "on": [
       {
@@ -80,39 +64,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Stand forth",
+        "while you ask;",
+        "he who answers shall sit.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [
       "g-c2-11"
-     ]
+     ],
+     "en_draft": true
     },
     {
-     "id": "ebr-s2",
-     "stanza": 2,
-     "on": [
-      {
-       "t": "v",
-       "n": 2,
-       "l": []
-      }
-     ],
-     "is": [
-      {
-       "t": "v",
-       "n": 2,
-       "l": []
-      }
-     ],
-     "en": [],
-     "en_stanzas": [],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": []
-    },
-    {
-     "id": "ebr-p3",
+     "id": "ebr-p2",
      "stanza": null,
      "on": [
       {
@@ -126,14 +97,25 @@
        "s": "Njörður á þá konu, er Skaði heitir, dóttir Þjassa jötuns. Skaði vill hafa bústað þann, er átt hafði faðir hennar, - það er á fjöllum nokkrum, þar sem heitir Þrymheimur, - en Njörður vill vera nær sæ. Þau sættust á það, að þau skyldu vera níu nætur í Þrymheimi, en þá aðrar níu að Nóatúnum. En er Njörður kom aftur til Nóatúna af fjallinu, þá kvað hann þetta:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Stand forth",
+        "while you ask;",
+        "he who answers shall sit.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "head": "2.",
+     "en_draft": true
     },
     {
-     "id": "ebr-p4",
+     "id": "ebr-v2",
      "stanza": null,
      "on": [
       {
@@ -197,40 +179,46 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Hateful to me are the mountains,",
+        "I was not long on them,",
+        "only nine nights;",
+        "the howling of wolves",
+        "seemed to me ugly",
+        "beside the song of swans.\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Then Skaði spoke this:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"I could not sleep",
+        "on the beds of the sea",
+        "for the screeching of the bird;",
+        "he wakes me,",
+        "who comes from the sea,",
+        "every morning: the gull.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [
       "g-c23-2",
       "g-c23-4"
-     ]
+     ],
+     "en_draft": true
     },
     {
-     "id": "ebr-s3",
-     "stanza": 3,
-     "on": [
-      {
-       "t": "v",
-       "n": 3,
-       "l": []
-      }
-     ],
-     "is": [
-      {
-       "t": "v",
-       "n": 3,
-       "l": []
-      }
-     ],
-     "en": [],
-     "en_stanzas": [],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": []
-    },
-    {
-     "id": "ebr-p5",
+     "id": "ebr-p3",
      "stanza": null,
      "on": [
       {
@@ -244,14 +232,21 @@
        "s": "Og enn segir hann (Heimdallur) sjálfur í Heimdallargaldri:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Njörðr has a wife who is called Skaði, daughter of the giant Þjazi. Skaði wants to have the dwelling that her father had owned, which is on certain mountains, at the place called Þrymheimr, but Njörðr wants to be near the sea. They agreed that they should be nine nights in Þrymheimr and then another nine at Nóatún. And when Njörðr came back to Nóatún from the mountain, he spoke this:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "head": "3.",
+     "en_draft": true
     },
     {
-     "id": "ebr-p6",
+     "id": "ebr-v3",
      "stanza": null,
      "on": [
       {
@@ -273,39 +268,25 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "I am of nine | mothers the offspring,",
+        "Of sisters nine | am I the son."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [
       "g-c27-4"
-     ]
+     ],
+     "en_from": "g-c27-4"
     },
     {
-     "id": "ebr-s4",
-     "stanza": 4,
-     "on": [
-      {
-       "t": "v",
-       "n": 4,
-       "l": []
-      }
-     ],
-     "is": [
-      {
-       "t": "v",
-       "n": 4,
-       "l": []
-      }
-     ],
-     "en": [],
-     "en_stanzas": [],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": []
-    },
-    {
-     "id": "ebr-p7",
+     "id": "ebr-p4",
      "stanza": null,
      "on": [
       {
@@ -319,14 +300,21 @@
        "s": "(Hin fjórtánda ásynja er) Gná. Hana sendir Frigg í ýmsa heima að erindum sínum. Hún á þann hest, er rennur loft og lög og heitir Hófvarpnir. Það var eitt sinn, er hún reið; að vanir nokkrir sáu reið hennar í loftinu. Þá mælti einn:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "(The fourteenth goddess is) Gná. Frigg sends her into various worlds on her errands. She has the horse that runs through sky and sea and is called Hófvarpnir. It happened once, as she was riding, that some of the Vanir saw her ride through the air. Then one of them said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "head": "4.",
+     "en_draft": true
     },
     {
-     "id": "ebr-p8",
+     "id": "ebr-v4",
      "stanza": null,
      "on": [
       {
@@ -384,40 +372,43 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"What flies there,",
+        "what goes there",
+        "or glides through the air?\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "She answers:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"I do not fly,",
+        "though I go",
+        "and glide through the air",
+        "on Hófvarpnir,",
+        "the one whom Hamskerpir",
+        "begot with Garðrofa.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [
       "g-c35-16",
       "g-c35-18"
-     ]
+     ],
+     "en_draft": true
     },
     {
-     "id": "ebr-s5",
-     "stanza": 5,
-     "on": [
-      {
-       "t": "v",
-       "n": 5,
-       "l": []
-      }
-     ],
-     "is": [
-      {
-       "t": "v",
-       "n": 5,
-       "l": []
-      }
-     ],
-     "en": [],
-     "en_stanzas": [],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": []
-    },
-    {
-     "id": "ebr-p9",
+     "id": "ebr-p5",
      "stanza": null,
      "on": [
       {
@@ -431,14 +422,21 @@
        "s": "Því næst sendu æsir um allan heim erindreka að biðja, að Baldur væri grátinn úr Helju, en allir gerðu það; mennirnir og kykvendin og jörðin og steinarnir og tré og allur málmur . . . . Þá er sendimenn fóru heim og höfðu vel rekið sín erindi, finna þeir í helli nokkrum, hvar gýgur sat. Hún nefndist Þökk. Þeir biðja hana gráta Baldur úr Helju. Hún svarar:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "And moreover he (Heimdallr) says himself in Heimdallargaldr:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "head": "5.",
+     "en_draft": true
     },
     {
-     "id": "ebr-p10",
+     "id": "ebr-v5",
      "stanza": null,
      "on": [
       {
@@ -468,16 +466,29 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Þökk will weep",
+        "with dry tears",
+        "for Baldr's funeral pyre;",
+        "alive or dead,",
+        "I had no good of the old man's son;",
+        "let Hel keep what she has.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [
       "g-c49-24"
-     ]
+     ],
+     "en_draft": true
     },
     {
-     "id": "ebr-p11",
+     "id": "ebr-p6",
      "stanza": null,
      "on": [
       {
@@ -491,37 +502,23 @@
        "s": "En þess geta menn, að þar hafi verið Loki Laufeyjarson, er flest hefur illt gert með ásum."
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"I am the boy of nine mothers,",
+        "I am the son of nine sisters.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
-     "id": "ebr-s6",
-     "stanza": 6,
-     "on": [
-      {
-       "t": "v",
-       "n": 6,
-       "l": []
-      }
-     ],
-     "is": [
-      {
-       "t": "v",
-       "n": 6,
-       "l": []
-      }
-     ],
-     "en": [],
-     "en_stanzas": [],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": []
-    },
-    {
-     "id": "ebr-p12",
+     "id": "ebr-p7",
      "stanza": null,
      "on": [
       {
@@ -535,14 +532,21 @@
        "s": "Þá fór Þór til ár þeirrar, er Vimur heitir, allra áa mest. Þá spennti hann sig megingjörðum og studdi forstreymis Gríðarvöl, en Loki hélt undir Megingjarðir. Og þá er Þór kom í miðja ána, þá óx svo mjög áin, að uppi braut á öxl honum. Þá kvað Þór þetta:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "(The fourteenth goddess is) Gná. Frigg sends her into various worlds on her errands. She has the horse that runs through sky and sea and is called Hófvarpnir. It happened once, when she was riding, that certain Vanir saw her ride through the air. Then one of them said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "head": "6.",
+     "en_draft": true
     },
     {
-     "id": "ebr-p13",
+     "id": "ebr-v6",
      "stanza": null,
      "on": [
       {
@@ -572,37 +576,27 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Do not rise now, Vimr,",
+        "since I wish to wade you",
+        "into the giants' realms;",
+        "know that, if you rise,",
+        "then my god-strength will rise",
+        "as high up as the sky.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
-     "id": "ebr-s7",
-     "stanza": 7,
-     "on": [
-      {
-       "t": "v",
-       "n": 7,
-       "l": []
-      }
-     ],
-     "is": [
-      {
-       "t": "v",
-       "n": 7,
-       "l": []
-      }
-     ],
-     "en": [],
-     "en_stanzas": [],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": []
-    },
-    {
-     "id": "ebr-p14",
+     "id": "ebr-p8",
      "stanza": null,
      "on": [
       {
@@ -616,14 +610,21 @@
        "s": "En er Þór kom til Geirröðar, þá var þeim félögum vísað fyrst í geitahús til herbergis, og var þar einn stóll til sætis, og sat þar Þór. Þá varð hann þess var, að stóllinn fór undan honum upp að ræfri. Hann stakk Gríðarveli upp í raftana og lét sígast fast á stólinn. Varð þá brestur mikill, og fylgdi skrækur. Þar höfðu verið undir stólinum dætur Geirröðar, Gjálp og Greip, og hafði hann brotið hrygginn í báðum. Þá kvað Þór:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "And when Þórr came to Geirröðr's, he and his companion were first shown to a goat-shed for lodging, and there was one chair to sit on, and Þórr sat on it. Then he became aware that the chair was rising under him up towards the roof. He thrust the staff Gríðarvölr up into the rafters and let himself press down hard on the chair. Then there was a great crack, followed by a scream. Geirröðr's daughters, Gjálp and Greip, had been under the chair, and he had broken the backs of both. Then Þórr said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "head": "7.",
+     "en_draft": true
     },
     {
-     "id": "ebr-p15",
+     "id": "ebr-v7",
      "stanza": null,
      "on": [
       {
@@ -653,37 +654,27 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Once",
+        "I used my god-strength",
+        "in the giants' realms,",
+        "when Gjálp and Greip,",
+        "Geirröðr's daughters,",
+        "wanted to lift me to the sky.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
-     "id": "ebr-s8",
-     "stanza": 8,
-     "on": [
-      {
-       "t": "v",
-       "n": 8,
-       "l": []
-      }
-     ],
-     "is": [
-      {
-       "t": "v",
-       "n": 8,
-       "l": []
-      }
-     ],
-     "en": [],
-     "en_stanzas": [],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": []
-    },
-    {
-     "id": "ebr-p16",
+     "id": "ebr-p9",
      "stanza": null,
      "on": [
       {
@@ -697,14 +688,21 @@
        "s": "Í Ásgarði fyrir dyrum Valhallar stendur lundur, sá er glasi er kallaður, en lauf hans allt er gull rautt, svo sem hér er kveðið, að:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Next the Æsir sent messengers throughout the whole world to ask that Baldr be wept out of Hel, and all did so: men and living creatures and the earth and the stones and trees and all metal … When the messengers were going home, having carried out their errand well, they find in a certain cave a giantess sitting there. She called herself Þökk. They ask her to weep Baldr out of Hel. She answers:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "head": "8.",
+     "en_draft": true
     },
     {
-     "id": "ebr-p17",
+     "id": "ebr-v8",
      "stanza": null,
      "on": [
       {
@@ -715,35 +713,6 @@
         "með gullnu laufi",
         "fyrir Sigtýs sölum."
        ]
-      }
-     ],
-     "is": [
-      {
-       "t": "v",
-       "n": null,
-       "l": [
-        "Glasir stendur",
-        "með gullnu laufi",
-        "fyrir Sigtýs sölum."
-       ]
-      }
-     ],
-     "en": [],
-     "en_stanzas": [],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": [
-      "s-c42-2"
-     ]
-    },
-    {
-     "id": "ebr-s9",
-     "stanza": 9,
-     "on": [
-      {
-       "t": "v",
-       "n": 9,
-       "l": []
       },
       {
        "t": "p",
@@ -786,76 +755,6 @@
         "Glær ok Skeiðbrimir",
         "þar var ok Gyllis of getit."
        ]
-      }
-     ],
-     "is": [
-      {
-       "t": "v",
-       "n": 9,
-       "l": []
-      },
-      {
-       "t": "p",
-       "s": "Þessi eru hestaheiti í Þorgrímsþulu:",
-       "sp": true
-      },
-      {
-       "t": "v",
-       "n": null,
-       "l": [
-        "Hrafn og Sleipnir",
-        "hestar ágætir,",
-        "Valur og Léttfeti,",
-        "var þar Tjaldari,",
-        "Gulltoppur og Goti,",
-        "getið heyrðak Sóta,",
-        "Mór og Lungur með Mari."
-       ]
-      },
-      {
-       "t": "v",
-       "n": null,
-       "l": [
-        "Vigg og Stúfur",
-        "var með Skævaði,",
-        "þegn knátti Blakkur bera,",
-        "Silfrintoppur og Sinir,",
-        "svo heyrðak Fáks of getið,",
-        "Gullfaxi og Jór með goðum."
-       ]
-      },
-      {
-       "t": "v",
-       "n": null,
-       "l": [
-        "Blóðughófi hét hestur,",
-        "er bera kváðu",
-        "öflgan Atriða;",
-        "Gils og Falhófnir,",
-        "Glær og Skeiðbrimir",
-        "þar var og Gyllis of getið."
-       ]
-      }
-     ],
-     "en": [],
-     "en_stanzas": [],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": [
-      "s-c72-2",
-      "s-c72-3",
-      "s-c72-4"
-     ],
-     "head": "Sá er viðr fegrstr með goðum ok mönnum."
-    },
-    {
-     "id": "ebr-s10",
-     "stanza": 10,
-     "on": [
-      {
-       "t": "v",
-       "n": 10,
-       "l": []
       },
       {
        "t": "p",
@@ -873,48 +772,6 @@
         "Himinhrjótr ok Apli,",
         "Arfr ok Arfuni."
        ]
-      }
-     ],
-     "is": [
-      {
-       "t": "v",
-       "n": 10,
-       "l": []
-      },
-      {
-       "t": "p",
-       "s": "Þessi öxnaheiti eru í Þorgrímsþulu:",
-       "sp": true
-      },
-      {
-       "t": "v",
-       "n": null,
-       "l": [
-        "Gamalla öxna nöfn",
-        "hefig gerla fregið,",
-        "þeirra Rauðs og Hæfis;",
-        "Rekinn og Kyr,",
-        "Himinhrjótur og Apli,",
-        "Arfur og Arfuni."
-       ]
-      }
-     ],
-     "en": [],
-     "en_stanzas": [],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": [
-      "s-c73-2"
-     ]
-    },
-    {
-     "id": "ebr-s11",
-     "stanza": 11,
-     "on": [
-      {
-       "t": "v",
-       "n": 11,
-       "l": []
       },
       {
        "t": "p",
@@ -964,13 +821,86 @@
         "Gunnarr Gota,",
         "en Grana Sigurðr."
        ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Sægr heitir sár,",
+        "en Simul stöng,",
+        "Bil ok Hjúki",
+        "bera hann."
+       ]
       }
      ],
      "is": [
       {
        "t": "v",
-       "n": 11,
-       "l": []
+       "n": null,
+       "l": [
+        "Glasir stendur",
+        "með gullnu laufi",
+        "fyrir Sigtýs sölum."
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Þessi eru hestaheiti í Þorgrímsþulu:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Hrafn og Sleipnir",
+        "hestar ágætir,",
+        "Valur og Léttfeti,",
+        "var þar Tjaldari,",
+        "Gulltoppur og Goti,",
+        "getið heyrðak Sóta,",
+        "Mór og Lungur með Mari."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Vigg og Stúfur",
+        "var með Skævaði,",
+        "þegn knátti Blakkur bera,",
+        "Silfrintoppur og Sinir,",
+        "svo heyrðak Fáks of getið,",
+        "Gullfaxi og Jór með goðum."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Blóðughófi hét hestur,",
+        "er bera kváðu",
+        "öflgan Atriða;",
+        "Gils og Falhófnir,",
+        "Glær og Skeiðbrimir",
+        "þar var og Gyllis of getið."
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Þessi öxnaheiti eru í Þorgrímsþulu:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Gamalla öxna nöfn",
+        "hefig gerla fregið,",
+        "þeirra Rauðs og Hæfis;",
+        "Rekinn og Kyr,",
+        "Himinhrjótur og Apli,",
+        "Arfur og Arfuni."
+       ]
       },
       {
        "t": "p",
@@ -1020,43 +950,6 @@
         "Gunnar Gota,",
         "en Grana Sigurður."
        ]
-      }
-     ],
-     "en": [],
-     "en_stanzas": [],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": [
-      "s-c72-6",
-      "s-c72-7",
-      "s-c72-8"
-     ]
-    },
-    {
-     "id": "ebr-s12",
-     "stanza": 12,
-     "on": [
-      {
-       "t": "v",
-       "n": 12,
-       "l": []
-      },
-      {
-       "t": "v",
-       "n": null,
-       "l": [
-        "Sægr heitir sár,",
-        "en Simul stöng,",
-        "Bil ok Hjúki",
-        "bera hann."
-       ]
-      }
-     ],
-     "is": [
-      {
-       "t": "v",
-       "n": 12,
-       "l": []
       },
       {
        "t": "v",
@@ -1069,38 +962,178 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Glasir stands",
+        "with golden leaves",
+        "before Sigtýr's [Óðinn's] halls."
+       ]
+      },
+      {
+       "t": "p",
+       "s": "These are the names of horses in Þorgrímsþula:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "Hrafn and Sleipnir,",
+        "splendid horses,",
+        "Valr and Léttfeti,",
+        "Tjaldari was there,",
+        "Gulltoppr and Goti,",
+        "I heard Sóti named,",
+        "Mór and Lungr with Marr."
+       ]
+      },
+      {
+       "t": "v",
+       "l": [
+        "Vigg and Stúfr",
+        "were with Skævaðr,",
+        "Blakkr could carry a thane,",
+        "Silfrintoppr and Sinir,",
+        "so I heard Fákr spoken of,",
+        "Gullfaxi and Jór among the gods."
+       ]
+      },
+      {
+       "t": "v",
+       "l": [
+        "Blóðughófi was the horse called",
+        "that they said carried",
+        "mighty Atriði;",
+        "Gils and Falhófnir,",
+        "Glær and Skeiðbrimir,",
+        "Gyllir too was named there."
+       ]
+      },
+      {
+       "t": "p",
+       "s": "These names of oxen are in Þorgrímsþula:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "The names of old oxen",
+        "I have learned well,",
+        "those of Rauðr and Hæfir;",
+        "Rekinn and Kyrr,",
+        "Himinhrjótr and Apli,",
+        "Arfr and Arfuni."
+       ]
+      },
+      {
+       "t": "p",
+       "s": "These horses are also listed in Kálfsvísa:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "Dagr rode Drösull,",
+        "and Dvalinn Móðnir,",
+        "Hjálmþér Háfeti,",
+        "and Haki Fákr;",
+        "the slayer of Beli [Freyr] rode",
+        "Blóðughófi,",
+        "and Skævaðr",
+        "the lord of the Haddingjar."
+       ]
+      },
+      {
+       "t": "v",
+       "l": [
+        "Vésteinn rode Valr,",
+        "and Vífill Stúfr,",
+        "Meinþjófr Mór,",
+        "and Morginn Vakr,",
+        "Áli rode Hrafn",
+        "when they rode onto the ice,",
+        "and another, eastward,",
+        "under Aðils,",
+        "a grey one, stumbled about,",
+        "wounded by a spear."
+       ]
+      },
+      {
+       "t": "v",
+       "l": [
+        "Björn rode Blakkr,",
+        "and Bjárr Kertr,",
+        "Atli Glaumr,",
+        "and Aðils Slungnir,",
+        "Högni Hölkvir,",
+        "and Haraldr Fölkvir,",
+        "Gunnarr Goti,",
+        "and Sigurðr Grani."
+       ]
+      },
+      {
+       "t": "v",
+       "l": [
+        "Sægr is the bucket called,",
+        "and Simul the pole,",
+        "Bil and Hjúki",
+        "carry it."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [
+      "s-c42-2",
+      "s-c72-2",
+      "s-c72-3",
+      "s-c72-4",
+      "s-c72-6",
+      "s-c72-7",
+      "s-c72-8",
+      "s-c73-2"
+     ],
+     "en_draft": true
     },
     {
-     "id": "ebr-s13",
-     "stanza": 13,
+     "id": "ebr-p10",
+     "stanza": null,
      "on": [
       {
-       "t": "v",
-       "n": 13,
-       "l": []
+       "t": "p",
+       "s": "Þat er kallat, at þau sé í tungli."
       }
      ],
      "is": [
       {
-       "t": "v",
-       "n": 13,
-       "l": []
+       "t": "p",
+       "s": "Það er kallað, að þau sé í tungli."
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Þökk will weep",
+        "with dry tears",
+        "for Baldr's funeral pyre;",
+        "alive or dead,",
+        "I had no good of the old man's son;",
+        "let Hel keep what she has.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "head": "Þat er kallat, at þau sé í tungli."
+     "head": "Sá er viðr fegrstr með goðum ok mönnum. 9. 10. 11. 12.",
+     "en_draft": true
     },
     {
-     "id": "ebr-p18",
+     "id": "ebr-p11",
      "stanza": null,
      "on": [
       {
@@ -1114,14 +1147,21 @@
        "s": "Fjöturinn heitir Gleipnir, er honum (Fenrisúlfi) heldur. Gervir voru tveir fjötrar til hans, fyrst þeir Drómi og Læðingur, og hélt hvárgi. Þá var Gleipnir síðan gjör úr sex hlutum:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "And people suppose that this was Loki Laufeyjarson, who has done the most harm among the Æsir."
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "head": "13.",
+     "en_draft": true
     },
     {
-     "id": "ebr-p19",
+     "id": "ebr-v9",
      "stanza": null,
      "on": [
       {
@@ -1135,6 +1175,16 @@
         "ór bergs rótum",
         "ok ór bjarnar sinum,",
         "ór því var hann Gleipnir gerr."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Flugu hrafnar tveir",
+        "af Hnikars öxlum,",
+        "Huginn til hanga,",
+        "en á hræ Muninn."
        ]
       }
      ],
@@ -1151,22 +1201,6 @@
         "og úr bjarnar sinum,",
         "úr því var hann Gleipnir gjör."
        ]
-      }
-     ],
-     "en": [],
-     "en_stanzas": [],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": []
-    },
-    {
-     "id": "ebr-s14",
-     "stanza": 14,
-     "on": [
-      {
-       "t": "v",
-       "n": 14,
-       "l": []
       },
       {
        "t": "v",
@@ -1179,54 +1213,37 @@
        ]
       }
      ],
-     "is": [
+     "en": [
       {
        "t": "v",
-       "n": 14,
-       "l": []
+       "l": [
+        "From the noise of a cat",
+        "and from a woman's beard,",
+        "from the breath of a fish",
+        "and from the milk of birds,",
+        "from the roots of a mountain",
+        "and from the sinews of a bear,",
+        "from that was Gleipnir made."
+       ]
       },
       {
        "t": "v",
-       "n": null,
        "l": [
-        "Flugu hrafnar tveir",
-        "af Hnikars öxlum,",
-        "Huginn til hanga,",
-        "en á hræ Muninn."
+        "Two ravens flew",
+        "from Hnikarr's [Óðinn's] shoulders,",
+        "Huginn to the hanged,",
+        "and Muninn to the corpses."
        ]
       }
      ],
-     "en": [],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
-     "id": "ebr-s15",
-     "stanza": 15,
-     "on": [
-      {
-       "t": "v",
-       "n": 15,
-       "l": []
-      }
-     ],
-     "is": [
-      {
-       "t": "v",
-       "n": 15,
-       "l": []
-      }
-     ],
-     "en": [],
-     "en_stanzas": [],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": []
-    },
-    {
-     "id": "ebr-p20",
+     "id": "ebr-p12",
      "stanza": null,
      "on": [
       {
@@ -1240,14 +1257,21 @@
        "s": "Sigmundur tekur nú blóðrefilinn, og ristu nú í milli sín helluna og létta eigi fyrr en lokið er að rista, sem kveðið er:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Then Þórr came to the river called Vimur, the greatest of all rivers. He buckled on his belt of strength and braced himself downstream with Gríðr's staff, and Loki held on beneath the belt of strength. And when Þórr came to the middle of the river, the river rose so much that it broke over his shoulders. Then Þórr spoke this:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "head": "14. 15.",
+     "en_draft": true
     },
     {
-     "id": "ebr-p21",
+     "id": "ebr-v10",
      "stanza": null,
      "on": [
       {
@@ -1273,14 +1297,25 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "With might they sawed",
+        "the great slab,",
+        "Sigmundr with the sword",
+        "and Sinfjötli."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
-     "id": "ebr-p22",
+     "id": "ebr-p13",
      "stanza": null,
      "on": [
       {
@@ -1302,16 +1337,26 @@
        "s": "1. Brot þessi eru tínd saman úr handritum Snorra-Eddu að undanskildu síðasta brotinu, sem er úr Völsunga sögu. Þau eru ýmist leifar af glötuðum Eddukvæðum eða erindi í Eddukvæðastíl, sem hafa farið einstög frá öndverðu. Efnið er bæði úr goðsögum og hetjusögum. (Guðni Jónsson, Eddulyklar 1949)"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Note:"
+      },
+      {
+       "t": "p",
+       "s": "1. These fragments are gathered from the manuscripts of Snorra Edda, except the last, which is from Völsunga saga. They are either remnants of lost Eddic poems or stanzas in the Eddic manner that have stood on their own from the beginning. Their matter comes both from the myths of the gods and from heroic legends. (Guðni Jónsson, Eddulyklar 1949)"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     }
    ],
    "notes": [],
-   "en_source": null,
-   "en_missing_note": "No public-domain English translation is in this edition yet."
+   "en_source": "AI draft",
+   "en_missing_note": null
   }
  ],
  "sources": {

@@ -1641,11 +1641,17 @@
        "s": "Þá gekk Reginn að Fáfni og skar hjarta úr hánum með sverði, er Riðill heitir, og þá drakk hann blóð úr undinni eftir. Reginn kvað:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Then Reginn went to Fáfnir and cut the heart out of him with the sword called Riðill, and then he drank the blood from the wound afterwards. Reginn said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "fm-s27",
@@ -2765,11 +2771,17 @@
        "s": "Sigurður reið eftir slóð Fáfnis til bælis hans og fann það opið og hurðir af járni og gætti. Af járni voru og allir timbrstokkar í húsinu, en grafið í jörð niður. Þar fann Sigurður stórmikið gull og fylldi þar tvær kistur. Þar tók hann ægishjálm og gullbrynju og sverðið Hrotta og marga dýrgripi og klyfjaði þar með Grana, en hesturinn vildi eigi fram ganga, fyrr en Sigurður steig á bak hánum."
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Sigurðr rode along Fáfnir's track to his lair and found it open, and the doors and door-frames of iron. All the beams in the house were also of iron, and it was dug down into the earth. There Sigurðr found a great deal of gold and filled two chests with it. There he took the helm of terror and a golden mail-coat and the sword Hrotti and many treasures, and loaded Grani with them, but the horse would not go forward until Sigurðr climbed onto his back."
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     }
    ],
    "notes": [

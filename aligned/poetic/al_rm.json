@@ -1008,11 +1008,17 @@
        "s": "Sigurður var þá jafnan með Regin, og sagði hann Sigurði, að Fáfnir lá á Gnitaheiði og var í orms líki. Hann átti ægishjalm, er öll kvikendi hræddust við. Reginn gerði Sigurði sverð, er Gramur hét. Það var svo hvasst, að hann brá því ofan í Rín og lét reka ullarlagð fyrir straumi og tók í sundur lagðinn sem vatnið. Því sverði klauf Sigurður í sundur steðja Regins. Eftir það eggjaði Reginn Sigurð að vega Fáfni. Hann sagði:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Sigurðr was then constantly with Reginn, and Reginn told Sigurðr that Fáfnir lay on Gnitaheiðr and was in the shape of a serpent. He had a helm of terror, which all living creatures feared. Reginn made Sigurðr a sword called Gramr. It was so sharp that he thrust it down into the Rín [Rhine] and let a tuft of wool drift with the current, and it cut the tuft in two as it did the water. With that sword Sigurðr split Reginn's anvil in two. After that Reginn urged Sigurðr to kill Fáfnir. He said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "rm-s15",
@@ -1293,11 +1299,17 @@
        "s": "Þeir viku að landi, og gekk karl á skip, og lægði þá veðrið. Sigurður kvað:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "They turned towards land, and the old man went on board the ship, and then the storm calmed. Sigurðr said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "rm-s19",

@@ -10,6 +10,10 @@ All notable changes to the dataset. Versions are git tags; releases are archived
   his notes and introductions; `aligned/poetic/index.json` (order, groups), `links.json` (91 Snorri quotations).
   Völuspá keeps its ids and hand pairing; `aligned/al_vsp.json` and `links_vsp.json` are replaced by the
   poetic folder.
+- English for every Poetic Edda row: Brodeur where Snorri quotes the stanza, otherwise an AI draft (359 rows,
+  `overlays/en/poetic-ai-draft.json`, `auto/poetic_drafts/`), for the nine poems Bellows did not translate and the
+  stanzas he left out. Verse without a stanza number gets ids `<poem>-v<k>` (Eddubrot, and one passage each in
+  Sigrdrífumál and Hlöðskviða).
 - `aligned/titles.json`: chapter and poem titles in Old Norse, automatic Icelandic and AI-draft English
   (`auto/titles_en.json`).
 - Columns generalised to a list of languages (data model, validator); `ru`, `nb`, `nn`, `da`, `sv`, `de`

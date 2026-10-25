@@ -26,11 +26,17 @@
        "s": "Hálfur konungur fór til ríkis síns úr hernaði. Þeir fengu storm mikinn í hafi. Skip þeirra varð ekki ausið. Þá var það ráðs tekið að hluta mann fyrir borð, en þess þurfti eigi, því að hver bauð sínum félaga fyrir borð að fara. En er þeir stígu fyrir borð, þá mæltu þeir: \"Strálaust er fyrir stokkum.\" En er Hálfur konungur kom til Hörðalands, þá fór Ásmundur konungur á fund hans og gerðist hans maður og sór honum eiða og bauð honum til veizlu og hálfu liði hans. En annan morgun er konungur bjóst og sagði, að helmingur liðs skyldi eftir vera á skipum, kvað Innsteinn:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "King Hálfr was going home to his realm from raiding. They met a great storm at sea. Their ship could not be baled. Then it was decided to draw lots for a man to go overboard, but there was no need of that, because each offered to go overboard for his comrade. And when they stepped overboard, they said: \"There is no straw beside the gunwales [i.e. no straw-death] [?].\" And when King Hálfr came to Hörðaland, King Ásmundr went to meet him and became his man and swore him oaths and invited him to a feast with half his troop. And the next morning, when the king was getting ready and said that half the force should stay behind on the ships, Innsteinn said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s1",
@@ -67,11 +73,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"We should go up,",
+        "all of us,",
+        "best of men,",
+        "from our ships,",
+        "[or] let burn [?]",
+        "the band of princes",
+        "and Ásmundr's host",
+        "lose their lives.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s2",
@@ -118,11 +139,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "The king said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"We shall, half of us,",
+        "visit this host [?]",
+        "in peace",
+        "from the sea below.",
+        "Ásmundr has",
+        "offered us",
+        "red rings",
+        "as we wish to have.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s3",
@@ -169,11 +210,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Innsteinn said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"You do not see all",
+        "of Ásmundr's mind;",
+        "that ruler has",
+        "falsehood in his breast.",
+        "You would, prince,",
+        "if we had our way,",
+        "trust your kinsman-in-law",
+        "very little.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s4",
@@ -220,11 +281,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "The king said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Ásmundr has",
+        "granted us",
+        "many pledges of faith,",
+        "as men know.",
+        "A good king will not",
+        "go back on a settlement,",
+        "nor will a lord deceive",
+        "another under truce.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s5",
@@ -271,11 +352,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Innsteinn said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Óðinn has become",
+        "too hostile to you,",
+        "when you trust Ásmundr",
+        "so fully.",
+        "He will",
+        "betray us all,",
+        "unless you take",
+        "some precautions.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s6",
@@ -322,11 +423,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "The king said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"You always like",
+        "to speak of fear;",
+        "that king will not",
+        "break the settlement.",
+        "We are to get gold there",
+        "and treasures,",
+        "red rings,",
+        "from his estates.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s7",
@@ -373,11 +494,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Innsteinn said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Hálfr, I dreamed —",
+        "think about such things —",
+        "that flame played",
+        "over our host;",
+        "it would be hard",
+        "to get free out of there.",
+        "What do you say, prince,",
+        "that dream means?\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s8",
@@ -424,11 +565,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "The king said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"I will give each",
+        "helmet and mail-coat",
+        "of the bold warriors",
+        "who follow me.",
+        "It will look",
+        "as if flame were burning",
+        "over the king's host,",
+        "over the hills of the hair-parting [heads].\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s9",
@@ -475,11 +636,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Innsteinn said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Again I dreamed",
+        "a second time:",
+        "I thought on shoulders",
+        "fires were burning.",
+        "I begin to doubt somewhat",
+        "that it bodes good.",
+        "What do you say, prince,",
+        "that dream means?\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s10",
@@ -526,11 +707,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "The king said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"There rattle about the shoulders",
+        "of those who form the wedge-array,",
+        "the king's retinue,",
+        "gilded mail-coats.",
+        "That will on the shoulders",
+        "of the prince's friends",
+        "look bright,",
+        "as if flame were burning.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s11",
@@ -577,11 +778,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Innsteinn said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"This I dreamed",
+        "a third time,",
+        "that we had come down",
+        "under the water.",
+        "There will be something very great",
+        "to deal with.",
+        "What do you say, prince,",
+        "that dream means?\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s12",
@@ -628,11 +849,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "The king said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Far too long has this",
+        "foolishness been spoken;",
+        "I say there is nothing",
+        "behind such things.",
+        "Tell none,",
+        "so that anyone hears,",
+        "of your dreams",
+        "from this day on.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s13",
@@ -679,11 +920,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Innsteinn said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Let the Hrókar listen,",
+        "and the king's host,",
+        "to my words,",
+        "Útsteinn the third:",
+        "let us all go",
+        "up from the shore;",
+        "we do not heed",
+        "the king's word in this [?].\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s14",
@@ -730,11 +991,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Útsteinn said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Let us let the eager king",
+        "decide,",
+        "at the head of the troop,",
+        "about our journeys.",
+        "Let us risk, brother,",
+        "so that it pleases him,",
+        "our lives",
+        "with the bold leader.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s15",
@@ -781,11 +1062,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Innsteinn said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"The ruler has relied,",
+        "on voyages abroad,",
+        "on my counsels",
+        "many a time.",
+        "Now I say he is not willing",
+        "to heed anything",
+        "that I speak,",
+        "since we came here.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-p2",
@@ -802,11 +1103,17 @@
        "s": "Hálfur konungur gekk upp til bæjar Ásmundar konungs með helming liðs síns. Þar var fyrir fjölmenni mikið. Veizla var kappsamleg og drykkur svo sterkur, að Hálfsrekkar sofnuðu fast. Ásmundur konungur og hirðin lögðu eld í höllina. En sá, er fyrst vaknaði af Hálfsrekkum, sá höllina nær fulla af reyg. Hann mælti: \"Rjúka mun um hauka vára nú,\" sagði hann. Síðan lagðist hann niður og svaf. Þá vaknaði annar og sá, að höllin logaði, og mælti: \"Drjúpa mun nú vax af söxum.\" Sá lagðist niður. Og þá vaknaði Hálfur konungur. Hann stóð upp og vakti liðið og bað þá vápnast. Þeir hlupu þá á veggina, svo að af gengu nafarnar af timbrstokkunum. Þá kvað Innsteinn:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "King Hálfr went up to King Ásmundr's farm with half his force. A great multitude was there already. The feast was lavish, and the drink so strong that the Hálfsrekkar fell fast asleep. King Ásmundr and his retinue set fire to the hall. And the one of the Hálfsrekkar who woke first saw the hall nearly full of smoke. He said: \"There will be smoke about our hawks now,\" he said. Then he lay down and slept. Then another woke and saw that the hall was ablaze, and said: \"Wax will now drip from the swords.\" He lay down. And then King Hálfr woke. He stood up and woke the troop and bade them arm. They then leapt at the walls, so that the bolts [?] came out of the timber beams. Then Innsteinn said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s16",
@@ -843,11 +1150,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"There is smoke about the hawks",
+        "in the king's hall;",
+        "it is likely that wax drips",
+        "from the swords.",
+        "It is time for gold",
+        "and treasures,",
+        "helmets, to be shared out",
+        "among the Hálfsrekkar."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s17",
@@ -884,11 +1206,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "This I now urge,",
+        "that Hálfr wake;",
+        "not sparingly",
+        "are the fires kindled.",
+        "You must, necklace-breaker [lord],",
+        "to your kinsman-in-law,",
+        "the grim-minded one,",
+        "repay his gifts."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s18",
@@ -925,11 +1262,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Let us, unhurt, push",
+        "against the hall's gable-wall.",
+        "Now the pillars begin",
+        "to part asunder.",
+        "Ever will be remembered,",
+        "while mankind lives,",
+        "the Hálfsrekkar's journey",
+        "to the war-leader."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s19",
@@ -966,11 +1318,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Hard shall we go",
+        "and not give way;",
+        "the ruler's troop must",
+        "fight with swords.",
+        "They themselves shall",
+        "carry on themselves",
+        "bloody wounds",
+        "before the din ceases."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s20",
@@ -1007,11 +1374,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Turn swiftly,",
+        "fine warriors,",
+        "out of the fire",
+        "with the wealth-breaker [lord].",
+        "There is no man",
+        "who lives forever.",
+        "The ring-breaker [lord] will not",
+        "fear death.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-p3",
@@ -1028,11 +1410,17 @@
        "s": "Svo er hér sagt, að Hálfur konungur og Hálfsrekkar kæmist út úr eldinum og Hálfur konungur félli fyrir ofurefli liðs og sveit hans. Innsteinn kvað, er konungur var fallinn:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "So it is told here that King Hálfr and the Hálfsrekkar got out of the fire, and that King Hálfr fell before overwhelming numbers, and his band. Innsteinn said, when the king had fallen:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s21",
@@ -1069,11 +1457,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Here I saw all",
+        "follow one man",
+        "equally bravely,",
+        "the son of a prince.",
+        "Let us meet happy",
+        "when we pass hence;",
+        "life is not easier",
+        "than death.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-p4",
@@ -1090,11 +1493,17 @@
        "s": "Þá komu Hálfsrekkar til orustu, þeir sem við skip höfðu verið. Þar féll mikill hlutur Hálfsrekka. Orrustan hélst allt til nætur, áður Innsteinn féll. Innsteinn kvað:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Then those of the Hálfsrekkar who had been by the ships came to the battle. A great part of the Hálfsrekkar fell there. The battle lasted right up to nightfall before Innsteinn fell. Innsteinn said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s22",
@@ -1131,11 +1540,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Hrókr has fallen",
+        "with the war-leader,",
+        "the bold one, at the feet",
+        "of the people's commander.",
+        "We have to repay Óðinn",
+        "with ill,",
+        "since he robbed such a king",
+        "of victory."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s23",
@@ -1172,11 +1596,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "I have been abroad",
+        "eighteen summers,",
+        "followed the fearless one",
+        "to redden the spear.",
+        "I shall not have",
+        "another lord,",
+        "eager for battle,",
+        "nor grow old."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hrl-s24",
@@ -1213,16 +1652,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Here shall Innsteinn",
+        "sink to the earth,",
+        "wise, at the head",
+        "of the host's commander.",
+        "Men will",
+        "make it into tales",
+        "that King Hálfr",
+        "died laughing.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     }
    ],
    "notes": [],
-   "en_source": null,
-   "en_missing_note": "No public-domain English translation is in this edition yet."
+   "en_source": "AI draft",
+   "en_missing_note": null
   }
  ],
  "sources": {

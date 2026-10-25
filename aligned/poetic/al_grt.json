@@ -26,11 +26,17 @@
        "s": "Skjöldur hét sonur Óðins, er Skjöldungar er frá komnir. Hann hafði atsetu og réð löndum, þar sem nú er kölluð Danmörk, en þá var kallað Gotland. Skjöldur átti þann son, er Friðleifur hét, er löndum réð eftir hann. Sonur Friðleifs hét Fróði. Hann tók konungdóm eftir föður sinn í þann tíð, er Ágústus keisari lagði frið of heim allan. Þá var Kristur borinn. En fyrir því að Fróði var allra konunga ríkastur á Norðrlöndum, þá var honum kenndur friðurinn um alla danska tungu, og kalla Norðmenn það Fróðafrið. Enginn maður grandaði öðrum, þótt hann hitti fyrir sér föðurbana eða bróðurbana lausan eða bundinn. Þá var og enginn þjófur eða ránsmaður, svo að gullhringur einn lá á Jalangrsheiði lengi. Fróði konungur sótti heimboð í Svíþjóð til þess konungs, er Fjölnir er nefndur. Þá keypti hann ambáttir tvær, er hétu Fenja og Menja. Þær voru miklar og sterkar. Í þann tíma fannst í Danmörk kvernsteinar tveir svo miklir, að enginn var svo sterkur, að dregið gæti. En sú náttúra fylgdi kvernunum, að það mólst á kverninni, sem sá mælti fyrir, er mól. sú kvern hét Grótti. Hengikjöftur er sá nefndur, er Fróða konungi gaf kvernina. Fróði konungur lét leiða ambáttirnar til kvernarinnar og bað þær mala gull og frið og sælu Fróða. Þá gaf hann þeim eigi lengri hvíld eða svefn en gaukrinn þagði eða hljóð mátti kveða. Þá er sagt, að þær kvæði ljóð þau, er kallað er Gróttasöngur. Og áður létti kvæðinu, mólu þær her að Fróða, svo að á þeirri nótt kom þar sá sækonungur, er Mýsingur hét, og drap Fróða, tók þar herfang mikið. Þá lagðist Fróðafriður. Mýsingur hafði með sér Grótta og svo Fenju og Menju og bað þær mala salt. Hann bað þær mala lengur. Þær mólu litla hríð, áður niður sukku skipin, og var þar eftir svelgur í hafinu, er særinn fellur í kvernaraugað. Þá varð sær saltur."
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Skjöldr was the name of a son of Óðinn, from whom the Skjöldungar are descended. He had his seat and ruled the lands that are now called Danmörk, but were then called Gotland. Skjöldr had a son called Friðleifr, who ruled the lands after him. Friðleifr's son was called Fróði. He took the kingship after his father at the time when Augustus the emperor established peace over the whole world. At that time Christ was born. And because Fróði was the most powerful of all kings in the Northern lands, the peace was named after him throughout all the Danish-speaking lands, and the Norwegians call it Fróði's Peace. No man harmed another, even if he came upon his father's slayer or his brother's slayer, free or bound. There was then also no thief or robber, so that a gold ring lay for a long time on Jalangrsheiðr. King Fróði went on a visit to Svíþjóð [Sweden] to the king who is named Fjölnir. There he bought two slave-women, who were called Fenja and Menja. They were big and strong. At that time two millstones were found in Danmörk so large that no one was strong enough to turn them. And this property went with the mill, that whatever the one grinding asked for was ground out on the mill. That mill was called Grótti. The man who gave King Fróði the mill is named Hengikjöptr. King Fróði had the slave-women led to the mill and bade them grind gold and peace and happiness for Fróði. Then he gave them no longer rest or sleep than while the cuckoo was silent or a song could be spoken. It is said that they then spoke the poem that is called Gróttasöngr. And before the poem was ended, they ground an army against Fróði, so that in that night there came the sea-king who was called Mýsingr, and he killed Fróði and took great plunder there. Then Fróði's Peace came to an end. Mýsingr took Grótti with him, and Fenja and Menja too, and bade them grind salt. He bade them grind longer. They ground for a little while before the ships sank down, and there was afterwards a whirlpool in the sea, where the sea falls into the mill's eye. Then the sea became salt."
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s1",
@@ -67,13 +73,28 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Now are we come",
+        "To the king's house,",
+        "The two fore-knowing,",
+        "Fenja and Menja:",
+        "These are with Fródi",
+        "Son of Fridleifr,",
+        "The Mighty Maidens,",
+        "As maid-thralls held."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [
       "s-c52-5"
-     ]
+     ],
+     "en_from": "s-c52-5"
     },
     {
      "id": "grt-s2",
@@ -110,11 +131,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "To the mill-frame",
+        "they were led",
+        "and of the grey stone",
+        "demanded motion [?];",
+        "he granted neither of them",
+        "rest nor joy",
+        "before he heard",
+        "the sound of the slave-women."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s3",
@@ -147,11 +183,24 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "They chanted to the whirring",
+        "of the one whose silence was gone [mill] [?]:",
+        "\"Let us set the mill-frame,",
+        "lighten the stones.\"",
+        "Still he bade the maidens",
+        "that they should grind."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s4",
@@ -184,11 +233,24 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "They sang and slung",
+        "the swift-turning stone,",
+        "so that of Fróði's household",
+        "most fell asleep;",
+        "then Menja said this,",
+        "she had come to the grinding:"
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s5",
@@ -225,11 +287,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Wealth we grind for Fróði,",
+        "we grind him all-blessed,",
+        "we grind abundance of riches",
+        "on the mill of gladness;",
+        "may he sit on wealth,",
+        "may he sleep on down,",
+        "may he wake to his wishes,",
+        "then it is well ground."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s6",
@@ -266,11 +343,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Here shall no one",
+        "harm another,",
+        "plot harm",
+        "nor work death,",
+        "nor strike for it",
+        "with a sharp sword,",
+        "even if his brother's slayer",
+        "he should find bound.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s7",
@@ -303,11 +395,24 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "But he spoke no",
+        "word other than before [?]:",
+        "\"Sleep no more",
+        "than the cuckoos over the hall,",
+        "or longer than",
+        "while I speak one song.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s8",
@@ -344,11 +449,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"You were not, Fróði,",
+        "fully wise on your own behalf,",
+        "friend in speech of men,",
+        "when you bought slave-women;",
+        "you chose for strength",
+        "and for looks,",
+        "but about lineage",
+        "you asked nothing."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s9",
@@ -385,11 +505,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Hard was Hrungnir",
+        "and his father,",
+        "yet Þjazi was",
+        "mightier than they;",
+        "Iði and Aurnir,",
+        "our kinsmen,",
+        "brothers of mountain-giants,",
+        "from them we are born."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s10",
@@ -426,11 +561,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Grótti would not have come",
+        "out of the grey mountain,",
+        "nor that hard",
+        "rock out of the earth,",
+        "nor would she grind so,",
+        "the maiden of mountain-giants,",
+        "if we two knew",
+        "nothing of it [?]."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s11",
@@ -467,11 +617,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "We for nine winters",
+        "were playmates,",
+        "reared up mighty",
+        "beneath the earth;",
+        "the maidens stood",
+        "at mighty works,",
+        "we ourselves moved",
+        "a flat-topped mountain from its place."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s12",
@@ -508,11 +673,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "We rolled boulders",
+        "over the giants' enclosure,",
+        "so that the earth before it",
+        "went shaking;",
+        "so we slung",
+        "the swift-turning stone,",
+        "the heavy rock,",
+        "that men took it up."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s13",
@@ -549,11 +729,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "And we two afterwards",
+        "in Svíþjóð [Sweden],",
+        "two foreseeing women,",
+        "stepped into battle,",
+        "we challenged bears [?]",
+        "and broke shields,",
+        "we went right through",
+        "the grey-mailed host."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s14",
@@ -586,11 +781,24 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "We overthrew one ruler,",
+        "supported another,",
+        "we gave the good",
+        "Gotþormr help;",
+        "there was no sitting still",
+        "before Knúi fell."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s15",
@@ -627,11 +835,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "We kept on so",
+        "for those seasons,",
+        "that we among champions",
+        "were known;",
+        "there we cut [?]",
+        "with sharp spears",
+        "blood from wounds",
+        "and reddened the blade."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s16",
@@ -668,13 +891,28 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Now we have come",
+        "to the king's house",
+        "without mercy",
+        "and kept as slaves;",
+        "mud eats our soles",
+        "and cold from above,",
+        "we drag the settler of strife [mill] [?],",
+        "it is gloomy at Fróði's."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [
       "s-c52-5"
-     ]
+     ],
+     "en_draft": true
     },
     {
      "id": "grt-s17",
@@ -711,11 +949,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Hands shall rest,",
+        "the stone will stand still,",
+        "I have ground my share;",
+        "my turn is done [?];",
+        "now hands will not",
+        "be given good rest",
+        "until fully ground",
+        "it seems to Fróði."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s18",
@@ -752,11 +1005,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Hands shall handle",
+        "hard spear-shafts [?],",
+        "weapons bloody with slaughter;",
+        "wake, Fróði,",
+        "wake, Fróði,",
+        "if you will listen",
+        "to our songs",
+        "and to ancient tales."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s19",
@@ -793,11 +1061,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Fire I see burning",
+        "east of the stronghold,",
+        "war-tidings awake,",
+        "that will be called a beacon;",
+        "an army will come",
+        "hither in haste",
+        "and burn the dwelling",
+        "over the prince."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s20",
@@ -834,11 +1117,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "You will not hold",
+        "the high seat of Hleiðr,",
+        "red rings",
+        "nor the mighty stone [?];",
+        "let us grip the handle,",
+        "maiden, more sharply,",
+        "we are not warm",
+        "in the blood of the slain."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s21",
@@ -875,11 +1173,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "My father's maiden ground",
+        "mightily,",
+        "for she saw the doom",
+        "of very many men;",
+        "great props sprang",
+        "from the mill-frame,",
+        "iron-bound;",
+        "let us grind on further!"
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s22",
@@ -916,11 +1229,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Let us grind on further!",
+        "Yrsa's son,",
+        "Halfdan's kinsman,",
+        "will avenge Fróði;",
+        "he will be called",
+        "her own",
+        "son and brother;",
+        "we both know that.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s23",
@@ -957,11 +1285,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "The maidens ground,",
+        "they put forth their strength,",
+        "the young ones were",
+        "in giant-fury;",
+        "the shafts shook,",
+        "the mill-frame shot down,",
+        "the heavy",
+        "stone burst asunder in two."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "grt-s24",
@@ -994,16 +1337,29 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "And the mountain-giants'",
+        "bride spoke a word:",
+        "\"We have ground, Fróði,",
+        "so that we must stop;",
+        "the women have stood their full turn",
+        "at the grinding.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     }
    ],
    "notes": [],
-   "en_source": null,
-   "en_missing_note": "Bellows did not translate Gróttasöngr. Snorri gives the poem in Skáldskaparmál, where Brodeur translates it."
+   "en_source": "AI draft",
+   "en_missing_note": null
   }
  ],
  "sources": {

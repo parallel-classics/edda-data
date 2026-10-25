@@ -4,7 +4,7 @@ An open, community-corrected parallel edition of both Eddas: Snorri Sturluson's 
 *Poetic Edda*. The normalised Old Norse is the pivot; beside it stand the text in modern Icelandic spelling and
 an English translation, and further languages can be added as columns. All four parts of Snorri's Edda
 (Formáli/Prologue, Gylfaginning, Skáldskaparmál, Háttatal) are aligned paragraph by paragraph into 1,514
-rows; the 45 poems of Guðni Jónsson's *Eddukvæði* are aligned stanza by stanza into 1,966 rows, and 91 places
+rows; the 45 poems of Guðni Jónsson's *Eddukvæði* are aligned stanza by stanza into 1,952 rows, and 91 places
 where Snorri quotes a poem are linked both ways.
 
 This repository is the thing to cite: the sources as fetched, the aligned rows, the human corrections
@@ -36,10 +36,10 @@ Brodeur is the planned cleaner base for the English column (see `docs/ROADMAP.md
 | Gylfaginning | 54 | 345 | Guðni Jónsson 1954 | Netútgáfan 1997 | Brodeur 1916 |
 | Skáldskaparmál | 89 | 854 | Guðni Jónsson 1954 | automatic modernisation | Brodeur 1916 (his 74 chapters mapped onto 89) |
 | Háttatal | 3 sections, 102 stanzas | 303 | Guðni Jónsson 1954 | automatic modernisation | AI draft, unreviewed |
-| *Poetic Edda* | 45 poems in 3 groups (17 mythological, 20 heroic, 8 other) | 1,966 (stanzas and prose passages) | Guðni Jónsson 1949 | automatic modernisation | Bellows 1923 for 36 poems (1,585 rows); none yet for 9 |
+| *Poetic Edda* | 45 poems in 3 groups (17 mythological, 20 heroic, 8 other) | 1,952 (stanzas, prose passages, unnumbered verse) | Guðni Jónsson 1949 | automatic modernisation | Bellows 1923 for 36 poems; AI draft (marked) for the 9 others and the stanzas he left out |
 
-Total: 3,480 rows (Snorri 1,514, poems 1,966). Poem rows have ids `<poem>-s<stanza>` (`vsp-s19`) and
-`<poem>-p<k>` for prose passages; Snorri's quotations of the poems are listed in `aligned/poetic/links.json`.
+Total: 3,466 rows (Snorri 1,514, poems 1,952). Poem rows have ids `<poem>-s<stanza>` (`vsp-s19`) and
+`<poem>-p<k>` for prose passages and `<poem>-v<k>` for verse without a stanza number; Snorri's quotations of the poems are listed in `aligned/poetic/links.json`.
 Chapter and poem titles in each language are in `aligned/titles.json` (English titles are an unreviewed AI draft). A row is one Old Norse paragraph or stanza with its Icelandic and English counterparts.
 Row ids look like `g-c35-5` (Gylfaginning, chapter 35, row 5) and never change once published.
 

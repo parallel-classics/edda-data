@@ -16,8 +16,8 @@ Row id: `<prefix>-c<chapter>-<row>`, row 1-based within the chapter, e.g. `s-c11
 `<prefix>-ch<chapter>`. Ids are the stable reference for citing, reporting and editing.
 
 Poems of the Poetic Edda are a second book on the same model. A poem row is one stanza, id
-`<poem>-s<N>` with Guðni Jónsson's stanza number (`vsp-s19`, *Ask veit ek standa*), or one prose passage,
-`<poem>-p<k>` (the k-th in the poem). Poem prefixes are short, lowercase, unique and never single letters
+`<poem>-s<N>` with Guðni Jónsson's stanza number (`vsp-s19`, *Ask veit ek standa*), one prose passage,
+`<poem>-p<k>` (the k-th in the poem), or one verse passage without a stanza number, `<poem>-v<k>`. Poem prefixes are short, lowercase, unique and never single letters
 (those are Snorri's): `vsp hav vm grm skm hrbl hym ls thrk alv bdr rth hdl vsk grt grg fjm vkv hhv hh1 hh2
 grp rm fm sd br gdr1 sg hlr drn gdr2 gdr3 od akv am ghv hm hjk hvk hlk hrl heid ebr sol fsl`.
 

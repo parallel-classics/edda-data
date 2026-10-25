@@ -46,11 +46,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"What is wrong with you, Hjálmarr?",
+        "You have changed colour;",
+        "I say great wounds",
+        "are wearing you out;",
+        "your helmet is hewn,",
+        "and the mail-coat on your side;",
+        "now I say your life",
+        "has run out.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hjk-s2",
@@ -97,11 +112,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Hjálmarr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"I have sixteen wounds,",
+        "a torn mail-coat;",
+        "it is black before my eyes,",
+        "I cannot see to walk;",
+        "it struck me at the heart,",
+        "Angantýr's sword,",
+        "the sharp blood-point,",
+        "hardened in poison."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hjk-s3",
@@ -138,11 +173,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "I owned on the earth",
+        "five farmsteads together,",
+        "but I was never",
+        "content with that lot;",
+        "now I must lie",
+        "bereft of life,",
+        "wounded by a sword,",
+        "on Sámsey."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hjk-s4",
@@ -179,11 +229,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "In the hall the housecarls",
+        "are drinking mead,",
+        "adorned with neck-rings,",
+        "at my father's;",
+        "ale wearies",
+        "many men,",
+        "but the tracks of blades [wounds]",
+        "torment me on the island [?]."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hjk-s5",
@@ -220,11 +285,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "I turned away from the white",
+        "bed-Gunnr of the headband [woman] [?]",
+        "at the outer edge",
+        "of Agnafit;",
+        "the tale will prove true",
+        "that she told me,",
+        "that I would not",
+        "come back again."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hjk-s6",
@@ -261,11 +341,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "I turned away from the fair",
+        "song of women,",
+        "unhesitating, from pleasure [?],",
+        "east with Sóti;",
+        "I hastened the journey",
+        "and went into the troop",
+        "for the last time",
+        "away from loyal friends."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hjk-s7",
@@ -302,11 +397,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Draw off my hand",
+        "the red ring,",
+        "bring it to the young",
+        "Ingibjörg;",
+        "it will be for her",
+        "a lasting grief",
+        "that I do not come",
+        "to Uppsalir."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hjk-s8",
@@ -343,16 +453,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "A raven flies from the east",
+        "from a high tree,",
+        "after him flies",
+        "an eagle in his company;",
+        "to that eagle I give",
+        "my last flesh;",
+        "he will taste",
+        "my blood.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     }
    ],
    "notes": [],
-   "en_source": null,
-   "en_missing_note": "No public-domain English translation is in this edition yet."
+   "en_source": "AI draft",
+   "en_missing_note": null
   }
  ],
  "sources": {

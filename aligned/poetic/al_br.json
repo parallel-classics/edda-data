@@ -46,11 +46,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "The fire began to rage",
+        "and the earth to shake",
+        "and the high flame",
+        "to tower against the sky;",
+        "few there dared,",
+        "of the prince's warriors,",
+        "to ride through the fire",
+        "or to step over it."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "br-s2",

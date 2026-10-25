@@ -717,11 +717,27 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Völundr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Who are the princes",
+        "who have laid",
+        "bast-ropes on the man [?]",
+        "and bound me?\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "vkv-s13",
@@ -873,11 +889,22 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Hlaðguðr and Hervör",
+        "were born to Hlöðvér,",
+        "famous was Ölrún,",
+        "Kíárr's daughter.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "vkv-s16",

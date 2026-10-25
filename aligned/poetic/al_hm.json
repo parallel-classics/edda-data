@@ -1175,11 +1175,29 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Then Hróðrglöð said this,",
+        "she stood by the door-leaves [?],",
+        "the slender-fingered one [?] spoke",
+        "to this young man:",
+        "…",
+        "\"For this is promised",
+        "which will hardly come about [?]:",
+        "can two men alone",
+        "ten hundred Goths",
+        "bind or beat",
+        "in the high stronghold?\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hm-s23",
@@ -1426,11 +1444,27 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Sörli said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"You would have courage, Hamðir,",
+        "if you had good sense;",
+        "much is lacking in each man",
+        "who lacks good sense [?]!\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hm-s28",

@@ -35,7 +35,7 @@ PARTS = [  # row-id prefix, aligned file, "part" value inside the file, scenes.j
 LANG_CODES = ("on", "is", "en", "ru", "nb", "nn", "da", "sv", "de")   # possible column languages
 CELLS = ("on", "is", "en", "ru", "nb", "nn", "da", "sv", "de")
 STATUSES = ("auto", "draft", "reviewed", "disputed")
-ROW_ID = re.compile(r"^([pgsh]-c\d+-\d+|[a-z0-9]+-[sp]\d+)[a-z]?$")
+ROW_ID = re.compile(r"^([pgsh]-c\d+-\d+|[a-z0-9]+-[spv]\d+)[a-z]?$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 # images/records.json: these keys must be present; the others in images/README.md are optional
 IMAGE_KEYS = ("id", "part", "chapter", "title", "artist", "date", "source_url", "file_url", "width", "height",
@@ -105,7 +105,7 @@ def check_aligned():
             for c in d["chapters"]:
                 for r in c["rows"]:
                     rid = r.get("id", "")
-                    if not re.fullmatch(rf"{re.escape(pfx)}-[sp]\d+b?", rid):
+                    if not re.fullmatch(rf"{re.escape(pfx)}-[spv]\d+b?", rid):
                         err(f"{p['file']}: bad row id {rid!r}")
                     if rid in rows:
                         err(f"{p['file']}: duplicate row id {rid}")

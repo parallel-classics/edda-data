@@ -19,16 +19,17 @@ Skáldskaparmál  en           0      843        1        0        0       10   
 Háttatal        on         303        0        0        0        0        0      303
 Háttatal        is           0      303        0        0        0        0      303
 Háttatal        en           0        0      303        0        0        0      303
-Poetic Edda     on        1966        0        0        0        0        0     1966
-Poetic Edda     is           0     1966        0        0        0        0     1966
-Poetic Edda     en           0     1585        0        0        0      381     1966
+Poetic Edda     on        1952        0        0        0        0        0     1952
+Poetic Edda     is           0     1952        0        0        0        0     1952
+Poetic Edda     en           0     1587      359        0        0        6     1952
 ```
 
-Poetic Edda (added 2026-10-25): 45 poems, 1,966 rows (stanzas and prose passages); Icelandic automatic;
-English Bellows 1923 for 36 poems (1,585 rows; the `auto` count means "matched automatically", not machine
-text); the 381 empty English cells are the 9 poems Bellows did not translate (345 rows) and 36 rows elsewhere (unmatched stanzas, and stanzas whose English sits in the previous row).
-91 links from Snorri's rows to 83 stanzas in 11 poems. Titles: 196 (Snorri's chapters and the poems) in Old
-Norse, automatic Icelandic and AI-draft English.
+Poetic Edda (added 2026-10-25): 45 poems, 1,952 rows (stanzas, prose passages, unnumbered verse); Icelandic
+automatic; English for every row: Bellows 1923 for 36 poems (1,587 rows, matched automatically — the `auto`
+count), Brodeur where Snorri quotes a stanza Bellows does not cover (2 rows), and an unreviewed AI draft for the
+rest (359 rows: the nine poems Bellows did not translate and the stanzas he left out; records in
+`overlays/en/poetic-ai-draft.json`, 135 lines marked [?]). The 6 empty cells are stanzas whose English sits in the
+previous row. 91 links from Snorri's rows. Titles: 196 in Old Norse, automatic Icelandic and AI-draft English.
 
 3,480 rows (Snorri 1,514, Poetic Edda 1,966); 0 reviewed cells; 2 overlay files (304 AI draft records); 73 image records (40 depictions, 38 placed; 33 documentary: 2 manuscripts, 18 monuments, 13 places), 71 placed in all (`placed: false` on `s-c3` and `s-c46`, whose pictures turned out not to show the scene; `p-c5` Sigtún and `g-c54` Gangleri alone have no public-domain depiction at all). Generation briefs for those four slots and eight optional ones: `images/generation-briefs.md`. All 40 records carry `checked_by: claude (Commons API metadata check, 2026-10-24); human verification pending` — the licence basis was read from the Wikimedia Commons file pages, not yet confirmed by a person against the institution records.
 

@@ -935,11 +935,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Kostbera said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"I thought a bear had come in here,",
+        "broke up the timbers,",
+        "shook its paws so",
+        "that we were afraid;",
+        "it had many of us in its mouth,",
+        "so that we were helpless;",
+        "there was trampling too,",
+        "and not so little.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "am-s18",
@@ -1271,11 +1291,24 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Gunnarr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "…"
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "am-s24",
@@ -1499,11 +1532,24 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Gunnarr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "…"
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "am-s28",
@@ -2448,11 +2494,22 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Then the news came in",
+        "of what they were doing outside,",
+        "the men before the hall;",
+        "they heard the thrall tell it."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "am-s46",
@@ -2745,11 +2802,22 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Another she struck,",
+        "so that he did not rise up,",
+        "she sent him to Hel;",
+        "yet her hands did not shake."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "am-s52",
@@ -5196,11 +5264,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "You were a widow praised,",
+        "they called you high-minded,",
+        "the hope proved no lie",
+        "when we put it to the test;",
+        "you came home here,",
+        "a host of men followed us,",
+        "all was splendid",
+        "about our journeys."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "am-s94",

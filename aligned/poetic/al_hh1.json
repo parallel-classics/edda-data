@@ -26,11 +26,17 @@
        "s": "Hér hefur upp kvæði frá Helga Hundingsbana og þeirra Höðbrodds."
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Here begins a poem about Helgi Hundingsbani and Höðbroddr."
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hh1-s1",

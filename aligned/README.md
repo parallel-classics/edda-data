@@ -18,10 +18,11 @@ replaces these files wholesale, so anything typed into them is lost.
 
 Poem files hold one chapter (the poem) with `title`, `subtitle`, `group`, `notes` (Bellows'), `intro_en`
 (his introductory note), `en_source` or `en_missing_note`. Poem rows differ from Snorri rows: each carries its
-own `id` (`<poem>-s<N>`, Guðni Jónsson's stanza number, or `<poem>-p<k>` for the k-th prose passage);
+own `id` (`<poem>-s<N>`, Guðni Jónsson's stanza number, `<poem>-p<k>` for the k-th prose passage, or `<poem>-v<k>` for unnumbered verse);
 `stanza`; `en_stanzas` (Bellows' stanza numbers in the English cell: none, one or two); `quoted_in` (Snorri
 rows that quote it); optional `head` (a heading shown above the row: Völuspá's editorial sections, Guðni
-Jónsson's subtitles, Hávamál's section numerals); `s_en` only on weak automatic matches. A speaker line
+Jónsson's subtitles, Hávamál's section numerals); `s_en` only on weak automatic matches; `en_draft: true` where the English is an AI draft; `en_from: <Snorri row>`
+where it is Brodeur's translation of the stanza as Snorri quotes it. A speaker line
 ("Loki kvað:") is a prose block with `"sp": true` inside the stanza's cell. Produced by
 `edda-site/pipeline/make_poems.py`; titles by `make_titles.py`.
 

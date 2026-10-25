@@ -331,11 +331,17 @@
        "s": "Þetta var, áður Atli færi, en er hann kom heim og konungur spurði hann tíðinda, hann kvað:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "This was before Atli set out; and when he came home and the king asked him for news, he said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hhv-s5",

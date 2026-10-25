@@ -1615,11 +1615,17 @@
        "s": "Guðmundur reið heim með hersögu. Þá sömnuðu Granmarssynir her. Komu þar margir konungar. Þar var Högni, faðir Sigrúnar, og synir hans, Bragi og Dagur. Þar var orrusta mikil, og fellu allir Granmarssynir og allir þeirra höfðingjar nema Dagur Högnason fékk grið og vann eiða Völsungum. Sigrún gekk í valinn og hitti Höðbrodd að kominn dauða. Hún kvað:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Guðmundr rode home with tidings of war. Then the sons of Granmarr gathered an army. Many kings came there. Högni, Sigrún's father, was there, and his sons, Bragi and Dagr. There was a great battle, and all the sons of Granmarr fell and all their chieftains, except that Dagr Högnason received quarter and swore oaths to the Völsungar. Sigrún went among the slain and found Höðbroddr close to death. She said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hh2-s25",
@@ -2035,11 +2041,17 @@
        "s": "Sigrún kvað"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Sigrún said"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hh2-s31",

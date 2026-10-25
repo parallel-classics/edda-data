@@ -8566,12 +8566,27 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Now the sayings of the High One are",
+        "spoken in the High One's hall,",
+        "most useful to the sons of men,",
+        "useless to the sons of giants;",
+        "hail to him who spoke,",
+        "hail to him who knows,",
+        "may he profit who learned,",
+        "hail to those who listened."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "head": "VII."
+     "head": "VII.",
+     "en_draft": true
     }
    ],
    "notes": [

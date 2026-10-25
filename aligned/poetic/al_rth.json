@@ -1474,11 +1474,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "The husband sat",
+        "and twisted a bowstring,",
+        "bent the elm [bow],",
+        "fitted shafts to arrows;",
+        "and the housewife",
+        "looked to her arms,",
+        "smoothed the linen,",
+        "stiffened the sleeves."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "rth-s29",
@@ -2623,11 +2638,22 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Her brow was brighter,",
+        "her breast lighter,",
+        "her neck whiter",
+        "than pure new snow."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "rth-s50",
@@ -2652,11 +2678,20 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "The couple kept house,",
+        "shared out rings."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     }
    ],
    "notes": [

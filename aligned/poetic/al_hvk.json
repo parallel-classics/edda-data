@@ -68,11 +68,36 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "The young maiden met",
+        "in Munarvágr,",
+        "at the setting of the sun,",
+        "a man with his herd."
+       ]
+      },
+      {
+       "t": "p",
+       "s": "The herdsman said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Who is it that has come",
+        "alone to the island?",
+        "Go quickly",
+        "to find shelter!\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s2",
@@ -119,11 +144,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Hervör said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"I will not go",
+        "to find shelter,",
+        "for I know none",
+        "of the islanders;",
+        "tell me quickly,",
+        "before you go hence:",
+        "where are the mounds",
+        "known as Hjörvarðr's?\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s3",
@@ -170,11 +215,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "The herdsman said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Do not ask about that;",
+        "you are not wise,",
+        "friend of vikings,",
+        "you are in a bad way;",
+        "let us go swiftly",
+        "as our feet will carry us,",
+        "everything outside",
+        "is dreadful for men!\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s4",
@@ -221,11 +286,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Hervör said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"We offer you a necklace",
+        "as payment for your speech;",
+        "it will not be easy",
+        "to hold back the friend of warriors:",
+        "no one will give me",
+        "such fine treasures,",
+        "fair rings,",
+        "that I would not go.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s5",
@@ -272,11 +357,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "The herdsman said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"A fool he seems to me",
+        "who comes here,",
+        "a man alone,",
+        "in the dark night-times;",
+        "fire is hovering about,",
+        "mounds are opening,",
+        "earth and fen are burning;",
+        "let us go faster.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s6",
@@ -323,11 +428,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Hervör said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Let us not take fright",
+        "at such snorting,",
+        "even if over the whole island",
+        "fires are burning;",
+        "let us not let",
+        "dead warriors",
+        "quickly scare us;",
+        "we two shall talk.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s7",
@@ -364,11 +489,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Then the herdsman was",
+        "swift to the forest,",
+        "far from the speech",
+        "of this maiden;",
+        "but the hard-tempered",
+        "mind in her breast",
+        "at such things",
+        "swells in Hervör."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-p1",
@@ -385,11 +525,17 @@
        "s": "Hún sá nú haugeldana .... og gengur til hauganna og hræðist ekki, og óð hún eldana sem reyg, þar til er hún kom að haugi berserkjanna. Þá kvað hún:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "She now saw the mound-fires …. and goes to the mounds and is not afraid, and she waded through the fires as through smoke, until she came to the mound of the berserks. Then she said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s8",
@@ -426,11 +572,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Wake, Angantýr,",
+        "Hervör wakes you,",
+        "the only daughter",
+        "of you and Sváfa;",
+        "give me from the mound",
+        "the sharp sword",
+        "which for Svafrlami",
+        "the dwarfs forged."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s9",
@@ -467,11 +628,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Hervarðr, Hjörvarðr,",
+        "Hrani, Angantýr!",
+        "I wake you all",
+        "under the roots of the trees,",
+        "with helmet and with mail-coat,",
+        "with sharp sword,",
+        "with shield and with harness,",
+        "with reddened spear."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s10",
@@ -508,11 +684,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Far gone you have become,",
+        "sons of Arngrímr,",
+        "harmful kinsmen,",
+        "into an increase of the soil [?],",
+        "when not one",
+        "of Eyfura's sons",
+        "will speak with me",
+        "in Munarvágr."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s11",
@@ -553,11 +744,28 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Hervarðr, Hjörvarðr,",
+        "Hrani, Angantýr!",
+        "So may it be for you all",
+        "within your ribs",
+        "as if in an ants'",
+        "heap you were rotting [?],",
+        "unless you hand over the sword",
+        "which Dvalinn forged;",
+        "it does not befit ghosts",
+        "to hide a precious weapon.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s12",
@@ -604,11 +812,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Then Angantýr answers:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Hervör, daughter,",
+        "why do you call so?",
+        "Full of evil spells",
+        "you go to your own harm!",
+        "Mad you have become",
+        "and out of your wits,",
+        "with bewildered mind,",
+        "you wake dead men."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s13",
@@ -641,11 +869,24 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "No father buried me",
+        "nor other kinsmen;",
+        "they had Tyrfingr,",
+        "the two who lived on;",
+        "yet one became",
+        "its owner at last.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s14",
@@ -692,11 +933,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Hervör said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Tell me nothing but the truth,",
+        "so may the god let you",
+        "rest whole in the mound,",
+        "as you do not have",
+        "Tyrfingr with you;",
+        "you are loath to give",
+        "the inheritance, Angantýr,",
+        "to your only child.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s15",
@@ -743,11 +1004,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Angantýr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"The gate of Hel has sunk down,",
+        "the mounds are opening,",
+        "all in fire",
+        "the island's edge is to look upon;",
+        "it is terrible outside",
+        "to look about;",
+        "hurry, maiden, if you can,",
+        "to your ships.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s16",
@@ -794,11 +1075,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Hervör said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Burn no such",
+        "pyres by night",
+        "that at your fires",
+        "I should be afraid;",
+        "the maiden's heart,",
+        "the home-field of her mind, does not tremble,",
+        "even if she sees a ghost",
+        "standing in the doorway.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s17",
@@ -845,11 +1146,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Angantýr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"I tell you, Hervör,",
+        "— listen further,",
+        "wise daughter —",
+        "what will come to pass:",
+        "this Tyrfingr will,",
+        "if you could believe it,",
+        "your kin, maiden,",
+        "entirely destroy."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s18",
@@ -886,11 +1207,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "You will bear a son",
+        "who afterwards will",
+        "carry Tyrfingr",
+        "and trust in his might;",
+        "people will call him",
+        "Heiðrekr;",
+        "he will be born the mightiest",
+        "under the sun's tent [sky].\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s19",
@@ -941,11 +1277,33 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Hervör said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"I so lay a spell [?]",
+        "on the dead men",
+        "that you shall",
+        "all lie",
+        "dead among ghosts,",
+        "rotted in the cairn;",
+        "give me, Angantýr,",
+        "out of the mound",
+        "the work of dwarfs;",
+        "it is no use for you to hide it.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s20",
@@ -992,11 +1350,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Angantýr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"I do not call you, young maiden,",
+        "like other people,",
+        "when around the mounds",
+        "you roam by night",
+        "with an engraved spear",
+        "and with the metal of the Goths [?],",
+        "with helmet and with mail-coat,",
+        "before the doors of the hall.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s21",
@@ -1043,11 +1421,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Hervör said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"I thought myself",
+        "a human being until now,",
+        "before I set out",
+        "to seek your halls;",
+        "give me from the mound",
+        "the one that hates mail-coats,",
+        "the danger to shields,",
+        "Hjálmarr's bane.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s22",
@@ -1094,11 +1492,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Angantýr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Under my shoulders lies",
+        "Hjálmarr's bane,",
+        "it is all on the outside",
+        "wrapped in fire;",
+        "I know no maiden",
+        "anywhere on earth",
+        "who would dare that sword",
+        "to take into her hands.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s23",
@@ -1145,11 +1563,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Hervör said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"I will keep",
+        "and take into my hands",
+        "the sharp sword,",
+        "if I may have it;",
+        "I do not fear",
+        "the burning fire;",
+        "at once the flame dies down",
+        "when I look over it.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s24",
@@ -1196,11 +1634,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Angantýr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Of a foolish mind, Hervör,",
+        "you are the owner,",
+        "when with open eyes",
+        "you rush into the fire;",
+        "rather will I give you",
+        "the sword from the mound,",
+        "young maiden;",
+        "I cannot refuse you.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s25",
@@ -1247,11 +1705,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Hervör said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"You did well,",
+        "kinsman of vikings,",
+        "when you gave me",
+        "the sword from the mound;",
+        "better it seems to me now,",
+        "prince, to have it",
+        "than if I had won",
+        "all of Nóregr [Norway].\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s26",
@@ -1298,11 +1776,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Angantýr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"You do not know",
+        "— wretched you are in your words,",
+        "deceitful woman —",
+        "why you should rejoice;",
+        "this Tyrfingr will,",
+        "if you could believe it,",
+        "your kin, maiden,",
+        "entirely destroy.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s27",
@@ -1349,11 +1847,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Hervör said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"I will go",
+        "to the steeds of the surge [ships];",
+        "now the prince's daughter",
+        "is in good spirits;",
+        "little do I care,",
+        "kinsman of princes,",
+        "how my sons",
+        "quarrel afterwards.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s28",
@@ -1400,11 +1918,31 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Angantýr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"You shall own it",
+        "and enjoy it long;",
+        "keep Hjálmarr's bane",
+        "hidden;",
+        "do not touch the edges,",
+        "there is poison in both;",
+        "that destroyer of men",
+        "is worse than sickness."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s29",
@@ -1441,11 +1979,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Farewell, daughter;",
+        "quickly would I give you",
+        "the life of twelve men,",
+        "if you could believe it,",
+        "strength and endurance,",
+        "all the good",
+        "that the sons of Arngrímr",
+        "left behind them.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hvk-s30",
@@ -1492,16 +2045,36 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Hervör said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Dwell, all of you,",
+        "— I long to be gone —",
+        "whole in the mound;",
+        "I want to go hence quickly;",
+        "most of all I thought myself now",
+        "between the worlds,",
+        "when all around me",
+        "fires were burning.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     }
    ],
    "notes": [],
-   "en_source": null,
-   "en_missing_note": "No public-domain English translation is in this edition yet."
+   "en_source": "AI draft",
+   "en_missing_note": null
   }
  ],
  "sources": {

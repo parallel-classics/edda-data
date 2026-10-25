@@ -161,11 +161,29 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "She said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Long I slept,",
+        "long was I asleep,",
+        "long are the woes of men;",
+        "Óðinn brings it about",
+        "that I could not",
+        "cast off the sleep-staves [sleep-spells].\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "sd-p2",
@@ -331,7 +349,7 @@
      "quoted_in": []
     },
     {
-     "id": "sd-p4",
+     "id": "sd-v1",
      "stanza": null,
      "on": [
       {
@@ -373,7 +391,7 @@
      "quoted_in": []
     },
     {
-     "id": "sd-p5",
+     "id": "sd-p4",
      "stanza": null,
      "on": [
       {

@@ -46,11 +46,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Of old, they said, Humli",
+        "ruled the Huns,",
+        "Gizurr the Gautar,",
+        "Angantýr the Goths,",
+        "Valdarr the Danes,",
+        "and Kíarr the Valir [Romans/Gauls],",
+        "Alrekr the bold",
+        "the English people."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s2",
@@ -87,11 +102,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Hlöðr was born there",
+        "in Húnaland",
+        "with a knife and with a sword,",
+        "a long mail-coat,",
+        "a ring-adorned helmet,",
+        "a keen blade,",
+        "a well-tamed horse",
+        "in the holy forest."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s3",
@@ -128,11 +158,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Hlöðr rode from the east,",
+        "Heiðrekr's heir;",
+        "he came to the court",
+        "where the Goths dwell,",
+        "to Árheimar,",
+        "to claim his inheritance;",
+        "there Angantýr was drinking",
+        "Heiðrekr's funeral ale."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s4",
@@ -169,11 +214,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "He found a man outside",
+        "before the high hall,",
+        "and the late-faring one [?]",
+        "then he addressed:",
+        "\"Go in, man,",
+        "into the high hall,",
+        "bid Angantýr",
+        "bring me answering words.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-p1",
@@ -190,11 +250,17 @@
        "s": "Sá gekk hinn fyrir konungs borð og kvaddi Angantý konung vel og mælti síðan:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "He went in before the king's table and greeted King Angantýr well, and then said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s5",
@@ -231,11 +297,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Here Hlöðr has come,",
+        "Heiðrekr's heir,",
+        "your brother,",
+        "the battle-bold;",
+        "great is that young man",
+        "on the horse's back,",
+        "he wishes now, lord,",
+        "to speak with you.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s6",
@@ -268,11 +349,24 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "There was a din in the hall,",
+        "they rose with the good one [?];",
+        "each wanted to hear",
+        "what Hlöðr said",
+        "and what Angantýr",
+        "gave in answer."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s7",
@@ -323,11 +417,33 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Then Angantýr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Welcome, Hlöðr,",
+        "Heiðrekr's heir,",
+        "my brother,",
+        "go sit on the bench;",
+        "let us drink Heiðrekr's",
+        "gracious drinks,",
+        "to our father,",
+        "first of men,",
+        "wine or mead,",
+        "whichever seems better to you.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s8",
@@ -370,11 +486,29 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Then Hlöðr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"For something other",
+        "than drinking ale",
+        "have we come here",
+        "[from the land of the Huns];",
+        "I do not accept, lord,",
+        "your drinks."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s9",
@@ -411,11 +545,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "I want to have half of all",
+        "that Heiðrekr owned,",
+        "of awl and of point,",
+        "of every single coin [?],",
+        "of cow and of calf,",
+        "of the whirring hand-mill,",
+        "of bondwoman and of thrall",
+        "and of their child;"
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s10",
@@ -456,11 +605,28 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "that glorious forest",
+        "which they call Myrkviðr,",
+        "that holy grave",
+        "which stands in Goðþjóð,",
+        "that fair stone",
+        "which stands at Danparstaðir,",
+        "half the war-fortresses",
+        "which Heiðrekr owned,",
+        "lands and peoples",
+        "and bright rings.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s11",
@@ -541,11 +707,47 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Angantýr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Sooner, brother, will crack",
+        "the gleaming-white linden [shield],",
+        "and cold spear",
+        "come against another,",
+        "and many a man",
+        "sink into the grass,",
+        "before I divide Tyrfingr",
+        "in two",
+        "or let you, Humlungr [Humli's kinsman],",
+        "have half the inheritance."
+       ]
+      },
+      {
+       "t": "v",
+       "l": [
+        "12",
+        "I will offer you",
+        "bright spears,",
+        "wealth and a multitude of treasures,",
+        "as most pleases you;",
+        "twelve hundred men I give you,",
+        "twelve hundred horses I give you,",
+        "twelve hundred servants I give you,",
+        "of those who bear shields."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s13",
@@ -582,11 +784,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "To each man I give",
+        "much to receive,",
+        "something finer",
+        "than what he has to rule;",
+        "a maiden I give to each",
+        "man to receive,",
+        "a necklace I will clasp on each",
+        "maiden's neck."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s14",
@@ -623,11 +840,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "I will measure you, sitting,",
+        "in silver,",
+        "and you, walking,",
+        "I will pour over with gold,",
+        "so that on all roads",
+        "rings will roll;",
+        "a third of Goðþjóð —",
+        "that you shall rule.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-p2",
@@ -644,11 +876,17 @@
        "s": "Gizur Grýtingaliði, fóstri Heiðreks konungs, var þá með Angantý konungi. Hann var þá ofrgamall. Og er hann heyrði boð Angantýs, þótti honum hann of mikið bjóða og kvað þá:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Gizurr Grýtingaliði, foster-father of King Heiðrekr, was then with King Angantýr. He was then extremely old. And when he heard Angantýr's offer, he thought he was offering too much, and then said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s15",
@@ -685,11 +923,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"This is worth accepting",
+        "for a bondwoman's child,",
+        "a child of a bondwoman,",
+        "though born to a king;",
+        "when the bastard",
+        "sat on the mound,",
+        "when the prince",
+        "divided the inheritance.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-p3",
@@ -706,11 +959,17 @@
        "s": "Hlöður reiddist nú mjög, er hann var þýbarn og hornungur kallaður, ef hann þægi boð bróður síns, og sneri hann þá þegar í burt með alla sína menn, til þess er hann kom heim í Húnaland til Humla konungs, frænda síns, og sagði honum, að Angantýr, bróðir hans, hefði synjað honum helmingaskiptis. Humli spyr nú allt tal þeirra. Varð hann þá reiður mjög, ef Hlöður, dóttursonur hans, skyldi ambáttarsonur heita, og kvað þá:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Hlöðr now grew very angry at being called a bondwoman's child and a bastard if he accepted his brother's offer, and at once he turned away with all his men, until he came home to Húnaland to King Humli, his kinsman, and told him that Angantýr, his brother, had refused him an equal share. Humli now asks about all their talk. He then became very angry that Hlöðr, his daughter's son, should be called a slave-woman's son, and then said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s16",
@@ -747,11 +1006,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"We shall sit this winter",
+        "and live happily,",
+        "drink and converse",
+        "over costly drinks,",
+        "teach the Huns",
+        "to make ready war-weapons,",
+        "which we shall boldly",
+        "bear forward."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s17",
@@ -788,11 +1062,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Well shall we, Hlöðr, for you",
+        "prepare a war-host",
+        "and boldly",
+        "make ready the troops;",
+        "with the throng of twelve-winter-olds",
+        "and two-winter-old foals,",
+        "so shall the host",
+        "of the Huns be gathered.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-p4",
@@ -809,11 +1098,17 @@
        "s": "Þennan vetur sátu þeir Humli og Hlöður um kyrrt. Um várið drógu þeir her saman svo mikinn, að aleyða var eftir vígra manna í Húnalandi.... Sem þessi her kom saman, riðu þeir skóg þann, er Myrkviður heitir, er skilur Húnaland og Gotaland. En sem þeir komu af skóginum, þá voru byggðir stórar og vellir sléttir, og á völlunum stóð borg ein fögur, en þar réð fyrir Hervör, systir Angantýs konungs, og Ormar, fóstri hennar. Voru þau sett þar til landgæzlu fyrir her Húna, og höfðu þau þar mikið lið. Það var einn morgun í sólar upprás, að Hervör stóð upp á kastala einum yfir borgarhliði. Hún sá jóreyki stóra suður til skógarins, svo að löngum fal sólina. Því næst sá hún glóa undir jóreyknum, sem á gull eitt liti, fagra skjöldu og gulli lagða, gyllta hjalma og hvítar brynjur. Sá hún þá, að þetta var her Húna og mikill fjöldi. Hervör gekk ofan skyndilega og kallar lúðrsvein og bað blása saman lið. Og síðan mælti Hervör: \"Takið vopn yður og búizg til orustu, en þú, Ormar, ríð í mót Húnum og bjóð þeim orustu fyrir borgarhliði hinu syðra.\" Ormar kvað:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "That winter Humli and Hlöðr sat quiet. In the spring they gathered so great an army that Húnaland was left empty of fighting men.... When this army had come together, they rode through the forest called Myrkviðr, which divides Húnaland and Gotaland. And when they came out of the forest, there were large settlements and level plains, and on the plains stood a fair fortress, and Hervör, sister of King Angantýr, ruled there, with Ormarr, her foster-father. They had been set there to guard the land against the army of the Huns, and they had a great force there. One morning at sunrise Hervör stood up on a tower above the fortress gate. She saw great clouds of dust from horses south towards the forest, so that they hid the sun for a long time. Next she saw a gleam beneath the dust-cloud, as if one looked on gold: fair shields overlaid with gold, gilded helmets and white mail-coats. She then saw that this was the army of the Huns, and a great multitude. Hervör went down quickly and calls a trumpeter and bade him sound the assembly of the troops. And then Hervör said: \"Take your weapons and make ready for battle, and you, Ormarr, ride against the Huns and offer them battle before the southern gate of the fortress.\" Ormarr said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s18",
@@ -844,11 +1139,23 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"I shall certainly ride",
+        "and bear the shield,",
+        "…",
+        "for the peoples of the Goths",
+        "to wage battle.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-p5",
@@ -865,11 +1172,17 @@
        "s": "Þá reið Ormar af borginni og í mót hernum. Hann kallaði hátt og bað þá ríða til borgarinnar, -- \"og úti fyrir borgarhliðinu suður á völlinn -- þar býð eg yður til orustu. Bíði þeir þar annarra, er fyrr koma.\" Nú reið Ormar aftur til borgarinnar, og var Hervör þá albúin og allur her. Riðu þau nú út af borginni með hernum móti Húnum, og hófst þar allmikil orrosta. En með því að Húnar hafa lið miklu meira, sneri mannfallinu í lið þeirra Hervarar, og um síðir féll Hervör og mikið lið umhverfis hana. En er Ormar sá fall hennar, flýði hann og allir þeir, er lífið þágu. Ormar reið dag og nótt, sem mest mátti hann, á fund Angantýs konungs í Árheima. .... Og sem Ormar kom fyrir Angantý konung, þá kvað hann:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Then Ormarr rode out of the fortress and towards the army. He called loudly and bade them ride to the fortress, \"and outside before the fortress gate, south on the plain, there I offer you battle. Let those who come first wait there for the others.\" Now Ormarr rode back to the fortress, and Hervör was then fully ready, and the whole army. They now rode out of the fortress with the army against the Huns, and a very great battle began there. But since the Huns had a much larger force, the losses turned against Hervör's side, and at last Hervör fell and a great host around her. And when Ormarr saw her fall, he fled, and all those who saved their lives. Ormarr rode day and night, as fast as he could, to meet King Angantýr in Árheimar. .... And when Ormarr came before King Angantýr, he said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s19",
@@ -902,11 +1215,24 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"From the south I have come",
+        "to tell these tidings:",
+        "scorched is all the glorious",
+        "heath of Myrkviðr,",
+        "all Goðþjóð drenched",
+        "in the blood of men."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s20",
@@ -943,11 +1269,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "I know Heiðrekr's maiden,",
+        "[before the sword's edges,]",
+        "your sister,",
+        "bowed to the earth;",
+        "the Huns have",
+        "felled her",
+        "and many others",
+        "of your thanes."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s21",
@@ -976,11 +1317,22 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "She was quicker to battle",
+        "than to talk with a suitor",
+        "or to go to the bench",
+        "in the bridal procession.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-p6",
@@ -997,11 +1349,17 @@
        "s": "Angantýr konungur, þá er hann heyrði þetta, brá hann grönum og varð seint til orða og mælti þetta um síðir:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "When King Angantýr heard this, he drew back his lips, and was slow to speak, and at last said this:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s22",
@@ -1026,11 +1384,20 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Unbrotherly were you treated,",
+        "excellent sister!\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-p7",
@@ -1047,14 +1414,20 @@
        "s": "Og síðan leit hann yfir hirðina, og var ekki margt liðs með honum. Hann kvað þá:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "And then he looked over his retinue, and there were not many men with him. He then said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
-     "id": "hlk-p8",
+     "id": "hlk-v1",
      "stanza": null,
      "on": [
       {
@@ -1080,11 +1453,22 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Very many were we",
+        "when we drank mead;",
+        "now we are fewer",
+        "when we should be more."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s23",
@@ -1121,11 +1505,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "I see no man",
+        "in my host,",
+        "though I ask",
+        "and buy with rings,",
+        "who will ride",
+        "and bear the shield",
+        "and of those Huns",
+        "seek out the war-host.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s24",
@@ -1172,14 +1571,34 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Old Gizurr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"I will ask of you",
+        "not a single ounce,",
+        "nor a clinking",
+        "scrap of gold [?];",
+        "yet I will ride",
+        "and bear the shield,",
+        "to the peoples of the Huns",
+        "offer the war-staff [challenge to battle].\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
-     "id": "hlk-p9",
+     "id": "hlk-p8",
      "stanza": null,
      "on": [
       {
@@ -1193,11 +1612,22 @@
        "s": ".... Gizur herklæddist með góðum hervápnum og hljóp á hest sinn, sem ungur væri. Þá mælti hann til konungs:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Very many were we",
+        "when we drank mead;",
+        "now we are fewer",
+        "when we should be more."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s25",
@@ -1222,11 +1652,20 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Where shall I teach the Huns",
+        "war-battle?\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s26",
@@ -1273,14 +1712,34 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Angantýr said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Teach it at Dylgja",
+        "and on Dúnheiðr",
+        "and on those ancient",
+        "Jassarfjöll;",
+        "there the Goths often",
+        "waged battle",
+        "and fair victory",
+        "the famed ones won.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
-     "id": "hlk-p10",
+     "id": "hlk-p9",
      "stanza": null,
      "on": [
       {
@@ -1294,11 +1753,17 @@
        "s": "Nú reið Gizur í brott og þar til, er hann kom í her Húna. Hann reið eigi nær en svo, að hann mátti tala við þá. Þá kallar hann hári röddu og kvað:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": ".... Gizurr dressed for war with good weapons and leapt onto his horse as if he were young. Then he said to the king:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s27",
@@ -1327,11 +1792,22 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"Terror is in your host,",
+        "doomed is your leader,",
+        "the war-banner looms over you,",
+        "Óðinn is angry with you."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s28",
@@ -1368,11 +1844,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "I offer you at Dylgja",
+        "and on Dúnheiðr",
+        "battle beneath",
+        "Jassarfjöll;",
+        "may your corpses lie [?]",
+        "on every height,",
+        "and may Óðinn let the spear fly",
+        "as I foretell.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s29",
@@ -1441,14 +1932,44 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "When Hlöðr had heard Gizurr's words, he said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"Seize Gizurr",
+        "Grýtingaliði,",
+        "Angantýr's man,",
+        "come from Árheimar.\""
+       ]
+      },
+      {
+       "t": "p",
+       "s": "King Humli said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "l": [
+        "\"We shall not",
+        "harm messengers",
+        "who travel",
+        "alone.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
-     "id": "hlk-p11",
+     "id": "hlk-p10",
      "stanza": null,
      "on": [
       {
@@ -1462,11 +1983,17 @@
        "s": "Gizur drap þá hest sinn með sporum og reið á fund Angantýs konungs. .... Angantýr spyr, hvað mikið lið Húnar hafa. Gizur mælti: \"Mikið er þeirra mengi:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Now Gizurr rode away until he came to the army of the Huns. He rode no nearer than that he could speak with them. Then he calls in a loud voice and said:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s30",
@@ -1503,14 +2030,29 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "Six in all are",
+        "the troops of men,",
+        "in each troop",
+        "five thousands,",
+        "in each thousand",
+        "thirteen hundreds,",
+        "in each hundred",
+        "men counted fourfold [?].\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
-     "id": "hlk-p12",
+     "id": "hlk-p11",
      "stanza": null,
      "on": [
       {
@@ -1524,11 +2066,17 @@
        "s": "Angantýr spyr nú til Húna hers. Þá sendi hann alla vega menn frá sér og stefndi hverjum manni til sín, er honum vildi lið veita og vopnum mætti valda. Fór hann þá á Dúnheiði með lið sitt, og var það allmikill her. Kom þá á móti honum her Húna, og höfðu þeir lið hálfu fleira. Að öðrum degi hófu þeir sína orustu og börðust allan þann dag og fóru að kveldi í herbúðir sínar. Þeir börðust svo átta daga, að höfðingjar voru enn heilir, en enginn vissi manntal, hvað margt féll. En bæði dag og nótt dreif lið til Angantýs af öllum vegum, og þá kom svo, að hann hafði eigi færa fólk en í fyrstu. Varð nú orrostan enn ákafari. Voru Húnar allákafir og sá þá sinn kost, að sú ein var lífs von, ef þeir sigruðust, og illt myndi Gota griða að biðja. Gotar vörðu frelsi sitt og fóstrjörð fyrir Húnum, stóðu því fast, og eggjaði hver annan. Þá er á leið daginn, gerðu Gotar aðgöngu svo harða, að fylkingar Húna svignuðu fyrir. Og er Angantyýr sá það, gekk hann fram úr skjaldborginni og í öndverða fylking og hafði í hendi Tyrfing og hjó þá bæði menn og hesta. Raufst þá skjaldborg fyrir Húna konungum, og skiptust þeir bræður höggum við. Þar féll Hlöður og Humli konungur, og þá brast flótti á Húnum, en Gotar drápu þá. .... Angantýr konungur gekk þá að kanna valinn og fann Hlöð, bróður sinn. Þá kvað hann:"
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "p",
+       "s": "Gizurr then struck his horse with the spurs and rode to meet King Angantýr. .... Angantýr asks how large a force the Huns have. Gizurr said: \"Great is their multitude:"
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s31",
@@ -1565,11 +2113,26 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "\"I offered you, brother,",
+        "undiminished riches [?],",
+        "wealth and a multitude of treasures,",
+        "as most pleased you;",
+        "now you have neither,",
+        "as reward for battle,",
+        "bright rings",
+        "nor any land."
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     },
     {
      "id": "hlk-s32",
@@ -1598,16 +2161,27 @@
        ]
       }
      ],
-     "en": [],
+     "en": [
+      {
+       "t": "v",
+       "l": [
+        "A curse is on us, brother,",
+        "I have become your slayer;",
+        "that will always be remembered;",
+        "evil is the judgement of the norns.\""
+       ]
+      }
+     ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en_draft": true
     }
    ],
    "notes": [],
-   "en_source": null,
-   "en_missing_note": "No public-domain English translation is in this edition yet."
+   "en_source": "AI draft",
+   "en_missing_note": null
   }
  ],
  "sources": {
