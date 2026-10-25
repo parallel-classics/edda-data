@@ -4,7 +4,7 @@ Two tracks with different rules.
 
 **Licence policy (decided 2026-10-25).** Track 1 accepts public-domain works and anything released under CC0, CC BY or CC BY-SA. Nothing NC or ND, and nothing whose licence is only asserted by an uploader without a source. The licence is recorded per image (`license`, `license_basis`) and shown in the page's credit line; a BY-SA photograph keeps its own licence beside the CC BY 4.0 text. Each record carries a `kind`: `depiction` (a picture of the scene), `manuscript` (a page of Codex Regius, Wormianus, the Uppsala Edda, NKS 1867 4to…), `monument` (runestones, picture stones, carvings, church portals), `place` (Reykholt, Þingvellir, landscape). The page shows one depiction per chapter first and up to three documentary images in a strip below it.
 
-**Density rule.** At most one illustration slot per chapter, at most three documentary images per chapter, and about one image per twenty rows overall (roughly one per three printed pages; about 75 for 1,514 rows). The validator warns when a part exceeds it.
+**Density rule.** At most one illustration slot per chapter, at most three documentary images per chapter, and about one image per twenty rows overall (roughly one per three printed pages; about 75 for 1,514 rows), with no part above one per ten rows (Gylfaginning, the most narrative part, runs densest). The validator warns past either limit. Current: 71 placed (38 depictions, 33 documentary).
 
 **Track 1 — public-domain mapping (open data).** The 42 scene briefs in `scenes.json` become an open dataset
 of verified public-domain depictions: each record names the scene (row range), the work, artist and date, the

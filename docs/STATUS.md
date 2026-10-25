@@ -21,7 +21,7 @@ Háttatal        is           0      303        0        0        0        0    
 Háttatal        en           0        0      303        0        0        0      303
 ```
 
-1,514 rows; 0 reviewed cells; 2 overlay files (304 AI draft records); 40 image records, 38 placed (`placed: false` on `s-c3` and `s-c46`, whose pictures turned out not to show the scene; `p-c5` Sigtún and `g-c54` Gangleri alone have no public-domain depiction at all). Generation briefs for those four slots and eight optional ones: `images/generation-briefs.md`. All 40 records carry `checked_by: claude (Commons API metadata check, 2026-10-24); human verification pending` — the licence basis was read from the Wikimedia Commons file pages, not yet confirmed by a person against the institution records.
+1,514 rows; 0 reviewed cells; 2 overlay files (304 AI draft records); 73 image records (40 depictions, 38 placed; 33 documentary: 2 manuscripts, 18 monuments, 13 places), 71 placed in all (`placed: false` on `s-c3` and `s-c46`, whose pictures turned out not to show the scene; `p-c5` Sigtún and `g-c54` Gangleri alone have no public-domain depiction at all). Generation briefs for those four slots and eight optional ones: `images/generation-briefs.md`. All 40 records carry `checked_by: claude (Commons API metadata check, 2026-10-24); human verification pending` — the licence basis was read from the Wikimedia Commons file pages, not yet confirmed by a person against the institution records.
 
 What the columns contain: Formáli, Skáldskaparmál and Háttatal Icelandic are automatic modernised spelling
 (about 94% of tokens right); Gylfaginning Icelandic is Netútgáfan's text, automatically aligned; English is

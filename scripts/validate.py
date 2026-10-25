@@ -38,6 +38,7 @@ IMAGE_KEYS = ("id", "part", "chapter", "title", "artist", "date", "source_url", 
               "license_basis", "checked_by", "checked_on", "caption")
 
 errors = []
+warnings = []
 
 
 def err(msg):
@@ -167,6 +168,25 @@ def check_images(rows, chapters):
             if rec.get("file") and not os.path.exists(os.path.join(ROOT, "images", "pd", rec["file"])):
                 err(f"{where}: file images/pd/{rec['file']} not found")
         n = len(recs)
+        # density rule (images/README.md): one depiction slot per chapter, at most three documentary images per
+        # chapter, about one placed image per twenty rows per part. Warnings only.
+        per_ch, per_part = {}, {}
+        for rec in recs:
+            if not rec.get("placed", True):
+                continue
+            key = (rec.get("part"), rec.get("chapter"), rec.get("kind", "depiction") == "depiction")
+            per_ch[key] = per_ch.get(key, 0) + 1
+            per_part[rec.get("part")] = per_part.get(rec.get("part"), 0) + 1
+        for (part, ch, is_dep), c in sorted(per_ch.items(), key=str):
+            if (is_dep and c > 1) or (not is_dep and c > 3):
+                warnings.append(f"images: {part} chapter {ch} has {c} {'depictions' if is_dep else 'documentary images'}")
+        for prefix, _, part_name, _, _ in PARTS:
+            nrows = sum(1 for r in rows if r.startswith(prefix + "-"))
+            if nrows and per_part.get(part_name, 0) > max(3, round(nrows / 20 * 2)):
+                warnings.append(f"images: {part_name} has {per_part[part_name]} images for {nrows} rows (at most {round(nrows / 10)})")
+        total_rows, total_imgs = len(rows), sum(per_part.values())
+        if total_rows and total_imgs > round(total_rows / 20 * 1.1):
+            warnings.append(f"images: {total_imgs} placed images for {total_rows} rows (guide: about {round(total_rows / 20)})")
         unfilled = doc.get("unfilled") or {}
         if not isinstance(unfilled, dict):
             err("images/records.json: \"unfilled\" must be an object {slot id: reason}")
@@ -233,6 +253,8 @@ def main():
     print()
     print("source = base edition text (Old Norse), auto = automatic alignment or modernisation, "
           "draft = unreviewed human or AI text, empty = no text in this cell")
+    for w in warnings:
+        print("warning: " + w)
     if errors:
         print(f"\n{len(errors)} error(s):", file=sys.stderr)
         for e in errors[:200]:
