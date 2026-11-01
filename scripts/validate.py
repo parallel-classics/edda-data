@@ -385,10 +385,8 @@ def poem_prefixes_for_intros():
     poems = idx.get("poems") if isinstance(idx, dict) else idx
     out = []
     for x in poems or []:
-        if isinstance(x, dict) and x.get("poem"):
-            out.append(x["poem"])
-        elif isinstance(x, dict) and x.get("key"):
-            out.append(x["key"])
+        if isinstance(x, dict) and x.get("prefix"):
+            out.append(x["prefix"])
     return out
 
 
