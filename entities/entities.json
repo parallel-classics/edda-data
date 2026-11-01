@@ -275,10 +275,10 @@
      "Bölverkr",
      "Jafnhárr",
      "Thridi",
-     "Óðinn's",
      "Gagnrath",
      "Grimnir",
      "Hnikar",
+     "Óðinn's",
      "Skilfing",
      "Thund",
      "Udr",
@@ -289,14 +289,14 @@
      "Gautr",
      "Grímnir",
      "Herjan's",
-     "Hnikarr's",
      "Hropt",
      "Hroptatyr",
      "Jalk",
+     "Omi",
      "Otter's",
      "Valfather",
      "Valfather's",
-     "Ómi",
+     "Vidrir",
      "Alfödr",
      "Atridi",
      "Atrith",
@@ -304,7 +304,7 @@
      "Atrídr",
      "Baleyg",
      "Báleygr",
-     "Bölverkr's",
+     "Bölverk’s",
      "Farmatyr",
      "Farmatýr",
      "Fjolsvith",
@@ -312,16 +312,17 @@
      "Gaut",
      "Gautr's",
      "Grimnir's",
+     "Grimnir’s",
      "Grídr",
-     "Grímnir's",
      "Grímr",
      "Hard",
+     "Herian’s",
      "Herjan",
      "Herjann",
-     "Herjann's",
      "Hjalmberi",
      "Hjálmberi",
      "Hnikarr",
+     "Hnikarr's",
      "Hnikudr",
      "Hnikuth",
      "Hropt's",
@@ -332,7 +333,6 @@
      "Hár's",
      "Hárbardr",
      "Jálkr",
-     "Omi",
      "Sidskeggr",
      "Sigtyr's",
      "Sigtýr's",
@@ -344,15 +344,14 @@
      "Svithrir",
      "Thrithi",
      "Thundr",
-     "Vidrir",
      "Vidrir's",
      "Vidurr",
      "Vidurr's",
      "Vithrir",
      "Vithrir's",
      "Vithur",
-     "Viðrir",
      "Yggr",
+     "Ómi",
      "Þundr's"
     ]
    },
@@ -439,7 +438,8 @@
     "da": "Thor",
     "de": "Thor",
     "en": "Thor",
-    "nb": "Tor"
+    "nb": "Tor",
+    "on": "Þórr"
    },
    "desc": {
     "en": "hammer-wielding Norse god associated with thunder, lightning, storms, oaks, strength, and fertility"
@@ -2067,8 +2067,7 @@
      "Njördr",
      "Njorth",
      "Njördr's",
-     "Njörðr",
-     "Njörðr's"
+     "Njörðr"
     ]
    },
    "heiti": {},
@@ -4190,8 +4189,8 @@
     "en": [
      "Idunn",
      "Ithun",
-     "Idunn's",
-     "Iðunn"
+     "Idun",
+     "Idunn's"
     ]
    },
    "heiti": {},
@@ -4663,7 +4662,8 @@
     "en": "Surtr",
     "nn": "Surt",
     "da": "Surt",
-    "nb": "Surt"
+    "nb": "Surt",
+    "on": "Surtr"
    },
    "desc": {
     "en": "Norse mythical character"
@@ -4767,7 +4767,8 @@
      "Yggdrasil",
      "Yggdrasill",
      "Yggdrasill's",
-     "Yggdrasil's"
+     "Yggdrasil's",
+     "Yggdrasil’s"
     ]
    },
    "heiti": {},
@@ -4834,8 +4835,7 @@
     "en": [
      "Midgard",
      "Mithgarth",
-     "Midgard's",
-     "Miðgarðr"
+     "Midgard's"
     ]
    },
    "heiti": {},
@@ -5199,8 +5199,9 @@
     "en": [
      "Dvalinn",
      "Dvalin",
+     "Dvalin's",
      "Dvalinn's",
-     "Dvalin's"
+     "Dvalin’s"
     ]
    },
    "heiti": {},
@@ -5332,7 +5333,8 @@
     "da": "Suttung",
     "nb": "Suttung",
     "nn": "Suttung",
-    "is": "Suttungur"
+    "is": "Suttungur",
+    "on": "Suttungr"
    },
    "desc": {
     "en": "figure in Nordic mythology"
@@ -5767,10 +5769,11 @@
     ],
     "en": [
      "Mímir",
+     "Mimir",
      "Mímir's",
      "Mim",
-     "Mimir",
      "Mimir's",
+     "Mim’s",
      "Mímr's"
     ]
    },
@@ -7503,8 +7506,7 @@
      "Fjörm",
      "Fjorm",
      "Sylg",
-     "Sylgr",
-     "Élivágar"
+     "Sylgr"
     ]
    },
    "heiti": {},
@@ -7700,8 +7702,7 @@
     ],
     "en": [
      "Rindr",
-     "Rind",
-     "Rindr's"
+     "Rind"
     ]
    },
    "heiti": {},
@@ -9089,9 +9090,9 @@
     "en": [
      "Laufey",
      "Laufey's",
+     "Nal",
      "Nali",
-     "Nál",
-     "Nál's"
+     "Nál"
     ]
    },
    "heiti": {},
@@ -12962,7 +12963,8 @@
     "nn": "Niflheim",
     "ru": "Нибльхейм",
     "sv": "Nifelhem",
-    "nb": "Nivlheim"
+    "nb": "Nivlheim",
+    "on": "Niflheimr"
    },
    "desc": {
     "en": "realm of primordial ice and cold in Norse mythology"
@@ -12993,7 +12995,6 @@
     ],
     "en": [
      "Niflheim",
-     "Niflheimr",
      "Niflhel"
     ]
    },
@@ -14285,7 +14286,7 @@
     "en": [
      "Hlidskjálf",
      "Hlithskjolf",
-     "Hliðskjálf"
+     "Hlidskjalf"
     ]
    },
    "heiti": {},
@@ -15280,8 +15281,7 @@
      "Alsvinnur"
     ],
     "en": [
-     "Alsvith",
-     "Alsviðr"
+     "Alsvith"
     ]
    },
    "heiti": {},
@@ -15302,6 +15302,62 @@
     "the sun's horse (Gylfaginning 11, Grímnismál 37, Sigrdrífumál 15); Hávamál 143 Alsviðr is a giant -> rule hav = giant",
     "added from the seed patch of 2026-11-01"
    ]
+  },
+  {
+   "id": "andvaranaut",
+   "tags": [
+    "object"
+   ],
+   "type": "object",
+   "wikidata": "Q525117",
+   "names": {
+    "de": "Andvaranaut",
+    "sv": "Andvaranaut",
+    "da": "Andvarenaut",
+    "en": "Andvaranaut",
+    "nb": "Andvarenaut",
+    "on": "Andvaranautr"
+   },
+   "desc": {
+    "en": "artifact in Norse mythology"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {
+    "enwiki": "Andvaranaut",
+    "nowiki": "Andvarenaut",
+    "dewiki": "Andvaranaut"
+   },
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Andvaranaut",
+     "Andvaranautr"
+    ],
+    "is": [
+     "Andvaranaut",
+     "Andvaranautur"
+    ],
+    "en": [
+     "Andvaranaut"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "s-c49-4",
+    "poetic": "rm-p3"
+   },
+   "first_any": {
+    "snorri": "s-c49-4",
+    "poetic": "rm-p3"
+   },
+   "mentions": 4,
+   "narrative": 4,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": []
   },
   {
    "id": "arvakr",
@@ -16968,8 +17024,7 @@
      "Hrímfaxa"
     ],
     "en": [
-     "Hrimfaxi",
-     "Hrímfaxi"
+     "Hrimfaxi"
     ]
    },
    "heiti": {},
@@ -17714,6 +17769,7 @@
     ],
     "en": [
      "Sæhrímnir",
+     "Sæhrimnir",
      "Sæhrimnir's"
     ]
    },
@@ -18486,7 +18542,8 @@
      "Víngólf"
     ],
     "en": [
-     "Vingólf"
+     "Vingólf",
+     "Vingolf"
     ]
    },
    "heiti": {},
@@ -18641,59 +18698,6 @@
     "linked in Rígsþula only (rules.json); a common noun elsewhere",
     "added from the seed patch of 2026-11-01"
    ]
-  },
-  {
-   "id": "andvaranaut",
-   "tags": [
-    "object"
-   ],
-   "type": "object",
-   "wikidata": "Q525117",
-   "names": {
-    "de": "Andvaranaut",
-    "sv": "Andvaranaut",
-    "da": "Andvarenaut",
-    "en": "Andvaranaut",
-    "nb": "Andvarenaut"
-   },
-   "desc": {
-    "en": "artifact in Norse mythology"
-   },
-   "image": null,
-   "image_candidates": [],
-   "coords": null,
-   "wiki": {
-    "enwiki": "Andvaranaut",
-    "nowiki": "Andvarenaut",
-    "dewiki": "Andvaranaut"
-   },
-   "image_source": null,
-   "forms": {
-    "on": [
-     "Andvaranaut"
-    ],
-    "is": [
-     "Andvaranaut"
-    ],
-    "en": [
-     "Andvaranaut"
-    ]
-   },
-   "heiti": {},
-   "first": {
-    "snorri": "s-c49-5",
-    "poetic": "rm-p3"
-   },
-   "first_any": {
-    "snorri": "s-c49-5",
-    "poetic": "rm-p3"
-   },
-   "mentions": 3,
-   "narrative": 3,
-   "check": 0,
-   "card": false,
-   "status": "auto",
-   "notes": []
   },
   {
    "id": "arheimar",
@@ -19966,8 +19970,9 @@
      "Fornjóts"
     ],
     "en": [
-     "Fornjótr's",
-     "Fornjótr"
+     "Forniots",
+     "Fornjótr",
+     "Fornjótr's"
     ]
    },
    "heiti": {},
@@ -21608,7 +21613,7 @@
      "Nörva"
     ],
     "en": [
-     "Nörvi's"
+     "Nörvi’s"
     ]
    },
    "heiti": {},
@@ -23274,7 +23279,8 @@
     "is": "Bölþór",
     "sv": "Böltorn",
     "nb": "Bolthorn",
-    "ru": "Бёльторн"
+    "ru": "Бёльторн",
+    "on": "Bölþorn"
    },
    "desc": {
     "en": "giant in Norse mythology"
@@ -24086,7 +24092,8 @@
    "type": "horse",
    "wikidata": "Q115253212",
    "names": {
-    "en": "Garðrofa"
+    "en": "Garðrofa",
+    "on": "Garðrofa"
    },
    "desc": {},
    "image": null,
@@ -25744,6 +25751,7 @@
      "Jórunn"
     ],
     "en": [
+     "Jorun",
      "Jórunn"
     ]
    },
@@ -26582,7 +26590,8 @@
     "de": "Nidafelsen",
     "en": "Niðafjöll",
     "sv": "Nidafjällen",
-    "da": "Niðafjöll"
+    "da": "Niðafjöll",
+    "on": "Niðafjöll"
    },
    "desc": {
     "en": "location in Norse mythology"
@@ -27620,7 +27629,8 @@
     "ru": "Свартальвахейм",
     "sv": "Svartalfaheim",
     "nb": "Svartalvheim",
-    "en": "Svartálfaheimr"
+    "en": "Svartálfaheimr",
+    "on": "Svartálfaheimr"
    },
    "desc": {},
    "image": null,
@@ -27910,7 +27920,7 @@
     ],
     "en": [
      "Thrain",
-     "Þráinn's"
+     "Thrain’s"
     ]
    },
    "heiti": {},
@@ -27937,7 +27947,8 @@
    "names": {
     "ru": "Трудхейм",
     "en": "Þrúðheimr",
-    "da": "Trudhjem"
+    "da": "Trudhjem",
+    "on": "Þrúðheimr"
    },
    "desc": {
     "en": "the home of Thor according to the poem Grímnismál"
@@ -28913,7 +28924,8 @@
     "ru": "Ангрбода",
     "nn": "Angerboda",
     "da": "Angerboda",
-    "nb": "Angerboda"
+    "nb": "Angerboda",
+    "on": "Angrboða"
    },
    "desc": {
     "en": "Norse mythical character; giantess"
@@ -29469,7 +29481,8 @@
     "de": "Gladsheim",
     "sv": "Gladsheim",
     "da": "Gladsheim",
-    "ru": "Гладсгейм"
+    "ru": "Гладсгейм",
+    "on": "Glaðsheimr"
    },
    "desc": {
     "en": "Norse mythical location"
@@ -29520,7 +29533,8 @@
     "de": "Gullveig",
     "nb": "Gullveig",
     "is": "Gullveig",
-    "sv": "Gullveig"
+    "sv": "Gullveig",
+    "on": "Gullveig"
    },
    "desc": {
     "en": "Norse mythical character"
@@ -29759,7 +29773,8 @@
    "wikidata": "Q50208107",
    "names": {
     "sv": "Hlóra",
-    "en": "Hlóra"
+    "en": "Hlóra",
+    "on": "Hlóra"
    },
    "desc": {
     "en": "foster-mother of the god Thor in Norse mythology"
@@ -29941,6 +29956,54 @@
    "status": "auto",
    "notes": [
     "added from the seed patch of 2026-11-01"
+   ]
+  },
+  {
+   "id": "ifingr",
+   "tags": [
+    "river",
+    "place_myth"
+   ],
+   "type": "river",
+   "wikidata": null,
+   "names": {
+    "on": "Ífingr",
+    "en": "Ifing",
+    "is": "Ífing"
+   },
+   "desc": {
+    "en": "the river that divides the land of the gods from the land of the giants and never freezes (Vafþrúðnismál 16)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Ífing"
+    ],
+    "is": [
+     "Ífing"
+    ],
+    "en": [
+     "Ifing"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "poetic": "vm-s16"
+   },
+   "first_any": {
+    "poetic": "vm-s16"
+   },
+   "mentions": 1,
+   "narrative": 1,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-02 at the curator's request (mailbox 2320); kept in notable.json"
    ]
   },
   {
@@ -30428,7 +30491,8 @@
     "en": "Náströnd",
     "de": "Náströnd",
     "sv": "Nastrand",
-    "da": "Nåstrand"
+    "da": "Nåstrand",
+    "on": "Náströnd"
    },
    "desc": {
     "en": "Norse mythical location"
@@ -31305,39 +31369,6 @@
    "card": false,
    "status": "auto",
    "notes": []
-  },
-  {
-   "id": "thjodolfr-arnorsson",
-   "tags": [
-    "poet"
-   ],
-   "type": "poet",
-   "wikidata": "Q6212022",
-   "names": {
-    "on": "Þjóðólfr Arnórsson",
-    "en": "Thjodolf Arnorsson",
-    "is": "Þjóðólfur Arnórsson"
-   },
-   "desc": {
-    "en": "Icelandic skald of the 11th century (Sexstefja), quoted in Skáldskaparmál"
-   },
-   "image": null,
-   "image_candidates": [],
-   "coords": null,
-   "wiki": {},
-   "image_source": null,
-   "forms": {},
-   "heiti": {},
-   "first": {},
-   "first_any": {},
-   "mentions": 0,
-   "narrative": 0,
-   "check": 0,
-   "card": false,
-   "status": "auto",
-   "notes": [
-    "added by rules.json"
-   ]
   }
  ]
 }

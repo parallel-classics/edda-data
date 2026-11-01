@@ -1,3 +1,4 @@
+# SUPERSEDED 2026-11-01: seed.json is the source of the entities; this list is kept as history and is not read by the pipeline.
 # lemma ; slug ; ON ; EN ; type ; qid ; note        type '>slug' = name form (heiti) of that entity; 'X' = not an entity / leave
 Sigurðr;sigurdr;Sigurðr Fáfnisbani;Sigurd;human;;amb: skalds/jarls named Sigurðr in Skáldskaparmál
 Siguðar;sigurdr;;;=;;variant spelling

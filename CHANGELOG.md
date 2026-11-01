@@ -4,6 +4,10 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 ## Unreleased
 
+- Names (curator's answers of 2026-11-01, mailbox 2320): Old Norse headwords set with `names.on` where the label was
+  inflected or modern (Þórr, Bölþorn, Niflheimr, Andvaranautr, Garðrofa, Niðafjöll, Svartálfaheimr, Þrúðheimr, Angrboða,
+  Glaðsheimr, Gullveig, Hlóra, Náströnd, Ymir, Surtr, Suttungr, Iðavöllr); Ífingr added (river, Vafþrúðnismál 16);
+  `thjodolfr-arnorsson` dropped (no mentions); `curated.txt` marked superseded by seed.json. Entities regenerated.
 - English of Sólarljóð and Hrafnagaldr Óðins (Forspjallsljóð): Benjamin Thorpe's translation (1866, public domain)
   replaces the AI drafts (`sources/en/thorpe/`, source `thorpe-1866`, row flag `en_thorpe`; 82 + 26 stanzas paired by
   number; Thorpe's notes as the poems' notes; the 108 AI-draft overlay records marked `withdrawn`). Thorpe did not
