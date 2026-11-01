@@ -4,6 +4,12 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 ## Unreleased
 
+- Automatic Icelandic of Formáli, Skáldskaparmál and Háttatal regenerated with the guarded moderniser (edda-site
+  task 12, 2026-11-01): `auto/is_{prol,skald,hatt}_auto.json` and the `is` cells of `aligned/al_{prol,skald,hatt}.json`;
+  11 cells change (`konar` no longer becomes `allskonar`, `men` no longer `en`, `byggðir` no longer `ásabyggðir`,
+  `gullhjálminn` and `ormarnir` keep their endings), every row id and every other cell unchanged; held-out accuracy
+  94.15% (`modernize.py eval`). The AI-draft English cells were re-applied from `auto/en_draft.json` unchanged.
+
 - Poetic Edda, complete: the 45 poems of Guðni Jónsson's *Eddukvæði* (heimskringla.no, fetched 2026-10-25;
   `sources/on/eddukvaedi/`) as 1,966 rows in `aligned/poetic/al_<poem>.json` (ids `<poem>-s<N>`, `<poem>-p<k>`),
   automatic modern Icelandic, Bellows 1923 for the 36 poems he translated (`sources/en/bellows/`, Wikisource),

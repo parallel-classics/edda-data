@@ -140,7 +140,8 @@ Poetic Edda
   linked.
 - Völuspá: Guðni Jónsson 34 (Hauksbók, Váli) has no Bellows stanza; 54 (a fourth refrain) shows Bellows'
   refrain. The moderniser rejects learned word pairs that drop the first letter or more than two letters
-  (held-out accuracy 94.15%); Formáli/Skáldskaparmál/Háttatal automatic columns are not regenerated with it yet.
+  (held-out accuracy 94.15%); Formáli/Skáldskaparmál/Háttatal automatic columns regenerated with it on 2026-11-01
+  (11 cells changed, row ids unchanged; edda-site task 12).
 
 Modernised spelling (automatic column)
 - Residuals such as *it fyrsta* for *hið fyrsta*, occasional inflection endings, and words never seen in
