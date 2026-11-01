@@ -45,22 +45,25 @@
      "en": [
       {
        "t": "v",
+       "n": 1,
        "l": [
-        "Of wealth and life",
-        "he robbed the race of men,",
-        "that grim Greppr;",
-        "over those ways",
-        "which he guarded",
-        "no one living could get through."
+        "Of life and property",
+        "a fierce freebooter",
+        "despoiled mankind;",
+        "over the ways",
+        "beset by him",
+        "might no one living pass."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      1
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
      "head": "I.",
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s2",
@@ -96,21 +99,25 @@
      "en": [
       {
        "t": "v",
+       "n": 2,
        "l": [
-        "Alone he ate,",
-        "often greedily,",
-        "never did he invite a man to a meal,",
-        "until, weary",
-        "and weak in strength,",
-        "a Guest came from the road."
+        "Alone he ate",
+        "most frequently,",
+        "no one invited he to his repast;",
+        "until weary,",
+        "and with failing strength,",
+        "a wandering guest",
+        "came from the way."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      2
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s3",
@@ -146,21 +153,24 @@
      "en": [
       {
        "t": "v",
+       "n": 3,
        "l": [
         "In need of drink",
-        "the exhausted man said he was,",
-        "and ill-fed;",
-        "with fearful heart",
-        "he said he trusted",
-        "the one who before had been ill-disposed."
+        "that way-worn man,",
+        "and hungry feigned to be:",
+        "with trembling heart",
+        "he seemed to trust",
+        "him who had been so evil-minded."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      3
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s4",
@@ -196,21 +206,24 @@
      "en": [
       {
        "t": "v",
+       "n": 4,
        "l": [
-        "Food and drink",
-        "he gave to him who was weary,",
-        "all from a sincere heart;",
-        "he heeded God,",
-        "he treated him well,",
-        "for he thought himself to have been wicked."
+        "Meat and drink",
+        "to the weary one he gave,",
+        "all with upright heart;",
+        "on God he thought,",
+        "the traveller's wants supplied;",
+        "for he felt he was an evil-doer."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      4
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s5",
@@ -246,21 +259,24 @@
      "en": [
       {
        "t": "v",
+       "n": 5,
        "l": [
-        "Up the other stood,",
-        "evil he intended,",
-        "not gratefully was it received;",
-        "his sin swelled,",
-        "he murdered, as he slept,",
-        "the wise, very wary man."
+        "Up stood the guest,",
+        "he evil meditated,",
+        "he had not been kindly treated;",
+        "his sin within him swelled,",
+        "he while sleeping murdered",
+        "his wary cautious host."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      5
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s6",
@@ -296,21 +312,24 @@
      "en": [
       {
        "t": "v",
+       "n": 6,
        "l": [
-        "The God of the heavens",
-        "he begged to help him",
-        "when he woke up slain;",
-        "but that one came",
-        "to take on the sins",
-        "of him whom he had betrayed, though guiltless."
+        "The God of heaven",
+        "he prayed for help,",
+        "when being struck he woke;",
+        "but he was doomed the sins of him",
+        "on himself to take,",
+        "whom sackless he had slain."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      6
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s7",
@@ -346,21 +365,24 @@
      "en": [
       {
        "t": "v",
+       "n": 7,
        "l": [
-        "Holy angels",
-        "came down from the heavens",
-        "and took his soul to themselves;",
-        "in pure life",
-        "it shall live",
-        "forever with almighty God."
+        "Holy angels came",
+        "from heaven above,",
+        "and took to them his soul:",
+        "in a life of purity",
+        "it shall ever live",
+        "with the almighty God."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      7
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s8",
@@ -396,21 +418,24 @@
      "en": [
       {
        "t": "v",
+       "n": 8,
        "l": [
-        "Wealth nor health",
-        "does any man control,",
-        "though things go smoothly for him;",
-        "many are met by that",
-        "which they least expect;",
-        "no one himself controls his peace."
+        "Riches and health",
+        "no one may command,",
+        "though all go smoothly with him.",
+        "To many that befalls",
+        "which they least expect.",
+        "No one may command his tranquility."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      8
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s9",
@@ -446,21 +471,24 @@
      "en": [
       {
        "t": "v",
+       "n": 9,
        "l": [
-        "They did not think,",
-        "Unnarr and Sævaldi,",
-        "that their good fortune would collapse;",
-        "naked they became",
-        "and stripped of everything,",
-        "and ran like wolves to the wood."
+        "Unnar and Sævaldi",
+        "never imagined",
+        "that happiness would fall on them,",
+        "yet naked they became,",
+        "and of all bereft,",
+        "and, like wolves, ran to the forest."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      9
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s10",
@@ -496,21 +524,24 @@
      "en": [
       {
        "t": "v",
+       "n": 10,
        "l": [
-        "The power of lust",
-        "has brought grief to many,",
-        "often torment comes from women;",
-        "they became corrupt,",
-        "though the mighty God",
-        "created them pure."
+        "The force of pleasure",
+        "has many a one bewailed.",
+        "Cares are often caused by women;",
+        "pernicious they become,",
+        "although the mighty God",
+        "them pure created."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      10
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s11",
@@ -546,21 +577,24 @@
      "en": [
       {
        "t": "v",
+       "n": 11,
        "l": [
-        "At peace they were,",
-        "Sváfaðr and Skartheðinn,",
-        "neither could be without the other,",
-        "until they went mad",
-        "over one woman:",
-        "she was fated to be their ruin."
+        "United were",
+        "Svafud and Skarthedin,",
+        "neither might without the other be,",
+        "until to frenzy they were driven",
+        "for a woman;",
+        "she was destined for their perdition."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      11
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s12",
@@ -596,21 +630,24 @@
      "en": [
       {
        "t": "v",
+       "n": 12,
        "l": [
-        "Neither of them heeded,",
-        "because of that white maiden,",
-        "games nor the bright days;",
+        "On account of that fair maid,",
+        "neither of them cared",
+        "for games or joyous days;",
         "no other thing",
-        "could they keep in mind",
-        "but that bright body."
+        "could they in memory bear",
+        "then that bright form."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      12
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s13",
@@ -646,21 +683,24 @@
      "en": [
       {
        "t": "v",
+       "n": 13,
        "l": [
-        "Gloomy for them became",
-        "the dark nights,",
-        "no sweet sleep could they sleep;",
-        "but from that grief",
-        "hatred welled up",
-        "between dear friends."
+        "Sad to them were",
+        "the gloomy nights,",
+        "no sweet sleep might they enjoy:",
+        "but from that anguish",
+        "rose hate intense",
+        "between the faithful friends."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      13
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s14",
@@ -696,21 +736,24 @@
      "en": [
       {
        "t": "v",
+       "n": 14,
        "l": [
-        "Outrages are",
-        "in most places",
-        "grimly repaid;",
-        "to a duel they went",
-        "for the wise woman",
-        "and both met their death."
+        "Hostile deeds",
+        "are in most places",
+        "fiercely avenged.",
+        "To the holm they went,⟦1⟧",
+        "for that fair woman,",
+        "and each one found his death."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      14
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s15",
@@ -746,21 +789,23 @@
      "en": [
       {
        "t": "v",
+       "n": 15,
        "l": [
-        "Pride",
-        "should no man practise,",
-        "that I have truly seen,",
-        "for they turn away,",
-        "those who follow it,",
-        "most of them, from God."
+        "Arrogance should no one entertain:",
+        "I indeed have seen",
+        "that those who follow her,",
+        "for the most part,",
+        "turn from God."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      15
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s16",
@@ -796,21 +841,24 @@
      "en": [
       {
        "t": "v",
+       "n": 16,
        "l": [
-        "Powerful they were,",
-        "Ráðný and Véboði,",
-        "and thought they did nothing but good;",
+        "Rich were both,",
+        "Radey and Vebogi,",
+        "and thought only of their well-being;",
         "now they sit",
-        "and turn their wounds",
-        "this way and that towards the fires."
+        "and turn their sores",
+        "to various hearths."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      16
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s17",
@@ -846,21 +894,24 @@
      "en": [
       {
        "t": "v",
+       "n": 17,
        "l": [
-        "In themselves they trusted",
-        "and thought themselves alone to be",
+        "They in themselves confided,",
+        "and though themselves alone to be",
         "above all people;",
-        "but yet",
-        "their condition appeared",
-        "otherwise to almighty God."
+        "but their lot",
+        "Almighty God was pleased",
+        "otherwise to appoint."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      17
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s18",
@@ -896,21 +947,24 @@
      "en": [
       {
        "t": "v",
+       "n": 18,
        "l": [
-        "Pleasure they indulged",
-        "in many ways",
-        "and had gold for their amusement;",
-        "now they are repaid,",
-        "as they must walk",
+        "A life of luxury they led,",
+        "in may ways,",
+        "and had gold for sport.",
+        "Now they are requited,",
+        "so that they must walk",
         "between frost and fire."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      18
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s19",
@@ -946,21 +1000,24 @@
      "en": [
       {
        "t": "v",
+       "n": 19,
        "l": [
-        "Your enemies",
-        "never trust,",
-        "though they speak fair to you;",
-        "promise good;",
-        "it is good to have another's",
-        "punishment as a warning."
+        "To thy enemies",
+        "trust thou never,",
+        "although they speak thee fair:",
+        "promise them good:",
+        "'tis good to have another's injury",
+        "as a warning."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      19
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s20",
@@ -996,21 +1053,24 @@
      "en": [
       {
        "t": "v",
+       "n": 20,
        "l": [
-        "So it went for him,",
-        "Sörli the well-counselled,",
-        "when he put himself in Vígúlfr's power;",
-        "faithfully he trusted",
-        "— but the other turned to treachery —",
-        "his brother's slayer."
+        "So it befell",
+        "Sörli the upright,",
+        "when he placed himself in Vigolf's power;",
+        "he confidently trusted him,",
+        "his brother's murderer,",
+        "but he proved false."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      20
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s21",
@@ -1046,21 +1106,24 @@
      "en": [
       {
        "t": "v",
+       "n": 21,
        "l": [
-        "Peace he granted them",
-        "with a good heart,",
-        "and they promised him gold in return;",
-        "they claimed to be reconciled",
-        "while they drank together,",
-        "but still the falsehoods came out."
+        "Peace to them he granted,",
+        "with heart sincere;",
+        "they in return promised him gold,",
+        "feigned themselves friends.,",
+        "while they together drank;",
+        "but then came forth their guile."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      21
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s22",
@@ -1096,21 +1159,24 @@
      "en": [
       {
        "t": "v",
+       "n": 22,
        "l": [
-        "But then afterwards,",
+        "Then afterwards,",
         "on the second day,",
-        "when they had ridden into Rýgjardalr,",
-        "with swords they wounded",
-        "him who was guiltless",
-        "and made his life depart."
+        "when they in Rýgiardal rode,",
+        "they with swords wounded him",
+        "who sackless was,",
+        "and let his life go forth."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      22
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s23",
@@ -1146,21 +1212,24 @@
      "en": [
       {
        "t": "v",
+       "n": 23,
        "l": [
-        "His body they dragged",
-        "onto a hidden path",
-        "and hacked it up [and threw it] down into a well;",
-        "they wanted to conceal it,",
-        "but the Lord saw,",
-        "holy, from the heavens."
+        "His corpse they dragged",
+        "(on a lonely way,",
+        "and cut up piecemeal) into a well,",
+        "and would it hide;",
+        "but the holy Lord",
+        "beheld from heaven."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      23
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s24",
@@ -1196,21 +1265,24 @@
      "en": [
       {
        "t": "v",
+       "n": 24,
        "l": [
-        "His soul was bidden",
-        "by the true God",
-        "to go into his joy;",
-        "but the guilty ones",
-        "I think will late",
-        "be called out of torments."
+        "His soul summoned home",
+        "the true God",
+        "into his joy to come;",
+        "but the evil doers",
+        "will, I ween, late",
+        "be from torments called."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      24
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s25",
@@ -1246,22 +1318,25 @@
      "en": [
       {
        "t": "v",
+       "n": 25,
        "l": [
-        "Ask the dísir",
-        "of the Lord's words [?]",
-        "to be gracious in mind to you;",
-        "a week after,",
-        "for you, all your desire",
-        "will go as you wish."
+        "Do thou pray the Disir",
+        "of the Lord's words",
+        "to be kind to thee in spirit:",
+        "for a week after,",
+        "all shall then go happily,",
+        "according to thy will."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      25
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
      "head": "II.",
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s26",
@@ -1297,21 +1372,24 @@
      "en": [
       {
        "t": "v",
+       "n": 26,
        "l": [
-        "Deeds of anger",
-        "which you have done,",
-        "do not add evil on top of them;",
-        "the one you have made weep, soothe",
-        "you shall with good things;",
-        "that is said to be fitting for the soul."
+        "For a deed of ire",
+        "that thou has perpetrated,",
+        "never atone with evil:",
+        "the weeping thou shalt",
+        "sooth with benefits:",
+        "that is salutary to the soul."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      26
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s27",
@@ -1347,21 +1425,24 @@
      "en": [
       {
        "t": "v",
+       "n": 27,
        "l": [
-        "On God one should call",
-        "for good things,",
-        "him who has created men;",
-        "greatly at a loss is",
+        "On God a man",
+        "shall for good things call,",
+        "on him who has mankind created.",
+        "Greatly sinful is",
         "every man",
         "who late finds the Father."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      27
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s28",
@@ -1397,21 +1478,24 @@
      "en": [
       {
        "t": "v",
+       "n": 28,
        "l": [
-        "Asking avails,",
-        "especially with care,",
-        "for what seems to be lacking;",
-        "of everything goes without",
-        "he who asks for nothing;",
-        "few think of the silent man's need."
+        "To be solicited, we opine,",
+        "is with all earnestness",
+        "for that which is lacking:",
+        "of all things may be destitute",
+        "he who for nothing asks:",
+        "few heed the wants of the silent."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      28
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s29",
@@ -1447,21 +1531,24 @@
      "en": [
       {
        "t": "v",
+       "n": 29,
        "l": [
         "Late I came,",
-        "early called,",
-        "to the judge's doors;",
-        "thither I intend to go,",
-        "for it was promised me:",
-        "he gets the delicacy who demands it."
+        "though called betimes,",
+        "to the supreme Judge's door;",
+        "thitherward I yearn;",
+        "for it was promised me,",
+        "he who craves it shall of the feast partake."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      29
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s30",
@@ -1497,21 +1584,24 @@
      "en": [
       {
        "t": "v",
+       "n": 30,
        "l": [
         "Sins are the cause",
-        "that we go sorrowful",
-        "out of the world of terror [?];",
-        "no one has fear",
-        "unless he does evil;",
-        "it is good to be blameless."
+        "that sorrowing we depart",
+        "from this world:",
+        "no one stands in dread,",
+        "if he does no evil:",
+        "good it is to be blameless."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      30
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s31",
@@ -1547,21 +1637,24 @@
      "en": [
       {
        "t": "v",
+       "n": 31,
        "l": [
-        "Like wolves",
+        "Like unto wolves",
         "all those seem",
-        "who have a fickle mind;",
-        "so it will turn out",
-        "for him who must walk",
-        "those glowing paths."
+        "who have a faithless mind:",
+        "so he will prove",
+        "who has to go",
+        "through ways strewed with gleeds."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      31
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s32",
@@ -1597,21 +1690,25 @@
      "en": [
       {
        "t": "v",
+       "n": 32,
        "l": [
         "Friendly counsels,",
-        "and bound with wisdom,",
-        "I teach you, seven together;",
-        "remember them well",
-        "and never lose them,",
-        "all of them are useful to learn."
+        "and wisely composed, seven",
+        "I have imparted to thee:",
+        "consider thou them well,",
+        "and forget them never:",
+        "they are all useful to learn.",
+        "~~~~~~~~~~~~~~~~"
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      32
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s33",
@@ -1647,22 +1744,25 @@
      "en": [
       {
        "t": "v",
+       "n": 33,
        "l": [
-        "Of this is to tell,",
+        "Of that I will speak,",
         "how happy I was",
-        "in the world of delight,",
-        "and the other thing,",
+        "in the world,",
+        "and secondly,",
         "how the sons of men",
-        "become, unwilling, corpses."
+        "reluctantly become corpses."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      33
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
      "head": "III.",
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s34",
@@ -1698,21 +1798,24 @@
      "en": [
       {
        "t": "v",
+       "n": 34,
        "l": [
-        "Desire and conceit",
-        "lure the sons of men,",
-        "who are greedy for wealth;",
-        "bright coins",
-        "turn into long grief;",
-        "riches have made a fool of many."
+        "Pleasure and pride",
+        "deceive the sons of men",
+        "who after money crave;",
+        "shining riches",
+        "at last become a sorrow:",
+        "many have riches driven to madness."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      34
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s35",
@@ -1748,21 +1851,24 @@
      "en": [
       {
        "t": "v",
+       "n": 35,
        "l": [
-        "Glad in many things",
-        "I seemed to men to be,",
-        "for I knew little of what lay ahead;",
-        "this world of lingering",
-        "the Lord has made",
-        "very full of delights."
+        "Steeped in joys",
+        "I seemed to men;",
+        "for little did I see before me:",
+        "our worldly sojourn",
+        "has the Lord created",
+        "in delights abounding."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      35
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s36",
@@ -1798,21 +1904,24 @@
      "en": [
       {
        "t": "v",
+       "n": 36,
        "l": [
-        "Bent I sat,",
-        "long I leaned over,",
-        "very eager was I then to live;",
-        "but he decided",
-        "who was mighty;",
-        "forward run the paths of the doomed."
+        "Bowed down I sat,",
+        "long I tottered,",
+        "of life was most desirous;",
+        "but He prevailed",
+        "who was all-powerful:",
+        "onward are the ways of the doomed."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      36
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s37",
@@ -1848,21 +1957,24 @@
      "en": [
       {
        "t": "v",
+       "n": 37,
        "l": [
-        "Hel's ropes",
-        "came, hard,",
-        "bound about my sides;",
-        "I wanted to break them,",
-        "but they were tough;",
-        "it is easy to go when one is free."
+        "The cords of Hel",
+        "were tightly",
+        "bound round my sides;",
+        "I would rend them,",
+        "but they were strong.",
+        "\"Tis easy free to go."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      37
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s38",
@@ -1898,21 +2010,24 @@
      "en": [
       {
        "t": "v",
+       "n": 38,
        "l": [
-        "Alone I knew",
+        "I alone knew,",
         "how on all sides",
-        "sorrows swelled in me;",
-        "Hel's maidens",
-        "offered me horrors",
-        "home every evening [i.e. invited me home to them]."
+        "my pains increased.",
+        "The maids of Hel each eve",
+        "with horror bade me",
+        "to their home."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      38
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s39",
@@ -1948,21 +2063,24 @@
      "en": [
       {
        "t": "v",
+       "n": 39,
        "l": [
         "The sun I saw,",
-        "the true day-star,",
-        "sink in the world of din;",
-        "but Hel's gate",
-        "I heard on the other side",
-        "creak heavily."
+        "true star of day,",
+        "sink in its roaring home;",
+        "but Hel's grated doors",
+        "on the other side I heard",
+        "heavily creaking."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      39
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s40",
@@ -1998,21 +2116,24 @@
      "en": [
       {
        "t": "v",
+       "n": 40,
        "l": [
         "The sun I saw",
-        "set with blood-red staves;",
-        "much was I then leaning out of the world;",
-        "mighty it seemed",
+        "with blood-red beams beset:",
+        "(fast was I then from this world declining)",
+        "mightier she appeared,",
         "in many ways",
-        "compared with what it was before."
+        "than she was before."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      40
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s41",
@@ -2048,21 +2169,24 @@
      "en": [
       {
        "t": "v",
+       "n": 41,
        "l": [
         "The sun I saw,",
-        "so it seemed to me,",
-        "as if I saw glorious God;",
-        "to it I bowed",
-        "for the last time",
+        "and it seemed to me",
+        "as if I saw a glorious god:",
+        "I bowed before her,",
+        "for the last time,",
         "in the world of men."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      41
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s42",
@@ -2098,21 +2222,24 @@
      "en": [
       {
        "t": "v",
+       "n": 42,
        "l": [
-        "The sun I saw,",
-        "so it shone,",
-        "that I seemed to know nothing at all;",
-        "but Gylfi's streams [the sea]",
-        "roared on the other side,",
-        "much mixed with blood."
+        "The sun I saw:",
+        "she beamed forth so",
+        "that I seemed nothing to know;",
+        "but Giöll's streams",
+        "roared from the other side",
+        "mingled much with blood."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      42
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s43",
@@ -2148,21 +2275,24 @@
      "en": [
       {
        "t": "v",
+       "n": 43,
        "l": [
-        "The sun I saw",
-        "trembling before my eyes,",
-        "full of fear and cowed;",
+        "The sun I saw,",
+        "with quivering eyes,",
+        "appalled and shrinking;",
         "for my heart",
-        "was very greatly",
-        "melted apart into shreds [?]."
+        "in great measure was",
+        "dissolved in languor."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      43
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s44",
@@ -2198,21 +2328,24 @@
      "en": [
       {
        "t": "v",
+       "n": 44,
        "l": [
-        "The sun I saw,",
-        "seldom more sorrowful;",
-        "much was I then leaning out of the world;",
-        "my tongue",
-        "was turned to wood,",
-        "and grown cold on the outside."
+        "The sun I saw",
+        "seldom sadder;",
+        "I had then almost from the world declined:",
+        "my tongue was",
+        "as wood become,",
+        "and all was cold without me."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      44
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s45",
@@ -2248,21 +2381,24 @@
      "en": [
       {
        "t": "v",
+       "n": 45,
        "l": [
         "The sun I saw",
-        "never again",
-        "after that dismal day,",
-        "for the waters of the mountains",
-        "closed together over me,",
-        "and I went away, called, from torments."
+        "never after,",
+        "since that gloomy day;",
+        "for the mountain-waters",
+        "closed over me,",
+        "and I went called from torments."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      45
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s46",
@@ -2298,21 +2434,24 @@
      "en": [
       {
        "t": "v",
+       "n": 46,
        "l": [
-        "The star of hope flew",
-        "— then I was born —",
-        "away from my breast;",
-        "not high did it fly [?],",
-        "nowhere did it settle,",
-        "so that it might have rest."
+        "The star of hope,",
+        "when I was born,",
+        "fled from my breast away;",
+        "high it flew,",
+        "settled nowhere,",
+        "so that it might find rest."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      46
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s47",
@@ -2348,21 +2487,24 @@
      "en": [
       {
        "t": "v",
+       "n": 47,
        "l": [
         "Longer than all",
-        "was that one night",
-        "when I lay stiff on the straw;",
-        "then that is shown",
-        "which God said,",
-        "that man is the same as earth."
+        "was that one night,",
+        "when stiff on my straw I lay;",
+        "then becomes manifest",
+        "the divine word:",
+        "\"Man is the same as earth.\""
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      47
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s48",
@@ -2398,21 +2540,24 @@
      "en": [
       {
        "t": "v",
+       "n": 48,
        "l": [
-        "May he weigh it and know,",
-        "the creator God,",
-        "who made earth and heaven,",
-        "how forlorn",
-        "many depart,",
-        "though they part from their kin [?]."
+        "The Creator God can",
+        "it estimate and know,",
+        "(He who made heaven and earth)",
+        "how forsaken",
+        "many go hence,",
+        "although from kindred parted."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      48
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s49",
@@ -2448,21 +2593,24 @@
      "en": [
       {
        "t": "v",
+       "n": 49,
        "l": [
-        "Of his own works",
-        "each man has the profit;",
-        "blessed is he who does good;",
-        "away from wealth",
-        "was allotted to me",
-        "a bed strewn with sand."
+        "Of his works",
+        "each has the reward:",
+        "happy is he who does good.",
+        "Of my wealth bereft,",
+        "to me was destined",
+        "a bed strewed with sand."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      49
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s50",
@@ -2498,21 +2646,24 @@
      "en": [
       {
        "t": "v",
+       "n": 50,
        "l": [
-        "The hunger of the flesh",
-        "often lures men,",
-        "many have too much of it;",
-        "the water of the bath",
-        "was to me most hateful,",
-        "alone of all things."
+        "Bodily desires",
+        "men oftentimes seduce,",
+        "of them has many a one too much:",
+        "water of baths",
+        "was of all things to me",
+        "most loathsome."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      50
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s51",
@@ -2548,21 +2699,24 @@
      "en": [
       {
        "t": "v",
+       "n": 51,
        "l": [
-        "On the norns' seat",
-        "I sat nine days,",
-        "from there I was lifted onto a horse;",
-        "the giantess's suns",
+        "In the Norns' seat",
+        "nine days I sat,",
+        "thence I was mounted on a horse:",
+        "there the giantess's sun",
         "shone grimly",
-        "from the clouds of Skýdrúpnir [cloud-dripper] [?]."
+        "through the dripping clouds of heaven."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      51
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s52",
@@ -2598,21 +2752,24 @@
      "en": [
       {
        "t": "v",
+       "n": 52,
        "l": [
-        "Outside and inside",
-        "I seemed to travel through all",
-        "the seven worlds of victory;",
-        "up and down",
-        "I sought a higher way,",
-        "where the paths might be clearest for me."
+        "Without and within,",
+        "I seemed to traverse all",
+        "the seven nether worlds:",
+        "up and down,",
+        "I sought an easier way,",
+        "where I might have the readiest paths."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      52
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s53",
@@ -2648,21 +2805,24 @@
      "en": [
       {
        "t": "v",
+       "n": 53,
        "l": [
-        "Of this is to tell,",
-        "what I first saw",
-        "when I had come into the worlds of torment:",
+        "Of that is to be told,",
+        "which I first saw,",
+        "when I to the worlds of torment came:-",
         "scorched birds,",
         "which were souls,",
-        "flew, as many as midges."
+        "flew numerous as flies."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      53
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s54",
@@ -2698,21 +2858,24 @@
      "en": [
       {
        "t": "v",
+       "n": 54,
        "l": [
         "From the west I saw",
-        "Ván's dragons [?] fly,",
-        "and they fell on the path of the glow-ruler [?];",
-        "their wings they shook,",
-        "so that, it seemed to me, far and wide",
-        "earth and heaven burst."
+        "Von's dragons fly,",
+        "and Glæval's paths obscure:",
+        "their wings they shook;",
+        "wide around me seemed",
+        "the earth and heaven to burst."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      54
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s55",
@@ -2748,21 +2911,24 @@
      "en": [
       {
        "t": "v",
+       "n": 55,
        "l": [
-        "The sun's hart",
-        "I saw coming from the south,",
-        "two together led it;",
-        "its feet",
-        "stood on the earth,",
-        "but its horns reached up to heaven."
+        "The sun's hart I saw",
+        "from the south coming,",
+        "he was by two together led:",
+        "his feet stood on the earth,",
+        "but his horns",
+        "reached up to heaven."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      55
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s56",
@@ -2798,21 +2964,24 @@
      "en": [
       {
        "t": "v",
+       "n": 56,
        "l": [
-        "From the north I saw",
-        "the sons of kinsmen [?] ride,",
-        "and they were seven together;",
-        "from full horns",
-        "they drank the pure mead",
-        "from the well of Baugreginn [?]."
+        "From the north riding I saw",
+        "the sons of Nidi,",
+        "they were seven in all:",
+        "from full horns,",
+        "the pure mead they drank",
+        "from the heaven-god's well."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      56
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s57",
@@ -2848,21 +3017,24 @@
      "en": [
       {
        "t": "v",
+       "n": 57,
        "l": [
-        "The wind fell silent,",
-        "the waters stopped,",
-        "then I heard a grim din;",
-        "for their men",
-        "women with shifting faces [?]",
+        "The wind was silent,",
+        "the waters stopped their course;",
+        "then I heard a doleful sound:",
+        "for their husbands",
+        "false-faced women",
         "ground earth for food."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      57
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s58",
@@ -2898,21 +3070,24 @@
      "en": [
       {
        "t": "v",
+       "n": 58,
        "l": [
-        "Bloody stones",
+        "Gory stones",
         "those dark women",
-        "dragged gloomily;",
-        "bloody hearts",
-        "hung outside on their breasts,",
-        "weary with great grief."
+        "turned sorrowfully;",
+        "bleeding hearts hung",
+        "out of their breasts,",
+        "faint with much affliction."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      58
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s59",
@@ -2948,21 +3123,24 @@
      "en": [
       {
        "t": "v",
+       "n": 59,
        "l": [
-        "Many a man",
-        "I saw going wounded",
-        "on those glowing paths;",
-        "their faces",
-        "all seemed to me to be",
-        "reddened with a giantess's [?] blood."
+        "Many a man I saw",
+        "wounded go",
+        "on those gleed-strewed paths;",
+        "their faces seemed",
+        "to me all reddened",
+        "with reeking blood."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      59
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s60",
@@ -2998,21 +3176,24 @@
      "en": [
       {
        "t": "v",
+       "n": 60,
        "l": [
-        "Many men",
-        "I saw gone into the earth,",
-        "who could not receive the sacrament;",
+        "Many men I saw",
+        "to earth gone down,",
+        "who holy service might not have;",
         "heathen stars",
         "stood above their heads,",
-        "painted with baleful staves."
+        "painted with deadly characters."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      60
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s61",
@@ -3048,21 +3229,24 @@
      "en": [
       {
        "t": "v",
+       "n": 61,
        "l": [
-        "Men I saw then",
-        "who greatly nurse",
-        "envy of another's fortune;",
+        "I saw those men",
+        "who much envy harbour",
+        "at another's fortune;",
         "bloody runes",
-        "were on their breasts,",
-        "painfully marked."
+        "were on their breasts",
+        "graved painfully."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      61
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s62",
@@ -3098,21 +3282,24 @@
      "en": [
       {
        "t": "v",
+       "n": 62,
        "l": [
-        "Men I saw there,",
-        "many, joyless,",
-        "they had lost their way;",
-        "that is what he buys",
-        "who by this world",
-        "is made a fool, to his misfortune."
+        "I there saw men",
+        "many not joyful;",
+        "they were all wandering wild:",
+        "this he earns,",
+        "who by this world's vices",
+        "is infatuated."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      62
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s63",
@@ -3148,21 +3335,24 @@
      "en": [
       {
        "t": "v",
+       "n": 63,
        "l": [
-        "Men I saw then",
-        "who with many tricks",
-        "schemed for another's property;",
-        "in flocks they went",
-        "to Fégjarnsborg [Greedy-for-Wealth Castle]",
-        "and carried burdens of lead."
+        "I saw those men",
+        "who had in various ways",
+        "acquired other's property:",
+        "in shoals they went",
+        "to Castle-covetous,",
+        "and burthens bore of lead."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      63
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s64",
@@ -3198,21 +3388,24 @@
      "en": [
       {
        "t": "v",
+       "n": 64,
        "l": [
-        "Men I saw then",
-        "who had robbed many",
-        "of wealth and life;",
+        "I saw those men",
+        "who many had",
+        "of life and property bereft:",
         "through the breasts",
-        "of those men ran",
-        "mighty venom-dragons."
+        "of those men passed",
+        "strong venomous serpents."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      64
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s65",
@@ -3248,21 +3441,24 @@
      "en": [
       {
        "t": "v",
+       "n": 65,
        "l": [
-        "Men I saw then",
-        "who least wished",
-        "to keep the holy days;",
-        "their hands",
-        "were on hot stones",
-        "cruelly nailed."
+        "I saw those men",
+        "who the holy days",
+        "would not observe:",
+        "their hands were",
+        "on hot stones",
+        "firmly nailed."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      65
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s66",
@@ -3298,21 +3494,24 @@
      "en": [
       {
        "t": "v",
+       "n": 66,
        "l": [
-        "Men I saw then",
-        "who out of arrogance",
-        "esteemed themselves beyond measure;",
-        "their clothes",
-        "were strangely",
-        "wrapped in fire."
+        "I saw those men",
+        "who from pride",
+        "valued themselves too highly;",
+        "their garments",
+        "ludicrously were",
+        "in fire enveloped."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      66
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s67",
@@ -3348,21 +3547,24 @@
      "en": [
       {
        "t": "v",
+       "n": 67,
        "l": [
-        "Men I saw then",
-        "who had told many",
-        "lies about another;",
+        "I saw those men",
+        "who had many",
+        "false words of others uttered:",
         "Hel's ravens",
         "from their heads",
-        "harshly tore out the eyes."
+        "their eyes miserably tore."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      67
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s68",
@@ -3398,21 +3600,24 @@
      "en": [
       {
        "t": "v",
+       "n": 68,
        "l": [
         "All the horrors",
-        "you cannot know",
-        "which those gone to Hel have;",
-        "sweet sins",
-        "turn into sore penalties;",
-        "ever harm comes after pleasure."
+        "thou wilt not get to know",
+        "which Hel's inmates suffer.",
+        "Pleasant sins",
+        "end in painful penalties:",
+        "pains ever follow pleasure."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      68
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s69",
@@ -3448,21 +3653,24 @@
      "en": [
       {
        "t": "v",
+       "n": 69,
        "l": [
-        "Men I saw then",
-        "who had given much",
-        "according to God's laws;",
-        "pure candles",
-        "were above their heads,",
-        "burning brightly."
+        "I saw those men",
+        "who had much given",
+        "for God's laws;",
+        "pure lights were",
+        "above their heads",
+        "brightly burning."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      69
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s70",
@@ -3498,21 +3706,24 @@
      "en": [
       {
        "t": "v",
+       "n": 70,
        "l": [
-        "Men I saw then",
-        "who with great heart",
-        "gave help to the poor;",
-        "angels read books",
-        "and the writing of hymns,",
-        "holy, above their heads."
+        "I saw those men",
+        "who from exalted mind",
+        "helped the poor to aid:",
+        "angels read",
+        "holy books",
+        "above their heads."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      70
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s71",
@@ -3548,21 +3759,24 @@
      "en": [
       {
        "t": "v",
+       "n": 71,
        "l": [
-        "Men I saw then",
-        "who had greatly",
-        "wasted their flesh with hunger;",
+        "I saw those men",
+        "who with much fasting had",
+        "their bodies wasted:",
         "God's angels",
-        "bowed to all of them;",
+        "bowed before them:",
         "that is the highest joy."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      71
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s72",
@@ -3598,21 +3812,24 @@
      "en": [
       {
        "t": "v",
+       "n": 72,
        "l": [
-        "Men I saw then",
-        "who had",
-        "put food into their mother's mouth;",
-        "their beds",
-        "were on the beams of heaven,",
-        "skilfully placed."
+        "I saw those men",
+        "who had put food",
+        "into their mothers' mouth:",
+        "their couches were",
+        "on the rays of heaven",
+        "pleasantly placed."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      72
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s73",
@@ -3648,21 +3865,24 @@
      "en": [
       {
        "t": "v",
+       "n": 73,
        "l": [
-        "Holy maidens",
-        "had purely",
-        "washed clean of sins the soul",
-        "of those men",
-        "who on many a day",
-        "torment themselves."
+        "Holy virgins",
+        "had cleanly washed",
+        "the souls from sin",
+        "of those men,",
+        "who for a long time had",
+        "themselves tormented."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      73
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s74",
@@ -3698,21 +3918,24 @@
      "en": [
       {
        "t": "v",
+       "n": 74,
        "l": [
-        "High chariots",
-        "I saw travelling in the heavens,",
-        "they have paths to God;",
-        "men steer them",
-        "who have been murdered",
-        "for no reason at all."
+        "Lofty cars I saw",
+        "towards heaven going;",
+        "they were on the way to God:",
+        "men guided them",
+        "who had been murdered",
+        "wholly without crime."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      74
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s75",
@@ -3748,21 +3971,24 @@
      "en": [
       {
        "t": "v",
+       "n": 75,
        "l": [
-        "Mighty Father!",
-        "Most glorious Son!",
-        "Holy Spirit of heaven!",
-        "You I pray to part,",
-        "you who have created,",
-        "all of us from miseries."
+        "Almighty Father!",
+        "greatest Son!",
+        "holy Spirit of heaven!",
+        "Thee I pray,",
+        "who hast us all created;",
+        "free us all from miseries."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      75
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s76",
@@ -3798,22 +4024,25 @@
      "en": [
       {
        "t": "v",
+       "n": 76,
        "l": [
-        "Hringvör and Listvör",
-        "sit at Herðir's doors [?]",
-        "on the seat of the organ [?];",
-        "iron blood [?]",
+        "Biugvör and Listvör",
+        "sit at Herðir´s doors,",
+        "on resounding seat;",
+        "iron gore",
         "falls from their nostrils,",
-        "which wakes enmity among men."
+        "which kindles hate among men."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      76
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
      "head": "IV.",
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s77",
@@ -3849,21 +4078,24 @@
      "en": [
       {
        "t": "v",
+       "n": 77,
        "l": [
-        "Óðinn's wife",
-        "rows on the ship of earth,",
-        "eager for pleasure;",
-        "her sails",
-        "are reefed late,",
-        "which hang on the ropes of desire."
+        "Odin's wife",
+        "rows in earth's ship,",
+        "eager after pleasures;",
+        "her sails are",
+        "reefed late,",
+        "which on the ropes of desire are hung."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      77
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s78",
@@ -3899,21 +4131,24 @@
      "en": [
       {
        "t": "v",
+       "n": 78,
        "l": [
-        "Heir, your father",
-        "alone has interpreted for you,",
-        "and the sons of Sólkatla,",
-        "the hart's horn",
-        "which out of the mound bore",
-        "the wise Vígdvalinn [?]."
+        "Son! I thy father",
+        "and Solkatla's sons",
+        "have alone obtained for thee",
+        "that horn of hart,",
+        "which from the grave-mound bore",
+        "the wise Vigdvalin."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      78
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s79",
@@ -3949,21 +4184,24 @@
      "en": [
       {
        "t": "v",
+       "n": 79,
        "l": [
         "Here are runes",
-        "which have been carved by",
-        "Njörðr's nine daughters:",
-        "Böðveig the eldest",
-        "and Kreppvör the youngest",
+        "which have engraven",
+        "Niörd´s daughters nine,",
+        "Radvör the eldest,",
+        "and the youngest Kreppvör,",
         "and their seven sisters."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      79
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s80",
@@ -3999,21 +4237,24 @@
      "en": [
       {
        "t": "v",
+       "n": 80,
        "l": [
-        "Every evil",
-        "they have done,",
-        "Sváfr and Sváfrlogi;",
-        "blood they roused",
-        "and sucked wounds,",
-        "ever by evil custom."
+        "How much violence",
+        "have they perpetrated",
+        "Svaf and Svaflogi!",
+        "bloodshed they have excited,",
+        "and wounds have sucked,",
+        "after an evil custom."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      80
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s81",
@@ -4049,22 +4290,25 @@
      "en": [
       {
        "t": "v",
+       "n": 81,
        "l": [
-        "This poem,",
-        "which I have taught you,",
-        "you shall recite before the living:",
-        "the Song of the Sun,",
+        "This lay,",
+        "which I have taught thee,",
+        "thou shalt before the living sing,",
+        "the Sun-Song,",
         "which will appear",
-        "in many respects least of all a lie."
+        "in many parts no fiction."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      81
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
      "head": "V.",
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "sol-s82",
@@ -4100,31 +4344,43 @@
      "en": [
       {
        "t": "v",
+       "n": 82,
        "l": [
         "Here we part,",
-        "and we shall meet",
-        "on the day of joy of men;",
-        "may my Lord",
-        "give rest to the dead,",
-        "and mercy to those who live."
+        "but again shall meet",
+        "on the day of men's rejoicing.",
+        "Oh Lord!",
+        "unto the dead grant peace,",
+        "and to the living comfort."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      82
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     }
    ],
-   "notes": [],
-   "en_source": "AI draft",
+   "notes": [
+    {
+     "n": "1",
+     "s": "That is, they engaged in single combat; the spot for such encounters being called a holm, consisting of a circular space marked out by stones."
+    },
+    {
+     "n": "†",
+     "s": "Thorpe's edition has one more stanza at the end (his 83), which Guðni Jónsson's text does not print: Wondrous lore / has in dream to thee been sung, / but thou hast seen the truth: / no man has been / so wise created / that has before heard the Sun-Song."
+    }
+   ],
+   "en_source": "Thorpe 1866",
    "en_missing_note": null
   }
  ],
  "sources": {
   "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Sólarljóð)",
   "is": "automatic modernisation of the Old Norse",
-  "en": null
+  "en": "Benjamin Thorpe, Edda Sæmundar hinns Fróða (1866), via germanicmythology.com (The Song of the Sun (Sólarljóð))"
  }
 }

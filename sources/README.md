@@ -97,3 +97,21 @@ Block shape (`on_*.json`): `{"title", "chapters": [{"num", "title", "blocks": [.
   Guðni Jónsson's Grógaldr + Fjölsvinnsmál; his Hyndluljoth includes Völuspá in skamma; his Fra Dautha
   Sinfjotla is the prose that opens Guðni Jónsson's Grípisspá. His stanza numbering and order differ from
   Guðni Jónsson's in many poems; the pairing is automatic (see edda-site `pipeline/README.md`).
+
+### en/thorpe/ — Sólarljóð and Hrafnagaldr Óðins in English (Thorpe 1866)
+
+| File | What | Produced by |
+| --- | --- | --- |
+| `thorpe04.html`, `thorpe18.html` | the germanicmythology.com transcription of *Edda Sæmundar hinns Fróða* Part I (Odin's Ravens' Song; The Song of the Sun), as fetched 2026-11-01 | fetched |
+| `thorpe_fsl.json`, `thorpe_sol.json` | `{title, source, intro: [...], stanzas: [{n, l: [lines]}], notes: {k: text}}`; footnote references as `⟦k⟧` | `edda-site/pipeline/parse_thorpe.py <html> <json> "<heading>" "<title>"` |
+
+- Edition: Benjamin Thorpe, *Edda Sæmundar hinns Fróða: The Edda of Sæmund the Learned*, Part I, London (Trübner)
+  1866. Public domain (Thorpe died in 1870). Wikisource carries only the Norrœna Society reprint of 1907 (one
+  paragraph per stanza, without Hrafnagaldr), so the line-by-line transcription on germanicmythology.com is the
+  source; The Song of the Sun was checked against the Wikisource text (same wording, Thorpe's 83 stanzas).
+- Thorpe did not translate Gróttasöngr (his Part I has the mythological poems listed on the page, Part II the
+  heroic poems); its English stays Brodeur's stanzas from Skáldskaparmál where Snorri quotes it, else the AI draft.
+- Pairing with Guðni Jónsson's stanzas: by number, one to one (Hrafnagaldr 26 = 26; Sólarljóð 82 = 82, Thorpe's
+  closing stanza 83 has no counterpart and is given as a note). `edda-site/pipeline/fill_thorpe.py` writes the rows
+  (`en_thorpe: true`, source `thorpe-1866` in `aligned/sources.json`); the earlier AI drafts stay in
+  `overlays/en/poetic-ai-draft.json` marked `withdrawn`.

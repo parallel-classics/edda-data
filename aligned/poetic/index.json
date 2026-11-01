@@ -455,7 +455,7 @@
    "file": "al_sol.json",
    "stanzas": 82,
    "rows": 82,
-   "en_rows": 0,
+   "en_rows": 82,
    "low": 0
   },
   {
@@ -465,7 +465,7 @@
    "file": "al_fsl.json",
    "stanzas": 26,
    "rows": 26,
-   "en_rows": 0,
+   "en_rows": 26,
    "low": 0
   }
  ]
