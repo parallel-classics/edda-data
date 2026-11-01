@@ -181,7 +181,7 @@
    "event"
   ],
   "christ": [
-   "character"
+   "other"
   ],
   "q1534414": [
    "animal"
@@ -232,6 +232,135 @@
   ],
   "munin": [
    "animal"
+  ],
+  "gestumblindi": [
+   "god"
+  ],
+  "gripir": [
+   "king"
+  ],
+  "regin": [
+   "dwarf"
+  ],
+  "alviss": [
+   "dwarf"
+  ],
+  "hedin-hjarrandason": [
+   "king"
+  ],
+  "hreidmarr": [
+   "person"
+  ],
+  "skirnir": [
+   "person"
+  ],
+  "loddfafnir": [
+   "person"
+  ],
+  "thjalfi": [
+   "person"
+  ],
+  "surtr": [
+   "giant"
+  ],
+  "vali-2": [
+   "person"
+  ],
+  "hrimgerdr": [
+   "giant"
+  ],
+  "eldir": [
+   "person"
+  ],
+  "groa": [
+   "person"
+  ],
+  "hjordis": [
+   "hero"
+  ],
+  "kostbera": [
+   "hero"
+  ],
+  "thrudr": [
+   "goddess"
+  ],
+  "bil": [
+   "goddess"
+  ],
+  "byleistr": [
+   "giant"
+  ],
+  "slagfidr": [
+   "hero"
+  ],
+  "bergelmir": [
+   "giant"
+  ],
+  "brokkr": [
+   "dwarf"
+  ],
+  "durinn": [
+   "dwarf"
+  ],
+  "saehrimnir": [
+   "animal"
+  ],
+  "beyla": [
+   "person"
+  ],
+  "blodughadda": [
+   "giant"
+  ],
+  "bylgja": [
+   "giant"
+  ],
+  "dufa": [
+   "giant"
+  ],
+  "hefring": [
+   "giant"
+  ],
+  "helblindi": [
+   "person"
+  ],
+  "ivaldi": [
+   "dwarf"
+  ],
+  "mundilfari": [
+   "person"
+  ],
+  "nari": [
+   "person"
+  ],
+  "roskva": [
+   "person"
+  ],
+  "sindri": [
+   "dwarf"
+  ],
+  "embla": [
+   "person"
+  ],
+  "naglfari": [
+   "giant"
+  ],
+  "byggvir": [
+   "person"
+  ],
+  "eistla": [
+   "giant"
+  ],
+  "erna": [
+   "person"
+  ],
+  "fjolvar": [
+   "person"
+  ],
+  "gullveig": [
+   "giant"
+  ],
+  "leikn": [
+   "giant"
   ]
  },
  "extra": [
@@ -270,7 +399,7 @@
    "tags": [
     "hero"
    ],
-   "wikidata": null,
+   "wikidata": "Q130604152",
    "names": {
     "on": "Helgi Hjörvarðsson",
     "en": "Helgi Hjorvardsson",
@@ -300,7 +429,7 @@
    "tags": [
     "poet"
    ],
-   "wikidata": null,
+   "wikidata": "Q1657412",
    "names": {
     "on": "Óttarr svarti",
     "en": "Ottar the Black",
@@ -315,7 +444,7 @@
    "tags": [
     "valkyrie"
    ],
-   "wikidata": null,
+   "wikidata": "Q1115537",
    "names": {
     "on": "Hervör alvitr",
     "en": "Hervor Alvitr",
@@ -330,7 +459,7 @@
    "tags": [
     "poet"
    ],
-   "wikidata": null,
+   "wikidata": "Q314454",
    "names": {
     "on": "Egill Skallagrímsson",
     "en": "Egil Skallagrimsson",
@@ -345,7 +474,7 @@
    "tags": [
     "poet"
    ],
-   "wikidata": null,
+   "wikidata": "Q1780519",
    "names": {
     "on": "Einarr skálaglamm",
     "en": "Einar Skalaglamm",
@@ -360,7 +489,7 @@
    "tags": [
     "poet"
    ],
-   "wikidata": null,
+   "wikidata": "Q6212022",
    "names": {
     "on": "Þjóðólfr Arnórsson",
     "en": "Thjodolf Arnorsson",
@@ -502,7 +631,8 @@
    },
    "forms": {
     "Máni": 1,
-    "Mána": 1
+    "Mána": 1,
+    "Manar": 1
    },
    "notes": [
     "asked for by the curator 2026-11-01; no clean Wikidata item"
@@ -511,8 +641,8 @@
   {
    "id": "hel",
    "tags": [
-    "place_myth",
-    "goddess"
+    "goddess",
+    "place_myth"
    ],
    "wikidata": "Q131287",
    "names": {
@@ -594,15 +724,6 @@
     "hlk": "ok",
     "*": "check"
    },
-   "Þóru": {
-    "*": "skip"
-   },
-   "Þóri": {
-    "*": "skip"
-   },
-   "Buðla": {
-    "*": "budli"
-   },
    "Hati": {
     "hhv": "hati-giant",
     "*": "hati"
@@ -617,8 +738,8 @@
     "*": "ok",
     "hh1": "hogni-sigrunar",
     "hh2": "hogni-sigrunar",
-    "hdl": "check",
-    "s-c62": "check"
+    "hdl": "hogni-hildar",
+    "s-c62": "hogni-hildar"
    },
    "etzel": {
     "*": "ok",
@@ -656,11 +777,6 @@
     "hjk": "ok",
     "*": "check"
    },
-   "ottarr": {
-    "hdl": "ottar",
-    "s": "ottarr-svarti",
-    "*": "check"
-   },
    "hervor": {
     "hvk": "ok",
     "hlk": "ok",
@@ -682,6 +798,54 @@
    },
    "goths": {
     "*": "ok"
+   },
+   "konr": {
+    "rth": "ok",
+    "*": "skip"
+   },
+   "edda-rigsthula": {
+    "rth": "ok",
+    "*": "skip"
+   },
+   "amma": {
+    "rth": "ok",
+    "*": "skip"
+   },
+   "modir": {
+    "rth": "ok",
+    "*": "skip"
+   },
+   "afi": {
+    "rth": "ok",
+    "*": "skip"
+   },
+   "fadir": {
+    "rth": "ok",
+    "*": "skip"
+   },
+   "lyngvi": {
+    "rm": "lyngvi-hundingsson",
+    "*": "ok"
+   },
+   "hronn": {
+    "grm": "hronn-river",
+    "*": "ok"
+   },
+   "dagr": {
+    "hh2": "dagr-hognason",
+    "*": "ok"
+   },
+   "ormr-steinthorsson": {
+    "s": "check",
+    "*": "skip"
+   },
+   "gotland": {
+    "*": "ok"
+   },
+   "ottar": {
+    "hdl": "ok",
+    "s": "ottarr-svarti",
+    "*": "check"
    }
   },
   "near": {
@@ -693,6 +857,9 @@
     "Arnórsson": "thjodolfr-arnorsson",
     "Hvini": "thjodolfr",
     "hvinverski": "thjodolfr"
+   },
+   "ormr-steinthorsson": {
+    "Steinþórsson": "ormr-steinthorsson"
    }
   }
  },

@@ -12,16 +12,6 @@
    },
    "description": "Norwegian county"
   },
-  "asia": {
-   "wikidata": "Q48",
-   "lat": 43.6811,
-   "lon": 87.3311,
-   "label": {
-    "en": "Asia",
-    "is": "Asía"
-   },
-   "description": "part of terrestrial continent, mainly in the northeastern quadrant"
-  },
   "denmark": {
    "wikidata": "Q35",
    "lat": 56,
@@ -43,14 +33,14 @@
    "description": "country in north-west Europe, part of the United Kingdom"
   },
   "frankland": {
-   "wikidata": "Q142",
-   "lat": 47,
-   "lon": 2,
+   "wikidata": "Q146246",
+   "lat": 49.0,
+   "lon": 3.0,
    "label": {
-    "en": "France",
-    "is": "Frakkland"
+    "en": "Francia"
    },
-   "description": "country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania)"
+   "description": "Francia (Q146246) has no coordinates on Wikidata: hand point, approximate",
+   "approximate": true
   },
   "fyrisvellir": {
    "wikidata": "Q2540394",
@@ -60,16 +50,6 @@
     "en": "Fyrisvellir"
    },
    "description": "Marshy plain near the Temple at Uppsala"
-  },
-  "gotland": {
-   "wikidata": "Q1027830",
-   "lat": 57.5,
-   "lon": 18.55,
-   "label": {
-    "en": "Gotland",
-    "is": "Gotland"
-   },
-   "description": "island and historical province in Sweden"
   },
   "jalangrsheidr": {
    "wikidata": "Q835708",
@@ -101,14 +81,14 @@
    "description": "river in Western Europe to the North Sea"
   },
   "saxony": {
-   "wikidata": "Q1202",
-   "lat": 51.0269,
-   "lon": 13.3589,
+   "wikidata": "Q3057629",
+   "lat": 52.5,
+   "lon": 9.0,
    "label": {
-    "en": "Saxony",
-    "is": "Saxland"
+    "en": "Old Saxony"
    },
-   "description": "federated state of Germany"
+   "description": "Old Saxony (Q3057629) has no coordinates on Wikidata: hand point, approximate",
+   "approximate": true
   },
   "sweden": {
    "wikidata": "Q34",
@@ -171,7 +151,9 @@
   }
  },
  "without": {
+  "asia": "Snorri's Ásía has no fixed place: the item is kept, no marker",
   "austrvegr": "the eastern way, a direction rather than a place",
+  "gotland": "no marker: in the heroic poems Gotland is the land of the Goths, not the island (to split if both senses occur)",
   "hunaland": "legendary land of the Huns, no fixed location",
   "nordrlond": "the Northern lands, a region",
   "reidgotaland": "legendary land of the Goths, no fixed location"

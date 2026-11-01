@@ -4,6 +4,17 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 ## Unreleased
 
+- Names: the curator's seed patch of 2026-11-01 applied (`entities/seed.json`, `rules.json`, `places.json`): 54 entities
+  added or completed for the recall gap (Þrymr, Nótt, Dagr, Fulla, Baugi, Logi, Hugi, Elli, Geri, Gramr, Greip, Vanir,
+  Dökkálfar, the Rígsþula family, the sky dwarves, horses, rivers, …), forms added to 20 entities, Högni split into
+  Gjúkason / father of Hildr / father of Sigrún, Óttarr merged into `ottar`, Grímnir folded into Óðinn's heiti, Buðla
+  and Hjaðningar moved, Þóru/Þóri dropped from Þórr, Wikidata ids for the rule-made entities, tag `person` (persóna)
+  replaces the placeholder `character` and `other` is added (46 tag overrides), Sköll's headword fixed. Places:
+  Francia and Old Saxony as hand points (approximate), Asia and Gotland without a marker. Regenerated: entities 598
+  (was 553), Old Norse mentions 6182 (was 5900), flagged `check` 137 (was 141); recall on the 200-token sample 85% (was
+  81%). Wikidata labels lose their disambiguators ("Forseti (norræn goðafræði)") and the nnwiki "Gudinna" prefix.
+  Validator: tag vocabulary updated, `skip` allowed as an entity-rule target.
+
 - Automatic Icelandic of Formáli, Skáldskaparmál and Háttatal regenerated with the guarded moderniser (edda-site
   task 12, 2026-11-01): `auto/is_{prol,skald,hatt}_auto.json` and the `is` cells of `aligned/al_{prol,skald,hatt}.json`;
   11 cells change (`konar` no longer becomes `allskonar`, `men` no longer `en`, `byggðir` no longer `ásabyggðir`,

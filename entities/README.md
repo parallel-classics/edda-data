@@ -15,7 +15,7 @@ Everything here is status `auto` (automatic identification, not reviewed) until 
 | `rules.json` | by hand (Claude Code) | tag overrides; extra entities that ambiguity rules point at; ambiguity rules per entity or form scoped by poem, part, chapter or row (`ok`, `check`, an entity id, `skip` for a form, or `{prose, verse}`); bynames in the same row (`near`); the name-list sections (`lists`); translator spellings |
 | `notable.json` | by hand (Grigory's list, 2026-11-01) | ids that get a first-appearance card even with fewer than three narrative mentions |
 | `images.json` | `make_entities.py images` | Commons `extmetadata` for every image candidate: licence, author, credit, date, size, page URL, 480 px thumbnail URL, `ok` when the licence is PD / CC0 / CC BY / CC BY-SA (never NC or ND) |
-| `places.json` | by hand (Claude Code, 2026-11-01; for the curator to review) | the Wikidata item each real place stands for (`wikidata`; `search` is resolved and pinned by the `coords` stage; null = no fixed location) with a note |
+| `places.json` | by hand (Claude Code, 2026-11-01; reviewed by the curator 2026-11-01) | the Wikidata item each real place stands for (`wikidata`; `search` is resolved and pinned by the `coords` stage; null = no fixed location; `lat`/`lon` = a hand point for an item without coordinates, marked approximate; `marker: false` = item kept, no marker) with a note |
 | `coords.json` | `make_entities.py coords` | coordinates (Wikidata P625, CC0) of the real places: Wikidata id, lat, lon, label, description; `without` lists the places that have none and why |
 | `img/` + `img/index.json` | `make_entities.py thumbs` | the accepted picture of every entity, resized (longest side 480 px, JPEG) from the Commons thumbnail, one file per entity id; the index carries source file, licence, licence URL, artist, Commons page, width, height |
 | `entities.json` | `make_entities.py detect` | one record per entity (below) plus the tag vocabulary with English and Icelandic labels |
@@ -41,7 +41,9 @@ Generated files are regenerated, never edited (COORDINATION rule 5: rerun, do no
 - `id`: ASCII slug, stable forever (same rule as row ids). The seed's ids are the permanent ids.
 - `tags`: from the vocabulary (first = main; `type` = `tags[0]`): god, goddess, giant, dwarf, elf, valkyrie, norn,
   hero, king, poet, animal, horse, monster, object, place_myth, place_real, river, hall, people, poem, event;
-  `character` is a placeholder for seed entries whose description gives no better tag (listed in `report.md`).
+  `person` is a named person who is no hero, king or poet (Þjálfi, Skírnir, the Rígsþula family); `other` is for
+  the one entity outside the vocabulary (Christ). A seed record may carry its own `tags` (curated); rules.json
+  `tags` overrides both.
 - `names`: Wikidata labels (CC0) plus `on` where the curator set it. `desc`: the Wikidata description (CC0).
 - `image`: the first candidate whose Commons licence passed (`images.json`); null otherwise. The local resized copy
   is `img/<id>.jpg` (task 16d), the website serves it as `img/names/<id>.jpg`.

@@ -1,5 +1,5 @@
 {
- "_note": "Curated seed for Open Edda names (task 16a). Generated 2026-11-01 by the cloud session from Wikidata (CC0) and the Old Norse text; status auto until reviewed. forms = attested Old Norse surface forms with counts; heiti = forms that are other names/kennings of the entity.",
+ "_note": "Curated seed for Open Edda names (task 16a). Generated 2026-11-01 by the cloud session from Wikidata (CC0) and the Old Norse text; status auto until reviewed. forms = attested Old Norse surface forms with counts; heiti = forms that are other names/kennings of the entity. Records may carry `tags` (curated; the pipeline uses them before deriving tags from type and description). Seed patch of 2026-11-01 applied (see CHANGELOG).",
  "entities": [
   {
    "id": "odin",
@@ -130,7 +130,16 @@
     "Svipall": "heiti",
     "Báleygr": "heiti",
     "Síðskeggr": "heiti",
-    "Farmatýr": "heiti"
+    "Farmatýr": "heiti",
+    "Þriði": "heiti",
+    "Hroftr": "heiti",
+    "Grímr": "heiti",
+    "Viðrir": "heiti",
+    "Hárs": "heiti",
+    "Háva": "heiti",
+    "Grímnir": "heiti",
+    "Grímnis": "heiti",
+    "Grímni": "heiti"
    },
    "status": "auto",
    "notes": [],
@@ -177,10 +186,8 @@
     "Ása-þórr": 1,
     "Ása-Þór": 2,
     "Ása-þór": 1,
-    "Þóri": 1,
     "Hlórriða": 9,
     "Hlórriði": 2,
-    "Þóru": 3,
     "Þórir": 1
    },
    "heiti": {
@@ -374,12 +381,13 @@
   {
    "id": "hogni",
    "type": "human",
-   "wikidata": "Q139554131",
+   "wikidata": null,
    "names": {
-    "en": "Högni"
+    "on": "Högni",
+    "en": "Hogni Gjukason"
    },
    "desc": {
-    "en": "king in Norse mythology and the father of Hild"
+    "en": "Gjúki's son, brother of Gunnarr and Guðrún"
    },
    "image": [],
    "coords": [],
@@ -390,7 +398,9 @@
    },
    "heiti": {},
    "status": "auto",
-   "notes": [],
+   "notes": [
+    "split 2026-11-01: father of Hildr -> hogni-hildar (s-c62, hdl), father of Sigrún -> hogni-sigrunar (hh1, hh2)"
+   ],
    "mentions": 99,
    "first": {
     "snorri": "s-c48-2",
@@ -450,7 +460,8 @@
    "forms": {
     "Gunnarr": 56,
     "Gunnari": 13,
-    "Gunnars": 9
+    "Gunnars": 9,
+    "Gunnar": 1
    },
    "heiti": {},
    "status": "auto",
@@ -485,7 +496,9 @@
    },
    "heiti": {},
    "status": "auto",
-   "notes": [],
+   "notes": [
+    "Gestumblindi is Óðinn in disguise (Heiðreks gátur); kept as its own entity, tagged god"
+   ],
    "mentions": 78,
    "first": {
     "poetic": "heid-p1"
@@ -701,7 +714,9 @@
     "nowiki": "Gylve"
    },
    "forms": {
-    "Gangleri": 57
+    "Gangleri": 57,
+    "Gylfa": 1,
+    "Gylfi": 1
    },
    "heiti": {},
    "status": "auto",
@@ -949,7 +964,8 @@
    },
    "forms": {
     "Reginn": 37,
-    "Regins": 5
+    "Regins": 5,
+    "Regin": 1
    },
    "heiti": {},
    "status": "auto",
@@ -1123,9 +1139,12 @@
    },
    "forms": {
     "Ægir": 15,
-    "Ægis": 25
+    "Ægis": 25,
+    "Ægi": 1
    },
-   "heiti": {},
+   "heiti": {
+    "Hlér": "heiti"
+   },
    "status": "auto",
    "notes": [],
    "mentions": 40,
@@ -1786,7 +1805,8 @@
    "forms": {
     "Fróða": 20,
     "Fróðafrið": 2,
-    "Fróðafriðr": 2
+    "Fróðafriðr": 2,
+    "Fróði": 1
    },
    "heiti": {
     "Fróðafrið": "kenning",
@@ -1800,32 +1820,6 @@
    "first": {
     "snorri": "p-c4-1",
     "poetic": "grt-p1"
-   }
-  },
-  {
-   "id": "ottarr",
-   "type": "human",
-   "wikidata": null,
-   "names": {
-    "on": "Óttarr",
-    "en": "Ottar"
-   },
-   "desc": {},
-   "image": [],
-   "coords": [],
-   "wiki": {},
-   "forms": {
-    "Óttarr": 24
-   },
-   "heiti": {},
-   "status": "auto",
-   "notes": [
-    "amb: Óttarr heimski (Hyndluljóð) / Óttarr svarti (skald)"
-   ],
-   "mentions": 24,
-   "first": {
-    "snorri": "s-c57-1",
-    "poetic": "hdl-s9"
    }
   },
   {
@@ -1946,7 +1940,8 @@
    },
    "forms": {
     "Valhöll": 15,
-    "Valhallar": 7
+    "Valhallar": 7,
+    "Valhöllu": 1
    },
    "heiti": {},
    "status": "auto",
@@ -2006,7 +2001,8 @@
     "Goðþjóðar": 3,
     "Goðþjóðu": 3,
     "Gotar": 5,
-    "Goðþjóð": 1
+    "Goðþjóð": 1,
+    "Gotna": 1
    },
    "heiti": {},
    "status": "auto",
@@ -2261,7 +2257,8 @@
    },
    "forms": {
     "Skaði": 19,
-    "Öndurdísar": 1
+    "Öndurdísar": 1,
+    "Skaða": 1
    },
    "heiti": {},
    "status": "auto",
@@ -2420,8 +2417,7 @@
    "coords": [],
    "wiki": {},
    "forms": {
-    "Buðlungar": 1,
-    "Buðla": 18
+    "Buðlungar": 1
    },
    "heiti": {},
    "status": "auto",
@@ -2594,7 +2590,8 @@
    "forms": {
     "Hrólfr": 9,
     "Hrólfs": 3,
-    "Hrólfi": 6
+    "Hrólfi": 6,
+    "Kraka": 1
    },
    "heiti": {},
    "status": "auto",
@@ -3036,7 +3033,8 @@
    },
    "forms": {
     "Egill": 13,
-    "Skalla-Grímsson": 3
+    "Skalla-Grímsson": 3,
+    "Egils": 1
    },
    "heiti": {},
    "status": "auto",
@@ -4855,36 +4853,6 @@
    }
   },
   {
-   "id": "grimnir",
-   "type": "character",
-   "wikidata": "Q1262034",
-   "names": {
-    "de": "Grimnir",
-    "en": "Grímnir"
-   },
-   "desc": {
-    "en": "name used by Odin in Grímnismál"
-   },
-   "image": [],
-   "coords": [],
-   "wiki": {
-    "dewiki": "Grimnir"
-   },
-   "forms": {
-    "Grímnir": 4,
-    "Grímnis": 2,
-    "Grímni": 3
-   },
-   "heiti": {},
-   "status": "auto",
-   "notes": [],
-   "mentions": 9,
-   "first": {
-    "snorri": "g-c20-8",
-    "poetic": "grm-p1"
-   }
-  },
-  {
    "id": "gymir",
    "type": "giant",
    "wikidata": "Q1380165",
@@ -4910,7 +4878,8 @@
     "dewiki": "Gymir"
    },
    "forms": {
-    "Gymis": 9
+    "Gymis": 9,
+    "Gymir": 1
    },
    "heiti": {},
    "status": "auto",
@@ -5365,7 +5334,8 @@
    },
    "forms": {
     "Ránar": 7,
-    "Rani": 1
+    "Rani": 1,
+    "Rán": 1
    },
    "heiti": {},
    "status": "auto",
@@ -6057,7 +6027,8 @@
    "wiki": {},
    "forms": {
     "Einherjum": 3,
-    "Einherja": 4
+    "Einherja": 4,
+    "Einherjar": 1
    },
    "heiti": {},
    "status": "auto",
@@ -6737,9 +6708,7 @@
     "ruwiki": "Битва Хьяднингов"
    },
    "forms": {
-    "Hjaðninga": 4,
-    "Hjaðningavíg": 1,
-    "Hjaðningar": 1
+    "Hjaðningavíg": 1
    },
    "heiti": {},
    "status": "auto",
@@ -8904,7 +8873,8 @@
     "nowiki": "Magne (norrøn mytologi)"
    },
    "forms": {
-    "Magna": 4
+    "Magna": 4,
+    "Magni": 1
    },
    "heiti": {},
    "status": "auto",
@@ -8913,7 +8883,10 @@
    "first": {
     "snorri": "s-c11-1",
     "poetic": "hrbl-s9"
-   }
+   },
+   "tags": [
+    "god"
+   ]
   },
   {
    "id": "gullfaxi",
@@ -9051,7 +9024,8 @@
    "coords": [],
    "wiki": {},
    "forms": {
-    "Buðli": 4
+    "Buðli": 4,
+    "Buðla": 18
    },
    "heiti": {},
    "status": "auto",
@@ -9701,7 +9675,10 @@
    },
    "forms": {
     "Hlöðynjar": 2,
-    "Hlóðynjar": 1
+    "Hlóðynjar": 1,
+    "Jörð": 1,
+    "Jarðar": 1,
+    "Jörðu": 1
    },
    "heiti": {
     "Hlöðynjar": "heiti",
@@ -10923,16 +10900,22 @@
    "coords": [],
    "wiki": {},
    "forms": {
-    "Menju": 3
+    "Menju": 3,
+    "Menja": 1
    },
    "heiti": {},
    "status": "auto",
-   "notes": [],
+   "notes": [
+    "with Fenja (Grottasöngr)"
+   ],
    "mentions": 3,
    "first": {
     "snorri": "s-c52-6",
     "poetic": "grt-p1"
-   }
+   },
+   "tags": [
+    "giant"
+   ]
   },
   {
    "id": "myrkvidr",
@@ -10957,7 +10940,9 @@
    },
    "forms": {
     "Myrkviðar": 2,
-    "Myrkviðr": 1
+    "Myrkviðr": 1,
+    "Myrkvið": 1,
+    "Myrkviði": 1
    },
    "heiti": {},
    "status": "auto",
@@ -10965,7 +10950,10 @@
    "mentions": 3,
    "first": {
     "poetic": "hh1-s51"
-   }
+   },
+   "tags": [
+    "place (myth)"
+   ]
   },
   {
    "id": "valland",
@@ -11917,12 +11905,13 @@
    "wikidata": "Q738737",
    "names": {
     "ru": "Сколь",
-    "en": "Sköll",
+    "en": "Skoll",
     "de": "Skalli",
     "sv": "Skoll",
     "da": "Skoll",
     "nb": "Sköll",
-    "is": "Skoll og Hati"
+    "is": "Sköll",
+    "on": "Sköll"
    },
    "desc": {
     "en": "animal in Norse mythology"
@@ -11939,7 +11928,8 @@
    },
    "forms": {
     "Skoll": 1,
-    "Skalli": 1
+    "Skalli": 1,
+    "Sköll": 1
    },
    "heiti": {},
    "status": "auto",
@@ -12859,11 +12849,11 @@
    "type": "character",
    "wikidata": "Q2449577",
    "names": {
-    "en": "Óttar",
-    "ru": "Оттар (мифология)"
+    "on": "Óttarr",
+    "en": "Ottar"
    },
    "desc": {
-    "en": "in Norse mythology, the protégé of Freya, and the subject of the Lay of Hyndla"
+    "en": "Óttarr heimski, Freyja's protégé in Hyndluljóð"
    },
    "image": [],
    "coords": [],
@@ -12872,7 +12862,8 @@
     "ruwiki": "Оттар (мифология)"
    },
    "forms": {
-    "Óttari": 2
+    "Óttari": 2,
+    "Óttarr": 24
    },
    "heiti": {},
    "status": "auto",
@@ -16066,15 +16057,22 @@
     "nowiki": "Freke"
    },
    "forms": {
-    "Frekar": 1
+    "Frekar": 1,
+    "Freki": 1,
+    "Freka": 1
    },
    "heiti": {},
    "status": "auto",
-   "notes": [],
+   "notes": [
+    "in kennings Freki = wolf generally; still link"
+   ],
    "mentions": 1,
    "first": {
     "poetic": "hdl-s18"
-   }
+   },
+   "tags": [
+    "animal"
+   ]
   },
   {
    "id": "kari",
@@ -16282,7 +16280,8 @@
     "dewiki": "Byggvir"
    },
    "forms": {
-    "Byggvis": 1
+    "Byggvis": 1,
+    "Byggvir": 1
    },
    "heiti": {},
    "status": "auto",
@@ -16290,7 +16289,10 @@
    "mentions": 1,
    "first": {
     "poetic": "ls-s56"
-   }
+   },
+   "tags": [
+    "person"
+   ]
   },
   {
    "id": "vadgelmir",
@@ -16423,7 +16425,10 @@
    "mentions": 1,
    "first": {
     "poetic": "vsk-s8"
-   }
+   },
+   "tags": [
+    "giant"
+   ]
   },
   {
    "id": "angrboda",
@@ -16597,6 +16602,1304 @@
    "first": {
     "poetic": "vsp-s21"
    }
+  },
+  {
+   "id": "thrymr",
+   "type": "giant",
+   "tags": [
+    "giant"
+   ],
+   "wikidata": "Q1123905",
+   "names": {
+    "on": "Þrymr",
+    "en": "Thrym"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Þrymr": 1,
+    "Þrym": 1,
+    "Þryms": 1,
+    "Þrymi": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "nott",
+   "type": "goddess",
+   "tags": [
+    "goddess"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Nótt",
+    "en": "Night"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Nótt": 1,
+    "Nóttar": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "personified Night (Gylfaginning 10, Vafþrúðnismál 25); link only capitalised mid-sentence",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "dagr",
+   "type": "god",
+   "tags": [
+    "god"
+   ],
+   "wikidata": "Q1136295",
+   "names": {
+    "on": "Dagr",
+    "en": "Day"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Dagr": 1,
+    "Dag": 1,
+    "Dags": 1,
+    "Degi": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "personified Day; also Dagr Högnason (Helgakviða Hundingsbana II) -> rule: hh2 = dagr-hognason",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "dagr-hognason",
+   "type": "human",
+   "tags": [
+    "hero"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Dagr Högnason",
+    "en": "Dag"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {},
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "fulla",
+   "type": "goddess",
+   "tags": [
+    "goddess"
+   ],
+   "wikidata": "Q847429",
+   "names": {
+    "on": "Fulla",
+    "en": "Fulla"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Fulla": 1,
+    "Fullu": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "baugi",
+   "type": "giant",
+   "tags": [
+    "giant"
+   ],
+   "wikidata": "Q811377",
+   "names": {
+    "on": "Baugi",
+    "en": "Baugi"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Baugi": 1,
+    "Bauga": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "logi",
+   "type": "giant",
+   "tags": [
+    "giant"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Logi",
+    "en": "Logi"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Logi": 1,
+    "Loga": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "hugi",
+   "type": "giant",
+   "tags": [
+    "giant"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Hugi",
+    "en": "Hugi"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Hugi": 1,
+    "Huga": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "elli",
+   "type": "giant",
+   "tags": [
+    "giant"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Elli",
+    "en": "Elli"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Elli": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "geri",
+   "type": "animal",
+   "tags": [
+    "animal"
+   ],
+   "wikidata": "Q826455",
+   "names": {
+    "on": "Geri",
+    "en": "Geri"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Geri": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "pair item Geri and Freki",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "gramr",
+   "type": "object",
+   "tags": [
+    "object"
+   ],
+   "wikidata": "Q1044686",
+   "names": {
+    "on": "Gramr",
+    "en": "Gram"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Gramr": 1,
+    "Gram": 1,
+    "Grams": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "Sigurðr's sword; lowercase gramr = king, skip",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "greip",
+   "type": "giant",
+   "tags": [
+    "giant"
+   ],
+   "wikidata": "Q13582481",
+   "names": {
+    "on": "Greip",
+    "en": "Greip"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Greip": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "hronn",
+   "type": "goddess",
+   "tags": [
+    "goddess"
+   ],
+   "wikidata": "Q12900320",
+   "names": {
+    "on": "Hrönn",
+    "en": "Hronn"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Hrönn": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "daughter of Ægir (wave); in Grímnismál 28 a river -> rule grm = river, tag river",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "vanir",
+   "type": "group",
+   "tags": [
+    "people"
+   ],
+   "wikidata": "Q184826",
+   "names": {
+    "on": "Vanir",
+    "en": "Vanir"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Vanir": 1,
+    "Vana": 1,
+    "Vönum": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "dokkalfar",
+   "type": "group",
+   "tags": [
+    "people",
+    "elf"
+   ],
+   "wikidata": "Q16650590",
+   "names": {
+    "on": "Dökkálfar",
+    "en": "Dark-elves"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Dökkálfar": 1,
+    "Dökkálfa": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "lyngvi",
+   "type": "place-myth",
+   "tags": [
+    "place (myth)"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Lyngvi",
+    "en": "Lyngvi"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Lyngvi": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "island where Fenrir is bound (Gylfaginning 34); also Lyngvi son of Hundingr in Reginsmál -> rule rm = person",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "otr",
+   "type": "character",
+   "tags": [
+    "person"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Otr",
+    "en": "Otter"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Otr": 1,
+    "Otrs": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "lowercase otr (otter animal) skip",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "ormr-steinthorsson",
+   "type": "skald",
+   "tags": [
+    "poet"
+   ],
+   "wikidata": "Q6158980",
+   "names": {
+    "on": "Ormr Steinþórsson",
+    "en": "Orm Steinthorsson"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Ormr": 1,
+    "Steinþórsson": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "Ormr only when followed by Steinþórsson or in Skáldskaparmál prose naming a poet; elsewhere ormr = serpent",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "skjoldr",
+   "type": "human",
+   "tags": [
+    "king"
+   ],
+   "wikidata": "Q1771470",
+   "names": {
+    "on": "Skjöldr",
+    "en": "Skjold"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Skjöldr": 1,
+    "Skjöld": 1,
+    "Skjaldar": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "heimir",
+   "type": "human",
+   "tags": [
+    "hero"
+   ],
+   "wikidata": "Q131191057",
+   "names": {
+    "on": "Heimir",
+    "en": "Heimir"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Heimir": 1,
+    "Heimis": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "gautar",
+   "type": "group",
+   "tags": [
+    "people"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Gautar",
+    "en": "Geats"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Gautar": 1,
+    "Gauta": 1,
+    "Gautum": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "maerir",
+   "type": "group",
+   "tags": [
+    "people"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Mærir",
+    "en": "People of Møre"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Mæra": 1,
+    "Mærir": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "konr",
+   "type": "character",
+   "tags": [
+    "person"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Konr",
+    "en": "Kon"
+   },
+   "desc": {
+    "en": "Konr ungr, Jarl's son in Rígsþula"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Konr": 1,
+    "Kon": 1,
+    "Konar": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "linked in Rígsþula only (rules.json); a common noun elsewhere",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "edda-rigsthula",
+   "type": "character",
+   "tags": [
+    "person"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Edda",
+    "en": "Edda (great-grandmother)"
+   },
+   "desc": {
+    "en": "great-grandmother in Rígsþula"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Edda": 1,
+    "Eddu": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "linked in Rígsþula only (rules.json); a common noun elsewhere",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "amma",
+   "type": "character",
+   "tags": [
+    "person"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Amma",
+    "en": "Amma (grandmother)"
+   },
+   "desc": {
+    "en": "grandmother in Rígsþula"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Amma": 1,
+    "Ömmu": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "linked in Rígsþula only (rules.json); a common noun elsewhere",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "modir",
+   "type": "character",
+   "tags": [
+    "person"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Móðir",
+    "en": "Móðir (Mother)"
+   },
+   "desc": {
+    "en": "Mother in Rígsþula"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Móðir": 1,
+    "Móður": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "linked in Rígsþula only (rules.json); a common noun elsewhere",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "afi",
+   "type": "character",
+   "tags": [
+    "person"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Afi",
+    "en": "Afi (Grandfather)"
+   },
+   "desc": {
+    "en": "Grandfather in Rígsþula"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Afi": 1,
+    "Afa": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "linked in Rígsþula only (rules.json); a common noun elsewhere",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "fadir",
+   "type": "character",
+   "tags": [
+    "person"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Faðir",
+    "en": "Faðir (Father)"
+   },
+   "desc": {
+    "en": "Father in Rígsþula"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Faðir": 1,
+    "Föður": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "linked in Rígsþula only (rules.json); a common noun elsewhere",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "sudri",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Suðri",
+    "en": "Sudri"
+   },
+   "desc": {
+    "en": "dwarf who holds up the sky (Gylfaginning 8)"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Suðri": 1,
+    "Suðra": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "one of the four dwarves holding up the sky; lowercase = the direction",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "vestri",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Vestri",
+    "en": "Vestri"
+   },
+   "desc": {
+    "en": "dwarf who holds up the sky (Gylfaginning 8)"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Vestri": 1,
+    "Vestra": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "one of the four dwarves holding up the sky; lowercase = the direction",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "nordri",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Norðri",
+    "en": "Nordri"
+   },
+   "desc": {
+    "en": "dwarf who holds up the sky (Gylfaginning 8)"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Norðri": 1,
+    "Norðra": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "one of the four dwarves holding up the sky; lowercase = the direction",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "litr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Litr",
+    "en": "Lit"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Litr": 1,
+    "Lit": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "frosti",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Frosti",
+    "en": "Frosti"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Frosti": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "ginnarr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Ginnarr",
+    "en": "Ginnar"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Ginnarr": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "vitr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Vitr",
+    "en": "Vit"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Vitr": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "nidi",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Niði",
+    "en": "Nidi"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Niði": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "alsvidr",
+   "type": "animal",
+   "tags": [
+    "horse"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Alsviðr",
+    "en": "Alsvith"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Alsviðr": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "the sun's horse (Gylfaginning 11, Grímnismál 37, Sigrdrífumál 15); Hávamál 143 Alsviðr is a giant -> rule hav = giant",
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "glaumr",
+   "type": "animal",
+   "tags": [
+    "horse"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Glaumr",
+    "en": "Glaum"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Glaumi": 1,
+    "Glaumr": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "gladr",
+   "type": "animal",
+   "tags": [
+    "horse"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Glaðr",
+    "en": "Glad"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Glaðr": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "holkvir",
+   "type": "animal",
+   "tags": [
+    "horse"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Hölkvir",
+    "en": "Holkvir"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Hölkvi": 1,
+    "Hölkvir": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "hrid",
+   "type": "place-myth",
+   "tags": [
+    "river"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Hríð",
+    "en": "Hrid"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Hríð": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "leiftr",
+   "type": "place-myth",
+   "tags": [
+    "river"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Leiftr",
+    "en": "Leiftr"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Leiftr": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "vid",
+   "type": "place-myth",
+   "tags": [
+    "river"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Víð",
+    "en": "Vid"
+   },
+   "desc": {},
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Víð": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "lyngvi-hundingsson",
+   "type": "character",
+   "tags": [
+    "person"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Lyngvi Hundingsson",
+    "en": "Lyngvi, son of Hunding"
+   },
+   "desc": {
+    "en": "son of Hundingr, Sigurðr's enemy (Reginsmál)"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {},
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "hronn-river",
+   "type": "place-myth",
+   "tags": [
+    "river",
+    "place (myth)"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Hrönn",
+    "en": "Hronn (river)"
+   },
+   "desc": {
+    "en": "river named in Grímnismál 28"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {},
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "hjadningar",
+   "type": "group",
+   "tags": [
+    "people"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Hjaðningar",
+    "en": "Hjadnings"
+   },
+   "desc": {
+    "en": "Heðinn's men, the fighters of the everlasting battle (Hjaðningavíg)"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Hjaðningar": 1,
+    "Hjaðninga": 4
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "hogni-hildar",
+   "type": "human",
+   "tags": [
+    "king"
+   ],
+   "wikidata": "Q139554131",
+   "names": {
+    "on": "Högni",
+    "en": "Hogni (father of Hild)"
+   },
+   "desc": {
+    "en": "king, father of Hildr; the everlasting battle of the Hjaðningar"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {},
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added from the seed patch of 2026-11-01"
+   ],
+   "mentions": 0,
+   "first": {}
   }
  ]
 }
