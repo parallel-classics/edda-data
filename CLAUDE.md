@@ -35,6 +35,7 @@ aligned/titles.json   chapter and poem titles per language (on, is, en, …) wit
 auto/                 modernizer.json, is_*_auto.json, en_draft.json (AI draft as produced)
 overlays/{on,is,en}/  {"_note": ..., "records": [ {row, cell, text, status, author, date, reason, replaces} ]}
 images/               scenes.json (briefs), records.json (verified PD images), pd/ (image files)
+entities/             the names of the Eddas keyed to Wikidata (entities/README.md); paths/  reading paths of the Start here page
 scripts/validate.py   structural checks + status table;  scripts/drafts_to_overlays.py  auto/en_draft.json -> overlays/en/
 docs/DATA_MODEL.md    ids, rows, overlays, statuses, how the build applies overlays
 docs/STATUS.md        current status table + known issues;  docs/ROADMAP.md  phases and gates for the data
