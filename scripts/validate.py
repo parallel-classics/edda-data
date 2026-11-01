@@ -490,6 +490,16 @@ def check_entities(rows):
                 err(f"entities/mentions.json[{i}]: unknown lang {m.get('lang')!r}")
             if not m.get("form") or m.get("kind") not in ("name", "heiti", "kenning") or m.get("status") != "auto":
                 err(f"entities/mentions.json[{i}]: needs form, kind in name/heiti/kenning, status auto")
+    img_idx = os.path.join(d, "img", "index.json")
+    if os.path.exists(img_idx):
+        for eid, rec in load(img_idx).get("images", {}).items():
+            where = f"entities/img/index.json#{eid}"
+            if eid not in ids_out:
+                err(f"{where}: unknown entity")
+            if not rec.get("file") or not os.path.exists(os.path.join(d, "img", rec["file"])):
+                err(f"{where}: file {rec.get('file')!r} missing")
+            if not images.get(rec.get("source") or "", {}).get("ok"):
+                err(f"{where}: source {rec.get('source')!r} has not passed the licence check in images.json")
     return n_ent, n_men
 
 

@@ -1,0 +1,966 @@
+{
+ "_note": "Local resized copies (max 480 px) of the entity pictures whose Commons licence passed, made by edda-site/pipeline/make_entities.py thumbs from the 480 px Commons thumbnails; the licence record is images.json (keyed by the source file). Generated; do not edit.",
+ "made": "2026-11-01",
+ "images": {
+  "aegir": {
+   "file": "aegir.jpg",
+   "source": "Ögir und Ran by F. W. Heine.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Friedrich Wilhelm Heine (1845-1921) after an original by Friedrich Wilhelm Engelhard (1813-1902).",
+   "page": "https://commons.wikimedia.org/wiki/File:%C3%96gir_und_Ran_by_F._W._Heine.jpg",
+   "width": 480,
+   "height": 455
+  },
+  "agnarr-geirrodsson": {
+   "file": "agnarr-geirrodsson.jpg",
+   "source": "Grímnir and Agnar by George Wright.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "George Wright (1872-1951)",
+   "page": "https://commons.wikimedia.org/wiki/File:Gr%C3%ADmnir_and_Agnar_by_George_Wright.jpg",
+   "width": 310,
+   "height": 480
+  },
+  "alviss": {
+   "file": "alviss.jpg",
+   "source": "Alvíss and Þrúðr by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Alv%C3%ADss_and_%C3%9Er%C3%BA%C3%B0r_by_Fr%C3%B8lich.jpg",
+   "width": 480,
+   "height": 476
+  },
+  "andvari": {
+   "file": "andvari.jpg",
+   "source": "Andvari by Franz Stassen.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Franz Stassen (1869–1949)",
+   "page": "https://commons.wikimedia.org/wiki/File:Andvari_by_Franz_Stassen.jpg",
+   "width": 351,
+   "height": 480
+  },
+  "audumbla": {
+   "file": "audumbla.jpg",
+   "source": "SÁM 66, 74r, Auðumbla and Búri.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Jakob Sigurðsson[2]",
+   "page": "https://commons.wikimedia.org/wiki/File:S%C3%81M_66,_74r,_Au%C3%B0umbla_and_B%C3%BAri.jpg",
+   "width": 374,
+   "height": 480
+  },
+  "baldur": {
+   "file": "baldur.jpg",
+   "source": "Baldur by Johannes Gehrts.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Johannes Gehrts",
+   "page": "https://commons.wikimedia.org/wiki/File:Baldur_by_Johannes_Gehrts.jpg",
+   "width": 320,
+   "height": 480
+  },
+  "bifrost": {
+   "file": "bifrost.jpg",
+   "source": "Heimdall an der Himmelsbrücke by E. Doepler.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Emil Doepler",
+   "page": "https://commons.wikimedia.org/wiki/File:Heimdall_an_der_Himmelsbr%C3%BCcke_by_E._Doepler.jpg",
+   "width": 345,
+   "height": 480
+  },
+  "bodvildr": {
+   "file": "bodvildr.jpg",
+   "source": "Badhild in Wielands Schmeid by Johannes Gehrts.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Johannes Gehrts",
+   "page": "https://commons.wikimedia.org/wiki/File:Badhild_in_Wielands_Schmeid_by_Johannes_Gehrts.jpg",
+   "width": 455,
+   "height": 480
+  },
+  "bragi": {
+   "file": "bragi.jpg",
+   "source": "Bragi and Iðunn by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Bragi_and_I%C3%B0unn_by_Fr%C3%B8lich.jpg",
+   "width": 304,
+   "height": 480
+  },
+  "brokkr": {
+   "file": "brokkr.jpg",
+   "source": "The third gift — an enormous hammer by Elmer Boyd Smith.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Elmer Boyd Smith (1860 - 1943)",
+   "page": "https://commons.wikimedia.org/wiki/File:The_third_gift_%E2%80%94_an_enormous_hammer_by_Elmer_Boyd_Smith.jpg",
+   "width": 292,
+   "height": 480
+  },
+  "brynhild": {
+   "file": "brynhild.jpg",
+   "source": "Brynhildr by Robert Engels.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Robert Engels (1866-1920).",
+   "page": "https://commons.wikimedia.org/wiki/File:Brynhildr_by_Robert_Engels.jpg",
+   "width": 335,
+   "height": 480
+  },
+  "eadgils": {
+   "file": "eadgils.jpg",
+   "source": "Rolf Krake sår guld på Fyrisvall by Hugo Hamilton.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Hugo Hamilton (1802–1871)",
+   "page": "https://commons.wikimedia.org/wiki/File:Rolf_Krake_s%C3%A5r_guld_p%C3%A5_Fyrisvall_by_Hugo_Hamilton.jpg",
+   "width": 480,
+   "height": 396
+  },
+  "eikthyrnir": {
+   "file": "eikthyrnir.jpg",
+   "source": "AM 738 4to Eikthyrnir Heidrun.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:AM_738_4to_Eikthyrnir_Heidrun.jpg",
+   "width": 347,
+   "height": 480
+  },
+  "fafnir": {
+   "file": "fafnir.jpg",
+   "source": "Siegfried and the Twilight of the Gods p 022.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Arthur Rackham",
+   "page": "https://commons.wikimedia.org/wiki/File:Siegfried_and_the_Twilight_of_the_Gods_p_022.jpg",
+   "width": 337,
+   "height": 480
+  },
+  "fenrir": {
+   "file": "fenrir.jpg",
+   "source": "The binding of Fenris by D Hardy.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Mabel Dorothy Hardy",
+   "page": "https://commons.wikimedia.org/wiki/File:The_binding_of_Fenris_by_D_Hardy.jpg",
+   "width": 330,
+   "height": 480
+  },
+  "fjolnir": {
+   "file": "fjolnir.jpg",
+   "source": "Ynglingesagaen - Fjolne.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Erik Werenskiold",
+   "page": "https://commons.wikimedia.org/wiki/File:Ynglingesagaen_-_Fjolne.jpg",
+   "width": 476,
+   "height": 480
+  },
+  "forseti": {
+   "file": "forseti.jpg",
+   "source": "Forseti zu Gericht sitzend.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Carl Emil Doepler (1824-1905)",
+   "page": "https://commons.wikimedia.org/wiki/File:Forseti_zu_Gericht_sitzend.jpg",
+   "width": 480,
+   "height": 414
+  },
+  "freyja": {
+   "file": "freyja.jpg",
+   "source": "John Bauer-Freja.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "John Bauer",
+   "page": "https://commons.wikimedia.org/wiki/File:John_Bauer-Freja.jpg",
+   "width": 480,
+   "height": 248
+  },
+  "freyr": {
+   "file": "freyr.jpg",
+   "source": "Freyr by Johannes Gehrts.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Eduard Ade / After Johannes Gehrts",
+   "page": "https://commons.wikimedia.org/wiki/File:Freyr_by_Johannes_Gehrts.jpg",
+   "width": 359,
+   "height": 480
+  },
+  "frigg": {
+   "file": "frigg.jpg",
+   "source": "FriggSpinning.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "John Charles Dollman",
+   "page": "https://commons.wikimedia.org/wiki/File:FriggSpinning.jpg",
+   "width": 480,
+   "height": 326
+  },
+  "garmr": {
+   "file": "garmr.jpg",
+   "source": "Völva, Odin, Sleipnir and Helhound by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:V%C3%B6lva,_Odin,_Sleipnir_and_Helhound_by_Fr%C3%B8lich.jpg",
+   "width": 480,
+   "height": 307
+  },
+  "gefjon": {
+   "file": "gefjon.jpg",
+   "source": "Gefjon Ploughs the Earth in Sweden by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Gefjon_Ploughs_the_Earth_in_Sweden_by_Fr%C3%B8lich.jpg",
+   "width": 480,
+   "height": 276
+  },
+  "gerdr": {
+   "file": "gerdr.jpg",
+   "source": "Skirnir wirbt um Gerda.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Robert Engels (1866-1920).",
+   "page": "https://commons.wikimedia.org/wiki/File:Skirnir_wirbt_um_Gerda.jpg",
+   "width": 360,
+   "height": 480
+  },
+  "gjallarhorn": {
+   "file": "gjallarhorn.jpg",
+   "source": "Heimdal (1907) by J. T. Lundbye.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Johan Lundbye",
+   "page": "https://commons.wikimedia.org/wiki/File:Heimdal_(1907)_by_J._T._Lundbye.jpg",
+   "width": 315,
+   "height": 480
+  },
+  "groa": {
+   "file": "groa.jpg",
+   "source": "Groa och Heid.JPG",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Carl Larsson (1853-1919) and Gunnar Forssell (1859-1903) as described.",
+   "page": "https://commons.wikimedia.org/wiki/File:Groa_och_Heid.JPG",
+   "width": 424,
+   "height": 480
+  },
+  "gudrun": {
+   "file": "gudrun.jpg",
+   "source": "Johann Heinrich Füssli 047.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Henry Fuseli",
+   "page": "https://commons.wikimedia.org/wiki/File:Johann_Heinrich_F%C3%BCssli_047.jpg",
+   "width": 372,
+   "height": 480
+  },
+  "gullinbursti": {
+   "file": "gullinbursti.jpg",
+   "source": "Freyr riding Gullinbursti.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Ludwig Pietsch (1824-1911)",
+   "page": "https://commons.wikimedia.org/wiki/File:Freyr_riding_Gullinbursti.jpg",
+   "width": 416,
+   "height": 480
+  },
+  "gulltoppr": {
+   "file": "gulltoppr.jpg",
+   "source": "Heimdallr and Gulltoppr by Dorothy Hardy, 1908.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Dorothy Hardy (1868-1937)",
+   "page": "https://commons.wikimedia.org/wiki/File:Heimdallr_and_Gulltoppr_by_Dorothy_Hardy,_1908.jpg",
+   "width": 480,
+   "height": 331
+  },
+  "gullveig": {
+   "file": "gullveig.jpg",
+   "source": "Gullveig by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Gullveig_by_Fr%C3%B8lich.jpg",
+   "width": 480,
+   "height": 435
+  },
+  "gungnir": {
+   "file": "gungnir.jpg",
+   "source": "Odin holding Gungnir atop Sleipnir by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Odin_holding_Gungnir_atop_Sleipnir_by_Fr%C3%B8lich.jpg",
+   "width": 352,
+   "height": 480
+  },
+  "gunnlod": {
+   "file": "gunnlod.jpg",
+   "source": "Odin and Gunnlöð by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Odin_and_Gunnl%C3%B6%C3%B0_by_Fr%C3%B8lich.jpg",
+   "width": 423,
+   "height": 480
+  },
+  "gylfi": {
+   "file": "gylfi.jpg",
+   "source": "NKS 1867 4to, 98r, Gangleri with High, Just-As-High, and Third.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Ólafur Brynjúlfsson[2]",
+   "page": "https://commons.wikimedia.org/wiki/File:NKS_1867_4to,_98r,_Gangleri_with_High,_Just-As-High,_and_Third.jpg",
+   "width": 384,
+   "height": 480
+  },
+  "hadingus": {
+   "file": "hadingus.jpg",
+   "source": "Kong Hadings Død.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Louis Moe",
+   "page": "https://commons.wikimedia.org/wiki/File:Kong_Hadings_D%C3%B8d.jpg",
+   "width": 480,
+   "height": 453
+  },
+  "hati": {
+   "file": "hati.jpg",
+   "source": "The Wolves Pursuing Sol and Mani.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "John Charles Dollman",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Wolves_Pursuing_Sol_and_Mani.jpg",
+   "width": 480,
+   "height": 322
+  },
+  "heidrun": {
+   "file": "heidrun.jpg",
+   "source": "Heiðrún by Lorenz Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Hei%C3%B0r%C3%BAn_by_Lorenz_Fr%C3%B8lich.jpg",
+   "width": 239,
+   "height": 480
+  },
+  "heimdall": {
+   "file": "heimdall.jpg",
+   "source": "SÁM 66, 80r, Heimdallr.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Jakob Sigurðsson[2]",
+   "page": "https://commons.wikimedia.org/wiki/File:S%C3%81M_66,_80r,_Heimdallr.jpg",
+   "width": 388,
+   "height": 480
+  },
+  "helgi-hundingsbani": {
+   "file": "helgi-hundingsbani.jpg",
+   "source": "Helgi Hundingsbane returns to Valhalla by James Doyle Penrose, 1890.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "James Doyle Penrose (1862-1932)",
+   "page": "https://commons.wikimedia.org/wiki/File:Helgi_Hundingsbane_returns_to_Valhalla_by_James_Doyle_Penrose,_1890.jpg",
+   "width": 304,
+   "height": 480
+  },
+  "hermodr": {
+   "file": "hermodr.jpg",
+   "source": "Hermod before Hela.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "John Charles Dollman",
+   "page": "https://commons.wikimedia.org/wiki/File:Hermod_before_Hela.jpg",
+   "width": 325,
+   "height": 480
+  },
+  "hlin": {
+   "file": "hlin.jpg",
+   "source": "Frigg by Doepler.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Carl Emil Doepler (1824-1905)",
+   "page": "https://commons.wikimedia.org/wiki/File:Frigg_by_Doepler.jpg",
+   "width": 399,
+   "height": 480
+  },
+  "hodr": {
+   "file": "hodr.jpg",
+   "source": "The Death of Baldr by Collingwood.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "W.G. Collingwood (1854 - 1932)",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Death_of_Baldr_by_Collingwood.jpg",
+   "width": 480,
+   "height": 312
+  },
+  "hrungnir": {
+   "file": "hrungnir.jpg",
+   "source": "Thor und Hrungnir.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Ludwig Pietsch (1824-1911)",
+   "page": "https://commons.wikimedia.org/wiki/File:Thor_und_Hrungnir.jpg",
+   "width": 369,
+   "height": 480
+  },
+  "huginn": {
+   "file": "huginn.jpg",
+   "source": "Odin, Sleipnir, Geri, Freki, Huginn and Muninn by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Odin,_Sleipnir,_Geri,_Freki,_Huginn_and_Muninn_by_Fr%C3%B8lich.jpg",
+   "width": 332,
+   "height": 288
+  },
+  "hymir": {
+   "file": "hymir.jpg",
+   "source": "Thor, Hymir and the Midgard Serpent.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Thor,_Hymir_and_the_Midgard_Serpent.jpg",
+   "width": 327,
+   "height": 480
+  },
+  "hyndla": {
+   "file": "hyndla.jpg",
+   "source": "Freyja awakes Hyndla.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "W.G. Collingwood (1854 - 1932)",
+   "page": "https://commons.wikimedia.org/wiki/File:Freyja_awakes_Hyndla.jpg",
+   "width": 480,
+   "height": 351
+  },
+  "hyrrokkin": {
+   "file": "hyrrokkin.jpg",
+   "source": "Hyrrokkin by Pietsch.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Ludwig Pietsch",
+   "page": "https://commons.wikimedia.org/wiki/File:Hyrrokkin_by_Pietsch.jpg",
+   "width": 480,
+   "height": 471
+  },
+  "idunn": {
+   "file": "idunn.jpg",
+   "source": "Idun and the Apples.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "James Doyle Penrose",
+   "page": "https://commons.wikimedia.org/wiki/File:Idun_and_the_Apples.jpg",
+   "width": 480,
+   "height": 293
+  },
+  "jord": {
+   "file": "jord.jpg",
+   "source": "Moder Jord.jpg",
+   "licence": "CC BY-SA 2.0",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "artist": "Alexander Henning Drachmann",
+   "page": "https://commons.wikimedia.org/wiki/File:Moder_Jord.jpg",
+   "width": 480,
+   "height": 360
+  },
+  "jormungandr": {
+   "file": "jormungandr.jpg",
+   "source": "Thor and Jörmungandr by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Thor_and_J%C3%B6rmungandr_by_Fr%C3%B8lich.jpg",
+   "width": 480,
+   "height": 463
+  },
+  "laeradr": {
+   "file": "laeradr.jpg",
+   "source": "Heiðrún by Lorenz Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Hei%C3%B0r%C3%BAn_by_Lorenz_Fr%C3%B8lich.jpg",
+   "width": 239,
+   "height": 480
+  },
+  "lodurr": {
+   "file": "lodurr.jpg",
+   "source": "Odin, Lodur, Hoenir skabe Ask og Embla by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Odin,_Lodur,_Hoenir_skabe_Ask_og_Embla_by_Fr%C3%B8lich.jpg",
+   "width": 480,
+   "height": 319
+  },
+  "loki": {
+   "file": "loki.jpg",
+   "source": "Processed SAM loki.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Processed_SAM_loki.jpg",
+   "width": 385,
+   "height": 480
+  },
+  "mead-of-poetry": {
+   "file": "mead-of-poetry.jpg",
+   "source": "SÁM 66, 76r, Mead of Poetry.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Jakob Sigurðsson[2]",
+   "page": "https://commons.wikimedia.org/wiki/File:S%C3%81M_66,_76r,_Mead_of_Poetry.jpg",
+   "width": 395,
+   "height": 480
+  },
+  "midgard": {
+   "file": "midgard.jpg",
+   "source": "Midgard (Sö 56, Fyrby).jpg",
+   "licence": "CC BY 2.5",
+   "licence_url": "https://creativecommons.org/licenses/by/2.5",
+   "artist": "Berig",
+   "page": "https://commons.wikimedia.org/wiki/File:Midgard_(S%C3%B6_56,_Fyrby).jpg",
+   "width": 480,
+   "height": 136
+  },
+  "mimir": {
+   "file": "mimir.jpg",
+   "source": "Odin am Brunnen der Weisheit.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Robert Engels (1866-1920).",
+   "page": "https://commons.wikimedia.org/wiki/File:Odin_am_Brunnen_der_Weisheit.jpg",
+   "width": 361,
+   "height": 480
+  },
+  "mjolnir": {
+   "file": "mjolnir.jpg",
+   "source": "The third gift — an enormous hammer by Elmer Boyd Smith.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Elmer Boyd Smith (1860 - 1943)",
+   "page": "https://commons.wikimedia.org/wiki/File:The_third_gift_%E2%80%94_an_enormous_hammer_by_Elmer_Boyd_Smith.jpg",
+   "width": 292,
+   "height": 480
+  },
+  "munin": {
+   "file": "munin.jpg",
+   "source": "Treated NKS odinn - Munin.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Unknown 18th Century author",
+   "page": "https://commons.wikimedia.org/wiki/File:Treated_NKS_odinn_-_Munin.jpg",
+   "width": 136,
+   "height": 176
+  },
+  "nanna": {
+   "file": "nanna.jpg",
+   "source": "Balder und Nanna by F. W. Heine.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Friedrich Wilhelm Heine (1845-1921).",
+   "page": "https://commons.wikimedia.org/wiki/File:Balder_und_Nanna_by_F._W._Heine.jpg",
+   "width": 480,
+   "height": 459
+  },
+  "nidhoggr": {
+   "file": "nidhoggr.jpg",
+   "source": "Nidhogg.png",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Nidhogg.png",
+   "width": 480,
+   "height": 153
+  },
+  "njordr": {
+   "file": "njordr.jpg",
+   "source": "Njörd's desire of the Sea.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "W.G. Collingwood (1854 - 1932)",
+   "page": "https://commons.wikimedia.org/wiki/File:Nj%C3%B6rd%27s_desire_of_the_Sea.jpg",
+   "width": 480,
+   "height": 267
+  },
+  "odin": {
+   "file": "odin.jpg",
+   "source": "Odin, Sleipnir, Geri, Freki, Huginn and Muninn by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Odin,_Sleipnir,_Geri,_Freki,_Huginn_and_Muninn_by_Fr%C3%B8lich.jpg",
+   "width": 332,
+   "height": 288
+  },
+  "odr": {
+   "file": "odr.jpg",
+   "source": "Odur verlässt abermals die trauernde Gattin.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Artist unknown. No artist is stated in the illustration index of the work.",
+   "page": "https://commons.wikimedia.org/wiki/File:Odur_verl%C3%A4sst_abermals_die_trauernde_Gattin.jpg",
+   "width": 480,
+   "height": 367
+  },
+  "ran": {
+   "file": "ran.jpg",
+   "source": "Ran by Johannes Gehrts.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Johannes Gehrts",
+   "page": "https://commons.wikimedia.org/wiki/File:Ran_by_Johannes_Gehrts.jpg",
+   "width": 308,
+   "height": 480
+  },
+  "ratatoskr": {
+   "file": "ratatoskr.jpg",
+   "source": "AM 738 4to Ratatoskr.png",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "User Haukurth on en.wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:AM_738_4to_Ratatoskr.png",
+   "width": 266,
+   "height": 480
+  },
+  "saga": {
+   "file": "saga.jpg",
+   "source": "Odin und Saga.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Fredrik Sander",
+   "page": "https://commons.wikimedia.org/wiki/File:Odin_und_Saga.jpg",
+   "width": 279,
+   "height": 431
+  },
+  "sif": {
+   "file": "sif.jpg",
+   "source": "Sif by Dollman.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "John Charles Dollman",
+   "page": "https://commons.wikimedia.org/wiki/File:Sif_by_Dollman.jpg",
+   "width": 326,
+   "height": 480
+  },
+  "sigrun": {
+   "file": "sigrun.jpg",
+   "source": "Helgi und Sigrun by Johannes Gehrts.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Johannes Gehrts",
+   "page": "https://commons.wikimedia.org/wiki/File:Helgi_und_Sigrun_by_Johannes_Gehrts.jpg",
+   "width": 393,
+   "height": 480
+  },
+  "sigurdr": {
+   "file": "sigurdr.jpg",
+   "source": "BürgerPark Bremen 21-04-2006 0044.jpg",
+   "licence": "CC BY-SA 2.5",
+   "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
+   "artist": "Statue by Constantin Dausch (1841-1908). Photograph by Rami Tarawneh",
+   "page": "https://commons.wikimedia.org/wiki/File:B%C3%BCrgerPark_Bremen_21-04-2006_0044.jpg",
+   "width": 360,
+   "height": 480
+  },
+  "sigyn": {
+   "file": "sigyn.jpg",
+   "source": "Loke and Sigyn (Mårten Winge) - Nationalmuseum - 18041.tif",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Mårten Eskil Winge",
+   "page": "https://commons.wikimedia.org/wiki/File:Loke_and_Sigyn_(M%C3%A5rten_Winge)_-_Nationalmuseum_-_18041.tif",
+   "width": 379,
+   "height": 480
+  },
+  "sinfjotli": {
+   "file": "sinfjotli.jpg",
+   "source": "Odin entführt Sinfjötlis Leiche (1883) by Johannes Gehrts.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Eduard Ade / Johannes Gehrts",
+   "page": "https://commons.wikimedia.org/wiki/File:Odin_entf%C3%BChrt_Sinfj%C3%B6tlis_Leiche_(1883)_by_Johannes_Gehrts.jpg",
+   "width": 480,
+   "height": 395
+  },
+  "skadi": {
+   "file": "skadi.jpg",
+   "source": "Skade by Frölich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Skade_by_Fr%C3%B6lich.jpg",
+   "width": 238,
+   "height": 304
+  },
+  "skirnir": {
+   "file": "skirnir.jpg",
+   "source": "Skírnir and Gerðr I by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Sk%C3%ADrnir_and_Ger%C3%B0r_I_by_Fr%C3%B8lich.jpg",
+   "width": 480,
+   "height": 395
+  },
+  "skoll": {
+   "file": "skoll.jpg",
+   "source": "The Wolves Pursuing Sol and Mani.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "John Charles Dollman",
+   "page": "https://commons.wikimedia.org/wiki/File:The_Wolves_Pursuing_Sol_and_Mani.jpg",
+   "width": 480,
+   "height": 322
+  },
+  "skrymir": {
+   "file": "skrymir.jpg",
+   "source": "I am the giant Skrymir by Elmer Boyd Smith.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Elmer Boyd Smith",
+   "page": "https://commons.wikimedia.org/wiki/File:I_am_the_giant_Skrymir_by_Elmer_Boyd_Smith.jpg",
+   "width": 296,
+   "height": 480
+  },
+  "sleipnir": {
+   "file": "sleipnir.jpg",
+   "source": "Odin rides to Hel.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "W.G. Collingwood (1854 - 1932)",
+   "page": "https://commons.wikimedia.org/wiki/File:Odin_rides_to_Hel.jpg",
+   "width": 480,
+   "height": 313
+  },
+  "surtr": {
+   "file": "surtr.jpg",
+   "source": "Freyr and Surtr by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Freyr_and_Surtr_by_Fr%C3%B8lich.jpg",
+   "width": 480,
+   "height": 396
+  },
+  "suttungr": {
+   "file": "suttungr.jpg",
+   "source": "Giant Suttung and the dwarfs.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Louis Huard",
+   "page": "https://commons.wikimedia.org/wiki/File:Giant_Suttung_and_the_dwarfs.jpg",
+   "width": 310,
+   "height": 480
+  },
+  "svadilfari": {
+   "file": "svadilfari.jpg",
+   "source": "Loki and Svadilfari by Hardy.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Dorothy Hardy (fl. 1891 - 1925)",
+   "page": "https://commons.wikimedia.org/wiki/File:Loki_and_Svadilfari_by_Hardy.jpg",
+   "width": 480,
+   "height": 328
+  },
+  "svafrlami": {
+   "file": "svafrlami.jpg",
+   "source": "King Svafrlame Secures the Sword Tyrfing.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:King_Svafrlame_Secures_the_Sword_Tyrfing.jpg",
+   "width": 480,
+   "height": 326
+  },
+  "svanhildr": {
+   "file": "svanhildr.jpg",
+   "source": "Ed0044.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Jenny Nyström (1854 – 1946)",
+   "page": "https://commons.wikimedia.org/wiki/File:Ed0044.jpg",
+   "width": 285,
+   "height": 338
+  },
+  "svipdagr": {
+   "file": "svipdagr.jpg",
+   "source": "Freyja and Svipdag - John Bauer.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "John Bauer",
+   "page": "https://commons.wikimedia.org/wiki/File:Freyja_and_Svipdag_-_John_Bauer.jpg",
+   "width": 426,
+   "height": 480
+  },
+  "thjazi": {
+   "file": "thjazi.jpg",
+   "source": "Loki and Þjazi by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Loki_and_%C3%9Ejazi_by_Fr%C3%B8lich.jpg",
+   "width": 480,
+   "height": 326
+  },
+  "thor": {
+   "file": "thor.jpg",
+   "source": "Thor by Johannes Gehrts.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Eduard Ade / Johannes Gehrts",
+   "page": "https://commons.wikimedia.org/wiki/File:Thor_by_Johannes_Gehrts.jpg",
+   "width": 368,
+   "height": 480
+  },
+  "thrudr": {
+   "file": "thrudr.jpg",
+   "source": "Hild, Thrud and Hløkk by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Hild,_Thrud_and_Hl%C3%B8kk_by_Fr%C3%B8lich.jpg",
+   "width": 480,
+   "height": 235
+  },
+  "tyr": {
+   "file": "tyr.jpg",
+   "source": "Tyr and Fenrir-John Bauer.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "John Bauer",
+   "page": "https://commons.wikimedia.org/wiki/File:Tyr_and_Fenrir-John_Bauer.jpg",
+   "width": 412,
+   "height": 480
+  },
+  "ull": {
+   "file": "ull.jpg",
+   "source": "SÁM 66, 76v, Ullr.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Jakob Sigurðsson[2]",
+   "page": "https://commons.wikimedia.org/wiki/File:S%C3%81M_66,_76v,_Ullr.jpg",
+   "width": 394,
+   "height": 480
+  },
+  "urdarbrunnr": {
+   "file": "urdarbrunnr.jpg",
+   "source": "Three Norns by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Three_Norns_by_Fr%C3%B8lich.jpg",
+   "width": 480,
+   "height": 335
+  },
+  "utgarda-loki": {
+   "file": "utgarda-loki.jpg",
+   "source": "Thor and Elli by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Thor_and_Elli_by_Fr%C3%B8lich.jpg",
+   "width": 480,
+   "height": 391
+  },
+  "vafthrudnir": {
+   "file": "vafthrudnir.jpg",
+   "source": "Odin and Vafþrúðnir by Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Odin_and_Vaf%C3%BEr%C3%BA%C3%B0nir_by_Fr%C3%B8lich.jpg",
+   "width": 480,
+   "height": 360
+  },
+  "valhalla": {
+   "file": "valhalla.jpg",
+   "source": "Walhall by Emil Doepler.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Emil Doepler",
+   "page": "https://commons.wikimedia.org/wiki/File:Walhall_by_Emil_Doepler.jpg",
+   "width": 480,
+   "height": 321
+  },
+  "vali": {
+   "file": "vali.jpg",
+   "source": "Wali by C. E. Doepler.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Carl Emil Doepler (1824-1905)",
+   "page": "https://commons.wikimedia.org/wiki/File:Wali_by_C._E._Doepler.jpg",
+   "width": 440,
+   "height": 480
+  },
+  "ve": {
+   "file": "ve.jpg",
+   "source": "Odin and his brothers create the world.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Original uploader was Haukurth at en.wikipedia",
+   "page": "https://commons.wikimedia.org/wiki/File:Odin_and_his_brothers_create_the_world.jpg",
+   "width": 356,
+   "height": 480
+  },
+  "verdandi": {
+   "file": "verdandi.jpg",
+   "source": "Die Nornen Urd, Werdanda, Skuld, unter der Welteiche Yggdrasil by Ludwig Burger.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Ludwig Burger (1825-1884).",
+   "page": "https://commons.wikimedia.org/wiki/File:Die_Nornen_Urd,_Werdanda,_Skuld,_unter_der_Welteiche_Yggdrasil_by_Ludwig_Burger.jpg",
+   "width": 395,
+   "height": 480
+  },
+  "vidarr": {
+   "file": "vidarr.jpg",
+   "source": "Fenrir and Víðarr by Lorenz Frølich.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Lorenz Frølich",
+   "page": "https://commons.wikimedia.org/wiki/File:Fenrir_and_V%C3%AD%C3%B0arr_by_Lorenz_Fr%C3%B8lich.jpg",
+   "width": 480,
+   "height": 348
+  },
+  "vigridr": {
+   "file": "vigridr.jpg",
+   "source": "Then the awful fight began by George Wright.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "George Wright (1872-1951)",
+   "page": "https://commons.wikimedia.org/wiki/File:Then_the_awful_fight_began_by_George_Wright.jpg",
+   "width": 305,
+   "height": 480
+  },
+  "wayland-the-smith": {
+   "file": "wayland-the-smith.jpg",
+   "source": "Franks Casket vorne links.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "",
+   "page": "https://commons.wikimedia.org/wiki/File:Franks_Casket_vorne_links.jpg",
+   "width": 250,
+   "height": 225
+  },
+  "yggdrasil": {
+   "file": "yggdrasil.jpg",
+   "source": "Yggdrasil.jpg",
+   "licence": "Public domain",
+   "licence_url": null,
+   "artist": "Oluf Bagge",
+   "page": "https://commons.wikimedia.org/wiki/File:Yggdrasil.jpg",
+   "width": 431,
+   "height": 480
+  }
+ }
+}
