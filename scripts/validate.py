@@ -377,6 +377,38 @@ SEED_TYPES = ("god", "goddess", "giant", "dwarf", "elf", "valkyrie", "human", "c
 OK_LICENCE = re.compile(r"^(public domain|pd\b|cc0|cc by(-sa)?(\s|$))", re.I)
 
 
+def check_paths(rows):
+    """paths/paths.json (task 19a): unique ids, every step a chapter, chapter range, poem or row that exists."""
+    p = os.path.join(ROOT, "paths", "paths.json")
+    if not os.path.exists(p):
+        return
+    doc = load(p)
+    chapters = {re.sub(r"^([pgsh])-c(\d+)-.*$", r"\1-ch\2", r) for r in rows if re.match(r"^[pgsh]-c\d+-", r)}
+    poems = {r.split("-")[0] + "-poem" for r, v in rows.items() if v.get("poem")}
+    seen = set()
+    for path in doc.get("paths", []):
+        pid = path.get("id") or ""
+        where = f"paths/paths.json#{pid}"
+        if not re.match(r"^[a-z][a-z0-9-]*$", pid) or pid in seen:
+            err(f"{where}: bad or repeated id")
+        seen.add(pid)
+        for k in ("title", "time"):
+            if not (path.get(k) or {}).get("en"):
+                err(f"{where}: no English {k}")
+        for i, st in enumerate(path.get("steps", []), 1):
+            ref, to = st.get("ref") or "", st.get("to")
+            if not (ref in rows or ref in chapters or ref in poems):
+                err(f"{where} step {i}: {ref!r} is not a row, chapter or poem id")
+            if to is not None:
+                a, b = re.match(r"^([pgsh])-ch(\d+)$", ref), re.match(r"^([pgsh])-ch(\d+)$", to)
+                if not (a and b and a.group(1) == b.group(1) and int(b.group(2)) > int(a.group(2))):
+                    err(f"{where} step {i}: range {ref!r}..{to!r} must be chapters of one part in rising order")
+                elif to not in chapters:
+                    err(f"{where} step {i}: {to!r} is not a chapter id")
+            if not (st.get("note") or {}).get("en"):
+                err(f"{where} step {i}: no English note")
+
+
 def check_entities(rows):
     """entities/: the curated seed, the hand rules and the generated files (edda-site/pipeline/make_entities.py)."""
     d = os.path.join(ROOT, "entities")
@@ -577,6 +609,7 @@ def main():
     n_images = check_images(rows, chapters)
     n_links = check_links(rows, chapters)
     n_ent, n_men = check_entities(rows)
+    check_paths(rows)
     print(f"aligned rows: {len(rows)} in {len(chapters)} parts; overlay files: {n_overlay_files}, "
           f"overlay cells: {len(effective)}; image records: {n_images}; quotation links: {n_links}; "
           f"entities: {n_ent}, mentions: {n_men}\n")

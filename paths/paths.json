@@ -1,0 +1,310 @@
+{
+ "_note": "Reading paths for the Start here page (task 19a). Each step points at a chapter (<p>-ch<n>), a range of chapters (ref .. to), a poem (<prefix>-poem) or a row id; the website turns the ids into links with the titles. Notes per interface language. English by the editor; the Icelandic is a draft (status.is) until a native reader has checked it. Correct here, never on the page.",
+ "status": {
+  "en": "editor",
+  "is": "draft"
+ },
+ "paths": [
+  {
+   "id": "first-evening",
+   "title": {
+    "en": "First evening",
+    "is": "Fyrsta kvöldið"
+   },
+   "time": {
+    "en": "about 2 hours",
+    "is": "um 2 klukkustundir"
+   },
+   "steps": [
+    {
+     "ref": "g-ch1",
+     "to": "g-ch20",
+     "note": {
+      "en": "Gylfi visits the Æsir; the creation of the world, Yggdrasill, the gods and their dwellings.",
+      "is": "Gylfi heimsækir æsi; sköpun heimsins, Yggdrasill, goðin og bústaðir þeirra."
+     }
+    },
+    {
+     "ref": "vsp-poem",
+     "note": {
+      "en": "The seeress tells the whole story, from the void to the new earth, in 66 stanzas.",
+      "is": "Völvan segir alla söguna, frá tóminu til nýrrar jarðar, í 66 erindum."
+     }
+    },
+    {
+     "ref": "g-ch49",
+     "to": "g-ch53",
+     "note": {
+      "en": "Baldr's death, Loki's punishment, Ragnarök and what comes after.",
+      "is": "Dauði Baldurs, refsing Loka, ragnarök og það sem á eftir kemur."
+     }
+    }
+   ]
+  },
+  {
+   "id": "gods",
+   "title": {
+    "en": "The gods' stories",
+    "is": "Sögur goðanna"
+   },
+   "time": {
+    "en": "about 6 hours",
+    "is": "um 6 klukkustundir"
+   },
+   "steps": [
+    {
+     "ref": "g-ch21",
+     "to": "g-ch48",
+     "note": {
+      "en": "The rest of Gylfaginning: the gods one by one, Þórr's journey to Útgarða-Loki, the binding of Fenrir.",
+      "is": "Afgangurinn af Gylfaginningu: goðin hvert af öðru, för Þórs til Útgarða-Loka, Fenrir bundinn."
+     }
+    },
+    {
+     "ref": "s-ch1",
+     "to": "s-ch6",
+     "note": {
+      "en": "Ægir's feast, Þjazi carries off Iðunn, the mead of poetry.",
+      "is": "Veisla Ægis, Þjazi rænir Iðunni, skáldskaparmjöðurinn."
+     }
+    },
+    {
+     "ref": "s-ch24",
+     "to": "s-ch26",
+     "note": {
+      "en": "Þórr against Hrungnir, the seeress Gróa, the journey to Geirröðr.",
+      "is": "Þór gegn Hrungni, völvan Gróa, förin til Geirröðar."
+     }
+    },
+    {
+     "ref": "s-ch41",
+     "to": "s-ch43",
+     "note": {
+      "en": "The Æsir at Ægir's, the grove Glasir, the treasures the dwarfs made.",
+      "is": "Æsir hjá Ægi, lundurinn Glasir, gripirnir sem dvergarnir smíðuðu."
+     }
+    },
+    {
+     "ref": "thrk-poem",
+     "note": {
+      "en": "Þórr dressed as a bride wins back his hammer.",
+      "is": "Þór í brúðarbúningi vinnur hamarinn aftur."
+     }
+    },
+    {
+     "ref": "hym-poem",
+     "note": {
+      "en": "Þórr fishes for the Miðgarðsormr.",
+      "is": "Þór veiðir Miðgarðsorm."
+     }
+    },
+    {
+     "ref": "ls-poem",
+     "note": {
+      "en": "Loki insults every god at Ægir's feast.",
+      "is": "Loki smánar hvert goð í veislu Ægis."
+     }
+    },
+    {
+     "ref": "skm-poem",
+     "note": {
+      "en": "Skírnir woos Gerðr for Freyr.",
+      "is": "Skírnir biður Gerðar fyrir Frey."
+     }
+    }
+   ]
+  },
+  {
+   "id": "wisdom",
+   "title": {
+    "en": "The wisdom poems",
+    "is": "Spekikvæðin"
+   },
+   "time": {
+    "en": "about 3 hours",
+    "is": "um 3 klukkustundir"
+   },
+   "steps": [
+    {
+     "ref": "hav-poem",
+     "note": {
+      "en": "Óðinn's counsel: how to live, how to love, how he won the runes.",
+      "is": "Ráð Óðins: hvernig á að lifa, elska og hvernig hann nam rúnirnar."
+     }
+    },
+    {
+     "ref": "vm-poem",
+     "note": {
+      "en": "Óðinn's wisdom contest with the giant Vafþrúðnir.",
+      "is": "Spekikeppni Óðins við jötuninn Vafþrúðni."
+     }
+    },
+    {
+     "ref": "grm-poem",
+     "note": {
+      "en": "Óðinn between the fires names the halls of the gods.",
+      "is": "Óðinn milli eldanna telur upp bústaði goðanna."
+     }
+    },
+    {
+     "ref": "alv-poem",
+     "note": {
+      "en": "Þórr keeps the dwarf Alvíss talking until sunrise.",
+      "is": "Þór heldur dvergnum Alvís á tali fram að sólarupprás."
+     }
+    }
+   ]
+  },
+  {
+   "id": "heroes",
+   "title": {
+    "en": "The heroes: Sigurðr and the Niflungs",
+    "is": "Hetjurnar: Sigurður og Niflungar"
+   },
+   "time": {
+    "en": "about 5 hours",
+    "is": "um 5 klukkustundir"
+   },
+   "steps": [
+    {
+     "ref": "s-ch46",
+     "to": "s-ch50",
+     "note": {
+      "en": "Snorri's retelling as a summary: the otter's ransom, Fáfnir, Sigurðr, the Gjúkungs, Guðrún's revenge.",
+      "is": "Endursögn Snorra sem yfirlit: otrgjöldin, Fáfnir, Sigurður, Gjúkungar, hefnd Guðrúnar."
+     }
+    },
+    {
+     "ref": "rm-poem",
+     "note": {
+      "en": "Reginn, the gold and the curse.",
+      "is": "Reginn, gullið og bölvunin."
+     }
+    },
+    {
+     "ref": "fm-poem",
+     "note": {
+      "en": "Sigurðr kills Fáfnir and learns the birds' speech.",
+      "is": "Sigurður vegur Fáfni og skilur mál fuglanna."
+     }
+    },
+    {
+     "ref": "sd-poem",
+     "note": {
+      "en": "The valkyrie's rune lore.",
+      "is": "Rúnafræði valkyrjunnar."
+     }
+    },
+    {
+     "ref": "br-poem",
+     "note": {
+      "en": "The fragment: Sigurðr's death.",
+      "is": "Brotið: dauði Sigurðar."
+     }
+    },
+    {
+     "ref": "gdr1-poem",
+     "note": {
+      "en": "Guðrún's grief.",
+      "is": "Harmur Guðrúnar."
+     }
+    },
+    {
+     "ref": "gdr2-poem",
+     "note": {
+      "en": "Guðrún's story, told to Þjóðrekr.",
+      "is": "Saga Guðrúnar, sögð Þjóðreki."
+     }
+    },
+    {
+     "ref": "gdr3-poem",
+     "note": {
+      "en": "Guðrún's ordeal.",
+      "is": "Skírsla Guðrúnar."
+     }
+    },
+    {
+     "ref": "akv-poem",
+     "note": {
+      "en": "Atli's invitation and the end of the Gjúkungs.",
+      "is": "Boð Atla og endalok Gjúkunga."
+     }
+    },
+    {
+     "ref": "am-poem",
+     "note": {
+      "en": "The same story told at length.",
+      "is": "Sama saga sögð ítarlega."
+     }
+    },
+    {
+     "ref": "ghv-poem",
+     "note": {
+      "en": "Guðrún urges her sons to avenge Svanhildr.",
+      "is": "Guðrún eggjar syni sína að hefna Svanhildar."
+     }
+    },
+    {
+     "ref": "hm-poem",
+     "note": {
+      "en": "Hamðir and Sörli at Jörmunrekkr's hall.",
+      "is": "Hamðir og Sörli í höll Jörmunrekks."
+     }
+    }
+   ]
+  },
+  {
+   "id": "poets",
+   "title": {
+    "en": "For poets and linguists",
+    "is": "Fyrir skáld og málfræðinga"
+   },
+   "time": {
+    "en": "about 8 hours",
+    "is": "um 8 klukkustundir"
+   },
+   "steps": [
+    {
+     "ref": "s-ch7",
+     "to": "s-ch8",
+     "note": {
+      "en": "What a kenning is; Snorri's words to young poets.",
+      "is": "Hvað kenning er; orð Snorra til ungra skálda."
+     }
+    },
+    {
+     "ref": "s-ch9",
+     "to": "s-ch23",
+     "note": {
+      "en": "Kennings for the gods, with the verses that use them.",
+      "is": "Kenningar goðanna með vísunum sem nota þær."
+     }
+    },
+    {
+     "ref": "s-ch27",
+     "to": "s-ch40",
+     "note": {
+      "en": "Kennings for the goddesses, the sky, the earth, the sea, men and gold.",
+      "is": "Kenningar gyðjanna, himins, jarðar, sjávar, manna og gulls."
+     }
+    },
+    {
+     "ref": "s-ch56",
+     "to": "s-ch89",
+     "note": {
+      "en": "More kennings, then the heiti: the word lists of the poets.",
+      "is": "Fleiri kenningar, síðan heitin: orðalistar skáldanna."
+     }
+    },
+    {
+     "ref": "h-ch1",
+     "to": "h-ch3",
+     "note": {
+      "en": "Háttatal: 102 stanzas, one for each metre, with Snorri's commentary.",
+      "is": "Háttatal: 102 erindi, eitt fyrir hvern hátt, með skýringum Snorra."
+     }
+    }
+   ]
+  }
+ ]
+}
