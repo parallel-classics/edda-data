@@ -1,32 +1,75 @@
 # Status
 
-Version 0.1.0, 2026-10-24. Table from `python -I scripts/validate.py` (overlays applied; `source` = base
-edition text, `auto` = automatic alignment or modernisation, `draft` = unreviewed human or AI text,
-`empty` = no text in the cell).
+Version 0.1.0, 2026-10-24; tables refreshed 2026-11-01 (task 17). Tables from `python -I scripts/validate.py`
+(overlays applied). Two properties per cell: the **origin** of the text (`edition` = Guðni Jónsson's base text,
+`published` = a published human text placed in the row automatically — Brodeur, Bellows, Netútgáfan —, `machine` =
+automatic spelling modernisation, `ai` = AI draft, `contributor` = written through the edit flow) and the **check**
+state (for published text the placement: `aligned-auto` / `aligned-checked`; for the rest the words: `unreviewed` /
+`reviewed`; `disputed` when reviewers disagree). `empty` = no text in the cell. The third table is the old one-word
+form kept for comparison (`auto` there means "placed automatically" for published text).
 
 ```
-part            col     source     auto    draft reviewed disputed    empty    total
-------------------------------------------------------------------------------------
-Formáli         on          12        0        0        0        0        0       12
-Formáli         is           0       12        0        0        0        0       12
-Formáli         en           0       12        0        0        0        0       12
-Gylfaginning    on         345        0        0        0        0        0      345
-Gylfaginning    is           0      344        0        0        0        1      345
-Gylfaginning    en           0      340        0        0        0        5      345
-Skáldskaparmál  on         854        0        0        0        0        0      854
-Skáldskaparmál  is           0      854        0        0        0        0      854
-Skáldskaparmál  en           0      843        1        0        0       10      854
-Háttatal        on         303        0        0        0        0        0      303
-Háttatal        is           0      303        0        0        0        0      303
-Háttatal        en           0        0      303        0        0        0      303
-Poetic Edda     on        1952        0        0        0        0        0     1952
-Poetic Edda     is           0     1952        0        0        0        0     1952
-Poetic Edda     en           0     1587      359        0        0        6     1952
+[origin]
+part            col        edition    published      machine           ai  contributor        empty    total
+------------------------------------------------------------------------------------------------------------
+Formáli         on              12            0            0            0            0            0       12
+Formáli         is               0            0           12            0            0            0       12
+Formáli         en               0           12            0            0            0            0       12
+Gylfaginning    on             345            0            0            0            0            0      345
+Gylfaginning    is               0          344            0            0            0            1      345
+Gylfaginning    en               0          340            0            0            0            5      345
+Skáldskaparmál  on             854            0            0            0            0            0      854
+Skáldskaparmál  is               0            0          854            0            0            0      854
+Skáldskaparmál  en               0          843            0            1            0           10      854
+Háttatal        on             303            0            0            0            0            0      303
+Háttatal        is               0            0          303            0            0            0      303
+Háttatal        en               0            0            0          303            0            0      303
+Poetic Edda     on            1952            0            0            0            0            0     1952
+Poetic Edda     is               0            0         1952            0            0            0     1952
+Poetic Edda     en               0         1587            0          359            0            6     1952
+
+[check]
+part            col       aligned-auto  aligned-checked       unreviewed         reviewed         disputed            empty    total
+------------------------------------------------------------------------------------------------------------------------------------
+Formáli         on                   0                0               12                0                0                0       12
+Formáli         is                   0                0               12                0                0                0       12
+Formáli         en                  12                0                0                0                0                0       12
+Gylfaginning    on                   0                0              345                0                0                0      345
+Gylfaginning    is                 344                0                0                0                0                1      345
+Gylfaginning    en                 340                0                0                0                0                5      345
+Skáldskaparmál  on                   0                0              854                0                0                0      854
+Skáldskaparmál  is                   0                0              854                0                0                0      854
+Skáldskaparmál  en                 843                0                1                0                0               10      854
+Háttatal        on                   0                0              303                0                0                0      303
+Háttatal        is                   0                0              303                0                0                0      303
+Háttatal        en                   0                0              303                0                0                0      303
+Poetic Edda     on                   0                0             1952                0                0                0     1952
+Poetic Edda     is                   0                0             1952                0                0                0     1952
+Poetic Edda     en                1587                0              359                0                0                6     1952
+
+[status (old one-word form)]
+part            col      source      auto     draft  reviewed  disputed     empty    total
+------------------------------------------------------------------------------------------
+Formáli         on           12         0         0         0         0         0       12
+Formáli         is            0        12         0         0         0         0       12
+Formáli         en            0        12         0         0         0         0       12
+Gylfaginning    on          345         0         0         0         0         0      345
+Gylfaginning    is            0       344         0         0         0         1      345
+Gylfaginning    en            0       340         0         0         0         5      345
+Skáldskaparmál  on          854         0         0         0         0         0      854
+Skáldskaparmál  is            0       854         0         0         0         0      854
+Skáldskaparmál  en            0       843         1         0         0        10      854
+Háttatal        on          303         0         0         0         0         0      303
+Háttatal        is            0       303         0         0         0         0      303
+Háttatal        en            0         0       303         0         0         0      303
+Poetic Edda     on         1952         0         0         0         0         0     1952
+Poetic Edda     is            0      1952         0         0         0         0     1952
+Poetic Edda     en            0      1587       359         0         0         6     1952
 ```
 
 Poetic Edda (added 2026-10-25): 45 poems, 1,952 rows (stanzas, prose passages, unnumbered verse); Icelandic
-automatic; English for every row: Bellows 1923 for 36 poems (1,587 rows, matched automatically — the `auto`
-count), Brodeur where Snorri quotes a stanza Bellows does not cover (2 rows), and an unreviewed AI draft for the
+automatic; English for every row: Bellows 1923 for 36 poems (1,587 rows, matched automatically — `published` /
+`aligned-auto`), Brodeur where Snorri quotes a stanza Bellows does not cover (2 rows), and an unreviewed AI draft for the
 rest (359 rows: the nine poems Bellows did not translate and the stanzas he left out; records in
 `overlays/en/poetic-ai-draft.json`, 135 lines marked [?]). The 6 empty cells are stanzas whose English sits in the
 previous row. 91 links from Snorri's rows. Titles: 196 in Old Norse, automatic Icelandic and AI-draft English.

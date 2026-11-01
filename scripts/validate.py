@@ -5,9 +5,11 @@ Checks
   aligned/poetic/al_<poem>.json  Poetic Edda: rows carry their own ids <poem>-s<N> / <poem>-p<k>, unique;
                       index.json lists every poem file; links.json: both ends of every link exist
   aligned/titles.json every chapter of Snorri's parts and every poem has a title entry
+  aligned/sources.json  the generated origin of every part and cell (task 17): kinds, cells, checks per origin
   overlays/**/*.json  {"records": [...]}; every record: row id exists in aligned/, cell in {on, is, en},
-                      status in {auto, draft, reviewed, disputed}, non-empty text, author, date YYYY-MM-DD,
-                      "replaces" null or string
+                      either status in {auto, draft, reviewed, disputed} (old form) or origin + check (new form,
+                      check allowed for that origin; source with origin published), non-empty text, author,
+                      date YYYY-MM-DD, "replaces" null or string
   images/records.json every record: unique id, part known, chapter exists, scene_rows (if given) exist, core keys present,
                       "file" (if given) exists in images/pd/; the optional top-level "unfilled" map names existing slots
   images/scenes.json  every chapter key exists in the part
@@ -15,8 +17,10 @@ Checks
                       ids are unique slugs, tags are from the vocabulary, Wikidata ids look like Q123, every mention
                       names an existing entity, row and language, every used image passed the licence check
 
-Then prints, per part and column, how many cells are source / auto / draft / reviewed / disputed / empty after
-overlays are applied (latest record per row+cell wins; a disputed record marks the cell disputed).
+Then prints, per part and column, the effective origin (edition / published / machine / ai / contributor / empty)
+and check (aligned-auto / aligned-checked / unreviewed / reviewed / disputed / empty) of the cells after overlays
+are applied (an unresolved dispute wins; else the latest reviewed or aligned-checked record; else the generated
+cell), and the old one-word summary for comparison with earlier tables.
 
 Usage: python -I scripts/validate.py [repo root]      exit code 1 on any error
 Standard library only.
@@ -38,6 +42,8 @@ PARTS = [  # row-id prefix, aligned file, "part" value inside the file, scenes.j
 LANG_CODES = ("on", "is", "en", "ru", "nb", "nn", "da", "sv", "de")   # possible column languages
 CELLS = ("on", "is", "en", "ru", "nb", "nn", "da", "sv", "de")
 STATUSES = ("auto", "draft", "reviewed", "disputed")
+ORIGINS = ("edition", "published", "machine", "ai", "contributor")
+CHECKS = ("aligned-auto", "aligned-checked", "unreviewed", "reviewed", "disputed")
 ROW_ID = re.compile(r"^([pgsh]-c\d+-\d+|[a-z0-9]+-[spv]\d+)[a-z]?$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 # images/records.json: these keys must be present; the others in images/README.md are optional
@@ -87,6 +93,7 @@ def check_aligned():
                     err(f"{fname}: row {rid} has an empty Old Norse cell")
                 rows[rid] = {c: bool(r.get(c)) for c in LANG_CODES}
                 rows[rid]["en_draft"] = bool(r.get("en_draft"))
+                rows[rid]["en_from"] = bool(r.get("en_from"))
         chapters[prefix] = nums
     # Poetic Edda
     pdir = os.path.join(ROOT, "aligned", "poetic")
@@ -115,7 +122,8 @@ def check_aligned():
                     if not r.get("on"):
                         err(f"{p['file']}: row {rid} has an empty Old Norse cell")
                     rows[rid] = {c2: bool(r.get(c2)) for c2 in LANG_CODES}
-                    rows[rid]["en_draft"] = False
+                    rows[rid]["en_draft"] = bool(r.get("en_draft"))
+                    rows[rid]["en_from"] = bool(r.get("en_from"))
                     rows[rid]["poem"] = True
         chapters["poetic"] = {p["prefix"] for p in idx["poems"]}
     return rows, chapters
@@ -144,10 +152,73 @@ def check_links(rows, chapters):
     return n
 
 
-def check_overlays(rows):
-    """Returns {(row, cell): status} after applying overlays in file order (rule in docs/DATA_MODEL.md; the site
-    build applies the same rule in edda-site/pipeline/overlays.py)."""
+def load_sources():
+    """aligned/sources.json: {"sources": {id: {kind, label, ...}}, "cells": {part: {cell: id}}, "row_flags", "checks"}."""
+    path = os.path.join(ROOT, "aligned", "sources.json")
+    if not os.path.exists(path):
+        err("aligned/sources.json missing (the generated origin of every column; see docs/DATA_MODEL.md)")
+        return {"sources": {}, "cells": {}, "row_flags": {}, "checks": {}}
+    src = load(path)
+    for sid, rec in src.get("sources", {}).items():
+        if rec.get("kind") not in ORIGINS:
+            err(f"aligned/sources.json: source {sid!r} has kind {rec.get('kind')!r}")
+    for part, cells in src.get("cells", {}).items():
+        for cell, sid in cells.items():
+            if sid not in src.get("sources", {}):
+                err(f"aligned/sources.json: cells[{part}][{cell}] = {sid!r} is not a source")
+    for origin, checks in src.get("checks", {}).items():
+        if origin not in ORIGINS or any(c not in CHECKS for c in checks):
+            err(f"aligned/sources.json: checks[{origin}] = {checks!r}")
+    return src
+
+
+def generated_origin(rid, row, src):
+    """(origin, source id, default check) of a generated cell per aligned/sources.json."""
+    def one(cell):
+        if not row.get(cell):
+            return None, None, None
+        part = rid.split("-")[0] if re.match(r"^[pgsh]-c", rid) else "poetic"
+        sid = src.get("cells", {}).get(part, {}).get(cell)
+        for flag, flag_sid in src.get("row_flags", {}).items():
+            if cell == flag.split("_")[0] and row.get(flag):
+                sid = flag_sid
+                break
+        kind = src.get("sources", {}).get(sid, {}).get("kind", "machine")
+        checks = src.get("checks", {}).get(kind) or ["unreviewed"]
+        return kind, sid, checks[0]
+    return one
+
+
+def record_props(rec, src):
+    """(origin, source, check) of an overlay record: the new fields, or the old `status` mapped as in DATA_MODEL.md."""
+    origin, check, status = rec.get("origin"), rec.get("check"), rec.get("status")
+    author = rec.get("author") or ""
+    if origin is None:
+        origin = "ai" if author.startswith("ai:") else "machine" if author.startswith("bot:") or status == "auto" else "contributor"
+    if check is None:
+        default = (src.get("checks", {}).get(origin) or ["unreviewed"])[0]
+        check = {"reviewed": "aligned-checked" if origin == "published" else "reviewed", "disputed": "disputed",
+                 "draft": "unreviewed", "auto": default}.get(status)
+    return origin, rec.get("source"), check
+
+
+def legacy_status(origin, check, default_check):
+    if check == "disputed":
+        return "disputed"
+    if check in ("reviewed", "aligned-checked"):
+        return "reviewed"
+    if origin == "edition":
+        return "source"
+    if origin in ("published", "machine"):
+        return "auto"
+    return "draft"
+
+
+def check_overlays(rows, src):
+    """Returns {(row, cell): (origin, source, check)} after applying overlays in file order (rule in
+    docs/DATA_MODEL.md; the site build applies the same rule in edda-site/pipeline/overlays.py)."""
     effective = {}
+    decided = {}     # (row, cell) -> True once a reviewed / aligned-checked record exists
     files = sorted(glob.glob(os.path.join(ROOT, "overlays", "**", "*.json"), recursive=True))
     for path in files:
         rel = os.path.relpath(path, ROOT)
@@ -164,6 +235,7 @@ def check_overlays(rows):
         for k, rec in enumerate(recs):
             where = f"{rel}#{k}"
             rid, cell, status = rec.get("row"), rec.get("cell"), rec.get("status")
+            origin, source, check = rec.get("origin"), rec.get("source"), rec.get("check")
             if not isinstance(rid, str) or not ROW_ID.match(rid):
                 err(f"{where}: bad row id {rid!r}")
                 continue
@@ -174,8 +246,18 @@ def check_overlays(rows):
                 err(f"{where}: cell {cell!r} not in {CELLS}")
             elif folder_cell in CELLS and cell != folder_cell:
                 err(f"{where}: cell {cell!r} but the file is under overlays/{folder_cell}/")
-            if status not in STATUSES:
-                err(f"{where}: status {status!r} not in {STATUSES}")
+            if origin is None and check is None:
+                if status not in STATUSES:
+                    err(f"{where}: status {status!r} not in {STATUSES}")
+            else:
+                if origin not in ORIGINS:
+                    err(f"{where}: origin {origin!r} not in {ORIGINS}")
+                elif check not in (src.get("checks", {}).get(origin) or CHECKS):
+                    err(f"{where}: check {check!r} is not allowed for origin {origin!r}")
+                if origin == "published" and source not in src.get("sources", {}):
+                    err(f"{where}: origin published needs a source from aligned/sources.json")
+                if status is not None and status not in STATUSES:
+                    err(f"{where}: status {status!r} not in {STATUSES}")
             if not isinstance(rec.get("text"), str) or not rec["text"].strip():
                 err(f"{where}: empty text")
             if not isinstance(rec.get("author"), str) or not rec["author"]:
@@ -186,16 +268,25 @@ def check_overlays(rows):
                 err(f"{where}: replaces must be null or a string")
             if "reason" in rec and not isinstance(rec["reason"], str):
                 err(f"{where}: reason must be a string")
-            if rid in rows and cell in CELLS and status in STATUSES:
-                # docs/DATA_MODEL.md: an unresolved dispute wins; else the latest reviewed record; else drafts
+            if rid in rows and cell in CELLS and (status in STATUSES or (origin in ORIGINS and check in CHECKS)):
+                # docs/DATA_MODEL.md: an unresolved dispute wins; else the latest reviewed / aligned-checked record;
+                # else unreviewed records on top of the generated cell
+                o, sid, ch = record_props(rec, src)
                 key = (rid, cell)
                 cur = effective.get(key)
-                if status in ("disputed", "reviewed"):
-                    effective[key] = status          # a later reviewed record resolves a dispute
-                elif status == "draft" and cur not in ("reviewed", "disputed"):
-                    effective[key] = "draft"
-                elif cur is None:
-                    effective[key] = status          # an "auto" record on an untouched cell
+                if ch in ("reviewed", "aligned-checked"):
+                    effective[key] = (o, sid, ch)          # a later reviewed record resolves a dispute
+                    decided[key] = True
+                elif ch == "disputed":
+                    effective[key] = (cur[0] if cur else o, cur[1] if cur else sid, "disputed")
+                elif cur is None or cur[2] not in ("reviewed", "aligned-checked", "disputed"):
+                    # an unreviewed record: the reading text stays the generated cell, except that an AI-draft cell
+                    # (en_draft) is read from its ai: record; a bot's `auto` record stands for the generated cell
+                    gen = generated_origin(rid, rows[rid], src)(cell)
+                    if o == "ai" and gen[0] == "ai":
+                        effective[key] = ("ai", rec.get("author"), "unreviewed")
+                    elif cur is None:
+                        effective[key] = (o, sid, ch) if o == "machine" and status == "auto" else gen
     return effective, len(files)
 
 
@@ -402,53 +493,69 @@ def check_entities(rows):
     return n_ent, n_men
 
 
-def status_table(rows, effective):
-    cols = ("source", "auto", "draft", "reviewed", "disputed", "empty")
-    table = []
+def cell_props(rid, r, cell, effective, src):
+    """(origin, source, check) of a cell: the overlay result or the generated default; (None, None, None) when empty."""
+    if (rid, cell) in effective:
+        return effective[(rid, cell)]
+    return generated_origin(rid, r, src)(cell)
+
+
+def status_table(rows, effective, src):
+    """Three tables per part and column: origin, check, and the old one-word summary."""
+    tables = {"origin": ORIGINS + ("empty",), "check": CHECKS + ("empty",),
+              "status (old one-word form)": ("source", "auto", "draft", "reviewed", "disputed", "empty")}
     groups = [(prefix, display, lambda rid, p=prefix: rid.split("-")[0] == p) for prefix, _, _, _, display in PARTS]
     groups.append(("poetic", "Poetic Edda", lambda rid: rows[rid].get("poem", False)))
-    for prefix, display, member in groups:
-        present = [c for c in CELLS if any(rows[r][c] for r in rows if member(r))]
-        for cell in present:
-            counts = dict.fromkeys(cols, 0)
-            for rid, r in rows.items():
-                if not member(rid):
-                    continue
-                st = effective.get((rid, cell))
-                if st is None:
-                    if not r[cell]:
-                        st = "empty"
-                    elif cell == "on":
-                        st = "source"
-                    elif cell == "en" and r["en_draft"]:
-                        st = "draft"
+    out = {}
+    for title, cols in tables.items():
+        table = []
+        for prefix, display, member in groups:
+            present = [c for c in CELLS if any(rows[r][c] for r in rows if member(r))]
+            for cell in present:
+                counts = dict.fromkeys(cols, 0)
+                for rid, r in rows.items():
+                    if not member(rid):
+                        continue
+                    o, sid, ch = cell_props(rid, r, cell, effective, src)
+                    if o is None:
+                        k = "empty"
+                    elif title == "origin":
+                        k = o
+                    elif title == "check":
+                        k = ch
                     else:
-                        st = "auto"
-                counts[st] += 1
-            table.append((display, cell, counts))
-    w = max(len(d) for d, _, _ in table)
-    head = f"{'part':<{w}}  col  " + "".join(f"{c:>9}" for c in cols) + "    total"
-    print(head)
-    print("-" * len(head))
-    for display, cell, counts in table:
-        total = sum(counts.values())
-        print(f"{display:<{w}}  {cell:<4} " + "".join(f"{counts[c]:>9}" for c in cols) + f"  {total:>7}")
-    return table
+                        k = legacy_status(o, ch, None)
+                    counts[k] += 1
+                table.append((display, cell, counts))
+        w = max(len(d) for d, _, _ in table)
+        cw = max(9, max(len(c) for c in cols) + 2)
+        head = f"{'part':<{w}}  col  " + "".join(f"{c:>{cw}}" for c in cols) + "    total"
+        print(f"[{title}]")
+        print(head)
+        print("-" * len(head))
+        for display, cell, counts in table:
+            total = sum(counts.values())
+            print(f"{display:<{w}}  {cell:<4} " + "".join(f"{counts[c]:>{cw}}" for c in cols) + f"  {total:>7}")
+        print()
+        out[title] = table
+    return out
 
 
 def main():
     rows, chapters = check_aligned()
-    effective, n_overlay_files = check_overlays(rows)
+    src = load_sources()
+    effective, n_overlay_files = check_overlays(rows, src)
     n_images = check_images(rows, chapters)
     n_links = check_links(rows, chapters)
     n_ent, n_men = check_entities(rows)
     print(f"aligned rows: {len(rows)} in {len(chapters)} parts; overlay files: {n_overlay_files}, "
           f"overlay cells: {len(effective)}; image records: {n_images}; quotation links: {n_links}; "
           f"entities: {n_ent}, mentions: {n_men}\n")
-    status_table(rows, effective)
-    print()
-    print("source = base edition text (Old Norse), auto = automatic alignment or modernisation, "
-          "draft = unreviewed human or AI text, empty = no text in this cell")
+    status_table(rows, effective, src)
+    print("origin: edition = base text, published = a published human text (aligned automatically unless checked), "
+          "machine = automatic spelling, ai = AI draft, contributor = written through the edit flow. "
+          "check: aligned-auto / aligned-checked for published text (the placement), unreviewed / reviewed for the "
+          "rest (the words), disputed = reviewers disagree. empty = no text in this cell.")
     for w in warnings:
         print("warning: " + w)
     if errors:

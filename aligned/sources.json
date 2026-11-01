@@ -1,0 +1,104 @@
+{
+ "_note": "Where the text of each column comes from (task 17: origin and check are two properties per cell). sources: id -> kind (edition / published / machine / ai), label (short, for headers and badges), lang, title. cells: per part (p g s h, poetic) and cell, the source of the generated text. row_flags: row keys that override the part default (an AI draft row, a row that takes Brodeur's stanza). checks: the check values allowed per origin; the first is the default of a generated cell. Read by scripts/validate.py and edda-site/pipeline/overlays.py.",
+ "sources": {
+  "gudni-1954": {
+   "kind": "edition",
+   "label": "Guðni Jónsson 1954",
+   "lang": "on",
+   "title": "Edda Snorra Sturlusonar, normalised text by Guðni Jónsson (Íslendingasagnaútgáfan, 1954), via heimskringla.no"
+  },
+  "gudni-1949": {
+   "kind": "edition",
+   "label": "Guðni Jónsson 1949",
+   "lang": "on",
+   "title": "Eddukvæði, normalised text by Guðni Jónsson (Íslendingasagnaútgáfan, 1949), via heimskringla.no"
+  },
+  "netutgafan-1997": {
+   "kind": "published",
+   "label": "Netútgáfan 1997",
+   "lang": "is",
+   "title": "Snorra-Edda: Gylfaginning in modern spelling, Netútgáfan (Snerpa), June 1997"
+  },
+  "brodeur-1916": {
+   "kind": "published",
+   "label": "Brodeur 1916",
+   "lang": "en",
+   "title": "Arthur Gilchrist Brodeur, The Prose Edda (1916), public domain"
+  },
+  "bellows-1923": {
+   "kind": "published",
+   "label": "Bellows 1923",
+   "lang": "en",
+   "title": "Henry Adams Bellows, The Poetic Edda (1923), public domain"
+  },
+  "modernizer": {
+   "kind": "machine",
+   "label": "automatic spelling",
+   "lang": "is",
+   "title": "automatic modernisation of the Old Norse spelling (edda-site pipeline/modernize.py)"
+  },
+  "ai-draft": {
+   "kind": "ai",
+   "label": "AI draft",
+   "lang": "en",
+   "title": "AI draft translation made for this edition; the record's author (ai:<model>-<yyyy-mm>) names the model"
+  }
+ },
+ "cells": {
+  "p": {
+   "on": "gudni-1954",
+   "is": "modernizer",
+   "en": "brodeur-1916"
+  },
+  "g": {
+   "on": "gudni-1954",
+   "is": "netutgafan-1997",
+   "en": "brodeur-1916"
+  },
+  "s": {
+   "on": "gudni-1954",
+   "is": "modernizer",
+   "en": "brodeur-1916"
+  },
+  "h": {
+   "on": "gudni-1954",
+   "is": "modernizer",
+   "en": "ai-draft"
+  },
+  "poetic": {
+   "on": "gudni-1949",
+   "is": "modernizer",
+   "en": "bellows-1923"
+  }
+ },
+ "row_flags": {
+  "en_draft": "ai-draft",
+  "en_from": "brodeur-1916"
+ },
+ "checks": {
+  "edition": [
+   "unreviewed",
+   "reviewed"
+  ],
+  "published": [
+   "aligned-auto",
+   "aligned-checked",
+   "disputed"
+  ],
+  "machine": [
+   "unreviewed",
+   "reviewed",
+   "disputed"
+  ],
+  "ai": [
+   "unreviewed",
+   "reviewed",
+   "disputed"
+  ],
+  "contributor": [
+   "unreviewed",
+   "reviewed",
+   "disputed"
+  ]
+ }
+}
