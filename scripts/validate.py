@@ -142,7 +142,8 @@ def check_links(rows, chapters):
 
 
 def check_overlays(rows):
-    """Returns {(row, cell): status} after applying overlays in file order (later records win)."""
+    """Returns {(row, cell): status} after applying overlays in file order (rule in docs/DATA_MODEL.md; the site
+    build applies the same rule in edda-site/pipeline/overlays.py)."""
     effective = {}
     files = sorted(glob.glob(os.path.join(ROOT, "overlays", "**", "*.json"), recursive=True))
     for path in files:
@@ -183,11 +184,15 @@ def check_overlays(rows):
             if "reason" in rec and not isinstance(rec["reason"], str):
                 err(f"{where}: reason must be a string")
             if rid in rows and cell in CELLS and status in STATUSES:
+                # docs/DATA_MODEL.md: an unresolved dispute wins; else the latest reviewed record; else drafts
                 key = (rid, cell)
-                if status == "disputed" or effective.get(key) == "disputed":
-                    effective[key] = "disputed"
-                else:
-                    effective[key] = status
+                cur = effective.get(key)
+                if status in ("disputed", "reviewed"):
+                    effective[key] = status          # a later reviewed record resolves a dispute
+                elif status == "draft" and cur not in ("reviewed", "disputed"):
+                    effective[key] = "draft"
+                elif cur is None:
+                    effective[key] = status          # an "auto" record on an untouched cell
     return effective, len(files)
 
 

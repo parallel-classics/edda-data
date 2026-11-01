@@ -93,9 +93,11 @@ For each (row, cell), records are read in file order, then record order within a
    only records are drafts or the generated cell is an AI draft); drafts are listed for reviewers.
 
 The build never writes into `aligned/`; re-running the aligner or the moderniser replaces `aligned/` and
-`auto/` but leaves `overlays/` untouched, so reviewed text survives every rebuild. (The overlay application in
-the site build is edda-site task 7; until then the page shows the generated rows, which already contain the
-AI draft cells.)
+`auto/` but leaves `overlays/` untouched, so reviewed text survives every rebuild. The site build applies the
+rule in `edda-site/pipeline/overlays.py` (since 2026-11-01); the AI-draft cells are read from their overlay
+records (`overlays/en/*-ai-draft.json`), the `en_draft` copies in `aligned/` only mark the cell as a draft.
+Overlay text: blocks separated by a blank line, verse lines by `\n`; a one-line segment facing an Old Norse
+verse block is a one-line verse.
 
 ## Id stability
 
