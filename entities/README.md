@@ -15,6 +15,7 @@ Everything here is status `auto` (automatic identification, not reviewed) until 
 | `rules.json` | by hand (Claude Code) | tag overrides; extra entities that ambiguity rules point at; ambiguity rules per entity or form scoped by poem, part, chapter or row (`ok`, `check`, an entity id, `skip` for a form, or `{prose, verse}`); bynames in the same row (`near`); the name-list sections (`lists`); translator spellings |
 | `notable.json` | by hand (Grigory's list, 2026-11-01) | ids that get a first-appearance card even with fewer than three narrative mentions |
 | `images.json` | `make_entities.py images` | Commons `extmetadata` for every image candidate: licence, author, credit, date, size, page URL, 480 px thumbnail URL, `ok` when the licence is PD / CC0 / CC BY / CC BY-SA (never NC or ND) |
+| `img/` + `img/index.json` | `make_entities.py thumbs` | the accepted picture of every entity, resized (longest side 480 px, JPEG) from the Commons thumbnail, one file per entity id; the index carries source file, licence, licence URL, artist, Commons page, width, height |
 | `entities.json` | `make_entities.py detect` | one record per entity (below) plus the tag vocabulary with English and Icelandic labels |
 | `mentions.json` | `make_entities.py detect` | one record per mention (below) |
 | `report.md` | `make_entities.py detect` | numbers, `check` counts, derived forms, the gap list for the curator, rejected images, cards |
@@ -40,8 +41,8 @@ Generated files are regenerated, never edited (COORDINATION rule 5: rerun, do no
   hero, king, poet, animal, horse, monster, object, place_myth, place_real, river, hall, people, poem, event;
   `character` is a placeholder for seed entries whose description gives no better tag (listed in `report.md`).
 - `names`: Wikidata labels (CC0) plus `on` where the curator set it. `desc`: the Wikidata description (CC0).
-- `image`: the first candidate whose Commons licence passed (`images.json`); null otherwise. Local resized copies
-  come with task 16d.
+- `image`: the first candidate whose Commons licence passed (`images.json`); null otherwise. The local resized copy
+  is `img/<id>.jpg` (task 16d), the website serves it as `img/names/<id>.jpg`.
 - `forms`: the spellings met per language, most frequent first (English and Icelandic as the translations spell
   them: Othin, Thor, Guthrun, Sigurth, Hárbarður ...). `heiti`: form → `heiti` or `kenning`.
 - `mentions` / `narrative` / `check`: Old Norse mentions in all, outside the name-list sections, and flagged
