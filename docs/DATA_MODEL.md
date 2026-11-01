@@ -87,7 +87,7 @@ them, so that Brodeur's published translation was badged "automatic" because onl
 | `edition` | `unreviewed` / `reviewed` | typographical fixes only (two reviewers) |
 
 The generated origin of every cell is in `aligned/sources.json` (per part and cell, with the row flags `en_draft`
-→ `ai-draft`, `en_from` → `brodeur-1916` and `en_thorpe` → `thorpe-1866` for the poems); the default check of a generated cell is the first
+→ `ai-draft`, `en_from` → `brodeur-1916` and `en_thorpe` → `thorpe-1866` for the poems; `is_netutgafan` → `netutgafan-1997` once the Netútgáfan poems are switched on — until then their text waits in `is_nu`, which the page does not read); the default check of a generated cell is the first
 value of its origin's list (`aligned-auto` for published text, `unreviewed` otherwise). Nothing automatic is ever
 presented as reviewed, and the bare word "automatic" never stands next to a published translation: the page says
 "Brodeur 1916 · placed automatically".

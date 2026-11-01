@@ -63,7 +63,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Reiður var þá Vingþór",
+        "er hann vaknaði",
+        "og síns hamars",
+        "um saknaði,",
+        "skegg nam að hrista,",
+        "skör nam að dýja,",
+        "réð Jarðar bur",
+        "um að þreifast."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.981
     },
     {
      "id": "thrk-s2",
@@ -117,7 +134,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Og hann það orða",
+        "alls fyrst um kvað:",
+        "Heyrðu nú, Loki,",
+        "hvað eg nú mæli",
+        "er eigi veit",
+        "Jarðar hvergi",
+        "né upphimins:",
+        "ás er stolinn hamri."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.984
     },
     {
      "id": "thrk-s3",
@@ -171,7 +205,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Gengu þeir fagra",
+        "Freyju túna",
+        "og hann það orða",
+        "alls fyrst um kvað:",
+        "Muntu mér, Freyja,",
+        "fjaðurhams ljá",
+        "ef eg minn hamar",
+        "mættag hitta."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.964
     },
     {
      "id": "thrk-s4",
@@ -229,7 +280,25 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "p",
+       "s": "Freyja kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Þó mynda eg gefa þér",
+        "þótt úr gulli væri",
+        "og þó selja",
+        "að væri úr silfri."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.988
     },
     {
      "id": "thrk-s5",
@@ -266,7 +335,22 @@
      "en_stanzas": [],
      "en_cont": true,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Fló þá Loki,",
+        "fjaðurhamur dundi,",
+        "uns fyr utan kom",
+        "ása garða",
+        "og fyr innan kom",
+        "jötna heima."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.971
     },
     {
      "id": "thrk-s6",
@@ -315,7 +399,22 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Þrymur sat á haugi,",
+        "þursa drottinn,",
+        "greyjum sínum",
+        "gullbönd snöri",
+        "og mörum sínum",
+        "mön jafnaði."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.989
     },
     {
      "id": "thrk-s7",
@@ -409,7 +508,34 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "p",
+       "s": "Þrymur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Hvað er með ásum?",
+        "Hvað er með álfum?",
+        "Hví ertu einn kominn",
+        "í Jötunheima?"
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Illt er með ásum, illt er með álfum; hefir þú Hlórriða hamar um fólginn?"
+      }
+     ],
+     "is_nu_sim": 0.981
     },
     {
      "id": "thrk-s8",
@@ -474,7 +600,29 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "p",
+       "s": "Þrymur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Eg hefi Hlórriða.",
+        "hamar um fólginn",
+        "átta röstum",
+        "fyr jörð neðan.",
+        "Hann engi maður",
+        "aftur um heimtir",
+        "nema færi mér",
+        "Freyju að kvæn."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.959
     },
     {
      "id": "thrk-s9",
@@ -533,7 +681,26 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Fló þá Loki,",
+        "fjaðurhamur dundi,",
+        "uns fyr utan kom",
+        "jötna heima",
+        "og fyr innan kom",
+        "ása garða.",
+        "Mætti hann Þór",
+        "miðra garða",
+        "og hann það orða",
+        "alls fyrst um kvað:"
+       ]
+      }
+     ],
+     "is_nu_sim": 0.943
     },
     {
      "id": "thrk-s10",
@@ -587,7 +754,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Hefir þú erindi",
+        "sem erfiði?",
+        "Segðu á lofti",
+        "löng tíðindi.",
+        "Oft sitjanda",
+        "sögur um fallast",
+        "og liggjandi",
+        "lygi um bellir."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.955
     },
     {
      "id": "thrk-s11",
@@ -652,7 +836,29 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "p",
+       "s": "Loki kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Hefi eg erfiði",
+        "og erindi.",
+        "Þrymur hefir þinn hamar,",
+        "þursa drottinn.",
+        "Hann engi maður",
+        "aftur um heimtir",
+        "nema honum færi",
+        "Freyju að kvon."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.96
     },
     {
      "id": "thrk-s12",
@@ -706,7 +912,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Ganga þeir fagra",
+        "Freyju að hitta",
+        "og hann það orða",
+        "alls fyrst um kvað:",
+        "Bittu þig, Freyja,",
+        "brúðar líni;",
+        "við skulum aka tvö",
+        "í Jötunheima."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.977
     },
     {
      "id": "thrk-s13",
@@ -765,7 +988,26 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Reið varð þá Freyja",
+        "og fnásaði,",
+        "allur ása salur",
+        "undir bifðist,",
+        "stökk það hið mikla",
+        "men Brísinga:",
+        "Mig veistu verða",
+        "vergjarnasta",
+        "ef eg ek með þér",
+        "í Jötunheima."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.984
     },
     {
      "id": "thrk-s14",
@@ -819,7 +1061,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Senn voru æsir",
+        "allir á þingi",
+        "og ásynjur",
+        "allar á máli",
+        "og um það réðu",
+        "ríkir tívar",
+        "hve þeir Hlórriða",
+        "hamar um sætti."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.982
     },
     {
      "id": "thrk-s15",
@@ -873,7 +1132,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Þá kvað það Heimdallur,",
+        "hvítastur ása,",
+        "vissi hann vel fram",
+        "sem vanir aðrir:",
+        "Bindum vér Þór þá",
+        "brúðar líni,",
+        "hafi hann ið mikla",
+        "men Brísinga."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.993
     },
     {
      "id": "thrk-s16",
@@ -927,7 +1203,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Látum und honum",
+        "hrynja lukla",
+        "og kvenvoðir",
+        "um kné falla",
+        "en á brjósti",
+        "breiða steina",
+        "og haglega",
+        "um höfuð typpum."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.981
     },
     {
      "id": "thrk-s17",
@@ -976,7 +1269,22 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Þá kvað það Þór,",
+        "þrúðugur ás:",
+        "Mig munu æsir",
+        "argan kalla",
+        "ef eg bindast læt",
+        "brúðar líni."
+       ]
+      }
+     ],
+     "is_nu_sim": 1.0
     },
     {
      "id": "thrk-s18",
@@ -1030,7 +1338,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Þá kvað það Loki",
+        "Laufeyjar sonur:",
+        "Þegi þú, Þór,",
+        "þeirra orða.",
+        "Þegar munu jötnar",
+        "Ásgarð búa",
+        "nema þú þinn hamar",
+        "þér um heimtir."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.983
     },
     {
      "id": "thrk-s19",
@@ -1101,7 +1426,28 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Bundu þeir Þór þá",
+        "brúðar líni",
+        "og inu mikla",
+        "meni Brísinga,",
+        "létu und honum",
+        "hrynja lukla",
+        "og kvenvoðir",
+        "um kné falla",
+        "en á brjósti",
+        "breiða steina",
+        "og haglega",
+        "um höfuð typptu."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.979
     },
     {
      "id": "thrk-s20",
@@ -1150,7 +1496,22 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Þá kvað Loki",
+        "Laufeyjar sonur:",
+        "Mun eg og með þér",
+        "ambátt vera,",
+        "við skulum aka tvö",
+        "í Jötunheima."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.961
     },
     {
      "id": "thrk-s21",
@@ -1204,7 +1565,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Senn voru hafrar",
+        "heim um reknir,",
+        "skyndir að sköklum,",
+        "skyldu vel renna.",
+        "Björg brotnuðu,",
+        "brann jörð loga,",
+        "ók Óðins sonur",
+        "í Jötunheima."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.984
     },
     {
      "id": "thrk-s22",
@@ -1258,7 +1636,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Þá kvað það Þrymur,",
+        "þursa drottinn:",
+        "Standið upp, jötnar,",
+        "og stráið bekki.",
+        "Nú færið mér",
+        "Freyju að kvon",
+        "Njarðar dóttur",
+        "úr Nóatúnum."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.988
     },
     {
      "id": "thrk-s23",
@@ -1312,7 +1707,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Ganga hér að garði",
+        "gullhyrndar kýr,",
+        "öxn alsvartir",
+        "jötni að gamni;",
+        "fjöld á eg meiðma,",
+        "fjöld á eg menja,",
+        "einnar mér Freyju",
+        "ávant þykir."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.977
     },
     {
      "id": "thrk-s24",
@@ -1371,7 +1783,26 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Var þar að kveldi",
+        "um komið snemma",
+        "og fyr jötna",
+        "öl fram borið.",
+        "Einn át uxa,",
+        "átta laxa,",
+        "krásir allar",
+        "þær er konur skyldu,",
+        "drakk Sifjar ver",
+        "sáld þrjú mjaðar."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.977
     },
     {
      "id": "thrk-s25",
@@ -1425,7 +1856,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Þá kvað það Þrymur,",
+        "þursa drottinn:",
+        "Hvar sáttu brúðir",
+        "bíta hvassara?",
+        "Sák-a eg brúðir",
+        "bíta breiðara",
+        "né inn meira mjöð",
+        "mey um drekka."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.972
     },
     {
      "id": "thrk-s26",
@@ -1479,7 +1927,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Sat in alsnotra",
+        "ambátt fyrir",
+        "er orð um fann",
+        "við jötuns máli:",
+        "Át vætur Freyja",
+        "átta nóttum,",
+        "svo var hún óðfús",
+        "í Jötunheima."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.97
     },
     {
      "id": "thrk-s27",
@@ -1533,7 +1998,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Laut und línu,",
+        "lysti að kyssa,",
+        "en hann utan stökk",
+        "endlangan sal:",
+        "Hví eru öndótt",
+        "augu Freyju?",
+        "Þykir mér úr augum",
+        "eldur um brenna."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.98
     },
     {
      "id": "thrk-s28",
@@ -1587,7 +2069,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Sat in alsnotra",
+        "ambátt fyrir",
+        "er orð um fann",
+        "við jötuns máli:",
+        "Svaf vætur Freyja",
+        "átta nóttum,",
+        "svo var hún óðfús",
+        "í Jötunheima."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.971
     },
     {
      "id": "thrk-s29",
@@ -1646,7 +2145,26 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Inn kom in arma",
+        "jötna systir,",
+        "hin er brúðfjár",
+        "biðja þorði:",
+        "Láttu þér af höndum",
+        "hringa rauða,",
+        "ef þú öðlast vilt",
+        "ástir mínar,",
+        "ástir mínar,",
+        "alla hylli."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.979
     },
     {
      "id": "thrk-s30",
@@ -1700,7 +2218,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Þá kvað það Þrymur,",
+        "þursa drottinn:",
+        "Berið inn hamar",
+        "brúði að vígja,",
+        "leggið Mjöllni",
+        "í meyjar kné,",
+        "vígið okkur saman",
+        "Várar hendi."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.98
     },
     {
      "id": "thrk-s31",
@@ -1754,7 +2289,24 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Hló Hlórriða",
+        "hugur í brjósti",
+        "er harðhugaður",
+        "hamar um þekkti;",
+        "Þrym drap hann fyrstan,",
+        "þursa drottin,",
+        "og ætt jötuns",
+        "alla lamdi."
+       ]
+      }
+     ],
+     "is_nu_sim": 0.967
     },
     {
      "id": "thrk-s32",
@@ -1820,7 +2372,34 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Drap hann ina öldnu",
+        "jötna systur,",
+        "hin er brúðfjár",
+        "um beðið hafði,",
+        "hún skell um hlaut",
+        "fyr skillinga,",
+        "en högg hamars",
+        "fyr hringa fjöld.",
+        "Svo kom Óðins sonur",
+        "endur að hamri."
+       ]
+      },
+      {
+       "t": "p",
+       "s": "Netútgáfan janúar 1997"
+      },
+      {
+       "t": "p",
+       "s": "Þrymskviða er frá Runeberg samtökunum í Svíþjóð. (http://www.runeberg.lysator.liu.se)"
+      }
+     ],
+     "is_nu_sim": 0.737
     }
    ],
    "notes": [

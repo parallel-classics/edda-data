@@ -55,6 +55,9 @@ Block shape (`on_*.json`): `{"title", "chapters": [{"num", "title", "blocks": [.
 
 - Source: https://netutgafan.snerpa.is/snorri/gylf.htm — "Netútgáfan — júní 1997", modern spelling and
   light modernised morphology (*hefir* → *hefur*).
+- `netutgafan/`: five Eddic poems in modern spelling from the same site (Hávamál, Völuspá, Þrymskviða, Völundarkviða,
+  Helgakviða Hundingsbana II), fetched 2026-11-01; prepared on the rows as `is_nu`, switched on after the notification
+  email (`netutgafan/README.md`).
 - No free modern-spelling text of the other three parts is known; their Icelandic column is automatic
   (`auto/is_*_auto.json`). If one turns up it replaces the automatic column (see `docs/ROADMAP.md`).
 
