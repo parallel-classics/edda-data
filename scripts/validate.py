@@ -490,6 +490,25 @@ def check_entities(rows):
                 err(f"entities/mentions.json[{i}]: unknown lang {m.get('lang')!r}")
             if not m.get("form") or m.get("kind") not in ("name", "heiti", "kenning") or m.get("status") != "auto":
                 err(f"entities/mentions.json[{i}]: needs form, kind in name/heiti/kenning, status auto")
+    co_path = os.path.join(d, "coords.json")
+    pl_path = os.path.join(d, "places.json")
+    places = load(pl_path).get("places", {}) if os.path.exists(pl_path) else {}
+    for eid in places:
+        if eid not in ids_out:
+            err(f"entities/places.json: {eid!r} is not an entity")
+    if os.path.exists(co_path):
+        for eid, rec in load(co_path).get("places", {}).items():
+            where = f"entities/coords.json#{eid}"
+            if eid not in ids_out:
+                err(f"{where}: unknown entity")
+            if not isinstance(rec.get("lat"), (int, float)) or not -90 <= rec["lat"] <= 90 \
+                    or not isinstance(rec.get("lon"), (int, float)) or not -180 <= rec["lon"] <= 180:
+                err(f"{where}: bad coordinates {rec.get('lat')!r}, {rec.get('lon')!r}")
+            if not re.match(r"^Q\d+$", rec.get("wikidata") or ""):
+                err(f"{where}: no Wikidata id")
+            pinned = places.get(eid, {}).get("wikidata")
+            if pinned and pinned != rec["wikidata"]:
+                err(f"{where}: {rec['wikidata']} but places.json pins {pinned}; rerun make_entities.py coords")
     img_idx = os.path.join(d, "img", "index.json")
     if os.path.exists(img_idx):
         for eid, rec in load(img_idx).get("images", {}).items():

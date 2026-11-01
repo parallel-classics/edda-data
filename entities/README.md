@@ -15,6 +15,8 @@ Everything here is status `auto` (automatic identification, not reviewed) until 
 | `rules.json` | by hand (Claude Code) | tag overrides; extra entities that ambiguity rules point at; ambiguity rules per entity or form scoped by poem, part, chapter or row (`ok`, `check`, an entity id, `skip` for a form, or `{prose, verse}`); bynames in the same row (`near`); the name-list sections (`lists`); translator spellings |
 | `notable.json` | by hand (Grigory's list, 2026-11-01) | ids that get a first-appearance card even with fewer than three narrative mentions |
 | `images.json` | `make_entities.py images` | Commons `extmetadata` for every image candidate: licence, author, credit, date, size, page URL, 480 px thumbnail URL, `ok` when the licence is PD / CC0 / CC BY / CC BY-SA (never NC or ND) |
+| `places.json` | by hand (Claude Code, 2026-11-01; for the curator to review) | the Wikidata item each real place stands for (`wikidata`; `search` is resolved and pinned by the `coords` stage; null = no fixed location) with a note |
+| `coords.json` | `make_entities.py coords` | coordinates (Wikidata P625, CC0) of the real places: Wikidata id, lat, lon, label, description; `without` lists the places that have none and why |
 | `img/` + `img/index.json` | `make_entities.py thumbs` | the accepted picture of every entity, resized (longest side 480 px, JPEG) from the Commons thumbnail, one file per entity id; the index carries source file, licence, licence URL, artist, Commons page, width, height |
 | `entities.json` | `make_entities.py detect` | one record per entity (below) plus the tag vocabulary with English and Icelandic labels |
 | `mentions.json` | `make_entities.py detect` | one record per mention (below) |
@@ -48,6 +50,8 @@ Generated files are regenerated, never edited (COORDINATION rule 5: rerun, do no
 - `mentions` / `narrative` / `check`: Old Norse mentions in all, outside the name-list sections, and flagged
   uncertain. `first`: first narrative mention per book (the card row); `first_any`: first of any kind.
 - `card`: has a free image and (in `notable.json` or at least three narrative mentions).
+- `coords`: `[lat, lon]` from `coords.json` for the real places (task 16e); null otherwise. Mythic places never get
+  coordinates.
 
 ## Mention record (`mentions.json`)
 
