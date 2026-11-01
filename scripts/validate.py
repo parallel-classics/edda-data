@@ -377,6 +377,57 @@ SEED_TYPES = ("god", "goddess", "giant", "dwarf", "elf", "valkyrie", "human", "c
 OK_LICENCE = re.compile(r"^(public domain|pd\b|cc0|cc by(-sa)?(\s|$))", re.I)
 
 
+def poem_prefixes_for_intros():
+    p = os.path.join(ROOT, "aligned", "poetic", "index.json")
+    if not os.path.exists(p):
+        return []
+    idx = load(p)
+    poems = idx.get("poems") if isinstance(idx, dict) else idx
+    out = []
+    for x in poems or []:
+        if isinstance(x, dict) and x.get("prefix"):
+            out.append(x["prefix"])
+    return out
+
+
+def check_intros(poem_prefixes):
+    """intros/intros.json (task 22): one intro per part key (p g s h pm ph po) and one headnote per poem prefix; every
+    text has en and is, a status, an author per language (ai:<model>-<yyyy-mm> for drafts) and a date."""
+    p = os.path.join(ROOT, "intros", "intros.json")
+    if not os.path.exists(p):
+        return
+    doc = load(p)
+    parts, poems = doc.get("parts") or {}, doc.get("poems") or {}
+    if set(parts) != {"p", "g", "s", "h", "pm", "ph", "po"}:
+        err(f"intros/intros.json: parts must be p g s h pm ph po, got {sorted(parts)}")
+    if poem_prefixes and set(poems) != set(poem_prefixes):
+        err(f"intros/intros.json: poems differ from the aligned poems: missing {sorted(set(poem_prefixes) - set(poems))}, "
+            f"extra {sorted(set(poems) - set(poem_prefixes))}")
+
+    def check_rec(where, rec, keys):
+        for k in keys:
+            t = rec.get(k) or {}
+            for lang in ("en", "is"):
+                if not isinstance(t.get(lang), str) or not t[lang].strip():
+                    err(f"intros/intros.json {where}: {k}.{lang} missing")
+        if rec.get("status") not in ("draft", "reviewed"):
+            err(f"intros/intros.json {where}: status must be draft or reviewed")
+        for lang in ("en", "is"):
+            a = (rec.get("author") or {}).get(lang, "")
+            if not re.match(r"^(user:[\w-]+|ai:[\w.-]+-\d{4}-\d{2}|bot:[\w-]+)$", a):
+                err(f"intros/intros.json {where}: author.{lang} {a!r} is not user:/ai:/bot:")
+            if a.startswith("ai:") and rec.get("status") == "reviewed":
+                err(f"intros/intros.json {where}: an AI text cannot be reviewed without a user: reviewer")
+        if not re.match(r"^\d{4}-\d{2}-\d{2}$", rec.get("date", "")):
+            err(f"intros/intros.json {where}: date missing")
+    for k, rec in parts.items():
+        if not rec.get("title"):
+            err(f"intros/intros.json parts.{k}: title missing")
+        check_rec(f"parts.{k}", rec, ("intro", "note"))
+    for k, rec in poems.items():
+        check_rec(f"poems.{k}", rec, ("headnote",))
+
+
 def check_ravens(rows):
     """images/ravens/ (decision of 2026-11-01): index.json names a public-domain source with a licence check, and every
     listed file exists with the recorded size."""
@@ -698,6 +749,7 @@ def main():
     check_paths(rows)
     check_worlds(rows)
     check_ravens(rows)
+    check_intros(poem_prefixes_for_intros())
     print(f"aligned rows: {len(rows)} in {len(chapters)} parts; overlay files: {n_overlay_files}, "
           f"overlay cells: {len(effective)}; image records: {n_images}; quotation links: {n_links}; "
           f"entities: {n_ent}, mentions: {n_men}\n")
