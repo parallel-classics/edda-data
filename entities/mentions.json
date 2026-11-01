@@ -146,6 +146,14 @@
    "status": "auto"
   },
   {
+   "entity": "skjoldr",
+   "row": "p-c3-2",
+   "lang": "on",
+   "form": "Skjöld",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "bjarr",
    "row": "p-c3-2",
    "lang": "on",
@@ -267,6 +275,14 @@
    "status": "auto"
   },
   {
+   "entity": "skjoldr",
+   "row": "p-c3-2",
+   "lang": "is",
+   "form": "Skjöld",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "bjarr",
    "row": "p-c3-2",
    "lang": "is",
@@ -359,6 +375,14 @@
    "row": "p-c3-2",
    "lang": "en",
    "form": "Móda",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "skjoldr",
+   "row": "p-c3-2",
+   "lang": "en",
+   "form": "Skjöld",
    "kind": "name",
    "status": "auto"
   },
@@ -779,6 +803,14 @@
    "status": "auto"
   },
   {
+   "entity": "skjoldr",
+   "row": "p-c4-2",
+   "lang": "on",
+   "form": "Skjöldr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fridleifr",
    "row": "p-c4-2",
    "lang": "on",
@@ -815,6 +847,14 @@
    "row": "p-c4-2",
    "lang": "is",
    "form": "Reiðgotaland",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "skjoldr",
+   "row": "p-c4-2",
+   "lang": "is",
+   "form": "Skjöldur",
    "kind": "name",
    "status": "auto"
   },
@@ -859,6 +899,14 @@
    "status": "auto"
   },
   {
+   "entity": "skjoldr",
+   "row": "p-c4-2",
+   "lang": "en",
+   "form": "Skjöldr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fridleifr",
    "row": "p-c4-2",
    "lang": "en",
@@ -887,6 +935,14 @@
    "row": "p-c5-1",
    "lang": "on",
    "form": "Svíþjóð",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "p-c5-1",
+   "lang": "on",
+   "form": "Gylfi",
    "kind": "name",
    "status": "auto"
   },
@@ -935,6 +991,14 @@
    "row": "p-c5-1",
    "lang": "is",
    "form": "Svíþjóð",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "p-c5-1",
+   "lang": "is",
+   "form": "Gylfi",
    "kind": "name",
    "status": "auto"
   },
@@ -983,6 +1047,14 @@
    "row": "p-c5-1",
    "lang": "en",
    "form": "Sweden",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "p-c5-1",
+   "lang": "en",
+   "form": "Gylfi",
    "kind": "name",
    "status": "auto"
   },
@@ -1309,6 +1381,14 @@
    "status": "auto"
   },
   {
+   "entity": "gylfi",
+   "row": "g-c1-1",
+   "lang": "on",
+   "form": "Gylfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sweden",
    "row": "g-c1-1",
    "lang": "on",
@@ -1373,6 +1453,14 @@
    "status": "auto"
   },
   {
+   "entity": "gylfi",
+   "row": "g-c1-1",
+   "lang": "is",
+   "form": "Gylfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sweden",
    "row": "g-c1-1",
    "lang": "is",
@@ -1433,6 +1521,14 @@
    "row": "g-c1-1",
    "lang": "is",
    "form": "Bragi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "g-c1-1",
+   "lang": "en",
+   "form": "Gylfi",
    "kind": "name",
    "status": "auto"
   },
@@ -1509,6 +1605,14 @@
    "status": "auto"
   },
   {
+   "entity": "gylfi",
+   "row": "g-c1-2",
+   "lang": "on",
+   "form": "Gylfa",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "denmark",
    "row": "g-c1-2",
    "lang": "on",
@@ -1525,6 +1629,14 @@
    "status": "auto"
   },
   {
+   "entity": "gylfi",
+   "row": "g-c1-2",
+   "lang": "is",
+   "form": "Gylfa",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "denmark",
    "row": "g-c1-2",
    "lang": "is",
@@ -1541,10 +1653,26 @@
    "status": "auto"
   },
   {
+   "entity": "gylfi",
+   "row": "g-c1-2",
+   "lang": "en",
+   "form": "Gylfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "denmark",
    "row": "g-c1-2",
    "lang": "en",
    "form": "Denmark's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "g-c2-1",
+   "lang": "on",
+   "form": "Gylfi",
    "kind": "name",
    "status": "auto"
   },
@@ -1573,6 +1701,14 @@
    "status": "auto"
   },
   {
+   "entity": "gylfi",
+   "row": "g-c2-1",
+   "lang": "is",
+   "form": "Gylfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "asgard",
    "row": "g-c2-1",
    "lang": "is",
@@ -1597,6 +1733,14 @@
    "status": "auto"
   },
   {
+   "entity": "gylfi",
+   "row": "g-c2-1",
+   "lang": "en",
+   "form": "Gylfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "asgard",
    "row": "g-c2-1",
    "lang": "en",
@@ -1617,6 +1761,14 @@
    "row": "g-c2-1",
    "lang": "en",
    "form": "Valhall",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "g-c2-3",
+   "lang": "on",
+   "form": "Gylfi",
    "kind": "name",
    "status": "auto"
   },
@@ -1679,6 +1831,14 @@
   {
    "entity": "odin",
    "row": "g-c2-8",
+   "lang": "on",
+   "form": "Þriði",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c2-8",
    "lang": "is",
    "form": "Hár",
    "kind": "name",
@@ -1695,8 +1855,24 @@
   {
    "entity": "odin",
    "row": "g-c2-8",
+   "lang": "is",
+   "form": "Þriðji",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c2-8",
    "lang": "en",
    "form": "Hárr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c2-8",
+   "lang": "en",
+   "form": "Thridi",
    "kind": "name",
    "status": "auto"
   },
@@ -1705,6 +1881,14 @@
    "row": "g-c2-9",
    "lang": "on",
    "form": "Hárr",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c2-9",
+   "lang": "on",
+   "form": "Háva",
    "kind": "heiti",
    "status": "auto"
   },
@@ -1745,6 +1929,30 @@
    "row": "g-c2-10",
    "lang": "en",
    "form": "Hárr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "g-c3-1",
+   "lang": "on",
+   "form": "Gangleri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "g-c3-1",
+   "lang": "is",
+   "form": "Gangleri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "g-c3-1",
+   "lang": "en",
+   "form": "Gangleri",
    "kind": "name",
    "status": "auto"
   },
@@ -1833,6 +2041,14 @@
    "row": "g-c3-2",
    "lang": "on",
    "form": "Sviðrir",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c3-2",
+   "lang": "on",
+   "form": "Viðrir",
    "kind": "heiti",
    "status": "auto"
   },
@@ -1944,6 +2160,14 @@
    "entity": "odin",
    "row": "g-c3-2",
    "lang": "is",
+   "form": "Viðrir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c3-2",
+   "lang": "is",
    "form": "Jálkur",
    "kind": "name",
    "status": "auto"
@@ -2037,6 +2261,14 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "g-c3-6",
+   "lang": "on",
+   "form": "Þriði",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
    "entity": "gimle",
    "row": "g-c3-6",
    "lang": "on",
@@ -2069,6 +2301,14 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "g-c3-6",
+   "lang": "is",
+   "form": "Þriðji",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gimle",
    "row": "g-c3-6",
    "lang": "is",
@@ -2097,6 +2337,14 @@
    "row": "g-c3-6",
    "lang": "is",
    "form": "Niflhel",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c3-6",
+   "lang": "en",
+   "form": "Thridi",
    "kind": "name",
    "status": "auto"
   },
@@ -2169,6 +2417,30 @@
    "row": "g-c3-8",
    "lang": "en",
    "form": "Hárr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "g-c4-1",
+   "lang": "on",
+   "form": "Gangleri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "g-c4-1",
+   "lang": "is",
+   "form": "Gangleri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "g-c4-1",
+   "lang": "en",
+   "form": "Gangleri",
    "kind": "name",
    "status": "auto"
   },
@@ -2261,10 +2533,34 @@
    "status": "auto"
   },
   {
+   "entity": "hrid",
+   "row": "g-c4-4",
+   "lang": "on",
+   "form": "Hríð",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "elivagar",
    "row": "g-c4-4",
    "lang": "on",
    "form": "Sylgr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vid",
+   "row": "g-c4-4",
+   "lang": "on",
+   "form": "Víð",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "leiftr",
+   "row": "g-c4-4",
+   "lang": "on",
+   "form": "Leiftr",
    "kind": "name",
    "status": "auto"
   },
@@ -2317,10 +2613,34 @@
    "status": "auto"
   },
   {
+   "entity": "hrid",
+   "row": "g-c4-4",
+   "lang": "is",
+   "form": "Hríð",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "elivagar",
    "row": "g-c4-4",
    "lang": "is",
    "form": "Sylgur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vid",
+   "row": "g-c4-4",
+   "lang": "is",
+   "form": "Víð",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "leiftr",
+   "row": "g-c4-4",
+   "lang": "is",
+   "form": "Leiftur",
    "kind": "name",
    "status": "auto"
   },
@@ -2365,10 +2685,34 @@
    "status": "auto"
   },
   {
+   "entity": "hrid",
+   "row": "g-c4-4",
+   "lang": "en",
+   "form": "Hríd",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "elivagar",
    "row": "g-c4-4",
    "lang": "en",
    "form": "Sylgr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vid",
+   "row": "g-c4-4",
+   "lang": "en",
+   "form": "Víd",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "leiftr",
+   "row": "g-c4-4",
+   "lang": "en",
+   "form": "Leiptr",
    "kind": "name",
    "status": "auto"
   },
@@ -2381,6 +2725,22 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "g-c4-4",
+   "lang": "en",
+   "form": "Thridi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c4-5",
+   "lang": "on",
+   "form": "Þriði",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
    "entity": "muspelheim",
    "row": "g-c4-5",
    "lang": "on",
@@ -2401,6 +2761,14 @@
    "row": "g-c4-5",
    "lang": "on",
    "form": "Völuspá",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c4-5",
+   "lang": "is",
+   "form": "Þriðji",
    "kind": "name",
    "status": "auto"
   },
@@ -2465,6 +2833,30 @@
    "row": "g-c4-6",
    "lang": "en",
    "form": "Surtr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "g-c5-1",
+   "lang": "on",
+   "form": "Gangleri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "g-c5-1",
+   "lang": "is",
+   "form": "Gangleri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "g-c5-1",
+   "lang": "en",
+   "form": "Gangleri",
    "kind": "name",
    "status": "auto"
   },
@@ -2621,6 +3013,14 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "g-c5-4",
+   "lang": "on",
+   "form": "Þriði",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
    "entity": "niflheim",
    "row": "g-c5-4",
    "lang": "on",
@@ -2669,6 +3069,14 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "g-c5-4",
+   "lang": "is",
+   "form": "Þriðji",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "niflheim",
    "row": "g-c5-4",
    "lang": "is",
@@ -2713,6 +3121,14 @@
    "row": "g-c5-4",
    "lang": "is",
    "form": "Völuspá",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c5-4",
+   "lang": "en",
+   "form": "Thridi",
    "kind": "name",
    "status": "auto"
   },
@@ -3485,6 +3901,38 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "g-c8-4",
+   "lang": "on",
+   "form": "Þriði",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "vestri",
+   "row": "g-c8-4",
+   "lang": "on",
+   "form": "Vestri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nordri",
+   "row": "g-c8-4",
+   "lang": "on",
+   "form": "Norðri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sudri",
+   "row": "g-c8-4",
+   "lang": "on",
+   "form": "Suðri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "muspelheim",
    "row": "g-c8-4",
    "lang": "on",
@@ -3501,6 +3949,38 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "g-c8-4",
+   "lang": "is",
+   "form": "Þriðji",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vestri",
+   "row": "g-c8-4",
+   "lang": "is",
+   "form": "Vestri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nordri",
+   "row": "g-c8-4",
+   "lang": "is",
+   "form": "Norðri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sudri",
+   "row": "g-c8-4",
+   "lang": "is",
+   "form": "Suðri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "muspelheim",
    "row": "g-c8-4",
    "lang": "is",
@@ -3513,6 +3993,14 @@
    "row": "g-c8-4",
    "lang": "is",
    "form": "Völuspá",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c8-4",
+   "lang": "en",
+   "form": "Thridi",
    "kind": "name",
    "status": "auto"
   },
@@ -3965,6 +4453,14 @@
    "status": "auto"
   },
   {
+   "entity": "nott",
+   "row": "g-c10-1",
+   "lang": "on",
+   "form": "Nótt",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "naglfari",
    "row": "g-c10-1",
    "lang": "on",
@@ -3989,6 +4485,14 @@
    "status": "auto"
   },
   {
+   "entity": "dagr",
+   "row": "g-c10-1",
+   "lang": "on",
+   "form": "Dagr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c10-1",
    "lang": "on",
@@ -3997,10 +4501,42 @@
    "status": "auto"
   },
   {
+   "entity": "nott",
+   "row": "g-c10-1",
+   "lang": "on",
+   "form": "Nótt",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr",
+   "row": "g-c10-1",
+   "lang": "on",
+   "form": "Dag",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nott",
+   "row": "g-c10-1",
+   "lang": "on",
+   "form": "Nótt",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hrimfaxi",
    "row": "g-c10-1",
    "lang": "on",
    "form": "Hrímfaxi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr",
+   "row": "g-c10-1",
+   "lang": "on",
+   "form": "Dagr",
    "kind": "name",
    "status": "auto"
   },
@@ -4029,6 +4565,14 @@
    "status": "auto"
   },
   {
+   "entity": "nott",
+   "row": "g-c10-1",
+   "lang": "is",
+   "form": "Nótt",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "naglfari",
    "row": "g-c10-1",
    "lang": "is",
@@ -4053,6 +4597,14 @@
    "status": "auto"
   },
   {
+   "entity": "dagr",
+   "row": "g-c10-1",
+   "lang": "is",
+   "form": "Dagur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c10-1",
    "lang": "is",
@@ -4061,10 +4613,42 @@
    "status": "auto"
   },
   {
+   "entity": "nott",
+   "row": "g-c10-1",
+   "lang": "is",
+   "form": "Nótt",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr",
+   "row": "g-c10-1",
+   "lang": "is",
+   "form": "Dag",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nott",
+   "row": "g-c10-1",
+   "lang": "is",
+   "form": "Nótt",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hrimfaxi",
    "row": "g-c10-1",
    "lang": "is",
    "form": "Hrímfaxi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr",
+   "row": "g-c10-1",
+   "lang": "is",
+   "form": "Dagur",
    "kind": "name",
    "status": "auto"
   },
@@ -4093,6 +4677,14 @@
    "status": "auto"
   },
   {
+   "entity": "nott",
+   "row": "g-c10-1",
+   "lang": "en",
+   "form": "Night",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "naglfari",
    "row": "g-c10-1",
    "lang": "en",
@@ -4105,6 +4697,46 @@
    "row": "g-c10-1",
    "lang": "en",
    "form": "Annarr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr",
+   "row": "g-c10-1",
+   "lang": "en",
+   "form": "Day",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nott",
+   "row": "g-c10-1",
+   "lang": "en",
+   "form": "Night",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr",
+   "row": "g-c10-1",
+   "lang": "en",
+   "form": "Day",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nott",
+   "row": "g-c10-1",
+   "lang": "en",
+   "form": "Night",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr",
+   "row": "g-c10-1",
+   "lang": "en",
+   "form": "Day",
    "kind": "name",
    "status": "auto"
   },
@@ -4197,6 +4829,14 @@
    "status": "auto"
   },
   {
+   "entity": "alsvidr",
+   "row": "g-c11-2",
+   "lang": "on",
+   "form": "Alsviðr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "bil",
    "row": "g-c11-2",
    "lang": "on",
@@ -4281,6 +4921,14 @@
    "row": "g-c11-2",
    "lang": "is",
    "form": "Árvakur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "alsvidr",
+   "row": "g-c11-2",
+   "lang": "is",
+   "form": "Alsvinnur",
    "kind": "name",
    "status": "auto"
   },
@@ -5133,6 +5781,38 @@
    "status": "auto"
   },
   {
+   "entity": "nidi",
+   "row": "g-c14-6",
+   "lang": "on",
+   "form": "Niði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nordri",
+   "row": "g-c14-6",
+   "lang": "on",
+   "form": "Norðri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sudri",
+   "row": "g-c14-6",
+   "lang": "on",
+   "form": "Suðri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vestri",
+   "row": "g-c14-6",
+   "lang": "on",
+   "form": "Vestri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "dvalinn",
    "row": "g-c14-6",
    "lang": "on",
@@ -5181,6 +5861,38 @@
    "status": "auto"
   },
   {
+   "entity": "nidi",
+   "row": "g-c14-6",
+   "lang": "is",
+   "form": "Niði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nordri",
+   "row": "g-c14-6",
+   "lang": "is",
+   "form": "Norðri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sudri",
+   "row": "g-c14-6",
+   "lang": "is",
+   "form": "Suðri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vestri",
+   "row": "g-c14-6",
+   "lang": "is",
+   "form": "Vestri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "dvalinn",
    "row": "g-c14-6",
    "lang": "is",
@@ -5225,6 +5937,38 @@
    "row": "g-c14-6",
    "lang": "is",
    "form": "Mjöðvitnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nidi",
+   "row": "g-c14-6",
+   "lang": "en",
+   "form": "Nidi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nordri",
+   "row": "g-c14-6",
+   "lang": "en",
+   "form": "Nordri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sudri",
+   "row": "g-c14-6",
+   "lang": "en",
+   "form": "Sudri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vestri",
+   "row": "g-c14-6",
+   "lang": "en",
+   "form": "Vestri",
    "kind": "name",
    "status": "auto"
   },
@@ -5309,6 +6053,22 @@
    "status": "auto"
   },
   {
+   "entity": "litr",
+   "row": "g-c14-7",
+   "lang": "on",
+   "form": "Litr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vitr",
+   "row": "g-c14-7",
+   "lang": "on",
+   "form": "Vitr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "nyradr",
    "row": "g-c14-7",
    "lang": "on",
@@ -5357,6 +6117,22 @@
    "status": "auto"
   },
   {
+   "entity": "litr",
+   "row": "g-c14-7",
+   "lang": "is",
+   "form": "Litur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vitr",
+   "row": "g-c14-7",
+   "lang": "is",
+   "form": "Vitur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "nyradr",
    "row": "g-c14-7",
    "lang": "is",
@@ -5401,6 +6177,22 @@
    "row": "g-c14-7",
    "lang": "en",
    "form": "Váli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "litr",
+   "row": "g-c14-7",
+   "lang": "en",
+   "form": "Litr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vitr",
+   "row": "g-c14-7",
+   "lang": "en",
+   "form": "Vitr",
    "kind": "name",
    "status": "auto"
   },
@@ -5590,10 +6382,42 @@
    "check": true
   },
   {
+   "entity": "frosti",
+   "row": "g-c14-11",
+   "lang": "on",
+   "form": "Frosti",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ginnarr",
+   "row": "g-c14-11",
+   "lang": "on",
+   "form": "Ginnarr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "virfir",
    "row": "g-c14-11",
    "lang": "is",
    "form": "Virfir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frosti",
+   "row": "g-c14-11",
+   "lang": "is",
+   "form": "Frosti",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ginnarr",
+   "row": "g-c14-11",
+   "lang": "is",
+   "form": "Ginnar",
    "kind": "name",
    "status": "auto"
   },
@@ -5613,6 +6437,22 @@
    "kind": "name",
    "status": "auto",
    "check": true
+  },
+  {
+   "entity": "frosti",
+   "row": "g-c14-11",
+   "lang": "en",
+   "form": "Frosti",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ginnarr",
+   "row": "g-c14-11",
+   "lang": "en",
+   "form": "Ginnarr",
+   "kind": "name",
+   "status": "auto"
   },
   {
    "entity": "gylfi",
@@ -6058,6 +6898,14 @@
    "status": "auto"
   },
   {
+   "entity": "gladr",
+   "row": "g-c15-6",
+   "lang": "on",
+   "form": "Glaðr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gyllir",
    "row": "g-c15-6",
    "lang": "on",
@@ -6170,6 +7018,14 @@
    "status": "auto"
   },
   {
+   "entity": "gladr",
+   "row": "g-c15-6",
+   "lang": "is",
+   "form": "Glaður",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gyllir",
    "row": "g-c15-6",
    "lang": "is",
@@ -6270,6 +7126,14 @@
    "row": "g-c15-6",
    "lang": "en",
    "form": "Odin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gladr",
+   "row": "g-c15-6",
+   "lang": "en",
+   "form": "Gladr",
    "kind": "name",
    "status": "auto"
   },
@@ -7253,10 +8117,26 @@
    "status": "auto"
   },
   {
+   "entity": "dokkalfar",
+   "row": "g-c17-2",
+   "lang": "on",
+   "form": "Dökkálfar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ljosalfar",
    "row": "g-c17-2",
    "lang": "on",
    "form": "Ljósálfar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dokkalfar",
+   "row": "g-c17-2",
+   "lang": "on",
+   "form": "Dökkálfar",
    "kind": "name",
    "status": "auto"
   },
@@ -7357,10 +8237,26 @@
    "status": "auto"
   },
   {
+   "entity": "dokkalfar",
+   "row": "g-c17-2",
+   "lang": "is",
+   "form": "Dökkálfar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ljosalfar",
    "row": "g-c17-2",
    "lang": "is",
    "form": "Ljósálfar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dokkalfar",
+   "row": "g-c17-2",
+   "lang": "is",
+   "form": "Dökkálfar",
    "kind": "name",
    "status": "auto"
   },
@@ -7461,10 +8357,26 @@
    "status": "auto"
   },
   {
+   "entity": "dokkalfar",
+   "row": "g-c17-2",
+   "lang": "en",
+   "form": "Dark-Elves",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ljosalfar",
    "row": "g-c17-2",
    "lang": "en",
    "form": "Light-Elves",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dokkalfar",
+   "row": "g-c17-2",
+   "lang": "en",
+   "form": "Dark-Elves",
    "kind": "name",
    "status": "auto"
   },
@@ -7912,6 +8824,14 @@
    "entity": "odin",
    "row": "g-c20-4",
    "lang": "on",
+   "form": "Þriði",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c20-4",
+   "lang": "on",
    "form": "Óðinn",
    "kind": "name",
    "status": "auto"
@@ -7944,6 +8864,14 @@
    "entity": "odin",
    "row": "g-c20-4",
    "lang": "is",
+   "form": "Þriðji",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c20-4",
+   "lang": "is",
    "form": "Óðinn",
    "kind": "name",
    "status": "auto"
@@ -7969,6 +8897,14 @@
    "row": "g-c20-4",
    "lang": "is",
    "form": "Loki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c20-4",
+   "lang": "en",
+   "form": "Thridi",
    "kind": "name",
    "status": "auto"
   },
@@ -8117,6 +9053,14 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c20-6",
+   "lang": "on",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "geirrodr",
    "row": "g-c20-6",
    "lang": "on",
@@ -8211,6 +9155,14 @@
    "entity": "odin",
    "row": "g-c20-7",
    "lang": "on",
+   "form": "Grímr",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c20-7",
+   "lang": "on",
    "form": "Gangleri",
    "kind": "name",
    "status": "auto"
@@ -8220,6 +9172,14 @@
    "row": "g-c20-7",
    "lang": "on",
    "form": "Hjalmberi",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c20-7",
+   "lang": "on",
+   "form": "Þriði",
    "kind": "heiti",
    "status": "auto"
   },
@@ -8251,6 +9211,14 @@
    "entity": "odin",
    "row": "g-c20-7",
    "lang": "is",
+   "form": "Grímur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c20-7",
+   "lang": "is",
    "form": "Gangleri",
    "kind": "name",
    "status": "auto"
@@ -8272,6 +9240,14 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "g-c20-7",
+   "lang": "is",
+   "form": "Þriði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "helblindi",
    "row": "g-c20-7",
    "lang": "is",
@@ -8284,6 +9260,14 @@
    "row": "g-c20-7",
    "lang": "is",
    "form": "Hár",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c20-7",
+   "lang": "en",
+   "form": "Grímr",
    "kind": "name",
    "status": "auto"
   },
@@ -8308,6 +9292,14 @@
    "row": "g-c20-7",
    "lang": "en",
    "form": "Hjálmberi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c20-7",
+   "lang": "en",
+   "form": "Thridi",
    "kind": "name",
    "status": "auto"
   },
@@ -8376,11 +9368,11 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "g-c20-8",
    "lang": "on",
    "form": "Grímnir",
-   "kind": "name",
+   "kind": "heiti",
    "status": "auto"
   },
   {
@@ -8552,7 +9544,7 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "g-c20-8",
    "lang": "is",
    "form": "Grímnir",
@@ -8736,7 +9728,7 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "g-c20-8",
    "lang": "en",
    "form": "Grímnir",
@@ -9448,10 +10440,26 @@
    "status": "auto"
   },
   {
+   "entity": "vanir",
+   "row": "g-c23-1",
+   "lang": "on",
+   "form": "Vanir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "h-nir",
    "row": "g-c23-1",
    "lang": "on",
    "form": "Hænir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vanir",
+   "row": "g-c23-1",
+   "lang": "on",
+   "form": "Vönum",
    "kind": "name",
    "status": "auto"
   },
@@ -9680,10 +10688,34 @@
    "status": "auto"
   },
   {
+   "entity": "vanir",
+   "row": "g-c23-1",
+   "lang": "en",
+   "form": "Vanir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vanir",
+   "row": "g-c23-1",
+   "lang": "en",
+   "form": "Vanir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "h-nir",
    "row": "g-c23-1",
    "lang": "en",
    "form": "Hœnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vanir",
+   "row": "g-c23-1",
+   "lang": "en",
+   "form": "Vanir",
    "kind": "name",
    "status": "auto"
   },
@@ -11875,6 +12907,14 @@
    "status": "auto"
   },
   {
+   "entity": "lyngvi",
+   "row": "g-c34-7",
+   "lang": "on",
+   "form": "Lyngvi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c34-7",
    "lang": "is",
@@ -11891,6 +12931,14 @@
    "status": "auto"
   },
   {
+   "entity": "lyngvi",
+   "row": "g-c34-7",
+   "lang": "is",
+   "form": "Lyngvi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c34-7",
    "lang": "en",
@@ -11903,6 +12951,14 @@
    "row": "g-c34-7",
    "lang": "en",
    "form": "Ámsvartnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "lyngvi",
+   "row": "g-c34-7",
+   "lang": "en",
+   "form": "Lyngvi",
    "kind": "name",
    "status": "auto"
   },
@@ -12259,6 +13315,14 @@
    "status": "auto"
   },
   {
+   "entity": "fulla",
+   "row": "g-c35-6",
+   "lang": "on",
+   "form": "Fulla",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "frigg",
    "row": "g-c35-6",
    "lang": "on",
@@ -12267,10 +13331,26 @@
    "status": "auto"
   },
   {
+   "entity": "fulla",
+   "row": "g-c35-6",
+   "lang": "is",
+   "form": "Fulla",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "frigg",
    "row": "g-c35-6",
    "lang": "is",
    "form": "Friggjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fulla",
+   "row": "g-c35-6",
+   "lang": "en",
+   "form": "Fulla",
    "kind": "name",
    "status": "auto"
   },
@@ -13211,6 +14291,14 @@
    "status": "auto"
   },
   {
+   "entity": "gymir",
+   "row": "g-c37-1",
+   "lang": "on",
+   "form": "Gymir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "aurboda",
    "row": "g-c37-1",
    "lang": "on",
@@ -13243,6 +14331,14 @@
    "status": "auto"
   },
   {
+   "entity": "gymir",
+   "row": "g-c37-1",
+   "lang": "is",
+   "form": "Gymir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "aurboda",
    "row": "g-c37-1",
    "lang": "is",
@@ -13271,6 +14367,14 @@
    "row": "g-c37-1",
    "lang": "is",
    "form": "Hliðskjálf",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gymir",
+   "row": "g-c37-1",
+   "lang": "en",
+   "form": "Gýmir",
    "kind": "name",
    "status": "auto"
   },
@@ -14187,6 +15291,22 @@
    "status": "auto"
   },
   {
+   "entity": "geri",
+   "row": "g-c38-5",
+   "lang": "on",
+   "form": "Geri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "freki",
+   "row": "g-c38-5",
+   "lang": "on",
+   "form": "Freki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c38-5",
    "lang": "is",
@@ -14195,10 +15315,50 @@
    "status": "auto"
   },
   {
+   "entity": "geri",
+   "row": "g-c38-5",
+   "lang": "is",
+   "form": "Geri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "freki",
+   "row": "g-c38-5",
+   "lang": "is",
+   "form": "Freki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c38-5",
    "lang": "en",
    "form": "Hárr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "geri",
+   "row": "g-c38-5",
+   "lang": "en",
+   "form": "Geri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "freki",
+   "row": "g-c38-5",
+   "lang": "en",
+   "form": "Freki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "freki",
+   "row": "g-c38-6",
+   "lang": "on",
+   "form": "Freka",
    "kind": "name",
    "status": "auto"
   },
@@ -14219,6 +15379,14 @@
    "status": "auto"
   },
   {
+   "entity": "freki",
+   "row": "g-c38-6",
+   "lang": "is",
+   "form": "Freka",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c38-6",
    "lang": "is",
@@ -14231,6 +15399,14 @@
    "row": "g-c38-6",
    "lang": "is",
    "form": "Óðinn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "freki",
+   "row": "g-c38-6",
+   "lang": "en",
+   "form": "Freki",
    "kind": "name",
    "status": "auto"
   },
@@ -14459,6 +15635,14 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c39-2",
+   "lang": "on",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c39-2",
    "lang": "is",
@@ -14595,6 +15779,14 @@
    "status": "auto"
   },
   {
+   "entity": "vid",
+   "row": "g-c39-4",
+   "lang": "on",
+   "form": "Víð",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gunnthro",
    "row": "g-c39-4",
    "lang": "on",
@@ -14639,6 +15831,14 @@
    "row": "g-c39-4",
    "lang": "on",
    "form": "Nöt",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hronn",
+   "row": "g-c39-4",
+   "lang": "on",
+   "form": "Hrönn",
    "kind": "name",
    "status": "auto"
   },
@@ -14691,6 +15891,14 @@
    "status": "auto"
   },
   {
+   "entity": "vid",
+   "row": "g-c39-4",
+   "lang": "is",
+   "form": "Víð",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gunnthro",
    "row": "g-c39-4",
    "lang": "is",
@@ -14727,6 +15935,14 @@
    "row": "g-c39-4",
    "lang": "is",
    "form": "Geirvimul",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hronn",
+   "row": "g-c39-4",
+   "lang": "is",
+   "form": "Hrönn",
    "kind": "name",
    "status": "auto"
   },
@@ -14779,6 +15995,14 @@
    "status": "auto"
   },
   {
+   "entity": "vid",
+   "row": "g-c39-4",
+   "lang": "en",
+   "form": "Víd",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "elivagar",
    "row": "g-c39-4",
    "lang": "en",
@@ -14815,6 +16039,14 @@
    "row": "g-c39-4",
    "lang": "en",
    "form": "Nöt",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hronn",
+   "row": "g-c39-4",
+   "lang": "en",
+   "form": "Hrönn",
    "kind": "name",
    "status": "auto"
   },
@@ -14931,10 +16163,34 @@
    "status": "auto"
   },
   {
+   "entity": "valhalla",
+   "row": "g-c40-3",
+   "lang": "on",
+   "form": "Valhöllu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "einherjar",
    "row": "g-c40-3",
    "lang": "on",
    "form": "Einherja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "valhalla",
+   "row": "g-c40-3",
+   "lang": "is",
+   "form": "Valhöllu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "valhalla",
+   "row": "g-c40-3",
+   "lang": "en",
+   "form": "Valhall",
    "kind": "name",
    "status": "auto"
   },
@@ -15067,6 +16323,14 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c41-3",
+   "lang": "on",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c41-3",
    "lang": "on",
@@ -15079,6 +16343,14 @@
    "row": "g-c41-3",
    "lang": "is",
    "form": "Óðins",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c41-3",
+   "lang": "en",
+   "form": "Einherjar",
    "kind": "name",
    "status": "auto"
   },
@@ -16343,6 +17615,30 @@
    "row": "g-c44-5",
    "lang": "en",
    "form": "Gangleri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c44-6",
+   "lang": "on",
+   "form": "Þriði",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c44-6",
+   "lang": "is",
+   "form": "Þriðji",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c44-6",
+   "lang": "en",
+   "form": "Thridi",
    "kind": "name",
    "status": "auto"
   },
@@ -17971,6 +19267,14 @@
    "status": "auto"
   },
   {
+   "entity": "logi",
+   "row": "g-c46-4",
+   "lang": "on",
+   "form": "Logi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "loki",
    "row": "g-c46-4",
    "lang": "on",
@@ -17987,6 +19291,14 @@
    "status": "auto"
   },
   {
+   "entity": "logi",
+   "row": "g-c46-4",
+   "lang": "is",
+   "form": "Logi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "loki",
    "row": "g-c46-4",
    "lang": "is",
@@ -18003,6 +19315,14 @@
    "status": "auto"
   },
   {
+   "entity": "logi",
+   "row": "g-c46-4",
+   "lang": "en",
+   "form": "Logi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "loki",
    "row": "g-c46-4",
    "lang": "en",
@@ -18019,10 +19339,26 @@
    "status": "auto"
   },
   {
+   "entity": "logi",
+   "row": "g-c46-5",
+   "lang": "on",
+   "form": "Logi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "loki",
    "row": "g-c46-5",
    "lang": "on",
    "form": "Loki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "logi",
+   "row": "g-c46-5",
+   "lang": "on",
+   "form": "Logi",
    "kind": "name",
    "status": "auto"
   },
@@ -18043,10 +19379,26 @@
    "status": "auto"
   },
   {
+   "entity": "logi",
+   "row": "g-c46-5",
+   "lang": "is",
+   "form": "Logi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "loki",
    "row": "g-c46-5",
    "lang": "is",
    "form": "Loki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "logi",
+   "row": "g-c46-5",
+   "lang": "is",
+   "form": "Logi",
    "kind": "name",
    "status": "auto"
   },
@@ -18067,10 +19419,26 @@
    "status": "auto"
   },
   {
+   "entity": "logi",
+   "row": "g-c46-5",
+   "lang": "en",
+   "form": "Logi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "loki",
    "row": "g-c46-5",
    "lang": "en",
    "form": "Loki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "logi",
+   "row": "g-c46-5",
+   "lang": "en",
+   "form": "Logi",
    "kind": "name",
    "status": "auto"
   },
@@ -18127,6 +19495,14 @@
    "row": "g-c46-6",
    "lang": "on",
    "form": "Útgarða-Loki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hugi",
+   "row": "g-c46-6",
+   "lang": "on",
+   "form": "Hugi",
    "kind": "name",
    "status": "auto"
   },
@@ -18139,6 +19515,14 @@
    "status": "auto"
   },
   {
+   "entity": "hugi",
+   "row": "g-c46-6",
+   "lang": "on",
+   "form": "Hugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "utgarda-loki",
    "row": "g-c46-6",
    "lang": "is",
@@ -18183,6 +19567,14 @@
    "row": "g-c46-6",
    "lang": "is",
    "form": "Útgarða-Loki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hugi",
+   "row": "g-c46-6",
+   "lang": "is",
+   "form": "Hugi",
    "kind": "name",
    "status": "auto"
   },
@@ -18195,42 +19587,10 @@
    "status": "auto"
   },
   {
-   "entity": "utgarda-loki",
+   "entity": "hugi",
    "row": "g-c46-6",
-   "lang": "en",
-   "form": "Útgarda-Loki",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "thjalfi",
-   "row": "g-c46-6",
-   "lang": "en",
-   "form": "Thjálfi",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "utgarda-loki",
-   "row": "g-c46-6",
-   "lang": "en",
-   "form": "Útgarda-Loki",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "utgarda-loki",
-   "row": "g-c46-6",
-   "lang": "en",
-   "form": "Útgarda-Loki",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "utgarda-loki",
-   "row": "g-c46-6",
-   "lang": "en",
-   "form": "Útgarda-Loki",
+   "lang": "is",
+   "form": "Hugi",
    "kind": "name",
    "status": "auto"
   },
@@ -18247,6 +19607,62 @@
    "row": "g-c46-6",
    "lang": "en",
    "form": "Thjálfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "utgarda-loki",
+   "row": "g-c46-6",
+   "lang": "en",
+   "form": "Útgarda-Loki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "utgarda-loki",
+   "row": "g-c46-6",
+   "lang": "en",
+   "form": "Útgarda-Loki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "utgarda-loki",
+   "row": "g-c46-6",
+   "lang": "en",
+   "form": "Útgarda-Loki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "utgarda-loki",
+   "row": "g-c46-6",
+   "lang": "en",
+   "form": "Útgarda-Loki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hugi",
+   "row": "g-c46-6",
+   "lang": "en",
+   "form": "Hugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "thjalfi",
+   "row": "g-c46-6",
+   "lang": "en",
+   "form": "Thjálfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hugi",
+   "row": "g-c46-6",
+   "lang": "en",
+   "form": "Hugi",
    "kind": "name",
    "status": "auto"
   },
@@ -18303,6 +19719,14 @@
    "row": "g-c46-7",
    "lang": "en",
    "form": "Thjálfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hugi",
+   "row": "g-c46-8",
+   "lang": "on",
+   "form": "Hugi",
    "kind": "name",
    "status": "auto"
   },
@@ -18315,10 +19739,26 @@
    "status": "auto"
   },
   {
+   "entity": "hugi",
+   "row": "g-c46-8",
+   "lang": "is",
+   "form": "Hugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thjalfi",
    "row": "g-c46-8",
    "lang": "is",
    "form": "Þjálfa",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hugi",
+   "row": "g-c46-8",
+   "lang": "en",
+   "form": "Hugi",
    "kind": "name",
    "status": "auto"
   },
@@ -18367,6 +19807,14 @@
    "row": "g-c46-9",
    "lang": "en",
    "form": "Útgarda-Loki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hugi",
+   "row": "g-c46-10",
+   "lang": "on",
+   "form": "Hugi",
    "kind": "name",
    "status": "auto"
   },
@@ -18379,10 +19827,26 @@
    "status": "auto"
   },
   {
+   "entity": "hugi",
+   "row": "g-c46-10",
+   "lang": "is",
+   "form": "Hugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thjalfi",
    "row": "g-c46-10",
    "lang": "is",
    "form": "Þjálfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hugi",
+   "row": "g-c46-10",
+   "lang": "en",
+   "form": "Hugi",
    "kind": "name",
    "status": "auto"
   },
@@ -18995,6 +20459,14 @@
    "status": "auto"
   },
   {
+   "entity": "elli",
+   "row": "g-c46-25",
+   "lang": "on",
+   "form": "Elli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "g-c46-25",
    "lang": "on",
@@ -19007,6 +20479,14 @@
    "row": "g-c46-25",
    "lang": "on",
    "form": "Þórr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "elli",
+   "row": "g-c46-25",
+   "lang": "is",
+   "form": "Elli",
    "kind": "name",
    "status": "auto"
   },
@@ -19403,10 +20883,26 @@
    "status": "auto"
   },
   {
+   "entity": "logi",
+   "row": "g-c47-4",
+   "lang": "on",
+   "form": "Logi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thjalfi",
    "row": "g-c47-4",
    "lang": "on",
    "form": "Þjálfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hugi",
+   "row": "g-c47-4",
+   "lang": "on",
+   "form": "Hugi",
    "kind": "name",
    "status": "auto"
   },
@@ -19435,10 +20931,26 @@
    "status": "auto"
   },
   {
+   "entity": "logi",
+   "row": "g-c47-4",
+   "lang": "is",
+   "form": "Logi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thjalfi",
    "row": "g-c47-4",
    "lang": "is",
    "form": "Þjálfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hugi",
+   "row": "g-c47-4",
+   "lang": "is",
+   "form": "Hugi",
    "kind": "name",
    "status": "auto"
   },
@@ -19467,10 +20979,26 @@
    "status": "auto"
   },
   {
+   "entity": "logi",
+   "row": "g-c47-4",
+   "lang": "en",
+   "form": "Logi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thjalfi",
    "row": "g-c47-4",
    "lang": "en",
    "form": "Thjálfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hugi",
+   "row": "g-c47-4",
+   "lang": "en",
+   "form": "Hugi",
    "kind": "name",
    "status": "auto"
   },
@@ -19491,10 +21019,34 @@
    "status": "auto"
   },
   {
+   "entity": "elli",
+   "row": "g-c47-5",
+   "lang": "on",
+   "form": "Elli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "jormungandr",
    "row": "g-c47-5",
    "lang": "is",
    "form": "Miðgarðsormur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "elli",
+   "row": "g-c47-5",
+   "lang": "is",
+   "form": "Elli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "elli",
+   "row": "g-c47-5",
+   "lang": "en",
+   "form": "Elli",
    "kind": "name",
    "status": "auto"
   },
@@ -21835,6 +23387,14 @@
    "status": "auto"
   },
   {
+   "entity": "litr",
+   "row": "g-c49-15",
+   "lang": "on",
+   "form": "Litr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "g-c49-15",
    "lang": "on",
@@ -22035,6 +23595,14 @@
    "status": "auto"
   },
   {
+   "entity": "litr",
+   "row": "g-c49-15",
+   "lang": "is",
+   "form": "Litur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "g-c49-15",
    "lang": "is",
@@ -22223,6 +23791,14 @@
    "row": "g-c49-15",
    "lang": "en",
    "form": "Mjöllnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "litr",
+   "row": "g-c49-15",
+   "lang": "en",
+   "form": "Litr",
    "kind": "name",
    "status": "auto"
   },
@@ -24190,6 +25766,14 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c51-5",
+   "lang": "on",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c51-5",
    "lang": "on",
@@ -25296,6 +26880,14 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c52-1",
+   "lang": "on",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gylfi",
    "row": "g-c52-1",
    "lang": "is",
@@ -25312,6 +26904,14 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "g-c52-2",
+   "lang": "on",
+   "form": "Þriði",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
    "entity": "gimle",
    "row": "g-c52-2",
    "lang": "on",
@@ -25360,6 +26960,14 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "g-c52-2",
+   "lang": "is",
+   "form": "Þriðji",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gimle",
    "row": "g-c52-2",
    "lang": "is",
@@ -25404,6 +27012,14 @@
    "row": "g-c52-2",
    "lang": "is",
    "form": "Náströndum",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c52-2",
+   "lang": "en",
+   "form": "Thridi",
    "kind": "name",
    "status": "auto"
   },
@@ -25568,6 +27184,14 @@
    "status": "auto"
   },
   {
+   "entity": "magni",
+   "row": "g-c53-2",
+   "lang": "on",
+   "form": "Magni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "mjolnir",
    "row": "g-c53-2",
    "lang": "on",
@@ -25672,6 +27296,14 @@
    "status": "auto"
   },
   {
+   "entity": "magni",
+   "row": "g-c53-2",
+   "lang": "is",
+   "form": "Magni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "mjolnir",
    "row": "g-c53-2",
    "lang": "is",
@@ -25760,6 +27392,14 @@
    "status": "auto"
   },
   {
+   "entity": "magni",
+   "row": "g-c53-2",
+   "lang": "en",
+   "form": "Magni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "mjolnir",
    "row": "g-c53-2",
    "lang": "en",
@@ -25824,6 +27464,14 @@
    "status": "auto"
   },
   {
+   "entity": "magni",
+   "row": "g-c53-3",
+   "lang": "on",
+   "form": "Magni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "mjolnir",
    "row": "g-c53-3",
    "lang": "on",
@@ -25848,6 +27496,14 @@
    "status": "auto"
   },
   {
+   "entity": "magni",
+   "row": "g-c53-3",
+   "lang": "is",
+   "form": "Magni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "mjolnir",
    "row": "g-c53-3",
    "lang": "is",
@@ -25868,6 +27524,14 @@
    "row": "g-c53-3",
    "lang": "en",
    "form": "Váli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "magni",
+   "row": "g-c53-3",
+   "lang": "en",
+   "form": "Magni",
    "kind": "name",
    "status": "auto"
   },
@@ -26040,6 +27704,14 @@
    "status": "auto"
   },
   {
+   "entity": "aegir",
+   "row": "s-c1-1",
+   "lang": "on",
+   "form": "Hlér",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
    "entity": "hlesey",
    "row": "s-c1-1",
    "lang": "on",
@@ -26068,6 +27740,14 @@
    "row": "s-c1-1",
    "lang": "is",
    "form": "Ægir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "aegir",
+   "row": "s-c1-1",
+   "lang": "is",
+   "form": "Hlér",
    "kind": "name",
    "status": "auto"
   },
@@ -26100,6 +27780,22 @@
    "row": "s-c1-1",
    "lang": "en",
    "form": "Ægir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "aegir",
+   "row": "s-c1-1",
+   "lang": "en",
+   "form": "Hlér",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "aegir",
+   "row": "s-c1-1",
+   "lang": "en",
+   "form": "Hlér's",
    "kind": "name",
    "status": "auto"
   },
@@ -26264,6 +27960,14 @@
    "status": "auto"
   },
   {
+   "entity": "fulla",
+   "row": "s-c1-2",
+   "lang": "on",
+   "form": "Fulla",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "nanna",
    "row": "s-c1-2",
    "lang": "on",
@@ -26272,6 +27976,14 @@
    "status": "auto"
   },
   {
+   "entity": "aegir",
+   "row": "s-c1-2",
+   "lang": "on",
+   "form": "Ægi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "bragi",
    "row": "s-c1-2",
    "lang": "on",
@@ -26284,6 +27996,14 @@
    "row": "s-c1-2",
    "lang": "on",
    "form": "Bragi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "aegir",
+   "row": "s-c1-2",
+   "lang": "on",
+   "form": "Ægi",
    "kind": "name",
    "status": "auto"
   },
@@ -26432,6 +28152,14 @@
    "status": "auto"
   },
   {
+   "entity": "fulla",
+   "row": "s-c1-2",
+   "lang": "is",
+   "form": "Fulla",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "nanna",
    "row": "s-c1-2",
    "lang": "is",
@@ -26440,6 +28168,22 @@
    "status": "auto"
   },
   {
+   "entity": "aegir",
+   "row": "s-c1-2",
+   "lang": "is",
+   "form": "Ægi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "aegir",
+   "row": "s-c1-2",
+   "lang": "is",
+   "form": "Ægi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "bragi",
    "row": "s-c1-2",
    "lang": "is",
@@ -26452,6 +28196,14 @@
    "row": "s-c1-2",
    "lang": "is",
    "form": "Bragi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "aegir",
+   "row": "s-c1-2",
+   "lang": "is",
+   "form": "Ægi",
    "kind": "name",
    "status": "auto"
   },
@@ -26600,6 +28352,14 @@
    "status": "auto"
   },
   {
+   "entity": "fulla",
+   "row": "s-c1-2",
+   "lang": "en",
+   "form": "Fulla",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "nanna",
    "row": "s-c1-2",
    "lang": "en",
@@ -26608,6 +28368,22 @@
    "status": "auto"
   },
   {
+   "entity": "aegir",
+   "row": "s-c1-2",
+   "lang": "en",
+   "form": "Ægir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "aegir",
+   "row": "s-c1-2",
+   "lang": "en",
+   "form": "Ægir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "bragi",
    "row": "s-c1-2",
    "lang": "en",
@@ -26620,6 +28396,14 @@
    "row": "s-c1-2",
    "lang": "en",
    "form": "Bragi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "aegir",
+   "row": "s-c1-2",
+   "lang": "en",
+   "form": "Ægir",
    "kind": "name",
    "status": "auto"
   },
@@ -27584,6 +29368,14 @@
    "status": "auto"
   },
   {
+   "entity": "skadi",
+   "row": "s-c3-6",
+   "lang": "on",
+   "form": "Skaða",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "loki",
    "row": "s-c3-6",
    "lang": "is",
@@ -27596,6 +29388,14 @@
    "row": "s-c3-6",
    "lang": "is",
    "form": "Loki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "skadi",
+   "row": "s-c3-6",
+   "lang": "is",
+   "form": "Skaða",
    "kind": "name",
    "status": "auto"
   },
@@ -27612,6 +29412,14 @@
    "row": "s-c3-6",
    "lang": "en",
    "form": "Loki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "skadi",
+   "row": "s-c3-6",
+   "lang": "en",
+   "form": "Skadi's",
    "kind": "name",
    "status": "auto"
   },
@@ -27620,6 +29428,14 @@
    "row": "s-c4-1",
    "lang": "on",
    "form": "Óðinn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "skadi",
+   "row": "s-c4-1",
+   "lang": "on",
+   "form": "Skaða",
    "kind": "name",
    "status": "auto"
   },
@@ -27640,6 +29456,14 @@
    "status": "auto"
   },
   {
+   "entity": "skadi",
+   "row": "s-c4-1",
+   "lang": "is",
+   "form": "Skaða",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thjazi",
    "row": "s-c4-1",
    "lang": "is",
@@ -27652,6 +29476,14 @@
    "row": "s-c4-1",
    "lang": "en",
    "form": "Odin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "skadi",
+   "row": "s-c4-1",
+   "lang": "en",
+   "form": "Skadi",
    "kind": "name",
    "status": "auto"
   },
@@ -27840,6 +29672,14 @@
    "status": "auto"
   },
   {
+   "entity": "vanir",
+   "row": "s-c5-2",
+   "lang": "on",
+   "form": "Vanir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "kvasir",
    "row": "s-c5-2",
    "lang": "on",
@@ -27868,6 +29708,14 @@
    "row": "s-c5-2",
    "lang": "en",
    "form": "Bragi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vanir",
+   "row": "s-c5-2",
+   "lang": "en",
+   "form": "Vanir",
    "kind": "name",
    "status": "auto"
   },
@@ -28518,6 +30366,14 @@
    "status": "auto"
   },
   {
+   "entity": "baugi",
+   "row": "s-c6-2",
+   "lang": "on",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "suttungr",
    "row": "s-c6-2",
    "lang": "on",
@@ -28539,6 +30395,14 @@
    "lang": "on",
    "form": "Bölverkr",
    "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-2",
+   "lang": "on",
+   "form": "Bauga",
+   "kind": "name",
    "status": "auto"
   },
   {
@@ -28574,10 +30438,26 @@
    "status": "auto"
   },
   {
+   "entity": "baugi",
+   "row": "s-c6-2",
+   "lang": "is",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "suttungr",
    "row": "s-c6-2",
    "lang": "is",
    "form": "Suttungs",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-2",
+   "lang": "is",
+   "form": "Baugi",
    "kind": "name",
    "status": "auto"
   },
@@ -28598,10 +30478,26 @@
    "status": "auto"
   },
   {
+   "entity": "baugi",
+   "row": "s-c6-2",
+   "lang": "is",
+   "form": "Bauga",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "mead-of-poetry",
    "row": "s-c6-2",
    "lang": "is",
    "form": "Suttungamiði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-2",
+   "lang": "is",
+   "form": "Baugi",
    "kind": "name",
    "status": "auto"
   },
@@ -28630,10 +30526,26 @@
    "status": "auto"
   },
   {
+   "entity": "baugi",
+   "row": "s-c6-2",
+   "lang": "en",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "suttungr",
    "row": "s-c6-2",
    "lang": "en",
    "form": "Suttungr's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-2",
+   "lang": "en",
+   "form": "Baugi",
    "kind": "name",
    "status": "auto"
   },
@@ -28654,10 +30566,34 @@
    "status": "auto"
   },
   {
+   "entity": "baugi",
+   "row": "s-c6-2",
+   "lang": "en",
+   "form": "Baugi's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-2",
+   "lang": "en",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "suttungr",
    "row": "s-c6-2",
    "lang": "en",
    "form": "Suttungr's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-2",
+   "lang": "en",
+   "form": "Baugi",
    "kind": "name",
    "status": "auto"
   },
@@ -28683,6 +30619,22 @@
    "lang": "on",
    "form": "Bölverkr",
    "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "on",
+   "form": "Bauga",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "on",
+   "form": "Bauga",
+   "kind": "name",
    "status": "auto"
   },
   {
@@ -28726,6 +30678,22 @@
    "status": "auto"
   },
   {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "on",
+   "form": "Bauga",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "on",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "s-c6-3",
    "lang": "on",
@@ -28742,11 +30710,35 @@
    "status": "auto"
   },
   {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "on",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "on",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "s-c6-3",
    "lang": "on",
    "form": "Bölverkr",
    "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "on",
+   "form": "Baugi",
+   "kind": "name",
    "status": "auto"
   },
   {
@@ -28763,6 +30755,14 @@
    "lang": "on",
    "form": "Bölverkr",
    "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "on",
+   "form": "Baugi",
+   "kind": "name",
    "status": "auto"
   },
   {
@@ -28774,10 +30774,34 @@
    "status": "auto"
   },
   {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "is",
+   "form": "Bauga",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "is",
+   "form": "Bauga",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "suttungr",
    "row": "s-c6-3",
    "lang": "is",
    "form": "Suttungs",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "is",
+   "form": "Baugi",
    "kind": "name",
    "status": "auto"
   },
@@ -28814,6 +30838,22 @@
    "status": "auto"
   },
   {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "is",
+   "form": "Bauga",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "is",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "s-c6-3",
    "lang": "is",
@@ -28830,10 +30870,42 @@
    "status": "auto"
   },
   {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "is",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "is",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "s-c6-3",
    "lang": "is",
    "form": "Bölverkur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "is",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "is",
+   "form": "Baugi",
    "kind": "name",
    "status": "auto"
   },
@@ -28850,6 +30922,14 @@
    "row": "s-c6-3",
    "lang": "is",
    "form": "Bölverkur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "is",
+   "form": "Baugi",
    "kind": "name",
    "status": "auto"
   },
@@ -28858,6 +30938,22 @@
    "row": "s-c6-3",
    "lang": "en",
    "form": "Bölverkr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "en",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "en",
+   "form": "Baugi",
    "kind": "name",
    "status": "auto"
   },
@@ -28870,18 +30966,10 @@
    "status": "auto"
   },
   {
-   "entity": "suttungr",
+   "entity": "baugi",
    "row": "s-c6-3",
    "lang": "en",
-   "form": "Suttungr",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "odin",
-   "row": "s-c6-3",
-   "lang": "en",
-   "form": "Bölverkr",
+   "form": "Baugi",
    "kind": "name",
    "status": "auto"
   },
@@ -28898,6 +30986,38 @@
    "row": "s-c6-3",
    "lang": "en",
    "form": "Bölverkr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "suttungr",
+   "row": "s-c6-3",
+   "lang": "en",
+   "form": "Suttungr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "s-c6-3",
+   "lang": "en",
+   "form": "Bölverkr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "en",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "en",
+   "form": "Baugi",
    "kind": "name",
    "status": "auto"
   },
@@ -28918,10 +31038,42 @@
    "status": "auto"
   },
   {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "en",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "en",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "s-c6-3",
    "lang": "en",
    "form": "Bölverkr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "en",
+   "form": "Baugi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "en",
+   "form": "Baugi",
    "kind": "name",
    "status": "auto"
   },
@@ -28938,6 +31090,14 @@
    "row": "s-c6-3",
    "lang": "en",
    "form": "Bölverkr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "baugi",
+   "row": "s-c6-3",
+   "lang": "en",
+   "form": "Baugi",
    "kind": "name",
    "status": "auto"
   },
@@ -29810,6 +31970,14 @@
    "status": "auto"
   },
   {
+   "entity": "valhalla",
+   "row": "s-c9-14",
+   "lang": "on",
+   "form": "Valhöllu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gondul",
    "row": "s-c9-14",
    "lang": "is",
@@ -29851,6 +32019,14 @@
    "status": "auto"
   },
   {
+   "entity": "valhalla",
+   "row": "s-c9-14",
+   "lang": "is",
+   "form": "Valhöllu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gondul",
    "row": "s-c9-14",
    "lang": "en",
@@ -29888,6 +32064,14 @@
    "row": "s-c9-14",
    "lang": "en",
    "form": "Odin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "valhalla",
+   "row": "s-c9-14",
+   "lang": "en",
+   "form": "Valhall",
    "kind": "name",
    "status": "auto"
   },
@@ -30589,6 +32773,14 @@
    "check": true
   },
   {
+   "entity": "odin",
+   "row": "s-c9-41",
+   "lang": "on",
+   "form": "Hroftr",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
    "entity": "gungnir",
    "row": "s-c9-41",
    "lang": "on",
@@ -30606,6 +32798,14 @@
    "check": true
   },
   {
+   "entity": "odin",
+   "row": "s-c9-41",
+   "lang": "is",
+   "form": "Hroftur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gungnir",
    "row": "s-c9-41",
    "lang": "is",
@@ -30621,6 +32821,14 @@
    "kind": "name",
    "status": "auto",
    "check": true
+  },
+  {
+   "entity": "odin",
+   "row": "s-c9-41",
+   "lang": "en",
+   "form": "Hroptr",
+   "kind": "name",
+   "status": "auto"
   },
   {
    "entity": "gungnir",
@@ -31066,6 +33274,54 @@
    "status": "auto"
   },
   {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c10-5",
+   "lang": "on",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c10-5",
+   "lang": "on",
+   "form": "Steinþórsson",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c10-5",
+   "lang": "is",
+   "form": "Ormur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c10-5",
+   "lang": "is",
+   "form": "Steinþórsson",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c10-5",
+   "lang": "en",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c10-5",
+   "lang": "en",
+   "form": "Steinthórsson",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "dvalinn",
    "row": "s-c10-6",
    "lang": "on",
@@ -31110,6 +33366,22 @@
    "row": "s-c10-7",
    "lang": "en",
    "form": "Refr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "maerir",
+   "row": "s-c10-8",
+   "lang": "on",
+   "form": "Mæra",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "maerir",
+   "row": "s-c10-8",
+   "lang": "is",
+   "form": "Mæra",
    "kind": "name",
    "status": "auto"
   },
@@ -31234,10 +33506,26 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "s-c10-14",
+   "lang": "on",
+   "form": "Hárs",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
    "entity": "gilling",
    "row": "s-c10-14",
    "lang": "on",
    "form": "Gillings",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "s-c10-14",
+   "lang": "is",
+   "form": "Hárs",
    "kind": "name",
    "status": "auto"
   },
@@ -31490,6 +33778,54 @@
    "status": "auto"
   },
   {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c10-23",
+   "lang": "on",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c10-23",
+   "lang": "on",
+   "form": "Steinþórsson",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c10-23",
+   "lang": "is",
+   "form": "Ormur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c10-23",
+   "lang": "is",
+   "form": "Steinþórsson",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c10-23",
+   "lang": "en",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c10-23",
+   "lang": "en",
+   "form": "Steinthórsson",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "s-c10-24",
    "lang": "on",
@@ -31571,11 +33907,11 @@
    "derived": true
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "s-c10-26",
    "lang": "on",
    "form": "Grímnis",
-   "kind": "name",
+   "kind": "heiti",
    "status": "auto"
   },
   {
@@ -31587,7 +33923,7 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "s-c10-26",
    "lang": "is",
    "form": "Grímnis",
@@ -31595,7 +33931,15 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
+   "row": "s-c10-26",
+   "lang": "en",
+   "form": "Odin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
    "row": "s-c10-26",
    "lang": "en",
    "form": "Grímnir",
@@ -31711,6 +34055,14 @@
    "row": "s-c11-1",
    "lang": "on",
    "form": "Óðins",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jord",
+   "row": "s-c11-1",
+   "lang": "on",
+   "form": "Jarðar",
    "kind": "name",
    "status": "auto"
   },
@@ -31855,6 +34207,14 @@
    "row": "s-c11-1",
    "lang": "is",
    "form": "Óðins",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jord",
+   "row": "s-c11-1",
+   "lang": "is",
+   "form": "Jarðar",
    "kind": "name",
    "status": "auto"
   },
@@ -31999,6 +34359,14 @@
    "row": "s-c11-1",
    "lang": "en",
    "form": "Odin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jord",
+   "row": "s-c11-1",
+   "lang": "en",
+   "form": "Jörd",
    "kind": "name",
    "status": "auto"
   },
@@ -32167,6 +34535,30 @@
    "row": "s-c11-2",
    "lang": "en",
    "form": "Odin's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jord",
+   "row": "s-c11-4",
+   "lang": "on",
+   "form": "Jarðar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jord",
+   "row": "s-c11-4",
+   "lang": "is",
+   "form": "Jarðar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jord",
+   "row": "s-c11-4",
+   "lang": "en",
+   "form": "Jörd's",
    "kind": "name",
    "status": "auto"
   },
@@ -33449,10 +35841,27 @@
    "status": "auto"
   },
   {
+   "entity": "vanir",
+   "row": "s-c13-2",
+   "lang": "on",
+   "form": "Vani",
+   "kind": "name",
+   "status": "auto",
+   "derived": true
+  },
+  {
    "entity": "hamdir",
    "row": "s-c13-2",
    "lang": "is",
    "form": "Hamði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vanir",
+   "row": "s-c13-2",
+   "lang": "is",
+   "form": "Vani",
    "kind": "name",
    "status": "auto"
   },
@@ -35090,6 +37499,14 @@
    "status": "auto"
   },
   {
+   "entity": "skadi",
+   "row": "s-c23-1",
+   "lang": "on",
+   "form": "Skaða",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ulfr-uggason",
    "row": "s-c23-1",
    "lang": "on",
@@ -35274,6 +37691,14 @@
    "status": "auto"
   },
   {
+   "entity": "skadi",
+   "row": "s-c23-1",
+   "lang": "is",
+   "form": "Skaða",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ulfr-uggason",
    "row": "s-c23-1",
    "lang": "is",
@@ -35434,6 +37859,14 @@
    "status": "auto"
   },
   {
+   "entity": "skadi",
+   "row": "s-c23-1",
+   "lang": "en",
+   "form": "Skadi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ulfr-uggason",
    "row": "s-c23-1",
    "lang": "en",
@@ -35526,6 +37959,14 @@
    "row": "s-c24-1",
    "lang": "on",
    "form": "Bragi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "aegir",
+   "row": "s-c24-1",
+   "lang": "on",
+   "form": "Ægi",
    "kind": "name",
    "status": "auto"
   },
@@ -35642,6 +38083,14 @@
    "status": "auto"
   },
   {
+   "entity": "aegir",
+   "row": "s-c24-1",
+   "lang": "is",
+   "form": "Ægi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "s-c24-1",
    "lang": "is",
@@ -35750,6 +38199,14 @@
    "row": "s-c24-1",
    "lang": "en",
    "form": "Bragi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "aegir",
+   "row": "s-c24-1",
+   "lang": "en",
+   "form": "Ægir",
    "kind": "name",
    "status": "auto"
   },
@@ -37138,6 +39595,14 @@
    "status": "auto"
   },
   {
+   "entity": "magni",
+   "row": "s-c24-13",
+   "lang": "on",
+   "form": "Magni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "s-c24-13",
    "lang": "on",
@@ -37170,6 +39635,14 @@
    "status": "auto"
   },
   {
+   "entity": "magni",
+   "row": "s-c24-13",
+   "lang": "is",
+   "form": "Magni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "s-c24-13",
    "lang": "is",
@@ -37198,6 +39671,14 @@
    "row": "s-c24-13",
    "lang": "is",
    "form": "Þór",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "magni",
+   "row": "s-c24-13",
+   "lang": "en",
+   "form": "Magni",
    "kind": "name",
    "status": "auto"
   },
@@ -38794,6 +41275,14 @@
    "status": "auto"
   },
   {
+   "entity": "greip",
+   "row": "s-c26-8",
+   "lang": "on",
+   "form": "Greip",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "s-c26-8",
    "lang": "is",
@@ -38842,6 +41331,14 @@
    "status": "auto"
   },
   {
+   "entity": "greip",
+   "row": "s-c26-8",
+   "lang": "is",
+   "form": "Greip",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "s-c26-8",
    "lang": "en",
@@ -38878,6 +41375,14 @@
    "row": "s-c26-8",
    "lang": "en",
    "form": "Gjálp",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "greip",
+   "row": "s-c26-8",
+   "lang": "en",
+   "form": "Greip",
    "kind": "name",
    "status": "auto"
   },
@@ -39178,6 +41683,14 @@
    "status": "auto"
   },
   {
+   "entity": "jord",
+   "row": "s-c27-1",
+   "lang": "on",
+   "form": "Jarðar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "rindr",
    "row": "s-c27-1",
    "lang": "on",
@@ -39206,6 +41719,14 @@
    "row": "s-c27-1",
    "lang": "on",
    "form": "Nönnu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fulla",
+   "row": "s-c27-1",
+   "lang": "on",
+   "form": "Fullu",
    "kind": "name",
    "status": "auto"
   },
@@ -39250,6 +41771,14 @@
    "status": "auto"
   },
   {
+   "entity": "jord",
+   "row": "s-c27-1",
+   "lang": "is",
+   "form": "Jarðar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "rindr",
    "row": "s-c27-1",
    "lang": "is",
@@ -39278,6 +41807,14 @@
    "row": "s-c27-1",
    "lang": "is",
    "form": "Nönnu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fulla",
+   "row": "s-c27-1",
+   "lang": "is",
+   "form": "Fullu",
    "kind": "name",
    "status": "auto"
   },
@@ -39322,6 +41859,14 @@
    "status": "auto"
   },
   {
+   "entity": "jord",
+   "row": "s-c27-1",
+   "lang": "en",
+   "form": "Jörd",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "rindr",
    "row": "s-c27-1",
    "lang": "en",
@@ -39338,10 +41883,26 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "s-c27-1",
+   "lang": "en",
+   "form": "Grídr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "nanna",
    "row": "s-c27-1",
    "lang": "en",
    "form": "Nanna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fulla",
+   "row": "s-c27-1",
+   "lang": "en",
+   "form": "Fulla",
    "kind": "name",
    "status": "auto"
   },
@@ -39770,10 +42331,34 @@
    "status": "auto"
   },
   {
+   "entity": "vestri",
+   "row": "s-c31-1",
+   "lang": "on",
+   "form": "Vestra",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "austri",
    "row": "s-c31-1",
    "lang": "on",
    "form": "Austra",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sudri",
+   "row": "s-c31-1",
+   "lang": "on",
+   "form": "Suðra",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nordri",
+   "row": "s-c31-1",
+   "lang": "on",
+   "form": "Norðra",
    "kind": "name",
    "status": "auto"
   },
@@ -39794,10 +42379,34 @@
    "status": "auto"
   },
   {
+   "entity": "vestri",
+   "row": "s-c31-1",
+   "lang": "is",
+   "form": "Vestra",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "austri",
    "row": "s-c31-1",
    "lang": "is",
    "form": "Austra",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sudri",
+   "row": "s-c31-1",
+   "lang": "is",
+   "form": "Suðra",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nordri",
+   "row": "s-c31-1",
+   "lang": "is",
+   "form": "Norðra",
    "kind": "name",
    "status": "auto"
   },
@@ -39818,10 +42427,34 @@
    "status": "auto"
   },
   {
+   "entity": "vestri",
+   "row": "s-c31-1",
+   "lang": "en",
+   "form": "Vestri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "austri",
    "row": "s-c31-1",
    "lang": "en",
    "form": "Austri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sudri",
+   "row": "s-c31-1",
+   "lang": "en",
+   "form": "Sudri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nordri",
+   "row": "s-c31-1",
+   "lang": "en",
+   "form": "Nordri",
    "kind": "name",
    "status": "auto"
   },
@@ -39952,6 +42585,33 @@
    "form": "Meili's",
    "kind": "name",
    "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c31-9",
+   "lang": "on",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto",
+   "check": true
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c31-9",
+   "lang": "is",
+   "form": "Ormur",
+   "kind": "name",
+   "status": "auto",
+   "check": true
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c31-9",
+   "lang": "en",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto",
+   "check": true
   },
   {
    "entity": "draupnir",
@@ -40210,6 +42870,14 @@
    "status": "auto"
   },
   {
+   "entity": "dagr",
+   "row": "s-c32-1",
+   "lang": "on",
+   "form": "Dags",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "eyvindr",
    "row": "s-c32-1",
    "lang": "on",
@@ -40282,6 +42950,14 @@
    "status": "auto"
   },
   {
+   "entity": "dagr",
+   "row": "s-c32-1",
+   "lang": "is",
+   "form": "Dags",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "eyvindr",
    "row": "s-c32-1",
    "lang": "is",
@@ -40350,6 +43026,14 @@
    "row": "s-c32-1",
    "lang": "en",
    "form": "Sif",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr",
+   "row": "s-c32-1",
+   "lang": "en",
+   "form": "Day",
    "kind": "name",
    "status": "auto"
   },
@@ -40559,6 +43243,14 @@
    "status": "auto"
   },
   {
+   "entity": "hronn",
+   "row": "s-c33-1",
+   "lang": "on",
+   "form": "Hrönn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "bylgja",
    "row": "s-c33-1",
    "lang": "on",
@@ -40589,6 +43281,15 @@
    "form": "Ægisdætra",
    "kind": "name",
    "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c33-1",
+   "lang": "on",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto",
+   "check": true
   },
   {
    "entity": "ymir",
@@ -40639,6 +43340,14 @@
    "status": "auto"
   },
   {
+   "entity": "hronn",
+   "row": "s-c33-1",
+   "lang": "is",
+   "form": "Hrönn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "bylgja",
    "row": "s-c33-1",
    "lang": "is",
@@ -40669,6 +43378,15 @@
    "form": "Ægisdætra",
    "kind": "name",
    "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c33-1",
+   "lang": "is",
+   "form": "Ormur",
+   "kind": "name",
+   "status": "auto",
+   "check": true
   },
   {
    "entity": "ymir",
@@ -40719,6 +43437,14 @@
    "status": "auto"
   },
   {
+   "entity": "hronn",
+   "row": "s-c33-1",
+   "lang": "en",
+   "form": "Hrönn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "bylgja",
    "row": "s-c33-1",
    "lang": "en",
@@ -40741,6 +43467,15 @@
    "form": "Rán",
    "kind": "name",
    "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c33-1",
+   "lang": "en",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto",
+   "check": true
   },
   {
    "entity": "ymir",
@@ -40873,6 +43608,22 @@
   {
    "entity": "aegir",
    "row": "s-c33-9",
+   "lang": "on",
+   "form": "Hlér",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "gymir",
+   "row": "s-c33-9",
+   "lang": "on",
+   "form": "Gymir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "aegir",
+   "row": "s-c33-9",
    "lang": "is",
    "form": "Ægir",
    "kind": "name",
@@ -40881,8 +43632,32 @@
   {
    "entity": "aegir",
    "row": "s-c33-9",
+   "lang": "is",
+   "form": "Hlér",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gymir",
+   "row": "s-c33-9",
+   "lang": "is",
+   "form": "Gymir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "aegir",
+   "row": "s-c33-9",
    "lang": "en",
    "form": "Ægir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gymir",
+   "row": "s-c33-9",
+   "lang": "en",
+   "form": "Gymir",
    "kind": "name",
    "status": "auto"
   },
@@ -41447,6 +44222,22 @@
    "status": "auto"
   },
   {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c37-1",
+   "lang": "on",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c37-1",
+   "lang": "on",
+   "form": "Steinþórsson",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "vindsval",
    "row": "s-c37-1",
    "lang": "is",
@@ -41455,10 +44246,42 @@
    "status": "auto"
   },
   {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c37-1",
+   "lang": "is",
+   "form": "Ormur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c37-1",
+   "lang": "is",
+   "form": "Steinþórsson",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "vindsval",
    "row": "s-c37-1",
    "lang": "en",
    "form": "Vindsvalr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c37-1",
+   "lang": "en",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c37-1",
+   "lang": "en",
+   "form": "Steinthórsson",
    "kind": "name",
    "status": "auto"
   },
@@ -41535,6 +44358,14 @@
    "status": "auto"
   },
   {
+   "entity": "fulla",
+   "row": "s-c40-1",
+   "lang": "on",
+   "form": "Fullu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "freyja",
    "row": "s-c40-1",
    "lang": "on",
@@ -41607,6 +44438,14 @@
    "status": "auto"
   },
   {
+   "entity": "fulla",
+   "row": "s-c40-1",
+   "lang": "is",
+   "form": "Fullu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "freyja",
    "row": "s-c40-1",
    "lang": "is",
@@ -41675,6 +44514,14 @@
    "row": "s-c40-1",
    "lang": "en",
    "form": "Sif",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fulla",
+   "row": "s-c40-1",
+   "lang": "en",
+   "form": "Fulla",
    "kind": "name",
    "status": "auto"
   },
@@ -41879,6 +44726,14 @@
    "status": "auto"
   },
   {
+   "entity": "valhalla",
+   "row": "s-c41-1",
+   "lang": "on",
+   "form": "Valhöllu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "loki",
    "row": "s-c41-1",
    "lang": "on",
@@ -41907,6 +44762,14 @@
    "row": "s-c41-1",
    "lang": "on",
    "form": "Eldir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ran",
+   "row": "s-c41-1",
+   "lang": "on",
+   "form": "Rán",
    "kind": "name",
    "status": "auto"
   },
@@ -42059,6 +44922,14 @@
    "row": "s-c41-1",
    "lang": "is",
    "form": "Ægir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "valhalla",
+   "row": "s-c41-1",
+   "lang": "is",
+   "form": "Valhöllu",
    "kind": "name",
    "status": "auto"
   },
@@ -42247,6 +45118,14 @@
    "status": "auto"
   },
   {
+   "entity": "valhalla",
+   "row": "s-c41-1",
+   "lang": "en",
+   "form": "Valhall",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "loki",
    "row": "s-c41-1",
    "lang": "en",
@@ -42263,10 +45142,26 @@
    "status": "auto"
   },
   {
+   "entity": "ran",
+   "row": "s-c41-1",
+   "lang": "en",
+   "form": "Rán",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "aegir",
    "row": "s-c41-1",
    "lang": "en",
    "form": "Ægir's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ran",
+   "row": "s-c41-1",
+   "lang": "en",
+   "form": "Rán",
    "kind": "name",
    "status": "auto"
   },
@@ -42299,6 +45194,14 @@
    "row": "s-c41-2",
    "lang": "on",
    "form": "Ægir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ran",
+   "row": "s-c41-2",
+   "lang": "on",
+   "form": "Rán",
    "kind": "name",
    "status": "auto"
   },
@@ -43671,6 +46574,14 @@
    "status": "auto"
   },
   {
+   "entity": "fulla",
+   "row": "s-c44-1",
+   "lang": "on",
+   "form": "Fullu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "eyvindr",
    "row": "s-c44-1",
    "lang": "on",
@@ -43679,10 +46590,26 @@
    "status": "auto"
   },
   {
+   "entity": "fulla",
+   "row": "s-c44-1",
+   "lang": "is",
+   "form": "Fullu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "eyvindr",
    "row": "s-c44-1",
    "lang": "is",
    "form": "Eyvindur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fulla",
+   "row": "s-c44-1",
+   "lang": "en",
+   "form": "Fulla's",
    "kind": "name",
    "status": "auto"
   },
@@ -44525,6 +47452,22 @@
    "status": "auto"
   },
   {
+   "entity": "regin",
+   "row": "s-c46-2",
+   "lang": "on",
+   "form": "Regin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "otr",
+   "row": "s-c46-2",
+   "lang": "on",
+   "form": "Otr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hreidmarr",
    "row": "s-c46-2",
    "lang": "on",
@@ -44565,6 +47508,14 @@
    "status": "auto"
   },
   {
+   "entity": "regin",
+   "row": "s-c46-2",
+   "lang": "is",
+   "form": "Regin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hreidmarr",
    "row": "s-c46-2",
    "lang": "is",
@@ -44601,6 +47552,14 @@
    "row": "s-c46-2",
    "lang": "en",
    "form": "Fáfnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "regin",
+   "row": "s-c46-2",
+   "lang": "en",
+   "form": "Reginn",
    "kind": "name",
    "status": "auto"
   },
@@ -45221,6 +48180,14 @@
    "status": "auto"
   },
   {
+   "entity": "regin",
+   "row": "s-c47-2",
+   "lang": "on",
+   "form": "Regin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hreidmarr",
    "row": "s-c47-2",
    "lang": "on",
@@ -45661,6 +48628,14 @@
    "status": "auto"
   },
   {
+   "entity": "gramr",
+   "row": "s-c47-4",
+   "lang": "on",
+   "form": "Gramr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sigurdr",
    "row": "s-c47-4",
    "lang": "on",
@@ -45689,6 +48664,14 @@
    "row": "s-c47-4",
    "lang": "is",
    "form": "Reginn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gramr",
+   "row": "s-c47-4",
+   "lang": "is",
+   "form": "Gramur",
    "kind": "name",
    "status": "auto"
   },
@@ -45721,6 +48704,14 @@
    "row": "s-c47-4",
    "lang": "en",
    "form": "Reginn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gramr",
+   "row": "s-c47-4",
+   "lang": "en",
+   "form": "Gramr",
    "kind": "name",
    "status": "auto"
   },
@@ -46960,6 +49951,14 @@
    "status": "auto"
   },
   {
+   "entity": "gramr",
+   "row": "s-c48-4",
+   "lang": "on",
+   "form": "Gram",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "brynhild",
    "row": "s-c48-4",
    "lang": "on",
@@ -47104,6 +50103,14 @@
    "status": "auto"
   },
   {
+   "entity": "gramr",
+   "row": "s-c48-4",
+   "lang": "is",
+   "form": "Gram",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "brynhild",
    "row": "s-c48-4",
    "lang": "is",
@@ -47244,6 +50251,14 @@
    "row": "s-c48-4",
    "lang": "en",
    "form": "Brynhildr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gramr",
+   "row": "s-c48-4",
+   "lang": "en",
+   "form": "Gramr",
    "kind": "name",
    "status": "auto"
   },
@@ -47456,6 +50471,14 @@
    "status": "auto"
   },
   {
+   "entity": "regin",
+   "row": "s-c49-2",
+   "lang": "on",
+   "form": "Regin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gudrun",
    "row": "s-c49-2",
    "lang": "is",
@@ -47480,6 +50503,14 @@
    "status": "auto"
   },
   {
+   "entity": "regin",
+   "row": "s-c49-2",
+   "lang": "is",
+   "form": "Regin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gudrun",
    "row": "s-c49-2",
    "lang": "en",
@@ -47500,6 +50531,14 @@
    "row": "s-c49-2",
    "lang": "en",
    "form": "Fáfnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "regin",
+   "row": "s-c49-2",
+   "lang": "en",
+   "form": "Reginn",
    "kind": "name",
    "status": "auto"
   },
@@ -47680,6 +50719,14 @@
    "status": "auto"
   },
   {
+   "entity": "gunnar",
+   "row": "s-c49-5",
+   "lang": "on",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hogni",
    "row": "s-c49-5",
    "lang": "on",
@@ -47724,6 +50771,14 @@
    "row": "s-c49-5",
    "lang": "on",
    "form": "Sigurð",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gramr",
+   "row": "s-c49-5",
+   "lang": "on",
+   "form": "Gram",
    "kind": "name",
    "status": "auto"
   },
@@ -47848,6 +50903,14 @@
    "status": "auto"
   },
   {
+   "entity": "gramr",
+   "row": "s-c49-5",
+   "lang": "is",
+   "form": "Gram",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sigurdr",
    "row": "s-c49-5",
    "lang": "is",
@@ -47964,6 +51027,14 @@
    "row": "s-c49-5",
    "lang": "en",
    "form": "Sigurdr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gramr",
+   "row": "s-c49-5",
+   "lang": "en",
+   "form": "Gramr",
    "kind": "name",
    "status": "auto"
   },
@@ -48092,6 +51163,14 @@
    "row": "s-c50-1",
    "lang": "on",
    "form": "Atli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "s-c50-1",
+   "lang": "on",
+   "form": "Gunnar",
    "kind": "name",
    "status": "auto"
   },
@@ -49656,6 +52735,14 @@
    "status": "auto"
   },
   {
+   "entity": "heimir",
+   "row": "s-c51-1",
+   "lang": "on",
+   "form": "Heimis",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hlymdalir",
    "row": "s-c51-1",
    "lang": "on",
@@ -49712,6 +52799,14 @@
    "status": "auto"
   },
   {
+   "entity": "heimir",
+   "row": "s-c51-1",
+   "lang": "is",
+   "form": "Heimis",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hlymdalir",
    "row": "s-c51-1",
    "lang": "is",
@@ -49764,6 +52859,14 @@
    "row": "s-c51-1",
    "lang": "en",
    "form": "Sigurdr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "heimir",
+   "row": "s-c51-1",
+   "lang": "en",
+   "form": "Heimir",
    "kind": "name",
    "status": "auto"
   },
@@ -50064,6 +53167,14 @@
    "status": "auto"
   },
   {
+   "entity": "skjoldr",
+   "row": "s-c52-1",
+   "lang": "on",
+   "form": "Skjöldr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "s-c52-1",
    "lang": "on",
@@ -50112,6 +53223,14 @@
    "status": "auto"
   },
   {
+   "entity": "frodi",
+   "row": "s-c52-1",
+   "lang": "on",
+   "form": "Fróði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "augustus",
    "row": "s-c52-1",
    "lang": "on",
@@ -50124,6 +53243,14 @@
    "row": "s-c52-1",
    "lang": "on",
    "form": "Kristr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frodi",
+   "row": "s-c52-1",
+   "lang": "on",
+   "form": "Fróði",
    "kind": "name",
    "status": "auto"
   },
@@ -50264,6 +53391,14 @@
    "status": "auto"
   },
   {
+   "entity": "skjoldr",
+   "row": "s-c52-1",
+   "lang": "en",
+   "form": "Skjöldr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "skjoldungs",
    "row": "s-c52-1",
    "lang": "en",
@@ -50284,6 +53419,14 @@
    "row": "s-c52-1",
    "lang": "en",
    "form": "Gotland",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "skjoldr",
+   "row": "s-c52-1",
+   "lang": "en",
+   "form": "Skjöldr's",
    "kind": "name",
    "status": "auto"
   },
@@ -50368,6 +53511,14 @@
    "status": "auto"
   },
   {
+   "entity": "menja",
+   "row": "s-c52-2",
+   "lang": "on",
+   "form": "Menja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sweden",
    "row": "s-c52-2",
    "lang": "is",
@@ -50392,6 +53543,14 @@
    "status": "auto"
   },
   {
+   "entity": "menja",
+   "row": "s-c52-2",
+   "lang": "is",
+   "form": "Menja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sweden",
    "row": "s-c52-2",
    "lang": "en",
@@ -50412,6 +53571,14 @@
    "row": "s-c52-2",
    "lang": "en",
    "form": "Fenja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "menja",
+   "row": "s-c52-2",
+   "lang": "en",
+   "form": "Menja",
    "kind": "name",
    "status": "auto"
   },
@@ -50552,6 +53719,14 @@
    "status": "auto"
   },
   {
+   "entity": "menja",
+   "row": "s-c52-5",
+   "lang": "on",
+   "form": "Menja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "frodi",
    "row": "s-c52-5",
    "lang": "on",
@@ -50572,6 +53747,14 @@
    "row": "s-c52-5",
    "lang": "is",
    "form": "Fenja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "menja",
+   "row": "s-c52-5",
+   "lang": "is",
+   "form": "Menja",
    "kind": "name",
    "status": "auto"
   },
@@ -50596,6 +53779,14 @@
    "row": "s-c52-5",
    "lang": "en",
    "form": "Fenja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "menja",
+   "row": "s-c52-5",
+   "lang": "en",
+   "form": "Menja",
    "kind": "name",
    "status": "auto"
   },
@@ -50880,6 +54071,14 @@
    "status": "auto"
   },
   {
+   "entity": "hrolfr-kraki",
+   "row": "s-c53-1",
+   "lang": "on",
+   "form": "Kraka",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "denmark",
    "row": "s-c53-1",
    "lang": "on",
@@ -50916,6 +54115,14 @@
    "row": "s-c53-1",
    "lang": "on",
    "form": "Vöggr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c53-1",
+   "lang": "is",
+   "form": "Kraka",
    "kind": "name",
    "status": "auto"
   },
@@ -51315,7 +54522,23 @@
    "entity": "hrolfr-kraki",
    "row": "s-c54-1",
    "lang": "en",
+   "form": "Kraki's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-1",
+   "lang": "en",
    "form": "Hrólfr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-1",
+   "lang": "en",
+   "form": "Kraki",
    "kind": "name",
    "status": "auto"
   },
@@ -51347,7 +54570,23 @@
    "entity": "hrolfr-kraki",
    "row": "s-c54-1",
    "lang": "en",
+   "form": "Kraki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-1",
+   "lang": "en",
    "form": "Hrólfr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-1",
+   "lang": "en",
+   "form": "Kraki",
    "kind": "name",
    "status": "auto"
   },
@@ -51372,6 +54611,14 @@
    "row": "s-c54-1",
    "lang": "en",
    "form": "Hrólfr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-1",
+   "lang": "en",
+   "form": "Kraki",
    "kind": "name",
    "status": "auto"
   },
@@ -51404,6 +54651,14 @@
    "row": "s-c54-1",
    "lang": "en",
    "form": "Hrólfr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-1",
+   "lang": "en",
+   "form": "Kraki",
    "kind": "name",
    "status": "auto"
   },
@@ -51571,7 +54826,23 @@
    "entity": "hrolfr-kraki",
    "row": "s-c54-2",
    "lang": "en",
+   "form": "Kraki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-2",
+   "lang": "en",
    "form": "Hrólfr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-2",
+   "lang": "en",
+   "form": "Kraki",
    "kind": "name",
    "status": "auto"
   },
@@ -51592,6 +54863,14 @@
    "status": "auto"
   },
   {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-2",
+   "lang": "en",
+   "form": "Kraki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "uppsala",
    "row": "s-c54-3",
    "lang": "on",
@@ -51732,6 +55011,14 @@
    "row": "s-c54-5",
    "lang": "en",
    "form": "Hrólfr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-5",
+   "lang": "en",
+   "form": "Kraki",
    "kind": "name",
    "status": "auto"
   },
@@ -51952,6 +55239,14 @@
    "status": "auto"
   },
   {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-9",
+   "lang": "en",
+   "form": "Kraki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "swedes",
    "row": "s-c54-9",
    "lang": "en",
@@ -51976,6 +55271,14 @@
    "status": "auto"
   },
   {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-9",
+   "lang": "en",
+   "form": "Kraki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "swedes",
    "row": "s-c54-9",
    "lang": "en",
@@ -51996,6 +55299,14 @@
    "row": "s-c54-9",
    "lang": "en",
    "form": "Hrólfr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-9",
+   "lang": "en",
+   "form": "Kraki",
    "kind": "name",
    "status": "auto"
   },
@@ -52064,10 +55375,26 @@
    "status": "auto"
   },
   {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-10",
+   "lang": "en",
+   "form": "Kraki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "swedes",
    "row": "s-c54-10",
    "lang": "en",
    "form": "Swedes",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-11",
+   "lang": "on",
+   "form": "Kraka",
    "kind": "name",
    "status": "auto"
   },
@@ -52088,6 +55415,14 @@
    "status": "auto"
   },
   {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-11",
+   "lang": "is",
+   "form": "Kraka",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fyrisvellir",
    "row": "s-c54-11",
    "lang": "is",
@@ -52100,6 +55435,14 @@
    "row": "s-c54-11",
    "lang": "is",
    "form": "Eyvindur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-11",
+   "lang": "en",
+   "form": "Kraki",
    "kind": "name",
    "status": "auto"
   },
@@ -52206,6 +55549,14 @@
    "status": "auto"
   },
   {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-14",
+   "lang": "on",
+   "form": "Kraka",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "yrsa",
    "row": "s-c54-14",
    "lang": "is",
@@ -52214,10 +55565,26 @@
    "status": "auto"
   },
   {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-14",
+   "lang": "is",
+   "form": "Kraka",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "yrsa",
    "row": "s-c54-14",
    "lang": "en",
    "form": "Yrsa's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c54-14",
+   "lang": "en",
+   "form": "Kraki's",
    "kind": "name",
    "status": "auto"
   },
@@ -53081,7 +56448,7 @@
    "status": "auto"
   },
   {
-   "entity": "hjadningavig",
+   "entity": "hjadningar",
    "row": "s-c58-8",
    "lang": "on",
    "form": "Hjaðninga",
@@ -53089,7 +56456,7 @@
    "status": "auto"
   },
   {
-   "entity": "hjadningavig",
+   "entity": "hjadningar",
    "row": "s-c58-8",
    "lang": "is",
    "form": "Hjaðninga",
@@ -53097,7 +56464,7 @@
    "status": "auto"
   },
   {
-   "entity": "hjadningavig",
+   "entity": "hjadningar",
    "row": "s-c58-8",
    "lang": "en",
    "form": "Hjadnings",
@@ -53105,6 +56472,54 @@
    "status": "auto"
   },
   {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c58-9",
+   "lang": "on",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c58-9",
+   "lang": "on",
+   "form": "Steinþórsson",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c58-9",
+   "lang": "is",
+   "form": "Ormur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c58-9",
+   "lang": "is",
+   "form": "Steinþórsson",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c58-9",
+   "lang": "en",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c58-9",
+   "lang": "en",
+   "form": "Steinthórsson",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "freyr",
    "row": "s-c58-10",
    "lang": "on",
@@ -53135,6 +56550,33 @@
    "form": "Hrist",
    "kind": "name",
    "status": "auto"
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c58-13",
+   "lang": "on",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto",
+   "check": true
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c58-13",
+   "lang": "is",
+   "form": "Ormur",
+   "kind": "name",
+   "status": "auto",
+   "check": true
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c58-13",
+   "lang": "en",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto",
+   "check": true
   },
   {
    "entity": "ulfr-uggason",
@@ -53655,10 +57097,26 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "s-c60-10",
+   "lang": "on",
+   "form": "Hárs",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
    "entity": "hogni",
    "row": "s-c60-10",
    "lang": "on",
    "form": "Högna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "s-c60-10",
+   "lang": "is",
+   "form": "Hárs",
    "kind": "name",
    "status": "auto"
   },
@@ -53847,6 +57305,30 @@
    "status": "auto"
   },
   {
+   "entity": "gunnar",
+   "row": "s-c61-4",
+   "lang": "on",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "s-c61-4",
+   "lang": "is",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "s-c61-4",
+   "lang": "en",
+   "form": "Gunn's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hamdir",
    "row": "s-c61-7",
    "lang": "on",
@@ -53903,10 +57385,34 @@
    "status": "auto"
   },
   {
+   "entity": "egill-skallagrimsson",
+   "row": "s-c61-8",
+   "lang": "on",
+   "form": "Egils",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hamdir",
    "row": "s-c61-8",
    "lang": "is",
    "form": "Hamðis",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "egill-skallagrimsson",
+   "row": "s-c61-8",
+   "lang": "is",
+   "form": "Egils",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "egill-skallagrimsson",
+   "row": "s-c61-8",
+   "lang": "en",
+   "form": "Egill's",
    "kind": "name",
    "status": "auto"
   },
@@ -54860,7 +58366,7 @@
    "status": "auto"
   },
   {
-   "entity": "hjadningavig",
+   "entity": "hjadningar",
    "row": "s-c62-1",
    "lang": "on",
    "form": "Hjaðninga",
@@ -54868,7 +58374,7 @@
    "status": "auto"
   },
   {
-   "entity": "hjadningavig",
+   "entity": "hjadningar",
    "row": "s-c62-1",
    "lang": "on",
    "form": "Hjaðninga",
@@ -54876,7 +58382,7 @@
    "status": "auto"
   },
   {
-   "entity": "hjadningavig",
+   "entity": "hjadningar",
    "row": "s-c62-1",
    "lang": "is",
    "form": "Hjaðninga",
@@ -54884,7 +58390,7 @@
    "status": "auto"
   },
   {
-   "entity": "hjadningavig",
+   "entity": "hjadningar",
    "row": "s-c62-1",
    "lang": "is",
    "form": "Hjaðninga",
@@ -54892,7 +58398,7 @@
    "status": "auto"
   },
   {
-   "entity": "hjadningavig",
+   "entity": "hjadningar",
    "row": "s-c62-1",
    "lang": "en",
    "form": "Hjadnings",
@@ -54900,7 +58406,7 @@
    "status": "auto"
   },
   {
-   "entity": "hjadningavig",
+   "entity": "hjadningar",
    "row": "s-c62-1",
    "lang": "en",
    "form": "Hjadnings",
@@ -54908,13 +58414,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-2",
    "lang": "on",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "hildr",
@@ -54933,13 +58438,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-2",
    "lang": "on",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "hedin-hjarrandason",
@@ -54950,13 +58454,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-2",
    "lang": "on",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "norway",
@@ -54975,13 +58478,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-2",
    "lang": "on",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "hedin-hjarrandason",
@@ -54992,13 +58494,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-2",
    "lang": "is",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "hildr",
@@ -55017,13 +58518,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-2",
    "lang": "is",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "hedin-hjarrandason",
@@ -55034,13 +58534,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-2",
    "lang": "is",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "norway",
@@ -55059,13 +58558,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-2",
    "lang": "is",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "hedin-hjarrandason",
@@ -55084,13 +58582,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-2",
    "lang": "en",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "norway",
@@ -55109,13 +58606,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-2",
    "lang": "en",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "hedin-hjarrandason",
@@ -55150,22 +58646,20 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-3",
    "lang": "on",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-3",
    "lang": "on",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "hedin-hjarrandason",
@@ -55177,13 +58671,12 @@
    "derived": true
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-3",
    "lang": "on",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "hildr",
@@ -55210,22 +58703,20 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-3",
    "lang": "is",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-3",
    "lang": "is",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "hedin-hjarrandason",
@@ -55236,13 +58727,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-3",
    "lang": "is",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "hildr",
@@ -55269,22 +58759,20 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-3",
    "lang": "en",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-3",
    "lang": "en",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "hedin-hjarrandason",
@@ -55295,13 +58783,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-3",
    "lang": "en",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "hedin-hjarrandason",
@@ -55312,13 +58799,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-4",
    "lang": "on",
    "form": "Högna",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "hedin-hjarrandason",
@@ -55329,13 +58815,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-4",
    "lang": "is",
    "form": "Högna",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "hedin-hjarrandason",
@@ -55346,22 +58831,20 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-4",
    "lang": "en",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-5",
    "lang": "on",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "dainsleif",
@@ -55372,13 +58855,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-5",
    "lang": "is",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "dainsleif",
@@ -55389,13 +58871,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "s-c62-5",
    "lang": "en",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "dainsleif",
@@ -55446,7 +58927,7 @@
    "status": "auto"
   },
   {
-   "entity": "hjadningavig",
+   "entity": "hjadningar",
    "row": "s-c62-7",
    "lang": "on",
    "form": "Hjaðningar",
@@ -55511,7 +58992,7 @@
    "status": "auto"
   },
   {
-   "entity": "hjadningavig",
+   "entity": "hjadningar",
    "row": "s-c62-7",
    "lang": "en",
    "form": "Hjadnings",
@@ -55527,7 +59008,7 @@
    "status": "auto"
   },
   {
-   "entity": "hjadningavig",
+   "entity": "hjadningar",
    "row": "s-c62-7",
    "lang": "en",
    "form": "Hjadnings",
@@ -55813,6 +59294,14 @@
    "check": true
   },
   {
+   "entity": "gylfi",
+   "row": "s-c64-8",
+   "lang": "on",
+   "form": "Gylfa",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "agdir",
    "row": "s-c64-8",
    "lang": "on",
@@ -55821,10 +59310,26 @@
    "status": "auto"
   },
   {
+   "entity": "gylfi",
+   "row": "s-c64-8",
+   "lang": "is",
+   "form": "Gylfa",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "agdir",
    "row": "s-c64-8",
    "lang": "is",
    "form": "Agðir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "s-c64-8",
+   "lang": "en",
+   "form": "Gylfi's",
    "kind": "name",
    "status": "auto"
   },
@@ -55837,6 +59342,14 @@
    "status": "auto"
   },
   {
+   "entity": "gylfi",
+   "row": "s-c64-9",
+   "lang": "on",
+   "form": "Gylfa",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "markus",
    "row": "s-c64-9",
    "lang": "on",
@@ -55845,10 +59358,26 @@
    "status": "auto"
   },
   {
+   "entity": "gylfi",
+   "row": "s-c64-9",
+   "lang": "is",
+   "form": "Gylfa",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "markus",
    "row": "s-c64-9",
    "lang": "is",
    "form": "Markús",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "s-c64-9",
+   "lang": "en",
+   "form": "Gylfi's",
    "kind": "name",
    "status": "auto"
   },
@@ -56552,6 +60081,30 @@
    "row": "s-c66-3",
    "lang": "en",
    "form": "Geirason",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gautar",
+   "row": "s-c66-4",
+   "lang": "on",
+   "form": "Gautum",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gautar",
+   "row": "s-c66-4",
+   "lang": "is",
+   "form": "Gautum",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gautar",
+   "row": "s-c66-4",
+   "lang": "en",
+   "form": "Geats",
    "kind": "name",
    "status": "auto"
   },
@@ -59373,6 +62926,15 @@
    "list": true
   },
   {
+   "entity": "glaumr",
+   "row": "s-c72-8",
+   "lang": "on",
+   "form": "Glaumi",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "eadgils",
    "row": "s-c72-8",
    "lang": "on",
@@ -59395,6 +62957,15 @@
    "row": "s-c72-8",
    "lang": "on",
    "form": "Högni",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "holkvir",
+   "row": "s-c72-8",
+   "lang": "on",
+   "form": "Hölkvi",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -59493,6 +63064,15 @@
    "list": true
   },
   {
+   "entity": "glaumr",
+   "row": "s-c72-8",
+   "lang": "is",
+   "form": "Glaumi",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "eadgils",
    "row": "s-c72-8",
    "lang": "is",
@@ -59515,6 +63095,15 @@
    "row": "s-c72-8",
    "lang": "is",
    "form": "Högni",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "holkvir",
+   "row": "s-c72-8",
+   "lang": "is",
+   "form": "Hölkvi",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -59613,6 +63202,15 @@
    "list": true
   },
   {
+   "entity": "glaumr",
+   "row": "s-c72-8",
+   "lang": "en",
+   "form": "Glaumr",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "eadgils",
    "row": "s-c72-8",
    "lang": "en",
@@ -59635,6 +63233,15 @@
    "row": "s-c72-8",
    "lang": "en",
    "form": "Högni",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "holkvir",
+   "row": "s-c72-8",
+   "lang": "en",
+   "form": "Hölkvir",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -59706,6 +63313,15 @@
    "list": true
   },
   {
+   "entity": "alsvidr",
+   "row": "s-c72-9",
+   "lang": "on",
+   "form": "Alsviðr",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "hrimfaxi",
    "row": "s-c72-9",
    "lang": "on",
@@ -59719,6 +63335,15 @@
    "row": "s-c72-9",
    "lang": "on",
    "form": "Skinfaxi",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "gladr",
+   "row": "s-c72-9",
+   "lang": "on",
+   "form": "Glaðr",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -59733,6 +63358,15 @@
    "list": true
   },
   {
+   "entity": "alsvidr",
+   "row": "s-c72-9",
+   "lang": "is",
+   "form": "Alsvinnur",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "hrimfaxi",
    "row": "s-c72-9",
    "lang": "is",
@@ -59746,6 +63380,15 @@
    "row": "s-c72-9",
    "lang": "is",
    "form": "Skinfaxi",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "gladr",
+   "row": "s-c72-9",
+   "lang": "is",
+   "form": "Glaður",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -60723,6 +64366,33 @@
    "list": true
   },
   {
+   "entity": "mani",
+   "row": "s-c76-16",
+   "lang": "on",
+   "form": "Manar",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "mani",
+   "row": "s-c76-16",
+   "lang": "is",
+   "form": "Manar",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "mani",
+   "row": "s-c76-16",
+   "lang": "en",
+   "form": "Many",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "arnorr",
    "row": "s-c76-17",
    "lang": "on",
@@ -60912,6 +64582,15 @@
    "list": true
   },
   {
+   "entity": "hronn",
+   "row": "s-c76-27",
+   "lang": "on",
+   "form": "Hrönn",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "bylgja",
    "row": "s-c76-27",
    "lang": "on",
@@ -60988,6 +64667,15 @@
    "row": "s-c76-27",
    "lang": "is",
    "form": "Hefring",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "hronn",
+   "row": "s-c76-27",
+   "lang": "is",
+   "form": "Hrönn",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -61078,6 +64766,15 @@
    "row": "s-c76-27",
    "lang": "en",
    "form": "Udr",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "hronn",
+   "row": "s-c76-27",
+   "lang": "en",
+   "form": "Hrönn",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -61269,6 +64966,36 @@
    "form": "Ottarr",
    "kind": "name",
    "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c76-33",
+   "lang": "on",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto",
+   "check": true,
+   "list": true
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c76-33",
+   "lang": "is",
+   "form": "Ormur",
+   "kind": "name",
+   "status": "auto",
+   "check": true,
+   "list": true
+  },
+  {
+   "entity": "ormr-steinthorsson",
+   "row": "s-c76-33",
+   "lang": "en",
+   "form": "Ormr",
+   "kind": "name",
+   "status": "auto",
+   "check": true,
    "list": true
   },
   {
@@ -62082,6 +65809,33 @@
    "list": true
   },
   {
+   "entity": "hrolfr-kraki",
+   "row": "s-c79-18",
+   "lang": "on",
+   "form": "Kraka",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c79-18",
+   "lang": "is",
+   "form": "Kraka",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "hrolfr-kraki",
+   "row": "s-c79-18",
+   "lang": "en",
+   "form": "Kraki's",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "halfdan",
    "row": "s-c80-1",
    "lang": "on",
@@ -62105,6 +65859,24 @@
    "row": "s-c80-1",
    "lang": "on",
    "form": "Sigtryggr",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "gramr",
+   "row": "s-c80-1",
+   "lang": "on",
+   "form": "Gramr",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "gylfi",
+   "row": "s-c80-1",
+   "lang": "on",
+   "form": "Gylfi",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -62156,6 +65928,24 @@
    "list": true
   },
   {
+   "entity": "gramr",
+   "row": "s-c80-1",
+   "lang": "is",
+   "form": "Gramur",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "gylfi",
+   "row": "s-c80-1",
+   "lang": "is",
+   "form": "Gylfi",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "skuli",
    "row": "s-c80-1",
    "lang": "is",
@@ -62188,6 +65978,24 @@
    "row": "s-c80-1",
    "lang": "en",
    "form": "Sigtryggr",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "gramr",
+   "row": "s-c80-1",
+   "lang": "en",
+   "form": "Gramr",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "gylfi",
+   "row": "s-c80-1",
+   "lang": "en",
+   "form": "Gylfi",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -62373,6 +66181,24 @@
    "list": true
   },
   {
+   "entity": "gautar",
+   "row": "s-c80-10",
+   "lang": "on",
+   "form": "Gautum",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "gautar",
+   "row": "s-c80-10",
+   "lang": "is",
+   "form": "Gautum",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "ottarr-svarti",
    "row": "s-c80-11",
    "lang": "on",
@@ -62533,6 +66359,15 @@
    "row": "s-c80-19",
    "lang": "on",
    "form": "Ynglingar",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "dagr",
+   "row": "s-c80-19",
+   "lang": "on",
+   "form": "Dagr",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -62754,6 +66589,15 @@
    "row": "s-c80-19",
    "lang": "is",
    "form": "Ynglingar",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "dagr",
+   "row": "s-c80-19",
+   "lang": "is",
+   "form": "Dagur",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -62985,6 +66829,15 @@
    "row": "s-c80-19",
    "lang": "en",
    "form": "Ynglings",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "dagr",
+   "row": "s-c80-19",
+   "lang": "en",
+   "form": "Dagr",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -64723,6 +68576,14 @@
   {
    "entity": "odin",
    "row": "h-c2-2",
+   "lang": "on",
+   "form": "Hárs",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "h-c2-2",
    "lang": "is",
    "form": "Yggs",
    "kind": "name",
@@ -65157,7 +69018,7 @@
    "status": "auto"
   },
   {
-   "entity": "hjadningavig",
+   "entity": "hjadningar",
    "row": "h-c2-56",
    "lang": "on",
    "form": "Hjaðninga",
@@ -65181,7 +69042,7 @@
    "status": "auto"
   },
   {
-   "entity": "hjadningavig",
+   "entity": "hjadningar",
    "row": "h-c2-56",
    "lang": "is",
    "form": "Hjaðninga",
@@ -65205,7 +69066,7 @@
    "status": "auto"
   },
   {
-   "entity": "hjadningavig",
+   "entity": "hjadningar",
    "row": "h-c2-56",
    "lang": "en",
    "form": "Hjaðningar's",
@@ -65387,6 +69248,33 @@
    "form": "Óðinn",
    "kind": "name",
    "status": "auto"
+  },
+  {
+   "entity": "egill",
+   "row": "h-c2-76",
+   "lang": "on",
+   "form": "Egils",
+   "kind": "name",
+   "status": "auto",
+   "check": true
+  },
+  {
+   "entity": "egill",
+   "row": "h-c2-76",
+   "lang": "is",
+   "form": "Egils",
+   "kind": "name",
+   "status": "auto",
+   "check": true
+  },
+  {
+   "entity": "egill",
+   "row": "h-c2-76",
+   "lang": "en",
+   "form": "Egill's",
+   "kind": "name",
+   "status": "auto",
+   "check": true
   },
   {
    "entity": "hlokk",
@@ -65781,6 +69669,54 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "h-c3-30",
+   "lang": "on",
+   "form": "Manar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "h-c3-30",
+   "lang": "is",
+   "form": "Manar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "h-c3-30",
+   "lang": "en",
+   "form": "Man",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "maerir",
+   "row": "h-c3-43",
+   "lang": "on",
+   "form": "Mæra",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "maerir",
+   "row": "h-c3-43",
+   "lang": "is",
+   "form": "Mæra",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "maerir",
+   "row": "h-c3-43",
+   "lang": "en",
+   "form": "Mærir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "skuli",
    "row": "h-c3-46",
    "lang": "on",
@@ -65975,6 +69911,30 @@
    "row": "h-c3-78",
    "lang": "en",
    "form": "Skúli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "maerir",
+   "row": "h-c3-80",
+   "lang": "on",
+   "form": "Mæra",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "maerir",
+   "row": "h-c3-80",
+   "lang": "is",
+   "form": "Mæra",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "maerir",
+   "row": "h-c3-80",
+   "lang": "en",
+   "form": "Mærir",
    "kind": "name",
    "status": "auto"
   },
@@ -66220,6 +70180,38 @@
    "status": "auto"
   },
   {
+   "entity": "nidi",
+   "row": "vsp-s11",
+   "lang": "on",
+   "form": "Niði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nordri",
+   "row": "vsp-s11",
+   "lang": "on",
+   "form": "Norðri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sudri",
+   "row": "vsp-s11",
+   "lang": "on",
+   "form": "Suðri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vestri",
+   "row": "vsp-s11",
+   "lang": "on",
+   "form": "Vestri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "dvalinn",
    "row": "vsp-s11",
    "lang": "on",
@@ -66268,6 +70260,38 @@
    "status": "auto"
   },
   {
+   "entity": "nidi",
+   "row": "vsp-s11",
+   "lang": "is",
+   "form": "Niði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nordri",
+   "row": "vsp-s11",
+   "lang": "is",
+   "form": "Norðri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sudri",
+   "row": "vsp-s11",
+   "lang": "is",
+   "form": "Suðri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vestri",
+   "row": "vsp-s11",
+   "lang": "is",
+   "form": "Vestri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "dvalinn",
    "row": "vsp-s11",
    "lang": "is",
@@ -66312,6 +70336,38 @@
    "row": "vsp-s11",
    "lang": "is",
    "form": "Mjöðvitnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nidi",
+   "row": "vsp-s11",
+   "lang": "en",
+   "form": "Nithi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nordri",
+   "row": "vsp-s11",
+   "lang": "en",
+   "form": "Northri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sudri",
+   "row": "vsp-s11",
+   "lang": "en",
+   "form": "Suthri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vestri",
+   "row": "vsp-s11",
+   "lang": "en",
+   "form": "Vestri",
    "kind": "name",
    "status": "auto"
   },
@@ -66388,6 +70444,22 @@
    "status": "auto"
   },
   {
+   "entity": "litr",
+   "row": "vsp-s12",
+   "lang": "on",
+   "form": "Litr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vitr",
+   "row": "vsp-s12",
+   "lang": "on",
+   "form": "Vitr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "nyradr",
    "row": "vsp-s12",
    "lang": "on",
@@ -66436,6 +70508,22 @@
    "status": "auto"
   },
   {
+   "entity": "litr",
+   "row": "vsp-s12",
+   "lang": "is",
+   "form": "Litur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vitr",
+   "row": "vsp-s12",
+   "lang": "is",
+   "form": "Vitur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "nyradr",
    "row": "vsp-s12",
    "lang": "is",
@@ -66480,6 +70568,22 @@
    "row": "vsp-s12",
    "lang": "en",
    "form": "Thorin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vitr",
+   "row": "vsp-s12",
+   "lang": "en",
+   "form": "Vit",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "litr",
+   "row": "vsp-s12",
+   "lang": "en",
+   "form": "Lit",
    "kind": "name",
    "status": "auto"
   },
@@ -66710,6 +70814,22 @@
    "check": true
   },
   {
+   "entity": "frosti",
+   "row": "vsp-s16",
+   "lang": "on",
+   "form": "Frosti",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ginnarr",
+   "row": "vsp-s16",
+   "lang": "on",
+   "form": "Ginnarr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fjalar",
    "row": "vsp-s16",
    "lang": "is",
@@ -66717,6 +70837,22 @@
    "kind": "name",
    "status": "auto",
    "check": true
+  },
+  {
+   "entity": "frosti",
+   "row": "vsp-s16",
+   "lang": "is",
+   "form": "Frosti",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ginnarr",
+   "row": "vsp-s16",
+   "lang": "is",
+   "form": "Ginnar",
+   "kind": "name",
+   "status": "auto"
   },
   {
    "entity": "yngvi",
@@ -66735,6 +70871,22 @@
    "kind": "name",
    "status": "auto",
    "check": true
+  },
+  {
+   "entity": "frosti",
+   "row": "vsp-s16",
+   "lang": "en",
+   "form": "Frosti",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ginnarr",
+   "row": "vsp-s16",
+   "lang": "en",
+   "form": "Ginnar",
+   "kind": "name",
+   "status": "auto"
   },
   {
    "entity": "embla",
@@ -66929,10 +71081,26 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "vsp-s21",
+   "lang": "on",
+   "form": "Hárs",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
    "entity": "gullveig",
    "row": "vsp-s21",
    "lang": "is",
    "form": "Gullveigu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "vsp-s21",
+   "lang": "is",
+   "form": "Hárs",
    "kind": "name",
    "status": "auto"
   },
@@ -69779,6 +73947,22 @@
   },
   {
    "entity": "odin",
+   "row": "hav-s164",
+   "lang": "on",
+   "form": "Háva",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "hav-s164",
+   "lang": "on",
+   "form": "Háva",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
    "row": "vm-s1",
    "lang": "on",
    "form": "Óðinn",
@@ -70890,6 +75074,22 @@
    "status": "auto"
   },
   {
+   "entity": "dagr",
+   "row": "vm-s25",
+   "lang": "on",
+   "form": "Dags",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nott",
+   "row": "vm-s25",
+   "lang": "on",
+   "form": "Nótt",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "norvi",
    "row": "vm-s25",
    "lang": "on",
@@ -70910,6 +75110,22 @@
    "row": "vm-s25",
    "lang": "is",
    "form": "Dellingur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr",
+   "row": "vm-s25",
+   "lang": "is",
+   "form": "Dags",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nott",
+   "row": "vm-s25",
+   "lang": "is",
+   "form": "Nótt",
    "kind": "name",
    "status": "auto"
   },
@@ -72074,6 +76290,14 @@
    "status": "auto"
   },
   {
+   "entity": "magni",
+   "row": "vm-s51",
+   "lang": "on",
+   "form": "Magni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "mjolnir",
    "row": "vm-s51",
    "lang": "on",
@@ -72114,6 +76338,14 @@
    "status": "auto"
   },
   {
+   "entity": "magni",
+   "row": "vm-s51",
+   "lang": "is",
+   "form": "Magni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "mjolnir",
    "row": "vm-s51",
    "lang": "is",
@@ -72150,6 +76382,14 @@
    "row": "vm-s51",
    "lang": "en",
    "form": "Surt",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "magni",
+   "row": "vm-s51",
+   "lang": "en",
+   "form": "Magni",
    "kind": "name",
    "status": "auto"
   },
@@ -72522,6 +76762,14 @@
    "status": "auto"
   },
   {
+   "entity": "fulla",
+   "row": "grm-p1",
+   "lang": "on",
+   "form": "Fullu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "king-geirrod",
    "row": "grm-p1",
    "lang": "on",
@@ -72538,11 +76786,11 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "grm-p1",
    "lang": "on",
    "form": "Grímnir",
-   "kind": "name",
+   "kind": "heiti",
    "status": "auto"
   },
   {
@@ -72570,27 +76818,27 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "grm-p1",
    "lang": "on",
    "form": "Grímni",
-   "kind": "name",
+   "kind": "heiti",
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "grm-p1",
    "lang": "on",
    "form": "Grímnir",
-   "kind": "name",
+   "kind": "heiti",
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "grm-p1",
    "lang": "on",
    "form": "Grímni",
-   "kind": "name",
+   "kind": "heiti",
    "status": "auto"
   },
   {
@@ -72746,6 +76994,14 @@
    "status": "auto"
   },
   {
+   "entity": "fulla",
+   "row": "grm-p1",
+   "lang": "is",
+   "form": "Fullu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "king-geirrod",
    "row": "grm-p1",
    "lang": "is",
@@ -72762,7 +77018,7 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "grm-p1",
    "lang": "is",
    "form": "Grímnir",
@@ -72794,7 +77050,7 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "grm-p1",
    "lang": "is",
    "form": "Grímni",
@@ -72802,7 +77058,7 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "grm-p1",
    "lang": "is",
    "form": "Grímnir",
@@ -72810,7 +77066,7 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "grm-p1",
    "lang": "is",
    "form": "Grímni",
@@ -72970,10 +77226,10 @@
    "status": "auto"
   },
   {
-   "entity": "king-geirrod",
+   "entity": "fulla",
    "row": "grm-p1",
    "lang": "en",
-   "form": "Geirröth",
+   "form": "Fulla",
    "kind": "name",
    "status": "auto"
   },
@@ -72986,7 +77242,15 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "king-geirrod",
+   "row": "grm-p1",
+   "lang": "en",
+   "form": "Geirröth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
    "row": "grm-p1",
    "lang": "en",
    "form": "Grimnir",
@@ -73018,7 +77282,7 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "grm-p1",
    "lang": "en",
    "form": "Grimnir",
@@ -73026,7 +77290,7 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "grm-p1",
    "lang": "en",
    "form": "Grimnir",
@@ -73034,7 +77298,7 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "grm-p1",
    "lang": "en",
    "form": "Grimnir's",
@@ -73258,6 +77522,14 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "grm-s8",
+   "lang": "on",
+   "form": "Hroftr",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
    "entity": "valhalla",
    "row": "grm-s8",
    "lang": "is",
@@ -73266,10 +77538,26 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "grm-s8",
+   "lang": "is",
+   "form": "Hroftur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "valhalla",
    "row": "grm-s8",
    "lang": "en",
    "form": "Valhall",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "grm-s8",
+   "lang": "en",
+   "form": "Othin",
    "kind": "name",
    "status": "auto"
   },
@@ -73738,6 +78026,14 @@
    "status": "auto"
   },
   {
+   "entity": "freki",
+   "row": "grm-s19",
+   "lang": "on",
+   "form": "Freka",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "grm-s19",
    "lang": "on",
@@ -73754,6 +78050,14 @@
    "status": "auto"
   },
   {
+   "entity": "freki",
+   "row": "grm-s19",
+   "lang": "is",
+   "form": "Freka",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "grm-s19",
    "lang": "is",
@@ -73766,6 +78070,14 @@
    "row": "grm-s19",
    "lang": "is",
    "form": "Óðinn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "freki",
+   "row": "grm-s19",
+   "lang": "en",
+   "form": "Freki",
    "kind": "name",
    "status": "auto"
   },
@@ -73906,10 +78218,34 @@
    "status": "auto"
   },
   {
+   "entity": "valhalla",
+   "row": "grm-s23",
+   "lang": "on",
+   "form": "Valhöllu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "einherjar",
    "row": "grm-s23",
    "lang": "on",
    "form": "Einherja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "valhalla",
+   "row": "grm-s23",
+   "lang": "is",
+   "form": "Valhöllu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "valhalla",
+   "row": "grm-s23",
+   "lang": "en",
+   "form": "Valhall's",
    "kind": "name",
    "status": "auto"
   },
@@ -74034,6 +78370,15 @@
    "status": "auto"
   },
   {
+   "entity": "vid",
+   "row": "grm-s27",
+   "lang": "on",
+   "form": "Víð",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "gunnthro",
    "row": "grm-s27",
    "lang": "on",
@@ -74088,6 +78433,15 @@
    "list": true
   },
   {
+   "entity": "vid",
+   "row": "grm-s27",
+   "lang": "is",
+   "form": "Víð",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "gunnthro",
    "row": "grm-s27",
    "lang": "is",
@@ -74137,6 +78491,15 @@
    "row": "grm-s27",
    "lang": "is",
    "form": "Geirvimul",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "vid",
+   "row": "grm-s27",
+   "lang": "en",
+   "form": "Vith",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -74223,6 +78586,24 @@
    "list": true
   },
   {
+   "entity": "hronn-river",
+   "row": "grm-s28",
+   "lang": "on",
+   "form": "Hrönn",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "hrid",
+   "row": "grm-s28",
+   "lang": "on",
+   "form": "Hríð",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "elivagar",
    "row": "grm-s28",
    "lang": "on",
@@ -74232,10 +78613,28 @@
    "list": true
   },
   {
+   "entity": "vid",
+   "row": "grm-s28",
+   "lang": "on",
+   "form": "Víð",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "gjoll",
    "row": "grm-s28",
    "lang": "on",
    "form": "Gjöll",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "leiftr",
+   "row": "grm-s28",
+   "lang": "on",
+   "form": "Leiftr",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -74268,6 +78667,24 @@
    "list": true
   },
   {
+   "entity": "hronn-river",
+   "row": "grm-s28",
+   "lang": "is",
+   "form": "Hrönn",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "hrid",
+   "row": "grm-s28",
+   "lang": "is",
+   "form": "Hríð",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "elivagar",
    "row": "grm-s28",
    "lang": "is",
@@ -74277,10 +78694,28 @@
    "list": true
   },
   {
+   "entity": "vid",
+   "row": "grm-s28",
+   "lang": "is",
+   "form": "Víð",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "gjoll",
    "row": "grm-s28",
    "lang": "is",
    "form": "Gjöll",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "leiftr",
+   "row": "grm-s28",
+   "lang": "is",
+   "form": "Leiftur",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -74313,6 +78748,24 @@
    "list": true
   },
   {
+   "entity": "hronn-river",
+   "row": "grm-s28",
+   "lang": "en",
+   "form": "Hron",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "hrid",
+   "row": "grm-s28",
+   "lang": "en",
+   "form": "Hrith",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "elivagar",
    "row": "grm-s28",
    "lang": "en",
@@ -74322,10 +78775,28 @@
    "list": true
   },
   {
+   "entity": "vid",
+   "row": "grm-s28",
+   "lang": "en",
+   "form": "Vith",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "gjoll",
    "row": "grm-s28",
    "lang": "en",
    "form": "Gjol",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "leiftr",
+   "row": "grm-s28",
+   "lang": "en",
+   "form": "Leipt",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -75210,10 +79681,26 @@
    "status": "auto"
   },
   {
+   "entity": "alsvidr",
+   "row": "grm-s37",
+   "lang": "on",
+   "form": "Alsviðr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "arvakr",
    "row": "grm-s37",
    "lang": "is",
    "form": "Árvakur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "alsvidr",
+   "row": "grm-s37",
+   "lang": "is",
+   "form": "Alsvinnur",
    "kind": "name",
    "status": "auto"
   },
@@ -75226,6 +79713,22 @@
    "status": "auto"
   },
   {
+   "entity": "alsvidr",
+   "row": "grm-s37",
+   "lang": "en",
+   "form": "Alsvith",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "skoll",
+   "row": "grm-s39",
+   "lang": "on",
+   "form": "Sköll",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hati",
    "row": "grm-s39",
    "lang": "on",
@@ -75242,6 +79745,14 @@
    "status": "auto"
   },
   {
+   "entity": "skoll",
+   "row": "grm-s39",
+   "lang": "is",
+   "form": "Sköll",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hati",
    "row": "grm-s39",
    "lang": "is",
@@ -75254,6 +79765,14 @@
    "row": "grm-s39",
    "lang": "is",
    "form": "Hróðvitnis",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "skoll",
+   "row": "grm-s39",
+   "lang": "en",
+   "form": "Skoll",
    "kind": "name",
    "status": "auto"
   },
@@ -75581,6 +80100,15 @@
    "entity": "odin",
    "row": "grm-s46",
    "lang": "on",
+   "form": "Grímr",
+   "kind": "heiti",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "odin",
+   "row": "grm-s46",
+   "lang": "on",
    "form": "Gangleri",
    "kind": "name",
    "status": "auto",
@@ -75591,6 +80119,15 @@
    "row": "grm-s46",
    "lang": "on",
    "form": "Hjalmberi",
+   "kind": "heiti",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "odin",
+   "row": "grm-s46",
+   "lang": "on",
+   "form": "Þriði",
    "kind": "heiti",
    "status": "auto",
    "list": true
@@ -75617,6 +80154,15 @@
    "entity": "odin",
    "row": "grm-s46",
    "lang": "is",
+   "form": "Grímur",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "odin",
+   "row": "grm-s46",
+   "lang": "is",
    "form": "Gangleri",
    "kind": "name",
    "status": "auto",
@@ -75636,6 +80182,15 @@
    "row": "grm-s46",
    "lang": "is",
    "form": "Hjálmberi",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "odin",
+   "row": "grm-s46",
+   "lang": "is",
+   "form": "Þriðji",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -75687,6 +80242,15 @@
   },
   {
    "entity": "odin",
+   "row": "grm-s46",
+   "lang": "en",
+   "form": "Thrithi",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "odin",
    "row": "grm-s47",
    "lang": "on",
    "form": "Svipall",
@@ -75731,11 +80295,20 @@
    "list": true
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
+   "row": "grm-s47",
+   "lang": "on",
+   "form": "Grímr",
+   "kind": "heiti",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "odin",
    "row": "grm-s47",
    "lang": "on",
    "form": "Grímnir",
-   "kind": "name",
+   "kind": "heiti",
    "status": "auto",
    "list": true
   },
@@ -75794,7 +80367,16 @@
    "list": true
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
+   "row": "grm-s47",
+   "lang": "is",
+   "form": "Grímur",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "odin",
    "row": "grm-s47",
    "lang": "is",
    "form": "Grímnir",
@@ -75857,7 +80439,7 @@
    "list": true
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "grm-s47",
    "lang": "en",
    "form": "Grimnir",
@@ -76037,11 +80619,11 @@
    "list": true
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "grm-s49",
    "lang": "on",
    "form": "Grímni",
-   "kind": "name",
+   "kind": "heiti",
    "status": "auto",
    "list": true
   },
@@ -76091,7 +80673,7 @@
    "list": true
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "grm-s49",
    "lang": "is",
    "form": "Grímni",
@@ -76163,7 +80745,7 @@
    "list": true
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "grm-s49",
    "lang": "en",
    "form": "Grimnir",
@@ -77591,6 +82173,14 @@
    "status": "auto"
   },
   {
+   "entity": "gymir",
+   "row": "skm-s24",
+   "lang": "on",
+   "form": "Gymir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gerdr",
    "row": "skm-s24",
    "lang": "is",
@@ -77599,10 +82189,26 @@
    "status": "auto"
   },
   {
+   "entity": "gymir",
+   "row": "skm-s24",
+   "lang": "is",
+   "form": "Gymir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gerdr",
    "row": "skm-s24",
    "lang": "en",
    "form": "Gerth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gymir",
+   "row": "skm-s24",
+   "lang": "en",
+   "form": "Gymir",
    "kind": "name",
    "status": "auto"
   },
@@ -80499,6 +85105,15 @@
    "status": "auto"
   },
   {
+   "entity": "egill",
+   "row": "hym-s7",
+   "lang": "on",
+   "form": "Egils",
+   "kind": "name",
+   "status": "auto",
+   "check": true
+  },
+  {
    "entity": "hymir",
    "row": "hym-s7",
    "lang": "on",
@@ -80515,6 +85130,15 @@
    "status": "auto"
   },
   {
+   "entity": "egill",
+   "row": "hym-s7",
+   "lang": "is",
+   "form": "Egils",
+   "kind": "name",
+   "status": "auto",
+   "check": true
+  },
+  {
    "entity": "hymir",
    "row": "hym-s7",
    "lang": "is",
@@ -80529,6 +85153,15 @@
    "form": "Asgarth",
    "kind": "name",
    "status": "auto"
+  },
+  {
+   "entity": "egill",
+   "row": "hym-s7",
+   "lang": "en",
+   "form": "Egil's",
+   "kind": "name",
+   "status": "auto",
+   "check": true
   },
   {
    "entity": "hymir",
@@ -81219,6 +85852,14 @@
    "status": "auto"
   },
   {
+   "entity": "gymir",
+   "row": "ls-p1",
+   "lang": "on",
+   "form": "Gymir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "ls-p1",
    "lang": "on",
@@ -81355,6 +85996,14 @@
    "status": "auto"
   },
   {
+   "entity": "byggvir",
+   "row": "ls-p1",
+   "lang": "on",
+   "form": "Byggvir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "beyla",
    "row": "ls-p1",
    "lang": "on",
@@ -81431,6 +86080,14 @@
    "row": "ls-p1",
    "lang": "is",
    "form": "Ægir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gymir",
+   "row": "ls-p1",
+   "lang": "is",
+   "form": "Gymir",
    "kind": "name",
    "status": "auto"
   },
@@ -81571,6 +86228,14 @@
    "status": "auto"
   },
   {
+   "entity": "byggvir",
+   "row": "ls-p1",
+   "lang": "is",
+   "form": "Byggir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "beyla",
    "row": "ls-p1",
    "lang": "is",
@@ -81655,6 +86320,14 @@
    "row": "ls-p1",
    "lang": "en",
    "form": "Ægir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gymir",
+   "row": "ls-p1",
+   "lang": "en",
+   "form": "Gymir",
    "kind": "name",
    "status": "auto"
   },
@@ -81791,6 +86464,14 @@
    "row": "ls-p1",
    "lang": "en",
    "form": "Freyr's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "byggvir",
+   "row": "ls-p1",
+   "lang": "en",
+   "form": "Byggvir",
    "kind": "name",
    "status": "auto"
   },
@@ -83763,6 +88444,14 @@
    "status": "auto"
   },
   {
+   "entity": "myrkvidr",
+   "row": "ls-s42",
+   "lang": "on",
+   "form": "Myrkvið",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "loki",
    "row": "ls-s42",
    "lang": "is",
@@ -83783,6 +88472,14 @@
    "row": "ls-s42",
    "lang": "is",
    "form": "Múspells",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "myrkvidr",
+   "row": "ls-s42",
+   "lang": "is",
+   "form": "Myrkvið",
    "kind": "name",
    "status": "auto"
   },
@@ -83915,6 +88612,14 @@
    "status": "auto"
   },
   {
+   "entity": "byggvir",
+   "row": "ls-s46",
+   "lang": "on",
+   "form": "Byggvir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "loki",
    "row": "ls-s46",
    "lang": "is",
@@ -83923,10 +88628,26 @@
    "status": "auto"
   },
   {
+   "entity": "byggvir",
+   "row": "ls-s46",
+   "lang": "is",
+   "form": "Byggir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "loki",
    "row": "ls-s46",
    "lang": "en",
    "form": "Loki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "byggvir",
+   "row": "ls-s46",
+   "lang": "en",
+   "form": "Byggvir",
    "kind": "name",
    "status": "auto"
   },
@@ -85108,6 +89829,30 @@
    "status": "auto"
   },
   {
+   "entity": "jord",
+   "row": "thrk-s1",
+   "lang": "on",
+   "form": "Jarðar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jord",
+   "row": "thrk-s1",
+   "lang": "is",
+   "form": "Jarðar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jord",
+   "row": "thrk-s1",
+   "lang": "en",
+   "form": "Jorth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "loki",
    "row": "thrk-s2",
    "lang": "on",
@@ -85932,6 +90677,14 @@
    "status": "auto"
   },
   {
+   "entity": "thrymr",
+   "row": "thrk-s22",
+   "lang": "on",
+   "form": "Þrymr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "freyja",
    "row": "thrk-s22",
    "lang": "on",
@@ -85956,6 +90709,14 @@
    "status": "auto"
   },
   {
+   "entity": "thrymr",
+   "row": "thrk-s22",
+   "lang": "is",
+   "form": "Þrymur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "freyja",
    "row": "thrk-s22",
    "lang": "is",
@@ -85976,6 +90737,14 @@
    "row": "thrk-s22",
    "lang": "is",
    "form": "Nóatúnum",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "thrymr",
+   "row": "thrk-s22",
+   "lang": "en",
+   "form": "Thrym",
    "kind": "name",
    "status": "auto"
   },
@@ -86052,6 +90821,30 @@
    "status": "auto"
   },
   {
+   "entity": "thrymr",
+   "row": "thrk-s25",
+   "lang": "on",
+   "form": "Þrymr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "thrymr",
+   "row": "thrk-s25",
+   "lang": "is",
+   "form": "Þrymur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "thrymr",
+   "row": "thrk-s25",
+   "lang": "en",
+   "form": "Thrym",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "freyja",
    "row": "thrk-s26",
    "lang": "on",
@@ -86172,6 +90965,14 @@
    "status": "auto"
   },
   {
+   "entity": "thrymr",
+   "row": "thrk-s30",
+   "lang": "on",
+   "form": "Þrymr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "mjolnir",
    "row": "thrk-s30",
    "lang": "on",
@@ -86180,10 +90981,26 @@
    "status": "auto"
   },
   {
+   "entity": "thrymr",
+   "row": "thrk-s30",
+   "lang": "is",
+   "form": "Þrymur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "mjolnir",
    "row": "thrk-s30",
    "lang": "is",
    "form": "Mjöllni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "thrymr",
+   "row": "thrk-s30",
+   "lang": "en",
+   "form": "Thrym",
    "kind": "name",
    "status": "auto"
   },
@@ -86204,6 +91021,14 @@
    "status": "auto"
   },
   {
+   "entity": "thrymr",
+   "row": "thrk-s31",
+   "lang": "on",
+   "form": "Þrym",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "thrk-s31",
    "lang": "is",
@@ -86212,10 +91037,26 @@
    "status": "auto"
   },
   {
+   "entity": "thrymr",
+   "row": "thrk-s31",
+   "lang": "is",
+   "form": "Þrym",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "thrk-s31",
    "lang": "en",
    "form": "Hlorrithi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "thrymr",
+   "row": "thrk-s31",
+   "lang": "en",
+   "form": "Thrym",
    "kind": "name",
    "status": "auto"
   },
@@ -88084,6 +92925,30 @@
    "status": "auto"
   },
   {
+   "entity": "edda-rigsthula",
+   "row": "rth-s2",
+   "lang": "on",
+   "form": "Edda",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "edda-rigsthula",
+   "row": "rth-s2",
+   "lang": "is",
+   "form": "Edda",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "edda-rigsthula",
+   "row": "rth-s2",
+   "lang": "en",
+   "form": "Edda",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "rig",
    "row": "rth-s3",
    "lang": "on",
@@ -88108,6 +92973,30 @@
    "status": "auto"
   },
   {
+   "entity": "edda-rigsthula",
+   "row": "rth-s4",
+   "lang": "on",
+   "form": "Edda",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "edda-rigsthula",
+   "row": "rth-s4",
+   "lang": "is",
+   "form": "Edda",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "edda-rigsthula",
+   "row": "rth-s4",
+   "lang": "en",
+   "form": "Edda",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "rig",
    "row": "rth-s5",
    "lang": "on",
@@ -88128,6 +93017,30 @@
    "row": "rth-s5",
    "lang": "en",
    "form": "Rig",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "edda-rigsthula",
+   "row": "rth-s7",
+   "lang": "on",
+   "form": "Edda",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "edda-rigsthula",
+   "row": "rth-s7",
+   "lang": "is",
+   "form": "Edda",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "edda-rigsthula",
+   "row": "rth-s7",
+   "lang": "en",
+   "form": "Edda",
    "kind": "name",
    "status": "auto"
   },
@@ -88204,10 +93117,50 @@
    "status": "auto"
   },
   {
+   "entity": "afi",
+   "row": "rth-s16",
+   "lang": "on",
+   "form": "Afi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "amma",
+   "row": "rth-s16",
+   "lang": "on",
+   "form": "Amma",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "afi",
+   "row": "rth-s16",
+   "lang": "is",
+   "form": "Afi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "amma",
+   "row": "rth-s16",
+   "lang": "is",
+   "form": "Amma",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "rig",
    "row": "rth-s17",
    "lang": "on",
    "form": "Rígr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "amma",
+   "row": "rth-s17",
+   "lang": "on",
+   "form": "Amma",
    "kind": "name",
    "status": "auto"
   },
@@ -88220,10 +93173,26 @@
    "status": "auto"
   },
   {
+   "entity": "amma",
+   "row": "rth-s17",
+   "lang": "is",
+   "form": "Amma",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "rig",
    "row": "rth-s17",
    "lang": "en",
    "form": "Rig",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "amma",
+   "row": "rth-s17",
+   "lang": "en",
+   "form": "Amma",
    "kind": "name",
    "status": "auto"
   },
@@ -88252,6 +93221,30 @@
    "status": "auto"
   },
   {
+   "entity": "amma",
+   "row": "rth-s21",
+   "lang": "on",
+   "form": "Amma",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "amma",
+   "row": "rth-s21",
+   "lang": "is",
+   "form": "Amma",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "amma",
+   "row": "rth-s21",
+   "lang": "en",
+   "form": "Amma",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "rig",
    "row": "rth-s26",
    "lang": "on",
@@ -88272,6 +93265,54 @@
    "row": "rth-s26",
    "lang": "en",
    "form": "Rig",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fadir",
+   "row": "rth-s27",
+   "lang": "on",
+   "form": "Faðir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "modir",
+   "row": "rth-s27",
+   "lang": "on",
+   "form": "Móðir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fadir",
+   "row": "rth-s27",
+   "lang": "is",
+   "form": "Faðir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "modir",
+   "row": "rth-s27",
+   "lang": "is",
+   "form": "Móðir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fadir",
+   "row": "rth-s27",
+   "lang": "en",
+   "form": "Fathir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "modir",
+   "row": "rth-s27",
+   "lang": "en",
+   "form": "Mothir",
    "kind": "name",
    "status": "auto"
   },
@@ -88300,6 +93341,30 @@
    "status": "auto"
   },
   {
+   "entity": "modir",
+   "row": "rth-s31",
+   "lang": "on",
+   "form": "Móðir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "modir",
+   "row": "rth-s31",
+   "lang": "is",
+   "form": "Móðir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "modir",
+   "row": "rth-s31",
+   "lang": "en",
+   "form": "Mothir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "rig",
    "row": "rth-s33",
    "lang": "on",
@@ -88320,6 +93385,30 @@
    "row": "rth-s33",
    "lang": "en",
    "form": "Rig",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "modir",
+   "row": "rth-s34",
+   "lang": "on",
+   "form": "Móðir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "modir",
+   "row": "rth-s34",
+   "lang": "is",
+   "form": "Móðir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "modir",
+   "row": "rth-s34",
+   "lang": "en",
+   "form": "Mothir",
    "kind": "name",
    "status": "auto"
   },
@@ -88392,6 +93481,54 @@
    "row": "rth-s39",
    "lang": "en",
    "form": "Erna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "konr",
+   "row": "rth-s41",
+   "lang": "on",
+   "form": "Konr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "konr",
+   "row": "rth-s41",
+   "lang": "is",
+   "form": "Konur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "konr",
+   "row": "rth-s41",
+   "lang": "en",
+   "form": "Kon",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "konr",
+   "row": "rth-s43",
+   "lang": "on",
+   "form": "Konr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "konr",
+   "row": "rth-s43",
+   "lang": "is",
+   "form": "Konur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "konr",
+   "row": "rth-s43",
+   "lang": "en",
+   "form": "Kon",
    "kind": "name",
    "status": "auto"
   },
@@ -88432,6 +93569,54 @@
    "row": "rth-s45",
    "lang": "en",
    "form": "Rig",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "konr",
+   "row": "rth-s46",
+   "lang": "on",
+   "form": "Konr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "konr",
+   "row": "rth-s46",
+   "lang": "is",
+   "form": "Konur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "konr",
+   "row": "rth-s46",
+   "lang": "en",
+   "form": "Kon",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "konr",
+   "row": "rth-s46",
+   "lang": "en",
+   "form": "Kon",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "konr",
+   "row": "rth-s47",
+   "lang": "on",
+   "form": "Konr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "konr",
+   "row": "rth-s47",
+   "lang": "is",
+   "form": "Konur",
    "kind": "name",
    "status": "auto"
   },
@@ -89207,10 +94392,26 @@
    "status": "auto"
   },
   {
+   "entity": "frodi",
+   "row": "hdl-s19",
+   "lang": "on",
+   "form": "Fróði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "kari",
    "row": "hdl-s19",
    "lang": "on",
    "form": "Kári",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frodi",
+   "row": "hdl-s19",
+   "lang": "is",
+   "form": "Fróði",
    "kind": "name",
    "status": "auto"
   },
@@ -89227,6 +94428,14 @@
    "row": "hdl-s19",
    "lang": "en",
    "form": "Kari",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frodi",
+   "row": "hdl-s19",
+   "lang": "en",
+   "form": "Frothi",
    "kind": "name",
    "status": "auto"
   },
@@ -89311,6 +94520,14 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "hdl-s22",
+   "lang": "on",
+   "form": "Grímr",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "hdl-s22",
    "lang": "on",
@@ -89389,6 +94606,14 @@
    "row": "hdl-s22",
    "lang": "is",
    "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "hdl-s22",
+   "lang": "is",
+   "form": "Grímur",
    "kind": "name",
    "status": "auto"
   },
@@ -89661,13 +94886,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "hdl-s27",
    "lang": "on",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "gjuki",
@@ -89710,13 +94934,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "hdl-s27",
    "lang": "is",
    "form": "Högni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "gjuki",
@@ -89759,13 +94982,12 @@
    "status": "auto"
   },
   {
-   "entity": "hogni",
+   "entity": "hogni-hildar",
    "row": "hdl-s27",
    "lang": "en",
    "form": "Hogni",
    "kind": "name",
-   "status": "auto",
-   "check": true
+   "status": "auto"
   },
   {
    "entity": "gjuki",
@@ -90423,6 +95645,14 @@
    "status": "auto"
   },
   {
+   "entity": "greip",
+   "row": "vsk-s8",
+   "lang": "on",
+   "form": "Greip",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "eistla",
    "row": "vsk-s8",
    "lang": "on",
@@ -90456,6 +95686,14 @@
    "status": "auto"
   },
   {
+   "entity": "greip",
+   "row": "vsk-s8",
+   "lang": "is",
+   "form": "Greip",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "eistla",
    "row": "vsk-s8",
    "lang": "is",
@@ -90476,6 +95714,14 @@
    "row": "vsk-s8",
    "lang": "is",
    "form": "Járnsaxa",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "greip",
+   "row": "vsk-s8",
+   "lang": "en",
+   "form": "Greip",
    "kind": "name",
    "status": "auto"
   },
@@ -90736,6 +95982,14 @@
    "status": "auto"
   },
   {
+   "entity": "frodi",
+   "row": "grt-p1",
+   "lang": "on",
+   "form": "Fróði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "augustus",
    "row": "grt-p1",
    "lang": "on",
@@ -90748,6 +96002,14 @@
    "row": "grt-p1",
    "lang": "on",
    "form": "Kristr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frodi",
+   "row": "grt-p1",
+   "lang": "on",
+   "form": "Fróði",
    "kind": "name",
    "status": "auto"
   },
@@ -90796,6 +96058,14 @@
    "row": "grt-p1",
    "lang": "on",
    "form": "Fenja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "menja",
+   "row": "grt-p1",
+   "lang": "on",
+   "form": "Menja",
    "kind": "name",
    "status": "auto"
   },
@@ -91424,6 +96694,14 @@
    "status": "auto"
   },
   {
+   "entity": "menja",
+   "row": "grt-s1",
+   "lang": "on",
+   "form": "Menja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "frodi",
    "row": "grt-s1",
    "lang": "on",
@@ -91440,6 +96718,14 @@
    "status": "auto"
   },
   {
+   "entity": "menja",
+   "row": "grt-s1",
+   "lang": "is",
+   "form": "Menja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "frodi",
    "row": "grt-s1",
    "lang": "is",
@@ -91452,6 +96738,14 @@
    "row": "grt-s1",
    "lang": "en",
    "form": "Fenja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "menja",
+   "row": "grt-s1",
+   "lang": "en",
+   "form": "Menja",
    "kind": "name",
    "status": "auto"
   },
@@ -91472,6 +96766,14 @@
    "status": "auto"
   },
   {
+   "entity": "menja",
+   "row": "grt-s4",
+   "lang": "on",
+   "form": "Menja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "frodi",
    "row": "grt-s4",
    "lang": "is",
@@ -91480,10 +96782,26 @@
    "status": "auto"
   },
   {
+   "entity": "menja",
+   "row": "grt-s4",
+   "lang": "is",
+   "form": "Menja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "frodi",
    "row": "grt-s4",
    "lang": "en",
    "form": "Fróði's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "menja",
+   "row": "grt-s4",
+   "lang": "en",
+   "form": "Menja",
    "kind": "name",
    "status": "auto"
   },
@@ -91506,6 +96824,30 @@
   {
    "entity": "frodi",
    "row": "grt-s5",
+   "lang": "en",
+   "form": "Fróði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frodi",
+   "row": "grt-s8",
+   "lang": "on",
+   "form": "Fróði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frodi",
+   "row": "grt-s8",
+   "lang": "is",
+   "form": "Fróði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frodi",
+   "row": "grt-s8",
    "lang": "en",
    "form": "Fróði",
    "kind": "name",
@@ -91664,6 +97006,54 @@
    "status": "auto"
   },
   {
+   "entity": "frodi",
+   "row": "grt-s18",
+   "lang": "on",
+   "form": "Fróði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frodi",
+   "row": "grt-s18",
+   "lang": "on",
+   "form": "Fróði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frodi",
+   "row": "grt-s18",
+   "lang": "is",
+   "form": "Fróði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frodi",
+   "row": "grt-s18",
+   "lang": "is",
+   "form": "Fróði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frodi",
+   "row": "grt-s18",
+   "lang": "en",
+   "form": "Fróði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frodi",
+   "row": "grt-s18",
+   "lang": "en",
+   "form": "Fróði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "yrsa",
    "row": "grt-s22",
    "lang": "on",
@@ -91733,6 +97123,30 @@
   {
    "entity": "frodi",
    "row": "grt-s22",
+   "lang": "en",
+   "form": "Fróði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frodi",
+   "row": "grt-s24",
+   "lang": "on",
+   "form": "Fróði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frodi",
+   "row": "grt-s24",
+   "lang": "is",
+   "form": "Fróði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "frodi",
+   "row": "grt-s24",
    "lang": "en",
    "form": "Fróði",
    "kind": "name",
@@ -92171,10 +97585,26 @@
    "status": "auto"
   },
   {
+   "entity": "geri",
+   "row": "fjm-s14",
+   "lang": "on",
+   "form": "Geri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fjolsvidr",
    "row": "fjm-s14",
    "lang": "is",
    "form": "Fjölsviður",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "geri",
+   "row": "fjm-s14",
+   "lang": "is",
+   "form": "Geri",
    "kind": "name",
    "status": "auto"
   },
@@ -96553,8 +101983,24 @@
   {
    "entity": "helgi-hjorvardsson",
    "row": "hhv-s7",
+   "lang": "on",
+   "form": "Helga",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "helgi-hjorvardsson",
+   "row": "hhv-s7",
    "lang": "is",
    "form": "Helgi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "helgi-hjorvardsson",
+   "row": "hhv-s7",
+   "lang": "is",
+   "form": "Helga",
    "kind": "name",
    "status": "auto"
   },
@@ -97211,6 +102657,14 @@
    "row": "hhv-s18",
    "lang": "on",
    "form": "Atli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ran",
+   "row": "hhv-s18",
+   "lang": "on",
+   "form": "Rán",
    "kind": "name",
    "status": "auto"
   },
@@ -102936,10 +108390,26 @@
    "status": "auto"
   },
   {
+   "entity": "dagr-hognason",
+   "row": "hh2-p6",
+   "lang": "on",
+   "form": "Dagr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "granmarssynir",
    "row": "hh2-p6",
    "lang": "on",
    "form": "Granmarssynir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr-hognason",
+   "row": "hh2-p6",
+   "lang": "on",
+   "form": "Dagr",
    "kind": "name",
    "status": "auto"
   },
@@ -103008,10 +108478,26 @@
    "status": "auto"
   },
   {
+   "entity": "dagr-hognason",
+   "row": "hh2-p6",
+   "lang": "is",
+   "form": "Dagur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "granmarssynir",
    "row": "hh2-p6",
    "lang": "is",
    "form": "Granmarssynir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr-hognason",
+   "row": "hh2-p6",
+   "lang": "is",
+   "form": "Dagur",
    "kind": "name",
    "status": "auto"
   },
@@ -103080,10 +108566,26 @@
    "status": "auto"
   },
   {
+   "entity": "dagr-hognason",
+   "row": "hh2-p6",
+   "lang": "en",
+   "form": "Dagr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "granmarssynir",
    "row": "hh2-p6",
    "lang": "en",
    "form": "Granmarr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr-hognason",
+   "row": "hh2-p6",
+   "lang": "en",
+   "form": "Dagr",
    "kind": "name",
    "status": "auto"
   },
@@ -103328,6 +108830,14 @@
    "status": "auto"
   },
   {
+   "entity": "dagr-hognason",
+   "row": "hh2-p7",
+   "lang": "on",
+   "form": "Dagr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "hh2-p7",
    "lang": "on",
@@ -103340,6 +108850,22 @@
    "row": "hh2-p7",
    "lang": "on",
    "form": "Óðinn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr-hognason",
+   "row": "hh2-p7",
+   "lang": "on",
+   "form": "Dag",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr-hognason",
+   "row": "hh2-p7",
+   "lang": "on",
+   "form": "Dagr",
    "kind": "name",
    "status": "auto"
   },
@@ -103372,6 +108898,14 @@
    "row": "hh2-p7",
    "lang": "on",
    "form": "Helgi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr-hognason",
+   "row": "hh2-p7",
+   "lang": "on",
+   "form": "Dagr",
    "kind": "name",
    "status": "auto"
   },
@@ -103408,6 +108942,14 @@
    "status": "auto"
   },
   {
+   "entity": "dagr-hognason",
+   "row": "hh2-p7",
+   "lang": "is",
+   "form": "Dagur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "hh2-p7",
    "lang": "is",
@@ -103420,6 +108962,22 @@
    "row": "hh2-p7",
    "lang": "is",
    "form": "Óðinn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr-hognason",
+   "row": "hh2-p7",
+   "lang": "is",
+   "form": "Dag",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr-hognason",
+   "row": "hh2-p7",
+   "lang": "is",
+   "form": "Dagur",
    "kind": "name",
    "status": "auto"
   },
@@ -103456,6 +109014,14 @@
    "status": "auto"
   },
   {
+   "entity": "dagr-hognason",
+   "row": "hh2-p7",
+   "lang": "is",
+   "form": "Dagur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sigrun",
    "row": "hh2-p7",
    "lang": "is",
@@ -103488,6 +109054,14 @@
    "status": "auto"
   },
   {
+   "entity": "dagr-hognason",
+   "row": "hh2-p7",
+   "lang": "en",
+   "form": "Dag",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "hh2-p7",
    "lang": "en",
@@ -103500,6 +109074,22 @@
    "row": "hh2-p7",
    "lang": "en",
    "form": "Othin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr-hognason",
+   "row": "hh2-p7",
+   "lang": "en",
+   "form": "Dag",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr-hognason",
+   "row": "hh2-p7",
+   "lang": "en",
+   "form": "Dag",
    "kind": "name",
    "status": "auto"
   },
@@ -103532,6 +109122,14 @@
    "row": "hh2-p7",
    "lang": "en",
    "form": "Helgi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dagr-hognason",
+   "row": "hh2-p7",
+   "lang": "en",
+   "form": "Dag",
    "kind": "name",
    "status": "auto"
   },
@@ -107166,6 +112764,14 @@
    "status": "auto"
   },
   {
+   "entity": "heimir",
+   "row": "grp-s27",
+   "lang": "on",
+   "form": "Heimis",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "brynhild",
    "row": "grp-s27",
    "lang": "on",
@@ -107178,6 +112784,14 @@
    "row": "grp-s27",
    "lang": "on",
    "form": "Buðla",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "heimir",
+   "row": "grp-s27",
+   "lang": "on",
+   "form": "Heimir",
    "kind": "name",
    "status": "auto"
   },
@@ -107190,6 +112804,14 @@
    "status": "auto"
   },
   {
+   "entity": "heimir",
+   "row": "grp-s27",
+   "lang": "is",
+   "form": "Heimis",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "brynhild",
    "row": "grp-s27",
    "lang": "is",
@@ -107206,10 +112828,26 @@
    "status": "auto"
   },
   {
+   "entity": "heimir",
+   "row": "grp-s27",
+   "lang": "is",
+   "form": "Heimir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gripir",
    "row": "grp-s27",
    "lang": "en",
    "form": "Gripir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "heimir",
+   "row": "grp-s27",
+   "lang": "en",
+   "form": "Heimir's",
    "kind": "name",
    "status": "auto"
   },
@@ -107230,10 +112868,26 @@
    "status": "auto"
   },
   {
+   "entity": "heimir",
+   "row": "grp-s27",
+   "lang": "en",
+   "form": "Heimir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sigurdr",
    "row": "grp-s28",
    "lang": "on",
    "form": "Sigurðr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "heimir",
+   "row": "grp-s28",
+   "lang": "on",
+   "form": "Heimis",
    "kind": "name",
    "status": "auto"
   },
@@ -107254,6 +112908,14 @@
    "status": "auto"
   },
   {
+   "entity": "heimir",
+   "row": "grp-s28",
+   "lang": "is",
+   "form": "Heimis",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gripir",
    "row": "grp-s28",
    "lang": "is",
@@ -107266,6 +112928,14 @@
    "row": "grp-s28",
    "lang": "en",
    "form": "Sigurth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "heimir",
+   "row": "grp-s28",
+   "lang": "en",
+   "form": "Heimir",
    "kind": "name",
    "status": "auto"
   },
@@ -107286,6 +112956,14 @@
    "status": "auto"
   },
   {
+   "entity": "heimir",
+   "row": "grp-s29",
+   "lang": "on",
+   "form": "Heimis",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gripir",
    "row": "grp-s29",
    "lang": "is",
@@ -107294,10 +112972,26 @@
    "status": "auto"
   },
   {
+   "entity": "heimir",
+   "row": "grp-s29",
+   "lang": "is",
+   "form": "Heimis",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gripir",
    "row": "grp-s29",
    "lang": "en",
    "form": "Gripir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "heimir",
+   "row": "grp-s29",
+   "lang": "en",
+   "form": "Heimir",
    "kind": "name",
    "status": "auto"
   },
@@ -107526,6 +113220,14 @@
    "status": "auto"
   },
   {
+   "entity": "gunnar",
+   "row": "grp-s34",
+   "lang": "on",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gudrun",
    "row": "grp-s34",
    "lang": "on",
@@ -107542,6 +113244,14 @@
    "status": "auto"
   },
   {
+   "entity": "gunnar",
+   "row": "grp-s34",
+   "lang": "is",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gudrun",
    "row": "grp-s34",
    "lang": "is",
@@ -107554,6 +113264,14 @@
    "row": "grp-s34",
    "lang": "en",
    "form": "Sigurth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "grp-s34",
+   "lang": "en",
+   "form": "Gunnar",
    "kind": "name",
    "status": "auto"
   },
@@ -107846,6 +113564,14 @@
    "status": "auto"
   },
   {
+   "entity": "heimir",
+   "row": "grp-s39",
+   "lang": "on",
+   "form": "Heimis",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gripir",
    "row": "grp-s39",
    "lang": "is",
@@ -107862,6 +113588,14 @@
    "status": "auto"
   },
   {
+   "entity": "heimir",
+   "row": "grp-s39",
+   "lang": "is",
+   "form": "Heimis",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gripir",
    "row": "grp-s39",
    "lang": "en",
@@ -107874,6 +113608,14 @@
    "row": "grp-s39",
    "lang": "en",
    "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "heimir",
+   "row": "grp-s39",
+   "lang": "en",
+   "form": "Heimir",
    "kind": "name",
    "status": "auto"
   },
@@ -109622,6 +115364,14 @@
    "status": "auto"
   },
   {
+   "entity": "otr",
+   "row": "rm-p4",
+   "lang": "on",
+   "form": "Otr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fafnir",
    "row": "rm-p4",
    "lang": "on",
@@ -109714,6 +115464,14 @@
    "row": "rm-p4",
    "lang": "en",
    "form": "Hreithmar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "otr",
+   "row": "rm-p4",
+   "lang": "en",
+   "form": "Otr",
    "kind": "name",
    "status": "auto"
   },
@@ -110065,6 +115823,14 @@
    "status": "auto"
   },
   {
+   "entity": "regin",
+   "row": "rm-p7",
+   "lang": "on",
+   "form": "Regin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sigurdr",
    "row": "rm-p7",
    "lang": "on",
@@ -110101,6 +115867,14 @@
    "row": "rm-p7",
    "lang": "on",
    "form": "Sigurði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gramr",
+   "row": "rm-p7",
+   "lang": "on",
+   "form": "Gramr",
    "kind": "name",
    "status": "auto"
   },
@@ -110205,6 +115979,14 @@
    "row": "rm-p7",
    "lang": "is",
    "form": "Sigurði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gramr",
+   "row": "rm-p7",
+   "lang": "is",
+   "form": "Gramur",
    "kind": "name",
    "status": "auto"
   },
@@ -110317,6 +116099,14 @@
    "row": "rm-p7",
    "lang": "en",
    "form": "Sigurðr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gramr",
+   "row": "rm-p7",
+   "lang": "en",
+   "form": "Gramr",
    "kind": "name",
    "status": "auto"
   },
@@ -110617,6 +116407,14 @@
    "status": "auto"
   },
   {
+   "entity": "lyngvi-hundingsson",
+   "row": "rm-p10",
+   "lang": "on",
+   "form": "Lyngvi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "regin",
    "row": "rm-p10",
    "lang": "on",
@@ -110633,6 +116431,14 @@
    "status": "auto"
   },
   {
+   "entity": "lyngvi-hundingsson",
+   "row": "rm-p10",
+   "lang": "is",
+   "form": "Lyngvi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "regin",
    "row": "rm-p10",
    "lang": "is",
@@ -110645,6 +116451,22 @@
    "row": "rm-p10",
    "lang": "en",
    "form": "Sigurth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "lyngvi-hundingsson",
+   "row": "rm-p10",
+   "lang": "en",
+   "form": "Lyngvi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "lyngvi-hundingsson",
+   "row": "rm-p10",
+   "lang": "en",
+   "form": "Lyngvi",
    "kind": "name",
    "status": "auto"
   },
@@ -112073,6 +117895,14 @@
    "status": "auto"
   },
   {
+   "entity": "gramr",
+   "row": "fm-s25",
+   "lang": "on",
+   "form": "Gram",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "regin",
    "row": "fm-s25",
    "lang": "is",
@@ -112089,6 +117919,14 @@
    "status": "auto"
   },
   {
+   "entity": "gramr",
+   "row": "fm-s25",
+   "lang": "is",
+   "form": "Gram",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "regin",
    "row": "fm-s25",
    "lang": "en",
@@ -112101,6 +117939,14 @@
    "row": "fm-s25",
    "lang": "en",
    "form": "Sigurth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gramr",
+   "row": "fm-s25",
+   "lang": "en",
+   "form": "Gram",
    "kind": "name",
    "status": "auto"
   },
@@ -112597,6 +118443,14 @@
    "row": "fm-p6",
    "lang": "on",
    "form": "Sigurðr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "regin",
+   "row": "fm-p6",
+   "lang": "on",
+   "form": "Regin",
    "kind": "name",
    "status": "auto"
   },
@@ -113017,6 +118871,14 @@
    "status": "auto"
   },
   {
+   "entity": "gramr",
+   "row": "sd-p1",
+   "lang": "on",
+   "form": "Gram",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sigurdr",
    "row": "sd-p1",
    "lang": "on",
@@ -113053,6 +118915,14 @@
    "row": "sd-p1",
    "lang": "is",
    "form": "Sigurður",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gramr",
+   "row": "sd-p1",
+   "lang": "is",
+   "form": "Gram",
    "kind": "name",
    "status": "auto"
   },
@@ -113416,6 +119286,30 @@
    "row": "sd-s6",
    "lang": "en",
    "form": "Tyr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "sd-s13",
+   "lang": "on",
+   "form": "Hroftr",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "sd-s13",
+   "lang": "is",
+   "form": "Hroftur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "sd-s13",
+   "lang": "en",
+   "form": "Hropt",
    "kind": "name",
    "status": "auto"
   },
@@ -114312,6 +120206,14 @@
    "status": "auto"
   },
   {
+   "entity": "gunnar",
+   "row": "br-s15",
+   "lang": "on",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sigurdr",
    "row": "br-s15",
    "lang": "on",
@@ -114336,6 +120238,14 @@
    "status": "auto"
   },
   {
+   "entity": "gunnar",
+   "row": "br-s15",
+   "lang": "is",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sigurdr",
    "row": "br-s15",
    "lang": "is",
@@ -114356,6 +120266,14 @@
    "row": "br-s15",
    "lang": "en",
    "form": "Gjuki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "br-s15",
+   "lang": "en",
+   "form": "Gunnar",
    "kind": "name",
    "status": "auto"
   },
@@ -116572,6 +122490,30 @@
    "row": "sg-s27",
    "lang": "en",
    "form": "Brynhild",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "sg-s28",
+   "lang": "on",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "sg-s28",
+   "lang": "is",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "sg-s28",
+   "lang": "en",
+   "form": "Gunnar",
    "kind": "name",
    "status": "auto"
   },
@@ -120022,6 +125964,14 @@
    "status": "auto"
   },
   {
+   "entity": "gunnar",
+   "row": "gdr2-s31",
+   "lang": "on",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hogni",
    "row": "gdr2-s31",
    "lang": "on",
@@ -120038,6 +125988,14 @@
    "status": "auto"
   },
   {
+   "entity": "gunnar",
+   "row": "gdr2-s31",
+   "lang": "is",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hogni",
    "row": "gdr2-s31",
    "lang": "is",
@@ -120050,6 +126008,14 @@
    "row": "gdr2-s31",
    "lang": "en",
    "form": "Guthrun",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "gdr2-s31",
+   "lang": "en",
+   "form": "Gunnar",
    "kind": "name",
    "status": "auto"
   },
@@ -122390,6 +128356,14 @@
    "status": "auto"
   },
   {
+   "entity": "myrkvidr",
+   "row": "akv-s5",
+   "lang": "on",
+   "form": "Myrkvið",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gnitaheidi",
    "row": "akv-s5",
    "lang": "is",
@@ -122402,6 +128376,14 @@
    "row": "akv-s5",
    "lang": "is",
    "form": "Danpar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "myrkvidr",
+   "row": "akv-s5",
+   "lang": "is",
+   "form": "Myrkvið",
    "kind": "name",
    "status": "auto"
   },
@@ -122538,6 +128520,14 @@
    "row": "akv-s8",
    "lang": "en",
    "form": "Hogni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "akv-s9",
+   "lang": "on",
+   "form": "Gunnar",
    "kind": "name",
    "status": "auto"
   },
@@ -122910,6 +128900,30 @@
    "status": "auto"
   },
   {
+   "entity": "gunnar",
+   "row": "akv-s18",
+   "lang": "on",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "akv-s18",
+   "lang": "is",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "akv-s18",
+   "lang": "en",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hogni",
    "row": "akv-s19",
    "lang": "on",
@@ -123023,6 +129037,30 @@
   },
   {
    "entity": "gunnar",
+   "row": "akv-s22",
+   "lang": "on",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "akv-s22",
+   "lang": "is",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "akv-s22",
+   "lang": "en",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
    "row": "akv-s23",
    "lang": "on",
    "form": "Gunnarr",
@@ -123078,6 +129116,14 @@
    "status": "auto"
   },
   {
+   "entity": "gunnar",
+   "row": "akv-s24",
+   "lang": "on",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hogni",
    "row": "akv-s24",
    "lang": "is",
@@ -123086,10 +129132,26 @@
    "status": "auto"
   },
   {
+   "entity": "gunnar",
+   "row": "akv-s24",
+   "lang": "is",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hogni",
    "row": "akv-s24",
    "lang": "en",
    "form": "Hogni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "akv-s24",
+   "lang": "en",
+   "form": "Gunnar",
    "kind": "name",
    "status": "auto"
   },
@@ -123318,6 +129380,15 @@
    "status": "auto"
   },
   {
+   "entity": "glaumr",
+   "row": "akv-s29",
+   "lang": "on",
+   "form": "Glaum",
+   "kind": "name",
+   "status": "auto",
+   "derived": true
+  },
+  {
    "entity": "gudrun",
    "row": "akv-s29",
    "lang": "on",
@@ -123334,10 +129405,26 @@
    "status": "auto"
   },
   {
+   "entity": "glaumr",
+   "row": "akv-s29",
+   "lang": "is",
+   "form": "Glaum",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gudrun",
    "row": "akv-s29",
    "lang": "is",
    "form": "Guðrún",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "glaumr",
+   "row": "akv-s29",
+   "lang": "en",
+   "form": "Glaum",
    "kind": "name",
    "status": "auto"
   },
@@ -123370,6 +129457,14 @@
    "row": "akv-s30",
    "lang": "on",
    "form": "Atli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "akv-s30",
+   "lang": "on",
+   "form": "Gunnar",
    "kind": "name",
    "status": "auto"
   },
@@ -123406,6 +129501,14 @@
    "status": "auto"
   },
   {
+   "entity": "gunnar",
+   "row": "akv-s30",
+   "lang": "is",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "akv-s30",
    "lang": "is",
@@ -123434,6 +129537,14 @@
    "row": "akv-s30",
    "lang": "en",
    "form": "Atli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "akv-s30",
+   "lang": "en",
+   "form": "Gunnar",
    "kind": "name",
    "status": "auto"
   },
@@ -128128,6 +134239,54 @@
    "status": "auto"
   },
   {
+   "entity": "goths",
+   "row": "hm-s22",
+   "lang": "on",
+   "form": "Gotna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "goths",
+   "row": "hm-s22",
+   "lang": "is",
+   "form": "Gotna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "goths",
+   "row": "hm-s22",
+   "lang": "en",
+   "form": "Goths",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "goths",
+   "row": "hm-s23",
+   "lang": "on",
+   "form": "Gotna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "goths",
+   "row": "hm-s23",
+   "lang": "is",
+   "form": "Gotna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "goths",
+   "row": "hm-s23",
+   "lang": "en",
+   "form": "Goths",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hamdir",
    "row": "hm-s24",
    "lang": "on",
@@ -128356,6 +134515,30 @@
    "row": "hm-s29",
    "lang": "is",
    "form": "Sörli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "goths",
+   "row": "hm-s30",
+   "lang": "on",
+   "form": "Gotna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "goths",
+   "row": "hm-s30",
+   "lang": "is",
+   "form": "Gotna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "goths",
+   "row": "hm-s30",
+   "lang": "en",
+   "form": "Goths",
    "kind": "name",
    "status": "auto"
   },
@@ -129620,6 +135803,14 @@
    "status": "auto"
   },
   {
+   "entity": "gautar",
+   "row": "hlk-s1",
+   "lang": "on",
+   "form": "Gautum",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "angantyr",
    "row": "hlk-s1",
    "lang": "on",
@@ -129652,6 +135843,14 @@
    "status": "auto"
   },
   {
+   "entity": "gautar",
+   "row": "hlk-s1",
+   "lang": "is",
+   "form": "Gautum",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "angantyr",
    "row": "hlk-s1",
    "lang": "is",
@@ -129680,6 +135879,14 @@
    "row": "hlk-s1",
    "lang": "en",
    "form": "Huns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gautar",
+   "row": "hlk-s1",
+   "lang": "en",
+   "form": "Gautar",
    "kind": "name",
    "status": "auto"
   },
@@ -130204,6 +136411,14 @@
    "status": "auto"
   },
   {
+   "entity": "myrkvidr",
+   "row": "hlk-s10",
+   "lang": "on",
+   "form": "Myrkvið",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "goths",
    "row": "hlk-s10",
    "lang": "on",
@@ -130228,6 +136443,14 @@
    "status": "auto"
   },
   {
+   "entity": "myrkvidr",
+   "row": "hlk-s10",
+   "lang": "is",
+   "form": "Myrkvið",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "goths",
    "row": "hlk-s10",
    "lang": "is",
@@ -130248,6 +136471,14 @@
    "row": "hlk-s10",
    "lang": "is",
    "form": "Heiðrekur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "myrkvidr",
+   "row": "hlk-s10",
+   "lang": "en",
+   "form": "Myrkviðr",
    "kind": "name",
    "status": "auto"
   },
@@ -136258,6 +142489,30 @@
    "status": "auto"
   },
   {
+   "entity": "gylfi",
+   "row": "ebr-p1",
+   "lang": "on",
+   "form": "Gylfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "ebr-p1",
+   "lang": "is",
+   "form": "Gylfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gylfi",
+   "row": "ebr-p1",
+   "lang": "en",
+   "form": "Gylfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "njordr",
    "row": "ebr-p2",
    "lang": "on",
@@ -136498,6 +142753,14 @@
    "status": "auto"
   },
   {
+   "entity": "vanir",
+   "row": "ebr-p4",
+   "lang": "on",
+   "form": "Vanir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gna",
    "row": "ebr-p4",
    "lang": "is",
@@ -136542,6 +142805,14 @@
    "row": "ebr-p4",
    "lang": "en",
    "form": "Hófvarpnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vanir",
+   "row": "ebr-p4",
+   "lang": "en",
+   "form": "Vanir",
    "kind": "name",
    "status": "auto"
   },
@@ -136964,6 +143235,14 @@
    "status": "auto"
   },
   {
+   "entity": "greip",
+   "row": "ebr-p8",
+   "lang": "on",
+   "form": "Greip",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "ebr-p8",
    "lang": "on",
@@ -137018,6 +143297,14 @@
    "row": "ebr-p8",
    "lang": "is",
    "form": "Gjálp",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "greip",
+   "row": "ebr-p8",
+   "lang": "is",
+   "form": "Greip",
    "kind": "name",
    "status": "auto"
   },
@@ -137080,6 +143367,14 @@
    "status": "auto"
   },
   {
+   "entity": "greip",
+   "row": "ebr-p8",
+   "lang": "en",
+   "form": "Greip",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "ebr-p8",
    "lang": "en",
@@ -137092,6 +143387,14 @@
    "row": "ebr-v7",
    "lang": "on",
    "form": "Gjalp",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "greip",
+   "row": "ebr-v7",
+   "lang": "on",
+   "form": "Greip",
    "kind": "name",
    "status": "auto"
   },
@@ -137109,6 +143412,14 @@
    "row": "ebr-v7",
    "lang": "is",
    "form": "Gjalp",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "greip",
+   "row": "ebr-v7",
+   "lang": "is",
+   "form": "Greip",
    "kind": "name",
    "status": "auto"
   },
@@ -137126,6 +143437,14 @@
    "row": "ebr-v7",
    "lang": "en",
    "form": "Gjálp",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "greip",
+   "row": "ebr-v7",
+   "lang": "en",
+   "form": "Greip",
    "kind": "name",
    "status": "auto"
   },
@@ -137519,6 +143838,14 @@
    "status": "auto"
   },
   {
+   "entity": "glaumr",
+   "row": "ebr-v8",
+   "lang": "on",
+   "form": "Glaumi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "eadgils",
    "row": "ebr-v8",
    "lang": "on",
@@ -137531,6 +143858,14 @@
    "row": "ebr-v8",
    "lang": "on",
    "form": "Högni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "holkvir",
+   "row": "ebr-v8",
+   "lang": "on",
+   "form": "Hölkvi",
    "kind": "name",
    "status": "auto"
   },
@@ -137954,6 +144289,14 @@
    "status": "auto"
   },
   {
+   "entity": "glaumr",
+   "row": "ebr-v8",
+   "lang": "is",
+   "form": "Glaumi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "eadgils",
    "row": "ebr-v8",
    "lang": "is",
@@ -137966,6 +144309,14 @@
    "row": "ebr-v8",
    "lang": "is",
    "form": "Högni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "holkvir",
+   "row": "ebr-v8",
+   "lang": "is",
+   "form": "Hölkvi",
    "kind": "name",
    "status": "auto"
   },
@@ -138389,6 +144740,14 @@
    "status": "auto"
   },
   {
+   "entity": "glaumr",
+   "row": "ebr-v8",
+   "lang": "en",
+   "form": "Glaumr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "eadgils",
    "row": "ebr-v8",
    "lang": "en",
@@ -138401,6 +144760,14 @@
    "row": "ebr-v8",
    "lang": "en",
    "form": "Högni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "holkvir",
+   "row": "ebr-v8",
+   "lang": "en",
+   "form": "Hölkvir",
    "kind": "name",
    "status": "auto"
   },
@@ -138879,6 +145246,30 @@
    "status": "auto"
   },
   {
+   "entity": "alsvidr",
+   "row": "fsl-s4",
+   "lang": "on",
+   "form": "Alsviðr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "alsvidr",
+   "row": "fsl-s4",
+   "lang": "is",
+   "form": "Alsvinnur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "alsvidr",
+   "row": "fsl-s4",
+   "lang": "en",
+   "form": "Alsviðr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "mimir",
    "row": "fsl-s5",
    "lang": "on",
@@ -138975,6 +145366,14 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "fsl-s9",
+   "lang": "on",
+   "form": "Viðrir",
+   "kind": "heiti",
+   "status": "auto"
+  },
+  {
    "entity": "gjallarhorn",
    "row": "fsl-s9",
    "lang": "on",
@@ -139000,6 +145399,14 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "fsl-s9",
+   "lang": "is",
+   "form": "Viðrir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gjallarhorn",
    "row": "fsl-s9",
    "lang": "is",
@@ -139021,6 +145428,22 @@
    "row": "fsl-s9",
    "lang": "is",
    "form": "Loftur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "fsl-s9",
+   "lang": "en",
+   "form": "Viðrir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "fsl-s9",
+   "lang": "en",
+   "form": "Óðinn",
    "kind": "name",
    "status": "auto"
   },
@@ -139250,11 +145673,11 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "fsl-s16",
    "lang": "on",
    "form": "Grímnis",
-   "kind": "name",
+   "kind": "heiti",
    "status": "auto"
   },
   {
@@ -139283,7 +145706,7 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "fsl-s16",
    "lang": "is",
    "form": "Grímnis",
@@ -139307,7 +145730,7 @@
    "status": "auto"
   },
   {
-   "entity": "grimnir",
+   "entity": "odin",
    "row": "fsl-s16",
    "lang": "en",
    "form": "Grímnir's",

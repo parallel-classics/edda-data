@@ -371,7 +371,7 @@ def check_images(rows, chapters):
 
 ENTITY_ID = re.compile(r"^[a-z0-9][a-z0-9-]*$")
 ENTITY_TAGS = ("god", "goddess", "giant", "dwarf", "elf", "valkyrie", "norn", "hero", "king", "poet", "animal", "horse",
-               "monster", "object", "place_myth", "place_real", "river", "hall", "people", "poem", "event", "character")
+               "monster", "object", "place_myth", "place_real", "river", "hall", "people", "poem", "event", "person", "other")
 SEED_TYPES = ("god", "goddess", "giant", "dwarf", "elf", "valkyrie", "human", "character", "skald", "animal", "monster",
               "object", "place-myth", "place-legend", "place-real", "group", "work", "event", "other")
 OK_LICENCE = re.compile(r"^(public domain|pd\b|cc0|cc by(-sa)?(\s|$))", re.I)
@@ -519,7 +519,7 @@ def check_entities(rows):
             for sc, v in rule.items():
                 vals = list(v.values()) if isinstance(v, dict) else [v]
                 for x in vals:
-                    if x not in ("ok", "check") and x not in ids:
+                    if x not in ("ok", "check", "skip") and x not in ids:
                         err(f"entities/rules.json resolve.entities {eid} [{sc}]: unknown target {x!r}")
         for form, rule in rules.get("resolve", {}).get("forms", {}).items():
             for sc, v in rule.items():
