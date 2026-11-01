@@ -507,6 +507,74 @@
    "notes": [
     "asked for by the curator 2026-11-01; no clean Wikidata item"
    ]
+  },
+  {
+   "id": "hel",
+   "tags": [
+    "place_myth",
+    "goddess"
+   ],
+   "wikidata": "Q131287",
+   "names": {
+    "on": "Hel",
+    "en": "Hel",
+    "is": "Hel"
+   },
+   "desc": {
+    "en": "the realm of the dead under the third root of the ash, and its ruler, Loki's daughter"
+   },
+   "forms": [
+    "Hel",
+    "Heljar",
+    "Helju"
+   ],
+   "notes": [
+    "added for the map of the worlds (task 20b)"
+   ]
+  },
+  {
+   "id": "andlangr",
+   "tags": [
+    "place_myth"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Andlangr",
+    "en": "Andlang",
+    "is": "Andlangur"
+   },
+   "desc": {
+    "en": "the second heaven, south of and above this one (Gylfaginning 17)"
+   },
+   "forms": [
+    "Andlangr",
+    "Andlang"
+   ],
+   "notes": [
+    "added for the map of the worlds (task 20b)"
+   ]
+  },
+  {
+   "id": "vidblainn",
+   "tags": [
+    "place_myth"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Víðbláinn",
+    "en": "Vidblain",
+    "is": "Víðbláinn"
+   },
+   "desc": {
+    "en": "the third heaven, above Andlangr, where Gimlé stands (Gylfaginning 17)"
+   },
+   "forms": [
+    "Víðbláinn",
+    "Víðbláin"
+   ],
+   "notes": [
+    "added for the map of the worlds (task 20b)"
+   ]
   }
  ],
  "resolve": {

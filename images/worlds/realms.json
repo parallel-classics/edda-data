@@ -1,0 +1,721 @@
+{
+ "_note": "The map of the worlds (task 20b, edda-site/docs/specs/WORLD_MAP.md): one entry per realm or feature. id = the entity in entities/entities.json (the label links to its Names entry); anchor = a key of anchors-v2.json or [x, y] in picture pixels, null for entries that are listed under the map only; cites = the rows that place it (shown on hover/tap and linked), with an optional note on variants; desc = our short description, CC BY 4.0 (English by the editor, Icelandic a draft). label overrides the entity's display name. Placements follow the passages cited; by hand, Claude Code 2026-11-01, for the curator to review. label = the nominative where the most frequent attested form is oblique. offset = [dx, dy] moves the label text away from its dot (picture pixels).",
+ "status": {
+  "en": "editor",
+  "is": "draft"
+ },
+ "note": {
+  "en": "Völuspá 2 speaks of nine worlds but no Eddic text lists them; the common \"nine worlds\" list is a modern reconstruction. Positions here follow the passages cited. Not drawn: Ginnungagap, the void between Niflheimr and Múspell before the creation (Gylfaginning 5); the rivers Élivágar (Gylfaginning 5, Vafþrúðnismál 31); Gjallarbrú, the bridge on the road to Hel (Gylfaginning 49).",
+  "is": "Völuspá 2 nefnir níu heima en enginn eddutexti telur þá upp; algengi listinn yfir \"heimana níu\" er nútíma endurgerð. Staðsetningar hér fylgja tilvitnuðu köflunum. Ekki teiknað: Ginnungagap, tómið milli Niflheims og Múspells fyrir sköpunina (Gylfaginning 5); árnar Élivágar (Gylfaginning 5, Vafþrúðnismál 31); Gjallarbrú, brúin á leiðinni til Heljar (Gylfaginning 49)."
+ },
+ "groups": [
+  {
+   "id": "tree",
+   "title": {
+    "en": "The tree",
+    "is": "Tréð"
+   }
+  },
+  {
+   "id": "above",
+   "title": {
+    "en": "Above",
+    "is": "Uppi"
+   }
+  },
+  {
+   "id": "middle",
+   "title": {
+    "en": "The middle",
+    "is": "Miðjan"
+   }
+  },
+  {
+   "id": "below",
+   "title": {
+    "en": "Below",
+    "is": "Niðri"
+   }
+  },
+  {
+   "id": "halls",
+   "title": {
+    "en": "Halls of the gods (Grímnismál 4–17)",
+    "is": "Bústaðir goðanna (Grímnismál 4–17)"
+   }
+  }
+ ],
+ "realms": [
+  {
+   "id": "yggdrasil",
+   "anchor": "yggdrasill",
+   "desc": {
+    "en": "The ash at the centre of the world, where the gods hold their court every day; its three roots reach the Æsir, the frost giants and Niflheimr.",
+    "is": "Askurinn í miðjum heimi þar sem goðin halda dóma sína hvern dag; ræturnar þrjár ná til ása, hrímþursa og Niflheims."
+   },
+   "cites": [
+    {
+     "row": "g-c15-2"
+    },
+    {
+     "row": "g-c15-4",
+     "note": {
+      "en": "the three roots: to the Æsir, to the frost giants, over Niflheimr",
+      "is": "ræturnar þrjár: til ása, til hrímþursa, yfir Niflheimi"
+     }
+    },
+    {
+     "row": "grm-s31",
+     "note": {
+      "en": "a different triple: Hel, the frost giants, men",
+      "is": "önnur þrenning: Hel, hrímþursar, menn"
+     }
+    },
+    {
+     "row": "vsp-s19"
+    }
+   ],
+   "group": "tree",
+   "label": "Yggdrasill"
+  },
+  {
+   "id": "vedrfolnir",
+   "anchor": "eagle",
+   "desc": {
+    "en": "The eagle in the top of the ash, wise beyond measure, with the hawk Veðrfölnir between its eyes.",
+    "is": "Örninn efst í askinum, margs vitandi, með haukinn Veðrfölni milli augna sér."
+   },
+   "cites": [
+    {
+     "row": "g-c16-2"
+    },
+    {
+     "row": "grm-s32"
+    }
+   ],
+   "label": "Veðrfölnir",
+   "group": "tree"
+  },
+  {
+   "id": "ratatoskr",
+   "anchor": "ratatoskr",
+   "desc": {
+    "en": "The squirrel that runs up and down the ash carrying spiteful words between the eagle and Níðhöggr.",
+    "is": "Íkorninn sem hleypur upp og niður askinn með öfundarorð milli arnarins og Níðhöggs."
+   },
+   "cites": [
+    {
+     "row": "g-c16-2"
+    },
+    {
+     "row": "grm-s32"
+    }
+   ],
+   "group": "tree"
+  },
+  {
+   "id": "dainn",
+   "anchor": "stags",
+   "desc": {
+    "en": "Four stags run in the branches and bite the leaves: Dáinn, Dvalinn, Duneyrr and Duraþrór.",
+    "is": "Fjórir hirtir renna í greinunum og bíta laufið: Dáinn, Dvalinn, Duneyrr og Duraþrór."
+   },
+   "cites": [
+    {
+     "row": "g-c16-2"
+    },
+    {
+     "row": "grm-s33"
+    }
+   ],
+   "label": "Dáinn",
+   "group": "tree"
+  },
+  {
+   "id": "dvalinn",
+   "anchor": "stag-2",
+   "desc": {
+    "en": "The second of the four stags in the ash.",
+    "is": "Annar hjörturinn af fjórum í askinum."
+   },
+   "cites": [
+    {
+     "row": "g-c16-2"
+    },
+    {
+     "row": "grm-s33"
+    }
+   ],
+   "label": "Dvalinn",
+   "group": "tree"
+  },
+  {
+   "id": "duneyrr",
+   "anchor": "stag-3",
+   "desc": {
+    "en": "The third of the four stags; the fourth, Duraþrór, is named with him.",
+    "is": "Þriðji hjörturinn af fjórum; sá fjórði, Duraþrór, er nefndur með honum."
+   },
+   "cites": [
+    {
+     "row": "g-c16-2"
+    },
+    {
+     "row": "grm-s33"
+    }
+   ],
+   "label": "Duneyrr",
+   "group": "tree",
+   "offset": [
+    90,
+    110
+   ]
+  },
+  {
+   "id": "gimle",
+   "anchor": "gimle",
+   "desc": {
+    "en": "The hall at the south end of heaven, fairer than the sun, which stands when heaven and earth have passed away.",
+    "is": "Salurinn á suðurenda himins, fegri en sólin, sem stendur þegar himinn og jörð eru liðin."
+   },
+   "cites": [
+    {
+     "row": "g-c17-2"
+    },
+    {
+     "row": "g-c52-2"
+    }
+   ],
+   "group": "above"
+  },
+  {
+   "id": "andlangr",
+   "anchor": [
+    1760,
+    219
+   ],
+   "desc": {
+    "en": "A second heaven south of and above this one, Andlangr, and a third above it, Víðbláinn; Gimlé stands there.",
+    "is": "Annar himinn suður og upp frá þessum, Andlangur, og sá þriðji þar fyrir ofan, Víðbláinn; þar stendur Gimlé."
+   },
+   "cites": [
+    {
+     "row": "g-c17-5"
+    }
+   ],
+   "label": "Andlangr · Víðbláinn",
+   "group": "above"
+  },
+  {
+   "id": "alfheimr",
+   "anchor": "alfheimr",
+   "desc": {
+    "en": "The home of the light elves, given to Freyr as a tooth-gift.",
+    "is": "Heimkynni ljósálfa, gefið Frey í tannfé."
+   },
+   "cites": [
+    {
+     "row": "g-c17-2"
+    },
+    {
+     "row": "grm-s5"
+    }
+   ],
+   "group": "above"
+  },
+  {
+   "id": "asgard",
+   "anchor": "asgardr",
+   "desc": {
+    "en": "The stronghold of the Æsir in the middle of the world, with Glaðsheimr, Vingólf and the other halls.",
+    "is": "Borg ásanna í miðjum heimi, með Glaðsheimi, Vingólfi og öðrum sölum."
+   },
+   "cites": [
+    {
+     "row": "g-c14-1"
+    },
+    {
+     "row": "g-c14-2"
+    },
+    {
+     "row": "g-c9-2"
+    }
+   ],
+   "group": "above",
+   "label": "Ásgarðr"
+  },
+  {
+   "id": "valhalla",
+   "anchor": "valholl",
+   "desc": {
+    "en": "Óðinn's hall in Glaðsheimr, roofed with shields, where the chosen slain feast until Ragnarök.",
+    "is": "Höll Óðins í Glaðsheimi, þakin skjöldum, þar sem valdir vegnir menn sitja að veislu fram að ragnarökum."
+   },
+   "cites": [
+    {
+     "row": "grm-s8"
+    },
+    {
+     "row": "g-c38-1"
+    },
+    {
+     "row": "g-c2-1"
+    }
+   ],
+   "group": "above"
+  },
+  {
+   "id": "vanaheimr",
+   "anchor": "vanaheimr",
+   "desc": {
+    "en": "The home of the Vanir, from which Njörðr came to the Æsir as a hostage.",
+    "is": "Heimkynni vana, þaðan sem Njörður kom til ása sem gísl."
+   },
+   "cites": [
+    {
+     "row": "vm-s39"
+    },
+    {
+     "row": "g-c23-1"
+    }
+   ],
+   "group": "above",
+   "label": "Vanaheimr"
+  },
+  {
+   "id": "bifrost",
+   "anchor": "bifrost",
+   "desc": {
+    "en": "The bridge from earth to heaven, which men call the rainbow; its red band is burning fire.",
+    "is": "Brúin frá jörðu til himins, sem menn kalla regnboga; rauði liturinn er brennandi eldur."
+   },
+   "cites": [
+    {
+     "row": "g-c13-2"
+    },
+    {
+     "row": "g-c13-4"
+    },
+    {
+     "row": "g-c15-6"
+    }
+   ],
+   "group": "middle"
+  },
+  {
+   "id": "midgard",
+   "anchor": "midgardr",
+   "desc": {
+    "en": "The stronghold around the inhabited earth, built from Ymir's eyebrows inside the ring of the deep sea.",
+    "is": "Borgin kringum byggða jörð, gerð úr brám Ymis innan hrings úthafsins."
+   },
+   "cites": [
+    {
+     "row": "g-c8-8"
+    },
+    {
+     "row": "g-c9-2"
+    }
+   ],
+   "group": "middle",
+   "label": "Miðgarðr"
+  },
+  {
+   "id": "jormungandr",
+   "anchor": "midgardsormr",
+   "desc": {
+    "en": "The serpent cast into the deep sea, which grew until it lies around all the lands and bites its own tail.",
+    "is": "Ormurinn sem kastað var í djúpa sæinn og óx uns hann liggur um öll lönd og bítur í sporð sér."
+   },
+   "cites": [
+    {
+     "row": "g-c34-2"
+    },
+    {
+     "row": "g-c48-5"
+    }
+   ],
+   "group": "middle",
+   "label": "Miðgarðsormr"
+  },
+  {
+   "id": "jotunheim",
+   "anchor": "jotunheimar",
+   "desc": {
+    "en": "The lands of the giants, outside Miðgarðr by the shore of the sea, to the east.",
+    "is": "Lönd jötna, utan Miðgarðs við sjávarströndina, í austri."
+   },
+   "cites": [
+    {
+     "row": "g-c8-8"
+    },
+    {
+     "row": "g-c34-1"
+    }
+   ],
+   "group": "middle",
+   "label": "Jötunheimar"
+  },
+  {
+   "id": "utgardar",
+   "anchor": "utgardr",
+   "desc": {
+    "en": "The outer stronghold where Þórr met Útgarða-Loki.",
+    "is": "Ytri borgin þar sem Þór mætti Útgarða-Loka."
+   },
+   "cites": [
+    {
+     "row": "g-c46-2"
+    }
+   ],
+   "group": "middle",
+   "label": "Útgarðr"
+  },
+  {
+   "id": "svartalfaheimr",
+   "anchor": "svartalfaheimr",
+   "desc": {
+    "en": "The world of the dark elves, the dwarfs, who forged the fetter Gleipnir.",
+    "is": "Heimur svartálfa, dverganna, sem smíðuðu fjöturinn Gleipni."
+   },
+   "cites": [
+    {
+     "row": "g-c34-4"
+    },
+    {
+     "row": "s-c46-3"
+    }
+   ],
+   "group": "below",
+   "label": "Svartálfaheimr"
+  },
+  {
+   "id": "urdarbrunnr",
+   "anchor": "urdarbrunnr",
+   "desc": {
+    "en": "The well under the root that reaches heaven; the norns live beside it and water the ash from it.",
+    "is": "Brunnurinn undir rótinni sem nær til himins; nornirnar búa við hann og ausa askinn úr honum."
+   },
+   "cites": [
+    {
+     "row": "g-c15-6"
+    },
+    {
+     "row": "g-c16-6"
+    }
+   ],
+   "group": "below"
+  },
+  {
+   "id": "mimisbrunnr",
+   "anchor": "mimisbrunnr",
+   "desc": {
+    "en": "The well of wisdom under the root that reaches the frost giants, where Óðinn left his eye as a pledge.",
+    "is": "Viskubrunnurinn undir rótinni sem nær til hrímþursa, þar sem Óðinn lagði auga sitt að veði."
+   },
+   "cites": [
+    {
+     "row": "g-c15-4"
+    }
+   ],
+   "group": "below"
+  },
+  {
+   "id": "hvergelmir",
+   "anchor": "hvergelmir",
+   "desc": {
+    "en": "The spring in Niflheimr from which the rivers flow; Níðhöggr gnaws the root above it.",
+    "is": "Uppsprettan í Niflheimi sem árnar renna úr; Níðhöggur nagar rótina fyrir ofan hana."
+   },
+   "cites": [
+    {
+     "row": "g-c4-4"
+    },
+    {
+     "row": "g-c15-4"
+    }
+   ],
+   "group": "below"
+  },
+  {
+   "id": "nidhoggr",
+   "anchor": "nidhoggr",
+   "desc": {
+    "en": "The dragon at Hvergelmir that gnaws the root of the ash and sucks the dead.",
+    "is": "Drekinn við Hvergelmi sem nagar rót asksins og sýgur hræ dauðra."
+   },
+   "cites": [
+    {
+     "row": "g-c16-2"
+    },
+    {
+     "row": "vsp-s66"
+    }
+   ],
+   "group": "below"
+  },
+  {
+   "id": "niflheim",
+   "anchor": "niflheimr",
+   "desc": {
+    "en": "The world of mist in the north, made many ages before the earth; Hvergelmir lies in its middle.",
+    "is": "Þokuheimurinn í norðri, gerður mörgum öldum fyrir jörðina; Hvergelmir er í honum miðjum."
+   },
+   "cites": [
+    {
+     "row": "g-c4-4"
+    },
+    {
+     "row": "g-c34-2"
+    }
+   ],
+   "group": "below",
+   "label": "Niflheimr"
+  },
+  {
+   "id": "hel",
+   "anchor": "hel",
+   "desc": {
+    "en": "The realm of the dead under the third root, ruled by Loki's daughter Hel; nine nights' ride north and down.",
+    "is": "Ríki dauðra undir þriðju rótinni, sem Hel Lokadóttir ræður; níu nátta reið norður og niður."
+   },
+   "cites": [
+    {
+     "row": "g-c34-2"
+    },
+    {
+     "row": "g-c3-6"
+    },
+    {
+     "row": "g-c49-16"
+    }
+   ],
+   "group": "below"
+  },
+  {
+   "id": "nastrond",
+   "anchor": "nastrond",
+   "desc": {
+    "en": "The corpse-shore: a hall far from the sun, woven of serpents' backs, where oath-breakers and murderers wade.",
+    "is": "Náströnd: salur fjarri sólu, ofinn úr ormahryggjum, þar sem meinsvarar og morðvargar vaða."
+   },
+   "cites": [
+    {
+     "row": "vsp-s38"
+    },
+    {
+     "row": "g-c52-2"
+    }
+   ],
+   "group": "below",
+   "label": "Náströnd"
+  },
+  {
+   "id": "muspelheim",
+   "anchor": "muspell",
+   "desc": {
+    "en": "The bright, burning world in the south, guarded by Surtr with his flaming sword.",
+    "is": "Bjarti, brennandi heimurinn í suðri, sem Surtur gætir með logandi sverði."
+   },
+   "cites": [
+    {
+     "row": "g-c4-5"
+    },
+    {
+     "row": "g-c5-4"
+    },
+    {
+     "row": "g-c51-5"
+    }
+   ],
+   "group": "below",
+   "label": "Múspell"
+  },
+  {
+   "id": "gladsheimr",
+   "anchor": null,
+   "desc": {
+    "en": "Óðinn's realm in Ásgarðr, where the twelve high seats stand and Valhöll rises.",
+    "is": "Ríki Óðins í Ásgarði, þar sem hásætin tólf standa og Valhöll gnæfir."
+   },
+   "cites": [
+    {
+     "row": "g-c14-2"
+    },
+    {
+     "row": "grm-s8"
+    }
+   ],
+   "group": "halls",
+   "label": "Glaðsheimr"
+  },
+  {
+   "id": "vingolf",
+   "anchor": null,
+   "desc": {
+    "en": "The hall of the goddesses.",
+    "is": "Salur gyðjanna."
+   },
+   "cites": [
+    {
+     "row": "g-c14-2"
+    },
+    {
+     "row": "g-c3-6"
+    }
+   ],
+   "group": "halls"
+  },
+  {
+   "id": "bilskirnir",
+   "anchor": null,
+   "desc": {
+    "en": "Þórr's hall in Þrúðvangar, with five hundred and forty rooms.",
+    "is": "Höll Þórs í Þrúðvöngum, með fimm hundruð og fjörutíu gólfum."
+   },
+   "cites": [
+    {
+     "row": "g-c21-2"
+    }
+   ],
+   "group": "halls"
+  },
+  {
+   "id": "breidablik",
+   "anchor": null,
+   "desc": {
+    "en": "Baldr's dwelling, where nothing unclean may be.",
+    "is": "Bústaður Baldurs, þar sem ekkert óhreint má vera."
+   },
+   "cites": [
+    {
+     "row": "g-c17-2"
+    },
+    {
+     "row": "grm-s12"
+    }
+   ],
+   "group": "halls"
+  },
+  {
+   "id": "himinbjorg",
+   "anchor": null,
+   "desc": {
+    "en": "Heimdallr's dwelling at the end of the bridge.",
+    "is": "Bústaður Heimdallar við brúarsporðinn."
+   },
+   "cites": [
+    {
+     "row": "g-c17-2"
+    },
+    {
+     "row": "grm-s13"
+    }
+   ],
+   "group": "halls"
+  },
+  {
+   "id": "glitnir",
+   "anchor": null,
+   "desc": {
+    "en": "Forseti's hall, with golden pillars and a silver roof.",
+    "is": "Salur Forseta, með gullstólpum og silfurþaki."
+   },
+   "cites": [
+    {
+     "row": "g-c17-2"
+    },
+    {
+     "row": "grm-s15"
+    }
+   ],
+   "group": "halls"
+  },
+  {
+   "id": "valaskjalf",
+   "anchor": null,
+   "desc": {
+    "en": "Óðinn's silver-roofed hall with the seat Hliðskjálf.",
+    "is": "Silfurþakinn salur Óðins með hásætinu Hliðskjálf."
+   },
+   "cites": [
+    {
+     "row": "g-c17-2"
+    },
+    {
+     "row": "grm-s6"
+    }
+   ],
+   "group": "halls"
+  },
+  {
+   "id": "sokkvabekkr",
+   "anchor": null,
+   "desc": {
+    "en": "Sága's dwelling, where cool waves sound.",
+    "is": "Bústaður Sögu, þar sem svalar unnir glymja."
+   },
+   "cites": [
+    {
+     "row": "g-c35-3"
+    },
+    {
+     "row": "grm-s7"
+    }
+   ],
+   "group": "halls",
+   "label": "Sökkvabekkr"
+  },
+  {
+   "id": "thrymheimr",
+   "anchor": null,
+   "desc": {
+    "en": "Þjazi's home in the mountains, where Skaði lives.",
+    "is": "Heimkynni Þjaza í fjöllunum, þar sem Skaði býr."
+   },
+   "cites": [
+    {
+     "row": "g-c23-1"
+    },
+    {
+     "row": "grm-s11"
+    }
+   ],
+   "group": "halls"
+  },
+  {
+   "id": "noatun",
+   "anchor": null,
+   "desc": {
+    "en": "Njörðr's dwelling by the sea.",
+    "is": "Bústaður Njarðar við sjóinn."
+   },
+   "cites": [
+    {
+     "row": "g-c23-1"
+    },
+    {
+     "row": "grm-s16"
+    }
+   ],
+   "group": "halls"
+  },
+  {
+   "id": "folkvangr",
+   "anchor": null,
+   "desc": {
+    "en": "Freyja's field, where she takes half of the slain.",
+    "is": "Vellir Freyju, þar sem hún tekur hálfan val."
+   },
+   "cites": [
+    {
+     "row": "g-c24-1"
+    },
+    {
+     "row": "grm-s14"
+    }
+   ],
+   "group": "halls"
+  }
+ ]
+}
