@@ -1,0 +1,128 @@
+{
+ "_note": "Label anchor points for the task 20 map background, in image pixels of worlds-background-v1.jpg (2576x2576). Convert to percentages for the SVG overlay (viewBox 0 0 2576 2576 on top of the image keeps them exact). One anchors file per image version. From the cloud session, 2026-11-01.",
+ "image": "worlds-background-v1.jpg",
+ "size": [
+  2576,
+  2576
+ ],
+ "credit": "Background: AI-generated (Google Gemini), 2026. Labels and placement: Open Edda.",
+ "licence": "CC0 proposed for the image (maintainer to confirm); the labels and SVG are CC BY 4.0 like the rest",
+ "ai_generated": true,
+ "not_in_picture": [
+  "ginnungagap",
+  "gjallarbru",
+  "elivagar",
+  "vedrfolnir",
+  "stag-4"
+ ],
+ "notes": {
+  "nastrond": "the coiled serpents on the bottom-right shore (Völuspá 38-39); label Náströnd, not Níðhöggr",
+  "svartalfaheimr": "the dwarves' forges, lower left",
+  "muspell": "lower left corner",
+  "niflheimr": "the misty cave, bottom centre-left",
+  "hel": "the gate, bottom centre",
+  "stags": "three stags drawn (the citation names four: Dáinn, Dvalinn, Duneyrr, Duraþrór)"
+ },
+ "anchors": {
+  "gimle": [
+   1280,
+   193
+  ],
+  "alfheimr": [
+   309,
+   386
+  ],
+  "eagle": [
+   1301,
+   361
+  ],
+  "valholl": [
+   1236,
+   592
+  ],
+  "asgardr": [
+   1443,
+   734
+  ],
+  "vanaheimr": [
+   1855,
+   708
+  ],
+  "stags": [
+   657,
+   675
+  ],
+  "stag-2": [
+   1850,
+   477
+  ],
+  "bifrost": [
+   675,
+   1082
+  ],
+  "ratatoskr": [
+   1391,
+   1030
+  ],
+  "yggdrasill": [
+   1275,
+   1133
+  ],
+  "midgardr": [
+   1443,
+   1404
+  ],
+  "midgardsormr": [
+   1211,
+   1533
+  ],
+  "world-sea": [
+   412,
+   1404
+  ],
+  "jotunheimar": [
+   2241,
+   1159
+  ],
+  "utgardr": [
+   2357,
+   1327
+  ],
+  "svartalfaheimr": [
+   361,
+   1752
+  ],
+  "urdarbrunnr": [
+   850,
+   1932
+  ],
+  "mimisbrunnr": [
+   1301,
+   2009
+  ],
+  "hvergelmir": [
+   2035,
+   2035
+  ],
+  "nidhoggr": [
+   2138,
+   1816
+  ],
+  "niflheimr": [
+   979,
+   2318
+  ],
+  "hel": [
+   1649,
+   2293
+  ],
+  "nastrond": [
+   2318,
+   2267
+  ],
+  "muspell": [
+   283,
+   2267
+  ]
+ }
+}
