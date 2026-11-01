@@ -4,6 +4,9 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 ## Unreleased
 
+- Icelandic of Hávamál, Völuspá, Þrymskviða, Völundarkviða and Helgakviða Hundingsbana II: Netútgáfan's modern-spelling
+  text (`sources/is/netutgafan/`, 🟡 until the notification email) placed on Guðni Jónsson's rows as `is_nu` (prepared,
+  not shown; 365 of 369 rows, four keep the automatic text); `fill_netutgafan.py --switch` turns it into the column.
 - Names (curator's answers of 2026-11-01, mailbox 2320): Old Norse headwords set with `names.on` where the label was
   inflected or modern (Þórr, Bölþorn, Niflheimr, Andvaranautr, Garðrofa, Niðafjöll, Svartálfaheimr, Þrúðheimr, Angrboða,
   Glaðsheimr, Gullveig, Hlóra, Náströnd, Ymir, Surtr, Suttungr, Iðavöllr); Ífingr added (river, Vafþrúðnismál 16);
