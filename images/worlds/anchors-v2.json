@@ -1,6 +1,6 @@
 {
- "_note": "Label anchor points for the task 20 map background, in image pixels of worlds-background-v1.jpg (2576x2576). Convert to percentages for the SVG overlay (viewBox 0 0 2576 2576 on top of the image keeps them exact). One anchors file per image version. From the cloud session, 2026-11-01.",
- "image": "worlds-background-v1.jpg",
+ "_note": "Label anchor points for the task 20 map background, in image pixels of worlds-background-v2.jpg (2576x2576). Convert to percentages for the SVG overlay (viewBox 0 0 2576 2576 on top of the image keeps them exact). One anchors file per image version. From the cloud session, 2026-11-01; v2 supersedes v1 (gold-roofed Gimlé, four stags, Náströnd as a hall of serpents).",
+ "image": "worlds-background-v2.jpg",
  "size": [
   2576,
   2576
@@ -12,21 +12,21 @@
   "ginnungagap",
   "gjallarbru",
   "elivagar",
-  "vedrfolnir",
-  "stag-4"
+  "vedrfolnir"
  ],
  "notes": {
-  "nastrond": "the coiled serpents on the bottom-right shore (Völuspá 38-39); label Náströnd, not Níðhöggr",
+  "nastrond": "a hall woven of serpents on the bottom-right shore (Völuspá 38)",
+  "gimle": "a gold-roofed hall (Gylfaginning 17)",
+  "stags": "four stags: anchors stags, stag-2, stag-3 (Dáinn, Dvalinn, Duneyrr, Duraþrór)",
   "svartalfaheimr": "the dwarves' forges, lower left",
   "muspell": "lower left corner",
   "niflheimr": "the misty cave, bottom centre-left",
-  "hel": "the gate, bottom centre",
-  "stags": "three stags drawn (the citation names four: Dáinn, Dvalinn, Duneyrr, Duraþrór)"
+  "hel": "the gate, bottom centre"
  },
  "anchors": {
   "gimle": [
-   1280,
-   193
+   1301,
+   219
   ],
   "alfheimr": [
    309,
@@ -34,11 +34,11 @@
   ],
   "eagle": [
    1301,
-   361
+   386
   ],
   "valholl": [
-   1236,
-   592
+   1262,
+   618
   ],
   "asgardr": [
    1443,
@@ -49,24 +49,28 @@
    708
   ],
   "stags": [
-   657,
-   675
+   618,
+   683
   ],
   "stag-2": [
    1850,
    477
+  ],
+  "stag-3": [
+   2048,
+   683
   ],
   "bifrost": [
    675,
    1082
   ],
   "ratatoskr": [
-   1391,
+   1378,
    1030
   ],
   "yggdrasill": [
    1275,
-   1133
+   1159
   ],
   "midgardr": [
    1443,
@@ -117,8 +121,8 @@
    2293
   ],
   "nastrond": [
-   2318,
-   2267
+   2306,
+   2241
   ],
   "muspell": [
    283,
