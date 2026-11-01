@@ -24,6 +24,8 @@ folder name must equal the `cell` of every record inside. Any number of files pe
    "row": "g-c35-5",
    "cell": "is",
    "text": "Fimmta er Fulla. Hún er enn mær …",
+   "origin": "contributor",
+   "check": "reviewed",
    "status": "reviewed",
    "author": "user:123",
    "date": "2026-11-02",
@@ -39,7 +41,10 @@ folder name must equal the `cell` of every record inside. Any number of files pe
 | `row` | yes | row id `<p>-c<chapter>-<row>[suffix]`; must exist in `aligned/` (a suffixed id must exist or its base id must) |
 | `cell` | yes | `on`, `is` or `en`; equals the folder name |
 | `text` | yes | the full new text of the cell. Prose: one paragraph. Verse: lines separated by `\n`. Non-empty. |
-| `status` | yes | `auto`, `draft`, `reviewed` or `disputed` |
+| `origin` | new records | `edition`, `published`, `machine`, `ai` or `contributor` — where the text comes from (docs/DATA_MODEL.md) |
+| `source` | with `origin: published` | the source id from `aligned/sources.json` (`brodeur-1916`, `bellows-1923`, `netutgafan-1997`) |
+| `check` | new records | for `published`: `aligned-auto`, `aligned-checked`, `disputed`; for `machine`, `ai`, `contributor`: `unreviewed`, `reviewed`, `disputed`; for `edition`: `unreviewed`, `reviewed` |
+| `status` | old records (optional when `origin` and `check` are given) | the one-word form: `auto`, `draft`, `reviewed` or `disputed`; mapped to origin and check as in DATA_MODEL.md |
 | `author` | yes | `user:<handle>`, `ai:<model>-<yyyy-mm>` or `bot:<name>` |
 | `date` | yes | `YYYY-MM-DD` |
 | `reason` | recommended | one line: what was wrong |
@@ -49,6 +54,12 @@ Optional extra fields are allowed (`source`, `discussion` URL for disputes, `rev
 ignores them.
 
 ## Status rules
+
+Since task 17 (2026-11-01) a record states two things: `origin` (where the text comes from) and `check` (what a
+person confirmed). An alignment fix on a published translation — the sentence belongs to another row — is a record
+with `origin: published`, `source`, `check: aligned-checked` and the text as it should stand in this row; a new
+wording by a person is `origin: contributor`. The one-word `status` below is the old form, still accepted and
+derived for every record:
 
 - `auto` — machine output. Overlays with status `auto` exist only when a tool writes a cell on purpose
   (for example a retrained moderniser recording a per-row result); people never write `auto`.
