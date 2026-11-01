@@ -4,6 +4,9 @@ Purpose: this repository is the citable dataset of Open Edda — the source text
 the human corrections (overlays) and the image records. It holds data and one validator, no pipeline.
 The pipeline and the website are in the sibling repository `edda-site` (expected at `../edda-site`).
 
+Read `edda-internal/COORDINATION.md` first (branches, PRs, reviews, worklog) when you have access to that private
+repository.
+
 ## Hard rules
 
 1. `sources/` and `aligned/` are immutable from your side. Never edit them by hand. `aligned/*.json` is
