@@ -1,0 +1,521 @@
+{
+ "_note": "Hand rules for edda-site/pipeline/make_entities.py detect (task 16a). tags: overrides of the tag list per entity (first = main; vocabulary in entities.json `tags`). extra: entities that the ambiguity rules point at and that seed.json does not have (wikidata to be filled by the curator). resolve.entities: per seed entity, a scope (row id, Snorri chapter like s-c62, part letter p/g/s/h, poem prefix like hh2, or *) -> an entity id (relabel), ok (certain), check (uncertain) or, for forms, skip (not a name here); the most specific scope wins; a value {prose: ..., verse: ...} distinguishes prose and verse blocks. resolve.forms: the same per surface form (for a form that several entities share). resolve.near: a byname in the same Old Norse row decides (entity -> {word: entity}). lists: name-list sections (chapter or row scopes) whose mentions are not narrative and never carry a first-appearance card. spellings: translator spellings per entity and language that the spelling-blind comparison misses.",
+ "tags": {
+  "brynhild": [
+   "valkyrie",
+   "hero"
+  ],
+  "bragi": [
+   "god",
+   "poet"
+  ],
+  "sleipnir": [
+   "horse",
+   "animal"
+  ],
+  "sigurdr": [
+   "hero"
+  ],
+  "haraldr": [
+   "king"
+  ],
+  "voluspa": [
+   "poem"
+  ],
+  "grani": [
+   "horse",
+   "animal"
+  ],
+  "gullfaxi": [
+   "horse",
+   "animal"
+  ],
+  "skinfaxi": [
+   "horse",
+   "animal"
+  ],
+  "hrimfaxi": [
+   "horse",
+   "animal"
+  ],
+  "arvakr": [
+   "horse",
+   "animal"
+  ],
+  "svadilfari": [
+   "horse",
+   "animal"
+  ],
+  "gulltoppr": [
+   "horse",
+   "animal"
+  ],
+  "gyllir": [
+   "horse",
+   "animal"
+  ],
+  "skeidbrimir": [
+   "horse",
+   "animal"
+  ],
+  "falhofnir": [
+   "horse",
+   "animal"
+  ],
+  "lettfeti": [
+   "horse",
+   "animal"
+  ],
+  "silfrintoppr": [
+   "horse",
+   "animal"
+  ],
+  "hamskerpir": [
+   "horse",
+   "animal"
+  ],
+  "gardrofa": [
+   "horse",
+   "animal"
+  ],
+  "slongvir": [
+   "horse",
+   "animal"
+  ],
+  "hofvarpnir": [
+   "horse",
+   "animal"
+  ],
+  "skaevadr": [
+   "horse",
+   "animal"
+  ],
+  "sinir": [
+   "horse",
+   "animal"
+  ],
+  "tjaldari": [
+   "horse",
+   "animal"
+  ],
+  "lungr": [
+   "horse",
+   "animal"
+  ],
+  "valhalla": [
+   "hall",
+   "place_myth"
+  ],
+  "bilskirnir": [
+   "hall",
+   "place_myth"
+  ],
+  "breidablik": [
+   "hall",
+   "place_myth"
+  ],
+  "glitnir": [
+   "hall",
+   "place_myth"
+  ],
+  "sessrumnir": [
+   "hall",
+   "place_myth"
+  ],
+  "vingolf": [
+   "hall",
+   "place_myth"
+  ],
+  "valaskjalf": [
+   "hall",
+   "place_myth"
+  ],
+  "gladsheimr": [
+   "hall",
+   "place_myth"
+  ],
+  "himinbjorg": [
+   "hall",
+   "place_myth"
+  ],
+  "elivagar": [
+   "river",
+   "place_myth"
+  ],
+  "gjoll": [
+   "river",
+   "place_myth"
+  ],
+  "vimur": [
+   "river",
+   "place_myth"
+  ],
+  "kerlaugar": [
+   "river",
+   "place_myth"
+  ],
+  "vadgelmir": [
+   "river",
+   "place_myth"
+  ],
+  "jormungandr": [
+   "monster",
+   "animal"
+  ],
+  "fenrir": [
+   "monster",
+   "animal"
+  ],
+  "nidhoggr": [
+   "monster",
+   "animal"
+  ],
+  "garmr": [
+   "monster",
+   "animal"
+  ],
+  "fafnir": [
+   "monster"
+  ],
+  "hjadningavig": [
+   "event"
+  ],
+  "christ": [
+   "character"
+  ],
+  "q1534414": [
+   "animal"
+  ],
+  "gylfi": [
+   "king"
+  ],
+  "frodi": [
+   "king"
+  ],
+  "hrolfr-kraki": [
+   "king"
+  ],
+  "etzel": [
+   "king"
+  ],
+  "gunnar": [
+   "hero",
+   "king"
+  ],
+  "gjuki": [
+   "king"
+  ],
+  "hogni": [
+   "hero"
+  ],
+  "gudrun": [
+   "hero"
+  ],
+  "helgi-hundingsbani": [
+   "hero"
+  ],
+  "wayland-the-smith": [
+   "hero"
+  ],
+  "ottar": [
+   "hero"
+  ],
+  "svanhildr": [
+   "hero"
+  ],
+  "sinfjotli": [
+   "hero"
+  ],
+  "volsung": [
+   "king",
+   "hero"
+  ]
+ },
+ "extra": [
+  {
+   "id": "atli-idmundarson",
+   "tags": [
+    "hero"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Atli Iðmundarson",
+    "en": "Atli Idmundarson",
+    "is": "Atli Iðmundarson"
+   },
+   "desc": {
+    "en": "companion of Helgi Hjörvarðsson in Helgakviða Hjörvarðssonar, son of jarl Iðmundr"
+   }
+  },
+  {
+   "id": "hogni-sigrunar",
+   "tags": [
+    "king"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Högni",
+    "en": "Hogni, father of Sigrun",
+    "is": "Högni"
+   },
+   "desc": {
+    "en": "king, father of the valkyrie Sigrún in the Helgi Hundingsbani poems"
+   }
+  },
+  {
+   "id": "helgi-hjorvardsson",
+   "tags": [
+    "hero"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Helgi Hjörvarðsson",
+    "en": "Helgi Hjorvardsson",
+    "is": "Helgi Hjörvarðsson"
+   },
+   "desc": {
+    "en": "hero of Helgakviða Hjörvarðssonar, son of king Hjörvarðr and Sigrlinn; loved by the valkyrie Sváva"
+   }
+  },
+  {
+   "id": "king-geirrod",
+   "tags": [
+    "king"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Geirröðr konungr",
+    "en": "King Geirrod",
+    "is": "Geirröður konungur"
+   },
+   "desc": {
+    "en": "king in Grímnismál, foster-son of Óðinn, who tortures the disguised god between two fires"
+   }
+  },
+  {
+   "id": "ottarr-svarti",
+   "tags": [
+    "poet"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Óttarr svarti",
+    "en": "Ottar the Black",
+    "is": "Óttar svarti"
+   },
+   "desc": {
+    "en": "Icelandic skald of the early 11th century, quoted in Skáldskaparmál"
+   }
+  },
+  {
+   "id": "hervor-alvitr",
+   "tags": [
+    "valkyrie"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Hervör alvitr",
+    "en": "Hervor Alvitr",
+    "is": "Hervör alvitur"
+   },
+   "desc": {
+    "en": "swan maiden and valkyrie in Völundarkviða, wife of Völundr"
+   }
+  },
+  {
+   "id": "egill-skallagrimsson",
+   "tags": [
+    "poet"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Egill Skallagrímsson",
+    "en": "Egil Skallagrimsson",
+    "is": "Egill Skallagrímsson"
+   },
+   "desc": {
+    "en": "Icelandic skald of the 10th century, quoted in Skáldskaparmál"
+   }
+  },
+  {
+   "id": "einarr-skalaglamm",
+   "tags": [
+    "poet"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Einarr skálaglamm",
+    "en": "Einar Skalaglamm",
+    "is": "Einar skálaglamm"
+   },
+   "desc": {
+    "en": "Icelandic skald of the 10th century (Vellekla), quoted in Skáldskaparmál"
+   }
+  },
+  {
+   "id": "thjodolfr-arnorsson",
+   "tags": [
+    "poet"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Þjóðólfr Arnórsson",
+    "en": "Thjodolf Arnorsson",
+    "is": "Þjóðólfur Arnórsson"
+   },
+   "desc": {
+    "en": "Icelandic skald of the 11th century (Sexstefja), quoted in Skáldskaparmál"
+   }
+  }
+ ],
+ "resolve": {
+  "forms": {
+   "Gangleri": {
+    "g": {
+     "prose": "gylfi",
+     "verse": "odin"
+    },
+    "*": "odin"
+   },
+   "Goti": {
+    "hlk": "ok",
+    "*": "check"
+   },
+   "Gota": {
+    "hlk": "ok",
+    "*": "check"
+   },
+   "Þóru": {
+    "*": "skip"
+   },
+   "Þóri": {
+    "*": "skip"
+   },
+   "Buðla": {
+    "*": "budli"
+   }
+  },
+  "entities": {
+   "hogni": {
+    "*": "ok",
+    "hh1": "hogni-sigrunar",
+    "hh2": "hogni-sigrunar",
+    "hdl": "check",
+    "s-c62": "check"
+   },
+   "etzel": {
+    "*": "ok",
+    "hhv": "atli-idmundarson"
+   },
+   "helgi-hundingsbani": {
+    "*": "ok",
+    "hhv": "helgi-hjorvardsson"
+   },
+   "sigurdr": {
+    "*": "ok",
+    "s": "check",
+    "h": "check",
+    "s-c47": "ok",
+    "s-c48": "ok",
+    "s-c49": "ok",
+    "s-c50": "ok",
+    "s-c51": "ok"
+   },
+   "geirrodr": {
+    "*": "ok",
+    "grm": "king-geirrod",
+    "g": "check",
+    "ebr": "check"
+   },
+   "fjolsvidr": {
+    "fjm": "ok",
+    "grm": "odin",
+    "g": "odin",
+    "*": "check"
+   },
+   "angantyr": {
+    "hlk": "ok",
+    "hvk": "ok",
+    "hjk": "ok",
+    "*": "check"
+   },
+   "ottarr": {
+    "hdl": "ottar",
+    "s": "ottarr-svarti",
+    "*": "check"
+   },
+   "hervor": {
+    "hvk": "ok",
+    "hlk": "ok",
+    "vkv": "hervor-alvitr",
+    "*": "check"
+   },
+   "egill": {
+    "vkv": "ok",
+    "s": "egill-skallagrimsson",
+    "*": "check"
+   },
+   "agnarr-geirrodsson": {
+    "grm": "ok",
+    "*": "check"
+   },
+   "hjorvardr": {
+    "hhv": "ok",
+    "*": "check"
+   },
+   "goths": {
+    "*": "ok"
+   }
+  },
+  "near": {
+   "einarr": {
+    "Skúlason": "einarr",
+    "skálaglamm": "einarr-skalaglamm"
+   },
+   "thjodolfr": {
+    "Arnórsson": "thjodolfr-arnorsson",
+    "Hvini": "thjodolfr",
+    "hvinverski": "thjodolfr"
+   }
+  }
+ },
+ "lists": [
+  "s-c67",
+  "s-c68",
+  "s-c69",
+  "s-c70",
+  "s-c71",
+  "s-c72",
+  "s-c73",
+  "s-c74",
+  "s-c75",
+  "s-c76",
+  "s-c77",
+  "s-c78",
+  "s-c79",
+  "s-c80",
+  "s-c81",
+  "s-c82",
+  "s-c83",
+  "s-c84",
+  "s-c85",
+  "s-c86",
+  "s-c87",
+  "s-c88",
+  "s-c89",
+  "grm-s27",
+  "grm-s28",
+  "grm-s29",
+  "grm-s30",
+  "grm-s46",
+  "grm-s47",
+  "grm-s48",
+  "grm-s49",
+  "grm-s50",
+  "grm-s51",
+  "grm-s52",
+  "grm-s53",
+  "grm-s54"
+ ],
+ "spellings": {}
+}

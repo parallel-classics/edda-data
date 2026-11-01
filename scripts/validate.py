@@ -11,6 +11,9 @@ Checks
   images/records.json every record: unique id, part known, chapter exists, scene_rows (if given) exist, core keys present,
                       "file" (if given) exists in images/pd/; the optional top-level "unfilled" map names existing slots
   images/scenes.json  every chapter key exists in the part
+  entities/           (when present) seed.json, rules.json, notable.json, images.json, entities.json, mentions.json:
+                      ids are unique slugs, tags are from the vocabulary, Wikidata ids look like Q123, every mention
+                      names an existing entity, row and language, every used image passed the licence check
 
 Then prints, per part and column, how many cells are source / auto / draft / reviewed / disputed / empty after
 overlays are applied (latest record per row+cell wins; a disputed record marks the cell disputed).
@@ -275,6 +278,130 @@ def check_images(rows, chapters):
     return n
 
 
+ENTITY_ID = re.compile(r"^[a-z0-9][a-z0-9-]*$")
+ENTITY_TAGS = ("god", "goddess", "giant", "dwarf", "elf", "valkyrie", "norn", "hero", "king", "poet", "animal", "horse",
+               "monster", "object", "place_myth", "place_real", "river", "hall", "people", "poem", "event", "character")
+SEED_TYPES = ("god", "goddess", "giant", "dwarf", "elf", "valkyrie", "human", "character", "skald", "animal", "monster",
+              "object", "place-myth", "place-legend", "place-real", "group", "work", "event", "other")
+OK_LICENCE = re.compile(r"^(public domain|pd\b|cc0|cc by(-sa)?(\s|$))", re.I)
+
+
+def check_entities(rows):
+    """entities/: the curated seed, the hand rules and the generated files (edda-site/pipeline/make_entities.py)."""
+    d = os.path.join(ROOT, "entities")
+    if not os.path.isdir(d):
+        return 0, 0
+    ids = set()
+    seed_path = os.path.join(d, "seed.json")
+    if os.path.exists(seed_path):
+        seed = load(seed_path)
+        for e in seed.get("entities", []):
+            where = f"entities/seed.json#{e.get('id')}"
+            if not isinstance(e.get("id"), str) or not ENTITY_ID.match(e["id"]):
+                err(f"{where}: id must be a lowercase slug")
+            elif e["id"] in ids:
+                err(f"{where}: duplicate id")
+            ids.add(e.get("id"))
+            if e.get("type") not in SEED_TYPES:
+                err(f"{where}: type {e.get('type')!r} unknown")
+            if e.get("wikidata") is not None and not re.match(r"^Q\d+$", str(e["wikidata"])):
+                err(f"{where}: wikidata must be null or Q<number>")
+            if not isinstance(e.get("names"), dict) or not e["names"]:
+                err(f"{where}: names must be a non-empty object")
+            if not isinstance(e.get("forms"), dict):
+                err(f"{where}: forms must be an object form -> count")
+    rules_path = os.path.join(d, "rules.json")
+    if os.path.exists(rules_path):
+        rules = load(rules_path)
+        for e in rules.get("extra", []):
+            where = f"entities/rules.json extra {e.get('id')}"
+            if not isinstance(e.get("id"), str) or not ENTITY_ID.match(e["id"]):
+                err(f"{where}: id must be a lowercase slug")
+            elif e["id"] in ids:
+                err(f"{where}: id already in seed.json")
+            ids.add(e.get("id"))
+            if not e.get("tags") or any(t not in ENTITY_TAGS for t in e["tags"]):
+                err(f"{where}: tags must be from the vocabulary")
+        for eid, tags in rules.get("tags", {}).items():
+            if eid not in ids:
+                err(f"entities/rules.json tags: unknown entity {eid!r}")
+            if not tags or any(t not in ENTITY_TAGS for t in tags):
+                err(f"entities/rules.json tags {eid}: tags must be from the vocabulary")
+        for eid, rule in rules.get("resolve", {}).get("entities", {}).items():
+            if eid not in ids:
+                err(f"entities/rules.json resolve.entities: unknown entity {eid!r}")
+            for sc, v in rule.items():
+                vals = list(v.values()) if isinstance(v, dict) else [v]
+                for x in vals:
+                    if x not in ("ok", "check") and x not in ids:
+                        err(f"entities/rules.json resolve.entities {eid} [{sc}]: unknown target {x!r}")
+        for form, rule in rules.get("resolve", {}).get("forms", {}).items():
+            for sc, v in rule.items():
+                vals = list(v.values()) if isinstance(v, dict) else [v]
+                for x in vals:
+                    if x not in ("ok", "check", "skip") and x not in ids:
+                        err(f"entities/rules.json resolve.forms {form} [{sc}]: unknown target {x!r}")
+        for eid, near in rules.get("resolve", {}).get("near", {}).items():
+            if eid not in ids:
+                err(f"entities/rules.json resolve.near: unknown entity {eid!r}")
+            for word, x in near.items():
+                if x not in ids:
+                    err(f"entities/rules.json resolve.near {eid} {word}: unknown target {x!r}")
+        for sc in rules.get("lists", []):
+            if not (sc in rows or re.match(r"^[pgsh]-c\d+$", sc) or re.match(r"^[a-z0-9]+$", sc)):
+                err(f"entities/rules.json lists: {sc!r} is not a row, chapter or poem scope")
+    notable_path = os.path.join(d, "notable.json")
+    if os.path.exists(notable_path):
+        for eid in load(notable_path).get("ids", []):
+            if eid not in ids:
+                warnings.append(f"entities/notable.json: {eid!r} is not an entity (yet)")
+    images = {}
+    images_path = os.path.join(d, "images.json")
+    if os.path.exists(images_path):
+        images = load(images_path).get("images", {})
+        for f, rec in images.items():
+            if rec.get("ok") and not OK_LICENCE.match(rec.get("licence") or ""):
+                err(f"entities/images.json {f}: marked ok but licence {rec.get('licence')!r} is not PD / CC0 / CC BY / CC BY-SA")
+    n_ent = n_men = 0
+    ent_path = os.path.join(d, "entities.json")
+    if os.path.exists(ent_path):
+        doc = load(ent_path)
+        seen = set()
+        for e in doc.get("entities", []):
+            n_ent += 1
+            where = f"entities/entities.json#{e.get('id')}"
+            if e.get("id") in seen:
+                err(f"{where}: duplicate id")
+            seen.add(e.get("id"))
+            if e.get("id") not in ids:
+                err(f"{where}: not in seed.json or rules.json (regenerate)")
+            if not e.get("tags") or any(t not in ENTITY_TAGS for t in e["tags"]) or e.get("type") != e["tags"][0]:
+                err(f"{where}: tags must be from the vocabulary and type = tags[0]")
+            if e.get("status") != "auto":
+                err(f"{where}: status must be auto (entities are not reviewed yet)")
+            if e.get("image") and not images.get(e["image"], {}).get("ok"):
+                err(f"{where}: image {e['image']!r} has not passed the licence check in images.json")
+            for book, rid in list((e.get("first") or {}).items()) + list((e.get("first_any") or {}).items()):
+                if rid not in rows:
+                    err(f"{where}: first mention row {rid!r} does not exist")
+        ids_out = seen
+    else:
+        ids_out = ids
+    men_path = os.path.join(d, "mentions.json")
+    if os.path.exists(men_path):
+        for i, m in enumerate(load(men_path).get("mentions", [])):
+            n_men += 1
+            if m.get("entity") not in ids_out:
+                err(f"entities/mentions.json[{i}]: unknown entity {m.get('entity')!r}")
+            if m.get("row") not in rows:
+                err(f"entities/mentions.json[{i}]: unknown row {m.get('row')!r}")
+            if m.get("lang") not in CELLS:
+                err(f"entities/mentions.json[{i}]: unknown lang {m.get('lang')!r}")
+            if not m.get("form") or m.get("kind") not in ("name", "heiti", "kenning") or m.get("status") != "auto":
+                err(f"entities/mentions.json[{i}]: needs form, kind in name/heiti/kenning, status auto")
+    return n_ent, n_men
+
+
 def status_table(rows, effective):
     cols = ("source", "auto", "draft", "reviewed", "disputed", "empty")
     table = []
@@ -314,8 +441,10 @@ def main():
     effective, n_overlay_files = check_overlays(rows)
     n_images = check_images(rows, chapters)
     n_links = check_links(rows, chapters)
+    n_ent, n_men = check_entities(rows)
     print(f"aligned rows: {len(rows)} in {len(chapters)} parts; overlay files: {n_overlay_files}, "
-          f"overlay cells: {len(effective)}; image records: {n_images}; quotation links: {n_links}\n")
+          f"overlay cells: {len(effective)}; image records: {n_images}; quotation links: {n_links}; "
+          f"entities: {n_ent}, mentions: {n_men}\n")
     status_table(rows, effective)
     print()
     print("source = base edition text (Old Norse), auto = automatic alignment or modernisation, "
