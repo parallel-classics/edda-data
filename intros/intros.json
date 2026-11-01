@@ -1,0 +1,666 @@
+{
+ "_note": "An introduction per part and a headnote per poem (task 22). English: AI drafts by the cloud session (2026-11-01); Icelandic: AI drafts by Claude Code (2026-11-01). status draft = not reviewed; the page shows them with the AI-draft mark until a person reviews them. Corrections are overlay records keyed intro:<key> / headnote:<prefix> (cell intro or headnote). CC BY 4.0 like the rest of the edition.",
+ "parts": {
+  "p": {
+   "title": "Formáli — the Prologue",
+   "intro": {
+    "en": "A short Christian preface to Snorri's Edda. It explains the old gods without believing in them: after the Flood people forgot God's name, worshipped the forces of nature, and later took famous men for gods. Troy stands at the centre of the world; Thor is Trór, grandson of King Priam; Óðinn leads his people out of Asia (the Æsir are \"men of Asia\") to Saxony, Denmark, Sweden and Norway, where his sons found royal houses. Read it as a medieval scholar's frame for what follows, not as myth.",
+    "is": "Stuttur kristinn formáli að Eddu Snorra. Hann skýrir gömlu goðin án þess að trúa á þau: eftir syndaflóðið gleymdu menn nafni Guðs, dýrkuðu náttúruöflin og tóku síðar fræga menn fyrir guði. Trója stendur í miðjum heimi; Þór er Trór, sonarsonur Príamusar konungs; Óðinn leiðir fólk sitt úr Asíu (æsir eru „Asíumenn“) til Saxlands, Danmerkur, Svíþjóðar og Noregs, þar sem synir hans stofna konungsættir. Lestu hann sem ramma miðaldalærdómsmanns utan um það sem á eftir kemur, ekki sem goðsögn."
+   },
+   "note": {
+    "en": "12 rows. Whether Snorri wrote the Prologue himself is debated.",
+    "is": "12 raðir. Deilt er um hvort Snorri hafi sjálfur skrifað formálann."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "g": {
+   "title": "Gylfaginning — The Tricking of Gylfi",
+   "intro": {
+    "en": "King Gylfi of Sweden, disguised as a traveller called Gangleri, comes to a great hall and questions three figures on high seats — Hár, Jafnhár and Þriði (High, Just-as-High and Third). Their answers tell the whole mythology in order: the void Ginnungagap, the giant Ymir and the making of the world, the gods and their halls, Yggdrasill, Thor's journey to Útgarða-Loki, the death of Baldr, Ragnarök and the world that rises after it. At the end the hall vanishes and Gylfi stands on open ground. Snorri quotes Völuspá, Grímnismál and Vafþrúðnismál as his authorities — the links take you to those stanzas.",
+    "is": "Gylfi Svíakonungur kemur dulbúinn sem ferðamaðurinn Gangleri í mikla höll og spyr þrjá menn í hásætum — Hár, Jafnhár og Þriðja. Svör þeirra segja alla goðafræðina í réttri röð: gapið Ginnungagap, jötuninn Ymi og sköpun heimsins, goðin og hallir þeirra, Yggdrasil, för Þórs til Útgarða-Loka, dauða Baldurs, ragnarök og heiminn sem rís á eftir. Í lokin hverfur höllin og Gylfi stendur á sléttum velli. Snorri vitnar í Völuspá, Grímnismál og Vafþrúðnismál sem heimildir — tenglarnir leiða þig að þeim erindum."
+   },
+   "note": {
+    "en": "The best place to start. The Icelandic column here is a published modern-spelling text (Netútgáfan), not an automatic conversion.",
+    "is": "Besti staðurinn til að byrja. Íslenski dálkurinn hér er útgefinn texti með nútímastafsetningu (Netútgáfan), ekki sjálfvirk umritun."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "s": {
+   "title": "Skáldskaparmál — The Language of Poetry",
+   "intro": {
+    "en": "A handbook for poets, framed as a conversation at a feast between the sea-giant Ægir and Bragi, god of poetry. To explain why poets call gold \"Sif's hair\" or poetry \"Óðinn's mead\", Bragi tells the stories behind the expressions: Iðunn and the giant Þjazi, the mead of poetry, Thor's duels with Hrungnir and Geirröðr, the dwarves' treasures, the otter's ransom and the cursed gold of the Niflungs, Fróði's mill, Hrólfr kraki, the endless battle of the Hjaðningar. Between and after the stories come lists of kennings and poetic names for gods, people, weapons, ships, the sea and much more, each proved with lines by named poets of the 9th–12th centuries.",
+    "is": "Handbók fyrir skáld, sett fram sem samtal í veislu milli sjávarjötunsins Ægis og Braga, guðs skáldskaparins. Til að skýra hvers vegna skáld kalla gull „hár Sifjar“ eða skáldskap „mjöð Óðins“ segir Bragi sögurnar á bak við orðalagið: Iðunni og jötuninn Þjaza, skáldskaparmjöðinn, einvígi Þórs við Hrungni og Geirröð, dýrgripi dverganna, otursgjöldin og bölvaða gull Niflunga, kvörn Fróða, Hrólf kraka, hina endalausu orrustu Hjaðninga. Milli sagnanna og á eftir þeim koma skrár yfir kenningar og skáldleg heiti goða, manna, vopna, skipa, sjávar og margs fleira, hvert sannað með vísum nafngreindra skálda frá 9.–12. öld."
+   },
+   "note": {
+    "en": "Stories and lists alternate: the stories are chapters 1–6, 24–26, 46–54 and 62; the rest are lists to dip into. The name lists near the end do not trigger picture cards.",
+    "is": "Sögur og skrár skiptast á: sögurnar eru kaflar 1–6, 24–26, 46–54 og 62; hitt eru skrár til að glugga í. Nafnaskrárnar undir lokin kalla ekki fram myndaspjöld."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "h": {
+   "title": "Háttatal — The List of Metres",
+   "intro": {
+    "en": "Snorri's own poem of 102 stanzas in praise of King Hákon Hákonarson and Earl Skúli, written about 1222–23. Each stanza demonstrates a different verse form or poetic licence, and a prose commentary in question-and-answer form explains what changes from one to the next. It is a masterclass in skaldic technique rather than a story.",
+    "is": "Kvæði Snorra sjálfs, 102 erindi, til lofs Hákoni konungi Hákonarsyni og Skúla jarli, ort um 1222–23. Hvert erindi sýnir annan bragarhátt eða skáldaleyfi, og skýringar í lausu máli, í spurningum og svörum, segja hvað breytist frá einu erindi til annars. Þetta er kennslustund í dróttkvæðri list fremur en saga."
+   },
+   "note": {
+    "en": "There is no public-domain English translation; the English column is an AI draft, marked on every row, waiting for review by readers of Old Norse.",
+    "is": "Engin ensk þýðing er til í almenningseign; enski dálkurinn er gervigreindardrög, merkt á hverri röð, og bíður yfirferðar lesenda sem kunna fornnorrænu."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "pm": {
+   "title": "Poetic Edda · Mythological poems",
+   "intro": {
+    "en": "Anonymous poems about the gods, most of them preserved in one Icelandic manuscript of about 1270, the Codex Regius, and composed earlier — some perhaps in the 10th century. The order follows the manuscript: Völuspá, a seeress's vision of the world from creation to Ragnarök; Hávamál, Óðinn's advice and his winning of the runes; three wisdom contests; comic and dramatic poems about Thor, Loki, Freyr and Skírnir. Poems found outside the Codex Regius follow (Baldrs draumar, Rígsþula, Hyndluljóð, Gróttasöngr and others).",
+    "is": "Nafnlaus kvæði um goðin, flest varðveitt í einu íslensku handriti frá um 1270, Konungsbók, og ort fyrr — sum ef til vill á 10. öld. Röðin fylgir handritinu: Völuspá, sýn völvu á heiminn frá sköpun til ragnaraka; Hávamál, ráð Óðins og hvernig hann vann rúnirnar; þrjár viskukeppnir; gamansöm og dramatísk kvæði um Þór, Loka, Frey og Skírni. Á eftir koma kvæði sem finnast utan Konungsbókar (Baldrs draumar, Rígsþula, Hyndluljóð, Gróttasöngur og fleiri)."
+   },
+   "note": {
+    "en": "Snorri knew many of these poems and quotes them; a link on a stanza takes you to the place where he does.",
+    "is": "Snorri þekkti mörg þessara kvæða og vitnar í þau; tengill á erindi leiðir þig á staðinn þar sem hann gerir það."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "ph": {
+   "title": "Poetic Edda · Heroic poems",
+   "intro": {
+    "en": "Poems about human heroes, many of them going back to the age of migrations in the 4th–6th centuries: the smith Völundr, the two Helgis, and above all the story of Sigurðr the dragon-slayer, Brynhildr, Guðrún and the Niflungs (the Nibelungs of the German tradition), down to the death of Guðrún's sons in Hamðismál. The poems overlap and sometimes contradict each other; short prose passages in the manuscript link them. Eight leaves of the Codex Regius are lost after Sigrdrífumál, and with them most of the poems on Sigurðr's death.",
+    "is": "Kvæði um mennskar hetjur, mörg þeirra með rætur í þjóðflutningaöldinni á 4.–6. öld: smiðurinn Völundur, Helgarnir tveir og umfram allt sagan af Sigurði Fáfnisbana, Brynhildi, Guðrúnu og Niflungum (Nibelungum þýsku hefðarinnar), allt til dauða sona Guðrúnar í Hamðismálum. Kvæðin skarast og stangast stundum á; stuttir lausamálskaflar í handritinu tengja þau. Átta blöð Konungsbókar eru glötuð á eftir Sigurdrífumálum, og með þeim flest kvæðin um dauða Sigurðar."
+   },
+   "note": {
+    "en": "Skáldskaparmál chapters 46–51 retell the whole story in prose; reading them first gives the thread.",
+    "is": "Kaflar 46–51 í Skáldskaparmálum segja alla söguna í lausu máli; að lesa þá fyrst gefur þráðinn."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "po": {
+   "title": "Poetic Edda · Other poems",
+   "intro": {
+    "en": "Poems in the eddic metres that are not in the Codex Regius: verses from the sagas of Hervör and Heiðrekr and of Hálfr (with the riddles of Gestumblindi), fragments gathered as Eddubrot, the Christian vision poem Sólarljóð, and Hrafnagaldr Óðins, which is probably post-medieval.",
+    "is": "Kvæði undir eddukvæðaháttum sem ekki eru í Konungsbók: vísur úr Hervarar sögu og Heiðreks og úr Hálfs sögu (með gátum Gestumblinda), brot sem safnað er saman sem Eddubrot, kristna sýnakvæðið Sólarljóð, og Hrafnagaldur Óðins, sem er líklega frá tímum eftir miðaldir."
+   },
+   "note": {
+    "en": "Bellows did not translate most of these; their English is an AI draft, marked as such.",
+    "is": "Bellows þýddi fæst þessara kvæða; enski texti þeirra er gervigreindardrög, merkt sem slík."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  }
+ },
+ "poems": {
+  "vsp": {
+   "headnote": {
+    "en": "A seeress, called up by Óðinn, tells of the world from its beginning to Ragnarök and the green earth that rises after it — the most famous Eddic poem and Snorri's main source.",
+    "is": "Völva, sem Óðinn hefur vakið, segir frá heiminum frá upphafi til ragnaraka og grænu jörðinni sem rís á eftir — frægasta eddukvæðið og helsta heimild Snorra."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "hav": {
+   "headnote": {
+    "en": "\"Sayings of the High One\": practical wisdom for travellers and guests, Óðinn's adventures with women and the mead of poetry, his self-sacrifice on the tree to win the runes, and a list of spells.",
+    "is": "„Mál hins háa“: hagnýt speki handa ferðamönnum og gestum, ævintýri Óðins með konum og skáldskaparmjöðinn, fórn hans á trénu til að vinna rúnirnar, og skrá yfir galdra."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "vm": {
+   "headnote": {
+    "en": "Óðinn, in disguise, wagers his head in a contest of knowledge with the wise giant Vafþrúðnir; the questions cover the whole mythology.",
+    "is": "Óðinn, dulbúinn, veðjar höfði sínu í viskukeppni við hinn vitra jötun Vafþrúðni; spurningarnar ná yfir alla goðafræðina."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "grm": {
+   "headnote": {
+    "en": "Óðinn, tortured between two fires by King Geirröðr, reveals the halls of the gods, the world-tree and his own many names; at the end the king falls on his sword.",
+    "is": "Óðinn, píndur milli tveggja elda af Geirröði konungi, opinberar hallir goðanna, heimstréð og sín mörgu nöfn; í lokin fellur konungurinn á sverð sitt."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "skm": {
+   "headnote": {
+    "en": "Freyr falls in love with the giantess Gerðr; his servant Skírnir woos her for him, with gifts and then with threats and curses.",
+    "is": "Freyr verður ástfanginn af jötunmeyjunni Gerði; þjónn hans Skírnir biður hennar fyrir hann, fyrst með gjöfum og síðan með hótunum og bölvunum."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "hrbl": {
+   "headnote": {
+    "en": "Thor, on his way home, is refused passage by a ferryman called Hárbarðr (Óðinn in disguise); the two trade boasts and insults across the water.",
+    "is": "Þór, á heimleið, fær ekki far yfir sund hjá ferjumanni sem kallar sig Hárbarð (Óðin í dulargervi); þeir skiptast á hrósi og níði yfir vatnið."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "hym": {
+   "headnote": {
+    "en": "Thor and Týr fetch a cauldron from the giant Hymir; on the way Thor fishes up the Miðgarðr serpent.",
+    "is": "Þór og Týr sækja ketil til jötunsins Hymis; á leiðinni dregur Þór Miðgarðsorm úr sjó."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "ls": {
+   "headnote": {
+    "en": "Loki bursts into Ægir's feast and insults every god and goddess in turn until Thor arrives; the prose ending tells how Loki is bound.",
+    "is": "Loki ryðst inn í veislu Ægis og smánar hvert goð og hverja gyðju á fætur annarri þar til Þór kemur; lausamálsendirinn segir hvernig Loki er bundinn."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "thrk": {
+   "headnote": {
+    "en": "The giant Þrymr steals Thor's hammer and demands Freyja as his bride; Thor goes to the wedding in her place, dressed as the bride.",
+    "is": "Jötunninn Þrymur stelur hamri Þórs og krefst Freyju sem brúðar; Þór fer í brúðkaupið í hennar stað, klæddur sem brúður."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "alv": {
+   "headnote": {
+    "en": "The dwarf Alvíss comes to claim Thor's daughter; Thor keeps him answering questions about the names of things in every world until the sun rises and turns him to stone.",
+    "is": "Dvergurinn Alvíss kemur að sækja dóttur Þórs; Þór lætur hann svara spurningum um heiti hlutanna í öllum heimum þar til sólin rís og gerir hann að steini."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "bdr": {
+   "headnote": {
+    "en": "Óðinn rides to the underworld and wakes a dead seeress to learn the meaning of Baldr's ominous dreams.",
+    "is": "Óðinn ríður til undirheima og vekur dauða völvu til að fá að vita hvað hinir ískyggilegu draumar Baldurs merkja."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "rth": {
+   "headnote": {
+    "en": "The god Rígr visits three households and fathers the three estates of society: thralls, free farmers and nobles. The end is lost.",
+    "is": "Goðið Rígur heimsækir þrjú heimili og getur stéttirnar þrjár: þræla, frjálsa bændur og aðalsmenn. Endirinn er glataður."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "hdl": {
+   "headnote": {
+    "en": "Freyja helps her favourite Óttarr win an inheritance dispute by making the giantess Hyndla recite his ancestry; includes the \"short Völuspá\".",
+    "is": "Freyja hjálpar skjólstæðingi sínum Óttari að vinna erfðadeilu með því að láta jötunmeyna Hyndlu þylja ættartölu hans; hér er einnig „Völuspá in skamma“."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "vsk": {
+   "headnote": {
+    "en": "\"The short Völuspá\", a passage within Hyndluljóð on the gods and the end of the world, printed here separately.",
+    "is": "„Völuspá in skamma“, kafli innan Hyndluljóða um goðin og endalok heimsins, prentaður hér sérstaklega."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "grt": {
+   "headnote": {
+    "en": "Two captive giantesses, Fenja and Menja, grind gold and peace for King Fróði on a magic mill; driven too hard, they grind an army against him.",
+    "is": "Tvær herteknar jötunmeyjar, Fenja og Menja, mala gull og frið handa Fróða konungi á töfrakvörn; of hart reknar mala þær her gegn honum."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "grg": {
+   "headnote": {
+    "en": "Svipdagr wakes his dead mother Gróa, who sings him nine protective spells for his journey (the first half of the Svipdagr story).",
+    "is": "Svipdagur vekur dauða móður sína Gróu, sem syngur honum níu verndargaldra fyrir ferðina (fyrri hluti sögunnar um Svipdag)."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "fjm": {
+   "headnote": {
+    "en": "Svipdagr, under a false name, questions the giant watchman Fjölsviðr at the gate of Menglöð's hall, and is finally let in (the second half).",
+    "is": "Svipdagur, undir fölsku nafni, spyr jötunvörðinn Fjölsvið við hlið hallar Menglaðar og er að lokum hleypt inn (síðari hlutinn)."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "vkv": {
+   "headnote": {
+    "en": "The smith Völundr, captured and lamed by King Níðuðr, takes a terrible revenge and flies away.",
+    "is": "Smiðurinn Völundur, hertekinn og lamaður af Níðuði konungi, hefnir sín hræðilega og flýgur burt."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "hhv": {
+   "headnote": {
+    "en": "Helgi son of Hjörvarðr wins the valkyrie Sváva; a cursed vow and a duel end in his death.",
+    "is": "Helgi Hjörvarðsson vinnur valkyrjuna Sváfu; bölvað heit og einvígi leiða til dauða hans."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "hh1": {
+   "headnote": {
+    "en": "The birth and first great battle of Helgi, slayer of Hundingr, who wins the valkyrie Sigrún.",
+    "is": "Fæðing og fyrsta stórorrusta Helga Hundingsbana, sem vinnur valkyrjuna Sigrúnu."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "hh2": {
+   "headnote": {
+    "en": "More of Helgi and Sigrún: their love, Helgi's death at her brother's hand, and his return from the grave mound for one night.",
+    "is": "Meira af Helga og Sigrúnu: ást þeirra, dauði Helga fyrir hendi bróður hennar, og endurkoma hans úr haugnum eina nótt."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "grp": {
+   "headnote": {
+    "en": "Young Sigurðr asks his uncle Grípir to foretell his life, from the dragon to his death. With it, the short prose \"Death of Sinfjötli\".",
+    "is": "Hinn ungi Sigurður biður móðurbróður sinn Grípi að segja fyrir ævi sína, frá drekanum til dauðans. Með því fylgir stutti lausamálskaflinn „Frá dauða Sinfjötla“."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "rm": {
+   "headnote": {
+    "en": "How the otter's ransom brought the cursed gold into the world, and how the smith Reginn prepares Sigurðr to win it.",
+    "is": "Hvernig otursgjöldin komu bölvaða gullinu í heiminn og hvernig smiðurinn Reginn býr Sigurð undir að vinna það."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "fm": {
+   "headnote": {
+    "en": "Sigurðr kills the dragon Fáfnir, who warns him of the curse; birds advise him to kill Reginn too.",
+    "is": "Sigurður drepur drekann Fáfni, sem varar hann við bölvuninni; fuglar ráða honum að drepa Regin líka."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "sd": {
+   "headnote": {
+    "en": "Sigurðr wakes the sleeping valkyrie Sigrdrífa, who teaches him runes and wise counsel. The manuscript breaks off here.",
+    "is": "Sigurður vekur sofandi valkyrjuna Sigurdrífu, sem kennir honum rúnir og heilræði. Handritið slitnar hér."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "br": {
+   "headnote": {
+    "en": "The end of a lost long poem: the killing of Sigurðr, and Brynhildr's laughter and lament.",
+    "is": "Niðurlag glataðs langs kvæðis: víg Sigurðar, og hlátur og harmur Brynhildar."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "gdr1": {
+   "headnote": {
+    "en": "Guðrún sits silent by Sigurðr's body while other women tell their own sorrows, until she can weep.",
+    "is": "Guðrún situr þögul hjá líki Sigurðar meðan aðrar konur segja frá eigin sorgum, þar til hún getur grátið."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "sg": {
+   "headnote": {
+    "en": "The whole tragedy of Sigurðr, Brynhildr and Gunnarr, ending with Brynhildr's death on Sigurðr's pyre.",
+    "is": "Allur harmleikur Sigurðar, Brynhildar og Gunnars, sem lýkur með dauða Brynhildar á bálför Sigurðar."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "hlr": {
+   "headnote": {
+    "en": "On her way to the underworld Brynhildr meets a giantess and tells her own side of the story.",
+    "is": "Á leið til undirheima hittir Brynhildur gýgi og segir sína hlið sögunnar."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "drn": {
+   "headnote": {
+    "en": "A prose passage: how the Niflungs were killed at Atli's court.",
+    "is": "Lausamálskafli: hvernig Niflungar voru drepnir við hirð Atla."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "gdr2": {
+   "headnote": {
+    "en": "Guðrún tells her life after Sigurðr's death, her forced marriage to Atli and his dark dreams.",
+    "is": "Guðrún segir frá ævi sinni eftir dauða Sigurðar, nauðungargiftingu sinni Atla og dimmum draumum hans."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "gdr3": {
+   "headnote": {
+    "en": "Guðrún clears herself by ordeal of a charge of adultery.",
+    "is": "Guðrún hreinsar sig með skírslu af ákæru um hjúskaparbrot."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "od": {
+   "headnote": {
+    "en": "Oddrún, Atli's sister, tells of her love for Gunnarr and how she tried to save him.",
+    "is": "Oddrún, systir Atla, segir frá ást sinni á Gunnari og hvernig hún reyndi að bjarga honum."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "akv": {
+   "headnote": {
+    "en": "Gunnarr and Högni ride to Atli's hall and their deaths; Guðrún's revenge on Atli. One of the oldest heroic poems.",
+    "is": "Gunnar og Högni ríða til hallar Atla og í dauðann; hefnd Guðrúnar á Atla. Eitt elsta hetjukvæðið."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "am": {
+   "headnote": {
+    "en": "The same story as Atlakviða, retold at length in a later, more domestic style — \"the Greenland lay of Atli\".",
+    "is": "Sama saga og í Atlakviðu, endursögð ítarlega í yngri og heimilislegri stíl — „Atlamál in grænlensku“."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "ghv": {
+   "headnote": {
+    "en": "Guðrún urges her sons to avenge their sister Svanhildr, and looks back on her sorrows.",
+    "is": "Guðrún eggjar syni sína til að hefna systur sinnar Svanhildar og lítur yfir sorgir sínar."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "hm": {
+   "headnote": {
+    "en": "Hamðir and Sörli ride against King Jörmunrekkr to avenge Svanhildr and die in the attempt.",
+    "is": "Hamðir og Sörli ríða gegn Jörmunrekki konungi til að hefna Svanhildar og falla í tilrauninni."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "hjk": {
+   "headnote": {
+    "en": "The dying Hjálmarr's lament on Sámsey (from the saga of Hervör and Heiðrekr).",
+    "is": "Dauðaljóð Hjálmars á Sámsey (úr Hervarar sögu og Heiðreks)."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "hvk": {
+   "headnote": {
+    "en": "The shield-maiden Hervör wakes her dead father Angantýr in his grave mound and demands the sword Tyrfingr.",
+    "is": "Skjaldmærin Hervör vekur dauðan föður sinn Angantý í haugi hans og krefst sverðsins Tyrfings."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "hlk": {
+   "headnote": {
+    "en": "The battle of the Goths and Huns: Hlöðr claims his share of the inheritance from his brother Angantýr.",
+    "is": "Orrusta Gota og Húna: Hlöður krefst síns hluta af arfinum af bróður sínum Angantý."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "hrl": {
+   "headnote": {
+    "en": "Verses on King Hálfr and his warriors (from Hálfs saga).",
+    "is": "Vísur um Hálf konung og kappa hans (úr Hálfs sögu)."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "heid": {
+   "headnote": {
+    "en": "King Heiðrekr's riddle contest with Gestumblindi, who is Óðinn in disguise.",
+    "is": "Gátukeppni Heiðreks konungs við Gestumblinda, sem er Óðinn í dulargervi."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "ebr": {
+   "headnote": {
+    "en": "Fragments and stray Eddic verses gathered from other sources.",
+    "is": "Brot og stakar eddukvæðavísur sem safnað er úr öðrum heimildum."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "sol": {
+   "headnote": {
+    "en": "\"The Song of the Sun\": a dead father speaks to his son of the world, of death and of visions of the afterlife — a Christian poem in Eddic metre, 13th century.",
+    "is": "„Sólarljóð“: dauður faðir talar við son sinn um heiminn, dauðann og sýnir af lífinu eftir dauðann — kristið kvæði undir eddukvæðahætti, frá 13. öld."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  },
+  "fsl": {
+   "headnote": {
+    "en": "\"Óðinn's raven-charm\": an obscure poem on omens before the end of the world, probably written in the 17th century.",
+    "is": "„Hrafnagaldur Óðins“: torskilið kvæði um fyrirboða fyrir endalok heimsins, líklega ort á 17. öld."
+   },
+   "status": "draft",
+   "author": {
+    "en": "ai:claude-2026-11",
+    "is": "ai:claude-2026-11"
+   },
+   "date": "2026-11-01"
+  }
+ }
+}
