@@ -261,11 +261,14 @@
    "checked_by": "claude (Commons API metadata check, 2026-10-24); human verification pending",
    "checked_on": "2026-10-24",
    "caption": "Heimdallr on Bifröst, Emil Doepler (c. 1905)",
-   "note": "",
+   "note": "The Commons scan is an L-shaped cut-out with white space; the hosted copy is cropped to its upper band (Heimdallr with the horn, Bifröst and the wall of Ásgarðr; the bound Fenrir below is lost). The full scan is at the source link.",
    "alternatives": [],
    "placed": true,
    "kind": "depiction",
-   "file": "g-c13.jpg"
+   "file": "g-c13.jpg",
+   "file_width": 1280,
+   "file_height": 648,
+   "file_note": "cropped from the Commons file on 2026-11-01 (top band, 0–648 of 1781 px at 1280 px wide)"
   },
   {
    "id": "g-c15",
@@ -596,11 +599,14 @@
    "checked_by": "claude (Commons API metadata check, 2026-10-24); human verification pending",
    "checked_on": "2026-10-24",
    "caption": "Thor wrestling Elli, Lorenz Frølich (1872)",
-   "note": "",
+   "note": "The Commons photograph of the reprint is a cross-shaped cut-out with white corners; the hosted copy is cropped to its central column (both wrestlers; Elli's trailing foot and the onlookers at the edges are lost). The full scan is at the source link.",
    "alternatives": [],
    "placed": true,
    "kind": "depiction",
-   "file": "g-c46.jpg"
+   "file": "g-c46.jpg",
+   "file_width": 712,
+   "file_height": 1042,
+   "file_note": "cropped from the Commons file on 2026-11-01 (central column, x 280–992 of 1280 px)"
   },
   {
    "id": "g-c48",

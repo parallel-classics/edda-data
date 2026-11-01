@@ -68,13 +68,17 @@ Optional keys (validated when present):
 | `license` | the licence label at the source (`"Public domain"`, `"CC0"`) |
 | `scene_rows` | row ids the image depicts, e.g. `["g-c1-1", "g-c1-2"]`; each must exist |
 | `file` | file name in `images/pd/` when a copy is hosted here (must exist); the build looks for `<id>.jpg` there by default |
+| `file_width`, `file_height` | pixel size of the hosted copy when it differs from the file at `file_url` (a crop); the build uses them for the hosted copy. Say what was cropped in `file_note` and `note` |
+| `file_note` | how the hosted copy was derived from the source file (crop, date) |
 | `note` | free text shown under the credit (e.g. what the picture shows that the text does not) |
 | `alternatives` | list of other candidate records seen (same keys, unverified) |
 
 The validator checks: unique `id`, known `part`, existing `chapter`, existing `scene_rows`, core keys
 present, `file` present in `images/pd/` when set, and that every `unfilled` slot is an existing chapter.
 The build (`edda-site/pipeline/build2.py --records images/records.json --images local|embed|commons`) uses
-`id`, `file_url`, `width`, `height`, `source_url`, `title`, `caption`, `note`.
+`id`, `file_url`, `width`, `height` (`file_width`, `file_height` for a hosted copy), `source_url`, `title`, `caption`,
+`note`, `license`, `license_url`, `license_basis`, `checked_by` (a pending human check is shown as such) and
+`alternatives` (listed as links under the image).
 
 ## pd/
 

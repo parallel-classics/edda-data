@@ -220,6 +220,11 @@ def check_images(rows, chapters):
                     err(f"{where}: scene row {rid} does not exist")
             if rec.get("file") and not os.path.exists(os.path.join(ROOT, "images", "pd", rec["file"])):
                 err(f"{where}: file images/pd/{rec['file']} not found")
+            for key in ("width", "height", "file_width", "file_height"):
+                if key in rec and not (isinstance(rec[key], int) and rec[key] > 0):
+                    err(f"{where}: {key} must be a positive integer")
+            if ("file_width" in rec) != ("file_height" in rec):
+                err(f"{where}: file_width and file_height go together")
         n = len(recs)
         # density rule (images/README.md): one depiction slot per chapter, at most three documentary images per
         # chapter, about one placed image per twenty rows per part. Warnings only.
