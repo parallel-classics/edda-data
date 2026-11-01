@@ -3898,6 +3898,62 @@
    "notes": []
   },
   {
+   "id": "hel",
+   "tags": [
+    "place_myth",
+    "goddess"
+   ],
+   "type": "place_myth",
+   "wikidata": "Q131287",
+   "names": {
+    "on": "Hel",
+    "en": "Hel",
+    "is": "Hel"
+   },
+   "desc": {
+    "en": "the realm of the dead under the third root of the ash, and its ruler, Loki's daughter"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Heljar",
+     "Hel",
+     "Helju"
+    ],
+    "is": [
+     "Heljar",
+     "Helju",
+     "Hel"
+    ],
+    "en": [
+     "Hel",
+     "Hel's"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c3-6",
+    "poetic": "vsp-s43"
+   },
+   "first_any": {
+    "snorri": "g-c3-6",
+    "poetic": "vsp-s43"
+   },
+   "mentions": 20,
+   "narrative": 19,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added for the map of the worlds (task 20b)",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "idunn",
    "tags": [
     "goddess"
@@ -26670,6 +26726,54 @@
    "notes": []
   },
   {
+   "id": "andlangr",
+   "tags": [
+    "place_myth"
+   ],
+   "type": "place_myth",
+   "wikidata": null,
+   "names": {
+    "on": "Andlangr",
+    "en": "Andlang",
+    "is": "Andlangur"
+   },
+   "desc": {
+    "en": "the second heaven, south of and above this one (Gylfaginning 17)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Andlangr"
+    ],
+    "is": [
+     "Andlangur"
+    ],
+    "en": [
+     "Andlangr"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c17-5"
+   },
+   "first_any": {
+    "snorri": "g-c17-5"
+   },
+   "mentions": 1,
+   "narrative": 1,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added for the map of the worlds (task 20b)",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "angrboda",
    "tags": [
     "giant"
@@ -28854,6 +28958,54 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "vidblainn",
+   "tags": [
+    "place_myth"
+   ],
+   "type": "place_myth",
+   "wikidata": null,
+   "names": {
+    "on": "Víðbláinn",
+    "en": "Vidblain",
+    "is": "Víðbláinn"
+   },
+   "desc": {
+    "en": "the third heaven, above Andlangr, where Gimlé stands (Gylfaginning 17)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Víðbláinn"
+    ],
+    "is": [
+     "Víðbláinn"
+    ],
+    "en": [
+     "Vídbláinn"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c17-5"
+   },
+   "first_any": {
+    "snorri": "g-c17-5"
+   },
+   "mentions": 1,
+   "narrative": 1,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added for the map of the worlds (task 20b)",
+    "added by rules.json"
+   ]
   },
   {
    "id": "vindsval",

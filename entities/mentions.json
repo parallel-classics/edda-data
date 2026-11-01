@@ -2053,6 +2053,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c3-6",
+   "lang": "on",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "niflhel",
    "row": "g-c3-6",
    "lang": "on",
@@ -2077,6 +2085,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c3-6",
+   "lang": "is",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "niflhel",
    "row": "g-c3-6",
    "lang": "is",
@@ -2089,6 +2105,22 @@
    "row": "g-c3-6",
    "lang": "en",
    "form": "Gimlé",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "g-c3-6",
+   "lang": "en",
+   "form": "Hel",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "g-c3-6",
+   "lang": "en",
+   "form": "Hel",
    "kind": "name",
    "status": "auto"
   },
@@ -7573,6 +7605,22 @@
    "status": "auto"
   },
   {
+   "entity": "andlangr",
+   "row": "g-c17-5",
+   "lang": "on",
+   "form": "Andlangr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vidblainn",
+   "row": "g-c17-5",
+   "lang": "on",
+   "form": "Víðbláinn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ljosalfar",
    "row": "g-c17-5",
    "lang": "on",
@@ -7589,6 +7637,22 @@
    "status": "auto"
   },
   {
+   "entity": "andlangr",
+   "row": "g-c17-5",
+   "lang": "is",
+   "form": "Andlangur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vidblainn",
+   "row": "g-c17-5",
+   "lang": "is",
+   "form": "Víðbláinn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ljosalfar",
    "row": "g-c17-5",
    "lang": "is",
@@ -7601,6 +7665,22 @@
    "row": "g-c17-5",
    "lang": "en",
    "form": "Hárr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "andlangr",
+   "row": "g-c17-5",
+   "lang": "en",
+   "form": "Andlangr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vidblainn",
+   "row": "g-c17-5",
+   "lang": "en",
+   "form": "Vídbláinn",
    "kind": "name",
    "status": "auto"
   },
@@ -11291,6 +11371,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c34-1",
+   "lang": "on",
+   "form": "Hel",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "jotunheim",
    "row": "g-c34-1",
    "lang": "on",
@@ -11355,6 +11443,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c34-1",
+   "lang": "is",
+   "form": "Hel",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "jotunheim",
    "row": "g-c34-1",
    "lang": "is",
@@ -11407,6 +11503,14 @@
    "row": "g-c34-1",
    "lang": "en",
    "form": "Jörmungandr--that",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "g-c34-1",
+   "lang": "en",
+   "form": "Hel",
    "kind": "name",
    "status": "auto"
   },
@@ -21395,6 +21499,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c49-14",
+   "lang": "on",
+   "form": "Helju",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "baldur",
    "row": "g-c49-14",
    "lang": "on",
@@ -21467,6 +21579,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c49-14",
+   "lang": "is",
+   "form": "Helju",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "baldur",
    "row": "g-c49-14",
    "lang": "is",
@@ -21531,10 +21651,26 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c49-14",
+   "lang": "en",
+   "form": "Hel",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "baldur",
    "row": "g-c49-14",
    "lang": "en",
    "form": "Baldr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "g-c49-14",
+   "lang": "en",
+   "form": "Hel",
    "kind": "name",
    "status": "auto"
   },
@@ -22205,6 +22341,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c49-18",
+   "lang": "on",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "baldur",
    "row": "g-c49-18",
    "lang": "on",
@@ -22301,6 +22445,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c49-20",
+   "lang": "on",
+   "form": "Helju",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "baldur",
    "row": "g-c49-20",
    "lang": "on",
@@ -22349,6 +22501,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c49-20",
+   "lang": "is",
+   "form": "Helju",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "baldur",
    "row": "g-c49-20",
    "lang": "is",
@@ -22397,10 +22557,26 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c49-20",
+   "lang": "en",
+   "form": "Hel",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "baldur",
    "row": "g-c49-20",
    "lang": "en",
    "form": "Baldr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "g-c49-21",
+   "lang": "on",
+   "form": "Hel",
    "kind": "name",
    "status": "auto"
   },
@@ -22413,6 +22589,22 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c49-21",
+   "lang": "on",
+   "form": "Helju",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "g-c49-21",
+   "lang": "is",
+   "form": "Hel",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "baldur",
    "row": "g-c49-21",
    "lang": "is",
@@ -22421,10 +22613,34 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c49-21",
+   "lang": "is",
+   "form": "Helju",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "g-c49-21",
+   "lang": "en",
+   "form": "Hel",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "baldur",
    "row": "g-c49-21",
    "lang": "en",
    "form": "Baldr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "g-c49-21",
+   "lang": "en",
+   "form": "Hel",
    "kind": "name",
    "status": "auto"
   },
@@ -22661,6 +22877,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c49-23",
+   "lang": "on",
+   "form": "Helju",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thokk",
    "row": "g-c49-23",
    "lang": "is",
@@ -22673,6 +22897,14 @@
    "row": "g-c49-23",
    "lang": "is",
    "form": "Baldur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "g-c49-23",
+   "lang": "is",
+   "form": "Helju",
    "kind": "name",
    "status": "auto"
   },
@@ -22693,6 +22925,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c49-23",
+   "lang": "en",
+   "form": "Hel",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thokk",
    "row": "g-c49-24",
    "lang": "on",
@@ -22705,6 +22945,14 @@
    "row": "g-c49-24",
    "lang": "on",
    "form": "Baldrs",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "g-c49-24",
+   "lang": "on",
+   "form": "Hel",
    "kind": "name",
    "status": "auto"
   },
@@ -22725,6 +22973,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c49-24",
+   "lang": "is",
+   "form": "Hel",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thokk",
    "row": "g-c49-24",
    "lang": "en",
@@ -22737,6 +22993,14 @@
    "row": "g-c49-24",
    "lang": "en",
    "form": "Baldr's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "g-c49-24",
+   "lang": "en",
+   "form": "Hel",
    "kind": "name",
    "status": "auto"
   },
@@ -25328,6 +25592,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c53-2",
+   "lang": "on",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "jormungandr",
    "row": "g-c53-2",
    "lang": "on",
@@ -25424,6 +25696,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "g-c53-2",
+   "lang": "is",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "jormungandr",
    "row": "g-c53-2",
    "lang": "is",
@@ -25500,6 +25780,14 @@
    "row": "g-c53-2",
    "lang": "en",
    "form": "Hödr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "g-c53-2",
+   "lang": "en",
+   "form": "Hel",
    "kind": "name",
    "status": "auto"
   },
@@ -32723,6 +33011,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "s-c12-1",
+   "lang": "on",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ulfr-uggason",
    "row": "s-c12-1",
    "lang": "on",
@@ -32827,6 +33123,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "s-c12-1",
+   "lang": "is",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ulfr-uggason",
    "row": "s-c12-1",
    "lang": "is",
@@ -32927,6 +33231,14 @@
    "row": "s-c12-1",
    "lang": "en",
    "form": "Hödr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "s-c12-1",
+   "lang": "en",
+   "form": "Hel",
    "kind": "name",
    "status": "auto"
   },
@@ -34417,6 +34729,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "s-c20-1",
+   "lang": "on",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "vali-2",
    "row": "s-c20-1",
    "lang": "on",
@@ -34449,6 +34769,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "s-c20-1",
+   "lang": "is",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "vali-2",
    "row": "s-c20-1",
    "lang": "is",
@@ -34477,6 +34805,14 @@
    "row": "s-c20-1",
    "lang": "en",
    "form": "Odin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "s-c20-1",
+   "lang": "en",
+   "form": "Hel",
    "kind": "name",
    "status": "auto"
   },
@@ -34653,6 +34989,14 @@
    "row": "s-c23-1",
    "lang": "on",
    "form": "Miðgarðsormr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "s-c23-1",
+   "lang": "on",
+   "form": "Heljar",
    "kind": "name",
    "status": "auto"
   },
@@ -34834,6 +35178,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "s-c23-1",
+   "lang": "is",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "nari",
    "row": "s-c23-1",
    "lang": "is",
@@ -34982,6 +35334,14 @@
    "row": "s-c23-1",
    "lang": "en",
    "form": "Fenris-Wolf",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "s-c23-1",
+   "lang": "en",
+   "form": "Hel",
    "kind": "name",
    "status": "auto"
   },
@@ -67332,6 +67692,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "vsp-s43",
+   "lang": "on",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "vsp-s43",
    "lang": "is",
@@ -67340,10 +67708,26 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "vsp-s43",
+   "lang": "is",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "vsp-s43",
    "lang": "en",
    "form": "Othin's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "vsp-s43",
+   "lang": "en",
+   "form": "Hel",
    "kind": "name",
    "status": "auto"
   },
@@ -73857,6 +74241,15 @@
    "list": true
   },
   {
+   "entity": "hel",
+   "row": "grm-s28",
+   "lang": "on",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "vegsvinn",
    "row": "grm-s28",
    "lang": "is",
@@ -73893,6 +74286,15 @@
    "list": true
   },
   {
+   "entity": "hel",
+   "row": "grm-s28",
+   "lang": "is",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "vegsvinn",
    "row": "grm-s28",
    "lang": "en",
@@ -73924,6 +74326,15 @@
    "row": "grm-s28",
    "lang": "en",
    "form": "Gjol",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "hel",
+   "row": "grm-s28",
+   "lang": "en",
+   "form": "Hel",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -92096,6 +92507,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "fjm-s25",
+   "lang": "on",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fjolsvidr",
    "row": "fjm-s25",
    "lang": "is",
@@ -92104,10 +92523,26 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "fjm-s25",
+   "lang": "is",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fjolsvidr",
    "row": "fjm-s25",
    "lang": "en",
    "form": "Fjolsvith",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "fjm-s25",
+   "lang": "en",
+   "form": "Hel",
    "kind": "name",
    "status": "auto"
   },
@@ -124693,6 +125128,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "am-s55",
+   "lang": "on",
+   "form": "Hel",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "budli",
    "row": "am-s55",
    "lang": "is",
@@ -124701,10 +125144,26 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "am-s55",
+   "lang": "is",
+   "form": "Hel",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "budli",
    "row": "am-s55",
    "lang": "en",
    "form": "Buthli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "am-s55",
+   "lang": "en",
+   "form": "Hel",
    "kind": "name",
    "status": "auto"
   },
@@ -136183,10 +136642,26 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "ebr-p5",
+   "lang": "on",
+   "form": "Helju",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "baldur",
    "row": "ebr-p5",
    "lang": "is",
    "form": "Baldur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "ebr-p5",
+   "lang": "is",
+   "form": "Helju",
    "kind": "name",
    "status": "auto"
   },
@@ -136203,6 +136678,14 @@
    "row": "ebr-p5",
    "lang": "is",
    "form": "Baldur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "ebr-p5",
+   "lang": "is",
+   "form": "Helju",
    "kind": "name",
    "status": "auto"
   },
@@ -136223,6 +136706,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "ebr-v5",
+   "lang": "on",
+   "form": "Hel",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thokk",
    "row": "ebr-v5",
    "lang": "is",
@@ -136239,6 +136730,14 @@
    "status": "auto"
   },
   {
+   "entity": "hel",
+   "row": "ebr-v5",
+   "lang": "is",
+   "form": "Hel",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thokk",
    "row": "ebr-v5",
    "lang": "en",
@@ -136251,6 +136750,14 @@
    "row": "ebr-v5",
    "lang": "en",
    "form": "Baldr's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "ebr-v5",
+   "lang": "en",
+   "form": "Hel",
    "kind": "name",
    "status": "auto"
   },
@@ -138256,6 +138763,30 @@
    "row": "sol-s20",
    "lang": "en",
    "form": "Sörli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "sol-s39",
+   "lang": "on",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "sol-s39",
+   "lang": "is",
+   "form": "Heljar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hel",
+   "row": "sol-s39",
+   "lang": "en",
+   "form": "Hel's",
    "kind": "name",
    "status": "auto"
   },

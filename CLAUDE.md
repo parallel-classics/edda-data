@@ -34,7 +34,7 @@ aligned/poetic/       al_<poem>.json (45 poems; rows carry id, stanza, en_stanza
 aligned/titles.json   chapter and poem titles per language (on, is, en, …) with a status per language
 auto/                 modernizer.json, is_*_auto.json, en_draft.json (AI draft as produced)
 overlays/{on,is,en}/  {"_note": ..., "records": [ {row, cell, text, status, author, date, reason, replaces} ]}
-images/               scenes.json (briefs), records.json (verified PD images), pd/ (image files)
+images/               scenes.json (briefs), records.json (verified PD images), pd/ (image files), worlds/ (the map of the worlds)
 entities/             the names of the Eddas keyed to Wikidata (entities/README.md); paths/  reading paths of the Start here page
 scripts/validate.py   structural checks + status table;  scripts/drafts_to_overlays.py  auto/en_draft.json -> overlays/en/
 docs/DATA_MODEL.md    ids, rows, overlays, statuses, how the build applies overlays

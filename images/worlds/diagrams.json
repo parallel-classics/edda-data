@@ -1,0 +1,110 @@
+{
+ "_note": "Historic diagrams of the Norse cosmos for the map of the worlds (task 20a). Hand keys: slug, commons_file, title, artist, date, caption, note. `check` is written by edda-site/pipeline/make_worlds.py diagrams from the Commons API (licence, author, size, URLs; ok only for PD / CC0 / CC BY / CC BY-SA) together with the 1000 px copy in diagrams/. Manly P. Hall's 'Norse Nine Worlds' (1928) is deliberately absent: PD in the US only.",
+ "diagrams": [
+  {
+   "slug": "wheaton-1844",
+   "commons_file": "WHEATON(1844) The Cosmos in the Norse mythology.jpg",
+   "title": "The Cosmos in the Norse mythology",
+   "artist": "Henry Wheaton, History of the Northmen",
+   "date": "1844",
+   "caption": {
+    "en": "The Cosmos in the Norse mythology, from Henry Wheaton, History of the Northmen (1844). British Library scan.",
+    "is": "Heimsmynd norrænnar goðafræði, úr Henry Wheaton, History of the Northmen (1844). Skönnun British Library."
+   },
+   "note": {
+    "en": "A labelled globe: Muspellheim at the zenith, Ljósálfaheimr, Ásgarðr with Glasir, Iðavöllr and Himinbjörg, Vanaheimr, Miðgarðr with the world-sea and Útgarðr, Jötunheimr, Helheimr, Niflheimr with Náströnd and Hvergelmir at the nadir.",
+    "is": "Hnöttur með merkingum: Múspellsheimur efst, Ljósálfaheimur, Ásgarður með Glasi, Iðavelli og Himinbjörgum, Vanaheimur, Miðgarður með úthafinu og Útgarði, Jötunheimur, Helheimur, Niflheimur með Náströnd og Hvergelmi neðst."
+   },
+   "check": {
+    "ok": true,
+    "licence": "Public domain",
+    "licence_url": null,
+    "artist": "",
+    "credit": "This file is from the Mechanical Curator collection, a set of over 1 million images scanned from out-of-copyright books and released to Flickr Commons by the British Library in London, England. View i",
+    "date": "1844date QS:P571,+1844-00-00T00:00:00Z/9",
+    "description": "",
+    "width": 946,
+    "height": 955,
+    "page": "https://commons.wikimedia.org/wiki/File:WHEATON(1844)_The_Cosmos_in_the_Norse_mythology.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e6/WHEATON%281844%29_The_Cosmos_in_the_Norse_mythology.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "checked_by": "bot:make_worlds (Commons API extmetadata); human check pending",
+    "checked_on": "2026-11-01"
+   },
+   "file": "diagrams/wheaton-1844.jpg",
+   "file_size": [
+    946,
+    955
+   ]
+  },
+  {
+   "slug": "bagge-1847",
+   "commons_file": "Oluf Olufsen Bagge - Yggdrasil, The Mundane Tree 1847 - full page.jpg",
+   "title": "Yggdrasil, The Mundane Tree",
+   "artist": "Oluf Olufsen Bagge",
+   "date": "1847",
+   "caption": {
+    "en": "Yggdrasil, The Mundane Tree, Oluf Olufsen Bagge, 1847 (from the English Prose Edda of 1847).",
+    "is": "Yggdrasil, The Mundane Tree, Oluf Olufsen Bagge, 1847 (úr ensku Snorra-Eddu 1847)."
+   },
+   "note": {
+    "en": "The worlds arranged around the tree: the eagle at the top, the three roots with their wells, Níðhöggr below.",
+    "is": "Heimarnir raðaðir kringum tréð: örninn efst, ræturnar þrjár með brunnum sínum, Níðhöggur neðst."
+   },
+   "check": {
+    "ok": true,
+    "licence": "Public domain",
+    "licence_url": null,
+    "artist": "Oluf Bagge",
+    "credit": "the-public-domain-review.imgix.net oct_19_new_prints_00008.jpg",
+    "date": "1847",
+    "description": "Oluf Olufsen Bagge - Yggdrasil, The Mundane Tree 1847 - full page. English translation of the Prose Edda from 1847, by Oluf Olufsen Bagge. Text below the image: \"Baxter...ton Square\". Full text (see other version or the-public-domain-review.imgix.net): \"Baxters Patent Oil Printing 11 Northampton squ",
+    "width": 857,
+    "height": 1200,
+    "page": "https://commons.wikimedia.org/wiki/File:Oluf_Olufsen_Bagge_-_Yggdrasil,_The_Mundane_Tree_1847_-_full_page.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Oluf_Olufsen_Bagge_-_Yggdrasil%2C_The_Mundane_Tree_1847_-_full_page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "checked_by": "bot:make_worlds (Commons API extmetadata); human check pending",
+    "checked_on": "2026-11-01"
+   },
+   "file": "diagrams/bagge-1847.jpg",
+   "file_size": [
+    857,
+    1200
+   ]
+  },
+  {
+   "slug": "skalholt-1590",
+   "commons_file": "Skálholt Map.jpg",
+   "title": "The Skálholt map",
+   "artist": "Sigurður Stefánsson (copy by Þórður Þorláksson)",
+   "date": "c. 1590, copy 1690",
+   "caption": {
+    "en": "The Skálholt map, drawn c. 1590 by Sigurður Stefánsson, in the 1690 copy by Þórður Þorláksson (Royal Danish Library).",
+    "is": "Skálholtskortið, teiknað um 1590 af Sigurði Stefánssyni, í eftirriti Þórðar Þorlákssonar frá 1690 (Konunglega bókhlaðan í Kaupmannahöfn)."
+   },
+   "note": {
+    "en": "Real geography as the North saw it: Greenland, Helluland, Markland, Skrælingaland and Vínland in the west, Risaland (land of giants) and Jötunheimar in the far north.",
+    "is": "Raunveruleg landafræði eins og norrænir menn sáu hana: Grænland, Helluland, Markland, Skrælingaland og Vínland í vestri, Risaland og Jötunheimar lengst í norðri."
+   },
+   "check": {
+    "ok": true,
+    "licence": "Public domain",
+    "licence_url": null,
+    "artist": "Sigurd Stefánsson (original), Biørn Jonsen (this copy)",
+    "credit": "http://strangemaps.wordpress.com/2010/01/17/433-plotting-vineland-the-skalholt-map/",
+    "date": "1570",
+    "description": "Map depicting the Atlantic Ocean, from Norse mythology sources.",
+    "width": 830,
+    "height": 1023,
+    "page": "https://commons.wikimedia.org/wiki/File:Sk%C3%A1lholt_Map.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Sk%C3%A1lholt_Map.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "checked_by": "bot:make_worlds (Commons API extmetadata); human check pending",
+    "checked_on": "2026-11-01"
+   },
+   "file": "diagrams/skalholt-1590.jpg",
+   "file_size": [
+    830,
+    1023
+   ]
+  }
+ ]
+}

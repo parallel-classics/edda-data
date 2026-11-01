@@ -377,6 +377,69 @@ SEED_TYPES = ("god", "goddess", "giant", "dwarf", "elf", "valkyrie", "human", "c
 OK_LICENCE = re.compile(r"^(public domain|pd\b|cc0|cc by(-sa)?(\s|$))", re.I)
 
 
+def check_worlds(rows):
+    """images/worlds/ (task 20): realms.json ids are entities, anchors are keys of the anchors file or in-picture
+    coordinates, cited rows exist; diagrams.json files exist and passed the licence check; bg/index.json files exist."""
+    wd = os.path.join(ROOT, "images", "worlds")
+    if not os.path.isdir(wd):
+        return
+    ents = set()
+    ep = os.path.join(ROOT, "entities", "entities.json")
+    if os.path.exists(ep):
+        e = load(ep).get("entities", {})
+        ents = set(e) if isinstance(e, dict) else {x["id"] for x in e}
+    rp = os.path.join(wd, "realms.json")
+    if os.path.exists(rp):
+        doc = load(rp)
+        anchors, size = {}, [1, 1]
+        ap = os.path.join(wd, "anchors-v2.json")
+        if os.path.exists(ap):
+            a = load(ap)
+            anchors, size = a.get("anchors", {}), a.get("size", [1, 1])
+        groups = {g["id"] for g in doc.get("groups", [])}
+        seen = set()
+        for r in doc.get("realms", []):
+            rid = r.get("id") or ""
+            where = f"images/worlds/realms.json#{rid}"
+            if rid in seen:
+                err(f"{where}: repeated")
+            seen.add(rid)
+            if ents and rid not in ents:
+                err(f"{where}: not an entity")
+            a = r.get("anchor")
+            if isinstance(a, str) and a not in anchors:
+                err(f"{where}: anchor {a!r} is not in anchors-v2.json")
+            elif isinstance(a, list) and not (len(a) == 2 and 0 <= a[0] <= size[0] and 0 <= a[1] <= size[1]):
+                err(f"{where}: anchor {a!r} is outside the picture")
+            if r.get("group") and r["group"] not in groups:
+                err(f"{where}: unknown group {r['group']!r}")
+            if not (r.get("desc") or {}).get("en"):
+                err(f"{where}: no English description")
+            for c in r.get("cites", []):
+                if c.get("row") not in rows:
+                    err(f"{where}: cited row {c.get('row')!r} does not exist")
+    dp = os.path.join(wd, "diagrams.json")
+    if os.path.exists(dp):
+        for d in load(dp).get("diagrams", []):
+            where = f"images/worlds/diagrams.json#{d.get('slug')}"
+            c = d.get("check") or {}
+            if d.get("file"):
+                if not c.get("ok"):
+                    err(f"{where}: has a file but the licence check did not pass")
+                if not os.path.exists(os.path.join(wd, d["file"])):
+                    err(f"{where}: file {d['file']!r} missing")
+            if not (d.get("caption") or {}).get("en"):
+                err(f"{where}: no English caption")
+    bp = os.path.join(wd, "bg", "index.json")
+    if os.path.exists(bp):
+        b = load(bp)
+        if not b.get("ai_generated"):
+            err("images/worlds/bg/index.json: ai_generated must be true (the background is AI-generated)")
+        for name in b.get("files", {}):
+            if not os.path.exists(os.path.join(wd, "bg", name)):
+                err(f"images/worlds/bg/{name}: missing")
+
+
 def check_paths(rows):
     """paths/paths.json (task 19a): unique ids, every step a chapter, chapter range, poem or row that exists."""
     p = os.path.join(ROOT, "paths", "paths.json")
@@ -610,6 +673,7 @@ def main():
     n_links = check_links(rows, chapters)
     n_ent, n_men = check_entities(rows)
     check_paths(rows)
+    check_worlds(rows)
     print(f"aligned rows: {len(rows)} in {len(chapters)} parts; overlay files: {n_overlay_files}, "
           f"overlay cells: {len(effective)}; image records: {n_images}; quotation links: {n_links}; "
           f"entities: {n_ent}, mentions: {n_men}\n")

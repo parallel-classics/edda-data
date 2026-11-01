@@ -12,5 +12,14 @@ per image version). v2 (same day) supersedes v1: Gimlé is a gold-roofed hall (G
 a hall woven of serpents (Völuspá 38); v1 is kept only in the git history. Features not in the picture (Ginnungagap,
 Gjallarbrú, Élivágar, Veðrfölnir) are label-only or go in the note.
 
-The build serves resized copies (1600 / 1000 / 600 px, WebP with JPEG fallback) and never the original to phones;
-the page must work without the picture (plain SVG on parchment colour). Spec: `edda-site/docs/specs/WORLD_MAP.md`.
+`bg/` holds the resized copies (1600 / 1000 / 600 px, WebP and JPEG, `bg/index.json`), written by
+`edda-site/pipeline/make_worlds.py background`; the website serves those, never the original, and works without the
+picture (a schematic SVG on parchment colour). Spec: `edda-site/docs/specs/WORLD_MAP.md`.
+
+`realms.json` (by hand, 2026-11-01, for the curator to review): the placements — one entry per realm or feature with
+the entity id, the anchor, our short description (EN by the editor, IS a draft), and the rows that place it, with
+notes on variants. Labels are the entities' Old Norse names; `label` pins the nominative where needed.
+
+`diagrams.json` + `diagrams/`: the historic diagrams (Wheaton 1844, Bagge 1847, the Skálholt map), hand keys plus the
+Commons licence record from `make_worlds.py diagrams`, which also stores the 1000 px copies. All three are public
+domain. The validator checks all three files (`scripts/validate.py`).
