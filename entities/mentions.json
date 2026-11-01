@@ -4117,10 +4117,34 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "on",
+   "form": "Mána",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sol",
+   "row": "g-c11-2",
+   "lang": "on",
+   "form": "Sól",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "glenr",
    "row": "g-c11-2",
    "lang": "on",
    "form": "Glenr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sol",
+   "row": "g-c11-2",
+   "lang": "on",
+   "form": "Sól",
    "kind": "name",
    "status": "auto"
   },
@@ -4157,6 +4181,14 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "on",
+   "form": "Mána",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c11-2",
    "lang": "is",
@@ -4173,10 +4205,34 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "is",
+   "form": "Mána",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sol",
+   "row": "g-c11-2",
+   "lang": "is",
+   "form": "Sól",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "glenr",
    "row": "g-c11-2",
    "lang": "is",
    "form": "Glenur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sol",
+   "row": "g-c11-2",
+   "lang": "is",
+   "form": "Sól",
    "kind": "name",
    "status": "auto"
   },
@@ -4197,6 +4253,14 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "is",
+   "form": "Máni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "bil",
    "row": "g-c11-2",
    "lang": "is",
@@ -4209,6 +4273,14 @@
    "row": "g-c11-2",
    "lang": "is",
    "form": "Hjúki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "is",
+   "form": "Mána",
    "kind": "name",
    "status": "auto"
   },
@@ -4349,6 +4421,14 @@
    "status": "auto"
   },
   {
+   "entity": "hati",
+   "row": "g-c12-4",
+   "lang": "on",
+   "form": "Hati",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c12-4",
    "lang": "is",
@@ -4365,6 +4445,14 @@
    "status": "auto"
   },
   {
+   "entity": "hati",
+   "row": "g-c12-4",
+   "lang": "is",
+   "form": "Hati",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c12-4",
    "lang": "en",
@@ -4377,6 +4465,14 @@
    "row": "g-c12-4",
    "lang": "en",
    "form": "Skoll",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hati",
+   "row": "g-c12-4",
+   "lang": "en",
+   "form": "Hati",
    "kind": "name",
    "status": "auto"
   },
@@ -8952,6 +9048,14 @@
    "status": "auto"
   },
   {
+   "entity": "tanngnjostr",
+   "row": "g-c21-4",
+   "lang": "on",
+   "form": "Tanngnjóstr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "tanngrisnir",
    "row": "g-c21-4",
    "lang": "on",
@@ -8980,6 +9084,14 @@
    "row": "g-c21-4",
    "lang": "is",
    "form": "Þór",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "tanngnjostr",
+   "row": "g-c21-4",
+   "lang": "is",
+   "form": "Tanngnjóstur",
    "kind": "name",
    "status": "auto"
   },
@@ -14027,6 +14139,14 @@
    "status": "auto"
   },
   {
+   "entity": "huginn",
+   "row": "g-c38-7",
+   "lang": "on",
+   "form": "Huginn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "munin",
    "row": "g-c38-7",
    "lang": "on",
@@ -14035,10 +14155,26 @@
    "status": "auto"
   },
   {
+   "entity": "huginn",
+   "row": "g-c38-7",
+   "lang": "is",
+   "form": "Huginn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "munin",
    "row": "g-c38-7",
    "lang": "is",
    "form": "Muninn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "huginn",
+   "row": "g-c38-7",
+   "lang": "en",
+   "form": "Huginn",
    "kind": "name",
    "status": "auto"
   },
@@ -14051,10 +14187,26 @@
    "status": "auto"
   },
   {
+   "entity": "huginn",
+   "row": "g-c38-8",
+   "lang": "on",
+   "form": "Huginn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "munin",
    "row": "g-c38-8",
    "lang": "on",
    "form": "Muninn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "huginn",
+   "row": "g-c38-8",
+   "lang": "on",
+   "form": "Hugin",
    "kind": "name",
    "status": "auto"
   },
@@ -14067,6 +14219,14 @@
    "status": "auto"
   },
   {
+   "entity": "huginn",
+   "row": "g-c38-8",
+   "lang": "is",
+   "form": "Huginn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "munin",
    "row": "g-c38-8",
    "lang": "is",
@@ -14075,10 +14235,26 @@
    "status": "auto"
   },
   {
+   "entity": "huginn",
+   "row": "g-c38-8",
+   "lang": "is",
+   "form": "Hugin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "munin",
    "row": "g-c38-8",
    "lang": "is",
    "form": "Munin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "huginn",
+   "row": "g-c38-8",
+   "lang": "en",
+   "form": "Huginn",
    "kind": "name",
    "status": "auto"
   },
@@ -14087,6 +14263,14 @@
    "row": "g-c38-8",
    "lang": "en",
    "form": "Muninn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "huginn",
+   "row": "g-c38-8",
+   "lang": "en",
+   "form": "Huginn",
    "kind": "name",
    "status": "auto"
   },
@@ -40591,6 +40775,14 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "s-c34-1",
+   "lang": "on",
+   "form": "Mána",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "glenr",
    "row": "s-c34-1",
    "lang": "on",
@@ -40619,6 +40811,14 @@
    "row": "s-c34-1",
    "lang": "is",
    "form": "Mundilfara",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "s-c34-1",
+   "lang": "is",
+   "form": "Mána",
    "kind": "name",
    "status": "auto"
   },
@@ -40687,6 +40887,14 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "s-c34-2",
+   "lang": "on",
+   "form": "Mána",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "glenr",
    "row": "s-c34-2",
    "lang": "is",
@@ -40695,10 +40903,26 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "s-c34-2",
+   "lang": "is",
+   "form": "Mána",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "glenr",
    "row": "s-c34-2",
    "lang": "en",
    "form": "Glenr's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "s-c34-2",
+   "lang": "en",
+   "form": "Máni",
    "kind": "name",
    "status": "auto"
   },
@@ -55364,6 +55588,30 @@
    "check": true
   },
   {
+   "entity": "mani",
+   "row": "s-c64-15",
+   "lang": "on",
+   "form": "Máni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "s-c64-15",
+   "lang": "is",
+   "form": "Máni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "s-c64-15",
+   "lang": "en",
+   "form": "Máni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "refr",
    "row": "s-c64-17",
    "lang": "on",
@@ -59491,6 +59739,15 @@
    "list": true
   },
   {
+   "entity": "huginn",
+   "row": "s-c75-3",
+   "lang": "on",
+   "form": "Huginn",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "munin",
    "row": "s-c75-3",
    "lang": "on",
@@ -59504,6 +59761,15 @@
    "row": "s-c75-3",
    "lang": "on",
    "form": "Einarr",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "huginn",
+   "row": "s-c75-3",
+   "lang": "is",
+   "form": "Huginn",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -59527,6 +59793,15 @@
    "list": true
   },
   {
+   "entity": "huginn",
+   "row": "s-c75-3",
+   "lang": "en",
+   "form": "Huginn",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "munin",
    "row": "s-c75-3",
    "lang": "en",
@@ -59594,6 +59869,33 @@
    "row": "s-c75-5",
    "lang": "en",
    "form": "Skúlason",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "huginn",
+   "row": "s-c75-6",
+   "lang": "on",
+   "form": "Hugins",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "huginn",
+   "row": "s-c75-6",
+   "lang": "is",
+   "form": "Hugins",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "huginn",
+   "row": "s-c75-6",
+   "lang": "en",
+   "form": "Huginn's",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -63644,6 +63946,24 @@
    "row": "s-c85-1",
    "lang": "en",
    "form": "Heimdallr",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "huginn",
+   "row": "s-c86-1",
+   "lang": "on",
+   "form": "Huginn",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "huginn",
+   "row": "s-c86-1",
+   "lang": "is",
+   "form": "Huginn",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -70074,6 +70394,14 @@
    "status": "auto"
   },
   {
+   "entity": "sol",
+   "row": "vm-s23",
+   "lang": "on",
+   "form": "Sólar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "vafthrudnir",
    "row": "vm-s23",
    "lang": "is",
@@ -70086,6 +70414,14 @@
    "row": "vm-s23",
    "lang": "is",
    "form": "Mundilfari",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sol",
+   "row": "vm-s23",
+   "lang": "is",
+   "form": "Sólar",
    "kind": "name",
    "status": "auto"
   },
@@ -73058,10 +73394,26 @@
    "status": "auto"
   },
   {
+   "entity": "huginn",
+   "row": "grm-s20",
+   "lang": "on",
+   "form": "Huginn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "munin",
    "row": "grm-s20",
    "lang": "on",
    "form": "Muninn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "huginn",
+   "row": "grm-s20",
+   "lang": "on",
+   "form": "Hugin",
    "kind": "name",
    "status": "auto"
   },
@@ -73074,6 +73426,14 @@
    "status": "auto"
   },
   {
+   "entity": "huginn",
+   "row": "grm-s20",
+   "lang": "is",
+   "form": "Huginn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "munin",
    "row": "grm-s20",
    "lang": "is",
@@ -73082,10 +73442,26 @@
    "status": "auto"
   },
   {
+   "entity": "huginn",
+   "row": "grm-s20",
+   "lang": "is",
+   "form": "Hugin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "munin",
    "row": "grm-s20",
    "lang": "is",
    "form": "Munin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "huginn",
+   "row": "grm-s20",
+   "lang": "en",
+   "form": "Hugin",
    "kind": "name",
    "status": "auto"
   },
@@ -73094,6 +73470,14 @@
    "row": "grm-s20",
    "lang": "en",
    "form": "Munin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "huginn",
+   "row": "grm-s20",
+   "lang": "en",
+   "form": "Hugin",
    "kind": "name",
    "status": "auto"
   },
@@ -74431,10 +74815,26 @@
    "status": "auto"
   },
   {
+   "entity": "hati",
+   "row": "grm-s39",
+   "lang": "on",
+   "form": "Hati",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fenrir",
    "row": "grm-s39",
    "lang": "on",
    "form": "Hróðvitnis",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hati",
+   "row": "grm-s39",
+   "lang": "is",
+   "form": "Hati",
    "kind": "name",
    "status": "auto"
   },
@@ -74451,6 +74851,14 @@
    "row": "grm-s39",
    "lang": "en",
    "form": "Hrothvitnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hati",
+   "row": "grm-s39",
+   "lang": "en",
+   "form": "Hati",
    "kind": "name",
    "status": "auto"
   },
@@ -95892,6 +96300,14 @@
    "status": "auto"
   },
   {
+   "entity": "hati-giant",
+   "row": "hhv-p5",
+   "lang": "on",
+   "form": "Hata",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "helgi-hjorvardsson",
    "row": "hhv-p5",
    "lang": "on",
@@ -95968,6 +96384,14 @@
    "row": "hhv-p5",
    "lang": "is",
    "form": "Atli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hati-giant",
+   "row": "hhv-p5",
+   "lang": "is",
+   "form": "Hata",
    "kind": "name",
    "status": "auto"
   },
@@ -96052,6 +96476,14 @@
    "status": "auto"
   },
   {
+   "entity": "hati-giant",
+   "row": "hhv-p5",
+   "lang": "en",
+   "form": "Hati",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "helgi-hjorvardsson",
    "row": "hhv-p5",
    "lang": "en",
@@ -96088,6 +96520,14 @@
    "row": "hhv-p5",
    "lang": "en",
    "form": "Hrimgerth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hati-giant",
+   "row": "hhv-p5",
+   "lang": "en",
+   "form": "Hati's",
    "kind": "name",
    "status": "auto"
   },
@@ -96252,6 +96692,14 @@
    "status": "auto"
   },
   {
+   "entity": "hati-giant",
+   "row": "hhv-s17",
+   "lang": "on",
+   "form": "Hati",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "helgi-hjorvardsson",
    "row": "hhv-s17",
    "lang": "on",
@@ -96276,6 +96724,14 @@
    "status": "auto"
   },
   {
+   "entity": "hati-giant",
+   "row": "hhv-s17",
+   "lang": "is",
+   "form": "Hati",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "helgi-hjorvardsson",
    "row": "hhv-s17",
    "lang": "is",
@@ -96296,6 +96752,14 @@
    "row": "hhv-s17",
    "lang": "en",
    "form": "Hrimgerth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hati-giant",
+   "row": "hhv-s17",
+   "lang": "en",
+   "form": "Hati",
    "kind": "name",
    "status": "auto"
   },
@@ -96588,6 +97052,14 @@
    "status": "auto"
   },
   {
+   "entity": "hati-giant",
+   "row": "hhv-s24",
+   "lang": "on",
+   "form": "Hata",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hrimgerdr",
    "row": "hhv-s24",
    "lang": "is",
@@ -96612,6 +97084,14 @@
    "status": "auto"
   },
   {
+   "entity": "hati-giant",
+   "row": "hhv-s24",
+   "lang": "is",
+   "form": "Hata",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hrimgerdr",
    "row": "hhv-s24",
    "lang": "en",
@@ -96632,6 +97112,14 @@
    "row": "hhv-s24",
    "lang": "en",
    "form": "Hrimgerth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hati-giant",
+   "row": "hhv-s24",
+   "lang": "en",
+   "form": "Hati",
    "kind": "name",
    "status": "auto"
   },
@@ -109666,6 +110154,22 @@
    "row": "rm-s20",
    "lang": "en",
    "form": "Hnikar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "rm-s23",
+   "lang": "on",
+   "form": "Mána",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "rm-s23",
+   "lang": "is",
+   "form": "Mána",
    "kind": "name",
    "status": "auto"
   },
@@ -137556,6 +138060,14 @@
    "status": "auto"
   },
   {
+   "entity": "huginn",
+   "row": "ebr-v9",
+   "lang": "on",
+   "form": "Huginn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "munin",
    "row": "ebr-v9",
    "lang": "on",
@@ -137576,6 +138088,14 @@
    "row": "ebr-v9",
    "lang": "is",
    "form": "Hnikars",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "huginn",
+   "row": "ebr-v9",
+   "lang": "is",
+   "form": "Huginn",
    "kind": "name",
    "status": "auto"
   },
@@ -137608,6 +138128,14 @@
    "row": "ebr-v9",
    "lang": "en",
    "form": "Óðinn's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "huginn",
+   "row": "ebr-v9",
+   "lang": "en",
+   "form": "Huginn",
    "kind": "name",
    "status": "auto"
   },

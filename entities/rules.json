@@ -1,5 +1,5 @@
 {
- "_note": "Hand rules for edda-site/pipeline/make_entities.py detect (task 16a). tags: overrides of the tag list per entity (first = main; vocabulary in entities.json `tags`). extra: entities that the ambiguity rules point at and that seed.json does not have (wikidata to be filled by the curator). resolve.entities: per seed entity, a scope (row id, Snorri chapter like s-c62, part letter p/g/s/h, poem prefix like hh2, or *) -> an entity id (relabel), ok (certain), check (uncertain) or, for forms, skip (not a name here); the most specific scope wins; a value {prose: ..., verse: ...} distinguishes prose and verse blocks. resolve.forms: the same per surface form (for a form that several entities share). resolve.near: a byname in the same Old Norse row decides (entity -> {word: entity}). lists: name-list sections (chapter or row scopes) whose mentions are not narrative and never carry a first-appearance card. spellings: translator spellings per entity and language that the spelling-blind comparison misses.",
+ "_note": "Hand rules for edda-site/pipeline/make_entities.py detect (task 16a). tags: overrides of the tag list per entity (first = main; vocabulary in entities.json `tags`). extra: entities that seed.json does not have — targets of the ambiguity rules, and the ones the curator asked for by message (they may carry forms, heiti, image candidates); wikidata to be filled by the curator. resolve.entities: per seed entity, a scope (row id, Snorri chapter like s-c62, part letter p/g/s/h, poem prefix like hh2, or *) -> an entity id (relabel), ok (certain), check (uncertain) or, for forms, skip (not a name here); the most specific scope wins; a value {prose: ..., verse: ...} distinguishes prose and verse blocks. resolve.forms: the same per surface form (for a form that several entities share). resolve.near: a byname in the same Old Norse row decides (entity -> {word: entity}). lists: name-list sections (chapter or row scopes) whose mentions are not narrative and never carry a first-appearance card. spellings: translator spellings per entity and language that the spelling-blind comparison misses.",
  "tags": {
   "brynhild": [
    "valkyrie",
@@ -229,6 +229,9 @@
   "volsung": [
    "king",
    "hero"
+  ],
+  "munin": [
+   "animal"
   ]
  },
  "extra": [
@@ -366,6 +369,144 @@
    "desc": {
     "en": "Icelandic skald of the 11th century (Sexstefja), quoted in Skáldskaparmál"
    }
+  },
+  {
+   "id": "hati",
+   "tags": [
+    "monster",
+    "animal"
+   ],
+   "wikidata": "Q259182",
+   "names": {
+    "on": "Hati Hróðvitnisson",
+    "en": "Hati",
+    "is": "Hati"
+   },
+   "desc": {
+    "en": "wolf that chases the moon (Gylfaginning 12, Grímnismál 39)"
+   },
+   "forms": {
+    "Hati": 1,
+    "Hata": 1
+   },
+   "image": [
+    "The Wolves Pursuing Sol and Mani.jpg"
+   ],
+   "notes": [
+    "asked for by the curator 2026-11-01; the Hati of Helgakviða Hjörvarðssonar is hati-giant"
+   ]
+  },
+  {
+   "id": "hati-giant",
+   "tags": [
+    "giant"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Hati",
+    "en": "Hati (giant)",
+    "is": "Hati jötunn"
+   },
+   "desc": {
+    "en": "giant in Helgakviða Hjörvarðssonar, father of Hrímgerðr, killed by Helgi"
+   },
+   "forms": {},
+   "notes": [
+    "asked for by the curator 2026-11-01"
+   ]
+  },
+  {
+   "id": "huginn",
+   "tags": [
+    "animal"
+   ],
+   "wikidata": "Q207041",
+   "names": {
+    "on": "Huginn",
+    "en": "Huginn",
+    "is": "Huginn"
+   },
+   "desc": {
+    "en": "Óðinn's raven, 'thought', who flies over the world every day (Gylfaginning 38, Grímnismál 20)"
+   },
+   "forms": {
+    "Huginn": 1,
+    "Hugin": 1,
+    "Hugins": 1
+   },
+   "image": [
+    "Odin, Sleipnir, Geri, Freki, Huginn and Muninn by Frølich.jpg"
+   ],
+   "notes": [
+    "asked for by the curator 2026-11-01; Q207041 is the pair item (Hugin and Munin); the seed's munin (Q59457345) is the other raven"
+   ]
+  },
+  {
+   "id": "tanngnjostr",
+   "tags": [
+    "animal"
+   ],
+   "wikidata": "Q1047946",
+   "names": {
+    "on": "Tanngnjóstr",
+    "en": "Tanngnjóstr",
+    "is": "Tanngnjóstur"
+   },
+   "desc": {
+    "en": "one of the two goats that draw Þórr's chariot (Gylfaginning 21)"
+   },
+   "forms": {
+    "Tanngnjóstr": 1,
+    "Tanngnjóst": 1
+   },
+   "notes": [
+    "asked for by the curator 2026-11-01; Q1047946 is the pair item"
+   ]
+  },
+  {
+   "id": "sol",
+   "tags": [
+    "goddess"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Sól",
+    "en": "Sól",
+    "is": "Sól"
+   },
+   "desc": {
+    "en": "the sun as a person, daughter of Mundilfari, who drives the sun's chariot (Gylfaginning 11–12)"
+   },
+   "forms": {
+    "Sól": 1,
+    "Sólar": 1,
+    "Sólu": 1
+   },
+   "notes": [
+    "asked for by the curator 2026-11-01; no clean Wikidata item"
+   ]
+  },
+  {
+   "id": "mani",
+   "tags": [
+    "god"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Máni",
+    "en": "Máni",
+    "is": "Máni"
+   },
+   "desc": {
+    "en": "the moon as a person, son of Mundilfari, who steers the moon's course (Gylfaginning 11–12)"
+   },
+   "forms": {
+    "Máni": 1,
+    "Mána": 1
+   },
+   "notes": [
+    "asked for by the curator 2026-11-01; no clean Wikidata item"
+   ]
   }
  ],
  "resolve": {
@@ -393,6 +534,14 @@
    },
    "Buðla": {
     "*": "budli"
+   },
+   "Hati": {
+    "hhv": "hati-giant",
+    "*": "hati"
+   },
+   "Hata": {
+    "hhv": "hati-giant",
+    "*": "hati"
    }
   },
   "entities": {
