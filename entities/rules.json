@@ -485,21 +485,6 @@
    }
   },
   {
-   "id": "thjodolfr-arnorsson",
-   "tags": [
-    "poet"
-   ],
-   "wikidata": "Q6212022",
-   "names": {
-    "on": "Þjóðólfr Arnórsson",
-    "en": "Thjodolf Arnorsson",
-    "is": "Þjóðólfur Arnórsson"
-   },
-   "desc": {
-    "en": "Icelandic skald of the 11th century (Sexstefja), quoted in Skáldskaparmál"
-   }
-  },
-  {
    "id": "hati",
    "tags": [
     "monster",
@@ -854,7 +839,6 @@
     "skálaglamm": "einarr-skalaglamm"
    },
    "thjodolfr": {
-    "Arnórsson": "thjodolfr-arnorsson",
     "Hvini": "thjodolfr",
     "hvinverski": "thjodolfr"
    },

@@ -161,7 +161,8 @@
     "da": "Thor",
     "de": "Thor",
     "en": "Thor",
-    "nb": "Tor"
+    "nb": "Tor",
+    "on": "Þórr"
    },
    "desc": {
     "en": "hammer-wielding Norse god associated with thunder, lightning, storms, oaks, strength, and fertility"
@@ -2440,7 +2441,8 @@
     "en": "Surtr",
     "nn": "Surt",
     "da": "Surt",
-    "nb": "Surt"
+    "nb": "Surt",
+    "on": "Surtr"
    },
    "desc": {
     "en": "Norse mythical character"
@@ -2948,7 +2950,8 @@
     "da": "Suttung",
     "nb": "Suttung",
     "nn": "Suttung",
-    "is": "Suttungur"
+    "is": "Suttungur",
+    "on": "Suttungr"
    },
    "desc": {
     "en": "figure in Nordic mythology"
@@ -6214,7 +6217,8 @@
     "nn": "Niflheim",
     "ru": "Нибльхейм",
     "sv": "Nifelhem",
-    "nb": "Nivlheim"
+    "nb": "Nivlheim",
+    "on": "Niflheimr"
    },
    "desc": {
     "en": "realm of primordial ice and cold in Norse mythology"
@@ -10858,7 +10862,8 @@
     "sv": "Andvaranaut",
     "da": "Andvarenaut",
     "en": "Andvaranaut",
-    "nb": "Andvarenaut"
+    "nb": "Andvarenaut",
+    "on": "Andvaranautr"
    },
    "desc": {
     "en": "artifact in Norse mythology"
@@ -11776,7 +11781,8 @@
    "names": {
     "ru": "Трудхейм",
     "en": "Þrúðheimr",
-    "da": "Trudhjem"
+    "da": "Trudhjem",
+    "on": "Þrúðheimr"
    },
    "desc": {
     "en": "the home of Thor according to the poem Grímnismál"
@@ -11841,7 +11847,8 @@
     "is": "Bölþór",
     "sv": "Böltorn",
     "nb": "Bolthorn",
-    "ru": "Бёльторн"
+    "ru": "Бёльторн",
+    "on": "Bölþorn"
    },
    "desc": {
     "en": "giant in Norse mythology"
@@ -12254,7 +12261,8 @@
     "ru": "Свартальвахейм",
     "sv": "Svartalfaheim",
     "nb": "Svartalvheim",
-    "en": "Svartálfaheimr"
+    "en": "Svartálfaheimr",
+    "on": "Svartálfaheimr"
    },
    "desc": {},
    "image": [],
@@ -12418,7 +12426,8 @@
    "type": "animal",
    "wikidata": "Q115253212",
    "names": {
-    "en": "Garðrofa"
+    "en": "Garðrofa",
+    "on": "Garðrofa"
    },
    "desc": {},
    "image": [],
@@ -12599,7 +12608,8 @@
     "de": "Nidafelsen",
     "en": "Niðafjöll",
     "sv": "Nidafjällen",
-    "da": "Niðafjöll"
+    "da": "Niðafjöll",
+    "on": "Niðafjöll"
    },
    "desc": {
     "en": "location in Norse mythology"
@@ -15234,7 +15244,8 @@
     "de": "Gladsheim",
     "sv": "Gladsheim",
     "da": "Gladsheim",
-    "ru": "Гладсгейм"
+    "ru": "Гладсгейм",
+    "on": "Glaðsheimr"
    },
    "desc": {
     "en": "Norse mythical location"
@@ -15631,7 +15642,8 @@
     "en": "Náströnd",
     "de": "Náströnd",
     "sv": "Nastrand",
-    "da": "Nåstrand"
+    "da": "Nåstrand",
+    "on": "Náströnd"
    },
    "desc": {
     "en": "Norse mythical location"
@@ -15755,7 +15767,8 @@
    "wikidata": "Q50208107",
    "names": {
     "sv": "Hlóra",
-    "en": "Hlóra"
+    "en": "Hlóra",
+    "on": "Hlóra"
    },
    "desc": {
     "en": "foster-mother of the god Thor in Norse mythology"
@@ -16442,7 +16455,8 @@
     "ru": "Ангрбода",
     "nn": "Angerboda",
     "da": "Angerboda",
-    "nb": "Angerboda"
+    "nb": "Angerboda",
+    "on": "Angrboða"
    },
    "desc": {
     "en": "Norse mythical character; giantess"
@@ -16576,7 +16590,8 @@
     "de": "Gullveig",
     "nb": "Gullveig",
     "is": "Gullveig",
-    "sv": "Gullveig"
+    "sv": "Gullveig",
+    "on": "Gullveig"
    },
    "desc": {
     "en": "Norse mythical character"
@@ -17900,6 +17915,30 @@
    ],
    "mentions": 0,
    "first": {}
+  },
+  {
+   "id": "ifingr",
+   "type": "place-myth",
+   "wikidata": null,
+   "names": {
+    "on": "Ífingr",
+    "en": "Ifing",
+    "is": "Ífing"
+   },
+   "desc": {
+    "en": "the river that divides the land of the gods from the land of the giants and never freezes (Vafþrúðnismál 16)"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Ífing": 2
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added 2026-11-02 at the curator's request (mailbox 2320); kept in notable.json"
+   ]
   }
  ]
 }

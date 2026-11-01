@@ -50631,6 +50631,15 @@
    "status": "auto"
   },
   {
+   "entity": "andvaranaut",
+   "row": "s-c49-4",
+   "lang": "on",
+   "form": "Andvaranautr",
+   "kind": "name",
+   "status": "auto",
+   "derived": true
+  },
+  {
    "entity": "gunnar",
    "row": "s-c49-4",
    "lang": "on",
@@ -50659,6 +50668,14 @@
    "row": "s-c49-4",
    "lang": "is",
    "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "andvaranaut",
+   "row": "s-c49-4",
+   "lang": "is",
+   "form": "Andvaranautur",
    "kind": "name",
    "status": "auto"
   },
@@ -74642,6 +74659,14 @@
    "status": "auto"
   },
   {
+   "entity": "ifingr",
+   "row": "vm-s16",
+   "lang": "on",
+   "form": "Ífing",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "vm-s16",
    "lang": "is",
@@ -74650,10 +74675,26 @@
    "status": "auto"
   },
   {
+   "entity": "ifingr",
+   "row": "vm-s16",
+   "lang": "is",
+   "form": "Ífing",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "vm-s16",
    "lang": "en",
    "form": "Othin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ifingr",
+   "row": "vm-s16",
+   "lang": "en",
+   "form": "Ifing",
    "kind": "name",
    "status": "auto"
   },
@@ -145177,7 +145218,7 @@
    "entity": "odin",
    "row": "sol-s77",
    "lang": "en",
-   "form": "Óðinn's",
+   "form": "Odin's",
    "kind": "name",
    "status": "auto"
   },
@@ -145194,14 +145235,6 @@
    "row": "sol-s79",
    "lang": "is",
    "form": "Njarðar",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "njordr",
-   "row": "sol-s79",
-   "lang": "en",
-   "form": "Njörðr's",
    "kind": "name",
    "status": "auto"
   },
@@ -145241,7 +145274,7 @@
    "entity": "thrainn",
    "row": "fsl-s3",
    "lang": "en",
-   "form": "Þráinn's",
+   "form": "Thrain’s",
    "kind": "name",
    "status": "auto"
   },
@@ -145262,14 +145295,6 @@
    "status": "auto"
   },
   {
-   "entity": "alsvidr",
-   "row": "fsl-s4",
-   "lang": "en",
-   "form": "Alsviðr",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
    "entity": "mimir",
    "row": "fsl-s5",
    "lang": "on",
@@ -145289,7 +145314,7 @@
    "entity": "mimir",
    "row": "fsl-s5",
    "lang": "en",
-   "form": "Mímir's",
+   "form": "Mim’s",
    "kind": "name",
    "status": "auto"
   },
@@ -145329,7 +145354,7 @@
    "entity": "yggdrasil",
    "row": "fsl-s6",
    "lang": "en",
-   "form": "Yggdrasill's",
+   "form": "Yggdrasil’s",
    "kind": "name",
    "status": "auto"
   },
@@ -145337,7 +145362,7 @@
    "entity": "idunn",
    "row": "fsl-s6",
    "lang": "en",
-   "form": "Iðunn",
+   "form": "Idun",
    "kind": "name",
    "status": "auto"
   },
@@ -145361,7 +145386,7 @@
    "entity": "norvi",
    "row": "fsl-s7",
    "lang": "en",
-   "form": "Nörvi's",
+   "form": "Nörvi’s",
    "kind": "name",
    "status": "auto"
   },
@@ -145435,15 +145460,7 @@
    "entity": "odin",
    "row": "fsl-s9",
    "lang": "en",
-   "form": "Viðrir",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "odin",
-   "row": "fsl-s9",
-   "lang": "en",
-   "form": "Óðinn",
+   "form": "Vidrir",
    "kind": "name",
    "status": "auto"
   },
@@ -145504,18 +145521,10 @@
    "status": "auto"
   },
   {
-   "entity": "regin",
-   "row": "fsl-s10",
-   "lang": "en",
-   "form": "Reginn",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
    "entity": "odin",
    "row": "fsl-s10",
    "lang": "en",
-   "form": "Óðinn",
+   "form": "Odin",
    "kind": "name",
    "status": "auto"
   },
@@ -145523,7 +145532,7 @@
    "entity": "hlidskjalf",
    "row": "fsl-s10",
    "lang": "en",
-   "form": "Hliðskjálf",
+   "form": "Hlidskjalf",
    "kind": "name",
    "status": "auto"
   },
@@ -145539,14 +145548,6 @@
    "entity": "gefjon",
    "row": "fsl-s12",
    "lang": "is",
-   "form": "Gefjun",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "gefjon",
-   "row": "fsl-s12",
-   "lang": "en",
    "form": "Gefjun",
    "kind": "name",
    "status": "auto"
@@ -145603,7 +145604,7 @@
    "entity": "elivagar",
    "row": "fsl-s13",
    "lang": "en",
-   "form": "Élivágar",
+   "form": "Elivagar",
    "kind": "name",
    "status": "auto"
   },
@@ -145611,15 +145612,7 @@
    "entity": "dainn",
    "row": "fsl-s13",
    "lang": "en",
-   "form": "Dáinn",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "midgard",
-   "row": "fsl-s13",
-   "lang": "en",
-   "form": "Miðgarðr",
+   "form": "Dain",
    "kind": "name",
    "status": "auto"
   },
@@ -145643,7 +145636,7 @@
    "entity": "jorunn",
    "row": "fsl-s15",
    "lang": "en",
-   "form": "Jórunn",
+   "form": "Jorun",
    "kind": "name",
    "status": "auto"
   },
@@ -145717,7 +145710,7 @@
    "entity": "odin",
    "row": "fsl-s16",
    "lang": "en",
-   "form": "Herjann's",
+   "form": "Herian’s",
    "kind": "name",
    "status": "auto"
   },
@@ -145725,7 +145718,7 @@
    "entity": "laufey",
    "row": "fsl-s16",
    "lang": "en",
-   "form": "Nál's",
+   "form": "Nal",
    "kind": "name",
    "status": "auto"
   },
@@ -145733,7 +145726,7 @@
    "entity": "odin",
    "row": "fsl-s16",
    "lang": "en",
-   "form": "Grímnir's",
+   "form": "Grimnir’s",
    "kind": "name",
    "status": "auto"
   },
@@ -145773,7 +145766,7 @@
    "entity": "vingolf",
    "row": "fsl-s17",
    "lang": "en",
-   "form": "Vingólf",
+   "form": "Vingolf",
    "kind": "name",
    "status": "auto"
   },
@@ -145781,7 +145774,7 @@
    "entity": "fornjotr",
    "row": "fsl-s17",
    "lang": "en",
-   "form": "Fornjótr's",
+   "form": "Forniots",
    "kind": "name",
    "status": "auto"
   },
@@ -145869,15 +145862,7 @@
    "entity": "odin",
    "row": "fsl-s19",
    "lang": "en",
-   "form": "Bölverkr's",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "odin",
-   "row": "fsl-s19",
-   "lang": "en",
-   "form": "Óðinn's",
+   "form": "Bölverk’s",
    "kind": "name",
    "status": "auto"
   },
@@ -145885,7 +145870,7 @@
    "entity": "saehrimnir",
    "row": "fsl-s19",
    "lang": "en",
-   "form": "Sæhrímnir",
+   "form": "Sæhrimnir",
    "kind": "name",
    "status": "auto"
   },
@@ -145901,7 +145886,7 @@
    "entity": "odin",
    "row": "fsl-s19",
    "lang": "en",
-   "form": "Hnikarr's",
+   "form": "Hnikar",
    "kind": "name",
    "status": "auto"
   },
@@ -145909,7 +145894,7 @@
    "entity": "mimir",
    "row": "fsl-s19",
    "lang": "en",
-   "form": "Mímir's",
+   "form": "Mimir",
    "kind": "name",
    "status": "auto"
   },
@@ -145949,7 +145934,7 @@
    "entity": "heimdall",
    "row": "fsl-s20",
    "lang": "en",
-   "form": "Heimdallr",
+   "form": "Heimdall",
    "kind": "name",
    "status": "auto"
   },
@@ -145981,15 +145966,7 @@
    "entity": "odin",
    "row": "fsl-s22",
    "lang": "en",
-   "form": "Ómi",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "odin",
-   "row": "fsl-s22",
-   "lang": "en",
-   "form": "Óðinn",
+   "form": "Omi",
    "kind": "name",
    "status": "auto"
   },
@@ -146045,7 +146022,7 @@
    "entity": "rindr",
    "row": "fsl-s23",
    "lang": "en",
-   "form": "Rindr's",
+   "form": "Rind",
    "kind": "name",
    "status": "auto"
   },
@@ -146061,7 +146038,7 @@
    "entity": "hrimfaxi",
    "row": "fsl-s23",
    "lang": "en",
-   "form": "Hrímfaxi",
+   "form": "Hrimfaxi",
    "kind": "name",
    "status": "auto"
   },
@@ -146101,7 +146078,7 @@
    "entity": "dellingr",
    "row": "fsl-s24",
    "lang": "en",
-   "form": "Dellingr's",
+   "form": "Delling",
    "kind": "name",
    "status": "auto"
   },
@@ -146109,7 +146086,7 @@
    "entity": "dvalinn",
    "row": "fsl-s24",
    "lang": "en",
-   "form": "Dvalinn's",
+   "form": "Dvalin’s",
    "kind": "name",
    "status": "auto"
   },
@@ -146133,7 +146110,7 @@
    "entity": "niflheim",
    "row": "fsl-s26",
    "lang": "en",
-   "form": "Niflheimr",
+   "form": "Niflheim",
    "kind": "name",
    "status": "auto"
   }
