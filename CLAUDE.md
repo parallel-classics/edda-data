@@ -6,6 +6,8 @@ The pipeline and the website are in the sibling repository `edda-site` (expected
 
 Read `edda-internal/COORDINATION.md` first (branches, PRs, reviews, worklog) when you have access to that private
 repository.
+Claude Code: check `C:\Users\grigo\Work\edda\_mailbox\to-cc\` at session start and after each task (messages from the
+cloud session; see the Mailbox section of COORDINATION.md).
 
 ## Hard rules
 
