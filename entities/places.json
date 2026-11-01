@@ -1,0 +1,109 @@
+{
+ "_note": "Real places of the Edda and the Wikidata item each stands for (task 16e). By hand; the curator may move the ids into seed.json. `search` entries are resolved by edda-site/pipeline/make_entities.py coords (the first Wikidata search hit, then pinned here as `wikidata` with the label it resolved to, for review). `wikidata: null` = no fixed location, no map marker. Coordinates go to coords.json.",
+ "places": {
+  "rhine": {
+   "note": "the river; the Wikidata point is its mouth",
+   "wikidata": "Q584",
+   "searched": "Rhine",
+   "resolved": "Rhine — river in Western Europe to the North Sea"
+  },
+  "denmark": {
+   "wikidata": "Q35",
+   "searched": "Denmark",
+   "resolved": "Denmark — country in Northern Europe"
+  },
+  "sweden": {
+   "wikidata": "Q34",
+   "searched": "Sweden",
+   "resolved": "Sweden — country in Northern Europe"
+  },
+  "norway": {
+   "wikidata": "Q20",
+   "searched": "Norway",
+   "resolved": "Norway — country in Northern Europe"
+  },
+  "frankland": {
+   "note": "approximate: France; Francia resolved to it",
+   "wikidata": "Q142",
+   "searched": "Francia"
+  },
+  "gotland": {
+   "note": "the island and historical province (search hits: the municipality, the county, ships)",
+   "wikidata": "Q1027830"
+  },
+  "hunaland": {
+   "wikidata": null,
+   "note": "legendary land of the Huns, no fixed location"
+  },
+  "reidgotaland": {
+   "wikidata": null,
+   "note": "legendary land of the Goths, no fixed location"
+  },
+  "saxony": {
+   "note": "approximate: the modern state; Old Saxony (Q3057629) has no coordinates on Wikidata",
+   "wikidata": "Q1202",
+   "searched": "Old Saxony"
+  },
+  "asia": {
+   "note": "the continent (Ásía of the Prologue)",
+   "wikidata": "Q48",
+   "searched": "Asia",
+   "resolved": "Asia — part of terrestrial continent, mainly in the northeastern quadrant"
+  },
+  "austrvegr": {
+   "wikidata": null,
+   "note": "the eastern way, a direction rather than a place"
+  },
+  "england": {
+   "wikidata": "Q21",
+   "searched": "England",
+   "resolved": "England — country in north-west Europe, part of the United Kingdom"
+  },
+  "fyrisvellir": {
+   "note": "the plain by Uppsala",
+   "wikidata": "Q2540394",
+   "searched": "Fyrisvellir",
+   "resolved": "Fyrisvellir — Marshy plain near the Temple at Uppsala"
+  },
+  "uppsala": {
+   "note": "Uppsalir = Old Uppsala",
+   "wikidata": "Q433032",
+   "searched": "Gamla Uppsala",
+   "resolved": "Gamla Uppsala — urban area of Sweden"
+  },
+  "agdir": {
+   "note": "Wikidata id in the seed (Agder)"
+  },
+  "jalangrsheidr": {
+   "note": "Jalangrsheiðr, the heath at Jelling",
+   "wikidata": "Q835708",
+   "searched": "Jelling",
+   "resolved": "Jelling — village in Denmark"
+  },
+  "nordrlond": {
+   "wikidata": null,
+   "note": "the Northern lands, a region"
+  },
+  "thrace": {
+   "wikidata": "Q41741",
+   "searched": "Thrace",
+   "resolved": "Thrace — geographical and historical region in Southeast Europe"
+  },
+  "troy": {
+   "wikidata": "Q22647",
+   "searched": "Troy",
+   "note": "Troy, the ancient city (the search hit had no coordinates)"
+  },
+  "turkey": {
+   "note": "Anatolia = Tyrkland of the Prologue",
+   "wikidata": "Q51614",
+   "searched": "Anatolia"
+  },
+  "zealand": {
+   "note": "the Danish island (the first hit for Zealand was Zeeland in the Netherlands)",
+   "wikidata": "Q25535",
+   "searched": "Sjælland",
+   "resolved": "Zealand — island in Denmark"
+  }
+ }
+}

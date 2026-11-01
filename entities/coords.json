@@ -1,0 +1,179 @@
+{
+ "_note": "Coordinates (Wikidata P625, CC0) of the real places, fetched by edda-site/pipeline/make_entities.py coords from the items named in places.json or the seed. Generated; do not edit.",
+ "fetched": "2026-11-01",
+ "places": {
+  "agdir": {
+   "wikidata": "Q2729021",
+   "lat": 58.1467,
+   "lon": 7.9956,
+   "label": {
+    "en": "Agder",
+    "is": "Agðir"
+   },
+   "description": "Norwegian county"
+  },
+  "asia": {
+   "wikidata": "Q48",
+   "lat": 43.6811,
+   "lon": 87.3311,
+   "label": {
+    "en": "Asia",
+    "is": "Asía"
+   },
+   "description": "part of terrestrial continent, mainly in the northeastern quadrant"
+  },
+  "denmark": {
+   "wikidata": "Q35",
+   "lat": 56,
+   "lon": 10,
+   "label": {
+    "en": "Denmark",
+    "is": "Danmörk"
+   },
+   "description": "country in Northern Europe"
+  },
+  "england": {
+   "wikidata": "Q21",
+   "lat": 53,
+   "lon": -1,
+   "label": {
+    "en": "England",
+    "is": "England"
+   },
+   "description": "country in north-west Europe, part of the United Kingdom"
+  },
+  "frankland": {
+   "wikidata": "Q142",
+   "lat": 47,
+   "lon": 2,
+   "label": {
+    "en": "France",
+    "is": "Frakkland"
+   },
+   "description": "country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania)"
+  },
+  "fyrisvellir": {
+   "wikidata": "Q2540394",
+   "lat": 59.8719,
+   "lon": 17.6142,
+   "label": {
+    "en": "Fyrisvellir"
+   },
+   "description": "Marshy plain near the Temple at Uppsala"
+  },
+  "gotland": {
+   "wikidata": "Q1027830",
+   "lat": 57.5,
+   "lon": 18.55,
+   "label": {
+    "en": "Gotland",
+    "is": "Gotland"
+   },
+   "description": "island and historical province in Sweden"
+  },
+  "jalangrsheidr": {
+   "wikidata": "Q835708",
+   "lat": 55.7558,
+   "lon": 9.4194,
+   "label": {
+    "en": "Jelling"
+   },
+   "description": "village in Denmark"
+  },
+  "norway": {
+   "wikidata": "Q20",
+   "lat": 59.9333,
+   "lon": 10.6833,
+   "label": {
+    "en": "Norway",
+    "is": "Noregur"
+   },
+   "description": "country in Northern Europe"
+  },
+  "rhine": {
+   "wikidata": "Q584",
+   "lat": 51.9808,
+   "lon": 4.0931,
+   "label": {
+    "en": "Rhine",
+    "is": "Rín"
+   },
+   "description": "river in Western Europe to the North Sea"
+  },
+  "saxony": {
+   "wikidata": "Q1202",
+   "lat": 51.0269,
+   "lon": 13.3589,
+   "label": {
+    "en": "Saxony",
+    "is": "Saxland"
+   },
+   "description": "federated state of Germany"
+  },
+  "sweden": {
+   "wikidata": "Q34",
+   "lat": 61,
+   "lon": 15,
+   "label": {
+    "en": "Sweden",
+    "is": "Svíþjóð"
+   },
+   "description": "country in Northern Europe"
+  },
+  "thrace": {
+   "wikidata": "Q41741",
+   "lat": 42,
+   "lon": 26,
+   "label": {
+    "en": "Thrace",
+    "is": "Þrakía"
+   },
+   "description": "geographical and historical region in Southeast Europe"
+  },
+  "troy": {
+   "wikidata": "Q22647",
+   "lat": 39.9575,
+   "lon": 26.2389,
+   "label": {
+    "en": "Troy",
+    "is": "Trója"
+   },
+   "description": "ancient Homeric-era city in northwest Asia Minor; it is known as the setting for the Greek myth of the Trojan war"
+  },
+  "turkey": {
+   "wikidata": "Q51614",
+   "lat": 39,
+   "lon": 35,
+   "label": {
+    "en": "Anatolia",
+    "is": "Anatólía"
+   },
+   "description": "peninsula in Western Asia"
+  },
+  "uppsala": {
+   "wikidata": "Q433032",
+   "lat": 59.8944,
+   "lon": 17.6389,
+   "label": {
+    "en": "Gamla Uppsala"
+   },
+   "description": "urban area of Sweden"
+  },
+  "zealand": {
+   "wikidata": "Q25535",
+   "lat": 55.57,
+   "lon": 11.89,
+   "label": {
+    "en": "Zealand",
+    "is": "Sjáland"
+   },
+   "description": "island in Denmark"
+  }
+ },
+ "without": {
+  "austrvegr": "the eastern way, a direction rather than a place",
+  "hunaland": "legendary land of the Huns, no fixed location",
+  "nordrlond": "the Northern lands, a region",
+  "reidgotaland": "legendary land of the Goths, no fixed location"
+ }
+}

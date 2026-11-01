@@ -5971,7 +5971,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q584",
    "names": {
     "on": "Rín",
     "en": "Rhine"
@@ -5979,7 +5979,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    51.9808,
+    4.0931
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -6012,7 +6015,9 @@
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "wikidata from places.json"
+   ]
   },
   {
    "id": "rig",
@@ -6449,7 +6454,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q35",
    "names": {
     "on": "Danmörk",
     "en": "Denmark"
@@ -6457,7 +6462,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    56,
+    10
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -6491,7 +6499,9 @@
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "wikidata from places.json"
+   ]
   },
   {
    "id": "einarr-skalaglamm",
@@ -7004,7 +7014,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q34",
    "names": {
     "on": "Svíþjóð",
     "en": "Sweden"
@@ -7012,7 +7022,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    61,
+    15
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -7046,7 +7059,9 @@
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "wikidata from places.json"
+   ]
   },
   {
    "id": "agnarr-geirrodsson",
@@ -9032,7 +9047,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q20",
    "names": {
     "on": "Nóregr",
     "en": "Norway"
@@ -9040,7 +9055,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    59.9333,
+    10.6833
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -9073,7 +9091,9 @@
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "wikidata from places.json"
+   ]
   },
   {
    "id": "tyrfing",
@@ -12922,7 +12942,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q142",
    "names": {
     "on": "Frakkland",
     "en": "Frankland"
@@ -12930,7 +12950,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    47,
+    2
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -12966,7 +12989,9 @@
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "wikidata from places.json"
+   ]
   },
   {
    "id": "gilling",
@@ -15308,7 +15333,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q1027830",
    "names": {
     "on": "Gotland",
     "en": "Gotland"
@@ -15316,7 +15341,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    57.5,
+    18.55
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -15344,7 +15372,9 @@
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "wikidata from places.json"
+   ]
   },
   {
    "id": "gullfaxi",
@@ -16618,7 +16648,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q1202",
    "names": {
     "on": "Saxland",
     "en": "Saxony"
@@ -16626,7 +16656,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    51.0269,
+    13.3589
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -16655,7 +16688,9 @@
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "wikidata from places.json"
+   ]
   },
   {
    "id": "sighvatr",
@@ -17377,7 +17412,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q48",
    "names": {
     "on": "Asía",
     "en": "Asia"
@@ -17385,7 +17420,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    43.6811,
+    87.3311
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -17414,7 +17452,8 @@
    "card": false,
    "status": "auto",
    "notes": [
-    "Formáli"
+    "Formáli",
+    "wikidata from places.json"
    ]
   },
   {
@@ -18215,7 +18254,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q21",
    "names": {
     "on": "England",
     "en": "England"
@@ -18223,7 +18262,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    53,
+    -1
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -18249,7 +18291,9 @@
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "wikidata from places.json"
+   ]
   },
   {
    "id": "farbauti",
@@ -18516,7 +18560,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q2540394",
    "names": {
     "on": "Fýrisvellir",
     "en": "Fyris Plains"
@@ -18524,7 +18568,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    59.8719,
+    17.6142
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -18550,7 +18597,9 @@
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "wikidata from places.json"
+   ]
   },
   {
    "id": "gjoll",
@@ -20959,7 +21008,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q433032",
    "names": {
     "on": "Uppsalir",
     "en": "Uppsala"
@@ -20967,7 +21016,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    59.8944,
+    17.6389
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -20996,7 +21048,9 @@
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "wikidata from places.json"
+   ]
   },
   {
    "id": "valland",
@@ -21124,7 +21178,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    58.1467,
+    7.9956
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -23605,7 +23662,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q835708",
    "names": {
     "on": "Jalangrsheiðr",
     "en": "Jelling Heath"
@@ -23613,7 +23670,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    55.7558,
+    9.4194
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -23641,7 +23701,9 @@
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "wikidata from places.json"
+   ]
   },
   {
    "id": "jorunn",
@@ -25689,7 +25751,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q41741",
    "names": {
     "on": "Trakía",
     "en": "Thrace"
@@ -25697,7 +25759,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    42,
+    26
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -25723,7 +25788,9 @@
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "wikidata from places.json"
+   ]
   },
   {
    "id": "thrainn",
@@ -25875,7 +25942,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q22647",
    "names": {
     "on": "Trója",
     "en": "Troy"
@@ -25883,7 +25950,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    39.9575,
+    26.2389
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -25911,7 +25981,9 @@
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "wikidata from places.json"
+   ]
   },
   {
    "id": "turkey",
@@ -25919,7 +25991,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q51614",
    "names": {
     "on": "Tyrkland",
     "en": "Turkland"
@@ -25927,7 +25999,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    39,
+    35
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -25956,7 +26031,8 @@
    "card": false,
    "status": "auto",
    "notes": [
-    "Formáli"
+    "Formáli",
+    "wikidata from places.json"
    ]
   },
   {
@@ -26448,7 +26524,7 @@
     "place_real"
    ],
    "type": "place_real",
-   "wikidata": null,
+   "wikidata": "Q25535",
    "names": {
     "on": "Selund",
     "en": "Zealand"
@@ -26456,7 +26532,10 @@
    "desc": {},
    "image": null,
    "image_candidates": [],
-   "coords": null,
+   "coords": [
+    55.57,
+    11.89
+   ],
    "wiki": {},
    "image_source": null,
    "forms": {
@@ -26484,7 +26563,9 @@
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "wikidata from places.json"
+   ]
   },
   {
    "id": "alfheimr",
