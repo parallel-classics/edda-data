@@ -42,6 +42,12 @@
    "label": "AI draft",
    "lang": "en",
    "title": "AI draft translation made for this edition; the record's author (ai:<model>-<yyyy-mm>) names the model"
+  },
+  "thorpe-1866": {
+   "kind": "published",
+   "label": "Thorpe 1866",
+   "lang": "en",
+   "title": "Benjamin Thorpe, Edda Sæmundar hinns Fróða: The Edda of Sæmund the Learned (1866), public domain"
   }
  },
  "cells": {
@@ -73,7 +79,8 @@
  },
  "row_flags": {
   "en_draft": "ai-draft",
-  "en_from": "brodeur-1916"
+  "en_from": "brodeur-1916",
+  "en_thorpe": "thorpe-1866"
  },
  "checks": {
   "edition": [

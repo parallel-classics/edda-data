@@ -49,24 +49,27 @@
      "en": [
       {
        "t": "v",
+       "n": 1,
        "l": [
-        "The All-father works,",
-        "elves understand,",
-        "the Vanir know,",
-        "norns direct [?],",
-        "the giantess breeds [?],",
-        "men endure,",
-        "giants wait,",
-        "valkyries yearn."
+        "Alfather works,⟦1⟧",
+        "the Alfar discern,⟦2⟧",
+        "the Vanir know,⟦3⟧",
+        "the Nornir indicate,⟦4⟧",
+        "the Ividia brings forth,⟦5⟧",
+        "men endure,⟦6⟧",
+        "the Thursar await,⟦7⟧",
+        "the Valkyriur long.⟦8⟧"
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      1
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
      "head": "Steindór Andersen & Sigur Rós - Hrafnagaldur Óðins.",
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s2",
@@ -106,23 +109,26 @@
      "en": [
       {
        "t": "v",
+       "n": 2,
        "l": [
-        "The Æsir suspected",
-        "an evil plot [?],",
-        "casters [?] confused [things]",
-        "with the runes of a wight [?];",
-        "Óðrærir was",
-        "Urðr to guard [?],",
-        "mighty to defend it [?]",
-        "against the greatest host [?]."
+        "The forebodings the Æsir",
+        "suspected to be evil;",
+        "treacherous Vættar had",
+        "the runes confounded.",
+        "Urd was enjoined",
+        "to guard Odhroerir,",
+        "powerfully to protect it",
+        "against the increasing multitude."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      2
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s3",
@@ -162,23 +168,27 @@
      "en": [
       {
        "t": "v",
+       "n": 3,
        "l": [
-        "Therefore Hugr departs,",
-        "seeks the others [?],",
-        "men suspect",
-        "harm, if it lingers;",
-        "Þráinn's dream",
-        "was thought heavy [?];",
-        "Dáinn's dream",
-        "was thought a riddle [?]."
+        "Hug⟦9⟧",
+        "then goes forth,",
+        "explores the heavens,",
+        "the powers fear",
+        "disaster from delay.",
+        "‘Twas Thrain’s belief",
+        "that the dream was ominous;",
+        "Dain’s thought that",
+        "the dream was dark."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      3
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s4",
@@ -218,23 +228,26 @@
      "en": [
       {
        "t": "v",
+       "n": 4,
        "l": [
-        "Strength among the dwarfs",
-        "dwindles [?], the worlds",
-        "down into Ginnungr's",
-        "darkness [?] sink;",
-        "often Alsviðr",
-        "fells [them] from above [?],",
-        "often what has fallen",
-        "he gathers again [?]."
+        "Among the dwarfs",
+        "virtue decays;",
+        "worlds sink down",
+        "to Ginnung’s abyss.",
+        "Oft will Asvid",
+        "strike them down,",
+        "oft the fallen",
+        "again collect."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      4
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s5",
@@ -274,23 +287,28 @@
      "en": [
       {
        "t": "v",
+       "n": 5,
        "l": [
-        "Never stands still",
-        "earth nor sun [?],",
-        "with the air, with harm [?],",
-        "the current does not cease;",
-        "hidden in Mímir's",
-        "famous well",
-        "lies certain knowledge [?];",
-        "do you know yet, or what?"
+        "Stand no longer shall",
+        "earth or sun.",
+        "The stream of air",
+        "with corruption laden",
+        "shall not cease.",
+        "Hidden is in Mim’s",
+        "limpid well",
+        "men’s certain knowledge.",
+        "Understand ye yet, or what?",
+        "~~~~~~~~~"
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      5
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s6",
@@ -330,23 +348,26 @@
      "en": [
       {
        "t": "v",
+       "n": 6,
        "l": [
         "In the dales dwells",
-        "the inquisitive dís,",
-        "from Yggdrasill's",
-        "ash sunk down;",
-        "of the race of elves,",
-        "they called her Iðunn,",
-        "the youngest of Ívaldi's",
-        "elder children [?]."
+        "the prescient Dis,",
+        "from Yggdrasil’s",
+        "ash sunk down,",
+        "of alfen race,",
+        "Idun by name,",
+        "the youngest of Ivaldi’s",
+        "elder children."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      6
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s7",
@@ -386,23 +407,26 @@
      "en": [
       {
        "t": "v",
+       "n": 7,
        "l": [
-        "She bore ill",
-        "her coming down,",
-        "held beneath the trunk",
-        "of the high-boled tree [?];",
-        "she liked least [being]",
-        "with Nörvi's kinswoman [Nótt] [?],",
-        "used to better",
-        "dwellings at home."
+        "She ill brooked",
+        "her descent,",
+        "under the hoar tree’s",
+        "trunk confined.",
+        "She would not happy be",
+        "with Nörvi’s daughter,",
+        "accustomed to a pleasanter",
+        "abode at home."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      7
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s8",
@@ -442,23 +466,27 @@
      "en": [
       {
        "t": "v",
+       "n": 8,
        "l": [
-        "The victory-gods see",
-        "Nauma grieving,",
-        "at Viggr's shrines [?]",
-        "they gave her a wolf-skin;",
-        "she let herself be clad in it,",
-        "changed her mind [?],",
-        "played at cunning [?],",
-        "changed her colours."
+        "The triumphant gods saw",
+        "Nanna⟦10⟧",
+        "sorrowing",
+        "in earth’s deep sanctuaries;",
+        "a wolf’s skin they gave her,",
+        "in which herself she clad,",
+        "changed her feelings,",
+        "practiced guile,",
+        "alter’d her aspect."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      8
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s9",
@@ -498,23 +526,26 @@
      "en": [
       {
        "t": "v",
+       "n": 9,
        "l": [
-        "Viðrir [Óðinn] chose",
-        "the warden of Bifröst [Heimdallr]",
-        "of Gjöll's sun [?]",
-        "the keeper [?] to question,",
-        "about everything in the world,",
-        "whatever she knew.",
-        "Bragi and Loptr",
-        "bore witness [?]."
+        "Vidrir selected",
+        "Bifröst´s guardian,",
+        "of the Giöll-sun’s",
+        "keeper to inquire",
+        "all that she knew",
+        "of every world;",
+        "Bragi and Lopt",
+        "should witness bear."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      9
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s10",
@@ -554,23 +585,27 @@
      "en": [
       {
        "t": "v",
+       "n": 10,
        "l": [
-        "They chanted spells,",
-        "rode on wands [?],",
-        "Rögnir and Reginn [?]",
-        "to the hall of the world [?];",
-        "Óðinn listens",
-        "in Hliðskjálf,",
-        "let them be gone [?]",
-        "on long ways."
+        "Magic songs they sung,",
+        "rode on wolves",
+        "the god⟦11⟧",
+        "and gods.⟦12⟧",
+        "At the heavenly house,",
+        "Odin listened,",
+        "in Hlidskjalf;",
+        "let them go forth",
+        "on their long way."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      10
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s11",
@@ -610,23 +645,26 @@
      "en": [
       {
        "t": "v",
+       "n": 11,
        "l": [
-        "The wise one asked",
-        "the willow of drinks [woman]",
-        "of the births of the gods [?]",
-        "and of their paths;",
-        "of heaven, of Hel,",
-        "of the world, if she knew,",
-        "the time of origin, the life-span,",
-        "the death."
+        "The wise god asked",
+        "the cupbearer",
+        "of the gods’ progeny",
+        "and their associates,",
+        "whether of heaven, or Hel,",
+        "or earth, she knew",
+        "the origin, duration,",
+        "or dissolution?"
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      11
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s12",
@@ -666,23 +704,26 @@
      "en": [
       {
        "t": "v",
+       "n": 12,
        "l": [
-        "Neither would she speak,",
-        "nor could Gefjun [?]",
-        "utter words,",
-        "nor make merry talk;",
-        "tears fell",
-        "from the shields of the skull [eyes],",
-        "her strength hidden [?],",
-        "reddened again [?]."
+        "She spoke not,",
+        "she could no words",
+        "to the anxious gods",
+        "bring forth,",
+        "nor a sound uttered;",
+        "tears flowed from the head’s orbs;",
+        "with pain repressed",
+        "they flow anew."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      12
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s13",
@@ -722,23 +763,25 @@
      "en": [
       {
        "t": "v",
+       "n": 13,
        "l": [
-        "Just so [?] comes from the east",
-        "out of Élivágar",
-        "the thorn from the field",
-        "of the frost-cold giant [?],",
-        "with which Dáinn strikes",
-        "all the hosts",
-        "of famous Miðgarðr",
-        "every night [?]."
+        "As from the east,",
+        "from Elivagar,",
+        "the thorn is impelled by",
+        "the ice-cold Thurs,",
+        "wherewith Dain",
+        "all people strikes",
+        "over the fair mid-earth;"
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      13
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s14",
@@ -778,23 +821,27 @@
      "en": [
       {
        "t": "v",
+       "n": 14,
        "l": [
-        "Then deeds grow numb,",
-        "hands drop,",
-        "a swoon hovers over",
-        "the sword of the white god [?];",
-        "senselessness [?] quells",
-        "the giantess's wind [?]",
-        "with sways of the mind",
-        "in the whole company [?]."
+        "when every faculty is lulled,",
+        "the hands sink,",
+        "totters with drowsiness",
+        "the bright, sword-girt As;⟦13⟧",
+        "drives away the current",
+        "the giantess’s⟦14⟧",
+        "blandishment",
+        "of the mind’s agitations",
+        "of all people,⟦15⟧"
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      14
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s15",
@@ -834,23 +881,26 @@
      "en": [
       {
        "t": "v",
+       "n": 15,
        "l": [
-        "Jórunn [the woman] seemed to the gods",
-        "just the same [?],",
-        "swollen with sorrows,",
-        "when they got no answer;",
-        "they pressed the more",
-        "as refusal was before them [?],",
-        "yet all the less",
-        "did their talk avail."
+        "so to the gods appeared",
+        "Jorun to be affected,",
+        "with sorrows swollen,",
+        "when they no answer got;",
+        "they strove the more",
+        "the greater the repulse;",
+        "still less than they had hoped",
+        "did their words prevail."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      15
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s16",
@@ -890,23 +940,26 @@
      "en": [
       {
        "t": "v",
+       "n": 16,
        "l": [
-        "The leader went forth",
-        "on the roads of inquiry,",
-        "the keeper of Herjann's",
-        "horn Gjöll [Heimdallr];",
-        "Nál's kinsman [Loki]",
-        "he took as companion,",
-        "Grímnir's poet [Bragi] [?]",
-        "guarded the ground [?]."
+        "When the leader",
+        "of the inquiring travellers,",
+        "the guardian of Herian’s",
+        "loud-sounding horn",
+        "took the son of Nal",
+        "for his companion,",
+        "Grimnir’s skald⟦16⟧",
+        "at the place kept watch."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      16
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s17",
@@ -946,23 +999,26 @@
      "en": [
       {
        "t": "v",
+       "n": 17,
        "l": [
-        "Vingólf they reached,",
-        "Víðarr's thanes [?],",
-        "by Fornjótr's kin [the winds] [?]",
-        "both carried;",
-        "they go in briskly [?],",
-        "greet the Æsir,",
-        "at once at Yggr's",
-        "ale-feast [?]."
+        "Vingolf reached",
+        "Vidur’s ministers,",
+        "both borne",
+        "by Forniots kin.",
+        "They entered,",
+        "and the Æsir",
+        "forthwith saluted,",
+        "at Ygg’s convivial meeting."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      17
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s18",
@@ -1002,23 +1058,26 @@
      "en": [
       {
        "t": "v",
+       "n": 18,
        "l": [
-        "Hangatýr [Óðinn] hale [they greeted],",
-        "luckiest of the Æsir,",
-        "the worthy high-seat",
-        "they bade him rule [?];",
-        "blessed at the feast",
-        "the gods [?] [they bade] sit,",
-        "ever with Yggjungr [Óðinn] [?]",
-        "to keep delight."
+        "Hangatyr they hailed,",
+        "of Æsir the most blissful;",
+        "potent drink in the high seat",
+        "they wished him to enjoy,",
+        "and the gods to sit",
+        "happy at the feast,",
+        "ever with Yggiung",
+        "pleasure to share."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      18
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s19",
@@ -1058,23 +1117,27 @@
      "en": [
       {
        "t": "v",
+       "n": 19,
        "l": [
-        "Seated on benches",
-        "by Bölverkr's [Óðinn's] counsel,",
-        "the company with Sæhrímnir",
-        "of the gods was sated [?];",
-        "Skögul at the tables",
-        "from Hnikarr's handled vessels [?]",
-        "measured out the mead",
-        "from Mímir's horns [?]."
+        "On benches seated,",
+        "at Bölverk’s bidding,",
+        "the company of gods",
+        "were with Sæhrimnir sated.",
+        "Skögul at the tables,",
+        "from Hnikar´s vessel,",
+        "measured out mead,",
+        "in Mimir´s⟦17⟧",
+        "horns."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      19
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s20",
@@ -1114,23 +1177,26 @@
      "en": [
       {
        "t": "v",
+       "n": 20,
        "l": [
-        "Of many things they asked",
-        "over the meal,",
-        "the high gods Heimdallr,",
-        "the goddesses [?] Loki,",
-        "whether the woman had taught",
-        "prophecies or wise sayings,",
-        "on past mid-afternoon,",
-        "until it grew dark."
+        "Of many thing inquired,",
+        "when the meal was over,",
+        "the high gods of Heimdall,",
+        "the goddesses of Loki, -",
+        "whether the maid had uttered",
+        "divinations or wise words?-",
+        "From noon",
+        "until twilight’s advent."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      20
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s21",
@@ -1170,23 +1236,26 @@
      "en": [
       {
        "t": "v",
+       "n": 21,
        "l": [
-        "They said that it had",
-        "turned out badly,",
-        "a fruitless errand",
-        "of too little fame;",
-        "it would be hard",
-        "to find a ruse [?]",
-        "so that from the woman",
-        "an answer might be got."
+        "Ill they showed",
+        "it had fallen out,",
+        "their errand bootless,",
+        "little to glory in.",
+        "A lack of counsel",
+        "seemed likely,",
+        "how from the maiden they",
+        "might an answer get."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      21
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s22",
@@ -1226,23 +1295,25 @@
      "en": [
       {
        "t": "v",
+       "n": 22,
        "l": [
-        "Ómi [Óðinn] answers,",
-        "all listened:",
-        "\"Night shall be used",
-        "for new counsel;",
-        "let each one think till morning",
-        "who is able",
-        "to lay a plan",
-        "for the glory of the Æsir!\""
+        "Omi answered;",
+        "“Night is the time",
+        "for new counsels;",
+        "till the morrow let reflect",
+        "each one competent",
+        "to give advice",
+        "helpful to the Æsir.”"
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      22
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s23",
@@ -1282,23 +1353,26 @@
      "en": [
       {
        "t": "v",
+       "n": 23,
        "l": [
-        "Along the stretches [?] ran",
-        "Rindr's mother [?],",
-        "the fodder [?]",
-        "of Fenrir's fields [?];",
-        "from the feast went",
-        "the gods, took leave of",
-        "Hroptr and Frigg",
-        "as Hrímfaxi went forth [?]."
+        "Ran along the ways",
+        "of mother Rind,⟦18⟧",
+        "the desired repast",
+        "of Fenrisulf.⟦19⟧",
+        "Went from the guild,",
+        "bade the gods farewell",
+        "Hropt and Frigg,",
+        "as, before Hrimfaxi,"
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      23
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s24",
@@ -1338,23 +1412,28 @@
      "en": [
       {
        "t": "v",
+       "n": 24,
        "l": [
-        "With precious",
-        "Dellingr's son [Dagr]",
-        "drove forth his horse,",
-        "gemstones set [?];",
-        "over the world of men",
-        "the horse's mane glows,",
-        "the steed drew Dvalinn's plaything [the sun]",
-        "in its chariot [?]."
+        "the son of Delling",
+        "urged on his horse",
+        "adorned with",
+        "precious jewels.",
+        "Over",
+        "Mannheim",
+        "shines",
+        "the horse’s mane,",
+        "the steed Dvalin’s deluder",
+        "drew in his chariot."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      24
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s25",
@@ -1394,23 +1473,26 @@
      "en": [
       {
        "t": "v",
+       "n": 25,
        "l": [
-        "Of the vast earth,",
-        "at the northern horse-door [?],",
-        "under the outermost root",
+        "In the north boundary",
+        "of the spacious earth,",
+        "under the outmost root",
         "of the noble tree,",
-        "went to bed",
-        "giantesses and giants,",
-        "the dead, dwarfs,",
-        "and dark-elves."
+        "went to their couches",
+        "Gygiar and Thursar,",
+        "spectres, dwarfs,",
+        "and Murk Alfs."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      25
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     },
     {
      "id": "fsl-s26",
@@ -1450,33 +1532,117 @@
      "en": [
       {
        "t": "v",
+       "n": 26,
        "l": [
-        "The gods rose,",
-        "the elf-wheel [the sun] ran,",
-        "northward to Niflheimr",
-        "night went;",
-        "took up the early-sounding [horn] [?],",
-        "Úlfrún's son [Heimdallr],",
-        "the master of the horn-blast",
-        "of Himinbjörg."
+        "The powers rose,",
+        "the Alfs’ illuminator",
+        "northwards towards Niflheim⟦20⟧",
+        "chased the night.",
+        "Up Argjöll ran",
+        "Ulfrun´s son,",
+        "the mighty hornblower,",
+        "of heaven´s heights."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      26
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_thorpe": true
     }
    ],
-   "notes": [],
-   "en_source": "AI draft",
+   "notes": [
+    {
+     "n": "1",
+     "s": "through all nature."
+    },
+    {
+     "n": "2",
+     "s": "impending evil"
+    },
+    {
+     "n": "3",
+     "s": "that evil is at hand"
+    },
+    {
+     "n": "4",
+     "s": "evil"
+    },
+    {
+     "n": "5",
+     "s": "her monstrous offspring"
+    },
+    {
+     "n": "6",
+     "s": "calamity"
+    },
+    {
+     "n": "7",
+     "s": "their day of freedom"
+    },
+    {
+     "n": "8",
+     "s": "for conflict"
+    },
+    {
+     "n": "9",
+     "s": "Hugin, Odin’s raven?"
+    },
+    {
+     "n": "10",
+     "s": "Here Idun is apparently so called."
+    },
+    {
+     "n": "11",
+     "s": "Rögnir, Odin [Rydberg identifies Rognir as the elf-smith Thjazi, who becomes Volund the sword-smith]"
+    },
+    {
+     "n": "12",
+     "s": "Rögnir and Regin, Odin and the powers? [Rydberg reads this as Volund and his brothers, who aspire to be gods. They are also called vættr, wights and dokkalfr, dark-elves in this poem according to Rydberg..]"
+    },
+    {
+     "n": "13",
+     "s": "Heimdall"
+    },
+    {
+     "n": "14",
+     "s": "Night"
+    },
+    {
+     "n": "15",
+     "s": "This and the preceding strophe appear to be out of their place, and have by Simrock, not without reason, been inserted after the 21st."
+    },
+    {
+     "n": "16",
+     "s": "Bragi"
+    },
+    {
+     "n": "17",
+     "s": "Minni’s horns, Stockh. Edit. See Grimm D.M. p 52, 53 Petersen, N.M. p. 179. Minni is probably a later gloss."
+    },
+    {
+     "n": "18",
+     "s": "Earth"
+    },
+    {
+     "n": "19",
+     "s": "All conjectures. Fenri seems confounded with Hati. See N.M. I. p. 5-7."
+    },
+    {
+     "n": "20",
+     "s": "That the poem lacks the end as well as the beginning appears probable from the circumstance that no further mention is made of Bragi and Idun. Simrock is inclined to think that in the Vegtamskviða we are to look for the ending; but this does not fill up the chasm."
+    }
+   ],
+   "en_source": "Thorpe 1866",
    "en_missing_note": null
   }
  ],
  "sources": {
   "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Forspjallsljóð)",
   "is": "automatic modernisation of the Old Norse",
-  "en": null
+  "en": "Benjamin Thorpe, Edda Sæmundar hinns Fróða (1866), via germanicmythology.com (Odin’s Ravens’ Song (Hrafnagaldr Óðins))"
  }
 }

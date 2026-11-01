@@ -268,6 +268,8 @@ def check_overlays(rows, src):
                 err(f"{where}: replaces must be null or a string")
             if "reason" in rec and not isinstance(rec["reason"], str):
                 err(f"{where}: reason must be a string")
+            if rec.get("withdrawn"):   # kept as history (e.g. an AI draft replaced by a published translation); not applied
+                continue
             if rid in rows and cell in CELLS and (status in STATUSES or (origin in ORIGINS and check in CHECKS)):
                 # docs/DATA_MODEL.md: an unresolved dispute wins; else the latest reviewed / aligned-checked record;
                 # else unreviewed records on top of the generated cell

@@ -49,6 +49,7 @@ folder name must equal the `cell` of every record inside. Any number of files pe
 | `date` | yes | `YYYY-MM-DD` |
 | `reason` | recommended | one line: what was wrong |
 | `replaces` | recommended | what this record supersedes: `null` for the generated text, or an identifier of the earlier record/version (e.g. `auto:v3`, or the earlier record's `author`+`date`) |
+| `withdrawn` | optional | one line saying why the record no longer applies (e.g. "replaced by Thorpe 1866 (published, public domain), 2026-11-01"); the record stays as history and is ignored by the build and the validator |
 
 Optional extra fields are allowed (`source`, `discussion` URL for disputes, `reviewer`), the validator
 ignores them.

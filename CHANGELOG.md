@@ -4,6 +4,10 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 ## Unreleased
 
+- English of Sólarljóð and Hrafnagaldr Óðins (Forspjallsljóð): Benjamin Thorpe's translation (1866, public domain)
+  replaces the AI drafts (`sources/en/thorpe/`, source `thorpe-1866`, row flag `en_thorpe`; 82 + 26 stanzas paired by
+  number; Thorpe's notes as the poems' notes; the 108 AI-draft overlay records marked `withdrawn`). Thorpe did not
+  translate Gróttasöngr. Overlay records may carry `withdrawn` (ignored, kept as history).
 - Names: the curator's seed patch of 2026-11-01 applied (`entities/seed.json`, `rules.json`, `places.json`): 54 entities
   added or completed for the recall gap (Þrymr, Nótt, Dagr, Fulla, Baugi, Logi, Hugi, Elli, Geri, Gramr, Greip, Vanir,
   Dökkálfar, the Rígsþula family, the sky dwarves, horses, rivers, …), forms added to 20 entities, Högni split into
