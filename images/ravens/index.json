@@ -1,0 +1,135 @@
+{
+ "_note": "Huginn and Muninn for the website (decision of 2026-11-01: Huginn = search and the Names index, Muninn = the reader's memory). Derived from one Commons file by edda-site (Pillow); Muninn is the same picture mirrored so the two ravens face each other. Generated files; the records below are the licence check.",
+ "source": {
+  "commons_file": "Corvus corax 1876.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Corvus_corax_1876.jpg",
+  "artist": "John Gerrard Keulemans",
+  "artist_dates": "1842–1912",
+  "date": "1876",
+  "work": "Onze vogels in huis en tuin (hand-coloured lithograph)",
+  "width": 2363,
+  "height": 2466,
+  "licence": "Public domain",
+  "license_basis": "artist died 1912 (more than 70 years); Commons imageinfo extmetadata checked 2026-11-01 (LicenseShortName: Public domain)",
+  "checked_by": "claude (Commons API metadata check), 2026-11-01",
+  "fetched": "2026-11-01"
+ },
+ "credit": {
+  "huginn": "John Gerrard Keulemans, 1876 · public domain",
+  "muninn": "John Gerrard Keulemans, 1876 (mirrored) · public domain"
+ },
+ "files": {
+  "huginn-320.jpg": {
+   "width": 320,
+   "height": 334,
+   "bytes": 17296,
+   "mirrored": false,
+   "crop": "the whole picture"
+  },
+  "huginn-320.webp": {
+   "width": 320,
+   "height": 334,
+   "bytes": 10592,
+   "mirrored": false,
+   "crop": "the whole picture"
+  },
+  "huginn-640.jpg": {
+   "width": 640,
+   "height": 668,
+   "bytes": 59343,
+   "mirrored": false,
+   "crop": "the whole picture"
+  },
+  "huginn-640.webp": {
+   "width": 640,
+   "height": 668,
+   "bytes": 37098,
+   "mirrored": false,
+   "crop": "the whole picture"
+  },
+  "huginn-head-128.jpg": {
+   "width": 128,
+   "height": 128,
+   "bytes": 3206,
+   "mirrored": false,
+   "crop": "head and beak (0,150)-(940,1090) of the original"
+  },
+  "huginn-head-128.webp": {
+   "width": 128,
+   "height": 128,
+   "bytes": 1400,
+   "mirrored": false,
+   "crop": "head and beak (0,150)-(940,1090) of the original"
+  },
+  "huginn-head-64.jpg": {
+   "width": 64,
+   "height": 64,
+   "bytes": 1317,
+   "mirrored": false,
+   "crop": "head and beak (0,150)-(940,1090) of the original"
+  },
+  "huginn-head-64.webp": {
+   "width": 64,
+   "height": 64,
+   "bytes": 578,
+   "mirrored": false,
+   "crop": "head and beak (0,150)-(940,1090) of the original"
+  },
+  "muninn-320.jpg": {
+   "width": 320,
+   "height": 334,
+   "bytes": 17264,
+   "mirrored": true,
+   "crop": "the whole picture"
+  },
+  "muninn-320.webp": {
+   "width": 320,
+   "height": 334,
+   "bytes": 10564,
+   "mirrored": true,
+   "crop": "the whole picture"
+  },
+  "muninn-640.jpg": {
+   "width": 640,
+   "height": 668,
+   "bytes": 59215,
+   "mirrored": true,
+   "crop": "the whole picture"
+  },
+  "muninn-640.webp": {
+   "width": 640,
+   "height": 668,
+   "bytes": 37276,
+   "mirrored": true,
+   "crop": "the whole picture"
+  },
+  "muninn-head-128.jpg": {
+   "width": 128,
+   "height": 128,
+   "bytes": 3217,
+   "mirrored": true,
+   "crop": "head and beak (0,150)-(940,1090) of the original"
+  },
+  "muninn-head-128.webp": {
+   "width": 128,
+   "height": 128,
+   "bytes": 1422,
+   "mirrored": true,
+   "crop": "head and beak (0,150)-(940,1090) of the original"
+  },
+  "muninn-head-64.jpg": {
+   "width": 64,
+   "height": 64,
+   "bytes": 1318,
+   "mirrored": true,
+   "crop": "head and beak (0,150)-(940,1090) of the original"
+  },
+  "muninn-head-64.webp": {
+   "width": 64,
+   "height": 64,
+   "bytes": 574,
+   "mirrored": true,
+   "crop": "head and beak (0,150)-(940,1090) of the original"
+  }
+ }
+}

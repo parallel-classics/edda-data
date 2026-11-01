@@ -377,6 +377,29 @@ SEED_TYPES = ("god", "goddess", "giant", "dwarf", "elf", "valkyrie", "human", "c
 OK_LICENCE = re.compile(r"^(public domain|pd\b|cc0|cc by(-sa)?(\s|$))", re.I)
 
 
+def check_ravens(rows):
+    """images/ravens/ (decision of 2026-11-01): index.json names a public-domain source with a licence check, and every
+    listed file exists with the recorded size."""
+    p = os.path.join(ROOT, "images", "ravens", "index.json")
+    if not os.path.exists(p):
+        return
+    doc = load(p)
+    src = doc.get("source") or {}
+    for k in ("commons_file", "page", "artist", "licence", "license_basis", "checked_by"):
+        if not src.get(k):
+            err(f"images/ravens/index.json: source.{k} missing")
+    if src.get("licence") not in ("Public domain", "CC0 1.0", "CC BY 4.0", "CC BY-SA 4.0"):
+        err(f"images/ravens/index.json: licence {src.get('licence')!r} is not public domain or CC0/BY/BY-SA")
+    for name, rec in (doc.get("files") or {}).items():
+        f = os.path.join(ROOT, "images", "ravens", name)
+        if not os.path.exists(f):
+            err(f"images/ravens/{name}: listed in index.json but missing")
+        elif os.path.getsize(f) != rec.get("bytes"):
+            err(f"images/ravens/{name}: size differs from index.json")
+    if not any(n.startswith("huginn-head-") for n in doc.get("files") or {}) or not any(n.startswith("muninn-") for n in doc.get("files") or {}):
+        err("images/ravens/index.json: needs a huginn-head-* badge and a muninn-* file")
+
+
 def check_worlds(rows):
     """images/worlds/ (task 20): realms.json ids are entities, anchors are keys of the anchors file or in-picture
     coordinates, cited rows exist; diagrams.json files exist and passed the licence check; bg/index.json files exist."""
@@ -674,6 +697,7 @@ def main():
     n_ent, n_men = check_entities(rows)
     check_paths(rows)
     check_worlds(rows)
+    check_ravens(rows)
     print(f"aligned rows: {len(rows)} in {len(chapters)} parts; overlay files: {n_overlay_files}, "
           f"overlay cells: {len(effective)}; image records: {n_images}; quotation links: {n_links}; "
           f"entities: {n_ent}, mentions: {n_men}\n")
