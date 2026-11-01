@@ -1,0 +1,365 @@
+# lemma ; slug ; ON ; EN ; type ; qid ; note        type '>slug' = name form (heiti) of that entity; 'X' = not an entity / leave
+Sigurðr;sigurdr;Sigurðr Fáfnisbani;Sigurd;human;;amb: skalds/jarls named Sigurðr in Skáldskaparmál
+Siguðar;sigurdr;;;=;;variant spelling
+Guðrún;gudrun;Guðrún Gjúkadóttir;Gudrun;human;;
+Guðrúnar;gudrun;;;=;;
+Gjúkadóttur;>gudrun;;;heiti;;
+Einarr;einarr;Einarr;Einarr;skald;;amb: Einarr Skúlason / Einarr skálaglamm — decide by byname
+Skúlason;>einarr;;;name;;byname of Einarr Skúlason
+Gunnarr;gunnarr;Gunnarr Gjúkason;Gunnar;human;;
+Húnar;huns;Húnar;Huns;group;;
+Húnalandi;hunaland;Húnaland;Land of the Huns;place-real;;
+Angantýr;angantyr;Angantýr;Angantyr;human;Q1923583;amb: several Angantýrs (Hyndluljóð, Hlöðskviða)
+Brynhildr;brynhildr;Brynhildr Buðladóttir;Brynhild;valkyrie;Q850506;
+Hárr;>odin;;;heiti;;Hár in Gylfaginning
+Háars;>odin;;;heiti;;
+Jafnhárr;>odin;;;heiti;;
+Fjölsviðr;fjolsvidr;Fjölsviðr;Fjolsvith;giant;;amb: also an Óðinn name in Grímnismál
+Fróða;frodi;Fróði;Frodi;human;;Fróði's mill (Grottasöngr)
+Fróðafriðr;>frodi;;;kenning;;Fróði's peace
+Þjóðólfr;thjodolfr;Þjóðólfr ór Hvini;Thjodolf of Hvinir;skald;Q612925;amb: Þjóðólfr Arnórsson also quoted
+Ymi;ymir;Ymir;Ymir;giant;;
+Aurgelmir;>ymir;;;heiti;;
+Arnórr;arnorr;Arnórr jarlaskáld;Arnor Earls' Skald;skald;Q2630745;
+Alföðr;>odin;;;heiti;;
+Aldaföðr;>odin;;;heiti;;
+Valföðr;>odin;;;heiti;;
+Herjaföður;>odin;;;heiti;;
+Sigföður;>odin;;;heiti;;
+Hrólfr;hrolfr-kraki;Hrólfr kraki;Hrolf Kraki;human;;
+Niflungar;niflungar;Niflungar;Niflungs;group;Q1093934;
+Hniflungum;>niflungar;;;name;;
+Gjúkungar;gjukungar;Gjúkungar;Gjukungs;group;;sons of Gjúki
+Jörmunrekkr;jormunrekkr;Jörmunrekkr;Ermanaric;human;;
+Skrýmir;skrymir;Skrýmir;Skrymir;giant;Q1699370;Útgarða-Loki in disguise
+Eyvindr;eyvindr;Eyvindr skáldaspillir;Eyvind the Plagiarist;skald;Q741327;
+Völundr;volundr;Völundr;Wayland the Smith;human;Q33150;
+Refr;refr;Hofgarða-Refr;Hofgardr-Ref;skald;;
+Hamðir;hamdir;Hamðir;Hamdir;human;;
+Hamðis;hamdir;;;=;;
+Óttarr;ottarr;Óttarr;Ottar;human;;amb: Óttarr heimski (Hyndluljóð) / Óttarr svarti (skald)
+Úlfr;ulfr-uggason;Úlfr Uggason;Ulf Uggason;skald;;author of Húsdrápa
+Uggason;>ulfr-uggason;;;name;;
+Egill;egill;Egill;Egil;human;;amb: Egill Skalla-Grímsson (skald) / Egill in Hymiskviða / Völundr's brother
+Skalla-Grímsson;>egill;;;name;;
+Goti;goths;Gotar;Goths;group;;amb: Goti is also Gunnarr's horse
+Goðþjóðar;>goths;;;name;;
+Reiðgotalandi;reidgotaland;Reiðgotaland;Reidgotaland;place-real;;
+Erpr;erpr;Erpr;Erp;human;;
+Buðli;budli;Buðli;Budli;human;;
+Buðlungar;budlungar;Buðlungar;Budlungs;group;;
+Völuspá;voluspa;Völuspá;Völuspá;work;Q940563;
+Grímhildr;grimhildr;Grímhildr;Grimhild;human;Q1565635;
+Hlórriði;>thor;;;heiti;;
+Ása-Þórr;>thor;;;heiti;;
+Ása-Þór;>thor;;;heiti;;
+Vingi;vingi;Vingi;Vingi;human;;Atli's messenger
+Böðvildr;bodvildr;Böðvildr;Bodvild;human;Q3641530;
+Svíþjóð;sweden;Svíþjóð;Sweden;place-real;;
+Svíðjóð;>sweden;;;name;;
+Svíar;swedes;Svíar;Swedes;group;;
+Yngvi;yngvi;Yngvi;Yngvi;god;Q965980;amb: Yngvi-Freyr / human Yngvi
+Ynglingar;ynglings;Ynglingar;Ynglings;group;Q913138;
+Skilfingar;skilfings;Skilfingar;Skilfings;group;;
+Skilfingr;>odin;;;heiti;;
+Danmörk;denmark;Danmörk;Denmark;place-real;;
+Danmarkar;>denmark;;;name;;
+Danar;danes;Danir;Danes;group;;
+Dönum;>danes;;;name;;
+Hermóðr;hermodr;Hermóðr;Hermod;god;Q579612;
+Hallfreðr;hallfredr;Hallfreðr vandræðaskáld;Hallfred Troublesome-Poet;skald;Q769257;
+Njarðar;>njordr;;;name;;
+Hlakkar;hlokk;Hlökk;Hlokk;valkyrie;;mostly in kennings for battle
+Hlöðr;hlodr;Hlöðr;Hlod;human;Q2383464;
+Hervör;hervor;Hervör;Hervor;human;;amb: Hervör alvitr (Völundarkviða) / Hervör of Hervarar saga
+Níðaðar;nidudr;Níðuðr;Nithhad;human;Q1987427;
+Níðuðr;nidudr;;;=;;
+Nóregi;norway;Nóregr;Norway;place-real;;
+Eilífr;eilifr;Eilífr Goðrúnarson;Eilif Godrunarson;skald;Q1304165;
+Hjörvarðr;hjorvardr;Hjörvarðr;Hjorvard;human;;amb: several
+Heiðrekr;heidrekr;Heiðrekr;Heidrek;human;;
+Míms;mimir;Mímir;Mimir;god;;
+Bölverkr;>odin;;;heiti;;
+Markús;markus;Markús Skeggjason;Markus Skeggjason;skald;;
+Eylimi;eylimi;Eylimi;Eylimi;human;;
+Sigmundr;sigmundr;Sigmundr Völsungsson;Sigmund;human;Q1158552;
+Völsungsson;>sigmundr;;;name;;
+Hárbarðr;>odin;;;heiti;;
+Einherja;einherjar;einherjar;Einherjar;group;Q337168;
+Kormákr;kormakr;Kormákr Ögmundarson;Kormak;skald;;
+Skúli;skuli;Skúli Þorsteinsson;Skuli Thorsteinsson;skald;;
+Þorsteinsson;>skuli;;;name;;
+Rínar;rhine;Rín;Rhine;place-real;;
+Haraldr;haraldr;Haraldr;Harald;human;;amb: Haraldr hárfagri and others
+Agnarr;agnarr;Agnarr Geirröðarson;Agnar;human;Q3606620;amb: Agnarr in Sigrdrífumál
+Höðbroddr;hodbroddr;Höðbroddr;Hodbrodd;human;Q3786971;
+Friðleifr;fridleifr;Friðleifr;Fridleif;human;;
+Þundr;>odin;;;heiti;;
+Belja;beli;Beli;Beli;giant;;killed by Freyr
+Þórðr;thordr;Þórðr;Thord;skald;;amb: Þórðr Kolbeinsson / Þórðr Sjáreksson
+Sjáreksson;>thordr;;;name;;
+Sörli;sorli;Sörli;Sorli;human;;
+Sörla;sorli;;;=;;
+Kristr;christ;Kristr;Christ;other;;
+Ylfingar;ylfingar;Ylfingar;Ylfings;group;Q4021120;
+Hundingr;hundingr;Hundingr;Hunding;human;;
+Hundingsbani;>helgi-hundingsbani;;;name;;
+Ormarr;ormarr;Ormarr;Ormar;human;;
+Hálfsrekkar;halfsrekkar;Hálfsrekkar;Half's warriors;group;;
+Oddrún;oddrun;Oddrún;Oddrun;human;;
+Oddrúnar;oddrun;;;=;;
+Skjöldungar;skjoldungs;Skjöldungar;Skjoldungs;group;;
+Sváfnir;svafnir;Sváfnir;Svafnir;human;;amb: king (Helgakviða Hjörvarðssonar) / Óðinn name / serpent
+Uðr;>odin;;;heiti;;
+Yggr;>odin;;;heiti;;
+Læðingi;laedingr;Læðingr;Laeding;object;;first fetter of Fenrir
+Laufeyjarson;>loki;;;name;;
+Loftr;>loki;;;heiti;;
+Iðunni;>idunn;;;name;;
+Glúmr;glumr;Glúmr Geirason;Glum Geirason;skald;;
+Geirason;>glumr;;;name;;
+Gunnlaðar;gunnlod;Gunnlöð;Gunnlod;giant;;
+Viðris;>odin;;;heiti;;
+Hallvarðr;hallvardr;Hallvarðr háreksblesi;Hallvard Hareksblesi;skald;Q5785230;
+Hjálpreks;hjalprekr;Hjálprekr;Hjalprek;human;;
+Randvér;randver;Randvér;Randver;human;Q2335581;
+Haki;haki;Haki;Haki;human;Q5640455;
+Innsteinn;innsteinn;Innsteinn;Innstein;human;;
+Frekasteini;frekasteinn;Frekasteinn;Frekastein;place-legend;;
+Sefafjöllum;sefafjoll;Sefafjöll;Sefafjoll;place-legend;;
+Sigrlinn;sigrlinn;Sigrlinn;Sigrlinn;human;;
+Sigrlinnar;sigrlinn;;;=;;
+Gagnráðr;>odin;;;heiti;;
+Trór;tror;Trór;Tror;human;;Formáli: Thor as son of Memnon
+Trjóa;troy;Trója;Troy;place-real;;
+Tyrklandi;turkey;Tyrkland;Turkland;place-real;;Formáli
+Trakíá;thrace;Trakía;Thrace;place-real;;
+Ásíamanna;>asia;;;name;;
+Saxlandi;saxony;Saxland;Saxony;place-real;;
+Saxa;saxons;Saxar;Saxons;group;;
+Hnikarr;>odin;;;heiti;;
+Hnikuðr;>odin;;;heiti;;
+Ómi;>odin;;;heiti;;
+Biflindi;>odin;;;heiti;;
+Sviðrir;>odin;;;heiti;;
+Atríðr;>odin;;;heiti;;
+Hroftatýr;>odin;;;heiti;;
+Hrofts;>odin;;;heiti;;
+Sigtýs;>odin;;;heiti;;
+Viðurs;>odin;;;heiti;;
+Jálkr;>odin;;;heiti;;
+Hjalmberi;>odin;;;heiti;;
+Svipall;>odin;;;heiti;;
+Báleygr;>odin;;;heiti;;
+Síðskeggr;>odin;;;heiti;;
+Farmatýr;>odin;;;heiti;;
+Múspell;muspell;Múspell;Muspell;place-myth;Q207923;
+Múspelli;muspell;;;=;;
+Múspellssynir;muspell-sons;Múspells synir;Sons of Muspell;group;;
+Sinir;sinir;Sinir;Sinir;animal;;horse (Grímnismál)
+Tý;>tyr;;;name;;
+Hléseyju;hlesey;Hlésey;Hlesey;place-myth;;
+Víga-Glúmr;viga-glumr;Víga-Glúmr;Viga-Glum;skald;Q16571900;
+Geirröðargarða;geirrodargardar;Geirröðargarðar;Geirrod's Garths;place-myth;;
+Hölgi;holgi;Hölgi;Holgi;human;;
+Bikki;bikki;Bikki;Bikki;human;;
+Gotland;gotland;Gotland;Gotland;place-real;;
+Vöggr;voggr;Vöggr;Vogg;human;;
+Yrsu;yrsa;Yrsa;Yrsa;human;;
+Eyjólfr;eyjolfr;Eyjólfr dáðaskáld;Eyjolf Dadaskald;skald;Q3062786;
+Sighvatr;sighvatr;Sighvatr Þórðarson;Sighvat Thordarson;skald;;
+Þorgrímsþulu;thorgrimsthula;Þorgrímsþula;Thorgrimsthula;work;;
+Skævaði;skaevadr;Skævaðr;Skaevad;animal;;horse
+Valgarðr;valgardr;Valgarðr á Velli;Valgard of Voll;skald;;
+Lofðar;lofdi;Lofði;Lofdi;human;;
+Þjóðrekr;thjodrekr;Þjóðrekr;Theoderic;human;Q105105;
+Gnipalundi;gnipalundr;Gnipalundr;Gnipalund;place-legend;;
+Hagall;hagall;Hagall;Hagal;human;;
+Borgnýjar;borgny;Borgný;Borgny;human;;
+Ulfdölum;ulfdalir;Úlfdalir;Wolfdales;place-legend;;
+Móðni;modi;Móði;Modi;god;;
+Englandi;england;England;England;place-real;;
+Élivágum;>elivagar;;;name;;
+Svarinshaugi;svarinshaugr;Svarinshaugr;Svarin's Mound;place-legend;;
+Grímnismálum;grimnismal;Grímnismál;Grímnismál;work;;
+Nönnu;>nanna;;;name;;
+Nepsdóttur;>nanna;;;name;;
+Hlöðynjar;>jord;;;heiti;;
+Iðavelli;idavollr;Iðavöllr;Idavoll;place-myth;;
+Fjalarr;fjalarr;Fjalarr;Fjalar;dwarf;;amb: dwarf / giant (= Suttungr) / rooster
+Þorvaldr;thorvaldr;Þorvaldr veili;Thorvald Veili;skald;;
+Þorbjörn;hornklofi;Þorbjörn hornklofi;Thorbjorn Hornklofi;skald;Q335551;
+Hornklofi;hornklofi;;;=;;
+Gríðarvölr;gridarvolr;Gríðarvölr;Grid's staff;object;;
+Gríðarveli;gridarvolr;;;=;;
+Hálfi;halfr;Hálfr;Half;human;;
+Fýrisvalla;fyrisvellir;Fýrisvellir;Fyris Plains;place-real;;
+Viðarr;>vidarr;;;name;;
+Hákunar;hakon;Hákon;Hakon;human;;amb: Hákon jarl / King Hákon
+Hákun;hakon;;;=;;
+Mardallar;>freyja;;;heiti;;
+Gefn;>freyja;;;heiti;;
+Vanabrúðar;>freyja;;;kenning;;
+Mýsingr;mysingr;Mýsingr;Mysing;human;Q60999705;
+Svíagrís;sviagris;Svíagríss;Sviagris;object;;ring
+Uppsala;uppsala;Uppsalir;Uppsala;place-real;;
+Þorleikr;thorleikr;Þorleikr fagri;Thorleik the Fair;skald;;
+Sköglar;skogul;Skögul;Skogul;valkyrie;;
+Göndlar;gondul;Göndul;Gondul;valkyrie;;
+Ráðgríðr;radgridr;Ráðgríðr;Radgrid;valkyrie;;
+Hrundar;hrund;Hrund;Hrund;valkyrie;;
+Hörða;hordar;Hörðar;Hordar;group;;people of Hordaland
+Haddingja;haddingjar;Haddingjar;Haddings;human;;
+Hálfdanar;halfdan;Hálfdan;Halfdan;human;;amb
+Hálfdan;halfdan;;;=;;
+Danpar;danpr;Danpr;Danp;place-legend;;
+Nörvi;norvi;Nörvi;Norvi;giant;;father of Night
+Menglaðar;menglod;Menglöð;Menglod;giant;;
+Gullrönd;gullrond;Gullrönd;Gullrond;human;;
+Frakklandi;frankland;Frakkland;Frankland;place-real;;
+Fraklandi;>frankland;;;name;;
+Geitir;geitir;Geitir;Geitir;human;;
+Geitis;geitir;;;=;;
+Logafjöllum;logafjoll;Logafjöll;Logafjoll;place-legend;;
+Brunavágum;brunavagar;Brunavágar;Brunavagar;place-legend;;
+Álofar;alof;Álof;Alof;human;;
+Árheima;arheimar;Árheimar;Arheimar;place-legend;Q2305530;
+Dúnheiði;dunheidr;Dúnheiðr;Dunheath;place-legend;;
+Brísinga;>brisingamen;;;name;;
+Sigarr;sigarr;Sigarr;Sigar;human;Q7511930;
+Sigarsvöllu;sigarsvellir;Sigarsvellir;Sigar's Fields;place-legend;;
+Selundi;zealand;Selund;Zealand;place-real;;
+Viðblinda;vidblindi;Viðblindi;Vidblindi;giant;;
+Svarthöfða;svarthofdi;Svarthöfði;Svarthofdi;giant;;
+Hjúki;hjuki;Hjúki;Hjuki;human;Q16707925;
+Náinn;nainn;Náinn;Nain;dwarf;;
+Nóri;nori;Nóri;Nori;dwarf;;
+Mjöðvitnir;mjodvitnir;Mjöðvitnir;Mjodvitnir;dwarf;;
+Gandalfr;gandalfr;Gandálfr;Gandalf;dwarf;Q587350;
+Þorinn;thorinn;Þorinn;Thorin;dwarf;;
+Kíli;kili;Kíli;Kili;dwarf;;
+Nýráðr;nyradr;Nýráðr;Nyrad;dwarf;;
+Ráðsviðr;radsvidr;Ráðsviðr;Radsvid;dwarf;;
+Óri;ori;Óri;Ori;dwarf;;
+Virfir;virfir;Virfir;Virfir;dwarf;;
+Austra;austri;Austri;Austri;dwarf;;
+Þráinn;thrainn;Þráinn;Thrain;dwarf;;
+Örmt;ormt;Örmt;Ormt;place-myth;;river
+Gunnþró;gunnthro;Gunnþró;Gunnthro;place-myth;;river
+Göpul;gopul;Göpul;Gopul;place-myth;;river
+Geirvimul;geirvimul;Geirvimul;Geirvimul;place-myth;;river
+Nöt;not;Nöt;Not;place-myth;;river
+Vegsvinn;vegsvinn;Vegsvinn;Vegsvinn;place-myth;;river
+Þjóðnuma;thjodnuma;Þjóðnuma;Thjodnuma;place-myth;;river
+Vimrar;vimur;Vimur;Vimur;place-myth;;river crossed by Thor
+Grafvölluðr;grafvolludr;Grafvölluðr;Grafvollud;monster;;serpent under Yggdrasill
+Ljósálfar;ljosalfar;Ljósálfar;Light-elves;group;;
+Bilskirrni;bilskirnir;Bilskírnir;Bilskirnir;place-myth;;Thor's hall
+Bilskirrnis;bilskirnir;;;=;;
+Heimdallargaldri;heimdallargaldr;Heimdallargaldr;Heimdallargaldr;work;;
+Slíðrugtanni;>gullinbursti;;;heiti;;
+Gjallar;gjallarhorn;Gjallarhorn;Gjallarhorn;object;Q607348;amb: Gjallarbrú (bridge)
+Ókólni;okolnir;Ókólnir;Okolnir;place-myth;Q3041978;
+Leifþrasir;leifthrasir;Leifþrasir;Leifthrasir;human;;
+Hoddmímis;hoddmimis-holt;Hoddmímis holt;Hoddmimir's Wood;place-myth;Q679137;
+Suttungamjöð;mead-of-poetry;Suttungamjöðr;Mead of poetry;object;Q1697692;
+Suttungamiði;>mead-of-poetry;;;kenning;;
+Völu-Steinn;volu-steinn;Völu-Steinn;Volu-Stein;skald;Q2727063;
+Þjalfa;>thjalfi;;;name;;
+Eysteinn;eysteinn;Eysteinn;Eystein;human;;
+Haðar;>hodr;;;name;;
+Húsdrápu;husdrapa;Húsdrápa;Husdrapa;work;;
+Vanaguð;>freyr;;;kenning;;
+Vananið;>freyr;;;kenning;;
+Grjóttúnagörðum;grjottunagardar;Grjóttúnagarðar;Grjotunagardar;place-myth;;
+Járnsöxu;jarnsaxa;Járnsaxa;Jarnsaxa;giant;;
+Haustlöng;haustlong;Haustlöng;Haustlong;work;Q1591358;
+Hnossar;hnoss;Hnoss;Hnoss;goddess;;
+Böðvarr;bodvarr;Böðvarr bjarki;Bodvar Bjarki;human;Q2519089;
+Ægisdætra;daughters-of-aegir;Ægisdætr;Daughters of Aegir;group;;
+Snæbjörn;snaebjorn;Snæbjörn;Snaebjorn;skald;;
+Amlóða;amlodi;Amlóði;Amlodi (Hamlet);human;;
+Fimafengr;fimafengr;Fimafengr;Fimafeng;human;Q2540845;servant of Ægir
+Gotþormi;>guthormr;;;name;;
+Hlymdölum;hlymdalir;Hlymdalir;Hlymdales;place-legend;;
+Ragnar;ragnarr;Ragnarr loðbrók;Ragnar Lodbrok;human;Q314492;
+Ágústus;augustus;Ágústus;Augustus;human;;
+Jalangrsheiði;jalangrsheidr;Jalangrsheiðr;Jelling Heath;place-real;;
+Gróttasöngr;grottasongr;Gróttasöngr;Grottasöngr;work;Q1551604;
+Norðrlöndum;nordrlond;Norðrlönd;Northern lands;place-real;;
+Hallar-Steinn;hallar-steinn;Hallar-Steinn;Hallar-Stein;skald;Q3126053;
+Listi;listi;Listi;Lista;place-real;;
+Agðir;agdir;Agðir;Agder;place-real;Q2729021;
+Tjaldari;tjaldari;Tjaldari;Tjaldari;animal;;horse
+Lungr;lungr;Lungr;Lung;animal;;horse
+Drösli;drosull;Drösull;Drosull;animal;;horse
+Háfeta;hafeti;Háfeti;Hafeti;animal;;horse
+Fáki;fakr;Fákr;Fak;animal;;horse
+Vífill;vifill;Vífill;Vifil;human;;sea-king
+Stúfi;stufr;Stúfr;Stuf;animal;;horse
+Mói;morr;Mórr;Mor;animal;;horse
+Vakri;vakr;Vakr;Vak;animal;;horse
+Blakki;blakkr;Blakkr;Blakk;animal;;horse
+Bjárr;bjarr;Bjárr;Bjar;animal;;horse
+Kerti;kertr;Kertr;Kert;animal;;horse
+Fölkvi;folkvir;Fölkvir;Folkvir;animal;;horse
+Hæfis;haefir;Hæfir;Haefir;animal;;horse
+Kálfsvísu;kalfsvisa;Kálfsvísa;Kalfsvisa;work;;
+Alsvinnsmálum;alvissmal;Alvíssmál;Alvíssmál;work;;
+Austrvegu;austrvegr;Austrvegr;The East;place-real;;
+Sigtryggr;sigtryggr;Sigtryggr;Sigtrygg;human;;
+Jórunn;jorunn;Jórunn skáldmær;Jorunn the Poetess;skald;;
+Knéfröðr;knefrodr;Knéfröðr;Knefrod;human;;Atli's messenger
+Glaumvör;glaumvor;Glaumvör;Glaumvor;human;;
+Sólarr;solarr;Sólarr;Solar;human;;
+Eitill;eitill;Eitill;Eitil;human;;son of Atli
+Viðópnis;vidofnir;Víðófnir;Vidofnir;animal;;rooster
+Sinmöru;sinmara;Sinmara;Sinmara;giant;;
+Herkja;herkja;Herkja;Herkja;human;;
+Niðhöggr;>nidhoggr;;;name;;
+Borghildr;borghildr;Borghildr;Borghild;human;;
+Álfi;alfr;Álfr;Alf;human;;amb
+Hervarðr;hervardr;Hervarðr;Hervard;human;;
+Eyfuru;eyfura;Eyfura;Eyfura;human;;
+Brálundi;bralundr;Brálundr;Bralund;place-legend;;
+Hringstaði;hringstadir;Hringstaðir;Hringstadir;place-legend;;
+Himinvanga;himinvangar;Himinvangar;Himinvangar;place-legend;;
+Móinsheimum;moinsheimar;Móinsheimar;Moinsheimar;place-legend;;
+Granmarssynir;granmarssynir;Granmarssynir;Sons of Granmar;group;;
+Fjöturlundi;fjoturlundr;Fjöturlundr;Fetter-grove;place-legend;;
+Humli;humli;Humli;Humli;human;Q5905173;
+Humla;humli;;;=;;
+Humlungr;humlungr;Humlungr;Humlung;human;;
+Hatafirði;hatafjordr;Hatafjörðr;Hatafjord;place-legend;;
+Munarvági;munarvagr;Munarvágr;Munarvag;place-legend;;
+Andvarafors;andvarafors;Andvarafors;Andvari's Falls;place-myth;;
+Þír;thir;Þír;Thir;human;;Rígsþula
+Hjálmgunnarr;hjalmgunnarr;Hjálmgunnarr;Hjalmgunnar;human;;
+Hlöðvés;hlodver;Hlöðvér;Hlodver;human;;
+Svanhvítrar;svanhvit;Svanhvít;Svanhvit;human;;
+Sævarstöð;saevarstod;Sævarstöð;Saevarstod;place-legend;;
+Hveðnu;hvedna;Hveðna;Hvedna;human;;
+Glóinn;X;;;X;;Formáli (Lóriði's line) — check
+Róða;X;;;X;;check
+Ásmundar;X;;;X;;check
+Steinþórsson;X;;;X;;byname, check
+Guðrúnarson;X;;;X;;
+Þórsteini;X;;;X;;
+Sigurðarson;X;;;X;;
+Þorfinn;X;;;X;;
+Kolbeinsson;X;;;X;;
+Högnason;X;;;X;;
+Vetrar;X;;;X;;
+Öglói;X;;;X;;
+Barreyjarskáld;X;;;X;;
+Fáfnisarf;X;;;X;;
+Grettir;X;;;X;;
+Sölsa;X;;;X;;
+Apli;X;;;X;;
+Fleins;X;;;X;;
+Dylgju;X;;;X;;
+Viðolfi;X;;;X;;
+Vilmeiði;X;;;X;;
+Sóta;X;;;X;;
+Gizurr;X;;;X;;
+Asíá;asia;Asía;Asia;place-real;;Formáli

@@ -135,6 +135,15 @@ verse block is a one-line verse.
 `images/scenes.json` (briefs per chapter) and `images/records.json` (verified public-domain images with
 `part`, `chapter`, `scene_rows`, credit and licence fields) — schema in `images/README.md`.
 
+## Entities (names)
+
+`entities/` holds the names of the Eddas keyed to Wikidata: a curated `seed.json`, hand `rules.json` and
+`notable.json`, and the generated `entities.json` (one record per entity, with `tags`, names per language,
+image, first mentions per book) and `mentions.json` (one record per mention: entity, row id, `lang`, the form as
+written, kind `name` / `heiti` / `kenning`, `check` when ambiguous). Shapes and the tag vocabulary in
+`entities/README.md`; the feature in `edda-site/docs/specs/ENTITIES.md`. Everything there is status `auto`.
+Entity ids are stable like row ids; corrections will be overlay records (shape to be defined with task 16b).
+
 ## Validation
 
 `python -I scripts/validate.py` enforces: every row has Old Norse; ids unique; every overlay record points at
