@@ -1,0 +1,132 @@
+{
+ "_note": "Label anchor points for the task 20 map background, in image pixels of worlds-background-v2.jpg (2576x2576). Convert to percentages for the SVG overlay (viewBox 0 0 2576 2576 on top of the image keeps them exact). One anchors file per image version. From the cloud session, 2026-11-01; v2 supersedes v1 (gold-roofed Gimlé, four stags, Náströnd as a hall of serpents).",
+ "image": "worlds-background-v2.jpg",
+ "size": [
+  2576,
+  2576
+ ],
+ "credit": "Background: AI-generated (Google Gemini), 2026. Labels and placement: Open Edda.",
+ "licence": "CC0 1.0 for the picture (the maintainer's own work, confirmed 2026-11-01); the labels and SVG are CC BY 4.0 like the rest",
+ "ai_generated": true,
+ "not_in_picture": [
+  "ginnungagap",
+  "gjallarbru",
+  "elivagar",
+  "vedrfolnir"
+ ],
+ "notes": {
+  "nastrond": "a hall woven of serpents on the bottom-right shore (Völuspá 38)",
+  "gimle": "a gold-roofed hall (Gylfaginning 17)",
+  "stags": "four stags: anchors stags, stag-2, stag-3 (Dáinn, Dvalinn, Duneyrr, Duraþrór)",
+  "svartalfaheimr": "the dwarves' forges, lower left",
+  "muspell": "lower left corner",
+  "niflheimr": "the misty cave, bottom centre-left",
+  "hel": "the gate, bottom centre"
+ },
+ "anchors": {
+  "gimle": [
+   1301,
+   219
+  ],
+  "alfheimr": [
+   309,
+   386
+  ],
+  "eagle": [
+   1301,
+   386
+  ],
+  "valholl": [
+   1262,
+   618
+  ],
+  "asgardr": [
+   1443,
+   734
+  ],
+  "vanaheimr": [
+   1855,
+   708
+  ],
+  "stags": [
+   618,
+   683
+  ],
+  "stag-2": [
+   1850,
+   477
+  ],
+  "stag-3": [
+   2048,
+   683
+  ],
+  "bifrost": [
+   675,
+   1082
+  ],
+  "ratatoskr": [
+   1378,
+   1030
+  ],
+  "yggdrasill": [
+   1275,
+   1159
+  ],
+  "midgardr": [
+   1443,
+   1404
+  ],
+  "midgardsormr": [
+   1211,
+   1533
+  ],
+  "world-sea": [
+   412,
+   1404
+  ],
+  "jotunheimar": [
+   2241,
+   1159
+  ],
+  "utgardr": [
+   2357,
+   1327
+  ],
+  "svartalfaheimr": [
+   361,
+   1752
+  ],
+  "urdarbrunnr": [
+   850,
+   1932
+  ],
+  "mimisbrunnr": [
+   1301,
+   2009
+  ],
+  "hvergelmir": [
+   2035,
+   2035
+  ],
+  "nidhoggr": [
+   2138,
+   1816
+  ],
+  "niflheimr": [
+   979,
+   2318
+  ],
+  "hel": [
+   1649,
+   2293
+  ],
+  "nastrond": [
+   2306,
+   2241
+  ],
+  "muspell": [
+   283,
+   2267
+  ]
+ }
+}
