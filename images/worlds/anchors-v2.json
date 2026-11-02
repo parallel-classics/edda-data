@@ -5,9 +5,8 @@
   2576,
   2576
  ],
- "credit": "Background: AI-generated (Google Gemini), 2026. Labels and placement: Open Edda.",
- "licence": "CC0 1.0 for the picture (the maintainer's own work, confirmed 2026-11-01); the labels and SVG are CC BY 4.0 like the rest",
- "ai_generated": true,
+ "credit": "© 2026 Grigory Sapunov. Labels and placement: Open Edda.",
+ "licence": "CC BY 4.0 for the picture (© 2026 Grigory Sapunov, decision of 2026-11-02, replacing CC0 of 2026-11-01); the labels and SVG are CC BY 4.0 like the rest",
  "not_in_picture": [
   "ginnungagap",
   "gjallarbru",
@@ -128,5 +127,6 @@
    283,
    2267
   ]
- }
+ },
+ "made_with": "Google Gemini image generation; prompt in edda-site/docs/specs/WORLD_MAP.md (provenance only, not shown on the page)"
 }

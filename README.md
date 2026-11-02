@@ -1,5 +1,7 @@
 # edda-data — Open Edda, the dataset
 
+Read it at **https://openedda.is**.
+
 An open, community-corrected parallel edition of both Eddas: Snorri Sturluson's *Edda* (c. 1220) and the
 *Poetic Edda*. The normalised Old Norse is the pivot; beside it stand the text in modern Icelandic spelling and
 an English translation, and further languages can be added as columns. All four parts of Snorri's Edda

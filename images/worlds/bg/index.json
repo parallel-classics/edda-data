@@ -1,13 +1,12 @@
 {
- "_note": "Resized copies of the map background for the website, written by edda-site/pipeline/make_worlds.py background from worlds-background-v2.jpg. AI-generated picture (CC0, the maintainer's own work); it must be labelled AI-generated wherever it appears. Generated; do not edit.",
+ "_note": "Resized copies of the map background for the website, written by edda-site/pipeline/make_worlds.py background from worlds-background-v2.jpg. Picture © 2026 Grigory Sapunov, CC BY 4.0; provenance in made_with (not shown on the page). Generated; do not edit.",
  "source": "worlds-background-v2.jpg",
  "size": [
   2576,
   2576
  ],
- "credit": "Background: AI-generated (Google Gemini), 2026. Labels and placement: Open Edda.",
- "licence": "CC0 1.0 for the picture (the maintainer's own work, confirmed 2026-11-01); the labels and SVG are CC BY 4.0 like the rest",
- "ai_generated": true,
+ "credit": "© 2026 Grigory Sapunov",
+ "licence": "CC BY 4.0",
  "files": {
   "worlds-v2-1600.jpg": {
    "width": 1600,
@@ -39,5 +38,6 @@
    "height": 600,
    "bytes": 76434
   }
- }
+ },
+ "made_with": "Google Gemini image generation; prompt in edda-site/docs/specs/WORLD_MAP.md (provenance only, not shown on the page)"
 }
