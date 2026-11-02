@@ -509,8 +509,12 @@ def check_worlds(rows):
     bp = os.path.join(wd, "bg", "index.json")
     if os.path.exists(bp):
         b = load(bp)
-        if not b.get("ai_generated"):
-            err("images/worlds/bg/index.json: ai_generated must be true (the background is AI-generated)")
+        # decision 2026-11-02: credited to the maintainer (CC BY 4.0), no AI label on the page; the provenance
+        # (how the picture was made) must stay recorded in made_with
+        if not b.get("made_with"):
+            err("images/worlds/bg/index.json: made_with must record how the background was made")
+        if b.get("licence") not in ("CC BY 4.0", "CC0 1.0"):
+            err(f"images/worlds/bg/index.json: licence {b.get('licence')!r} is not CC BY 4.0 or CC0 1.0")
         for name in b.get("files", {}):
             if not os.path.exists(os.path.join(wd, "bg", name)):
                 err(f"images/worlds/bg/{name}: missing")

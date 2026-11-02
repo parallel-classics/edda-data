@@ -6,6 +6,7 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 - Map of the worlds: the background's credit is "© 2026 Grigory Sapunov", licence CC BY 4.0 (was CC0 and an
   AI-generated label); the Gemini provenance stays in the records (`made_with`), not on the page.
+  scripts/validate.py checks for `made_with` and the licence instead of the old `ai_generated` flag.
 - Icelandic of Hávamál, Völuspá, Þrymskviða, Völundarkviða and Helgakviða Hundingsbana II: Netútgáfan's modern-spelling
   text (`sources/is/netutgafan/`, 🟡 until the notification email) placed on Guðni Jónsson's rows as `is_nu` (prepared,
   not shown; 365 of 369 rows, four keep the automatic text); `fill_netutgafan.py --switch` turns it into the column.
