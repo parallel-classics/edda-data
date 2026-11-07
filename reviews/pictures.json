@@ -9,6 +9,24 @@
    "note": null,
    "by": "grigory",
    "date": "2026-11-07"
+  },
+  {
+   "image": "img/names/bragi.jpg",
+   "entity": "bragi",
+   "row": "g-c1-1",
+   "verdict": "clear",
+   "note": null,
+   "by": "grigory",
+   "date": "2026-11-07"
+  },
+  {
+   "image": "img/names/valhalla.jpg",
+   "entity": "valhalla",
+   "row": "g-c2-1",
+   "verdict": "ok",
+   "note": null,
+   "by": "grigory",
+   "date": "2026-11-07"
   }
  ]
 }
