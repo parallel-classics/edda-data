@@ -48,6 +48,13 @@
    "label": "Thorpe 1866",
    "lang": "en",
    "title": "Benjamin Thorpe, Edda Sæmundar hinns Fróða: The Edda of Sæmund the Learned (1866), public domain"
+  },
+  "oe-modern-brodeur": {
+   "kind": "ai",
+   "label": "Open Edda, modernised Brodeur",
+   "lang": "en",
+   "title": "Open Edda's modernisation of A. G. Brodeur's translation (1916): AI draft, reviewed row by row in review mode; CC BY 4.0",
+   "licence": "CC BY 4.0"
   }
  },
  "cells": {
@@ -59,7 +66,8 @@
   "g": {
    "on": "gudni-1954",
    "is": "netutgafan-1997",
-   "en": "brodeur-1916"
+   "en": "brodeur-1916",
+   "em": "oe-modern-brodeur"
   },
   "s": {
    "on": "gudni-1954",

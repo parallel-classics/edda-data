@@ -3,6 +3,9 @@
 All notable changes to the dataset. Versions are git tags; releases are archived on Zenodo.
 
 ## Unreleased
+- English · modern (pilot): Open Edda's AI modernisation of Brodeur's Gylfaginning 1-10, CC BY 4.0, not reviewed
+  (sources/en/modern/gylf_1-10.json, placed as the column `em` by edda-site/pipeline/fill_modern.py; source
+  oe-modern-brodeur in aligned/sources.json). The validator knows the column `em`.
 
 - First review-mode export (2026-11-07, edda-site/tools/export_reviews.py): Gylfaginning 1.1 checked in all three
   columns (overlays/*/review-grigory.json); the picture of Bragi confirmed (reviews/pictures.json); reviews/marks.json
