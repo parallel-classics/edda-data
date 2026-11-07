@@ -3,6 +3,10 @@
 All notable changes to the dataset. Versions are git tags; releases are archived on Zenodo.
 
 ## Unreleased
+- Names: summaries for the minor entities (`entities/summaries.json`, AI drafts, not reviewed): 321 more, for the
+  entities with 1-4 Old Norse mentions (67 with 4, 82 with 3, 120 with 2, 52 with 1), one short paragraph each citing
+  this edition's rows; 587 of 598 entities now have one. 11 left out because the index entry mixes different figures
+  or is a false match (listed in the pull request for a rules fix).
 - English · modern (pilot): Open Edda's AI modernisation of Brodeur's Gylfaginning 1-10, CC BY 4.0, not reviewed
   (sources/en/modern/gylf_1-10.json, placed as the column `em` by edda-site/pipeline/fill_modern.py; source
   oe-modern-brodeur in aligned/sources.json). The validator knows the column `em`.
