@@ -1,0 +1,41 @@
+{
+ "_note": "Review-mode titles (task 28), written by edda-site/tools/export_reviews.py; the latest item on a target counts.",
+ "items": [
+  {
+   "key": "g-ch2",
+   "lang": "en",
+   "verdict": "ok",
+   "fix": null,
+   "note": null,
+   "by": "grigory",
+   "date": "2026-11-07"
+  },
+  {
+   "key": "g-ch1",
+   "lang": "en",
+   "verdict": "ok",
+   "fix": null,
+   "note": null,
+   "by": "grigory",
+   "date": "2026-11-07"
+  },
+  {
+   "key": "g-ch3",
+   "lang": "en",
+   "verdict": "ok",
+   "fix": null,
+   "note": null,
+   "by": "grigory",
+   "date": "2026-11-07"
+  },
+  {
+   "key": "g-ch4",
+   "lang": "en",
+   "verdict": "ok",
+   "fix": null,
+   "note": null,
+   "by": "grigory",
+   "date": "2026-11-07"
+  }
+ ]
+}
