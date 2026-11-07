@@ -4,9 +4,10 @@
   "en": "editor",
   "is": "draft"
  },
+ "anchors": "anchors-v3.json",
  "note": {
-  "en": "Völuspá 2 speaks of nine worlds but no Eddic text lists them; the common \"nine worlds\" list is a modern reconstruction. Positions here follow the passages cited. Not drawn: Ginnungagap, the void between Niflheimr and Múspell before the creation (Gylfaginning 5); the rivers Élivágar (Gylfaginning 5, Vafþrúðnismál 31); Gjallarbrú, the bridge on the road to Hel (Gylfaginning 49).",
-  "is": "Völuspá 2 nefnir níu heima en enginn eddutexti telur þá upp; algengi listinn yfir \"heimana níu\" er nútíma endurgerð. Staðsetningar hér fylgja tilvitnuðu köflunum. Ekki teiknað: Ginnungagap, tómið milli Niflheims og Múspells fyrir sköpunina (Gylfaginning 5); árnar Élivágar (Gylfaginning 5, Vafþrúðnismál 31); Gjallarbrú, brúin á leiðinni til Heljar (Gylfaginning 49)."
+  "en": "Völuspá 2 speaks of nine worlds but no Eddic text lists them; the common \"nine worlds\" list is a modern reconstruction. Positions here follow the passages cited. Not drawn: Ginnungagap, the void between Niflheimr and Múspell before the creation (Gylfaginning 5); the rivers Élivágar (Gylfaginning 5, Vafþrúðnismál 31). Náströnd, the corpse-shore after Ragnarök (Gylfaginning 52; Völuspá 38), is listed below the map but not drawn.",
+  "is": "Völuspá 2 nefnir níu heima en enginn eddutexti telur þá upp; algengi listinn yfir \"heimana níu\" er nútíma endurgerð. Staðsetningar hér fylgja tilvitnuðu köflunum. Ekki teiknað: Ginnungagap, tómið milli Niflheims og Múspells fyrir sköpunina (Gylfaginning 5); árnar Élivágar (Gylfaginning 5, Vafþrúðnismál 31). Náströnd, náströndin eftir ragnarök (Gylfaginning 52; Völuspá 38), er talin upp undir kortinu en ekki teiknuð."
  },
  "groups": [
   {
@@ -177,8 +178,8 @@
    "label": "Duneyrr",
    "group": "tree",
    "offset": [
-    90,
-    110
+    110,
+    0
    ]
   },
   {
@@ -203,8 +204,8 @@
    "id": "andlangr",
    "label_en": "Andlang · Vidblain",
    "anchor": [
-    1760,
-    219
+    2160,
+    330
    ],
    "desc": {
     "en": "A second heaven south of and above this one, Andlangr, and a third above it, Víðbláinn; Gimlé stands there.",
@@ -427,7 +428,7 @@
      "row": "g-c16-6"
     }
    ],
-   "group": "below"
+   "group": "above"
   },
   {
    "id": "mimisbrunnr",
@@ -460,7 +461,11 @@
      "row": "g-c15-4"
     }
    ],
-   "group": "below"
+   "group": "below",
+   "offset": [
+    -210,
+    40
+   ]
   },
   {
    "id": "nidhoggr",
@@ -504,8 +509,8 @@
    "label_en": "Hel",
    "anchor": "hel",
    "desc": {
-    "en": "The realm of the dead under the third root, ruled by Loki's daughter Hel; nine nights' ride north and down.",
-    "is": "Ríki dauðra undir þriðju rótinni, sem Hel Lokadóttir ræður; níu nátta reið norður og niður."
+    "en": "The realm of the dead, inside Niflheimr, ruled by Loki's daughter Hel; nine nights' ride north and down, over Gjallarbrú to the gate Helgrind.",
+    "is": "Ríki hinna dauðu, innan Niflheims, sem Hel dóttir Loka ræður; níu nætur riðið norður og niður, yfir Gjallarbrú að hliðinu Helgrind."
    },
    "cites": [
     {
@@ -521,9 +526,97 @@
    "group": "below"
   },
   {
+   "id": "gjallarbru",
+   "label": "Gjallarbrú",
+   "label_en": "Gjallar Bridge",
+   "anchor": "gjallarbru",
+   "group": "below",
+   "cites": [
+    {
+     "row": "g-c49-16"
+    },
+    {
+     "row": "g-c49-19"
+    }
+   ],
+   "desc": {
+    "en": "The gold-thatched bridge over the river Gjöll on the road to Hel, guarded by the maiden Móðguðr.",
+    "is": "Gulli þakta brúin yfir ána Gjöll á leiðinni til Heljar; mærin Móðguðr gætir hennar."
+   }
+  },
+  {
+   "id": "gjoll",
+   "label": "Gjöll",
+   "label_en": "Gjoll",
+   "anchor": "gjoll",
+   "group": "below",
+   "cites": [
+    {
+     "row": "g-c4-4",
+     "note": {
+      "en": "among the rivers from Hvergelmir, next to Hel's gates",
+      "is": "meðal ánna úr Hvergelmi, næst Helgrindum"
+     }
+    },
+    {
+     "row": "g-c49-16"
+    }
+   ],
+   "desc": {
+    "en": "The river nearest Hel's gates, crossed by Gjallarbrú.",
+    "is": "Áin næst Helgrindum; Gjallarbrú liggur yfir hana."
+   }
+  },
+  {
+   "id": "niflhel",
+   "label": "Niflhel",
+   "label_en": "Niflhel",
+   "anchor": "niflhel",
+   "group": "below",
+   "cites": [
+    {
+     "row": "g-c3-6",
+     "note": {
+      "en": "the wicked go to Hel and from there to Niflhel, down in the ninth world",
+      "is": "vondir menn fara til Heljar og þaðan í Niflhel, niður í níunda heim"
+     }
+    },
+    {
+     "row": "vm-s43"
+    },
+    {
+     "row": "bdr-s2"
+    }
+   ],
+   "desc": {
+    "en": "The deepest, darkest part of Hel, where the wicked go: 'to Hel and thence to Niflhel, down in the ninth world'.",
+    "is": "Dýpsti og myrkasti hluti Heljar, þangað sem vondir menn fara: „til Heljar og þaðan í Niflhel, niður í níunda heim“."
+   }
+  },
+  {
+   "id": "surtr",
+   "label": "Surtr",
+   "label_en": "Surt",
+   "anchor": "surtr",
+   "group": "below",
+   "kind": "being",
+   "cites": [
+    {
+     "row": "g-c4-5"
+    },
+    {
+     "row": "g-c51-10"
+    }
+   ],
+   "desc": {
+    "en": "The fire giant who guards Múspell and rides out with a flaming sword at Ragnarök.",
+    "is": "Eldjötunninn sem gætir Múspells og ríður fram með logandi sverð í ragnarökum."
+   }
+  },
+  {
    "id": "nastrond",
    "label_en": "Nastrond",
-   "anchor": "nastrond",
+   "anchor": null,
    "desc": {
     "en": "The corpse-shore: a hall far from the sun, woven of serpents' backs, where oath-breakers and murderers wade.",
     "is": "Náströnd: salur fjarri sólu, ofinn úr ormahryggjum, þar sem meinsvarar og morðvargar vaða."

@@ -1,16 +1,18 @@
 # images/worlds/ — background picture for the map of the worlds (task 20c)
 
-`worlds-background-v2.jpg` (2576 x 2576) is Grigory Sapunov's picture of 2026-11-01. It carries no text; the labels
-are an SVG layer on top (task 20b). Credit line (decision of 2026-11-02): "© 2026 Grigory Sapunov"; licence CC BY 4.0
-(replacing the CC0 of 2026-11-01); the labels and the SVG are CC BY 4.0 like the rest of the edition. Provenance, kept
-in the records only and not shown on the page: made with Google Gemini image generation from the prompt in
-edda-site/docs/specs/WORLD_MAP.md (`made_with` in `anchors-v2.json` and `bg/index.json`). The 2576 px file here is the
-working master the anchors refer to; the maintainer keeps the 4096 px original.
+`worlds-background-v3.jpg` (2576 x 2576) is Grigory Sapunov's picture of 2026-11-07, downscaled (Lanczos) from his
+4096 px "world v8 full res.jpg", which stays with the maintainer and is not in the repository. It carries no text; the
+labels are an SVG layer on top (task 20b). Credit line (decision of 2026-11-02): "© 2026 Grigory Sapunov"; licence
+CC BY 4.0; the labels and the SVG are CC BY 4.0 like the rest of the edition. Provenance, kept in the records only and
+not shown on the page: `made_with` in `anchors-v3.json` and `bg/index.json`.
 
-`anchors-v2.json`: label anchor points in image pixels for the realms and features drawn in v2 (one anchors file
-per image version). v2 (same day) supersedes v1: Gimlé is a gold-roofed hall (Gylfaginning 17), four stags, Náströnd
-a hall woven of serpents (Völuspá 38); v1 is kept only in the git history. Features not in the picture (Ginnungagap,
-Gjallarbrú, Élivágar, Veðrfölnir) are label-only or go in the note.
+`anchors-v3.json`: label anchor points in image pixels for the realms and features drawn in v3 (one anchors file per
+image version; `realms.json` names the current one in its key `anchors`, and the build, the validator and
+`make_worlds.py background` read that one). v3 (2026-11-07, Grigory's redraw following the "World of the Eddas"
+structure) supersedes v2: Hel inside Niflheimr with Niflhel below it, Urðarbrunnr in heaven, Mímisbrunnr under the
+giants' root, Vanaheimr and Gimlé in heaven; Gjallarbrú, the river Gjöll and Surtr are now drawn; Náströnd (after
+Ragnarök) is not drawn and is listed under the map only. v1 and v2 are kept only in the git history. Features not in
+the picture (Ginnungagap, Élivágar, Náströnd) are listed or go in the note.
 
 `bg/` holds the resized copies (1600 / 1000 / 600 px, WebP and JPEG, `bg/index.json`), written by
 `edda-site/pipeline/make_worlds.py background`; the website serves those, never the original, and works without the
