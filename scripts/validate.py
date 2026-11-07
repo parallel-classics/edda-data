@@ -40,10 +40,22 @@ PARTS = [  # row-id prefix, aligned file, "part" value inside the file, scenes.j
     ("s", "al_skald.json", "skaldskaparmal", "skaldskaparmal", "Skáldskaparmál"),
     ("h", "al_hatt.json", "hattatal", "hattatal", "Háttatal"),
 ] 
-# possible columns: a language, or a second version of one (em = English, modern: Open Edda's modernisation of
-# Brodeur, pilot 2026-11-07; the start of the any-number-of-versions plan, edda-site docs/specs/VERSIONS.md)
-LANG_CODES = ("on", "is", "en", "em", "ru", "nb", "nn", "da", "sv", "de")
-CELLS = ("on", "is", "en", "em", "ru", "nb", "nn", "da", "sv", "de")
+# possible columns: a language (its default text), or a further version of one, "<lang>-<version>" (task 26,
+# edda-site docs/specs/VERSIONS.md), registered in aligned/texts.json by edda-site/pipeline/fill_versions.py
+BASE_CODES = ("on", "is", "en", "ru", "nb", "nn", "da", "sv", "de")
+
+
+def _versions():
+    p = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "aligned", "texts.json")
+    try:
+        return tuple(sorted(json.load(open(p, encoding="utf-8")).get("texts", {})))
+    except (OSError, ValueError):
+        return ()
+
+
+VERSIONS = _versions()
+LANG_CODES = BASE_CODES + VERSIONS
+CELLS = BASE_CODES + VERSIONS
 STATUSES = ("auto", "draft", "reviewed", "disputed")
 ORIGINS = ("edition", "published", "machine", "ai", "contributor")
 CHECKS = ("aligned-auto", "aligned-checked", "unreviewed", "reviewed", "disputed")
@@ -247,7 +259,7 @@ def check_overlays(rows, src):
                 err(f"{where}: row {rid} does not exist in aligned/")
             if cell not in CELLS:
                 err(f"{where}: cell {cell!r} not in {CELLS}")
-            elif folder_cell in CELLS and cell != folder_cell:
+            elif folder_cell in CELLS and cell.split("-")[0] != folder_cell:   # overlays/en/ holds en and en-<version>
                 err(f"{where}: cell {cell!r} but the file is under overlays/{folder_cell}/")
             if origin is None and check is None:
                 if status not in STATUSES:

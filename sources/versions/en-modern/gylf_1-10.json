@@ -1,7 +1,20 @@
 {
- "_note": "Open Edda's modernisation of Arthur Gilchrist Brodeur's translation (1916, public domain), Gylfaginning 1-10: a pilot. Written by an AI (Claude, Anthropic) on 2026-11-07 from Brodeur's text as aligned in aligned/al_gylf.json; not reviewed. Faithful to Brodeur's meaning (his readings are kept, e.g. Ymir's 'sweat'), present-day British English, verse keeps his half-lines; his footnote markers are dropped; his 'Janhárr' (g-c2-8) is spelt Jafnhárr as in his later rows. Licence CC BY 4.0. Placed on the rows by edda-site/pipeline/fill_modern.py as the column 'em'.",
- "text_id": "en.modern",
- "source": "oe-modern-brodeur",
+ "_note": "Open Edda's modernisation of Arthur Gilchrist Brodeur's translation (1916, public domain), Gylfaginning 1-10: a pilot. Written by an AI (Claude, Anthropic) on 2026-11-07 from Brodeur's text as aligned in aligned/al_gylf.json; not reviewed. Faithful to Brodeur's meaning (his readings are kept, e.g. Ymir's 'sweat'), present-day British English, verse keeps his half-lines; his footnote markers are dropped; his 'Janhárr' (g-c2-8) is spelt Jafnhárr as in his later rows. Licence CC BY 4.0. Placed on the rows by edda-site/pipeline/fill_versions.py as the version en-modern.",
+ "text_id": "en-modern",
+ "text": {
+  "lang": "en",
+  "label": "English · modern",
+  "label_is": "Enska · nútímaleg",
+  "short": "modern (Open Edda)"
+ },
+ "source": {
+  "id": "oe-modern-brodeur",
+  "kind": "ai",
+  "label": "Open Edda, modernised Brodeur",
+  "lang": "en",
+  "licence": "CC BY 4.0",
+  "title": "Open Edda's modernisation of A. G. Brodeur's translation (1916): AI draft, reviewed row by row in review mode; CC BY 4.0"
+ },
  "based_on": "brodeur-1916",
  "licence": "CC BY 4.0",
  "made_by": "ai:claude",
