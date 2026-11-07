@@ -1,5 +1,5 @@
 {
- "_note": "The map of the worlds (task 20b, edda-site/docs/specs/WORLD_MAP.md): one entry per realm or feature. id = the entity in entities/entities.json (the label links to its Names entry); anchor = a key of anchors-v2.json or [x, y] in picture pixels, null for entries that are listed under the map only; cites = the rows that place it (shown on hover/tap and linked), with an optional note on variants; desc = our short description, CC BY 4.0 (English by the editor, Icelandic a draft). label overrides the entity's display name. Placements follow the passages cited; by hand, Claude Code 2026-11-01, for the curator to review. label = the nominative where the most frequent attested form is oblique. offset = [dx, dy] moves the label text away from its dot (picture pixels).",
+ "_note": "The map of the worlds (task 20b, edda-site/docs/specs/WORLD_MAP.md): one entry per realm or feature. id = the entity in entities/entities.json (the label links to its Names entry); anchor = a key of anchors-v2.json or [x, y] in picture pixels, null for entries that are listed under the map only; cites = the rows that place it (shown on hover/tap and linked), with an optional note on variants; desc = our short description, CC BY 4.0 (English by the editor, Icelandic a draft). label overrides the entity's display name. Placements follow the passages cited; by hand, Claude Code 2026-11-01, for the curator to review. label = the nominative where the most frequent attested form is oblique. offset = [dx, dy] moves the label text away from its dot (picture pixels). label_en = the English name shown under the Old Norse label (2026-11-07): the entity's English name (entities.json names.en) where that is an English form, else the form the edition's English texts use (Brodeur, Bellows) or the usual anglicised form; the same as the Old Norse where English keeps it (Hel, Hvergelmir, Glitnir, Bilskirnir).",
  "status": {
   "en": "editor",
   "is": "draft"
@@ -48,6 +48,7 @@
  "realms": [
   {
    "id": "yggdrasil",
+   "label_en": "Yggdrasil",
    "anchor": "yggdrasill",
    "desc": {
     "en": "The ash at the centre of the world, where the gods hold their court every day; its three roots reach the Æsir, the frost giants and Niflheimr.",
@@ -76,10 +77,15 @@
     }
    ],
    "group": "tree",
-   "label": "Yggdrasill"
+   "label": "Yggdrasill",
+   "offset": [
+    -230,
+    60
+   ]
   },
   {
    "id": "vedrfolnir",
+   "label_en": "Vedrfölnir",
    "anchor": "eagle",
    "desc": {
     "en": "The eagle in the top of the ash, wise beyond measure, with the hawk Veðrfölnir between its eyes.",
@@ -98,6 +104,7 @@
   },
   {
    "id": "ratatoskr",
+   "label_en": "Ratatosk",
    "anchor": "ratatoskr",
    "desc": {
     "en": "The squirrel that runs up and down the ash carrying spiteful words between the eagle and Níðhöggr.",
@@ -115,6 +122,7 @@
   },
   {
    "id": "dainn",
+   "label_en": "Dain",
    "anchor": "stags",
    "desc": {
     "en": "Four stags run in the branches and bite the leaves: Dáinn, Dvalinn, Duneyrr and Duraþrór.",
@@ -133,6 +141,7 @@
   },
   {
    "id": "dvalinn",
+   "label_en": "Dvalin",
    "anchor": "stag-2",
    "desc": {
     "en": "The second of the four stags in the ash.",
@@ -151,6 +160,7 @@
   },
   {
    "id": "duneyrr",
+   "label_en": "Duneyr",
    "anchor": "stag-3",
    "desc": {
     "en": "The third of the four stags; the fourth, Duraþrór, is named with him.",
@@ -173,6 +183,7 @@
   },
   {
    "id": "gimle",
+   "label_en": "Gimle",
    "anchor": "gimle",
    "desc": {
     "en": "The hall at the south end of heaven, fairer than the sun, which stands when heaven and earth have passed away.",
@@ -190,6 +201,7 @@
   },
   {
    "id": "andlangr",
+   "label_en": "Andlang · Vidblain",
    "anchor": [
     1760,
     219
@@ -208,6 +220,7 @@
   },
   {
    "id": "alfheimr",
+   "label_en": "Alfheim",
    "anchor": "alfheimr",
    "desc": {
     "en": "The home of the light elves, given to Freyr as a tooth-gift.",
@@ -225,6 +238,7 @@
   },
   {
    "id": "asgard",
+   "label_en": "Asgard",
    "anchor": "asgardr",
    "desc": {
     "en": "The stronghold of the Æsir in the middle of the world, with Glaðsheimr, Vingólf and the other halls.",
@@ -246,6 +260,7 @@
   },
   {
    "id": "valhalla",
+   "label_en": "Valhalla",
    "anchor": "valholl",
    "desc": {
     "en": "Óðinn's hall in Glaðsheimr, roofed with shields, where the chosen slain feast until Ragnarök.",
@@ -266,6 +281,7 @@
   },
   {
    "id": "vanaheimr",
+   "label_en": "Vanaheim",
    "anchor": "vanaheimr",
    "desc": {
     "en": "The home of the Vanir, from which Njörðr came to the Æsir as a hostage.",
@@ -284,6 +300,7 @@
   },
   {
    "id": "bifrost",
+   "label_en": "Bifrost",
    "anchor": "bifrost",
    "desc": {
     "en": "The bridge from earth to heaven, which men call the rainbow; its red band is burning fire.",
@@ -304,6 +321,7 @@
   },
   {
    "id": "midgard",
+   "label_en": "Midgard",
    "anchor": "midgardr",
    "desc": {
     "en": "The stronghold around the inhabited earth, built from Ymir's eyebrows inside the ring of the deep sea.",
@@ -322,6 +340,7 @@
   },
   {
    "id": "jormungandr",
+   "label_en": "Midgard Serpent",
    "anchor": "midgardsormr",
    "desc": {
     "en": "The serpent cast into the deep sea, which grew until it lies around all the lands and bites its own tail.",
@@ -340,6 +359,7 @@
   },
   {
    "id": "jotunheim",
+   "label_en": "Jotunheim",
    "anchor": "jotunheimar",
    "desc": {
     "en": "The lands of the giants, outside Miðgarðr by the shore of the sea, to the east.",
@@ -358,6 +378,7 @@
   },
   {
    "id": "utgardar",
+   "label_en": "Utgard",
    "anchor": "utgardr",
    "desc": {
     "en": "The outer stronghold where Þórr met Útgarða-Loki.",
@@ -373,6 +394,7 @@
   },
   {
    "id": "svartalfaheimr",
+   "label_en": "Svartalfaheim",
    "anchor": "svartalfaheimr",
    "desc": {
     "en": "The world of the dark elves, the dwarfs, who forged the fetter Gleipnir.",
@@ -391,6 +413,7 @@
   },
   {
    "id": "urdarbrunnr",
+   "label_en": "Well of Urdr",
    "anchor": "urdarbrunnr",
    "desc": {
     "en": "The well under the root that reaches heaven; the norns live beside it and water the ash from it.",
@@ -408,6 +431,7 @@
   },
   {
    "id": "mimisbrunnr",
+   "label_en": "Mímir's Well",
    "anchor": "mimisbrunnr",
    "desc": {
     "en": "The well of wisdom under the root that reaches the frost giants, where Óðinn left his eye as a pledge.",
@@ -422,6 +446,7 @@
   },
   {
    "id": "hvergelmir",
+   "label_en": "Hvergelmir",
    "anchor": "hvergelmir",
    "desc": {
     "en": "The spring in Niflheimr from which the rivers flow; Níðhöggr gnaws the root above it.",
@@ -439,6 +464,7 @@
   },
   {
    "id": "nidhoggr",
+   "label_en": "Nidhogg",
    "anchor": "nidhoggr",
    "desc": {
     "en": "The dragon at Hvergelmir that gnaws the root of the ash and sucks the dead.",
@@ -456,6 +482,7 @@
   },
   {
    "id": "niflheim",
+   "label_en": "Niflheim",
    "anchor": "niflheimr",
    "desc": {
     "en": "The world of mist in the north, made many ages before the earth; Hvergelmir lies in its middle.",
@@ -474,6 +501,7 @@
   },
   {
    "id": "hel",
+   "label_en": "Hel",
    "anchor": "hel",
    "desc": {
     "en": "The realm of the dead under the third root, ruled by Loki's daughter Hel; nine nights' ride north and down.",
@@ -494,6 +522,7 @@
   },
   {
    "id": "nastrond",
+   "label_en": "Nastrond",
    "anchor": "nastrond",
    "desc": {
     "en": "The corpse-shore: a hall far from the sun, woven of serpents' backs, where oath-breakers and murderers wade.",
@@ -512,6 +541,7 @@
   },
   {
    "id": "muspelheim",
+   "label_en": "Muspelheim",
    "anchor": "muspell",
    "desc": {
     "en": "The bright, burning world in the south, guarded by Surtr with his flaming sword.",
@@ -533,6 +563,7 @@
   },
   {
    "id": "gladsheimr",
+   "label_en": "Gladsheim",
    "anchor": null,
    "desc": {
     "en": "Óðinn's realm in Ásgarðr, where the twelve high seats stand and Valhöll rises.",
@@ -551,6 +582,7 @@
   },
   {
    "id": "vingolf",
+   "label_en": "Vingolf",
    "anchor": null,
    "desc": {
     "en": "The hall of the goddesses.",
@@ -568,6 +600,7 @@
   },
   {
    "id": "bilskirnir",
+   "label_en": "Bilskirnir",
    "anchor": null,
    "desc": {
     "en": "Þórr's hall in Þrúðvangar, with five hundred and forty rooms.",
@@ -582,6 +615,7 @@
   },
   {
    "id": "breidablik",
+   "label_en": "Breidablik",
    "anchor": null,
    "desc": {
     "en": "Baldr's dwelling, where nothing unclean may be.",
@@ -599,6 +633,7 @@
   },
   {
    "id": "himinbjorg",
+   "label_en": "Himinbjorg",
    "anchor": null,
    "desc": {
     "en": "Heimdallr's dwelling at the end of the bridge.",
@@ -616,6 +651,7 @@
   },
   {
    "id": "glitnir",
+   "label_en": "Glitnir",
    "anchor": null,
    "desc": {
     "en": "Forseti's hall, with golden pillars and a silver roof.",
@@ -633,6 +669,7 @@
   },
   {
    "id": "valaskjalf",
+   "label_en": "Valaskjalf",
    "anchor": null,
    "desc": {
     "en": "Óðinn's silver-roofed hall with the seat Hliðskjálf.",
@@ -650,6 +687,7 @@
   },
   {
    "id": "sokkvabekkr",
+   "label_en": "Sokkvabekk",
    "anchor": null,
    "desc": {
     "en": "Sága's dwelling, where cool waves sound.",
@@ -668,6 +706,7 @@
   },
   {
    "id": "thrymheimr",
+   "label_en": "Thrymheim",
    "anchor": null,
    "desc": {
     "en": "Þjazi's home in the mountains, where Skaði lives.",
@@ -685,6 +724,7 @@
   },
   {
    "id": "noatun",
+   "label_en": "Noatun",
    "anchor": null,
    "desc": {
     "en": "Njörðr's dwelling by the sea.",
@@ -702,6 +742,7 @@
   },
   {
    "id": "folkvangr",
+   "label_en": "Folkvang",
    "anchor": null,
    "desc": {
     "en": "Freyja's field, where she takes half of the slain.",

@@ -493,6 +493,8 @@ def check_worlds(rows):
                 err(f"{where}: unknown group {r['group']!r}")
             if not (r.get("desc") or {}).get("en"):
                 err(f"{where}: no English description")
+            if not (r.get("label_en") or "").strip():
+                err(f"{where}: no English name (label_en)")
             for c in r.get("cites", []):
                 if c.get("row") not in rows:
                     err(f"{where}: cited row {c.get('row')!r} does not exist")

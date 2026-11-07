@@ -18,7 +18,10 @@ picture (a schematic SVG on parchment colour). Spec: `edda-site/docs/specs/WORLD
 
 `realms.json` (by hand, 2026-11-01, for the curator to review): the placements — one entry per realm or feature with
 the entity id, the anchor, our short description (EN by the editor, IS a draft), and the rows that place it, with
-notes on variants. Labels are the entities' Old Norse names; `label` pins the nominative where needed.
+notes on variants. Labels are the entities' Old Norse names; `label` pins the nominative where needed. `label_en`
+(2026-11-07, required by the validator) is the English name shown smaller under every label: the entity's
+`names.en` where that is an English form, else the form the edition's English texts use (Brodeur, Bellows) or the
+usual anglicised form. Where English keeps the Old Norse name (Hel, Hvergelmir, Glitnir, Bilskirnir) it repeats it.
 
 `diagrams.json` + `diagrams/`: the historic diagrams (Wheaton 1844, Bagge 1847, the Skálholt map), hand keys plus the
 Commons licence record from `make_worlds.py diagrams`, which also stores the 1000 px copies. All three are public
