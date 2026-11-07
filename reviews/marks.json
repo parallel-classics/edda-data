@@ -1,0 +1,222 @@
+{
+ "_note": "Review marks exported by edda-site/tools/export_reviews.py (task 28); id -> mark.",
+ "marks": {
+  "0o0oxytTRRj0hOqkyMkG": {
+   "target": {
+    "kind": "picture",
+    "row": "g-c1-1",
+    "entity": "bragi",
+    "image": "img/names/bragi.jpg"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "9afd8d843a0f",
+   "ts": "2026-11-07T14:40:22.057Z",
+   "id": "0o0oxytTRRj0hOqkyMkG"
+  },
+  "wlIaAAyylfS5izs7GpLN": {
+   "target": {
+    "kind": "picture",
+    "row": "g-c1-1",
+    "entity": "bragi",
+    "image": "img/names/bragi.jpg"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "9afd8d843a0f",
+   "ts": "2026-11-07T14:40:25.638Z",
+   "id": "wlIaAAyylfS5izs7GpLN"
+  },
+  "x70GU3z73ukJsJM1lTBx": {
+   "target": {
+    "kind": "picture",
+    "row": "g-c1-1",
+    "entity": "bragi",
+    "image": "img/names/bragi.jpg"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "9afd8d843a0f",
+   "ts": "2026-11-07T14:40:26.521Z",
+   "id": "x70GU3z73ukJsJM1lTBx"
+  },
+  "99XyY0ehmjBnAWaa7u1I": {
+   "target": {
+    "kind": "picture",
+    "row": "g-c1-1",
+    "entity": "bragi",
+    "image": "img/names/bragi.jpg"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "9afd8d843a0f",
+   "ts": "2026-11-07T14:40:34.447Z",
+   "id": "99XyY0ehmjBnAWaa7u1I"
+  },
+  "DRQNKeDqus3kPT17E9JL": {
+   "target": {
+    "kind": "picture",
+    "row": "g-c1-1",
+    "entity": "bragi",
+    "image": "img/names/bragi.jpg"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "9afd8d843a0f",
+   "ts": "2026-11-07T14:40:39.781Z",
+   "id": "DRQNKeDqus3kPT17E9JL"
+  },
+  "PlE4gr1Br4TR5b3s4u4S": {
+   "target": {
+    "kind": "picture",
+    "row": "g-c1-1",
+    "entity": "bragi",
+    "image": "img/names/bragi.jpg"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "67542709da2d",
+   "ts": "2026-11-07T15:12:00.236Z",
+   "id": "PlE4gr1Br4TR5b3s4u4S"
+  },
+  "tlsUUjNlOOyDJ9xQLevn": {
+   "target": {
+    "kind": "picture",
+    "row": "g-c1-1",
+    "entity": "bragi",
+    "image": "img/names/bragi.jpg"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "67542709da2d",
+   "ts": "2026-11-07T15:12:18.295Z",
+   "id": "tlsUUjNlOOyDJ9xQLevn"
+  },
+  "3SHuMn1KgUIZrJQDA4Zy": {
+   "target": {
+    "kind": "picture",
+    "row": "g-c1-1",
+    "entity": "bragi",
+    "image": "img/names/bragi.jpg"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "67542709da2d",
+   "ts": "2026-11-07T15:12:19.118Z",
+   "id": "3SHuMn1KgUIZrJQDA4Zy"
+  },
+  "9vAHeU7y1Af2J3oKUJYD": {
+   "target": {
+    "kind": "cell",
+    "row": "g-c1-1",
+    "cell": "en"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "f2cdf16945ad",
+   "ts": "2026-11-07T15:26:04.553Z",
+   "id": "9vAHeU7y1Af2J3oKUJYD"
+  },
+  "9vE5fcsvQA3tf9ZnQVzO": {
+   "target": {
+    "kind": "cell",
+    "row": "g-c1-1",
+    "cell": "is"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "f2cdf16945ad",
+   "ts": "2026-11-07T15:26:16.986Z",
+   "id": "9vE5fcsvQA3tf9ZnQVzO"
+  },
+  "iEp2UWAIR1HZSo9dBTri": {
+   "target": {
+    "kind": "cell",
+    "row": "g-c1-1",
+    "cell": "on"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "f2cdf16945ad",
+   "ts": "2026-11-07T15:26:19.198Z",
+   "id": "iEp2UWAIR1HZSo9dBTri"
+  },
+  "9NYmpOYyIkQS0lNKNC72": {
+   "target": {
+    "kind": "row",
+    "row": "g-c1-1"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "f2cdf16945ad",
+   "ts": "2026-11-07T15:26:20.875Z",
+   "id": "9NYmpOYyIkQS0lNKNC72"
+  },
+  "yQq2joRd0A6rbc1pWlmI": {
+   "target": {
+    "kind": "cell",
+    "row": "g-c1-1",
+    "cell": "on"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "f2cdf16945ad",
+   "ts": "2026-11-07T15:26:23.947Z",
+   "id": "yQq2joRd0A6rbc1pWlmI"
+  },
+  "5hTm3idXaPnwlkxcp1oT": {
+   "target": {
+    "kind": "cell",
+    "row": "g-c1-1",
+    "cell": "on"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "f2cdf16945ad",
+   "ts": "2026-11-07T15:26:24.648Z",
+   "id": "5hTm3idXaPnwlkxcp1oT"
+  }
+ }
+}

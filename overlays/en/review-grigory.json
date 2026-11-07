@@ -1,0 +1,17 @@
+{
+ "_note": "Review-mode marks by grigory (edda-site/tools/export_reviews.py, task 28).",
+ "records": [
+  {
+   "row": "g-c1-1",
+   "cell": "en",
+   "text": "King Gylfi ruled the land that men now call Sweden. It is told of him that he gave to a wandering woman, in return for her merry-making, a plow-land in his realm, as much as four oxen might turn up in a day and a night. But this woman was of the kin of the Æsir; she was named Gefjun. She took from the north, out of Jötunheim, four oxen which were the sons of a certain giant and, herself, and set them before the plow. And the plow cut so wide and so deep that it loosened up the land; and the oxen drew the land out into the sea and to the westward, and stopped in a certain sound. There Gefjun set the land, and gave it a name, calling it Selund. And from that time on, the spot whence the land had been torn up is water: it is now called the Lögr in Sweden; and bays lie in that lake even as the headlands in Selund. Thus says Bragi, the ancient skald:",
+   "origin": "published",
+   "check": "aligned-checked",
+   "author": "user:grigory",
+   "date": "2026-11-07",
+   "reason": "review mode: right",
+   "replaces": null,
+   "source": "brodeur-1916"
+  }
+ ]
+}
