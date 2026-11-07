@@ -4,6 +4,9 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 ## Unreleased
 
+- First review-mode export (2026-11-07, edda-site/tools/export_reviews.py): Gylfaginning 1.1 checked in all three
+  columns (overlays/*/review-grigory.json); the picture of Bragi confirmed (reviews/pictures.json); reviews/marks.json
+  keeps every exported mark.
 - Map of the worlds: the background's credit is "© 2026 Grigory Sapunov", licence CC BY 4.0 (was CC0 and an
   AI-generated label); the Gemini provenance stays in the records (`made_with`), not on the page.
   scripts/validate.py checks for `made_with` and the licence instead of the old `ai_generated` flag.
