@@ -39,8 +39,10 @@ PARTS = [  # row-id prefix, aligned file, "part" value inside the file, scenes.j
     ("s", "al_skald.json", "skaldskaparmal", "skaldskaparmal", "Skáldskaparmál"),
     ("h", "al_hatt.json", "hattatal", "hattatal", "Háttatal"),
 ] 
-LANG_CODES = ("on", "is", "en", "ru", "nb", "nn", "da", "sv", "de")   # possible column languages
-CELLS = ("on", "is", "en", "ru", "nb", "nn", "da", "sv", "de")
+# possible columns: a language, or a second version of one (em = English, modern: Open Edda's modernisation of
+# Brodeur, pilot 2026-11-07; the start of the any-number-of-versions plan, edda-site docs/specs/VERSIONS.md)
+LANG_CODES = ("on", "is", "en", "em", "ru", "nb", "nn", "da", "sv", "de")
+CELLS = ("on", "is", "en", "em", "ru", "nb", "nn", "da", "sv", "de")
 STATUSES = ("auto", "draft", "reviewed", "disputed")
 ORIGINS = ("edition", "published", "machine", "ai", "contributor")
 CHECKS = ("aligned-auto", "aligned-checked", "unreviewed", "reviewed", "disputed")
