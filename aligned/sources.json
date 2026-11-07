@@ -53,8 +53,15 @@
    "kind": "ai",
    "label": "Open Edda, modernised Brodeur",
    "lang": "en",
-   "title": "Open Edda's modernisation of A. G. Brodeur's translation (1916): AI draft, reviewed row by row in review mode; CC BY 4.0",
-   "licence": "CC BY 4.0"
+   "licence": "CC BY 4.0",
+   "title": "Open Edda's modernisation of A. G. Brodeur's translation (1916): AI draft, reviewed row by row in review mode; CC BY 4.0"
+  },
+  "anderson-1880": {
+   "kind": "published",
+   "label": "Anderson 1880",
+   "lang": "en",
+   "licence": "public domain",
+   "title": "Rasmus B. Anderson, The Younger Edda (1880), via en.wikisource.org (proofread transcription); public domain"
   }
  },
  "cells": {
@@ -67,7 +74,8 @@
    "on": "gudni-1954",
    "is": "netutgafan-1997",
    "en": "brodeur-1916",
-   "em": "oe-modern-brodeur"
+   "en-anderson": "anderson-1880",
+   "en-modern": "oe-modern-brodeur"
   },
   "s": {
    "on": "gudni-1954",

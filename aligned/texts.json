@@ -1,0 +1,27 @@
+{
+ "_note": "Every version of a language beside its default (task 26, edda-site docs/specs/VERSIONS.md), written by edda-site/pipeline/fill_versions.py from sources/versions/; the default version of a language keeps the bare code. Generated; do not edit.",
+ "texts": {
+  "en-anderson": {
+   "lang": "en",
+   "label": "English · Anderson 1880",
+   "label_is": "Enska · Anderson 1880",
+   "short": "Anderson 1880",
+   "source": "anderson-1880",
+   "rows": 335,
+   "parts": [
+    "g"
+   ]
+  },
+  "en-modern": {
+   "lang": "en",
+   "label": "English · modern",
+   "label_is": "Enska · nútímaleg",
+   "short": "modern (Open Edda)",
+   "source": "oe-modern-brodeur",
+   "rows": 54,
+   "parts": [
+    "g"
+   ]
+  }
+ }
+}

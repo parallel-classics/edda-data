@@ -1,0 +1,2676 @@
+{
+ "_note": "Rasmus B. Anderson's translation of Gylfaginning ('The Fooling of Gylfe', The Younger Edda, 1880, public domain), from the proofread Wikisource transcription, placed on the rows automatically by edda-site/pipeline/import_anderson.py against Brodeur's English; not checked. His section numbers, headings and footnotes are not kept.",
+ "text_id": "en-anderson",
+ "text": {
+  "lang": "en",
+  "label": "English · Anderson 1880",
+  "label_is": "Enska · Anderson 1880",
+  "short": "Anderson 1880"
+ },
+ "source": {
+  "id": "anderson-1880",
+  "kind": "published",
+  "label": "Anderson 1880",
+  "lang": "en",
+  "licence": "public domain",
+  "title": "Rasmus B. Anderson, The Younger Edda (1880), via en.wikisource.org (proofread transcription); public domain"
+ },
+ "rows": {
+  "g-c1-1": [
+   {
+    "t": "p",
+    "s": "King Gylfe ruled the lands that are now called Svithjod (Sweden). Of him it is said that he gave to a wayfaring woman, as a reward for the entertainment she had afforded him by her story-telling, a plow-land in his realm, as large as four oxen could plow it in a day and a night. But this woman was of the asa-race; her name was Gefjun. She took from the north, from Jotunheim, four oxen, which were the sons of a giant and her, and set them before the plow."
+   }
+  ],
+  "g-c1-2": [
+   {
+    "t": "p",
+    "s": "And where the land had been taken away became afterward a sea, which in Sweden is now called Logrinn (the Lake, the Malar Lake in Sweden). And in the Malar Lake the bays cor- respond to the capes in Seeland. Thus says Brage, the old skald:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Gefjun glad",
+     "Drew from Gylfe",
+     "The excellent land,",
+     "Denmark's increase,",
+     "So that it reeked",
+     "From the running beasts.",
+     "Four heads and eight eyes",
+     "Bore the oxen",
+     "As they went before the wide",
+     "Robbed land of the grassy isle."
+    ]
+   }
+  ],
+  "g-c2-1": [
+   {
+    "t": "p",
+    "s": "He wondered much that the asafolk was so mighty in knowledge, that all things went after their will. He thought to himself whether this could come from their own nature, or whether the cause must be sought for among the gods whom they worshiped. He therefore undertook a journey to Asgard. He went secretly, having assumed the likeness of an old man, and striving thus to disguise himself."
+   }
+  ],
+  "g-c2-2": [
+   {
+    "t": "p",
+    "s": "So when he came into the burg he saw there a hall so high that he could hardly look over it. Its roof was thatched with golden shields as with shingles. Thus says Thjodolf of Hvin, that Valhal was thatched with shields:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Thinking thatchers",
+     "Thatched the roof;",
+     "The beams of the burg",
+     "Beamed with gold."
+    ]
+   }
+  ],
+  "g-c2-3": [
+   {
+    "t": "p",
+    "s": "In the door of the hall Gylfe saw a man who played with swords so dexterously that seven were in the air at one time. That man asked him what his name was. Gylfe answered that his name was Ganglere; that he had come a long way, and that he sought lodgings for the night. He also asked who owned the burg."
+   }
+  ],
+  "g-c2-4": [
+   {
+    "t": "p",
+    "s": "The other answered that it belonged to their king: I will go with you to see him and then you may ask him for his name yourself. Then the man turned and led the way into the hall. Ganglere followed, and suddenly the doors closed behind him."
+   }
+  ],
+  "g-c2-5": [
+   {
+    "t": "p",
+    "s": "There he saw many rooms and a large number of people, of whom some were playing, others were drinking, and some were fighting with weapons. He looked around him, and much of what he saw seemed to him incredible. Then quoth he:"
+   }
+  ],
+  "g-c2-6": [
+   {
+    "t": "v",
+    "l": [
+     "Gates all,",
+     "Before in you go,",
+     "You must examine well;",
+     "For you cannot know",
+     "Where enemies sit",
+     "In the house before you."
+    ]
+   }
+  ],
+  "g-c2-7": [
+   {
+    "t": "p",
+    "s": "He saw three high-seats, one above the other, and in each sat a man. He asked what the names of these chiefs were."
+   }
+  ],
+  "g-c2-8": [
+   {
+    "t": "p",
+    "s": "He, who had conducted him in, answered that the one who sat in the lowest high-seat was king, and hight Har; the other next above him, Jafnhar; but the one who sat on the highest throne, Thride."
+   }
+  ],
+  "g-c2-9": [
+   {
+    "t": "p",
+    "s": "Har asked the comer what more his errand was, and added that food and drink was there at his service, as for all in Har's hall. Ganglere answered that he first would like to ask whether there was any wise man. Answered Har:"
+   }
+  ],
+  "g-c2-10": [
+   {
+    "t": "p",
+    "s": "You will not come out from here hale unless you are wiser."
+   }
+  ],
+  "g-c2-11": [
+   {
+    "t": "v",
+    "l": [
+     "And stand now forth",
+     "While you ask;",
+     "He who answers shall sit."
+    ]
+   }
+  ],
+  "g-c3-1": [
+   {
+    "t": "p",
+    "s": "Ganglere then made the following question: Who is the highest and oldest of all the gods?"
+   }
+  ],
+  "g-c3-2": [
+   {
+    "t": "p",
+    "s": "Made answer Har: Alfather he is called in our tongue, but in Asgard of old he had twelve names. The first is Alfather, the second is Herran or Herjan, the third Nikar or Hnikar, the fourth Nikuz or Hnikud, the fifth Fjolner, the sixth Oske, the seventh Ome, the eighth Biflide or Biflinde, the ninth Svidar, the tenth Svidrer, the eleventh Vidrer, the twelfth Jalg or Jalk. Ganglere asks again:"
+   }
+  ],
+  "g-c3-3": [
+   {
+    "t": "p",
+    "s": "Where is this god?"
+   }
+  ],
+  "g-c3-4": [
+   {
+    "t": "p",
+    "s": "What can he do? What mighty works has he accomplished? Answered Har: He lives from everlasting to everlasting, rules over all his realm, and governs all things, great and small."
+   }
+  ],
+  "g-c3-5": [
+   {
+    "t": "p",
+    "s": "Then remarked Jafnhar: He made heaven and earth, the air and all things in them."
+   }
+  ],
+  "g-c3-6": [
+   {
+    "t": "p",
+    "s": "Thride added: What is most important, he made man and gave him a spirit, which shall live, and never perish, though the body may turn to dust or burn to ashes. All who live a life of virtue shall dwell with him in Gimle or Vingolf. The wicked, on the other hand, go to Hel, and from her to Niflhel, that is, down into the ninth world."
+   }
+  ],
+  "g-c3-7": [
+   {
+    "t": "p",
+    "s": "Then asked Ganglere: What was he doing before heaven and earth were made?"
+   }
+  ],
+  "g-c3-8": [
+   {
+    "t": "p",
+    "s": "Har gave answer: Then was he with the frost-giants."
+   }
+  ],
+  "g-c4-1": [
+   {
+    "t": "p",
+    "s": "Said Ganglere: How came the world into existence, or how did it rise? What was before?"
+   }
+  ],
+  "g-c4-2": [
+   {
+    "t": "p",
+    "s": "Made answer to him Har:"
+   }
+  ],
+  "g-c4-3": [
+   {
+    "t": "p",
+    "s": "Thus is it said in the Vala's Prophecy:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "It was Time's morning,",
+     "When there nothing was;",
+     "Nor sand, nor sea,",
+     "Nor cooling billows.",
+     "Earth there was not,",
+     "Nor heaven above.",
+     "The Ginungagap was,",
+     "But grass nowhere."
+    ]
+   },
+   {
+    "t": "p",
+    "s": "Jafnhar remarked:"
+   }
+  ],
+  "g-c4-4": [
+   {
+    "t": "p",
+    "s": "Many ages before the earth was made, Niflheim had existed, in the midst of which is the well called Hvergelmer, whence flow the following streams: Svol, Gunnthro, Form, Finbul, Thul, Slid and Hrid, Sylg and Ylg, Vid, Leipt and Gjoll, the last of which is nearest the gate of Hel. Then added Thride: Still there was before a world to the south which hight Muspelheim."
+   }
+  ],
+  "g-c4-5": [
+   {
+    "t": "p",
+    "s": "It is light and hot, and so bright and dazzling that no stranger, who is not a native there, can stand it. Surt is the name of him who stands on its border guarding it. He has a flaming sword in his hand, and at the end of the world he will come and harry, conquer all the gods, and burn up the whole world with fire. Thus it is said in the Vala's Prophecy:"
+   }
+  ],
+  "g-c4-6": [
+   {
+    "t": "v",
+    "l": [
+     "Surt from the south fares",
+     "With blazing flames;",
+     "From the sword shines",
+     "The sun of the war-god.",
+     "Rocks dash together",
+     "And witches collapse,",
+     "Men go the way to Hel",
+     "And the heavens are cleft."
+    ]
+   }
+  ],
+  "g-c5-1": [
+   {
+    "t": "p",
+    "s": "Said Ganglere: What took place before the races came into existence, and men increased and multiplied?"
+   }
+  ],
+  "g-c5-2": [
+   {
+    "t": "p",
+    "s": "Replied Har, explaining, that as soon as the streams, that are called the Elivogs, had come so far from their source that the venomous yeast which flowed with them hardened, as does dross that runs from the fire, then it turned into ice. And when this ice stopped and flowed no more, then gathered over it the drizzling rain that arose from the venom and froze into rime, and one layer of ice was laid upon the other clear into Ginungagap."
+   }
+  ],
+  "g-c5-3": [
+   {
+    "t": "p",
+    "s": "Then said Jafnhar: All that part of Ginungagap that turns toward the north was filled with thick and heavy ice and rime, and everywhere within were drizzling rains and gusts. But the south part of Ginungagap was lighted up by the glowing sparks that flew out of Muspelheim."
+   }
+  ],
+  "g-c5-4": [
+   {
+    "t": "p",
+    "s": "Added Thride: As cold and all things grim proceeded from Niflheim, so that which bordered on Muspelheim was hot and bright, and Ginungagap was as warm and mild as windless air. And when the heated blasts from Muspelheim met the rime, so that it melted into drops, then, by the might of him who sent the heat, the drops quickened into life and took the likeness of a man, who got the name Ymer. But the Frost giants call him Aurgelmer."
+   }
+  ],
+  "g-c5-5": [
+   {
+    "t": "p",
+    "s": "Thus it is said in the short Prophecy of the Vala (the Lay of Hyndla):"
+   },
+   {
+    "t": "v",
+    "l": [
+     "All the valas are",
+     "From Vidolf descended;",
+     "All wizards are",
+     "Of Vilmeide's race;",
+     "All enchanters",
+     "Are sons of Svarthofde;",
+     "All giants have",
+     "Come from Ymer."
+    ]
+   }
+  ],
+  "g-c5-6": [
+   {
+    "t": "p",
+    "s": "And on this point, when Vafthrudner, the giant, was asked by Gangrad:"
+   }
+  ],
+  "g-c5-7": [
+   {
+    "t": "v",
+    "l": [
+     "Whence came Aurgelmer",
+     "Originally to the sons",
+     "Of the giants?—thou wise giant!"
+    ]
+   },
+   {
+    "t": "p",
+    "s": "he said"
+   },
+   {
+    "t": "v",
+    "l": [
+     "From the Elivogs",
+     "Sprang drops of venom,",
+     "And grew till a giant was made.",
+     "Thence our race",
+     "Are all descended,",
+     "Therefore are we all so fierce."
+    ]
+   }
+  ],
+  "g-c5-8": [
+   {
+    "t": "p",
+    "s": "Then asked Ganglere: How were the races developed from him? Or what was done so that more men were made? Or do you believe him to be a god of whom you now spake?"
+   }
+  ],
+  "g-c5-9": [
+   {
+    "t": "p",
+    "s": "By no means do we believe him to be god; evil was he and all his offspring, them we call frost-giants. It is said that when he slept he fell into a sweat, and then there grew under his left arm a man and a woman, and one of his feet begat with the other a son. From these come the races that are called frost-giants. The old frost-giant we call Ymer."
+   }
+  ],
+  "g-c6-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: Where did Ymer dwell, and on what did he live?"
+   }
+  ],
+  "g-c6-2": [
+   {
+    "t": "p",
+    "s": "Answered Har: The next thing was that when the rime melted into drops, there was made thereof a cow, which hight Audhumbla. Four milk-streams ran from her teats, and she fed Ymer."
+   }
+  ],
+  "g-c6-3": [
+   {
+    "t": "p",
+    "s": "Thereupon asked Ganglere: On what did the cow subsist? Answered Har:"
+   }
+  ],
+  "g-c6-4": [
+   {
+    "t": "p",
+    "s": "She licked the salt-stones that were covered with rime, and the first day that she licked the stones there came out of them in the evening a man's hair, the second day a man's head, and the third day the whole man was there. This man's name was Bure; he was fair of face, great and mighty, and he begat a son whose name was Bor. This Bor married a woman whose name was Bestla, the daughter of the giant Bolthorn; they had three sons,—the one hight Odin, the other Vile, and the third Ve. And it is my belief that this Odin and his brothers are the rulers of heaven and earth."
+   }
+  ],
+  "g-c7-1": [
+   {
+    "t": "p",
+    "s": "Ganglere asked: How could these keep peace with Ymer, or who was the stronger? Then answered Har:"
+   }
+  ],
+  "g-c7-2": [
+   {
+    "t": "p",
+    "s": "The sons of Bor slew the giant Ymer, but when he fell, there flowed so much blood from his wounds that they drowned therein the whole race of frost-giants; excepting one, who escaped with his household. Him the giants call Bergelmer. He and his wife went on board his ark and saved themselves in it. From there are come new races of frost-giants, as is here said:"
+   }
+  ],
+  "g-c7-3": [
+   {
+    "t": "v",
+    "l": [
+     "Countless winters",
+     "Ere the earth was made,",
+     "Was born Bergelmer.",
+     "This first I call to mind",
+     "How that crafty giant",
+     "Safe in his ark lay."
+    ]
+   }
+  ],
+  "g-c8-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: What was done then by the sons of Bor, since you believe that they were gods?"
+   }
+  ],
+  "g-c8-2": [
+   {
+    "t": "p",
+    "s": "Answered Har: About that there is not a little to be said. They took the body of Ymer, carried it into the midst of Ginungagap and made of him the earth. Of his blood they made the seas and lakes; of his flesh the earth was made, but of his bones the rocks; of his teath and jaws, and of the bones that were broken, they made stones and pebbles."
+   }
+  ],
+  "g-c8-3": [
+   {
+    "t": "p",
+    "s": "Jafnhar remarked: Of the blood that flowed from the wounds, and was free they made the ocean; they fastened the earth together and around it they laid this ocean in a ring without, and it must seem to most men impossible to cross it. Thride added: They took his skull and made thereof the sky, and raised it over the earth with four sides."
+   }
+  ],
+  "g-c8-4": [
+   {
+    "t": "p",
+    "s": "Under each corner they set a dwarf, and the four dwarfs were called Austre (East), Vestre (West), Nordre (North), Sudre (South). Then they took glowing sparks, that were loose and had been cast out from Muspelheim, and placed them in the midst of the boundless heaven, both above and below, to light up heaven and earth. They gave resting places to all fires, and set some in heaven; some were made to go free under heaven, but they gave them a place and shaped their course. In old songs it is said that from that time days and years were reckoned."
+   }
+  ],
+  "g-c8-5": [
+   {
+    "t": "p",
+    "s": "Thus in the Prophecy of the Vala:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "The sun knew not",
+     "Where her hall she had;",
+     "The moon knew not",
+     "What might he had;",
+     "The stars knew not",
+     "Their resting-places."
+    ]
+   }
+  ],
+  "g-c8-7": [
+   {
+    "t": "p",
+    "s": "Thus it was before these things were made. Then said Ganglere: Wonderful tidings are these I now hear; a wondrous great building is this, and deftly constructed. How was the earth fashioned?"
+   }
+  ],
+  "g-c8-8": [
+   {
+    "t": "p",
+    "s": "Made answer Har: The earth is round, and without it round about lies the deep ocean, and along the outer strand of that sea they gave lands for the giant races to dwell in; and against the attack of restless giants they built a burg within the sea and around the earth. For this purpose they used the giant Ymer's eyebrows, and they called the burg Midgard. They also took his brains and cast them into the air, and made therefrom the clouds, as is here said:"
+   }
+  ],
+  "g-c8-9": [
+   {
+    "t": "v",
+    "l": [
+     "Of Ymer's flesh",
+     "The earth was made,",
+     "And of his sweat the seas;",
+     "Rocks of his bones,",
+     "Trees of his hair,",
+     "And the sky of his skull;",
+     "But of his eyebrows",
+     "The blithe powers",
+     "Made Midgard for the sons of men.",
+     "Of his brains",
+     "All the melancholy",
+     "Clouds were made."
+    ]
+   }
+  ],
+  "g-c9-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: Much had been done, it seemed to me, when heaven and earth were made, when sun and moon were set in their places, and when days were marked out; but whence came the people who inhabit the world? Har answered as follows: As Bor's sons went along the sea-strand, they found two trees."
+   }
+  ],
+  "g-c9-2": [
+   {
+    "t": "p",
+    "s": "From them all mankind is descended, and a dwelling-place was given them under Midgard. In the next place, the sons of Bor made for themselves in the middle of the world a burg, which is called Asgard, and which we call Troy. There dwelt the gods and their race, and thence were wrought many tidings and adventures, both on earth and in the sky. In Asgard is a place called Hlidskjalf, and when Odin seated himself there in the high-seat, he saw over the whole world, and what every man was doing, and he knew all things that he saw."
+   }
+  ],
+  "g-c10-1": [
+   {
+    "t": "p",
+    "s": "Her last husband was Delling (Day-break), who was of asa-race. Their son was Day, who was light and fair after his father. Then took Alfather Night and her son Day, gave them two horses and two cars, and set them up in heaven to drive around the earth, each in twelve hours by turns. Night rides first on the horse which is called Hrimfaxe, and every morning he bedews the earth with the foam from his bit."
+   }
+  ],
+  "g-c11-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: How does he steer the course of the sun and the moon? Answered Har:"
+   }
+  ],
+  "g-c11-2": [
+   {
+    "t": "p",
+    "s": "But the gods became wroth at this arrogance, took both the brother and the sister, set them up in heaven, and made Sun drive the horses that draw the car of the sun, which the gods had made to light up the world from sparks that flew out of Muspelheim. These horses hight Arvak and Alsvid. Under their withers the gods placed two wind-bags to cool them, but in some songs it is called ironcold (ísarnkol). Moon guides the course of the moon, and rules its waxing and waning."
+   }
+  ],
+  "g-c12-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: Swift fares Sun, almost as if she were afraid, and she could make no more haste in her course if she feared her destroyer."
+   }
+  ],
+  "g-c12-2": [
+   {
+    "t": "p",
+    "s": "The answered Har: Nor is it wonderful that she speeds with all her might. Near is he who pursues her, and there is no escape for her but to run before him."
+   }
+  ],
+  "g-c12-3": [
+   {
+    "t": "p",
+    "s": "Then asked Ganglere: Who causes her this toil?"
+   }
+  ],
+  "g-c12-4": [
+   {
+    "t": "p",
+    "s": "Answered Har: It is two wolves. The one hight Skol, he runs after her; she fears him and he will one day overtake her. The other hight Hate, Hrodvitner's son; he bounds before her and wants to catch the moon, and so he will at last."
+   }
+  ],
+  "g-c12-5": [
+   {
+    "t": "p",
+    "s": "Then asked Ganglere: Whose offspring are these wolves?"
+   }
+  ],
+  "g-c12-6": [
+   {
+    "t": "p",
+    "s": "Said Har: A hag dwells east of Midgard, in the forest called Jarnved (Ironwood), where reside the witches called Jarnvidjes."
+   }
+  ],
+  "g-c12-7": [
+   {
+    "t": "p",
+    "s": "The old hag gives birth to many giant sons, and all in wolf's likeness. Thence come these two wolves. It is said that of this wolf race one is the mightiest, and is called Moongarm."
+   }
+  ],
+  "g-c12-8": [
+   {
+    "t": "p",
+    "s": "He is filled with the life-blood of all dead men. He will devour the moon, and stain the heavens and all the sky with blood. Thereby the sun will be darkened, the winds will grow wild, and roar hither and thither, as it is said in the Prophecy of the Vala:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "In the east dwells the old hag,",
+     "In the Jarnved forest;",
+     "And brings forth there",
+     "Fenrer's offspring.",
+     "There comes of them all",
+     "One the worst,",
+     "The moon's devourer",
+     "In a troll's disguise.",
+     "He is filled with the life-blood",
+     "Of men doomed to die;",
+     "The seats of the gods",
+     "He stains with red gore;",
+     "Sunshine grows black",
+     "The summer thereafter,",
+     "All weather gets fickle.",
+     "Know you yet or not?"
+    ]
+   }
+  ],
+  "g-c13-1": [
+   {
+    "t": "p",
+    "s": "Then asked Ganglere: What is the path from earth to heaven?"
+   }
+  ],
+  "g-c13-2": [
+   {
+    "t": "p",
+    "s": "Have you not been told that the gods made a bridge from earth to heaven, which is called Bifrost? You must have seen it. It may be that you call it the rainbow. It has three colors, is very strong, and is made with more craft and skill than other structures."
+   }
+  ],
+  "g-c13-3": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: The gods did not, it seems to me, build that bridge honestly, if it shall be able to break to pieces, since they could have done so, had they desired."
+   }
+  ],
+  "g-c13-4": [
+   {
+    "t": "p",
+    "s": "Then made answer Har: The gods are worthy of no blame for this structure. Bifrost is indeed a good bridge, but there is no thing in the world that is able to stand when the sons of Muspel come to the fight."
+   }
+  ],
+  "g-c14-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: What did Alfather do when Asgard had been built? Said Har:"
+   }
+  ],
+  "g-c14-2": [
+   {
+    "t": "p",
+    "s": "Their first work was to erect a court, where there were seats for all the twelve, and, besides, a high-seat for Alfather. That is the best and largest house ever built on earth, and is within and without like solid gold. This place is called Gladsheim. Then they built another hall as a home for the goddesses, which also is a very beautiful mansion, and is called Vingolf."
+   }
+  ],
+  "g-c14-3": [
+   {
+    "t": "p",
+    "s": "Afterward they worked in iron, stone and wood, and especially in that metal which is called gold. All their household wares were of gold. That age was called the golden age, until it was lost by the coming of those women from Jotunheim. Then the gods set themselves in their high-seats and held counsel."
+   }
+  ],
+  "g-c14-4": [
+   {
+    "t": "p",
+    "s": "The dwarfs had first been created and had quickened in Ymer's flesh, and were then maggots; but now, by the decision of the gods, they got the understanding and likeness of men, but still had to dwell in the earth and in rocks. Modsogner was one dwarf and Durin another. So it is said in the Vala's Prophecy:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Then went all the gods,",
+     "The all-holy gods,",
+     "On their judgment seats,",
+     "And thereon took counsel",
+     "Who should the race",
+     "Of dwarfs create",
+     "From the bloody sea",
+     "And from Blain's bones.",
+     "In the likeness of men",
+     "Made they many",
+     "Dwarfs in the earth,",
+     "As Durin said."
+    ]
+   }
+  ],
+  "g-c14-5": [
+   {
+    "t": "p",
+    "s": "And these, says the Vala, are the names of the dwarfs:"
+   }
+  ],
+  "g-c14-6": [
+   {
+    "t": "v",
+    "l": [
+     "Nye, Nide,",
+     "Nodre, Sudre,",
+     "Austre, Vestre,",
+     "Althjof, Dvalin,",
+     "Na, Nain,",
+     "Niping, Dain,",
+     "Bifur, Bafur,",
+     "Bombor, Nore,",
+     "Ore, Onar,",
+     "Oin, Mjodvitner,",
+     "Vig, Gandalf,",
+     "Vindalf, Thorin,",
+     "File, Kile,",
+     "Fundin, Vale,",
+     "Thro, Throin,",
+     "Theck, Lit, Vit,",
+     "Ny, Nyrad,",
+     "Rek, Radsvid."
+    ]
+   }
+  ],
+  "g-c14-8": [
+   {
+    "t": "p",
+    "s": "But the following are also dwarfs and dwell in the rocks, while the above-named dwell in the mould:"
+   }
+  ],
+  "g-c14-9": [
+   {
+    "t": "v",
+    "l": [
+     "Draupner, Dolgthvare,",
+     "Hor, Hugstare,",
+     "Hledjolf, Gloin,",
+     "Dore, Ore,",
+     "Duf, Andvare,",
+     "Hepte, File,",
+     "Har, Siar."
+    ]
+   }
+  ],
+  "g-c14-10": [
+   {
+    "t": "p",
+    "s": "But the following come from Svarin's How to Aurvang on Joruvold, and from them is sprung Lovar. Their names are:"
+   }
+  ],
+  "g-c14-11": [
+   {
+    "t": "v",
+    "l": [
+     "Skirfer, Virfir,",
+     "Skafid, Ae,",
+     "Alf, Inge,",
+     "Eikinskjalde,",
+     "Fal, Froste,",
+     "Fid, Ginnar."
+    ]
+   }
+  ],
+  "g-c15-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: Where is the chief or most holy place of the gods?"
+   }
+  ],
+  "g-c15-2": [
+   {
+    "t": "p",
+    "s": "Har answered: That is by the ash Ygdrasil. There the gods meet in council every day."
+   }
+  ],
+  "g-c15-3": [
+   {
+    "t": "p",
+    "s": "Said Ganglere: What is said about this place?"
+   }
+  ],
+  "g-c15-4": [
+   {
+    "t": "p",
+    "s": "Answered Jafnhar: This ash is the best and greatest of all trees; its branches spread over all the world, and reach up above heaven. Three roots sustain the tree and stand wide apart; one root is with the asas and another with the frost-giants, where Ginungagap formerly was; the third reaches into Niflheim; under it is Hvergelmer, where Nidhug gnaws the root from below. But under the second root, which extends to the frost-giants, is the well of Mimer, wherein knowledge and wisdom are concealed."
+   }
+  ],
+  "g-c15-5": [
+   {
+    "t": "p",
+    "s": "So it is said in the Vala's Prophecy:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Well know I, Odin,",
+     "Where you hid your eye:",
+     "In the crystal-clear",
+     "Well of Mimer.",
+     "Mead drinks Mimer",
+     "Every morning",
+     "From Valfather's pledge.",
+     "Know you yet or not?"
+    ]
+   },
+   {
+    "t": "p",
+    "s": "The third root of the ash is in heaven, and beneath it is the most sacred fountain of Urd. Here the gods have their doomstead."
+   }
+  ],
+  "g-c15-6": [
+   {
+    "t": "p",
+    "s": "The asas riding hither every day over Bifrost, which is also called Asa-bridge. The following are the names of the horses of the gods: Sleipner is the best one; he belongs to Odin, and he had eight feet. The second is Glad, the third Gyller, the fourth Gler, the fifth Skeidbrimer, the sixth Silfertop, the seventh Siner, the eighth Gisl, the ninth Falhofner, the tenth Gulltop, the eleventh Letfet."
+   }
+  ],
+  "g-c15-7": [
+   {
+    "t": "p",
+    "s": "Balder's horse was burned with him. Thor goes on foot to the doomstead, and wades the following rivers:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Kormt and Ormt",
+     "And the two Kerlaugs;",
+     "These shall Thor wade",
+     "Every day",
+     "When he goes to judge",
+     "Near the Ygdrasil ash;",
+     "For the Asa-bridge",
+     "Burns all ablaze,—",
+     "The holy waters roar."
+    ]
+   }
+  ],
+  "g-c15-8": [
+   {
+    "t": "p",
+    "s": "Then asked Ganglere: Does fire burn over Bifrost? Har answered:"
+   }
+  ],
+  "g-c15-9": [
+   {
+    "t": "p",
+    "s": "The frost-giants and the mountain-giants would go up to heaven if Bifrost were passable for all who desired to go there. Many fair places there are in heaven, and they are all protected by a divine defense. There stands a beautiful hall near the fountain beneath the ash. Out of it come three maids, whose names are Urd, Verdande and Skuld."
+   }
+  ],
+  "g-c15-10": [
+   {
+    "t": "p",
+    "s": "These maids shape the lives of men, and we call them norns. There are yet more norns, namely those who come to every man when he is born, to shape his life, and these are known to be of the race of gods; others, on the other hand, are of the race of elves, and yet others are of the race of dwarfs. As is here said:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Far asunder, I think,",
+     "The norns are born,",
+     "They are not of the same race.",
+     "Some are of the asas,",
+     "Some are of the elves,",
+     "Somea are daughters of Dvalin."
+    ]
+   }
+  ],
+  "g-c15-11": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: If the norns rule the fortunes of men, then they deal them out exceedingly unevenly. Some live a good life and are rich; some get neither wealth nor praise. Some have a long, others a short life."
+   }
+  ],
+  "g-c15-12": [
+   {
+    "t": "p",
+    "s": "Har answered: Good norns and of good descent shape good lives, and when some men are weighed down with misfortune, the evil norns are the cause of it."
+   }
+  ],
+  "g-c16-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: What other remarkable things are there to be said about the ash? Har answered: Much is to be said about it."
+   }
+  ],
+  "g-c16-2": [
+   {
+    "t": "p",
+    "s": "On one of the boughs of the ash sits an eagle, who knows many things. Between his eyes sits a hawk that is called Vedfolner. A squirrel, by name Ratatosk, springs up and down the tree, and carries words of envy between the eagle and Nidhug. Four stags leap about in the branches of the ash and bit the leaves."
+   }
+  ],
+  "g-c16-3": [
+   {
+    "t": "p",
+    "s": "Dain, Dvalin, Duney and Durathro. In Hvergelmer with Nidhug are more serpents than tongue can tell. As is here said:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "The ash Ygdrasil",
+     "Bears distress",
+     "Greater than men know.",
+     "Stags bit it above,",
+     "At the side it rots,",
+     "Nidhug gnaws it below."
+    ]
+   }
+  ],
+  "g-c16-4": [
+   {
+    "t": "p",
+    "s": "And so again it is said:"
+   }
+  ],
+  "g-c16-5": [
+   {
+    "t": "v",
+    "l": [
+     "More serpents lie",
+     "'Neath the Ygdrasil ash",
+     "Than is thought of",
+     "By every foolish ape.",
+     "Goin and Moin",
+     "(They are sons of Grafvitner),",
+     "Grabak and Grafvollud,",
+     "Ofner and Svafner",
+     "Must for aye, methinks,",
+     "Gnaw the roots of that tree."
+    ]
+   }
+  ],
+  "g-c16-6": [
+   {
+    "t": "p",
+    "s": "Again, it is said that the norns, that dwell in the fountain of Urd, every day take water from the fountain and take the clay that lies around the fountain and sprinkle therewith the ash, in order that its branches may not wither or decay. This water is so holy that all things that are put into the fountain become as white as the film of an egg-shell. As is here said:"
+   }
+  ],
+  "g-c16-7": [
+   {
+    "t": "v",
+    "l": [
+     "An ash I know",
+     "Hight Ygdrasil;",
+     "A high, holy tree",
+     "With white clay sprinkled.",
+     "Thence comes the dews",
+     "That fall in the dales.",
+     "Green forever it stands",
+     "Over Urd's fountain."
+    ]
+   }
+  ],
+  "g-c16-8": [
+   {
+    "t": "p",
+    "s": "The dew which falls on the earth from this tree men call honey-fall, and it is the food of bees. Two birds are fed in Urd's fountain; they are called swans, and they are the parents of the race of swans."
+   }
+  ],
+  "g-c17-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: Great tidings you are able to tell of the heavens. Are there other remarkable places than the one by Urd's fountain? Answered Har:"
+   }
+  ],
+  "g-c17-2": [
+   {
+    "t": "p",
+    "s": "The light-elves are fairer than the sun to look upon, but the dark-elves are blacker than pitch. Another place is called Breidablik, and no place is fairer. There is also a mansion called Glitner, of which the walls and pillars and posts are of red gold, and the roof is of silver. Furthermore, there is a dwelling, by name Himinbjorg, which stands at the end of heaven, where the Bifrost-bridge is united with heaven."
+   }
+  ],
+  "g-c17-3": [
+   {
+    "t": "p",
+    "s": "It shall stand when both heaven and earth shall have passed away. In this hall the good and righteous shall dwell through all ages. Thus says the Prophecy of the Vala:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "A hall I know, standing",
+     "Than the sun fairer,",
+     "Than gold better,",
+     "Gimle by name.",
+     "There shall good",
+     "People dwell,",
+     "And forever",
+     "Delights enjoy."
+    ]
+   }
+  ],
+  "g-c17-4": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: Who guards this palace when Surt's fire burns up heaven and earth?"
+   }
+  ],
+  "g-c17-5": [
+   {
+    "t": "p",
+    "s": "Har answered: It is said that to the south and above this heaven is another heaven, which is called Andlang. But there is a third, which is above these, and is called Vidblain, and in this heaven we believe this mansion (Gimle) to be situated; but we deem that the light-elves alone dwell in it now."
+   }
+  ],
+  "g-c18-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: Whence comes the wind? It is so strong that it moves great seas, and fans fires to flame, and yet, strong as it is, it cannot be seen. Therefore it is wonderfully made."
+   }
+  ],
+  "g-c18-2": [
+   {
+    "t": "p",
+    "s": "Then answered Har: That I can tell you well. At the northern end of heaven sits a giant, who hight Hrasvelg. He is clad in eagles' plumes, and when he spreads his wings for flight, the winds arise from under them."
+   }
+  ],
+  "g-c18-3": [
+   {
+    "t": "p",
+    "s": "Thus is it here said:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Hrasvelg hight he",
+     "Who sits at the end of heaven,",
+     "A giant in eagle's disguise.",
+     "From his wings does come",
+     "Over all mankind."
+    ]
+   }
+  ],
+  "g-c19-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: How comes it thatsummer is so hot, but the winter so cold? Har answered:"
+   }
+  ],
+  "g-c19-2": [
+   {
+    "t": "p",
+    "s": "A wise man would not ask such a question, for all are able to tell this; but if you alone have become so stupid that you have not heard of it, then I would rather forgive you for asking unwisely once than that you should go any longer in ignorance of what you ought to know. Svasud is the name of him who is father of summer, and he lives such a life of enjoyment, that everything that is mild is from him called sweet (svasligt). But the father of winter has two names, Vindlone and Vindsval. He is the son of Vasad, and all that race are grim and of icy breath, and winter is like them."
+   }
+  ],
+  "g-c20-1": [
+   {
+    "t": "p",
+    "s": "Then asked Ganglere: Which are the asas, in whom men are bound to believe?"
+   }
+  ],
+  "g-c20-2": [
+   {
+    "t": "p",
+    "s": "Har answered him: Twelve are the divine asas."
+   }
+  ],
+  "g-c20-3": [
+   {
+    "t": "p",
+    "s": "Jafnhar said: No less holy are the asynjes (goddesses), nor is their power less."
+   }
+  ],
+  "g-c20-4": [
+   {
+    "t": "p",
+    "s": "Then added Thride: Odin is the highest and oldest of the asas. He rules all things, but the other gods, each according to his might, serve him as children a father. Frigg is his wife, and she knows the fate of men, although she tells not thereof, as it is related that Odin himself said to Asa-Loke:"
+   }
+  ],
+  "g-c20-5": [
+   {
+    "t": "v",
+    "l": [
+     "Mad are you, Loke!",
+     "And out of your senses;",
+     "Why do you not stop?",
+     "Fortunes all,",
+     "Methinks, Frigg knows,",
+     "Though she tells them not herself."
+    ]
+   }
+  ],
+  "g-c20-6": [
+   {
+    "t": "p",
+    "s": "Odin is called Alfather, for he is the father of all the gods; he is also called Valfather, for all who fall in fight are his chosen sons. For them he prepares Valhal and Vingolf, where they are called einherjes (heroes)."
+   }
+  ],
+  "g-c20-7": [
+   {
+    "t": "p",
+    "s": "He is also called Hangagod, Haptagod, Farmagod; and he gave himself still more names when he came to King Geirrod:"
+   }
+  ],
+  "g-c20-8": [
+   {
+    "t": "v",
+    "l": [
+     "Grim is my name,",
+     "And Ganglare,",
+     "Herjan, Hjalmbore,",
+     "Thek, Thride,",
+     "Thud, Ud,",
+     "Helblinde, Har",
+     "Sad, Svipal,",
+     "Sangetal,",
+     "Herteit, Hnikar,",
+     "Biley g, Baleyg,",
+     "Bolverk, Fjolner,",
+     "Grimner, Glapsvid, Fjolsvid,",
+     "Sidhot, Sidskeg,",
+     "Sigfather, Hnikud,",
+     "Alfather, Atrid, Farmatyr,",
+     "Oske, Ome,",
+     "Jafnhar, Biflinde,",
+     "Gondler, Harbard,",
+     "Svidur, Svidrir,",
+     "Jalk, Kjalar, Vidur,",
+     "Thro, Yg, Thund,",
+     "Vak, Skilfing,",
+     "Vafud, Hroptatyr,",
+     "Gaut, Veratyr."
+    ]
+   }
+  ],
+  "g-c20-9": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: A very great number of names you have given him; and this I know, forsooth, that he must be a very wise man who is able to understand and decide what chances are the causes of all these names."
+   }
+  ],
+  "g-c20-10": [
+   {
+    "t": "p",
+    "s": "Har answered: Much knowledge is needed to explain it all rightly, but still it is shortest to tell you that most of these names have been given him for the reason that, as there are many tongues in the world, so all peoples thought they ought to turn his name into their tongue, in order that they might be able to worship him and pray to him each in its own language. Other causes of these names must be sought in his journeys, which are told of in old sagas; and you can lay no claim to being called a wise man if you are not able to tell of these wonderful adventures."
+   }
+  ],
+  "g-c21-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: What are the names of the other asas?"
+   }
+  ],
+  "g-c21-2": [
+   {
+    "t": "p",
+    "s": "Har answered: Thor is the foremost of them. He is called Asa-Thor, or Oku-Thor. He is the strongest of all gods and men, and rules over the realm which is called Thrudvang."
+   }
+  ],
+  "g-c21-3": [
+   {
+    "t": "p",
+    "s": "His hall is called Bilskirner. Therein are five hundred and forty floors, and it is the largest house that men have made. Thus it is said in Grimner's Lay:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Five hundred floors",
+     "And forty more,",
+     "Methinks, has bowed Bilskirner.",
+     "Of houses all",
+     "That I know roofed",
+     "I know my son's is the largest."
+    ]
+   }
+  ],
+  "g-c21-4": [
+   {
+    "t": "p",
+    "s": "One of them is the hammer Mjolner, which the frost-giants and mountain-giants well know when it is raised; and this is not to be wondered at, for with it he has split many a skull of their fathers or friends. The second treasure he possesses is Megingjarder (belt of strength); when he girds himself with it his strength is doubled. His third treasure that is of so great value is his iron gloves; these he cannot do without when he lays hold of the hammer's haft. No one is so wise that he can tell all his great works; but I can tell you so many tidings of him that it will grow late before all is told that I know."
+   }
+  ],
+  "g-c22-1": [
+   {
+    "t": "p",
+    "s": "Thereupon said Ganglere: I wish to ask tidings of more of the asas."
+   }
+  ],
+  "g-c22-2": [
+   {
+    "t": "p",
+    "s": "Odin's second son is Balder, and of him good things are to be told. He is the best, and all praise him. He is fair of face and so bright that rays of light issue from him; and there is a plant so white that it is likened unto Balder's brow, and it is the whitest of all plants. From this you can judge of the beauty both of his hair and of his body."
+   }
+  ],
+  "g-c22-3": [
+   {
+    "t": "p",
+    "s": "He is the wisest, mildest and most eloquent of all the asas; and such is his nature that none can alter the judgment he has pronounced. He inhabits the place in heaven called Breidablik, and there nothing unclean can enter. As is here said:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Breidablik it is called,",
+     "Where Balder has",
+     "Built for himself a hall",
+     "In the land",
+     "Where I know is found",
+     "The least of evil."
+    ]
+   }
+  ],
+  "g-c23-1": [
+   {
+    "t": "p",
+    "s": "The third asa is he who is called Njord. He dwells in Noatun, which is in heaven. He rules the course of the wind and checks the fury of the sea and of fire. He is invoked by seafarers and by fishermen."
+   }
+  ],
+  "g-c23-2": [
+   {
+    "t": "p",
+    "s": "Njord, on the other hand, preferred to be near the sea. They therefore agreed to pass nine nights in Thrymheim and three in Noatun. But when Njord came back from the mountains to Noatun he sang this:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Weary am I of the mountains,",
+     "Not long was I there,",
+     "Only nine nights.",
+     "The howl of the wolves",
+     "Methought sounded ill",
+     "To the song of the swans."
+    ]
+   }
+  ],
+  "g-c23-3": [
+   {
+    "t": "p",
+    "s": "Skade then sang this:"
+   }
+  ],
+  "g-c23-4": [
+   {
+    "t": "v",
+    "l": [
+     "Sleep I could not",
+     "On my sea-strand couch,",
+     "For the scream of the sea-fowl.",
+     "There wakes me,",
+     "As he comes from the sea,",
+     "Every morning the mew."
+    ]
+   }
+  ],
+  "g-c23-5": [
+   {
+    "t": "p",
+    "s": "Then went Skade up on the mountain, and dwelt in Thrymheim. She often goes on skees (snow-shoes), with her bow, and shoots wild beasts. She is called skee-goddess or skee-dis."
+   }
+  ],
+  "g-c23-6": [
+   {
+    "t": "p",
+    "s": "Thus it is said:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Thrymheim it is called",
+     "Where Thjasse dwelt,",
+     "That mightiest giant.",
+     "But now dwells Skade,",
+     "Pure bride of the gods,",
+     "In her father's old homestead."
+    ]
+   }
+  ],
+  "g-c24-1": [
+   {
+    "t": "p",
+    "s": "Njord, in Noatun, afterward begat two children: a son, by name Frey, and a daughter, by name Freyja. They were fair of face, and mighty. Frey is the most famous of the asas. He rules over rain and sunshine, and over the fruits of the earth."
+   }
+  ],
+  "g-c24-2": [
+   {
+    "t": "p",
+    "s": "Freyja is the most famous of the goddesses. She has in heaven a dwelling which is called Folkvang, and when she rides to the battle, one half of the slain belong to her, and the other half to Odin. As is here said:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Folkvang it is called,",
+     "And there rules Freyja.",
+     "For the seats in the hall",
+     "Half of the slain",
+     "She chooses each day;",
+     "The other half is Odin's."
+    ]
+   }
+  ],
+  "g-c24-3": [
+   {
+    "t": "p",
+    "s": "Her hall is Sesrymner, and it is large and beautiful. When she goes abroad, she drives in a car drawn by two cats. She lends a favorable ear to men who call upon her, and it is from her name that the title has come that women of birth and wealth are called frur. She is fond of love ditties, and it is good to call on her in love affairs."
+   }
+  ],
+  "g-c25-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: Of great importance these asas seem to me to be, and it is not wonderful that you have great power, since you have such excellent knowledge of the gods, and know to which of them to address you prayers on each occasion. But what other gods are there? Har answered:"
+   }
+  ],
+  "g-c25-2": [
+   {
+    "t": "p",
+    "s": "A proof of his daring is, that when the asas induced the wolf Fenrer to let himself be bound with the chain Gleipner, he would not believe that they would loose him again until Tyr put his hand in his mouth as a pledge. But when the asas would not loos the Fenris-wolf, he bit Tyr's hand off at the place of the wolf's joint (the wrist; Icel. úlfliðr). From that time Tyr is one-handed, and he is now called a peacemaker among men."
+   }
+  ],
+  "g-c26-1": [
+   {
+    "t": "p",
+    "s": "He is famous for his wisdom, eloquence and flowing speech. He is a master-skald, and from him song-craft is called brag (poetry), and such men or women are called brag-men and brag-women. His wife is Idun. She keeps in a box those apples of which the gods eat when they grow old, and then they become young again, and so it will be until Ragnarok (the twilight of the gods)."
+   }
+  ],
+  "g-c26-2": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: Of great importance to the gods it must be, it seems to me, that Idun preserves these apples with care and honesty."
+   }
+  ],
+  "g-c26-3": [
+   {
+    "t": "p",
+    "s": "Har answered, and laughed: They ran a great risk on one occasion whereof I might tell you more, but you shall first hear the names of more asas."
+   }
+  ],
+  "g-c27-1": [
+   {
+    "t": "p",
+    "s": "He dwells in a place called Himinbjorg, near Bifrost. He is the ward of the gods, and sits at the end of heaven, guarding the bridge against the mountain-giants. He needs less sleep than a bird; sees an hundred miles around him, and as well by night as by day. He hears the grass grow and the wool on the backs of the sheep, and of course all things that sound louder than these."
+   }
+  ],
+  "g-c27-2": [
+   {
+    "t": "p",
+    "s": "He has a trumpet called Gjallarhorn, and when he blows it it can be heard in all the worlds. The head is called Heimdal's sword. Thus it is here said:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Himinbjorg it is called,",
+     "Where Heimdal rules",
+     "Over his holy halls;",
+     "There drinks the ward of the gods",
+     "In his delightful dwelling",
+     "Glad the good mead."
+    ]
+   }
+  ],
+  "g-c27-3": [
+   {
+    "t": "p",
+    "s": "And again, in Heimdal's Song, he says himself:"
+   }
+  ],
+  "g-c27-4": [
+   {
+    "t": "v",
+    "l": [
+     "Son I am of maidens nine,",
+     "Born I am of sisters nine."
+    ]
+   }
+  ],
+  "g-c28-1": [
+   {
+    "t": "p",
+    "s": "Hoder hight one of the asas, who is blind, but exceedingly strong; and the gods would wish that this asa never needed to be named, for the work of his hand will long be kept in memory both by gods and men."
+   }
+  ],
+  "g-c29-1": [
+   {
+    "t": "p",
+    "s": "Vidar is the name of the silent asa. He has a very thick shoe, and he is the strongest next after Thor. From him the gods have much help in all hard tasks."
+   }
+  ],
+  "g-c30-1": [
+   {
+    "t": "p",
+    "s": "Ale, or Vale, is the son of Odin and Rind. He is daring in combat, and a good shot."
+   }
+  ],
+  "g-c31-1": [
+   {
+    "t": "p",
+    "s": "Uller is the name of one, who is a son of Sif, and a step-son of Thor. He is so good an archer, and so fast on his skees, that no one can contend with him. He is fair of face, and possesses every quality of a warrior. Men should invoke him in single combat."
+   }
+  ],
+  "g-c32-1": [
+   {
+    "t": "p",
+    "s": "Forsete is a son of Balder and Nanna, Nep's daughter. He has in heaven the hall which hight Glitner. All who come to him with disputes go away perfectly reconciled. No better tribunal is to be found among gods and men."
+   }
+  ],
+  "g-c32-2": [
+   {
+    "t": "p",
+    "s": "Thus it is here said:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Glitner hight the hall,",
+     "On gold pillars standing,",
+     "And roofed with silver.",
+     "There dwells Forsete",
+     "Throughout all time,",
+     "And settles all disputes."
+    ]
+   }
+  ],
+  "g-c33-1": [
+   {
+    "t": "p",
+    "s": "His father is the giant Farbaute, but his mother's name is Laufey, or Nal. His brothers are Byleist and Helblinde. Loke is fair and beautiful of face, but evil in disposition, and very fickle-minded. He surpasses other men in the craft of cunning, and cheats in all things."
+   }
+  ],
+  "g-c34-1": [
+   {
+    "t": "p",
+    "s": "The first was the Fenris-wolf; the second, Jormungand, that is, the Midgard-serpent, and the third, Hel. When the gods knew that these three children were being fostered in Jotunheim, and were aware of the prophecies that much woe and misfortune would thence come to them, and considering that much evil might be looked for from them on their mother's side, and still more on their father's, Alfather sent some of the gods to take the children and bring them to him. When they came to him he threw the serpent into the deep sea which surrounds all lands. There waxed the serpent so that he lies in the midst of the ocean, surrounds all the earth, and bites his own tail."
+   }
+  ],
+  "g-c34-2": [
+   {
+    "t": "p",
+    "s": "Hel he cast into Niflheim, and gave her power over nine worlds, that she should appoint abodes to them that are sent to her, namely, those who die from sickness or old age. She has there a great mansion, and the walls around it are of strange height, and the gates are huge. Eljudner is the name of her hall. Her table hight famine; her knife, starvation."
+   }
+  ],
+  "g-c34-3": [
+   {
+    "t": "p",
+    "s": "They wanted to wolf to try this also, saying to him that he would become very famous for his strength, if so strong a chain was not able to hold him. The wolf thought that this fetter was indeed very strong, but also that his strength had increased since he broke Lading. He also took into consideration that it was necessary to expose one’s self to some danger if he desired to become famous; so he let them put the fetter on him. When the asas said they were ready, the wolf shook himself, spurned against and dashed the fetter on the ground, so that the broken pieces flew a long distance."
+   }
+  ],
+  "g-c34-4": [
+   {
+    "t": "p",
+    "s": "Since then it has been held as a proverb, “to get loose out of Lading” or “to dash out of Drome,” whenever anything is extraordinarily hard. The asas now began to fear that they would not get the wolf bound. So Alfather sent the youth, who is called Skirner, and is Frey's messenger, to some dwarfs in Svartalfheim, and had them make the fetter which is called Gleipner. It was made of six things: of the footfalls of cats, of the beard of women, of the roots of the mountain, of the sinews of the bear, of the breath of the fish, and of the spittle of the birds."
+   }
+  ],
+  "g-c34-5": [
+   {
+    "t": "p",
+    "s": "If you have not known this before, you can easily find out that it is true and that there is no lie about it, since you must have observed that a woman has no beard, that a cat's footfall cannot be heard, and that mountains have no roots; and I know, forsooth, that what I have told you is perfectly true, although there are some things that you do not understand. Then said Ganglere: This I must surely understand to be true."
+   }
+  ],
+  "g-c34-6": [
+   {
+    "t": "p",
+    "s": "I can see these things which you have taken as proof. But how was the fetter smithied? Answered Har: That I can well explain to you."
+   }
+  ],
+  "g-c34-7": [
+   {
+    "t": "p",
+    "s": "When the fetter was brought to the asas, they thanked the messenger for doing his errand so well. Then they went out into the lake called Amsvartner, to the holm (rocky island) called Lyngve, and called the wolf to go with them. They showed him the silken band and bade him break it, saying that it was somewhat stronger than its thinness would lead one to suppose. Then they handed it from one to the other and tried its strength with their hands, but it did not break."
+   }
+  ],
+  "g-c34-8": [
+   {
+    "t": "p",
+    "s": "Still they said the wolf would be able to snap it. The wolf answered: It seems to me that I will get no fame though I break asunder so slender a thread as this is. But if it is made with craft and guile, then, little though it may look, that band will never come on my feet."
+   }
+  ],
+  "g-c34-9": [
+   {
+    "t": "p",
+    "s": "Then said the asas that he would easily be able to break a slim silken band, since he had already burst large iron fetters asunder. But even if you are unable to break this band, you will have nothing to fear from the gods, for we will immediately loose you again. The wolf answered:"
+   }
+  ],
+  "g-c34-10": [
+   {
+    "t": "p",
+    "s": "If you get me bound so fast that I am not able to loose myself again, you will skulk away, and it will be long before I get any help from you, wherefore I am loth to let this band be laid on me; but in order that you may not accuse me of cowardice, let some one of you lay his hand in my mouth as a pledge that this is done without deceit. The one asa looked at the other, and thought there now was a choice of two evils, and no one would offer his hand, before Tyr held out his right hand and laid it in the wolf's mouth. But when the wolf now began to spurn against it the band grew stiffer, and the more he strained the tighter it got. They all laughed except Tyr; he lost his hand."
+   }
+  ],
+  "g-c34-11": [
+   {
+    "t": "p",
+    "s": "When the asas saw that the wolf was sufficiently well bound, they took the chain which was fixed to the fetter, and which was called Gelgja, and drew it through a large rock which is called Gjol, and fastened this rock deep down in the earth. Then they took a large stone, which is called Tvite, and drove it still deeper into the ground, and used this stone for a fastening-pin. The wolf opened his mouth terribly wide, raged and twisted himself with all his might, and wanted to bite them; but they put a sword in his mouth, in such a manner that the hilt stood in his lower jaw and the point in the upper, that is his gag. He howls terribly, and the saliva which runs from his mouth forms a river called Von."
+   }
+  ],
+  "g-c34-12": [
+   {
+    "t": "p",
+    "s": "There he will lie until Ragnarok. Then said Ganglere: Very bad are these children of Loke, but they are strong and mighty. But why did not the asas kill the wolf when they have evil to expect from him?"
+   }
+  ],
+  "g-c34-13": [
+   {
+    "t": "p",
+    "s": "Har answered: So great respect have the gods for their holiness and peace-stead, that they would not stain them with the blood of the wolf, though prophecies foretell that he must become the bane of Odin."
+   }
+  ],
+  "g-c35-1": [
+   {
+    "t": "p",
+    "s": "Ganglere asked:"
+   }
+  ],
+  "g-c35-2": [
+   {
+    "t": "p",
+    "s": "Which are the goddesses? Har answered: Frigg is the first; she possesses the right lordly dwelling which is called Fensaler."
+   }
+  ],
+  "g-c35-3": [
+   {
+    "t": "p",
+    "s": "The second is Saga, who dwells in Sokvabek, and this is a large dwelling."
+   }
+  ],
+  "g-c35-4": [
+   {
+    "t": "p",
+    "s": "The third is Eir, who is the best leech."
+   }
+  ],
+  "g-c35-5": [
+   {
+    "t": "p",
+    "s": "The fourth is Gefjun, who is a may, and those who die maids become her hand-maidens."
+   }
+  ],
+  "g-c35-6": [
+   {
+    "t": "p",
+    "s": "The fifth is Fulla, who is also a may, she wears her hair flowing and has a golden ribbon about her head; she carries Frigg's chest, takes care of her shoes and knows her secrets. The sixth is Freyja, who is ranked with Frigg."
+   }
+  ],
+  "g-c35-7": [
+   {
+    "t": "p",
+    "s": "She is wedded to the man whose name is Oder; their daughter's name is Hnos, and she is so fair that all things fair and precious are called, from her name, Hnos. Oder went far away. Freyja weeps for him, but her tears are red gold. Freyja has many names, and the reason therefor is that she changed her name among the various nations to which she came in search of Oder."
+   }
+  ],
+  "g-c35-8": [
+   {
+    "t": "p",
+    "s": "She is called Mardol, Horn, Gefn, and Syr. She has the necklace Brising, and she is called Vanadis. The seventh is Sjofn, who is fond of turning men's and women's hearts to love, and it is from her name that love is called Sjafne."
+   }
+  ],
+  "g-c35-9": [
+   {
+    "t": "p",
+    "s": "The eighth is Lofn, who is kind and good to those who call upon her, and she has permission from Alfather or Frigg to bring together men and women, no matter what difficulties may stand in the way; therefore \"love\" is so called from her name, and also that which is much loved by men."
+   }
+  ],
+  "g-c35-10": [
+   {
+    "t": "p",
+    "s": "The ninth is Var. She hears the oaths and troths that men and women plight to each other."
+   }
+  ],
+  "g-c35-11": [
+   {
+    "t": "p",
+    "s": "Hence such vows are called vars, and she takes vengeance on those who break their promises."
+   }
+  ],
+  "g-c35-12": [
+   {
+    "t": "p",
+    "s": "The tenth is Vor, who is so wise and searching that nothing can be concealed from her. It is a saying that a woman becomes vor (ware) of what she becomes wise. The eleventh is Syn, who guards the door of the hall, and closes it against those who are not to enter. In trials she guards those suits in which anyone tries to make use of falsehood."
+   }
+  ],
+  "g-c35-13": [
+   {
+    "t": "p",
+    "s": "The twelfth is Hlin, who guards those men whom Frigg wants to protect from any danger. Hence is the saying that he hlins who is forewarned. The thirteenth is Snotra, who is wise and courtly. After her, men and women who are wise are called Snotras."
+   }
+  ],
+  "g-c35-14": [
+   {
+    "t": "p",
+    "s": "The fourteenth is Gna, whom Frigg sends on her errands into various worlds. She rides upon a horse called Hofvarpner, that runs through the air and over the sea."
+   }
+  ],
+  "g-c35-15": [
+   {
+    "t": "p",
+    "s": "Once, when she was riding, some vans saw her faring through the air. Then said one of them:"
+   }
+  ],
+  "g-c35-16": [
+   {
+    "t": "v",
+    "l": [
+     "What flies there?",
+     "What fares there?",
+     "What glides in the air?"
+    ]
+   }
+  ],
+  "g-c35-17": [
+   {
+    "t": "p",
+    "s": "She answered"
+   }
+  ],
+  "g-c35-18": [
+   {
+    "t": "v",
+    "l": [
+     "I fly not,",
+     "Though I fare",
+     "And glide through the air",
+     "On Hofvarpner,",
+     "That Hamskerper,",
+     "Begat with Gardrofa."
+    ]
+   }
+  ],
+  "g-c35-19": [
+   {
+    "t": "p",
+    "s": "From Gna's name it is said that anything that fares high in the air gnas."
+   }
+  ],
+  "g-c35-20": [
+   {
+    "t": "p",
+    "s": "Sol and Bil are numbered among the goddesses, but their nature has already been described."
+   }
+  ],
+  "g-c36-1": [
+   {
+    "t": "p",
+    "s": "There are still others who are to serve in Valhal, bear the drink around, wait upon the table and pass the ale-horns. Thus they are named in Grimner's Lay:"
+   }
+  ],
+  "g-c36-2": [
+   {
+    "t": "v",
+    "l": [
+     "Hrist and Mist",
+     "I want my horn to bring to me;",
+     "Skeggold and Skogul,",
+     "Hild and Thrud,",
+     "Hlok and Herfjoter,",
+     "Gol and Geirahod,",
+     "Randgrid and Radgrid,",
+     "And Reginleif;",
+     "These bear ale to the einherjes."
+    ]
+   }
+  ],
+  "g-c36-3": [
+   {
+    "t": "p",
+    "s": "These are called valkyries. Odin sends them to all battles, where they choose those who are to be slain, and rule over the victory. Gud and Rosta, and the youngest norn, Skuld, always ride to sway the battle and choose the slain. Jord, the mother of Thor, and Rind, Vale's mother, are numbered among the goddesses."
+   }
+  ],
+  "g-c37-1": [
+   {
+    "t": "p",
+    "s": "Gymer hight a man whose wife was Orboda, of the race of mountain giants. Their daughter was Gerd, the fairest of all women. One day when Frey had gone into Hlidskjalf, and was looking out upon all the worlds, he saw toward the north a hamlet wherein was a large and beautiful house. To this house went a woman, and when she raised her hands to open the door, both the sky and the sea glistened therefrom, and she made all the world bright."
+   }
+  ],
+  "g-c37-2": [
+   {
+    "t": "p",
+    "s": "As a punishment for his audacity in seating himself in that holy seat, Frey went away full of grief. When he came home, he neither spake, slept, nor drank, and no one dared speak to him. Then Njord sent for Skirner, Frey's servant, bade him go to Frey and ask him with whom he was so angry, since he would speak to nobody. Skirner said that he would go, though he was loth to do so, as it was probable that he would get evil words in reply."
+   }
+  ],
+  "g-c37-3": [
+   {
+    "t": "p",
+    "s": "When he came to Frey and asked him why he was so sad that he would not talk, Frey answered that he had seen a beautiful woman, and for her sake he had become so filled with grief, that he could not live any longer if he could not get her. And now you must go he added, and ask her hand for me and bring her home to me, whether it be with or without the consent of her father. I will reward you well for your trouble."
+   }
+  ],
+  "g-c37-4": [
+   {
+    "t": "p",
+    "s": "Skirner answered saying that he would go on this errand, but Frey must give him his sword, that was so excellent that it wielded itself in fight. Frey made no objection to this and gave him the sword. Skirner went on his journey, courted Gerd for him, and got the promise of her that she nine nights thereafter should come to Bar-Isle and there have her wedding with Frey. When Skirner came back and gave an account of his journey, Frey said:"
+   }
+  ],
+  "g-c37-5": [
+   {
+    "t": "v",
+    "l": [
+     "Long is one night,",
+     "Long are two nights,",
+     "How can I hold out three?",
+     "Oft to me one month",
+     "Seemed less",
+     "Than this half night of love."
+    ]
+   }
+  ],
+  "g-c37-6": [
+   {
+    "t": "p",
+    "s": "This is the reason why Frey was unarmed when he fought with Bele, and slew him with a hart's horn."
+   }
+  ],
+  "g-c37-7": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: It is a great wonder that such a lord as Frey would give away his sword, when he did not have another as good. A great loss it was to him when he fought with Bele; and this I know, forsooth, that he must have repented of that gift."
+   }
+  ],
+  "g-c37-8": [
+   {
+    "t": "p",
+    "s": "Har answered: Of no great account was his meeting with Bele. Frey could have slain him with his hand. But the time will come when he will find himself in a worse plight for not having his sword, and that will be when the sons of Muspel sally forth to the fight."
+   }
+  ],
+  "g-c38-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: You say that all men who since the beginning of the world have fallen in battle have come to Odin in Valhal. What does he have to give them to eat? It seems to me there must be a great throng of people."
+   }
+  ],
+  "g-c38-2": [
+   {
+    "t": "p",
+    "s": "But however great may be the throng in Valhal, they will get plenty of flesh of the boar Sahrimner. He is boiled every day and is whole again in the evening. But as to the question you just asked, it seems to me there are but few men so wise that they are able to answer it correctly. The cook's name is Andhrimner, and the kettle is called Eldhrimner, as is here said:"
+   }
+  ],
+  "g-c38-3": [
+   {
+    "t": "v",
+    "l": [
+     "Andhrimner cooks",
+     "In Eldhrimner",
+     "Sahrimner.",
+     "'Tis the best of flesh.",
+     "There are few who know",
+     "What the einherjes eat."
+    ]
+   }
+  ],
+  "g-c38-4": [
+   {
+    "t": "p",
+    "s": "Ganglere asked: Does Odin have the same kind of food as the einherjes?"
+   }
+  ],
+  "g-c38-5": [
+   {
+    "t": "p",
+    "s": "Har answered: The food that is placed on his table he gives to his two wolves, which hight Gere and Freke. He needs no food himself. Wine is to him both food and drink, as is here said:"
+   }
+  ],
+  "g-c38-6": [
+   {
+    "t": "v",
+    "l": [
+     "Gere and Freke",
+     "Sates the warfaring,",
+     "Famous father of hosts;",
+     "But on wine alone",
+     "Odin in arms renowned",
+     "Forever lives."
+    ]
+   }
+  ],
+  "g-c38-7": [
+   {
+    "t": "p",
+    "s": "Two ravens sit on Odin's shoulders, and bring to his ears all that they hear and see. Their names are Hugin and Munin. At dawn he sends them out to fly over the whole world, and they come back at breakfast time. Thus he gets information about many things, and hence he is called Rafnagud (raven-god)."
+   }
+  ],
+  "g-c38-8": [
+   {
+    "t": "p",
+    "s": "As is here said:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Hugin and Munin",
+     "Fly every day",
+     "Over the great earth.",
+     "I fear for Hugin",
+     "That he may not return,",
+     "Yet more am I anxious for Munin."
+    ]
+   }
+  ],
+  "g-c39-1": [
+   {
+    "t": "p",
+    "s": "Then asked Ganglere: What do the einherjes have to drink that is furnished them as bountifully as the food? Or do they drink water? Har answered:"
+   }
+  ],
+  "g-c39-2": [
+   {
+    "t": "p",
+    "s": "Do you suppose that Alfather invites kings, jarls, or other great men, and gives them water to drink? This I know, forsooth, that many a one comes to Valhal who would think he was paying a big price for his water-drink, if there were no better reception to be found there,—persons, namely, who have died from wounds and pain. But I can tell you other tidings. A she-goat, by name Heidrun, stands up in Valhal and bites the leaves off the branches of that famous tree called Lerad."
+   }
+  ],
+  "g-c39-3": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: That is a most useful goat, and right excellent tree that must be that she feeds upon. Then said Har:"
+   }
+  ],
+  "g-c39-4": [
+   {
+    "t": "p",
+    "s": "Still more remarkable is the hart Eikthyrner, which stands over Valhal and bites the branches of the same tree. From his horns fall so many drops down into Hvergelmer, that thence flow the rivers that are called Sid, Vid, Sekin, Ekin, Svol, Gunthro, Fjorm, Fimbulthul, Gipul, Gopul, Gomul and Geirvimul, all of which fall about the abodes of the asas. The following are also named: Thyn, Vin, Thol, Bol, Grad, Gunthrain, Nyt, Not, Non, Hron, Vina, Vegsvin, Thjodnuma."
+   }
+  ],
+  "g-c40-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: That was a wonderful tiding that you now told me. A mighty house must Valhal be, and a great crowd there must often be at the door. Then answered Har:"
+   }
+  ],
+  "g-c40-2": [
+   {
+    "t": "p",
+    "s": "Why do you not ask how many doors there are in Valhal, and how large they are? When you find that out, you will confess it would rather be wonderful if everybody could not easily go in and out. It is also a fact that it is no more difficult to find room within than to get in. Of this you may hear what the Lay of Grimner says:"
+   }
+  ],
+  "g-c40-3": [
+   {
+    "t": "v",
+    "l": [
+     "Five hundred doors",
+     "And forty more,",
+     "I trow, there are in Valhal.",
+     "Eight hundred einherjes",
+     "Go at a time through one door",
+     "When they fare to fight with the wolf."
+    ]
+   }
+  ],
+  "g-c41-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: A mighty band of men there is in Valhal, and, forsooth, I know that Odin is a very great chief, since he commands so mighty a host. But what is the pastime of the einherjes when they do not drink? Har answered:"
+   }
+  ],
+  "g-c41-2": [
+   {
+    "t": "p",
+    "s": "Every morning, when they have dressed themselves, they take their weapons and go out into the court and fight and slay each other. That is their play. Toward breakfast-time they ride home to Valhal and sit down to drink. As is here said:"
+   }
+  ],
+  "g-c41-3": [
+   {
+    "t": "v",
+    "l": [
+     "All the einherjes",
+     "In Odin's court",
+     "Hew daily each other.",
+     "They choose the slain",
+     "And ride from the battle-field,",
+     "Then sit they in peace together."
+    ]
+   }
+  ],
+  "g-c41-4": [
+   {
+    "t": "p",
+    "s": "But true it is, as you said, that Odin is a great chief. There are many proofs of that. Thus it is said in the very words of the asas themselves:"
+   }
+  ],
+  "g-c41-5": [
+   {
+    "t": "v",
+    "l": [
+     "The Ygdrasil ash",
+     "Is the foremost of trees,",
+     "But Skidbladner of ships,",
+     "Odin of asas,",
+     "Sleipner of steeds.",
+     "Bifrost of bridges,",
+     "Brage of Skalds,",
+     "Habrok of hows,",
+     "But Garm of dogs."
+    ]
+   }
+  ],
+  "g-c42-1": [
+   {
+    "t": "p",
+    "s": "Ganglere asked: Whose is that horse Sleipner, and what is there to say about it? Har answered:"
+   }
+  ],
+  "g-c42-2": [
+   {
+    "t": "p",
+    "s": "When they told him these terms, he requested that they should allow him to have the help of his horse, called Svadilfare, and at the suggestion of Loke this was granted him. On the first day of winter he began to build the burg, but by night he hauled stone for it with his horse. But it seemed a great wonder to the asas what great rocks the horse drew, and the horse did one half more of the mighty task than the builder. The bargain was firmly established with witnesses and oaths, for the giant did not deem it safe to be among the asas without truce if Thor should come home, who now was on a journey to the east fighting trolls."
+   }
+  ],
+  "g-c42-3": [
+   {
+    "t": "p",
+    "s": "Toward the end of winter the burg was far built, and it was so high and strong that it could in nowise be taken. When there were three days left before summer, the work was all completed excepting the burg gate. Then went the gods to their judgment-seats and held counsel, and asked each other who could have advised to give Freyja in marriage in Jotunheim, or to plunge the air and the heavens in darkness by taking away the sun and the moon and giving them to the giant; and all agreed that this must have been advised by him who gives the most bad counsels, namely, Loke, son of Laufey, and they threatened him with a cruel death if he could not contrive some way of preventing the builder from fulfilling his part of the bargain, and they proceeded to lay hands on Loke. He in his fright promised with an oath that he should so manage that the builder should lose his wages, let it cost him what it would."
+   }
+  ],
+  "g-c42-4": [
+   {
+    "t": "p",
+    "s": "The builder hurried after them with all his might, and wanted to catch the steed, but these horses kept running all night, and thus the time was lost, and at dawn the work had not made the usual progress. When the builder saw that his work was not going to be completed, he resumed his giant form. When the asas thus became sure that it was really a mountain-giant that had come among them, they did not heed their oaths, but called on Thor. He came straightaway, swung his hammer, Mjolner, and paid the workman his wages,—not with the sun and moon, but rather by preventing him from dwelling in Jotunheim; and this was easily done with the first blow of the hammer, which broke his skull into small pieces and sent him down to Niflhel."
+   }
+  ],
+  "g-c42-5": [
+   {
+    "t": "p",
+    "s": "But Loke had run such a race with Svadilfare that he some time after bore a foal. It was gray, and had eight feet, and this is the best horse among gods and men."
+   }
+  ],
+  "g-c42-6": [
+   {
+    "t": "p",
+    "s": "Thus it is said in the Vala's Prophecy:"
+   }
+  ],
+  "g-c42-7": [
+   {
+    "t": "v",
+    "l": [
+     "Then went the gods,",
+     "The most holy gods,",
+     "Onto their judgment-seats,",
+     "And counseled together",
+     "Who all the air",
+     "With guile had blended",
+     "Or to the giant race",
+     "Oder's may had given.",
+     "Broken were oaths,",
+     "And words and promises,—",
+     "All mighty speech",
+     "That had passed between them.",
+     "Thor alone did this,",
+     "Swollen with anger.",
+     "Seldom sits he still",
+     "When such things he hears."
+    ]
+   }
+  ],
+  "g-c43-1": [
+   {
+    "t": "p",
+    "s": "Then asked Ganglere: What is there to be said of Skidbladner, which you say is the best of ships? Is there no ship equally good, or equally great? Made answer Har:"
+   }
+  ],
+  "g-c43-2": [
+   {
+    "t": "p",
+    "s": "Skidbladner is the best of ships, and is made with the finest workmanship; but Naglfare, which is in Muspel, is the largest. Some dwarfs, the sons of Ivalde, made Skidbladner and gave it to Frey. It is so large that all the asas, with their weapons and war-gear, can find room on board it, and as soon as the sails are hoisted it has fair wind, no matter whither it is going. When it is not wanted for a voyage, it is made of so many pieces and with so much skill, that Frey can fold it together like a napkin and carry it in his pocket."
+   }
+  ],
+  "g-c44-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: A good ship is Skidbladner, but much black art must have been resorted to ere it was so fashioned. Has Thor never come where he has found anything so strong and mighty that it has been superior to him either in strength or in the black art?"
+   }
+  ],
+  "g-c44-2": [
+   {
+    "t": "p",
+    "s": "Har answered: Few men, I know, are able to tell thereof, but still he has often been in difficult straits. But though there have been things so mighty and strong that Thor has not been able to gain the victory, they are such as ought not to be spoken of; for there are many proofs which all must accept that Thor is the mightiest."
+   }
+  ],
+  "g-c44-3": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: It seems to me that I have now asked about something that no one can answer."
+   }
+  ],
+  "g-c44-4": [
+   {
+    "t": "p",
+    "s": "Said Jafnhar: We have heard tell of adventure that seem to us incredible, but here sits one near who is able to tell true tidings thereof, and you may believe that he will not lie for the first time now, who never told a lie before:"
+   }
+  ],
+  "g-c44-5": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: I will stand here and listen, to see if any answer is to be had to this question. But if you cannot answer my question I declare you to be defeated. Then answered Thride:"
+   }
+  ],
+  "g-c44-6": [
+   {
+    "t": "p",
+    "s": "It is evident that he now is bound to know, though it does not seem proper for us to speak thereof. The beginning of this adventure is that Oku-Thor went on a journey with his goats and chariot, and with him went the asa who is called Loke. In the evening they came to a bonde and got there lodgings for the night. In the evening Thor took his goats and killed them both, whereupon he had them flayed and borne into a kettle."
+   }
+  ],
+  "g-c44-7": [
+   {
+    "t": "p",
+    "s": "When the flesh was boiled, Thor and his companion sat down to supper. Thor invited the bonde, his wife and their children, a son by name Thjalfe, and a daughter by name Roskva, to eat with them. Then Thor laid goat-skins away from the fireplace, and requested the bonde and his household to cast the bones onto the skins. Thjalfe, the bonde's son, had the thigh of one of the goats, which he broke asunder with his knife, in order to get at the marrow."
+   }
+  ],
+  "g-c45-1": [
+   {
+    "t": "p",
+    "s": "He left his goats there and went on his way east into Jotunheim, clear to the sea, and then he went on across the deep ocean, and went ashore on the other side, together with Loke and Thjalfe and Roskva. When they had proceeded a short distance, there stood before them a great wood, through which they kept going the whole day until dark. Thjalfe, who was of all men the fleetest of foot, bore Thor's bag, but the wood was no good place for provisions. When it had become dark, they sought a place for their night lodging, and found a very large hall."
+   }
+  ],
+  "g-c45-2": [
+   {
+    "t": "p",
+    "s": "About midnight there was a great earthquake; the ground trembled beneath them, and the house shook. Then Thor stood up and called his companions. They looked about them and found an adjoining room to the right, in the midst of the hall, and they went in. Thor seated himself in the door; the others went farther in and were very much frightened."
+   }
+  ],
+  "g-c45-3": [
+   {
+    "t": "p",
+    "s": "When it began to dawn, Thor went out and saw a man lying not far from him in the wood. He was very large, lay sleeping, and snored loudly. Then Thor thought he had found out what noise it was that they had heard in the night. He girded himself with his Megingjarder, whereby his asa-might increased."
+   }
+  ],
+  "g-c45-4": [
+   {
+    "t": "p",
+    "s": "Meanwhile the man woke, and immediately arose. It is said that Thor this once forbore to strike him with the hammer, and asked him for his name. He called himself Skrymer; but, said he, I do not need to ask you what your name is,—I know that you are Asa-Thor. But what have you done with my glove?"
+   }
+  ],
+  "g-c45-5": [
+   {
+    "t": "p",
+    "s": "He stretched out his hand and picked up his glove. Then Thor saw that the glove was the hall in which he had spent the night, and that the adjoining room was the thumb of the glove. Skrymer asked whether they would accept of his company. Thor said yes."
+   }
+  ],
+  "g-c45-6": [
+   {
+    "t": "p",
+    "s": "Skrymer took and loosed his provision-sack and began to eat his breakfast; but Thor and his fellows did the same in another place. Skrymer proposed that they should lay their store of provisions together, to which Thor consented. Then Skrymer bound all their provisions into one bag, laid it on his back, and led the way all the day, taking gigantic strides. Late in the evening he sought out a place for their night quarters under a large oak."
+   }
+  ],
+  "g-c45-7": [
+   {
+    "t": "p",
+    "s": "Then Skrymer said to Thor that he wanted to lie down to sleep; they might take the provision-sack and make ready their supper."
+   }
+  ],
+  "g-c45-8": [
+   {
+    "t": "p",
+    "s": "Then Skrymer fell asleep and snored tremendously. When Thor took the provision-sack and was to open it, then happened what seems incredibile, but still it must be told,—that he could not get one knot loosened, nor could he stir a single end of the strings so that it was looser than before. When he saw that all his efforts were in vein he became wroth, seized his hammer Mjolner with both hands, stepped with one foot forward to where Skrymer was lying and dashed the hammer at his head. Skrymer awoke and asked whether some leaf had fallen on his head; whether they had taken their supper, and were they ready to go to sleep."
+   }
+  ],
+  "g-c45-9": [
+   {
+    "t": "p",
+    "s": "Thor answered that they were just going to sleep. Then they went under another oak. But the truth must be told, that there was no fearless sleeping."
+   }
+  ],
+  "g-c45-10": [
+   {
+    "t": "p",
+    "s": "About midnight Thor heard that Skrymer was snoring and sleeping so fast that it thundered in the wood. He arose and went over to him, clutched the hammer tight and hard, and gave him a blow in the middle of the crown, so that he knew that the head of the hammer sank deep into his head."
+   }
+  ],
+  "g-c45-11": [
+   {
+    "t": "p",
+    "s": "But just then Skrymer awoke and asked: What is that? Did an acorn fall onto my head? How is it with you, Thor?"
+   }
+  ],
+  "g-c45-12": [
+   {
+    "t": "p",
+    "s": "Thor hastened back, answered that he had just waked up, and said that it was midnight and still time to sleep. Then Thor made up his mind that if he could get a chance to give him the third blow, he would never see him again, and he now lay watching for Skrymer to sleep fast. Shortly before daybreak he heard that Skrymer had fallen asleep. So he arose and ran over to him."
+   }
+  ],
+  "g-c45-13": [
+   {
+    "t": "p",
+    "s": "Methought, as I awoke, that some moss from the branches fell on my head. What! are you awake, Thor? It is now time to get up and dress; but you have not far left to the burg that is called Utgard. I have heard that you have been whispering among yourselves that I am not small of stature, but you will see greater men when you come to Utgard."
+   }
+  ],
+  "g-c45-14": [
+   {
+    "t": "p",
+    "s": "Now I will give you wholesome advice. Do not brag too much of yourselves, for Utgard-Loke's thanes will not brook the boasting of such insignificant little fellows as you are; otherwise turn back, and that is, in fact, the best thing for you to do. But if you are bound to continue your journey, then keep straight on eastward; my way lies to the north, to those mountains that you there see. Skrymer then took the provision-sack and threw it on his back, and, leaving them, turned into the wood, and it has not been learned whether the asas wished to meet him again in health."
+   }
+  ],
+  "g-c46-1": [
+   {
+    "t": "p",
+    "s": "They drew nearer and came to the burg-gate, which was closed. Thor finding himself unable to open it, and being anxious to get within the burg, they crept between the bars and so came in. They discovered a large hall and went to it. Finding the door open they entered, and saw there many men, the most of whom were immensly large, sitting on two benches."
+   }
+  ],
+  "g-c46-2": [
+   {
+    "t": "p",
+    "s": "Thereupon they approached the king, Utgard-Loke, and greeted him. He scarcely deigned to look at them, smiled scornfully and showed his teeth, saying: It is late to ask for tidings of a long journey, but if am not mistaken this stripling is Oku-Thor, is it not? It may be, however, that you are really bigger than you look."
+   }
+  ],
+  "g-c46-3": [
+   {
+    "t": "p",
+    "s": "For what feats are you and your companions prepared? No one can stay with us here, unless he is skilled in some craft or accomplishment beyond the most of men. Then answered he who came in last, namely Loke: I know the feat of which I am prepared to give proof, that there is no one present who can eat his food faster than I."
+   }
+  ],
+  "g-c46-4": [
+   {
+    "t": "p",
+    "s": "Then said Utgard-Loke: That is a feat, indeed, if you can keep your word, and you shall try it immediately. He then summoned from the bench a man by the name Loge, and requested him to come out on the floor and try his strength against Loke."
+   }
+  ],
+  "g-c46-5": [
+   {
+    "t": "p",
+    "s": "They took a trough full of meat and set it on the floor, whereupon Loke seated himself at one end and Loge at the other. Both ate as fast as they could, and met at the middle of the trough. Loke had eaten all the flesh off from the bones, but Loge had consumed both the flesh and the bones, and the trough too. All agreed that Loke had lost the wager."
+   }
+  ],
+  "g-c46-6": [
+   {
+    "t": "p",
+    "s": "He arose and went out. There was an excellent race-course along the flat plain. Utgard-Loke then summoned a young man, whose name was Huge, and bade him run a race with Thjalfe. Then they took the first heat, and Huge was so much ahead that when he turned at the goal he met Thjalfe."
+   }
+  ],
+  "g-c46-7": [
+   {
+    "t": "p",
+    "s": "Said Utgard-Loke: You must lay yourself more forward, Thjalfe, if you want to win the race; but this I confess, that there has never before come anyone hither who was swifter of foot than you."
+   }
+  ],
+  "g-c46-8": [
+   {
+    "t": "p",
+    "s": "Then they took a second heat, and when Huge came to the goal and turned, there was a long bolt-shot to Thjalfe."
+   }
+  ],
+  "g-c46-9": [
+   {
+    "t": "p",
+    "s": "Then said Utgard-Loke: Thjalfe seems to me to run well; still I scarcely think he will win the race, but this will be proven when they run the third heat."
+   }
+  ],
+  "g-c46-10": [
+   {
+    "t": "p",
+    "s": "Then they took one more heat. Huge ran to the goal and turned back, but Thjalfe had not yet gotten to the middle of the course. Then all said that this game had been tried sufficiently."
+   }
+  ],
+  "g-c46-11": [
+   {
+    "t": "p",
+    "s": "Utgard-Loke now asked Thor what feats there were that he would be willing to exhibit before them, corresponding to the tales that men tell of his great works. Thor replied that he preferred to compete with someone in drinking. Utgard-Loke said there would be no objection to this. He went into the hall, called his cup-bearer, and requested him to take the sconce-horn that his thanes were wont to drink from."
+   }
+  ],
+  "g-c46-12": [
+   {
+    "t": "p",
+    "s": "The cup-bearer immediately brought forward the horn and handed it to Thor. Said Utgard-Loke: From this horn it is thought to be well drunk if it is emptied in one draught, some men empty it in two draughts, but there is no drinker so wretched that he cannot exhaust it in three."
+   }
+  ],
+  "g-c46-13": [
+   {
+    "t": "p",
+    "s": "Thor looked at the horn and did not think it was very large, though it seemed pretty long, but he was very thirsty. He put it to his lips and swallowed with all his might, thinking that he should not have to bend over the horn a second time. But when his breath gave out, and he looked into the horn to see how it had gone with his drinking, it seemed to him difficult to determine whether there was less in it than before."
+   }
+  ],
+  "g-c46-14": [
+   {
+    "t": "p",
+    "s": "Then said Utgard-Loke: That is well drunk, still it is not very much. I could never have believed it, if anyone had told me, that Asa-Thor could not drink more, but I know you will be able to empty it in a second draught."
+   }
+  ],
+  "g-c46-15": [
+   {
+    "t": "p",
+    "s": "Thor did not answer, but set the horn to his lips, thinking that he would now take a larger draught. He drank as long as he could and drank deep, as he was wont, but still he could not make the tip of the horn come up as much as he would like. And when he set the horn away and looked into it, it seemed to him that he had drunk less than the first time; but the horn could now be born without spilling. Then said Utgard-Loke:"
+   }
+  ],
+  "g-c46-16": [
+   {
+    "t": "p",
+    "s": "How now, Thor! Are you not leaving more for the third draught than befits your skill? It seems to me that if you are to empty the horn with the third draught, then this will be the greatest. You will not be deemed so great a man here among us as the asas call you, if you do not distinguish yourself more in other feats than you seem to me to have done in this."
+   }
+  ],
+  "g-c46-17": [
+   {
+    "t": "p",
+    "s": "Then Thor became wroth, set the horn to his mouth and drank with all his might and kept on as long as he could, and when he looked into it its contents had indeed visibly diminished, but he gave back the horn and would not drink any more."
+   }
+  ],
+  "g-c46-18": [
+   {
+    "t": "p",
+    "s": "Said Utgard-Loke: It is clear that your might is not so great as we thought. Would you like to try other games? It is evident that you gained nothing by the first."
+   }
+  ],
+  "g-c46-19": [
+   {
+    "t": "p",
+    "s": "Answered Thor: I should like to try other games, but I should be surprised if such a drink at home among the asas would be called small. What game will you now offer me?"
+   }
+  ],
+  "g-c46-20": [
+   {
+    "t": "p",
+    "s": "Answered Utgard-Loke: Young lads here think it nothing but play to lift my cat up from the ground, and I should never have dared to offer such a thing to Asa-Thor had I not already seen that you are much less of a man than I thought."
+   }
+  ],
+  "g-c46-21": [
+   {
+    "t": "p",
+    "s": "Then there sprang forth on the floor a gray cat, and it was rather large. Thor went over to it, put his hand under the middle of its body and tried to lift it up, but the cat bent its back in the same degree as Thor raised his hands; and when he had stretched them up as far as he was able the cat lifted one foot, and Thor did not carry the game any further."
+   }
+  ],
+  "g-c46-22": [
+   {
+    "t": "p",
+    "s": "Then said Utgard-Loke: This game ended as I expected. The cat is rather large, and Thor is small, and little compared with the great men that are here with us. Said Thor:"
+   }
+  ],
+  "g-c46-23": [
+   {
+    "t": "p",
+    "s": "Little as you call me, let anyone who likes come hither and wrestle with me, for now I am wroth. Answered Utgard-Loke, looking about him on the benches: I do not see anyone here who would not think it a trifle to wrestle with you. And again he said:"
+   }
+  ],
+  "g-c46-25": [
+   {
+    "t": "p",
+    "s": "She has thrown to the ground men who have seemed to me no less strong than Thor. Then there came into the hall an old woman. Utgard-Loke bade her take a wrestle with Asa-Thor. The tale is not long."
+   }
+  ],
+  "g-c46-26": [
+   {
+    "t": "p",
+    "s": "The result of the grapple was, that the more Thor tightened his grasp, the firmer she stood. Then the woman began to bestir herself, and Thor lost his footing. THey had some very hard tussles, and before long Thor was brought down on one knee. Then Utgard-Loke stepped forward, bade them cease the wrestling, and added that Thor did not need to challenge anybody else to wrestle with him in his hall, besides it was now getting late."
+   }
+  ],
+  "g-c47-1": [
+   {
+    "t": "p",
+    "s": "At daybreak the next day Thor and his companions arose, dressed themselves and were ready to depart. Then came Utgard-Loke and had the table spread for them, and there was no lack of feasting both in food and in drink. When they had breakfasted, they immediately departed from the burg. Utgard-Loke went with them out of the burg, but at parting he spoke to Thor and asked him how he thought his journey had turned out, or whether he ever met a mightier man than himself."
+   }
+  ],
+  "g-c47-3": [
+   {
+    "t": "p",
+    "s": "Thor answered that he could not deny that he had been greatly disgraced in this meeting; and this I know, he added, that you will call me a man of little account, whereat I am much mortified. Then said Utgard-Loke: Now I will tell you the truth, since you have come out of the burg, that if I live, and may have my way, you shall never enter it again; and this I know, forsooth, that you should never have come into it had I before known that you were so strong, and that you had come so near bringing us into great misfortune. Know, then, that I have deceived you with illusions."
+   }
+  ],
+  "g-c47-4": [
+   {
+    "t": "p",
+    "s": "He was very hungry and ate fast; but he whose name was Loge was wildfire, and he burned the trough no less rapidly than the meat. When Thjalfe ran a race with him whose name was Huge, that was my thought, and it was impossible for him to keep pace with its swiftness. When you drank from the horn, and thought that it diminished so little, then, by my troth, it was a great wonder, which I never could have deemed possible. One end of the horn stood in the sea, but that you did not see."
+   }
+  ],
+  "g-c47-5": [
+   {
+    "t": "p",
+    "s": "It was scarcely long enough to touch the earth with its tail and head, and you raised it so high that your hand nearly reached to heaven. It was also a most astonishing feat when you wrestled with Elle, for none has ever been, and none shall ever be, that Elle (eld, old age) will not get the better of him, though he gets to be old enough to abide her coming. And now the truth is that we must part; and it will be better for us both that you do not visit me again. I will again defend my burg with similar or other delusions, so that you will get no power over me."
+   }
+  ],
+  "g-c47-6": [
+   {
+    "t": "p",
+    "s": "When Thor heard this tale he seized his hammer and lifted it into the air, but when he was about to strike he saw Utgard-Loke nowhere; and when he turned back to the burg and was going to dash that to pieces, he saw a beautiful and large plain, but no burg. So he turned and went his way back to Thrudvang. But it is truthfully asserted that he then resolved in his own mind to seek that meeting with the Midgard-serpent which afterward took place. And now I think that no one can tell you truer tidings of this journey of Thor."
+   }
+  ],
+  "g-c48-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: A most powerful man is Utgard-Loke, though he deals much with delusions and sorcery. His power is also proven by the fact that he had thanes who were so mighty. But has not Thor avenged himself for this?"
+   }
+  ],
+  "g-c48-2": [
+   {
+    "t": "p",
+    "s": "Made answer Har: It is not unknown, though no wise men tell thereof, how Thor made amends for the journey that has now been spoken of. He did not remain long at home, before he busked himself so suddenly for a new journey, that he took neither chariot, nor goats nor any companions with him. He went out of Midgard in the guise of a young man, and came in the evening to a giant by the name Hymer."
+   }
+  ],
+  "g-c48-3": [
+   {
+    "t": "p",
+    "s": "Thor tarried there as a guest through the night. In the morning Hymer arose, dressed himself, and busked himself to row out upon the sea to fish. Thor also sprang up, got ready in a hurry and asked Hymer whether he might row out with him. Hymer answered that he would get but little help from Thor, as he was so small and young; and he added, you will get cold if I row as far out and remain as long as I am wont."
+   }
+  ],
+  "g-c48-4": [
+   {
+    "t": "p",
+    "s": "Thor said that he might row as far from the shore as he pleased, for all that, and it was yet to be seen who would be the first to ask to row back to land. And Thor grew so wroth at the giant that he came near letting the hammer ring on his head straightway, but he restrained himself, for he intended to try his strength elsewhere. He asked Hymer what they were to have for bait, but Hymer replied that he would have to find his own bait. Then Thor turned away to where he saw a herd of oxen, that belonged to Hymer."
+   }
+  ],
+  "g-c48-5": [
+   {
+    "t": "p",
+    "s": "Thor went on board and seated himself in the stern; he took two oars and rowed so that Hymer had to confess that the boat sped fast from his rowing. Hymer plied the oars in the bow, and thus the rowing soon ended. Then said Hymer that they had come to the place where he was wont to sit and catch flat-fish, but Thor said he would like to row much farther out, and so they made another swift pull. Then said Hymer that they had come so far out that it was dangerous to stay there, for the Midgard-serpent."
+   }
+  ],
+  "g-c48-6": [
+   {
+    "t": "p",
+    "s": "Now Thor became angry, assumed his asa-might and spurned so hard that both his feet went through the boat and he stood on the bottom of the sea. He pulled the serpent up to the gunwale; and in truth no one has ever seen a more terrible sight than when Thor whet his eyes on the serpent, and the latter stared at him and spouted venom. It is said that the giant Hymer changed hue and grew pale from fear when he saw the serpent and beheld the water flowing into the boat; but just at the moment when Thor grasped the hammer and lifted it in the air, the giant fumbled for his fishing-knife and cut off Thor's line at the gunwale, whereby the serpent sank back into the sea. Thor threw the hammer after it, and it is even said that he struck off his head at the bottom, but I think the truth is that the Midgard-serpent still lives and lies in the ocean."
+   }
+  ],
+  "g-c49-1": [
+   {
+    "t": "p",
+    "s": "Then asked Ganglere: Have there happened any other remarkable things among the ases? A great deed it was, forsooth, that Thor wrought on this journey. Har answered:"
+   }
+  ],
+  "g-c49-2": [
+   {
+    "t": "p",
+    "s": "Yes, indeed, there are tidings to be told that seemed of far greater importance to the asas. The beginning of this tale is, that Balder dreamed dreams great and dangerous to his life. When he told these dreams to the asas they took counsel together, and it was decided that they should seek peace for Balder against all kinds of harm. So Frigg exacted an oath from fire, water, iron and all kinds of metal, stones, earth, trees, sicknesses, beasts and birds and creeping things, that they should not hurt Balder."
+   }
+  ],
+  "g-c49-3": [
+   {
+    "t": "p",
+    "s": "When this was done and made known, it became the pastime of Balder and the asas that he should stand up at their meetings while some of them should shoot at him, others should hew at him, while others should throw stones at him; but no matter what they did, no harm came to him, and this seemed to all a great honor."
+   }
+  ],
+  "g-c49-4": [
+   {
+    "t": "p",
+    "s": "When Loke, Laufey's son, saw this, it displeased him very much that Balder was not scathed. So he went to Frigg, in Fensal, having taken on himself the likeness of a woman. Frigg asked this woman whether she knew what the asas were doing at their meeting. She answered that all were shooting at Balder, but that he was not scathed thereby."
+   }
+  ],
+  "g-c49-5": [
+   {
+    "t": "p",
+    "s": "Then said Frigg: Neither weapon nor tree can hurt Balder, I have taken an oath from them all."
+   }
+  ],
+  "g-c49-6": [
+   {
+    "t": "p",
+    "s": "Then asked the woman: Have all things taken an oath to spare Balder? Frigg answered: West of Valhal there grows a little shrub that is called the mistletoe, that seemed to me too young to exact an oath from."
+   }
+  ],
+  "g-c49-8": [
+   {
+    "t": "p",
+    "s": "Then the woman suddenly disappeared. Loke went and pulled up the mistletoe and proceeded to the meeting. Hoder stood far to one side in the ring of men, because he was blind. Loke addressed himself to him, and asked:"
+   }
+  ],
+  "g-c49-9": [
+   {
+    "t": "p",
+    "s": "Why do you not shoot at Balder?"
+   }
+  ],
+  "g-c49-10": [
+   {
+    "t": "p",
+    "s": "He answered: Because I do not see where he is, and furthermore I have no weapons."
+   }
+  ],
+  "g-c49-11": [
+   {
+    "t": "p",
+    "s": "Then said Loke: Do like the others and show honor to Balder; I will show you where he stands; shoot at him with this wand."
+   }
+  ],
+  "g-c49-12": [
+   {
+    "t": "p",
+    "s": "Hoder took the mistletoe and shot at Balder under the guidance of Loke. The dart pierced him and he fell dead to the ground. This is the greatest misfortune that has ever happened to the gods and men."
+   }
+  ],
+  "g-c49-13": [
+   {
+    "t": "p",
+    "s": "When Balder had fallen, the asas were struck speechless with horror, and their hands failed them to lay hold of the corpse. One looked at the other, and all were of one mind toward him who had done the deed, but being assembled in a holy peace-stead, no one could take vengeance. When the asas at length, tried to speak, the wailing so choked their voices that one could not describe to the other his sorrow. Odin took this misfortune most to heart, since he best comprehended how great a loss and injury the fall of Balder was to the asas."
+   }
+  ],
+  "g-c49-14": [
+   {
+    "t": "p",
+    "s": "When the gods came to their senses, Frigg spoke and asked who there might be among the asas who desired to win all her love and good will by riding the way to Hel and trying to find Balder, and offering Hel a ransom if she would allow Balder to return home again to Asgard. But he is called Hermod, the Nimble, Odin's swain, who undertook this journey. Odin's steed, Sleipner, was led forth. Hermod mounted him and galloped away."
+   }
+  ],
+  "g-c49-15": [
+   {
+    "t": "p",
+    "s": "Balder's corspe was borne out on the ship; and when his wife, Nanna, daughter of Nep, saw this, her heart was broken with grief and she died. She was borne to the funeral-pile and cast on the fire. Thor stood by and hallowed the pile with Mjolner. Before his feet ran a dwarf, whose name is Lit."
+   }
+  ],
+  "g-c49-16": [
+   {
+    "t": "p",
+    "s": "There was a large number of frost-giants and mountain-giants. Odin laid on the funeral-pile his gold ring, Draupner, which had the property of producing, every ninth night, eight gold rings of equal weight. Balder's horse, fully caparisoned, was led to his master's pile. But of Hermod it is to be told that he rode nine nights through deep and dark valleys, and did not see light until he came to the Gjallar-river and rode on the Gjallar-bridge, which is thatched with shining gold."
+   }
+  ],
+  "g-c49-17": [
+   {
+    "t": "p",
+    "s": "Modgud is the name of the may who guards the bridge. She asked him for his name, and of what kin he was, saying that the day before there rode five fylkes (kingdoms, bands) of dead men over the bridge; but she added, it does not shake less under you alone, and you do not have the hue of dead men. Why do you ride the way to Hel? He answered:"
+   }
+  ],
+  "g-c49-19": [
+   {
+    "t": "p",
+    "s": "I am to ride to Hel to find Balder. Have you seen him pass this way? She answered that Balder had ridden over the Gjallar-bridge; adding: But downward and northward lies the way to Hel."
+   }
+  ],
+  "g-c49-20": [
+   {
+    "t": "p",
+    "s": "Thereupon Hermod proceeded to the hall and alighted from his steed. He went in, and saw there sitting on the foremost seat his brother Balder. He tarried there over night. In the morning he asked Hel whether Balder might ride home with him, and told how great weeping there was among the asas."
+   }
+  ],
+  "g-c49-21": [
+   {
+    "t": "p",
+    "s": "But Hel replied that it should now be tried whether Balder was so much beloved as was said. If all things, said she, both quick and dead, will weep for him, then he shall go back to the asas, but if anything refuses to shed tears, then he shall remain with Hel. Hermod arose, and Balder accompanied him out of the hall. He took the ring Draupner and sent it as a keepsake to Odin."
+   }
+  ],
+  "g-c49-22": [
+   {
+    "t": "p",
+    "s": "Nanna sent Frigg a kerchief and other gifts, and to Fulla she sent a ring. Thereupon Hermod rode back and came to Asgard, where he reported the tidings he had seen and heard. Then the asas sent messengers over all the world, praying that Balder might be wept out of Hel's power. All things did so,—men and beasts, the earth, stones, trees and all metals, just as you must have seen these things weep when they come out of frost and into heat."
+   }
+  ],
+  "g-c49-23": [
+   {
+    "t": "p",
+    "s": "When the messengers returned home and had done their errand well, they found a certain cave wherein sat a giantess (gygr=ogress) whose name was Thok. They requested her to weep Balder from Hel; but she answered:"
+   }
+  ],
+  "g-c49-24": [
+   {
+    "t": "v",
+    "l": [
+     "Thok will weep",
+     "With dry tears",
+     "For Balder's burial;",
+     "Neither in life nor in death",
+     "Gave he me gladness.",
+     "Let Hel keep what she has!"
+    ]
+   }
+  ],
+  "g-c49-25": [
+   {
+    "t": "p",
+    "s": "It is generally believed that this Thok was Loke, Laufey's son, who has wrought most evil among the asas."
+   }
+  ],
+  "g-c50-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: A very great wrong did Loke perpetrate; first of all in casing Balder's death, and next in standing in the way of his being loosed from Hel. Did he get no punishment for this misdeed? Har answered:"
+   }
+  ],
+  "g-c50-2": [
+   {
+    "t": "p",
+    "s": "The gods became exceedingly wroth, as might be expected. So he ran away and hid himself in a rock. Here he built a house with four doors, so that he might keep an outlook on all sides. Oftentimes in the daytime he took on him the likeness of a salmon and concealed himself in Frananger Force."
+   }
+  ],
+  "g-c50-3": [
+   {
+    "t": "p",
+    "s": "When the asas came to the house, he entered first who was wisest of them all, and whose name was Kvaser; and when he saw in the fire the ashes of the net that had been burned, he understood that this must be a contrivance for catching fish, and this he told to the asas. Thereupon they took flax and made themselves a net after the pattern of that which they saw in the ashes and which Loke had made. When the net was made, the asas went to the river and cast it into the force. Thor held one end of the net, and all the other asas laid hold on the other, thus jointly drawing it along the stream."
+   }
+  ],
+  "g-c50-4": [
+   {
+    "t": "p",
+    "s": "One stood under his shoulders, another under his loins, and the third under his hams, and the fetters became iron. Skade took a serpent and fastened up over him, so that the venom should drop from the serpent into his face. But Sigyn, his wife, stands by him, and holds a dish under the venomdrops. Whenever the dish becomes full, she goes and pours away the venom, and meanwhile the venom drops onto Loke's face."
+   }
+  ],
+  "g-c51-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: What tidings are to be told of Ragnarok? Of this I have never heard before. Har answered:"
+   }
+  ],
+  "g-c51-2": [
+   {
+    "t": "p",
+    "s": "First, there is a winter called the Fimbul-winter, when snow drives from all quarters, the frosts are so severe, the winds so keen and piercing, that there is no joy in the sun. There are three such winters in succession, without any intervening summer. But before these there are three other winters, during which great wars rage over all the world. Brothers slay each other for the sake of gain, and no one spares his father or mother in that manslaughter and adultery."
+   }
+  ],
+  "g-c51-3": [
+   {
+    "t": "v",
+    "l": [
+     "Brothers will fight together",
+     "And become each other's bane;",
+     "Sisters' children",
+     "Their sib shall spoil.",
+     "Hard is the world,",
+     "Sensual sins grow huge.",
+     "There are ax-ages, sword-ages—",
+     "Shields are cleft in twain,—",
+     "There are wind-ages, wolf-ages,",
+     "Ere the world falls dead."
+    ]
+   },
+   {
+    "t": "p",
+    "s": "Then happens what will seem a great miracle, that the wolf devours the sun, and this will seem a great loss. The other wolf will devour the moon, and this too will cause great mischief. The stars shall be hurled from heaven."
+   }
+  ],
+  "g-c51-4": [
+   {
+    "t": "p",
+    "s": "The ship that is called Naglfar also becomes loose. It is made of the nails of dead men; wherefore it is worth warning that, when a man dies with unpared nails, he supplies a large amount of materials for the building of this ship, which both gods and men wish may be finished as late as possible. But in this flood Naglfar gets afloat. The Fenris-wolf advances with wide open mouth; the upper jaw reaches to heaven and the lower jaw is on the earth."
+   }
+  ],
+  "g-c51-5": [
+   {
+    "t": "p",
+    "s": "He contends with Tyr, and they kill each other. Thor gets great renown by slaying the Midgard-serpent, but retreats only nine paces when he falls to the earth dead, poisoned by the venom that the serpent blows on him. The wolf swallows Odin, and thus causes his death; but Vidar immediately turns and rushes at the wolf, placing one foot on his nether jaw. On this foot he has the shoe for which materials have been gathering through all ages, namely, the strips of leather which men cut off for the toes and heels of shoes; wherefore he who wishes to render assistance to the ases must cast these strips away."
+   }
+  ],
+  "g-c51-6": [
+   {
+    "t": "p",
+    "s": "Loke fights with Heimdal, and they kill each other. Thereupon Surt flings fire over the earth and burns up all the world. Thus it is said in the Vala's Prophecy:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Loud blows Heimdal",
+     "His uplifted horn.",
+     "Odin speaks",
+     "With Mimer's head.",
+     "The straight-standing ash",
+     "Ygdrasil quivers,",
+     "The old tree groans,",
+     "And the giant gets loose."
+    ]
+   }
+  ],
+  "g-c51-7": [
+   {
+    "t": "v",
+    "l": [
+     "How fare the ases?",
+     "How fare the elves?",
+     "All Jotunheim roars.",
+     "The asas hold counsel;",
+     "Before their stone-doors",
+     "Groan the dwarfs,",
+     "The guides of the wedge-rock.",
+     "Know you now more or not?"
+    ]
+   }
+  ],
+  "g-c51-8": [
+   {
+    "t": "v",
+    "l": [
+     "From the east drives Hrym,",
+     "Bears his shield before him.",
+     "Jormungand welters",
+     "In giant rage",
+     "And smites the waves.",
+     "The eagle screams,",
+     "And with pale beak tears corpses",
+     "Naglfar gets loose."
+    ]
+   }
+  ],
+  "g-c51-9": [
+   {
+    "t": "v",
+    "l": [
+     "A ship comes from the east,",
+     "The host of Muspel",
+     "Come o'er the main.",
+     "And Loke is steersman.",
+     "All the fell powers",
+     "Are with the wolf;",
+     "Along with them",
+     "Is Byleist's brother."
+    ]
+   }
+  ],
+  "g-c51-10": [
+   {
+    "t": "v",
+    "l": [
+     "From the south comes Surt",
+     "With blazing fire-brand,—",
+     "The sun of the war-god",
+     "Shines from his sword.",
+     "Mountains dash together,",
+     "Giant maids are frightened,",
+     "Heroes go the way to Hel,",
+     "And heaven is rent in twain."
+    ]
+   }
+  ],
+  "g-c51-11": [
+   {
+    "t": "v",
+    "l": [
+     "Then comes to Hlin",
+     "Another woe,",
+     "When Odin goes",
+     "With the wolf to fight,",
+     "And Bele's bright slayer",
+     "To contend with Surt.",
+     "There will fall",
+     "Frigg's beloved."
+    ]
+   }
+  ],
+  "g-c51-12": [
+   {
+    "t": "v",
+    "l": [
+     "Odin's son goes",
+     "To fight with the wolf,",
+     "And Vidar goes on his way",
+     "To the wild beast.",
+     "With his hand he thrusts",
+     "His sword to the heart",
+     "Of the giant's child,",
+     "And avenges his father."
+    ]
+   }
+  ],
+  "g-c51-13": [
+   {
+    "t": "v",
+    "l": [
+     "Then goes the famous",
+     "Son of Hlodyn",
+     "To fight with the serpent.",
+     "Though about to die,",
+     "He fears not the contest;",
+     "All men",
+     "Abandon their homesteads",
+     "When the warder of Midgard",
+     "In wrath slays the serpent."
+    ]
+   }
+  ],
+  "g-c52-1": [
+   {
+    "t": "p",
+    "s": "Then asked Ganglere: What happens when heaven and earth and all the worlds are consumed in flames, and when all the gods and all the einherjes and all men are dead? You have already said that all men shall live in some world through all ages. Har answered:"
+   }
+  ],
+  "g-c52-2": [
+   {
+    "t": "p",
+    "s": "There are many and many bad abodes. Best it is to be in Gimle, in heaven. Plenty is there of good drink for those who deem this a joy in the hall called Brimer. That is also in heaven."
+   }
+  ],
+  "g-c52-3": [
+   {
+    "t": "p",
+    "s": "Nastrand is a large and terrible hall, and its doors open to the north. It is built of serpents wattled together, and all the heads of the serpents turn into the hall and vomit forth venom that flows in streams along the hall, and in these streams wade perjurers and murderers. So it is here said:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "A hall I know standing",
+     "Far from the sun",
+     "On the strand of dead bodies.",
+     "Drops of venom",
+     "Fall through the loop-holes.",
+     "Of serpents' backs",
+     "The hall is made."
+    ]
+   }
+  ],
+  "g-c52-4": [
+   {
+    "t": "v",
+    "l": [
+     "There shall wade",
+     "Through heavy streams",
+     "Perjurers",
+     "And murderers."
+    ]
+   }
+  ],
+  "g-c52-5": [
+   {
+    "t": "p",
+    "s": "But in Hvergelmer it is worst."
+   }
+  ],
+  "g-c53-1": [
+   {
+    "t": "p",
+    "s": "Then said Ganglere: Do any gods live then? Is there any earth or heaven?"
+   }
+  ],
+  "g-c53-2": [
+   {
+    "t": "p",
+    "s": "Neither the sea nor Surt's fire has harmed them, and they dwell on the plains of Ida, where Asgard was before. Thither come also the sons of Thor, Mode and Magne, and they have Mjolner. Then come Balder and Hoder from Hel. They all sit together and talk about the things that happened aforetime,—about the Midgard-serpent and the Fenris-wolf."
+   }
+  ],
+  "g-c53-3": [
+   {
+    "t": "p",
+    "s": "They find in the grass those golden tables which the asas once had. Thus it is said:"
+   },
+   {
+    "t": "v",
+    "l": [
+     "Vidar and Vale",
+     "Dwell in the house of the gods,",
+     "When quenched is the fire of Surt.",
+     "Mode and Magne",
+     "Vingner's Mjolner shall have",
+     "When the fight is ended."
+    ]
+   }
+  ],
+  "g-c53-4": [
+   {
+    "t": "p",
+    "s": "In a place called Hodmimer's-holt are concealed two persons during Surt's fire, called Lif and Lifthraser. They feed on the morning dew. From these so numerous a race is descended that they fill the whole world with people, as is here said:"
+   }
+  ],
+  "g-c53-5": [
+   {
+    "t": "v",
+    "l": [
+     "Lif and Lifthraser",
+     "Will lie hid",
+     "In Hodmimer's-holt.",
+     "The morning dew",
+     "They have for food.",
+     "From them are the races descended."
+    ]
+   }
+  ],
+  "g-c53-6": [
+   {
+    "t": "p",
+    "s": "But what will seem wonderful to you is that the sun has brought forth a daughter not less fair than herself, and she rides in the heavenly course of her mother, as is here said:"
+   }
+  ],
+  "g-c53-7": [
+   {
+    "t": "v",
+    "l": [
+     "A daughter",
+     "Is born of the sun",
+     "Ere Fenrer takes her.",
+     "In her mother's course",
+     "When the gods are dead",
+     "This maid shall ride."
+    ]
+   }
+  ],
+  "g-c53-8": [
+   {
+    "t": "p",
+    "s": "And if you now can ask more questions, said Har to Ganglere, I know not whence that power came to you. I have never heard any one tell further the fate of the world. Make now the best use you can of what has been told you."
+   }
+  ],
+  "g-c54-1": [
+   {
+    "t": "p",
+    "s": "Then Ganglere heard a terrible noise on all sides, and when he looked about him he stood out-doors on a level plain. He saw neither hall nor burg."
+   }
+  ],
+  "g-c54-2": [
+   {
+    "t": "p",
+    "s": "He went his way and came back to his kingdom, and told the tidings which he had seen and heard, and ever since those tidings have been handed down from man to man."
+   }
+  ]
+ }
+}
