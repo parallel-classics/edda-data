@@ -471,7 +471,9 @@ def check_worlds(rows):
     if os.path.exists(rp):
         doc = load(rp)
         anchors, size = {}, [1, 1]
-        ap = os.path.join(wd, "anchors-v2.json")
+        ap = os.path.join(wd, doc.get("anchors") or "anchors-v3.json")   # realms.json names the anchors file of the current picture
+        if not os.path.exists(ap):
+            err(f"images/worlds/realms.json: anchors file {os.path.basename(ap)!r} missing")
         if os.path.exists(ap):
             a = load(ap)
             anchors, size = a.get("anchors", {}), a.get("size", [1, 1])
@@ -487,7 +489,7 @@ def check_worlds(rows):
                 err(f"{where}: not an entity")
             a = r.get("anchor")
             if isinstance(a, str) and a not in anchors:
-                err(f"{where}: anchor {a!r} is not in anchors-v2.json")
+                err(f"{where}: anchor {a!r} is not in {os.path.basename(ap)}")
             elif isinstance(a, list) and not (len(a) == 2 and 0 <= a[0] <= size[0] and 0 <= a[1] <= size[1]):
                 err(f"{where}: anchor {a!r} is outside the picture")
             if r.get("group") and r["group"] not in groups:

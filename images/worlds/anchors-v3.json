@@ -1,0 +1,142 @@
+{
+ "_note": "Label anchor points for the task 20 map background, in image pixels of worlds-background-v3.jpg (2576x2576, downscaled from Grigory's 4096 px 'world v8 full res.jpg'). One anchors file per image version; v3 supersedes v2. From the cloud session, 2026-11-07. Checked against the label geometry of render_worlds() (name 64 px at y-102, English gloss 40 px at y-50, marker r 30/38): no label overlaps another label or marker with the offsets given in the task; see anchors_preview-v3.jpg.",
+ "image": "worlds-background-v3.jpg",
+ "size": [
+  2576,
+  2576
+ ],
+ "credit": "© 2026 Grigory Sapunov",
+ "licence": "CC BY 4.0",
+ "not_in_picture": [
+  "ginnungagap",
+  "elivagar",
+  "nastrond"
+ ],
+ "notes": {
+  "layout": "Three tiers as in the 'World of the Eddas' structure doc: heaven in the clouds (Gimlé top left, Vanaheimr left, Ásgarðr with Valhöll centre, Urðarbrunnr with the Norns and swans right, Álfheimr top right); the earth disc (Miðgarðr inside a ring-wall, the sea with the serpent, Jötunheimar and Útgarðr on the icy outer shore right); below (dwarves' forges and Múspell with Surtr left; Mímisbrunnr under the giants' root; Niflheimr lower right with Níðhöggr at Hvergelmir, the river Gjöll, Gjallarbrú, Hel's barred gate and the misty abyss Niflhel beneath it).",
+  "vedrfolnir": "the hawk sits on the eagle's head; anchor 'eagle' is on the eagle's breast so the label clears the frame",
+  "stags": "four stags drawn; anchors stags, stag-2, stag-3 (Dáinn, Dvalinn, Duneyrr); Duraþrór unlabelled as before",
+  "urdarbrunnr": "now in heaven (Snorri, Gylfaginning 15), not under the earth",
+  "nastrond": "not drawn: it belongs to the world after Ragnarök (Gylfaginning 52); listed under the map only",
+  "nidhoggr": "only the head, at the root where the river leaves Hvergelmir"
+ },
+ "anchors": {
+  "gimle": [
+   380,
+   440
+  ],
+  "alfheimr": [
+   2260,
+   790
+  ],
+  "eagle": [
+   1300,
+   262
+  ],
+  "stags": [
+   840,
+   400
+  ],
+  "stag-2": [
+   1530,
+   330
+  ],
+  "stag-3": [
+   1700,
+   400
+  ],
+  "asgardr": [
+   1000,
+   720
+  ],
+  "valholl": [
+   1500,
+   640
+  ],
+  "vanaheimr": [
+   430,
+   900
+  ],
+  "urdarbrunnr": [
+   1940,
+   900
+  ],
+  "bifrost": [
+   800,
+   1150
+  ],
+  "ratatoskr": [
+   1310,
+   1170
+  ],
+  "yggdrasill": [
+   1150,
+   1330
+  ],
+  "midgardr": [
+   1300,
+   1560
+  ],
+  "midgardsormr": [
+   860,
+   1700
+  ],
+  "world-sea": [
+   240,
+   1460
+  ],
+  "jotunheimar": [
+   1880,
+   1330
+  ],
+  "utgardr": [
+   2220,
+   1250
+  ],
+  "svartalfaheimr": [
+   400,
+   1830
+  ],
+  "surtr": [
+   330,
+   2120
+  ],
+  "muspell": [
+   560,
+   2330
+  ],
+  "niflheimr": [
+   2180,
+   1660
+  ],
+  "hel": [
+   2320,
+   1790
+  ],
+  "gjallarbru": [
+   2140,
+   1990
+  ],
+  "gjoll": [
+   2080,
+   2220
+  ],
+  "nidhoggr": [
+   1930,
+   1830
+  ],
+  "hvergelmir": [
+   1820,
+   1970
+  ],
+  "mimisbrunnr": [
+   1760,
+   2170
+  ],
+  "niflhel": [
+   2340,
+   2330
+  ]
+ },
+ "made_with": "Google Gemini image generation (Nano Banana), several edit passes; prompts in the cloud-session chat of 2026-11-07 (provenance only, not shown on the page)"
+}
