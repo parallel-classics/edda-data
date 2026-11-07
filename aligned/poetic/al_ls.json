@@ -39,7 +39,17 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Œgir, who is also named Gymir, had brewed beer for the Æsir, after he had got the great kettle, as has been already related. To the entertainment came Odin and his wife Frigg. Thor did not come, being in the East, but his wife Sif was there, also Bragi and his wife Idun, and Ty, who was one-handed, Fenrisulf having bitten off his hand while being bound. Besides these there were Niord and his wife Skadi, Frey and Freyia, and Odin's son Vidar. Loki too was there, and Frey's attendants, Byggvir and Beyla. Many other Æsir and Alfar were also present."
+      },
+      {
+       "t": "p",
+       "s": "Œgir had two servants, Fimafeng and Eldir. Bright gold was there used instead of fire-light. The beer served itself to the guests. The place was a great sanctuary. The guests greatly praised the excellence of Œgir's servants. This Loki could not hear with patience, and so slew Fimafeng; whereupon the Æsir shook their shields, exclaimed against Loki, chased him into the forest, and then returned to drink. Loki came again, and found Eldir standing without, whom he thus addressed:"
+      }
+     ]
     },
     {
      "id": "ls-s1",
@@ -89,7 +99,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Tell me, Eldir! ere thou thy foot settest one step forward, on what converse the sons of the triumphant gods at their potation?"
+      }
+     ]
     },
     {
      "id": "ls-s2",
@@ -150,7 +166,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Eldir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Of their arms converse, and of their martial fame, the sons of the triumphant gods. Of the Æsir and the Alfar that are here within not one has a friendly word for thee."
+      }
+     ]
     },
     {
      "id": "ls-s3",
@@ -211,7 +238,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I will go into Œgir's halls, to see the compotation. Strife and hate to the Æsir's sons I bear, and will mix their mead with bale."
+      }
+     ]
     },
     {
      "id": "ls-s4",
@@ -272,7 +310,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Eldir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Knowest thou not that if thou goest into Œgir's halls to see the compotation, but contumely and clamour pourest forth on the kindly powers, they will wipe it all off on thee?"
+      }
+     ]
     },
     {
      "id": "ls-s5",
@@ -333,7 +382,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Knowest thou not, Eldir, that if we two with bitter words contend, I shall be rich in answers, if thou sayest too much?"
+      }
+     ]
     },
     {
      "id": "ls-p2",
@@ -359,7 +419,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki then went into the hall, but when those present saw who was come in, they all sat silent."
+      }
+     ]
     },
     {
      "id": "ls-s6",
@@ -445,7 +511,22 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I Lopt am come thirsty into this hall, from a long journey, to beseech the Æsir one draught to give me of the bright mead."
+      },
+      {
+       "t": "p",
+       "s": "Why gods! are ye so silent, so reserved, that ye cannot speak? A seat and place choose for me at your board, or bid me hie me hence."
+      }
+     ]
     },
     {
      "id": "ls-s8",
@@ -506,7 +587,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Bragi:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "A seat and place will the Æsir never choose for thee at their board; for well the Æsir know for whom they ought to hold a joyous compotation."
+      }
+     ]
     },
     {
      "id": "ls-s9",
@@ -567,7 +659,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Odin! dost thou remember when we in early days blended our blood together? When to taste beer thou didst constantly refuse, unless to both 'twas offered?"
+      }
+     ]
     },
     {
      "id": "ls-s10",
@@ -628,7 +731,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Odin:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Rise up, Vidar! and let the wolf's sire sit at our compotation; that Loki may not utter words of contumely in Œgir's hall."
+      }
+     ]
     },
     {
      "id": "ls-p3",
@@ -654,7 +768,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vidar then rising, presented Loki with drink, who before drinking thus addressed the Æsir:"
+      }
+     ]
     },
     {
      "id": "ls-s11",
@@ -704,7 +824,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hail, Æsir! Hail, Asyniur! And ye, all-holy gods! all, save that one As, who sits within there, Bragi, on yonder bench."
+      }
+     ]
     },
     {
      "id": "ls-s12",
@@ -765,7 +891,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Bragi:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "A horse and falchion I from my stores will give thee, and also with a ring reward thee, if thou the Æsir wilt not requite with malice. Provoke not the gods against thee."
+      }
+     ]
     },
     {
      "id": "ls-s13",
@@ -829,7 +966,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Of horse and rings wilt thou ever, Bragi! be in want. Of the Æsir and the Alfar, that are here present, in conflict thou art the most backward, and in the play of darts most timid."
+      }
+     ]
     },
     {
      "id": "ls-s14",
@@ -890,7 +1038,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Bragi:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I know that were I without, as I am now within, the hall of Œgir, I thy head would bear in my hand, and so for lying punish thee."
+      }
+     ]
     },
     {
      "id": "ls-s15",
@@ -951,7 +1110,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Valiant on thy seat art thou, Bragi! but so thou shouldst not be, Bragi, the bench's pride! Go and fight, if thou art angry; a brave man sits not considering."
+      }
+     ]
     },
     {
      "id": "ls-s16",
@@ -1012,7 +1182,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Idun:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I pray thee, Bragi! let avail the bond of children, and of all adopted sons, and to Loki speak not in reproachful words, in Œgir's hall."
+      }
+     ]
     },
     {
      "id": "ls-s17",
@@ -1073,7 +1254,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Be silent, Idun! of all women I declare thee most fond of men, since thou thy arms, carefully washed, didst twine round thy brother's murderer."
+      }
+     ]
     },
     {
      "id": "ls-s18",
@@ -1134,7 +1326,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Idun:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Loki I address not with opprobrious words, in Œgir's hall. Bragi I soothe, by beer excited. I desire not that angry ye fight."
+      }
+     ]
     },
     {
      "id": "ls-s19",
@@ -1195,7 +1398,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gefion:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Why will ye, Æsir twain, here within, strive with reproachful words? Lopt perceives not that he is deluded, and is urged on by fate."
+      }
+     ]
     },
     {
      "id": "ls-s20",
@@ -1256,7 +1470,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Be silent. Gefion! I will now just mention, how that fair youth thy mind corrupted, who thee a necklace gave, and around whom thou thy limbs didst twine?"
+      }
+     ]
     },
     {
      "id": "ls-s21",
@@ -1319,6 +1544,17 @@
      "is_cont": false,
      "quoted_in": [
       "g-c20-5"
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Odin:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou art raving, Loki! and hast lost thy wits, in calling Gefion's anger on thee; for all men's destinies, I ween, she knows as thoroughly as I do."
+      }
      ]
     },
     {
@@ -1380,7 +1616,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Be silent, Odin! Thou never couldst allot conflicts between men: oft hast thou given to those to whom thou oughtest not—victory to cowards."
+      }
+     ]
     },
     {
      "id": "ls-s23",
@@ -1447,7 +1694,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Odin:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Knowest thou that I gave to those I ought not—victory to cowards? Thou wast eight winters on the earth below, a milch cow and a woman, and didst there bear children. Now that, methinks, betokens a base nature."
+      }
+     ]
     },
     {
      "id": "ls-s24",
@@ -1508,7 +1766,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "But, it is said, thou wentest with tottering steps in Samso, and knocked at houses as a Vala. In likeness of a fortune teller, thou wentest among people. Now that, methinks, betokens a base nature."
+      }
+     ]
     },
     {
      "id": "ls-s25",
@@ -1569,7 +1838,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Frigg:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Your doings ye should never publish among men, what ye, Æsir twain, did in days of yore. Ever forgotten be men's former deeds!"
+      }
+     ]
     },
     {
      "id": "ls-s26",
@@ -1630,7 +1910,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Be thou silent, Frigg! Thou art Fiorgyn's daughter, and ever hast been fond of men, since Ve and Vili, it is said, thou, Vidrir's wife, didst both to thy bosom take."
+      }
+     ]
     },
     {
      "id": "ls-s27",
@@ -1691,7 +1982,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Frigg:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Know thou that if I had, in Œgir's halls, a son like Baldr, out thou shouldst not go from the Æsir's sons: thou should'st have been fiercely assailed."
+      }
+     ]
     },
     {
      "id": "ls-s28",
@@ -1752,7 +2054,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "But wilt thou, Frigg! that of my wickedness I more recount? I am the cause that thou seest not Baldr riding to the halls."
+      }
+     ]
     },
     {
      "id": "ls-s29",
@@ -1815,6 +2128,17 @@
      "is_cont": false,
      "quoted_in": [
       "g-c20-5"
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Freyia:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Mad art thou, Loki! in recounting thy foul misdeeds. Frigg, I believe, knows all that happens, although she says it not."
+      }
      ]
     },
     {
@@ -1876,7 +2200,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Be thou silent, Freyia! I know thee full well; thou art not free from vices: of the Æsir and the Alfar, that are herein, each has been thy paramour."
+      }
+     ]
     },
     {
      "id": "ls-s31",
@@ -1937,7 +2272,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Freyia:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "False is thy tongue. Henceforth it will, I think, prate no good to thee. Wroth with thee are the Æsir, and the Asyniur. Sad shalt thou home depart."
+      }
+     ]
     },
     {
      "id": "ls-s32",
@@ -1998,7 +2344,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Be silent, Freyia! Thou art a sorceress, and with much evil blended; since against thy brother thou the gentle powers excited. And then, Freyia! what didst thou do?"
+      }
+     ]
     },
     {
      "id": "ls-s33",
@@ -2059,7 +2416,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Niord:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "It is no great wonder, if silk-clad dames get themselves husbands, lovers; but 'tis a wonder that a wretched As, that has borne children, should herein enter."
+      }
+     ]
     },
     {
      "id": "ls-s34",
@@ -2120,7 +2488,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Be silent, Niord! Thou wast sent eastward hence, a hostage from the gods. Hymir's daughters had thee for an utensil, and flowed into thy mouth."
+      }
+     ]
     },
     {
      "id": "ls-s35",
@@ -2181,7 +2560,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Niord:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "'Tis to me a solace, as I a long way hence was sent, a hostage from the gods, that I had a son, whom no one hates, and accounted is a chief among the Æsir."
+      }
+     ]
     },
     {
      "id": "ls-s36",
@@ -2242,7 +2632,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Cease now, Niord! in bounds contain thyself; I will no longer keep it secret: it was with thy sister thou hadst such a son; hardly worse than thyself."
+      }
+     ]
     },
     {
      "id": "ls-s37",
@@ -2303,7 +2704,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Ty:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Frey is best of all the exalted gods in the Æsir's courts: no maid he makes to weep, no wife of man, and from bonds looses all."
+      }
+     ]
     },
     {
      "id": "ls-s38",
@@ -2364,7 +2776,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Be silent, Ty! Thou couldst never settle a strife 'twixt two; of thy right hand also I must mention make, which Fenrir from thee tore."
+      }
+     ]
     },
     {
      "id": "ls-s39",
@@ -2425,7 +2848,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Ty:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I of a hand am wanting, but thou of honest fame; sad is the lack of either. Nor is the wolf at ease: he in bonds must bide, until the gods' destruction."
+      }
+     ]
     },
     {
      "id": "ls-s40",
@@ -2486,7 +2920,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Be silent, Ty; to thy wife it happened to have a son by me. Nor rag nor penny ever hadst thou, poor wretch! for this injury."
+      }
+     ]
     },
     {
      "id": "ls-s41",
@@ -2547,7 +2992,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Frey:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I the wolf see lying at the river's mouth, until the powers are swept away. So shalt thou be bound, if thou art not silent, thou framer of evil."
+      }
+     ]
     },
     {
      "id": "ls-s42",
@@ -2608,7 +3064,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "With gold thou boughtest Gymir's daughter, and so gavest away thy sword: but when Muspell's sons through the dark forest ride, thou, unhappy, wilt not have wherewith to fight."
+      }
+     ]
     },
     {
      "id": "ls-s43",
@@ -2669,7 +3136,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Byggvir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Know that were I of noble race, like Ingun's Frey, and had so fair a dwelling, than marrow softer I would bray that ill-boding crow, and crush him limb by limb."
+      }
+     ]
     },
     {
      "id": "ls-s44",
@@ -2730,7 +3208,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "What little thing is that I see wagging its tail, and snapping eagerly? At the ears of Frey thou shouldst ever be, and clatter under mills."
+      }
+     ]
     },
     {
      "id": "ls-s45",
@@ -2791,7 +3280,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Byggvir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Byggvir I am named, and am thought alert, by all gods and men; therefore am I joyful here, that all the sons of Hropt drink beer together."
+      }
+     ]
     },
     {
      "id": "ls-s46",
@@ -2852,7 +3352,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Be silent, Byggvir! Thou couldst never dole out food to men, when, lying in thy truckle bed, thou wast not to be found, while men were fighting."
+      }
+     ]
     },
     {
      "id": "ls-s47",
@@ -2913,7 +3424,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Heimdall:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Loki, thou art drunk, and hast lost thy wits. Why dost thou not leave off, Loki? But drunkenness so rules every man, that he knows not of his garrulity."
+      }
+     ]
     },
     {
      "id": "ls-s48",
@@ -2974,7 +3496,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Be silent, Heimdall! For thee in early days was that hateful life decreed: with a wet back thou must ever be, and keep watch as guardian of the gods."
+      }
+     ]
     },
     {
      "id": "ls-s49",
@@ -3035,7 +3568,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Skadi:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou art merry, Loki! Not long wilt thou frisk with an unbound tail; for thee, on a rock's point, with the entrails of thy ice-cold son, the gods will bind."
+      }
+     ]
     },
     {
      "id": "ls-s50",
@@ -3096,7 +3640,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Know, if on a rock's point, with the entrails of my ice-cold son, the gods will bind me, that first and foremost I was at the slaying, when we assailed Thiassi."
+      }
+     ]
     },
     {
      "id": "ls-s51",
@@ -3157,7 +3712,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Skadi:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Know, if first and foremost thou wast at the slaying, when ye assailed Thiassi, that from my dwellings and fields shall to thee ever cold counsels come."
+      }
+     ]
     },
     {
      "id": "ls-s52",
@@ -3218,7 +3784,22 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Milder wast thou of speech to Laufey's son, when to thy bed thou didst invite me. Such matters must be mentioned, if we accurately must recount our vices."
+      },
+      {
+       "t": "p",
+       "s": "Then came Sif forth, and poured out mead for Loki in an icy cup, saying:"
+      }
+     ]
     },
     {
      "id": "ls-s53",
@@ -3278,7 +3859,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hail to thee, Loki! and this cool cup receive, full of old mead: at least me alone, among the blameless Æsir race, leave stainless."
+      }
+     ]
     },
     {
      "id": "ls-s54",
@@ -3341,7 +3928,17 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "He took the horn, drank, and said:"
+      },
+      {
+       "t": "p",
+       "s": "So alone shouldst thou be, hadst thou strict and prudent been towards thy mate; but one I know, and, I think, know him well, a favoured rival of Hlorridi, and that is the wily Loki."
+      }
+     ]
     },
     {
      "id": "ls-s55",
@@ -3402,7 +3999,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Beyla:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "The fells all tremble: I think Hlorridi is from home journeying. He will bid be quiet him who here insults all gods and men."
+      }
+     ]
     },
     {
      "id": "ls-s56",
@@ -3463,7 +4071,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Be silent, Beyla! Thou art Byggvir's wife, and with much evil mingled: never came a greater monster among the Æsir's sons. Thou art a dirty strumpet."
+      }
+     ]
     },
     {
      "id": "ls-s57",
@@ -3528,7 +4147,17 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor then came in and said:"
+      },
+      {
+       "t": "p",
+       "s": "Silence, thou impure being! My mighty hammer, Miollnir, shall stop thy prating. I will thy head from thy neck strike; then will thy life be ended."
+      }
+     ]
     },
     {
      "id": "ls-s58",
@@ -3589,7 +4218,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Now the son of earth is hither come. Why dost thou chafe so, Thor? Thou wilt not dare do so, when with the wolf thou hast to fight, and he the all-powerful father swallows whole."
+      }
+     ]
     },
     {
      "id": "ls-s59",
@@ -3650,7 +4290,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Silence, thou impure being! My mighty hammer, Miollnir, shall stop thy prating. Up I will hurl thee to the east region, and none shall see thee after."
+      }
+     ]
     },
     {
      "id": "ls-s60",
@@ -3711,7 +4362,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Of thy eastern travels thou shouldest never to people speak, since in a glove-thumb thou, Einheri! wast doubled up, and hardly thoughtest thou wast Thor."
+      }
+     ]
     },
     {
      "id": "ls-s61",
@@ -3772,7 +4434,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Silence, thou impure being! My mighty hammer, Miollnir, shall stop thy prating: with this right hand I, Hrungnir's bane, will smite thee, so that thy every bone be broken."
+      }
+     ]
     },
     {
      "id": "ls-s62",
@@ -3836,7 +4509,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "'Tis my intention a long life to live, though with thy hammer thou dost threaten me. Skrymir's thongs seemed to thee hard, when at the food thou couldst not get, when, in full health, of hunger dying."
+      }
+     ]
     },
     {
      "id": "ls-s63",
@@ -3897,7 +4581,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Silence, thou impure being! My mighty hammer, Miollnir, shall stop thy prating. Hrungnir's bane shall cast thee down to Hel, beneath the gratings of the dead."
+      }
+     ]
     },
     {
      "id": "ls-s64",
@@ -3958,7 +4653,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I have said before the Æsir, I have said before the Æsir's sons, that which my mind suggested: but for thee alone will I go out; because I know that thou wilt fight."
+      }
+     ]
     },
     {
      "id": "ls-s65",
@@ -4011,7 +4717,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Œgir! thou hast brewed beer; but thou never shalt henceforth a compotation hold. All thy possessions, which are herein, flame shall play over, and on thy back shall burn thee."
+      }
+     ]
     },
     {
      "id": "ls-p4",
@@ -4037,7 +4749,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "After this Loki, in the likeness of a salmon, cast himself into the waterfall of Franangr, where the Æsir caught him, and bound him with the entrails of his son Nari; but his other son, Narfi, was changed into a wolf. Skadi took a venomous serpent, and fastened it up over Loki's face. The venom trickled down from it. Sigyn, Loki's wife, sat by, and held a basin under the venom; and when the basin was full, carried the venom out. Meanwhile the venom dropped on Loki, who shrank from it so violently that the whole earth trembled. This causes what are now called earthquakes."
+      }
+     ]
     }
    ],
    "notes": [

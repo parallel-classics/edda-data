@@ -22,6 +22,17 @@
    "parts": [
     "g"
    ]
+  },
+  "en-thorpe": {
+   "lang": "en",
+   "label": "English · Thorpe 1866",
+   "label_is": "Enska · Thorpe 1866",
+   "short": "Thorpe 1866",
+   "source": "thorpe-1866",
+   "rows": 1464,
+   "parts": [
+    "poetic"
+   ]
   }
  }
 }

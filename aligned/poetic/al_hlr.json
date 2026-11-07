@@ -35,7 +35,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "After Brynhild's death, two piles were made, one for Sigurd, which was the first burnt; but Brynhild was burnt afterwards, and she was in a chariot, which was hung with precious tapestry; so that it was said that Brynhild drove in a chariot on the way to Hel, and passed through a place in which a giantess dwelt. The giantess said:"
+      }
+     ]
     },
     {
      "id": "hlr-s1",
@@ -89,7 +95,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"Thou shalt not pass through my stone-supported dwelling place. Better had it beseemed thee to work broidery, than to seek after another's husband."
+      }
+     ]
     },
     {
      "id": "hlr-s2",
@@ -143,7 +155,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Why dost thou, vagrant woman! from Valland, my dwelling visit? Thou hast, golden dame! if thou desirest to know, gentle one! from thy hands washed human blood.\""
+      }
+     ]
     },
     {
      "id": "hlr-s3",
@@ -208,7 +226,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Brynhild:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "\"Upbraid me not, woman of the rock! although I have in warfare been. Of us, I trow, I shall the better seem, wherever men our conditions know.\""
+      }
+     ]
     },
     {
      "id": "hlr-s4",
@@ -273,7 +302,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Giantess:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "\"Thou, Brynhild! Budli's daughter! wast in evil hour born in the world; thou hast been the bane of Giuki's children, and their happy house subverted.\""
+      }
+     ]
     },
     {
      "id": "hlr-s5",
@@ -338,7 +378,22 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Brynhild:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "\"From my chariot I will truly tell thee, thou witless crone! if thou desirest to know, how Giuki's heirs made me both lovelorn and perjured."
+      },
+      {
+       "t": "p",
+       "s": "The bold-hearted king caused the garbs of us eight sisters under an oak to be borne. Twelve years old was I, if thou desirest to know, when to the youthful king oaths I gave."
+      }
+     ]
     },
     {
      "id": "hlr-s6",
@@ -384,7 +439,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "By all in Hlymdalir I was called Hild with the helm, by all who knew me."
+      }
+     ]
     },
     {
      "id": "hlr-s7",
@@ -536,7 +597,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Then caused I next, in the Gothic realm, the old Hialmgunnar to Hel to journey: I gave victory to the youthful brother of Oda, whereat Odin became hostile to me."
+      }
+     ]
     },
     {
      "id": "hlr-s10",
@@ -590,7 +657,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "He with shields encompassed me, red and white, in Skatalund; their surfaces enclosed me; him he ordained my sleep to break, who in no place could be made to fear."
+      }
+     ]
     },
     {
      "id": "hlr-s11",
@@ -644,7 +717,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "He made around my hall, towards the south, towering burn the destroyer of all wood: then bade that man only over it to ride, who me the gold should bring, that under Fafnir lay."
+      }
+     ]
     },
     {
      "id": "hlr-s12",
@@ -698,7 +777,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "On Grani rode the chief, the gold-disperser, to where my foster-father ruled o'er the dwellings. He alone seemed there to all superior, the Danish warrior, of the court."
+      }
+     ]
     },
     {
      "id": "hlr-s13",
@@ -752,7 +837,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "We slept and were content in the same bed, as if he had my born brother been; neither of us might on the other, for eight nights, lay a hand."
+      }
+     ]
     },
     {
      "id": "hlr-s14",
@@ -806,7 +897,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Reproached me Gudrun, Giuki's daughter, that I had slept in Sigurd's arms; then was I made aware of what I fain would not,—that they had deceived me, when a mate I took."
+      }
+     ]
     },
     {
      "id": "hlr-s15",
@@ -860,7 +957,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "To calamities all too lasting men and women ever will be while living born. We two shall now, Sigurd and I pass our life together. Sink thou of giant-kind!\""
+      }
+     ]
     }
    ],
    "notes": [

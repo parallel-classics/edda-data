@@ -62,7 +62,17 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.3
+     "s_en": 0.3,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "From the outward wall he saw one ascending to the seat of the giant race."
+      },
+      {
+       "t": "p",
+       "s": "Along the humid ways haste thee back hence, here, wretch! is no place for thee."
+      }
+     ]
     },
     {
      "id": "fjm-s2",
@@ -233,7 +243,27 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.15
+     "s_en": 0.15,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Fiolsvith is my name; wise I am of mind, though of food not prodigal. Within these courts thou shalt never come: so now, wretch! take thyself off."
+      },
+      {
+       "t": "p",
+       "s": "Wanderer:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "From the eye's delight few are disposed to hurry, where there is something pleasant to be seen. These walls, methinks, shine around golden halls. Here I could live contented with my lot."
+      }
+     ]
     },
     {
      "id": "fjm-s6",
@@ -323,7 +353,27 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, youth; of whom thou art born, or of what race hast sprung."
+      },
+      {
+       "t": "p",
+       "s": "Wanderer:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Vindkald I am called, Varkald was my father named, his sire was Fiolkald."
+      }
+     ]
     },
     {
      "id": "fjm-s7",
@@ -373,7 +423,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! that which I will ask thee, and I desire to know: who here holds sway, and has power over these lands and costly halls?"
+      }
+     ]
     },
     {
      "id": "fjm-s8",
@@ -434,7 +490,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Menglod is her name, her mother her begat with Svaf, Thorin's son. She here holds sway, and has power over these lands and costly halls."
+      }
+     ]
     },
     {
      "id": "fjm-s9",
@@ -495,7 +562,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., what the grate is called, than which among the gods mortals never saw a greater artifice?"
+      }
+     ]
     },
     {
      "id": "fjm-s10",
@@ -556,7 +634,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thrymgioll it is called, and Solblindi's three sons constructed it: a fetter fastens every wayfarer, who lifts it from its opening."
+      }
+     ]
     },
     {
      "id": "fjm-s11",
@@ -617,7 +706,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., what that structure is called, than which among the gods mortals never saw a greater artifice?"
+      }
+     ]
     },
     {
      "id": "fjm-s12",
@@ -678,7 +778,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Gastropnir it is called, and I constructed it of Leirbrimir's limbs. I have so supported it, that it will ever stand while the world lasts."
+      }
+     ]
     },
     {
      "id": "fjm-s13",
@@ -739,7 +850,27 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., what those dogs are called, that chase away the giantesses, and safety to the fields restore?"
+      },
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Gifr the one is called, the other Geri, if thou that wouldst know. Eleven watches they will keep, until the powers perish."
+      }
+     ]
     },
     {
      "id": "fjm-s14",
@@ -800,7 +931,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., whether any man can enter while those fierce assailants sleep?"
+      }
+     ]
     },
     {
      "id": "fjm-s15",
@@ -861,7 +1003,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Alternate sleep was strictly to them enjoined, since to the watch they were appointed. One sleeps by night, by day the other, so that no wight can enter if he comes."
+      }
+     ]
     },
     {
      "id": "fjm-s16",
@@ -922,7 +1075,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., whether there is any food that men can get, such that they can run in while they eat?"
+      }
+     ]
     },
     {
      "id": "fjm-s17",
@@ -983,7 +1147,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Two repasts lie in Vidofnir's wings, if thou that wouldst know: that is alone such food as men can give them, and run in while they eat."
+      }
+     ]
     },
     {
      "id": "fjm-s18",
@@ -1044,7 +1219,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., what that tree is called that with its branches spreads itself over every land?"
+      }
+     ]
     },
     {
      "id": "fjm-s19",
@@ -1105,7 +1291,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Mimameidir it is called; but few men know from what roots it springs: it by that will fall which fewest know. Nor fire nor iron will harm it."
+      }
+     ]
     },
     {
      "id": "fjm-s20",
@@ -1227,7 +1424,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., to what the virtue is of that famed tree applied, which nor fire nor iron will harm?"
+      }
+     ]
     },
     {
      "id": "fjm-s22",
@@ -1288,7 +1496,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Its fruit shall on the fire be laid, for labouring women; out then will pass what would in remain: so is it a creator of mankind."
+      }
+     ]
     },
     {
      "id": "fjm-s23",
@@ -1349,7 +1568,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., what the cock is called that sits in that lofty tree, and all-glittering is with gold?"
+      }
+     ]
     },
     {
      "id": "fjm-s24",
@@ -1410,7 +1640,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Vidofnir he is called; in the clear air he stands, in the boughs of Mima's tree: afflictions only brings, together indissoluble, the swart bird at his lonely meal."
+      }
+     ]
     },
     {
      "id": "fjm-s25",
@@ -1471,7 +1712,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., whether there be any weapon, before which Vidofnir may fall to Hel's abode?"
+      }
+     ]
     },
     {
      "id": "fjm-s26",
@@ -1532,7 +1784,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Hævatein the twig is named, and Lopt plucked it, down by the gate of Death. In an iron chest it lies with Sinmœra, and is with nine strong locks secured."
+      }
+     ]
     },
     {
      "id": "fjm-s27",
@@ -1593,7 +1856,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., whether he will alive return, who seeks after, and will take, that rod?"
+      }
+     ]
     },
     {
      "id": "fjm-s28",
@@ -1654,7 +1928,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "He will return who seeks after, and will take, the rod, if he bears that which few possess to the dame of the glassy clay."
+      }
+     ]
     },
     {
      "id": "fjm-s29",
@@ -1715,7 +2000,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., whether there is any treasure, that mortals can obtain, at which the pale giantess will rejoice?"
+      }
+     ]
     },
     {
      "id": "fjm-s30",
@@ -1776,7 +2072,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "The bright sickle that lies in Vidofnir's wings, thou in a bag shalt bear, and to Sinmœra give, before she will think fit to lend an arm for conflict."
+      }
+     ]
     },
     {
      "id": "fjm-s31",
@@ -1837,7 +2144,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., what this hall is called, which is girt round with a curious flickering flame?"
+      }
+     ]
     },
     {
      "id": "fjm-s32",
@@ -1959,7 +2277,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., which of the Æsir's sons has that constructed, which within the court I saw?"
+      }
+     ]
     },
     {
      "id": "fjm-s34",
@@ -2020,7 +2349,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Uni and Iri, Bari and Ori, Var and Vegdrasil, Dorri and Uri, Delling and Atvard, Lidskialf, Loki."
+      }
+     ]
     },
     {
      "id": "fjm-s35",
@@ -2081,7 +2421,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., what that mount is called, on which I see a splendid maiden stand?"
+      }
+     ]
     },
     {
      "id": "fjm-s36",
@@ -2142,7 +2493,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Hyfiaberg 'tis called, and long has it a solace been to the bowed-down and sorrowful: each woman becomes healthy, although a year's disease she have, if she can but ascend it."
+      }
+     ]
     },
     {
      "id": "fjm-s37",
@@ -2203,7 +2565,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., how those maids are called, who sit at Menglod's knees in harmony together?"
+      }
+     ]
     },
     {
      "id": "fjm-s38",
@@ -2264,7 +2637,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Hlif the first is called, the second is Hlifthursa, the third Thiodvarta, Biort and Blid, Blidr, Frid, Eir and Orboda."
+      }
+     ]
     },
     {
      "id": "fjm-s39",
@@ -2386,7 +2770,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., whether they protect those who offer to them, if it should, be needful?"
+      }
+     ]
     },
     {
      "id": "fjm-s41",
@@ -2447,7 +2842,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fiolsvith! etc., whether there is any man that may in Menglod's soft arms sleep?"
+      }
+     ]
     },
     {
      "id": "fjm-s42",
@@ -2508,7 +2914,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "There is no man who may in Menglod's soft arms sleep, save only Svipdag; to him the sun-bright maid is for wife betrothed."
+      }
+     ]
     },
     {
      "id": "fjm-s43",
@@ -2569,7 +2986,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vindkald:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Set the doors open! Let the gate stand wide; here thou mayest Svipdag see: but yet go learn if Menglod will accept my love."
+      }
+     ]
     },
     {
      "id": "fjm-s44",
@@ -2630,7 +3058,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fiolsvith:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Hear, Menglod! A man is hither come: go and behold the stranger; the dogs rejoice; the house has itself opened. I think it must be Svipdag."
+      }
+     ]
     },
     {
      "id": "fjm-s45",
@@ -2728,7 +3167,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Menglod:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Fierce ravens shall, on the high gallows, tear out thy eyes, if thou art lying, that hither from afar is come the youth unto my halls."
+      }
+     ]
     },
     {
      "id": "fjm-s47",
@@ -2789,7 +3239,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Whence art thou come? Whence hast thou journeyed? How do thy kindred call thee? Of thy race and name I must have a token, if I was betrothed to thee."
+      }
+     ]
     },
     {
      "id": "fjm-s48",
@@ -2850,7 +3306,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Menglod:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Welcome thou art: my will I have obtained; greeting a kiss shall follow. A sight unlooked-for gladdens most persons, when one the other loves."
+      }
+     ]
     },
     {
      "id": "fjm-s49",
@@ -2900,7 +3367,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Long have I sat on my loved hill, day and night expecting thee. Now that is come to pass which I have hoped, that thou, dear youth, again to my halls art come."
+      }
+     ]
     },
     {
      "id": "fjm-s50",
@@ -2950,7 +3423,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Svipdag:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Longing I have undergone for thy love; and thou, for my affection. Now it is certain, that we shall pass our lives together."
+      }
+     ]
     }
    ],
    "notes": [

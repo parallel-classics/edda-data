@@ -35,7 +35,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "There was a king in Sweden named Nidud: he had two sons and a daughter, whose name was Bodvild. There were three brothers, sons of a king of the Finns, one was called Slagfid, the second Egil, the third Volund. They went on snow-shoes and hunted wild-beasts. They came to Ulfdal, and there made themselves a house, where there is a water called Ulfsiar. Early one morning they found on the border of the lake three females sitting and spinning flax. Near them lay their swan-plumages: they were Valkyriur. Two of them, Hladgud-Svanhvit and Hervor-Alvit, were daughters of King Hlodver; the third was Olrun, a daughter of Kiar of Valland. They took them home with them to their dwelling. Egil had Olrun, Slagfid Svanhvit, and Volund Alvit. They lived there seven years, when they flew away seeking conflicts, and did not return. Egil then went on snow-shoes in search of Olrun, and Slagfid in search of Svanhvit, but Volund remained in Ulfdal. He was a most skilful man, as we learn from old traditions. King Nidud ordered him to be seized, so as it is here related."
+      }
+     ]
     },
     {
      "id": "vkv-s1",
@@ -116,7 +122,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.996
+     "is_nu_sim": 0.996,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Maids flew from the south, through the murky wood, Alvit the young, fate to fulfil. On the lake's margin they sat to repose, the southern damsels; precious flax they spun."
+      }
+     ]
     },
     {
      "id": "vkv-s2",
@@ -203,7 +215,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.993
+     "is_nu_sim": 0.993,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "One of them, of maidens fairest, to his comely breast Egil clasped. Svanhvit was the second, she a swan's plumage bore; but the third, their sister, the white neck clasped of Volund."
+      }
+     ]
     },
     {
      "id": "vkv-s3",
@@ -281,7 +299,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.975
+     "is_nu_sim": 0.975,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "There they stayed seven winters through; but all the eighth were with longing seized; and in the ninth fate parted them. The maidens yearned for the murky wood, the young Alvit, fate to fulfil."
+      }
+     ]
     },
     {
      "id": "vkv-s4",
@@ -370,7 +394,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.828
+     "is_nu_sim": 0.828,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "From the chase came the ardent hunters, Slagfid and Egil, found their house deserted, went out and in, and looked around. Egil went east after Olrun, and Slagfid west after Svanhvit;"
+      }
+     ]
     },
     {
      "id": "vkv-s5",
@@ -456,7 +486,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.855
+     "is_nu_sim": 0.855,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "But Volund alone remained in Ulfdal. He the red gold set with the hard gem, well fastened all the rings on linden bast, and so awaited his bright consort, if to him she would return."
+      }
+     ]
     },
     {
      "id": "vkv-s6",
@@ -527,7 +563,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.983
+     "is_nu_sim": 0.983,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "It was told to Nidud, the Niarars' lord, that Volund alone remained in Ulfdal. In the night went men, in studded corslets, their shields glistened in the waning moon."
+      }
+     ]
     },
     {
      "id": "vkv-s7",
@@ -598,7 +640,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.992
+     "is_nu_sim": 0.992,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "From their saddles they alighted at the house's gable, thence went in through the house. On the bast they saw the rings all drawn, seven hundred, which the warrior owned."
+      }
+     ]
     },
     {
      "id": "vkv-s8",
@@ -665,7 +713,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.652
+     "is_nu_sim": 0.652,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "And they took them off, and they put them on, all save one, which they bore away. Came then from the chase the ardent hunter, Volund, gliding on the long way."
+      }
+     ]
     },
     {
      "id": "vkv-s9",
@@ -735,7 +789,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.693
+     "is_nu_sim": 0.693,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "To the fire he went, bear's flesh to roast. Soon blazed the brushwood, and the arid fir, the wind-dried wood, before Volund."
+      }
+     ]
     },
     {
      "id": "vkv-s10",
@@ -806,7 +866,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "On the bearskin sat, his rings counted, the Alfar's companion: one was missing. He thought that Hlodver's daughter had it, the young Alvit, and that she was returned."
+      }
+     ]
     },
     {
      "id": "vkv-s11",
@@ -877,7 +943,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.984
+     "is_nu_sim": 0.984,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "So long he sat until he slept; and he awoke of joy bereft: on his hands he felt heavy constraints, and round his feet fetters clasped."
+      }
+     ]
     },
     {
      "id": "vkv-s12",
@@ -954,7 +1026,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.953
+     "is_nu_sim": 0.953,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"Who are the men that on the rings' possessor have laid bonds? and me have bound?\""
+      }
+     ]
     },
     {
      "id": "vkv-s13",
@@ -1031,7 +1109,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.675
+     "is_nu_sim": 0.675,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Then cried Nidud, the Niarars' lord: \"Whence gottest thou, Volund! Alfars' chief! our gold, in Ulfdal?\""
+      }
+     ]
     },
     {
      "id": "vkv-s14",
@@ -1096,7 +1180,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"No gold was here in Grani's path, far I thought our land from the hills of Rhine. I mind me that we more treasures possessed, when, a whole family, we were at home."
+      }
+     ]
     },
     {
      "id": "vkv-s15",
@@ -1162,7 +1252,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.627
+     "is_nu_sim": 0.627,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hladgud and Hervor were of Hlodver born; known was Olrun, Kiar's daughter, she entered into the house, stood on the floor, her voice moderated: Now is he not mirthful, who from the forest comes.\""
+      }
+     ]
     },
     {
      "id": "vkv-s16",
@@ -1266,7 +1362,13 @@
        "s": "Níðuður konungur gaf dóttur sinni Böðvildi gullhring þann er hann tók af bastinu að Völundar, en hann sjálfur bar sverðið er Völundur átti. En drottning kvað:"
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "King Nidud gave to his daughter Bodvild the ring which had been taken from the bast in Volund's house; but he himself bore the sword that had belonged to Volund. The queen said:"
+      }
+     ]
     },
     {
      "id": "vkv-s17",
@@ -1344,7 +1446,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.75
+     "is_nu_sim": 0.75,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "His teeth he shows, when the sword he sees, and Bodvild's ring he recognizes: threatening are his eyes as a glistening serpent's: let be severed his sinews' strength; and set him then in Sævarstad."
+      }
+     ]
     },
     {
      "id": "vkv-p3",
@@ -1377,7 +1485,13 @@
        "s": "Svo var gert, að skornar vóru sinar í knésbótum og settur í hólm einn er þar var fyrir landi, er hét Sævarstaður. Þar smíðaði hann konungi alls kyns gersimar. Engi maður þorði að fara til hans nema konungur einn."
       }
      ],
-     "is_nu_sim": 0.986
+     "is_nu_sim": 0.986,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "This was done; he was hamstrung, and then set on a certain small island near the shore, called Sævarstad. He there forged for the king all kinds of jewellery work. No one was allowed to go to him, except the king. Volund said:"
+      }
+     ]
     },
     {
      "id": "vkv-s18",
@@ -1466,7 +1580,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.818
+     "is_nu_sim": 0.818,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"The sword shines in Nidud's belt, which I whetted as I could most skilfully, and tempered, as seemed to me most cunningly. That bright blade forever is taken from me: never shall I see it borne into Volund's smithy."
+      }
+     ]
     },
     {
      "id": "vkv-s19",
@@ -1570,7 +1690,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.993
+     "is_nu_sim": 0.993,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Now Bodvild wears my consort's red-gold rings: for this I have no indemnity.\" He sat and never slept, and his hammer plied; but much more speedy vengeance devised on Nidud."
+      }
+     ]
     },
     {
      "id": "vkv-s21",
@@ -1641,7 +1767,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.985
+     "is_nu_sim": 0.985,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "The two young sons of Nidud ran in at the door to look, in Sævarstad. To the chest they came, for the keys asked; manifest was their grudge, when therein they looked."
+      }
+     ]
     },
     {
      "id": "vkv-s22",
@@ -1728,7 +1860,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.972
+     "is_nu_sim": 0.972,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Many necklaces were there, which to those youths appeared of the red gold to be, and treasures. \"Come ye two alone, to-morrow come; that gold shall be given to you."
+      }
+     ]
     },
     {
      "id": "vkv-s23",
@@ -1815,7 +1953,17 @@
        ]
       }
      ],
-     "is_nu_sim": 0.975
+     "is_nu_sim": 0.975,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Tell it not to the maidens, nor to the household folk, nor to any one, that ye have been with me.\" Early called one the other, brother, brother: \"Let us go see the rings.\""
+      },
+      {
+       "t": "p",
+       "s": "To the chest they came, for the keys asked; manifest was their grudge, when therein they looked. Of those children he the heads cut off, and under the prison's mixen laid their bodies."
+      }
+     ]
     },
     {
      "id": "vkv-s24",
@@ -1886,7 +2034,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.977
+     "is_nu_sim": 0.977,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "But their skulls beneath the hair he in silver set, and to Nidud gave; and of their eyes precious stones he formed, which to Nidud's wily wife he sent."
+      }
+     ]
     },
     {
      "id": "vkv-s25",
@@ -2024,7 +2178,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.926
+     "is_nu_sim": 0.926,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "But of the teeth of the two breast-ornaments he made, and to Bodvild sent. Then did Bodvild praise the ring: to Volund brought it, when she had broken it: \"I dare to no tell it, save alone to thee.\""
+      }
+     ]
     },
     {
      "id": "vkv-s27",
@@ -2111,7 +2271,18 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Volund:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "\"I will so repair the fractured gold, that to thy father it shall fairer seem, and to thy mother much more beautiful, and to thyself, in the same degree.\""
+      }
+     ]
     },
     {
      "id": "vkv-s28",
@@ -2189,7 +2360,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.977
+     "is_nu_sim": 0.977,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "He then brought her beer, that he might succeed the better, as on her seat she fell asleep. \"Now have I my wrongs avenged, all save one in the wood perpetrated.\""
+      }
+     ]
     },
     {
      "id": "vkv-s29",
@@ -2276,7 +2453,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"I wish,\" said Volund, \"that on my feet I were, of the use of which Nidud's men have deprived me.\" Laughing Volund rose in air: Bodvild weeping from the isle departed. She mourned her lover's absence, and for her father's wrath."
+      }
+     ]
     },
     {
      "id": "vkv-s30",
@@ -2347,7 +2530,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.967
+     "is_nu_sim": 0.967,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Stood without Nidud's wily wife; then she went in through the hall; but he on the enclosure sat down to rest. \"Art thou awake Niarars' lord!\""
+      }
+     ]
     },
     {
      "id": "vkv-s31",
@@ -2434,7 +2623,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.99
+     "is_nu_sim": 0.99,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"Ever am I awake, joyless I lie to rest, when I call to mind my children's death: my head is chilled, cold are to me thy counsels. Now with Volund I desire to speak.\""
+      }
+     ]
     },
     {
      "id": "vkv-s32",
@@ -2492,7 +2687,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"Tell me, Volund, Alfars' chief! of my brave boys what is become?\""
+      }
+     ]
     },
     {
      "id": "vkv-s33",
@@ -2600,7 +2801,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"Oaths shalt thou first to me swear, by board of ship, by rim of shield, by shoulder of steed, by edge of sword, that thou wilt not slay the wife of Volund, nor of my bride cause the death; although a wife I have whom ye know, or offspring within thy court."
+      }
+     ]
     },
     {
      "id": "vkv-s34",
@@ -2671,7 +2878,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.967
+     "is_nu_sim": 0.967,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "To the smithy go, which thou hast made, there wilt thou the bellows find with blood besprinkled. The heads I severed of thy boys, and under the prison's mixen laid their bodies."
+      }
+     ]
     },
     {
      "id": "vkv-s35",
@@ -2746,7 +2959,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.78
+     "is_nu_sim": 0.78,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "But their skulls beneath the hair I in silver set, and to Nidud gave; and of their eyes precious stones I formed, which to Nidud's wily wife I sent."
+      }
+     ]
     },
     {
      "id": "vkv-s36",
@@ -2813,7 +3032,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.611
+     "is_nu_sim": 0.611,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Of the teeth of the two, breast-ornaments I made, and to Bodvild sent. Now Bodvild goes big with child, the only daughter of you both.\""
+      }
+     ]
     },
     {
      "id": "vkv-s37",
@@ -2907,7 +3132,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.99
+     "is_nu_sim": 0.99,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"Word didst thou never speak that more afflicted me, or for which I would more severely punish thee. There is no man so tall that he from thy horse can take thee, or so skilful that he can shoot thee down, thence where thou floatest up in the sky.\""
+      }
+     ]
     },
     {
      "id": "vkv-s38",
@@ -2965,7 +3196,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Laughing Volund rose in air, but Nidud sad remained sitting."
+      }
+     ]
     },
     {
      "id": "vkv-s39",
@@ -3045,7 +3282,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.956
+     "is_nu_sim": 0.956,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"Rise up Thakrad, my best of thralls! bid Bodvild, my fair-browed daughter, in bright attire come, with her sire to speak."
+      }
+     ]
     },
     {
      "id": "vkv-s40",
@@ -3104,7 +3347,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.985
+     "is_nu_sim": 0.985,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Is it, Bodvild! true what has been told to me, that thou and Volund in the isle together sat?\""
+      }
+     ]
     },
     {
      "id": "vkv-s41",
@@ -3198,7 +3447,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.969
+     "is_nu_sim": 0.969,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"True it is, Nidud! what has been told to thee, that Volund and I in the isle together sat, in an unlucky hour: would it had never been! I could not against him strive, I might not against him prevail.\""
+      }
+     ]
     }
    ],
    "notes": [

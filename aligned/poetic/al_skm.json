@@ -35,7 +35,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Frey, son of Niord, had one day seated himself in Hlidskialf, and was looking over all regions, when turning his eyes to Jotunheim, he there saw a beautiful girl, as she was passing from her father's dwelling to her bower. Thereupon he became greatly troubled in mind. Frey's attendant was named Skirnir; him Niord desired to speak with Frey; when Skadi said:—"
+      }
+     ]
     },
     {
      "id": "skm-s1",
@@ -85,7 +91,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Rise up now, Skirnir! go and request our son to speak; and inquire with whom he so sage may be offended."
+      }
+     ]
     },
     {
      "id": "skm-s2",
@@ -146,7 +158,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Skirnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Harsh words I have from your son to fear, if I go to speak with him, and to inquire with whom he so sage may be offended."
+      }
+     ]
     },
     {
      "id": "skm-s3",
@@ -197,7 +220,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Skirnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me now, Frey, prince of gods! for I desire to know, why alone thou sittest in the spacious hall the live-long day?"
+      }
+     ]
     },
     {
      "id": "skm-s4",
@@ -258,7 +292,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Frey:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Why shall I tell thee, thou young man, my mind's great trouble? for the Alfs' illuminator shines every day, yet not for my pleasure."
+      }
+     ]
     },
     {
      "id": "skm-s5",
@@ -319,7 +364,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Skirnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thy care cannot, I think, be so great, that to me thou canst not tell it; for in early days we were young together: well might we trust each other."
+      }
+     ]
     },
     {
      "id": "skm-s6",
@@ -380,7 +436,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Frey:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "In Gymir's courts I saw walking a maid for whom I long. Her arms gave forth light wherewith shone all air and water."
+      }
+     ]
     },
     {
      "id": "skm-s7",
@@ -430,7 +497,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Is more desirable to me that maid than to any youth in early days; yet will no one, Æsir or Alfar, that we together live."
+      }
+     ]
     },
     {
      "id": "skm-s8",
@@ -491,7 +564,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Skirnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Give me but thy steed, which can bear me through the dusk, flickering flame, and that sword, which brandishes itself against the Jotuns' race."
+      }
+     ]
     },
     {
      "id": "skm-s9",
@@ -552,7 +636,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Frey:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I will give thee my steed, which can bear thee through the dusk, flickering flame, and that sword, which will itself brandish, if he is bold who raises it."
+      }
+     ]
     },
     {
      "id": "skm-s10",
@@ -616,7 +711,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Skirnir Speaks to the Horse:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Dark it is without, 'tis time, I say, for us to go across the misty fells, over the Thursar's land: we shall both return, or the all-potent Jotun will seize us both. Skirnir rides to Jotunheim, to Gymir's mansion, where fierce dogs were chained at the gate of the enclosure that was round Gymir's hall. He rides on to where a cowherd was sitting on a mound, and says to him:"
+      }
+     ]
     },
     {
      "id": "skm-p2",
@@ -692,7 +798,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Tell me, cowherd! as on the mound thou sittest, and watchest all the ways, how I to the speech may come, of the young maiden, for Gymir's dogs?"
+      }
+     ]
     },
     {
      "id": "skm-s12",
@@ -753,7 +865,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Cowherd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Either thou art death-doomed, or thou art a departed one. Speech wilt thou ever lack with the good maid of Gymir."
+      }
+     ]
     },
     {
      "id": "skm-s13",
@@ -814,7 +937,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Skirnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Better choices than to whine there are for him who is prepared to die: for one day was my age decreed, and my whole life determined."
+      }
+     ]
     },
     {
      "id": "skm-s14",
@@ -875,7 +1009,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gerd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "What is that sound of sounds, which I now sounding hear within our dwelling? The earth is shaken, and with it all the house of Gymir trembles."
+      }
+     ]
     },
     {
      "id": "skm-s15",
@@ -932,7 +1077,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A serving-maid:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "A man is here without, dismounted from his horse's back: he lets his steed browse on the grass."
+      }
+     ]
     },
     {
      "id": "skm-s16",
@@ -993,7 +1149,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gerd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Bid him enter into our hall, and drink of the bright mead; although I fear it is my brother's slayer who waits without."
+      }
+     ]
     },
     {
      "id": "skm-s17",
@@ -1043,7 +1210,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Who is this of the Alfar's, or of the Æsir's sons, or of the wise Vanir's? Why art thou come alone, through the hostile fire, our halls to visit?"
+      }
+     ]
     },
     {
      "id": "skm-s18",
@@ -1104,7 +1277,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Skirnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I am not of the Alfar's, nor of the Æsir's sons, nor of the wise Vanir's; yet I am come alone, through the hostile fire, your halls to visit."
+      }
+     ]
     },
     {
      "id": "skm-s19",
@@ -1154,7 +1338,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Apples all-golden I have here eleven: these I will give thee, Gerd, thy love to gain, that thou mayest say that Frev to thee lives dearest."
+      }
+     ]
     },
     {
      "id": "skm-s20",
@@ -1215,7 +1405,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gerd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "The apples eleven I never will accept for any mortal's pleasure; nor will I and Frey, while our lives last, live both together."
+      }
+     ]
     },
     {
      "id": "skm-s21",
@@ -1276,7 +1477,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Skirnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "The ring too I will give thee, which was burnt with the young son of Odin. Eight of equal weight will from it drop, every ninth night."
+      }
+     ]
     },
     {
      "id": "skm-s22",
@@ -1337,7 +1549,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gerd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "The ring I will not accept, burnt though it may have been with the young son of Odin. I have no lack of gold in Gymir's courts; for my father's wealth I share."
+      }
+     ]
     },
     {
      "id": "skm-s23",
@@ -1398,7 +1621,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Skirnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Seest thou this sword, young maiden! thin, glittering-bright, which I have here in hand? I thy head will sever from thy neck, if thou speakst not favourably to me."
+      }
+     ]
     },
     {
      "id": "skm-s24",
@@ -1461,7 +1695,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gerd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Suffer compulsion will I never, to please any man; yet this I foresee, if thou and Gymir meet, ye will eagerly engage in fight."
+      }
+     ]
     },
     {
      "id": "skm-s25",
@@ -1522,7 +1767,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Skirnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Seest thou this sword, young maiden! thin, glittering-bright, which I have here in hand? Beneath its edge shall the old Jotun fall: thy sire is death-doomed."
+      }
+     ]
     },
     {
      "id": "skm-s26",
@@ -1572,7 +1828,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "With a taming-wand I smite thee, and I will tame thee, maiden! to my will. Thou shalt go thither, where the sons of men shall never more behold thee."
+      }
+     ]
     },
     {
      "id": "skm-s27",
@@ -1624,7 +1886,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "On an eagle's mount thou shalt early sit, looking and turned towards Hel. Food shall to thee more loathsome be than is to any one the glistening serpent among men."
+      }
+     ]
     },
     {
      "id": "skm-s28",
@@ -1677,7 +1945,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "As a prodigy thou shalt be, when thou goest forth; Hrimnir shall at thee gaze, all beings at thee stare; more wide-known thou shalt become than the watch among the gods, if thou from thy gratings gape."
+      }
+     ]
     },
     {
      "id": "skm-s29",
@@ -1730,7 +2004,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Solitude and disgust, bonds and impatience, shall thy tears with grief augment. Set thee down, and I will tell thee of a whelming flood of care, and a double grief."
+      }
+     ]
     },
     {
      "id": "skm-s30",
@@ -1788,7 +2068,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Terrors shall bow thee down the livelong day, in the Jotuns' courts. To the Hrimthursar's halls, thou shalt each day crawl exhausted, joyless crawl; wail for pastime shalt thou have, and tears and misery."
+      }
+     ]
     },
     {
      "id": "skm-s31",
@@ -1843,7 +2129,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "With a three-headed Thurs thou shalt be ever bound, or be without a mate. Thy mind shall tear thee from morn to morn: as the thistle thou shalt be which has thrust itself on the house-top."
+      }
+     ]
     },
     {
      "id": "skm-s32",
@@ -1889,7 +2181,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "To the wold I have been, and to the humid grove, a magic wand to get. A magic wand I got."
+      }
+     ]
     },
     {
      "id": "skm-s33",
@@ -1939,7 +2237,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Wroth with thee is Odin, wroth with thee is the Æsir's prince; Frey shall loathe thee, even ere thou, wicked maid! shalt have felt the gods' dire vengeance."
+      }
+     ]
     },
     {
      "id": "skm-s34",
@@ -1995,7 +2299,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hear ye, Jotuns! hear ye, Hrimthursar! sons of Suttung! also ye, Æsir's friends! how I forbid, how I prohibit man's joy unto the damsel, man's converse to the damsel."
+      }
+     ]
     },
     {
      "id": "skm-s35",
@@ -2066,7 +2376,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hrimgrimnir the Thurs is named, that shall possess thee, in the grating of the dead beneath; there shall wretched thralls, from the tree's roots, goats' water give thee. Other drink shalt thou, maiden! never get, either for thy pleasure, or for my pleasure."
+      }
+     ]
     },
     {
      "id": "skm-s36",
@@ -2116,7 +2432,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thurs I cut for thee, and three letters more: ergi, and œdi, and othola. So will I cut them out, as I have cut them in, if there need shall be."
+      }
+     ]
     },
     {
      "id": "skm-s37",
@@ -2177,7 +2499,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gerd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Hail rather to thee, youth! and accept an icy cup, filled with old mead; although I thought not that I ever should love one of Vanir race."
+      }
+     ]
     },
     {
      "id": "skm-s38",
@@ -2238,7 +2571,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Skirnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "All my errand will I know, ere I hence ride home. When wilt thou converse hold with the powerful son of Niord?"
+      }
+     ]
     },
     {
      "id": "skm-s39",
@@ -2299,7 +2643,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gerd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Barri the grove is named, which we both know, the grove of tranquil paths. Nine nights hence, there to Niord's son Gerd will grant delight."
+      }
+     ]
     },
     {
      "id": "skm-s40",
@@ -2359,7 +2714,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Tell me, Skirnir! ere thou thy steed unsaddlest, and a foot hence thou goest, what thou hast accomplished in Jotunheim, for my pleasure or thine?"
+      }
+     ]
     },
     {
      "id": "skm-s41",
@@ -2420,7 +2781,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Skirnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Barri the grove is named, which we both know, the grove of tranquil paths. Nine nights hence, there to Niord's son Gerd will grant delight."
+      }
+     ]
     },
     {
      "id": "skm-s42",
@@ -2483,6 +2855,17 @@
      "is_cont": false,
      "quoted_in": [
       "g-c37-5"
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Frey:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Long is one night, yet longer two will be; how shall I three endure. Often a month to me less has seemed than half a night of longing."
+      }
      ]
     }
    ],

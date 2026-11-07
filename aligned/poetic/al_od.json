@@ -36,7 +36,13 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "head": "Frá Borgnýu ok Oddrúnu."
+     "head": "Frá Borgnýu ok Oddrúnu.",
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "There was a king named Heidrek, who had a daughter named Borgny. Her lover was named Vilmund. She could not give birth to a child until Oddrun, Atli's sister, came. She had been the beloved of Gunnar, Giuki's son. Of this story it is here sung:"
+      }
+     ]
     },
     {
      "id": "od-s1",
@@ -90,7 +96,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I have heard tell, in ancient stories how a damsel came to the eastern land: no one was able, on the face of earth, help to afford to Heidrek's daughter."
+      }
+     ]
     },
     {
      "id": "od-s2",
@@ -144,7 +156,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "When Oddrun, Atli's sister, heard that the damsel had great pains, from the stall she led her well-bridled steed, and on the swart one the saddle laid."
+      }
+     ]
     },
     {
      "id": "od-s3",
@@ -203,7 +221,17 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "She the horse made run on the smooth, dusty way, until she came to where a high hall stood. She the saddle snatched from the hungry steed, and in she went along the court, and these words first of all uttered:"
+      },
+      {
+       "t": "p",
+       "s": "\"What is most noteworthy in this country? or what most desirable in the Hunnish land?\""
+      }
+     ]
     },
     {
      "id": "od-s4",
@@ -286,7 +314,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Borgny:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Here lies Borgny with pains o'erwhelmed, thy friend, Oddrun! See if thou canst help her."
+      }
+     ]
     },
     {
      "id": "od-s5",
@@ -351,7 +390,27 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Oddrun:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "What chieftain has on thee brought this dishonour? Why so acute are Borgny's pains?"
+      },
+      {
+       "t": "p",
+       "s": "Borgny:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Vilmund is named the falcon-bearer's friend: he the damsel wrapt in a warm coverlet five whole winters, so that from her father she was hidden."
+      }
+     ]
     },
     {
      "id": "od-s6",
@@ -452,7 +511,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "They, I ween, spoke not more than this: kindly she went to sit at the damsel's knee. Vehemently sang Oddrun, fervently sang Oddrun songs of power over Borgny."
+      }
+     ]
     },
     {
      "id": "od-s8",
@@ -506,7 +571,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A girl and boy might then tread the mould-way, gentle babes, born of Hogni's bane. Then began to speak the death-sick damsel, who before had no word uttered."
+      }
+     ]
     },
     {
      "id": "od-s9",
@@ -555,7 +626,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"So may thee help the benignant genii, Frigg and Freyia, and other gods besides, as thou hast from me peril removed!\""
+      }
+     ]
     },
     {
      "id": "od-s10",
@@ -625,7 +702,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"I was not inclined to give thee help, because thou never wast of succour worthy: I vowed, and have performed what I then said—when the princes the heritage divided, that I would ever help afford.\""
+      }
+     ]
     },
     {
      "id": "od-s11",
@@ -690,7 +773,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Borgny:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Mad art thou, Oddrun! and hast lost thy wits, when in hostile spirit most of thy words thou utterest; for I have been thy companion upon the earth, as if from brothers we both were born."
+      }
+     ]
     },
     {
      "id": "od-s12",
@@ -755,7 +849,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Oddrun:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I remember yet what thou one evening saidst, when I for Gunnar, a compotation made. Such a case, saidst thou, would not thenceforth happen, to any maiden, save to me alone.\""
+      }
+     ]
     },
     {
      "id": "od-s13",
@@ -799,7 +904,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Then sat down the sorrowing lady to tell her woes, from her great grief:"
+      }
+     ]
     },
     {
      "id": "od-s14",
@@ -853,7 +964,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"I was nurtured in the kingly hall, I was the joy of many in the council of men. Life I enjoyed, and my father's wealth, five winters only, while my father lived."
+      }
+     ]
     },
     {
      "id": "od-s15",
@@ -907,7 +1024,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "These last words the noble-hearted king strove to utter, ere he departed hence."
+      }
+     ]
     },
     {
      "id": "od-s16",
@@ -961,7 +1084,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "He bade me be endowed with ruddy gold, and in the south be given to Grimhild's son. He said no maiden could more excellent in the world be born, if fate willed it not otherwise."
+      }
+     ]
     },
     {
      "id": "od-s17",
@@ -1015,7 +1144,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Brynhild in her bower was occupied in broidery: she had people and lands around her. Earth slumbered, and the heavens above, when Fafnir's bane her burgh first saw."
+      }
+     ]
     },
     {
      "id": "od-s18",
@@ -1069,7 +1204,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Then was conflict waged with the Walish sword, and the burgh taken which Brynhild owned. It was not long—which was not surprising—ere she discovered all those frauds."
+      }
+     ]
     },
     {
      "id": "od-s19",
@@ -1123,7 +1264,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "These she caused cruelly to be avenged, so that we all have great afflictions. Known it will be through every land of men, that she caused herself to die with Sigurd."
+      }
+     ]
     },
     {
      "id": "od-s20",
@@ -1169,7 +1316,17 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "But I for Gunnar, rings' dispenser, love conceived, such as Brynhild should. But he Brynhild bade a helmet take, said she a Valkyria should become."
+      },
+      {
+       "t": "p",
+       "s": "They forthwith offered ruddy rings to my brother, and indemnity not small. He besides offered or me fifteen vills, and the load of Grani's sides, if he would accept them."
+      }
+     ]
     },
     {
      "id": "od-s21",
@@ -1223,7 +1380,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "But Atli said he never would a marriage-gift receive from Giuki's son. Still we could not our loves withstand, but I my head must lay upon the ring-breaker."
+      }
+     ]
     },
     {
      "id": "od-s22",
@@ -1319,7 +1482,13 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.34
+     "s_en": 0.34,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Many things said my relations; declared they had surprised us both together; but Atli said, that I would not crime commit, nor scandal perpetrate. But such should no one for another ever deny, when love has part."
+      }
+     ]
     },
     {
      "id": "od-s24",
@@ -1419,7 +1588,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Atli sent his emissaries about the Murk-wood, that he might prove me; and they came to where they ought not to have come, to where we had one couch prepared."
+      }
+     ]
     },
     {
      "id": "od-s26",
@@ -1473,7 +1648,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "To the men we offered red-gold rings, that they it might not to Atli tell; but they forthwith hastened home, and it quickly to Atli told."
+      }
+     ]
     },
     {
      "id": "od-s27",
@@ -1519,7 +1700,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "But they from Gudrun carefully concealed it, yet rather by half she should have known it."
+      }
+     ]
     },
     {
      "id": "od-s28",
@@ -1573,7 +1760,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A sound was heard of gold-shod hoofs, when into the court rode Giuki's heirs, * * * Of Hogni they the heart cut out, and into a serpent-pen the other cast."
+      }
+     ]
     },
     {
      "id": "od-s29",
@@ -1631,7 +1824,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I had gone yet once again to Geirmund, to prepare a banquet. * * * The brave king began the harp to sound; for the prince of noble race hoped that I to his aid might come."
+      }
+     ]
     },
     {
      "id": "od-s30",
@@ -1685,7 +1884,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I it heard from; Hlesey, how of trouble there the harp-strings sang."
+      }
+     ]
     },
     {
      "id": "od-s31",
@@ -1731,7 +1936,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I my thralls bade all be ready: I the prince's life would save. The vessel we let float past the forest, until I saw all Atli's courts."
+      }
+     ]
     },
     {
      "id": "od-s32",
@@ -1785,7 +1996,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Then came Atli's miserable mother crawling forth:—may she perish!—she Gunnar pierced to the heart; so that the hero I could not save."
+      }
+     ]
     },
     {
      "id": "od-s33",
@@ -1839,7 +2056,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Oftentimes I wonder, woman gold-adorned! how I after can life retain; for I seemed the formidable sword-dispenser as myself to love:"
+      }
+     ]
     },
     {
      "id": "od-s34",
@@ -1893,7 +2116,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thou sitst and listenest, while I recount to thee many an evil fate, my own and theirs.\" Each one lives as he best may. Now is ended Oddrun's lament."
+      }
+     ]
     }
    ],
    "notes": [

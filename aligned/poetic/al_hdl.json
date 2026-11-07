@@ -74,7 +74,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Freyia:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Wake, maid of maids! Wake, my friend! Hyndla! Sister! who in the cavern dwellest. Now there is dark of darks; we will both to Valhall ride, and to the holy fane."
+      }
+     ]
     },
     {
      "id": "hdl-s2",
@@ -128,7 +139,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Let us Heriafather pray into our minds to enter, he gives and grants gold to the deserving. He gave to Hermod a helm and corslet, and from him Sigmund a sword received."
+      }
+     ]
     },
     {
      "id": "hdl-s3",
@@ -182,7 +199,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Victory to his sons he gives, but to some riches; eloquence to the great, and to men, wit; fair wind he gives to traders, but poesy to skallds; valour he gives to many a warrior."
+      }
+     ]
     },
     {
      "id": "hdl-s4",
@@ -232,7 +255,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "She to Thor will offer, she to him will pray, that to thee he may be well disposed; although he bears ill will to Jotun females."
+      }
+     ]
     },
     {
      "id": "hdl-s5",
@@ -308,7 +337,22 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Now of thy wolves take one from out the stall; let him run with runic rein."
+      },
+      {
+       "t": "p",
+       "s": "Hyndla:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Sluggish is thy hog the god's way to tread:"
+      }
+     ]
     },
     {
      "id": "hdl-s6",
@@ -363,7 +407,27 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Freyia:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I will my noble palfrey saddle."
+      },
+      {
+       "t": "p",
+       "s": "Hyndla:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "False are thou, Freyia! who temptest me: by thy eyes thou showest it, so fixed upon us; while thou thy man hast on the dead-road, the young Ottar, Innstein's son."
+      }
+     ]
     },
     {
      "id": "hdl-s7",
@@ -433,7 +497,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Dull art thou, Hyndla! methinks thou dreamest, since thou sayest that my man is on the dead-road with me; there where my hog sparkles with its golden bristles, hight Hildisvini, which for me made the two skilful dwarfs, Dain and Nabbi. From the saddle we will talk: let as sit, and of princely families discourse, of those chieftains who from the gods descend. They have contested for the dead's gold, Ottar the young and Angantyr."
+      }
+     ]
     },
     {
      "id": "hdl-s8",
@@ -537,7 +607,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A duty 'tis to act so that the young prince his paternal heritage may have, after his kindred."
+      }
+     ]
     },
     {
      "id": "hdl-s10",
@@ -591,7 +667,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "An offer-stead to me he raised, with stones constructed; now is that stone as glass become. With the blood of oxen he newly sprinkled it. Ottar ever trusted in the Asyniur."
+      }
+     ]
     },
     {
      "id": "hdl-s11",
@@ -655,7 +737,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Now let us reckon up the ancient families, and the races of exalted men. Who are the Skioldungs? Who are the Skilfings? Who the Odlings? Who the Ylfings? Who the hold-born? Who the hers-born? The choicest race of men under heaven?"
+      }
+     ]
     },
     {
      "id": "hdl-s12",
@@ -720,7 +808,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hyndla:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou, Ottar! art of Innstein born, but Innstein was from Alf the Old, Alf was from Ulf, Ulf from Sæfari, but Sæfari from Svan the Red."
+      }
+     ]
     },
     {
      "id": "hdl-s13",
@@ -774,7 +873,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thy father had a mother, for her necklaces famed, she, I think, was named Hledis the priestess; Frodi her father was, and her mother Friant: all that stock is reckoned among chieftains."
+      }
+     ]
     },
     {
      "id": "hdl-s14",
@@ -828,7 +933,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Ali was of old of men the strongest, Halfdan before him, the highest of the Skioldungs; (Famed were the wars by those chieftains led) his deeds seemed to soar to the skirts of heaven."
+      }
+     ]
     },
     {
      "id": "hdl-s15",
@@ -882,7 +993,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "By Eimund aided, chief of men, he Sigtrygg slew with the cold steel. He Almveig had to wife, first of women. They begat and had eighteen sons."
+      }
+     ]
     },
     {
      "id": "hdl-s16",
@@ -941,7 +1058,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "From them the Skioldungs, from them the Skilfings, from them the Odlings, from them the Ynglings, from them the hold-born, from them the hers-born, the choicest race of men under heaven. All that race is thine, Ottar Heimski!"
+      }
+     ]
     },
     {
      "id": "hdl-s17",
@@ -995,7 +1118,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hildegun her mother was, of Svafa born and a sea-king. All that race is thine, Ottar Heimski! Carest thou this to know? Wishest thou a longer narrative?"
+      }
+     ]
     },
     {
      "id": "hdl-s18",
@@ -1054,7 +1183,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Dag wedded Thora, mother of warriors: of that race were born the noble champions, Fradmar, Gyrd, and the Frekis both, Am, Josur, Mar, Alf the Old. Carest thou this to know? Wishest thou a longer narrative?"
+      }
+     ]
     },
     {
      "id": "hdl-s19",
@@ -1108,7 +1243,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Ketil their friend was named, heir of Klyp; he was maternal grandsire of thy mother. Then was Frodi yet before Kari, but the eldest born was Alf."
+      }
+     ]
     },
     {
      "id": "hdl-s20",
@@ -1166,7 +1307,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Nanna was next, Nokkvi's daughter; her son was thy father's kinsman, ancient is that kinship. I knew both Brodd and Horfi. All that race is thine, Ottar Heimski!"
+      }
+     ]
     },
     {
      "id": "hdl-s21",
@@ -1231,7 +1378,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Isolf, Asolf, Olmod's sons and Skurhild's Skekkil's daughter; thou shalt yet count chieftains many. All that race is thine, Ottar Heimski!"
+      }
+     ]
     },
     {
      "id": "hdl-s22",
@@ -1349,7 +1502,17 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gunnar, Balk, Grim, Ardskafi, Jarnskiold, Thorir, Ulf, Ginandi, But and Brami, Barri and Reifnir, Tind and Hyrfing, the two Haddingis. All that race is thine, Ottar Heimski!"
+      },
+      {
+       "t": "p",
+       "s": "To toil and tumult were the sons of Arngrim born, and of Eyfura: ferocious berserkir, calamity of every kind, by land and sea, like fire they carried. All that race is thine, Ottar Heimski!"
+      }
+     ]
     },
     {
      "id": "hdl-s25",
@@ -1407,7 +1570,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I knew both Brodd and Horfi, they were in the court of Hrolf the Old; all descended from Jormunrek, son-in-law of Sigurd. (Listen to my story) the dread of nations, him who Fafnir slew."
+      }
+     ]
     },
     {
      "id": "hdl-s26",
@@ -1461,7 +1630,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "He was a king, from Volsung sprung, and Hiordis from Hrodung; but Eylimi from the Odlings. All that race is thine, Ottar Heimski!"
+      }
+     ]
     },
     {
      "id": "hdl-s27",
@@ -1520,7 +1695,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gunnar and Hogni, sons of Giuki; and Gudrun likewise, their sister. Guttorm was not of Giukrs race, although he brother was of them both. All that race is thine, Ottar Heimski!"
+      }
+     ]
     },
     {
      "id": "hdl-s28",
@@ -1602,7 +1783,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harald Hildetonn, born of Hrærekir Slongvanbaugi; he was a son of Aud, Aud the rich was Ivar's daughter; but Radbard was Randver's father. They were heroes to the gods devoted. All that race is thine, Ottar Heimski!"
+      }
+     ]
     },
     {
      "id": "hdl-s29",
@@ -1667,7 +1854,13 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.32
+     "s_en": 0.32,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "There were eleven Æsir reckoned, when Baldr on the pile was laid; him Vali showed himself worthy to avenge, his own brother: he the slayer slew. All that race is thine, Ottar Heimski!"
+      }
+     ]
     },
     {
      "id": "hdl-s30",
@@ -1730,7 +1923,13 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.12
+     "s_en": 0.12,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Baldr's father was son of Bur: Frey to wife had Gerd, she was Gymir's daughter, from Jotuns sprung and Aurboda; Thiassi also was their relation, that haughty Jotun; Skadi was his daughter."
+      }
+     ]
     },
     {
      "id": "hdl-s31",
@@ -1848,7 +2047,17 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "We tell thee much, and remember more: I admonish thee thus much to know. Wishest thou yet a longer narrative?"
+      },
+      {
+       "t": "p",
+       "s": "Haki was not the worst of Hvedna's sons, and Hiorvard was Hvedna's father; Heid and Hrossthiof were of Hrimnir's race."
+      }
+     ]
     },
     {
      "id": "hdl-s33",
@@ -1922,7 +2131,17 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.23
+     "s_en": 0.23,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "All the Valas are from Vidolf; all the soothsayers from Vilmeidr, all the sorcerers from Svarthofdi; all the Jotuns come from Ymir."
+      },
+      {
+       "t": "p",
+       "s": "We tell thee much, and more remember, I admonish thee thus much to know. Wishest thou yet a longer narrative?"
+      }
+     ]
     },
     {
      "id": "hdl-s34",
@@ -1998,7 +2217,17 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.32
+     "s_en": 0.32,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "There was one born, in times of old, with wondrous might endowed, of origin divine: nine Jotun maids gave birth to the gracious god, at the world's margin."
+      },
+      {
+       "t": "p",
+       "s": "Gialp gave him birth, Greip gave him birth, Eistla gave him birth, and Angeia; Ulfrun gave him birth, and Eyrgiafa, Imd and Atla, and Jarnsaxa."
+      }
+     ]
     }
    ],
    "notes": [
