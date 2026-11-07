@@ -80,7 +80,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.981
+     "is_nu_sim": 0.981,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Wroth was Vingthor, when he awoke, and his hammer missed; his beard he shook, his forehead struck, the son of earth felt all around him;"
+      }
+     ]
     },
     {
      "id": "thrk-s2",
@@ -151,7 +157,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.984
+     "is_nu_sim": 0.984,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "And first of all these words he uttered: \"Hear now, Loki! what I now say, which no one knows anywhere on earth, nor in heaven above; the As's hammer is stolen!\""
+      }
+     ]
     },
     {
      "id": "thrk-s3",
@@ -222,7 +234,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.964
+     "is_nu_sim": 0.964,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "They went to the fair Freyia's dwelling, and he these words first of all said: \"Wilt thou me, Freyia, thy feather-garment lend, that perchance my hammer I may find?\""
+      }
+     ]
     },
     {
      "id": "thrk-s4",
@@ -298,7 +316,18 @@
        ]
       }
      ],
-     "is_nu_sim": 0.988
+     "is_nu_sim": 0.988,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Freyia:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "\"That I would give thee, although of gold it were, and trust it to thee, though it were of silver.\""
+      }
+     ]
     },
     {
      "id": "thrk-s5",
@@ -414,7 +443,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.989
+     "is_nu_sim": 0.989,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "On a mound sat Thrym, the Thursar's lord, for his greyhounds plaiting gold bands and his horses' manes smoothing."
+      }
+     ]
     },
     {
      "id": "thrk-s7",
@@ -535,7 +570,22 @@
        "s": "Illt er með ásum, illt er með álfum; hefir þú Hlórriða hamar um fólginn?"
       }
      ],
-     "is_nu_sim": 0.981
+     "is_nu_sim": 0.981,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"How goes it with the Æsir? How goes it with the Alfar? Why art thou comc alone to Jotunheim?\""
+      },
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "\"Ill it goes with the Æsir, Ill it goes with the Alfar. Hast thou Hlorridi's hammer hidden?\""
+      }
+     ]
     },
     {
      "id": "thrk-s8",
@@ -622,7 +672,18 @@
        ]
       }
      ],
-     "is_nu_sim": 0.959
+     "is_nu_sim": 0.959,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thrym:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "\"I have Hlorridi's hammer hidden eight rasts beneath the earth; it shall no man get again, unless he bring me Freyia to wife.\""
+      }
+     ]
     },
     {
      "id": "thrk-s9",
@@ -700,7 +761,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.943
+     "is_nu_sim": 0.943,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Flew then Loki—the plumage rattled—until he came beyond the Jotun's dwellings, and came within the Æsir's courts; there he met Thor, in the middle court, who these words first of all uttered."
+      }
+     ]
     },
     {
      "id": "thrk-s10",
@@ -771,7 +838,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.955
+     "is_nu_sim": 0.955,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"Hast thou had success as well as labour? Tell me from the air the long tidings. Oft of him who sits are the tales defective, and he who lies down utters falsehood.\""
+      }
+     ]
     },
     {
      "id": "thrk-s11",
@@ -858,7 +931,18 @@
        ]
       }
      ],
-     "is_nu_sim": 0.96
+     "is_nu_sim": 0.96,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Loki:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "\"I have had labour and success: Thrym has thy hammer, the Thursar's lord. It shall no man get again, unless he bring him Freyia to wife.\""
+      }
+     ]
     },
     {
      "id": "thrk-s12",
@@ -929,7 +1013,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.977
+     "is_nu_sim": 0.977,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "They went the fair Freyia to find; and he those words first of all said: \"Bind thee, Freyia, in bridal raiment, we two must drive to Jotunheim.\""
+      }
+     ]
     },
     {
      "id": "thrk-s13",
@@ -1007,7 +1097,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.984
+     "is_nu_sim": 0.984,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Wroth then was Freyia, and with anger chafed, all the Æsir's hall beneath her trembled: in shivers flew the famed Brisinga necklace. \"Know me to be of women lewdest, if with thee I drive to Jotunheim.\""
+      }
+     ]
     },
     {
      "id": "thrk-s14",
@@ -1078,7 +1174,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.982
+     "is_nu_sim": 0.982,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Straightway went the Æsir all to council, and the Asyniur all to hold converse; and deliberated the mighty gods, how they Hlorridi's hammer might get back."
+      }
+     ]
     },
     {
      "id": "thrk-s15",
@@ -1149,7 +1251,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.993
+     "is_nu_sim": 0.993,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Then said Heimdall, of Æsir brightest—he well foresaw, like other Vanir—\"Let us clothe Thor with bridal raiment, let him have the famed Brisinga necklace."
+      }
+     ]
     },
     {
      "id": "thrk-s16",
@@ -1220,7 +1328,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.981
+     "is_nu_sim": 0.981,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"Let by his side keys jingle, and woman's weeds fall round his knees, but on his breast place precious stones, and a neat coif set on his head.\""
+      }
+     ]
     },
     {
      "id": "thrk-s17",
@@ -1284,7 +1398,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Then said Thor, the mighty As: \"Me the Æsir will call womanish, if I let myself be clad in bridal raiment.\""
+      }
+     ]
     },
     {
      "id": "thrk-s18",
@@ -1355,7 +1475,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.983
+     "is_nu_sim": 0.983,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Then spake Loki, Laufey's son: \"Do thou, Thor! refrain from suchlike words: forthwith the Jotuns will Asgard inhabit, unless thy hammer thou gettest back.\""
+      }
+     ]
     },
     {
      "id": "thrk-s19",
@@ -1447,7 +1573,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.979
+     "is_nu_sim": 0.979,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Then they clad Thor in bridal raiment, and with the noble Brisinga necklace, let by his side keys jingle, and woman's weeds fall round his knees; and on his breast placed precious stones, and a neat coif set on his head."
+      }
+     ]
     },
     {
      "id": "thrk-s20",
@@ -1511,7 +1643,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.961
+     "is_nu_sim": 0.961,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Then said Loki, Laufey's son: \"I will with thee as a servant go: we two will drive to Jotunheim.\""
+      }
+     ]
     },
     {
      "id": "thrk-s21",
@@ -1582,7 +1720,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.984
+     "is_nu_sim": 0.984,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Straightway were the goats homeward driven, hurried to the traces; they had fast to run. The rocks were shivered, the earth was in a blaze; Odin's son drove to Jotunheim."
+      }
+     ]
     },
     {
      "id": "thrk-s22",
@@ -1653,7 +1797,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.988
+     "is_nu_sim": 0.988,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Then said Thrym, the Thursar's lord: \"Rise up, Jotuns! and the benches deck, now they bring me Freyia to wife, Niord's daughter, from Noatun."
+      }
+     ]
     },
     {
      "id": "thrk-s23",
@@ -1724,7 +1874,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.977
+     "is_nu_sim": 0.977,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"Hither to our court let bring gold-horned cows, all-black oxen, for the Jotuns' joy. Treasures I have many, necklaces many, Freyia alone seemed to me wanting.\""
+      }
+     ]
     },
     {
      "id": "thrk-s24",
@@ -1802,7 +1958,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.977
+     "is_nu_sim": 0.977,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "In the evening they early came, and for the Jotuns beer was brought forth. Thor alone an ox devoured, salmons eight, and all the sweetmeats women should have. Sif's consort drank three salds of mead."
+      }
+     ]
     },
     {
      "id": "thrk-s25",
@@ -1873,7 +2035,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.972
+     "is_nu_sim": 0.972,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Then said Thrym, the Thursar's prince: \"Where hast thou seen brides eat more voraciously? I never saw brides feed more amply, nor a maiden drink more mead.\""
+      }
+     ]
     },
     {
      "id": "thrk-s26",
@@ -1944,7 +2112,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.97
+     "is_nu_sim": 0.97,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sat the all-crafty serving-maid close by, who words fitting found against the Jotun's speech: \"Freyia has nothing eaten for eight nights, so eager was she for Jotunheim.\""
+      }
+     ]
     },
     {
      "id": "thrk-s27",
@@ -2015,7 +2189,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.98
+     "is_nu_sim": 0.98,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Under her veil he stooped desirous to salute her, but sprang back along the hall. \"Why are so piercing Freyia's looks? Methinks that fire burns from her eyes.\""
+      }
+     ]
     },
     {
      "id": "thrk-s28",
@@ -2086,7 +2266,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.971
+     "is_nu_sim": 0.971,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sat the all-crafty serving-maid close by, who words fitting found against the Jotun's speech: \"Freyia for eight nights has not slept, so eager was she for Jotunheim.\""
+      }
+     ]
     },
     {
      "id": "thrk-s29",
@@ -2164,7 +2350,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.979
+     "is_nu_sim": 0.979,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "In came the Jotun's luckless sister, for a bride-gift she dared to ask: \"Give me from thy hands the ruddy rings, if thou wouldst gain my love, my love and favour all.\""
+      }
+     ]
     },
     {
      "id": "thrk-s30",
@@ -2235,7 +2427,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.98
+     "is_nu_sim": 0.98,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Then said Thrym, the Thursar's lord: \"Bring the hammer in, the bride to consecrate; lay Miollnir on the maiden's knee; unite us each with other by the hand of Vor.\""
+      }
+     ]
     },
     {
      "id": "thrk-s31",
@@ -2306,7 +2504,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.967
+     "is_nu_sim": 0.967,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Laughed Hlorridi's soul in his breast, when the fierce-hearted his hammer recognized. He first slew Thrym, the Thursar's lord, and the Jotun's race all crushed;"
+      }
+     ]
     },
     {
      "id": "thrk-s32",
@@ -2399,7 +2603,13 @@
        "s": "Þrymskviða er frá Runeberg samtökunum í Svíþjóð. (http://www.runeberg.lysator.liu.se)"
       }
      ],
-     "is_nu_sim": 0.737
+     "is_nu_sim": 0.737,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "He slew the Jotun's aged sister, her who a bride-gift had demanded; she a blow got instead of skillings, a hammer's stroke for many rings. So got Odin's son his hammer back."
+      }
+     ]
     }
    ],
    "notes": [

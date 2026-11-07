@@ -70,7 +70,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Son:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Wake up, Groa! wake up, good woman! at the gates of death I wake thee! if thou rememberest, that thou thy son badest to thy grave-mound to come."
+      }
+     ]
     },
     {
      "id": "grg-s2",
@@ -131,7 +142,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Mother:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "What now troubles my only son? With what affliction art thou burthened, that thou thy mother callest, who to dust is come, and from human homes departed?"
+      }
+     ]
     },
     {
      "id": "grg-s3",
@@ -192,7 +214,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Son:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "A hateful game thou, crafty woman, didst set before me, whom my has father in his bosom cherished, when thou badest me go no one knows whither, Menglod to meet."
+      }
+     ]
     },
     {
      "id": "grg-s4",
@@ -253,7 +286,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Mother:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Long is the journey, long are the ways, long are men's desires. If it so fall out, that thou thy will obtainest, the event must then be as it may."
+      }
+     ]
     },
     {
      "id": "grg-s5",
@@ -314,7 +358,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Son:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Sing to me songs which are good. Mother! protect thy son. Dead on my way I fear to be. I sees too young in years."
+      }
+     ]
     },
     {
      "id": "grg-s6",
@@ -375,7 +430,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Mother:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I will sing to thee first one that is thought most useful, which Rind sang to Ran; that from thy shoulders thou shouldst cast what to thee seems irksome: let thyself thyself direct."
+      }
+     ]
     },
     {
      "id": "grg-s7",
@@ -425,7 +491,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A second I will sing to thee, as thou hast to wander joyless on thy ways. May Urd's protection hold thee on every side, where thou seest turpitude."
+      }
+     ]
     },
     {
      "id": "grg-s8",
@@ -475,7 +547,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A third I will sing to thee. If the mighty rivers to thy life's peril fall, Horn and Rud, may they flow down to Hel, and for thee ever be diminished."
+      }
+     ]
     },
     {
      "id": "grg-s9",
@@ -525,7 +603,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A fourth I will sing to thee. If foes assail thee ready on the dangerous road, their hearts shall fail them, and to thee be power, and their minds to peace be turned."
+      }
+     ]
     },
     {
      "id": "grg-s10",
@@ -578,7 +662,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A fifth I will sing to thee. If bonds be cast on thy limbs, friendly spells I will let on thy joints be sung, and the lock from thy arms shall start, [and from thy feet the fetter]."
+      }
+     ]
     },
     {
      "id": "grg-s11",
@@ -628,7 +718,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A sixth I will sing to thee. If on the sea thou comest, more stormy than men have known it, air and water shall in a bag attend thee, and a tranquil course afford thee."
+      }
+     ]
     },
     {
      "id": "grg-s12",
@@ -678,7 +774,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A seventh I will sing to thee. If on a mountain high frost should assail thee, deadly cold shall not thy carcase injure, nor draw thy body to thy limbs."
+      }
+     ]
     },
     {
      "id": "grg-s13",
@@ -728,7 +830,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "An eighth I will sing to thee. If night overtake thee, when out on the misty way, that the dead Christian woman no power may have to do thee harm."
+      }
+     ]
     },
     {
      "id": "grg-s14",
@@ -778,7 +886,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A ninth I will sing to thee. If with a far-famed spear-armed Jotun thou words exchangest, of words and wit to thy mindful heart abundance shall be given."
+      }
+     ]
     },
     {
      "id": "grg-s15",
@@ -828,7 +942,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Go now ever where calamity may be, and no harm shall obstruct thy wishes. On a stone fast in the earth I have stood within the door, while songs I sang to thee."
+      }
+     ]
     },
     {
      "id": "grg-s16",
@@ -878,7 +998,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "My son! bear hence thy mother's words, and in thy breast let them dwell; for happiness abundant shalt thou have in life, while of my words thou art mindful."
+      }
+     ]
     }
    ],
    "notes": [

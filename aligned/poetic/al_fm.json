@@ -35,7 +35,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd and Regin went up to Gnitaheid, and there found Fafnir's slot, or track, along which he crawled to the water. There on the way Sigurd made a large pit, and went down into it. When Fafnir crawled from the gold he blew forth venom, but it flew over Sigurd's head. When Fafnir crept over the pit, Sigurd with his sword pierced him to the heart. Fafnir shook himself, and beat with his head and tail. Sigurd leapt from the pit, and each looked at the other. Fafnir said:"
+      }
+     ]
     },
     {
      "id": "fm-s1",
@@ -85,7 +91,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Young fellow! young fellow! by what fellow art thou begot? of what people are thou the son? that thou in Fafnir reddenst thy glittering falchion? Thy sword has pierced my heart."
+      }
+     ]
     },
     {
      "id": "fm-p2",
@@ -111,7 +123,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd concealed his name, because it was the belief in those times, that the words of dying persons were of great power, if they cursed an enemy by his name."
+      }
+     ]
     },
     {
      "id": "fm-s2",
@@ -161,7 +179,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Gofugt-dyr I am called, but I have wandered a motherless child; nor have I a father like the sons of men: alone I wander."
+      }
+     ]
     },
     {
      "id": "fm-s3",
@@ -216,7 +245,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fafnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "If thou hast no father like the sons of men, by what wonder art thou begotten?"
+      }
+     ]
     },
     {
      "id": "fm-s4",
@@ -277,7 +317,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "My race, I tell thee, is to thee unknown, and myself also. Sigmund was my father named, my name is Sigurd, who with weapon have assailed thee."
+      }
+     ]
     },
     {
      "id": "fm-s5",
@@ -338,7 +389,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fafnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Who has incited thee? why hast thou suffered thyself to be incited to take my life? youth of the sparkling eyes! Thou hadst a cruel father— * * * *"
+      }
+     ]
     },
     {
      "id": "fm-s6",
@@ -399,7 +461,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "My heart incited me, my hands gave me aid, and my keen sword. Rarely a man is bold, when of mature age, if in childhood he was faint-hearted."
+      }
+     ]
     },
     {
      "id": "fm-s7",
@@ -460,7 +533,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fafnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I know if thou hadst chanced to grow in the lap of friends, they would have seen thee fierce in fight. Now thou art a captive, taken in war, and, 'tis said, slaves ever tremble."
+      }
+     ]
     },
     {
      "id": "fm-s8",
@@ -521,7 +605,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Why Fafnir! dost thou upbraid me that I am far from my paternal home? I am not a captive, although in war I was taken: thou hast found that I am free."
+      }
+     ]
     },
     {
      "id": "fm-s9",
@@ -582,7 +677,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fafnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou wilt account only as angry words all I to thee shall say, but I will say the truth. The jingling gold, and the gleed-red treasure, those rings, shall be thy bane."
+      }
+     ]
     },
     {
      "id": "fm-s10",
@@ -643,7 +749,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Treasure at command every one desires, ever till that one day; for at some time each mortal shall hence to Hel depart."
+      }
+     ]
     },
     {
      "id": "fm-s11",
@@ -704,7 +821,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fafnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "The Norns' decree thou wilt hold in contempt as from a witless wight: In water thou shalt be drowned, if in wind thou rowest. All things bring peril to the fated."
+      }
+     ]
     },
     {
      "id": "fm-s12",
@@ -765,7 +893,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fafnir! as thou art wise declared, and many things to know: who those Norns are, who help in need, and from babes loose the mothers."
+      }
+     ]
     },
     {
      "id": "fm-s13",
@@ -828,6 +967,17 @@
      "is_cont": false,
      "quoted_in": [
       "g-c15-10"
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fafnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Very diversely born I take those Norns to be: they have no common race. Some are of Æsir-race, some of Alfar-race, some are Dvalin's daughters."
+      }
      ]
     },
     {
@@ -889,7 +1039,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Fafnir! as thou art wise declared, and many things to know, how that holm is called, where Surt and the Æsir will sword-liquor together mingle?"
+      }
+     ]
     },
     {
      "id": "fm-s15",
@@ -950,7 +1111,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fafnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Oskopnir it is called; there shall the gods with lances play; Bilrost shall be broken, when they go forth, and their steeds in the river swim."
+      }
+     ]
     },
     {
      "id": "fm-s16",
@@ -1000,7 +1172,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "An Œgis-helm I bore among the sons of men, while I o'er the treasures lay; stronger than all I thought myself to be; stronger I found not many!"
+      }
+     ]
     },
     {
      "id": "fm-s17",
@@ -1061,7 +1239,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "An Œgis-helm is no protection, where men impelled by anger fight: soon he finds, who among many comes, that no one is alone the boldest."
+      }
+     ]
     },
     {
      "id": "fm-s18",
@@ -1118,7 +1307,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fafnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Venom I blew forth, when on my father's great heritage I lay."
+      }
+     ]
     },
     {
      "id": "fm-s19",
@@ -1179,7 +1379,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou, glistening serpent! didst a great belching make, and wast so hard of heart. Fierceness so much the greater have the sons of men, when they possess that helm."
+      }
+     ]
     },
     {
      "id": "fm-s20",
@@ -1240,7 +1451,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fafnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Sigurd! I now counsel thee, do thou take my counsel; and hence ride home. The jingling gold, and the gleed-red treasure, those rings, shall be thy bane."
+      }
+     ]
     },
     {
      "id": "fm-s21",
@@ -1301,7 +1523,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Counsel regarding thee is taken, and I to the gold will ride, on the heath that lies. But lie thou, Fafnir! in the pangs of death, until Hel have thee!"
+      }
+     ]
     },
     {
      "id": "fm-s22",
@@ -1362,7 +1595,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fafnir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Regin betrayed me, he will thee betray, he of us both will be the bane. Fafnir must, I trow, let forth his life: thine was the greater might!"
+      }
+     ]
     },
     {
      "id": "fm-p3",
@@ -1388,7 +1632,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Regin had gone away while Sigurd slew Fafnir, but came back as Sigurd was wiping the blood from his sword. He said:"
+      }
+     ]
     },
     {
      "id": "fm-s23",
@@ -1438,7 +1688,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hail to thee now, Sigurd! Now hast thou victory won and Fafnir slain: of all the men who tread the earth, thou art, I say, the bravest born."
+      }
+     ]
     },
     {
      "id": "fm-s24",
@@ -1502,7 +1758,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Uncertain 'tis to know, when we all come together, sons of victorious heroes, which is the bravest born. Many a one is bold, who sword has never broken in another's breast."
+      }
+     ]
     },
     {
      "id": "fm-s25",
@@ -1563,7 +1830,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Regin:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Glad are thou now, Sigurd! and in thy gain rejoicing, while Gram in the grass thou driest. My brother thou to death hast wounded, yet in some degree was I the cause."
+      }
+     ]
     },
     {
      "id": "fm-s26",
@@ -1624,7 +1902,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou didst me counsel, that I should ride o'er high fells hither. Treasure and life had still possess'd that glistening serpent, hadst thou my anger not excited."
+      }
+     ]
     },
     {
      "id": "fm-p4",
@@ -1651,7 +1940,13 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_draft": true,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Regin then approached Fafnir and cut out his heart with a sword named Ridill, and afterwards drank blood from his wound. He said:"
+      }
+     ]
     },
     {
      "id": "fm-s27",
@@ -1702,7 +1997,27 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou wentst far off, while I in Fafnir my keen sword reddened. With my strength I strove against the serpent's might, while in the ling thou layest."
+      },
+      {
+       "t": "p",
+       "s": "Regin:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Long hadst thou allowed in the ling to lie that Jotun old, hadst thou the sword not used that I forged for thee, thy keen-edged glave."
+      }
+     ]
     },
     {
      "id": "fm-s28",
@@ -1763,7 +2078,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Valour is better than might of sword, when foes embittered fight; for a brave man I have ever seen gain victory with a dull sword."
+      }
+     ]
     },
     {
      "id": "fm-s29",
@@ -1823,7 +2149,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the brave 'tis better than for the timid to join in the game of war; for the joyous it is better than for the sad, let come whatever may."
+      }
+     ]
     },
     {
      "id": "fm-s30",
@@ -1960,7 +2292,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd took Fafnir's heart and roasted it on a stick. When he thought it roasted enough, and the blood frothed from it, he touched it with his finger, to try whether it were quite done. He burnt his finger and put it in his mouth; and when Fafnir's heart's blood touched his tongue he understood the language of birds. He heard the eagles chattering among the branches. One eagle said:"
+      }
+     ]
     },
     {
      "id": "fm-s32",
@@ -2016,6 +2354,12 @@
      "is_cont": false,
      "quoted_in": [
       "s-c47-7"
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "There sits Sigurd sprinkled with blood; Fafnir's heart at the fire he roasts. Wise methinks were the ring-dispenser, if he the glistening life-pulp ate."
+      }
      ]
     },
     {
@@ -2083,6 +2427,17 @@
      "is_cont": false,
      "quoted_in": [
       "s-c47-8"
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Second eagle:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "There lies Regin communing with himself; he will beguile the youth, who in him trusts: in rage he brings malicious words together, the framer of evil will avenge his brother."
+      }
      ]
     },
     {
@@ -2144,7 +2499,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Third eagle:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "By the head shorter, let him the hoary babbler send hence to Hel; then can he all the gold possess alone, the mass that under Fafnir lay."
+      }
+     ]
     },
     {
      "id": "fm-s35",
@@ -2209,7 +2575,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fourth eagle:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "He would, methinks, be prudent, if he could have your friendly counsel, my sisters! If he would bethink himself, and Hugin gladden. There I expect the wolf, where his ears I see."
+      }
+     ]
     },
     {
      "id": "fm-s36",
@@ -2274,7 +2651,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fifth eagle:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Not so prudent is that tree of battle, as I that martial leader had supposed, if he one brother lets depart, now he the other has of life bereft."
+      }
+     ]
     },
     {
      "id": "fm-s37",
@@ -2335,7 +2723,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sixth eagle:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "He is most simple, if he longer spares that people's pest. There lies Regin, who has betrayed him.—He cannot guard against it."
+      }
+     ]
     },
     {
      "id": "fm-s38",
@@ -2396,7 +2795,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Seventh eagle:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "By the head shorter let him make the ice-cold Jotun, and of his rings deprive him; then of that treasure thou, which Fafnir owned, sole lord wilt be!"
+      }
+     ]
     },
     {
      "id": "fm-s39",
@@ -2457,7 +2867,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Fate shall not so resistless be, that Regin shall my death-word bear; for the brothers both shall speedily go hence to Hel."
+      }
+     ]
     },
     {
      "id": "fm-p6",
@@ -2483,7 +2904,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd cut off the head of Regin, and then ate Fafnir's heart, and drank the blood of both Regin and Fafnir. He then heard the eagles saying:"
+      }
+     ]
     },
     {
      "id": "fm-s40",
@@ -2537,7 +2964,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Bind thou, Sigurd! the red-gold rings. It is not kingly many things to fear. I a maid know by far the fairest, with gold adorned. Couldst thou but her obtain!"
+      }
+     ]
     },
     {
      "id": "fm-s41",
@@ -2591,7 +3024,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Second eagle:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "To Giuki lead all-verdant ways; the fates point out to wayfarers where the good king a born daughter has; her wilt thou, Sigurd! purchase with bridal gifts."
+      }
+     ]
     },
     {
      "id": "fm-s42",
@@ -2646,7 +3090,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Third eagle:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "There stands a hall on the high Hindarfiall, without 'tis all with fire surrounded; sagacious men have it constructed of the resplendent radiance of the flood."
+      }
+     ]
     },
     {
      "id": "fm-s43",
@@ -2700,7 +3155,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fourth eagle:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "On the fell I know a warrior maid to sleep, over her waves the linden's bane. Ygg whilom stuck a sleep-thorn in the robe of the maid who would heroes choose."
+      }
+     ]
     },
     {
      "id": "fm-s44",
@@ -2754,7 +3220,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thou, youth! mayest see the helmed maiden, her whom Vingskornir from battle bore. May not Sigrdrifa's slumber break the son of warriors, against the Norns' decrees."
+      }
+     ]
     },
     {
      "id": "fm-p7",
@@ -2781,7 +3253,13 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_draft": true,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd rode along Fafnir's track to his lair, which he found open. The doors and door-posts were of iron; of iron also were all the beams in the house; but the treasure was buried in the earth. Sigurd found there a great quantity of gold, and filled two chests with it. He took thence the Œgis-helm, a golden corslet, the sword named Hrotti, and many precious things, all which he laid on Grani; but the horse would not proceed until Sigurd had mounted on his back."
+      }
+     ]
     }
    ],
    "notes": [

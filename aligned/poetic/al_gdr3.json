@@ -35,7 +35,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Atli had a serving-woman named Herkia, who had been his concubine. She informed Atli that she had seen Thiodrek and Gudrun together; whereat Atli was much afflicted. Then Gudrun said:"
+      }
+     ]
     },
     {
      "id": "gdr3-s1",
@@ -89,7 +95,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "What ails thee ever, Atli! Budli's son! Hast thou sorrow in thy heart? Why never laughest thou? To thy jarls it would seem more desirable, that thou with men wouldst talk, and on me wouldst look."
+      }
+     ]
     },
     {
      "id": "gdr3-s2",
@@ -154,7 +166,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Atli:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "It grieves me, Gudrun! Giuki's daughter! that in my palace here, Herkia has said, that thou and Thiodrek have under one covering slept, and wantonly been in the linen wrapt."
+      }
+     ]
     },
     {
      "id": "gdr3-s3",
@@ -219,7 +242,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gudrun:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "For all this charge I will give my oaths by the white sacred stone, that with me and Thiodrek nothing has passed, which to man and wife only belongs;"
+      }
+     ]
     },
     {
      "id": "gdr3-s4",
@@ -273,7 +307,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Save that I embraced the prince of armies, the honoured king, a single time. Other were our cogitations, when sorrowful we two sat to converse."
+      }
+     ]
     },
     {
      "id": "gdr3-s5",
@@ -327,7 +367,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hither came Thiodrek, with thirty warriors; now there lives not one of those thirty men. Surround me with thy brothers, and with mailed warriors; surround me with all thy noblest kinsmen."
+      }
+     ]
     },
     {
      "id": "gdr3-s6",
@@ -419,7 +465,17 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Send to Saxi the Southmen's prince, he can hallow the boiling cauldron.\""
+      },
+      {
+       "t": "p",
+       "s": "Seven hundred men entered the hall, ere in the cauldron the queen dipt her hand."
+      }
+     ]
     },
     {
      "id": "gdr3-s8",
@@ -484,7 +540,13 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.32
+     "s_en": 0.32,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"Now Gunnar comes not, nor call I Hogni: I shall not see again my loved brothers: with his sword would Hogni such wrong avenge: now I must myself purify from crime.\""
+      }
+     ]
     },
     {
      "id": "gdr3-s9",
@@ -540,7 +602,13 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_draft": true,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "She to the bottom, plunged her snow-white hand, and up she drew the precious stones. \"See now, ye men! I am proved guiltless in holy wise, boil the vessel as it may.\""
+      }
+     ]
     },
     {
      "id": "gdr3-s10",
@@ -594,7 +662,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Laughed then Atli's heart within his breast, when he unscathed beheld the hand of Gudrun. \"Now must Herkia to the cauldron go, she who Gudrun had hoped to injure.\" No one has misery seen who saw not that, how the hand there of Herkia was burnt. They then the woman led to a foul slough. So were Gudrun's wrongs avenged."
+      }
+     ]
     },
     {
      "id": "gdr3-s11",

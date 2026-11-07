@@ -81,7 +81,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "All door-ways, before going forward, should be looked to; for difficult it is to know where foes may sit within a dwelling."
+      }
+     ]
     },
     {
      "id": "hav-s2",
@@ -146,7 +152,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.978
+     "is_nu_sim": 0.978,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Givers, hail! A guest is come in: where shall he sit? In much haste is he, who on the ways has to try his luck."
+      }
+     ]
     },
     {
      "id": "hav-s3",
@@ -211,7 +223,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.949
+     "is_nu_sim": 0.949,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fire is needful to him who is come in, and whose knees are frozen; food and raiment a man requires, wheo'er the fell has travelled."
+      }
+     ]
     },
     {
      "id": "hav-s4",
@@ -276,7 +294,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.976
+     "is_nu_sim": 0.976,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Water to him is needful who for refection comes, a towel and hospitable invitation, a good reception; if he can get it, discourse and answer."
+      }
+     ]
     },
     {
      "id": "hav-s5",
@@ -341,7 +365,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Wit is needful to him who travels far: at home all is easy. A laughing-stock is he who nothing knows, and with the instructed sits."
+      }
+     ]
     },
     {
      "id": "hav-s6",
@@ -417,7 +447,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.997
+     "is_nu_sim": 0.997,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Of his understanding no one should be proud, but rather in conduct cautious. When the prudent and taciturn come to a dwelling, harm seldom befalls the cautious; for a firmer friend no man ever gets than great sagacity."
+      }
+     ]
     },
     {
      "id": "hav-s7",
@@ -482,7 +518,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.996
+     "is_nu_sim": 0.996,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A wary guest, who to refection comes, keeps a cautious silence, with his ears listens, and with his eyes observes: so explores every prudent man."
+      }
+     ]
     },
     {
      "id": "hav-s8",
@@ -547,7 +589,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.96
+     "is_nu_sim": 0.96,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "He is happy, who for himself obtains fame and kind words: less sure is that which a man must have in another's breast."
+      }
+     ]
     },
     {
      "id": "hav-s9",
@@ -612,7 +660,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.971
+     "is_nu_sim": 0.971,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "He is happy, who in himself possesses fame and wit while living; for bad counsels have oft been received from another's breast."
+      }
+     ]
     },
     {
      "id": "hav-s10",
@@ -677,7 +731,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.973
+     "is_nu_sim": 0.973,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A better burthen no man bears on the way than much good sense; that is thought better than riches in a strange place; such is the recourse of the indigent."
+      }
+     ]
     },
     {
      "id": "hav-s11",
@@ -742,7 +802,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.981
+     "is_nu_sim": 0.981,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A worse provision on the way he cannot carry than too much beer-bibbing; so good is not, as it is said, beer for the sons of men."
+      }
+     ]
     },
     {
      "id": "hav-s12",
@@ -807,7 +873,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.979
+     "is_nu_sim": 0.979,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A worse provision no man can take from table than too much beer-bibbing: for the more he drinks the less control he has of his own mind."
+      }
+     ]
     },
     {
      "id": "hav-s13",
@@ -872,7 +944,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.983
+     "is_nu_sim": 0.983,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Oblivion's heron 'tis called that over potations hovers; he steals the minds of men. With this bird's pinions I was fettered in Gunnlods dwelling."
+      }
+     ]
     },
     {
      "id": "hav-s14",
@@ -937,7 +1015,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.952
+     "is_nu_sim": 0.952,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Drunk I was, I was over-drunk, at that cunning Fialar's. It's the best drunkenness, when every one after it regains his reason."
+      }
+     ]
     },
     {
      "id": "hav-s15",
@@ -1002,7 +1086,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.995
+     "is_nu_sim": 0.995,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Taciturn and prudent, and in war daring, should a king's children be; joyous and liberal every one should be until his hour of death."
+      }
+     ]
     },
     {
      "id": "hav-s16",
@@ -1067,7 +1157,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.969
+     "is_nu_sim": 0.969,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A cowardly man thinks he will ever live, if warfare he avoids; but old age will give him no peace, though spears may spare him."
+      }
+     ]
     },
     {
      "id": "hav-s17",
@@ -1132,7 +1228,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.982
+     "is_nu_sim": 0.982,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A fool gapes when to a house he comes, to himself mutters or is silent; but all at once, if he gets drink, then is the man's mind displayed."
+      }
+     ]
     },
     {
      "id": "hav-s18",
@@ -1197,7 +1299,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.961
+     "is_nu_sim": 0.961,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "He alone knows who wanders wide, and has much experienced, by what disposition each man is ruled, who common sense possesses."
+      }
+     ]
     },
     {
      "id": "hav-s19",
@@ -1262,7 +1370,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.976
+     "is_nu_sim": 0.976,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Let a man hold the cup, yet of the mead drink moderately, speak sensibly or be silent. As of a fault no man will admonish thee, if thou goest betimes to sleep."
+      }
+     ]
     },
     {
      "id": "hav-s20",
@@ -1327,7 +1441,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.995
+     "is_nu_sim": 0.995,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A greedy man, if he be not moderate, eats to his mortal sorrow. Oftentimes his belly draws laughter on a silly man, who among the prudent comes."
+      }
+     ]
     },
     {
      "id": "hav-s21",
@@ -1392,7 +1512,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.956
+     "is_nu_sim": 0.956,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Cattle know when to go home, and then from grazing cease; but a foolish man never knows his stomach's measure."
+      }
+     ]
     },
     {
      "id": "hav-s22",
@@ -1457,7 +1583,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A miserable man, and ill-conditioned, sneers at every thing: one thing he knows not, which he ought to know, that he is not free from faults."
+      }
+     ]
     },
     {
      "id": "hav-s23",
@@ -1522,7 +1654,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.986
+     "is_nu_sim": 0.986,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A foolish man is all night awake, pondering over everything; he then grows tired; and when morning comes, all is lament as before."
+      }
+     ]
     },
     {
      "id": "hav-s24",
@@ -1587,7 +1725,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.988
+     "is_nu_sim": 0.988,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A foolish man thinks all who on him smile to be his friends; he feels it not, although they speak ill of him, when he sits among the clever."
+      }
+     ]
     },
     {
      "id": "hav-s25",
@@ -1652,7 +1796,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A foolish man thinks all who speak him fair to be his friends; but he will find, if into court he comes, that he has few advocates."
+      }
+     ]
     },
     {
      "id": "hav-s26",
@@ -1717,7 +1867,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.992
+     "is_nu_sim": 0.992,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A foolish man thinks he knows everything if placed in unexpected difficulty; but he knows not what to answer, if to the test he is put."
+      }
+     ]
     },
     {
      "id": "hav-s27",
@@ -1793,7 +1949,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.968
+     "is_nu_sim": 0.968,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A foolish man, who among people comes, had best be silent; for no one knows that he knows nothing, unless he talks too much. He who previously knew nothing will still know nothing, talk he ever so much."
+      }
+     ]
     },
     {
      "id": "hav-s28",
@@ -1858,7 +2020,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.964
+     "is_nu_sim": 0.964,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "He thinks himself wise, who can ask questions and converse also; conceal his ignorance no one can, because it circulates among men."
+      }
+     ]
     },
     {
      "id": "hav-s29",
@@ -1923,7 +2091,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.98
+     "is_nu_sim": 0.98,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "He utters too many futile words who is never silent; a garrulous tongue, if it be not checked, sings often to its own harm."
+      }
+     ]
     },
     {
      "id": "hav-s30",
@@ -1988,7 +2162,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.996
+     "is_nu_sim": 0.996,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For a gazing-stock no man shall have another, although he come a stranger to his house. Many a one thinks himself wise, if he is not questioned, and can sit in a dry habit."
+      }
+     ]
     },
     {
      "id": "hav-s31",
@@ -2053,7 +2233,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.974
+     "is_nu_sim": 0.974,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Clever thinks himself the guest who jeers a guest, if he takes to flight. Knows it not certainly he who prates at meat, whether he babbles among foes."
+      }
+     ]
     },
     {
      "id": "hav-s32",
@@ -2118,7 +2304,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Many men are mutually well-disposed, yet at table will torment each other. That strife will ever be; guest will guest irritate."
+      }
+     ]
     },
     {
      "id": "hav-s33",
@@ -2183,7 +2375,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.991
+     "is_nu_sim": 0.991,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Early meals a man should often take, unless to a friend's house he goes; else he will sit and mope, will seem half-famished, and can of few things inquire."
+      }
+     ]
     },
     {
      "id": "hav-s34",
@@ -2248,7 +2446,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.995
+     "is_nu_sim": 0.995,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Long is and indirect the way to a bad friend's, though by the road he dwell; but to a good friend's the paths lie direct, though he be far away."
+      }
+     ]
     },
     {
      "id": "hav-s35",
@@ -2313,7 +2517,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A guest should depart, not always stay in one place. The welcome becomes unwelcome, if he too long continues in another's house."
+      }
+     ]
     },
     {
      "id": "hav-s36",
@@ -2378,7 +2588,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.981
+     "is_nu_sim": 0.981,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "One's own house is best, small though it be; at home is every one his own master. Though he but two goats possess, and a straw-thatched cot, even that is better than begging."
+      }
+     ]
     },
     {
      "id": "hav-s37",
@@ -2443,7 +2659,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.99
+     "is_nu_sim": 0.99,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "One's own house is best, small though it be, at home is every one his own master. Bleeding at heart is he, who has to ask for food at every meal-tide."
+      }
+     ]
     },
     {
      "id": "hav-s38",
@@ -2508,7 +2730,17 @@
        ]
       }
      ],
-     "is_nu_sim": 0.983
+     "is_nu_sim": 0.983,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Leaving in the field his arms, let no man go a foot's length forward; for it is hard to know when on the way a man may need his weapon."
+      },
+      {
+       "t": "p",
+       "s": "I have never found a man so bountiful, or so hospitable that he refused a present; or of his property so liberal that he scorned a recompense."
+      }
+     ]
     },
     {
      "id": "hav-s39",
@@ -2573,7 +2805,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.889
+     "is_nu_sim": 0.889,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Of the property which he has gained no man should suffer need; for the hated oft is spared what for the dear was destined. Much goes worse than is expected."
+      }
+     ]
     },
     {
      "id": "hav-s40",
@@ -2703,7 +2941,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.985
+     "is_nu_sim": 0.985,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "With arms and vestments friends should each other gladden, those which are in themselves most sightly. Givers and requiters are longest friends, if all [else] goes well."
+      }
+     ]
     },
     {
      "id": "hav-s42",
@@ -2768,7 +3012,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.991
+     "is_nu_sim": 0.991,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "To his friend a man should be a friend, and gifts with gifts requite. Laughter with laughter men should receive, but leasing with lying."
+      }
+     ]
     },
     {
      "id": "hav-s43",
@@ -2833,7 +3083,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.99
+     "is_nu_sim": 0.99,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "To his friend a man should be a friend; to him and to his friend; but of his foe no man shall the friend's friend be."
+      }
+     ]
     },
     {
      "id": "hav-s44",
@@ -2898,7 +3154,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.985
+     "is_nu_sim": 0.985,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Know, if thou hast a friend whom thou fully trustest, and from whom thou woulds't good derive, thou shouldst blend thy mind with his, and gifts exchange, and often go to see him."
+      }
+     ]
     },
     {
      "id": "hav-s45",
@@ -2963,7 +3225,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.97
+     "is_nu_sim": 0.97,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "If thou hast another, whom thou little trustest, yet wouldst good from him derive, thou shouldst speak him fair, but think craftily, and leasing pay with lying."
+      }
+     ]
     },
     {
      "id": "hav-s46",
@@ -3028,7 +3296,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.984
+     "is_nu_sim": 0.984,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "But of him yet further, whom thou little trustest, and thou suspectest his affection; before him thou shouldst laugh, and contrary to thy thoughts speak: requital should the gift resemble."
+      }
+     ]
     },
     {
      "id": "hav-s47",
@@ -3093,7 +3367,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.978
+     "is_nu_sim": 0.978,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I was once young, I was journeying alone, and lost my way; rich I thought myself, when I met another. Man is the joy of man."
+      }
+     ]
     },
     {
      "id": "hav-s48",
@@ -3158,7 +3438,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.991
+     "is_nu_sim": 0.991,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Liberal and brave men live best, they seldom cherish sorrow; but a base-minded man dreads everything; the niggardly is uneasy even at gifts."
+      }
+     ]
     },
     {
      "id": "hav-s49",
@@ -3223,7 +3509,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.962
+     "is_nu_sim": 0.962,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "My garments in a field I gave away to two wooden men: heroes they seemed to be, when they got cloaks: exposed to insult is a naked man."
+      }
+     ]
     },
     {
      "id": "hav-s50",
@@ -3288,7 +3580,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A tree withers that on a hill-top stands; protects it neither bark nor leaves: such is the man whom no one favours: why should he live long?"
+      }
+     ]
     },
     {
      "id": "hav-s51",
@@ -3353,7 +3651,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.978
+     "is_nu_sim": 0.978,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hotter than fire love for five days burns between false friends; but is quenched when the sixth day comes, and friendship is all impaired."
+      }
+     ]
     },
     {
      "id": "hav-s52",
@@ -3418,7 +3722,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Something great is not [always] to be given, praise is often for a trifle bought. With half a loaf and a tilted vessel I got myself a comrade."
+      }
+     ]
     },
     {
      "id": "hav-s53",
@@ -3483,7 +3793,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.984
+     "is_nu_sim": 0.984,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Little are the sand-grains, little the wits, little the minds of [some] men; for all men are not wise alike: men are everywhere by halves."
+      }
+     ]
     },
     {
      "id": "hav-s54",
@@ -3548,7 +3864,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.989
+     "is_nu_sim": 0.989,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Moderately wise should each one be, but never over-wise: of those men the lives are fairest, who know much well."
+      }
+     ]
     },
     {
      "id": "hav-s55",
@@ -3613,7 +3935,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.996
+     "is_nu_sim": 0.996,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Moderately wise should each one be, but never over-wise; for a wise man's heart is seldom glad, if he is all-wise who owns it."
+      }
+     ]
     },
     {
      "id": "hav-s56",
@@ -3678,7 +4006,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.99
+     "is_nu_sim": 0.99,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Moderately wise should each one be, but never over-wise. His destiny let know no man beforehand; his mind will be freest from care."
+      }
+     ]
     },
     {
      "id": "hav-s57",
@@ -3743,7 +4077,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.979
+     "is_nu_sim": 0.979,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Brand burns from brand until it is burnt out; fire is from fire quickened. Man to man becomes known by speech, but a fool by his bashful silence."
+      }
+     ]
     },
     {
      "id": "hav-s58",
@@ -3808,7 +4148,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.981
+     "is_nu_sim": 0.981,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "He should early rise, who another's property or life desires to have. Seldom a sluggish wolf gets prey, or a sleeping man victory."
+      }
+     ]
     },
     {
      "id": "hav-s59",
@@ -3873,7 +4219,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.984
+     "is_nu_sim": 0.984,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Early should rise he who has few workers, and go his work to see to; greatly is he retarded who sleeps the morn away. Wealth half depends on energy."
+      }
+     ]
     },
     {
      "id": "hav-s60",
@@ -3938,7 +4290,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.984
+     "is_nu_sim": 0.984,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Of dry planks and roof-shingles a man knows the measure; of the fire-wood that may suffice, both measure and time."
+      }
+     ]
     },
     {
      "id": "hav-s61",
@@ -4007,7 +4365,17 @@
        ]
       }
      ],
-     "is_nu_sim": 0.982
+     "is_nu_sim": 0.982,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Washed and refected let a man ride to the Thing, although his garments be not too good; of his shoes and breeches let no one be ashamed, nor of his horse, although he have not a good one."
+      },
+      {
+       "t": "p",
+       "s": "Inquire and impart should every man of sense, who will be accounted sage. Let one only know, a second may not; if three, all the world knows."
+      }
+     ]
     },
     {
      "id": "hav-s62",
@@ -4072,7 +4440,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gasps and gapes, when to the sea he comes, the eagle over old ocean; so is a man, who among many comes, and has few advocates."
+      }
+     ]
     },
     {
      "id": "hav-s63",
@@ -4202,7 +4576,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.986
+     "is_nu_sim": 0.986,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "His power should every sagacious man use with discretion; for he will find, when among the bold he comes, that no one alone is doughtiest."
+      }
+     ]
     },
     {
      "id": "hav-s65",
@@ -4260,7 +4640,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.922
+     "is_nu_sim": 0.922,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Circumspect and reserved every man should be, and wary in trusting friends. Of the words that a man says to another he often pays the penalty."
+      }
+     ]
     },
     {
      "id": "hav-s66",
@@ -4325,7 +4711,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.991
+     "is_nu_sim": 0.991,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Much too early I came to many places, but too late to others: the beer was drunk, or not ready: the disliked seldom hits the moment."
+      }
+     ]
     },
     {
      "id": "hav-s67",
@@ -4390,7 +4782,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.956
+     "is_nu_sim": 0.956,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Here and there I should have been invited, if I a meal had needed; or two hams had hung, at that true friend's, where of one I had eaten."
+      }
+     ]
     },
     {
      "id": "hav-s68",
@@ -4455,7 +4853,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fire is best among the sons of men, and the sight of the sun, if his health a man can have, with a life free from vice."
+      }
+     ]
     },
     {
      "id": "hav-s69",
@@ -4520,7 +4924,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.992
+     "is_nu_sim": 0.992,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "No man lacks everything, although his health be bad: one in his sons is happy, one in his kin, one in abundant wealth, one in his good works."
+      }
+     ]
     },
     {
      "id": "hav-s70",
@@ -4585,7 +4995,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.952
+     "is_nu_sim": 0.952,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "It is better to live, even to live miserably; a living man can always get a cow. I saw fire consume the rich man's property, and death stood without his door."
+      }
+     ]
     },
     {
      "id": "hav-s71",
@@ -4650,7 +5066,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.991
+     "is_nu_sim": 0.991,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "The halt can ride on horseback, the one-handed drive cattle; the deaf fight and be useful: to be blind is better than to be burnt: no one gets good from a corpse."
+      }
+     ]
     },
     {
      "id": "hav-s72",
@@ -4715,7 +5137,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.992
+     "is_nu_sim": 0.992,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A son is better, even if born late, after his father's departure. Gravestones seldom stand by the way-side unless raised by a kinsman to a kinsman."
+      }
+     ]
     },
     {
      "id": "hav-s73",
@@ -4772,7 +5200,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.98
+     "is_nu_sim": 0.98,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Two are adversaries: the tongue is the bane of the head: under every cloak I expect a hand. * * *"
+      }
+     ]
     },
     {
      "id": "hav-s74",
@@ -4841,7 +5275,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.96
+     "is_nu_sim": 0.96,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "At night is joyful he who is sure of travelling entertainment. [A ship's yards are short.] Variable is an autumn night. Many are the weather's changes in five days, but more in a month."
+      }
+     ]
     },
     {
      "id": "hav-s75",
@@ -4906,7 +5346,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.953
+     "is_nu_sim": 0.953,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "He [only] knows not who knows nothing, that many a one apes another. One man is rich, another poor: let him not be thought blameworthy."
+      }
+     ]
     },
     {
      "id": "hav-s76",
@@ -5036,7 +5482,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.989
+     "is_nu_sim": 0.989,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Cattle die, kindred die, we ourselves also die; but the fair fame never dies of him who has earned it."
+      }
+     ]
     },
     {
      "id": "hav-s78",
@@ -5101,7 +5553,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.991
+     "is_nu_sim": 0.991,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Cattle die, kindred die, we ourselves also die; but I know one thing that never dies,—judgment on each one dead."
+      }
+     ]
     },
     {
      "id": "hav-s79",
@@ -5168,7 +5626,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.988
+     "is_nu_sim": 0.988,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Full storehouses I saw at Dives' sons': now bear they the beggar's staff. Such are riches; as is the twinkling of an eye: of friends they are most fickle."
+      }
+     ]
     },
     {
      "id": "hav-s80",
@@ -5240,7 +5704,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.981
+     "is_nu_sim": 0.981,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A foolish man, if he acquires wealth or woman's love, pride grows within him, but wisdom never: he goes on more and more arrogant."
+      }
+     ]
     },
     {
      "id": "hav-s81",
@@ -5304,7 +5774,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "At eve the day is to be praised, a woman after she is burnt, a sword after it is proved, a maid after she is married, ice after it has passed away, beer after it is drunk."
+      }
+     ]
     },
     {
      "id": "hav-s82",
@@ -5375,7 +5851,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "In the wind one should hew wood, in a breeze row out to sea, in the dark talk with a lass: many are the eyes of day. In a ship voyages are to be made, but a shield is for protection, a sword for striking, but a damsel for a kiss."
+      }
+     ]
     },
     {
      "id": "hav-s83",
@@ -5446,7 +5928,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "By the fire one should drink beer, on the ice slide; buy a horse that is lean, a sword that is rusty; feed a horse at home, but a dog at the farm."
+      }
+     ]
     },
     {
      "id": "hav-s84",
@@ -5519,7 +6007,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.976
+     "is_nu_sim": 0.976,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "In a maiden's words no one should place faith, nor in what a woman says; for on a turning wheel have their hearts been formed, and guile in their breasts been laid;"
+      }
+     ]
     },
     {
      "id": "hav-s85",
@@ -5590,7 +6084,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.991
+     "is_nu_sim": 0.991,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "In a creaking bow, a burning flame, a yawning wolf, a chattering crow, a grunting swine, a rootless tree, a waxing wave, a boiling kettle,"
+      }
+     ]
     },
     {
      "id": "hav-s86",
@@ -5661,7 +6161,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A flying dart, a falling billow, a one night's ice, a coiled serpent, a woman's bed-talk, or a broken sword, a bear's play, or a royal child,"
+      }
+     ]
     },
     {
      "id": "hav-s87",
@@ -5718,7 +6224,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A sick calf, a self-willed thrall, a flattering prophetess, a corpse newly slain, [a serene sky, a laughing lord, a barking dog, and a harlot's grief];"
+      }
+     ]
     },
     {
      "id": "hav-s88",
@@ -5790,7 +6302,17 @@
        ]
       }
      ],
-     "is_nu_sim": 0.985
+     "is_nu_sim": 0.985,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "An early sown field let no one trust, nor prematurely in a son: weather rules the field, and wit the son, each of which is doubtful;"
+      },
+      {
+       "t": "p",
+       "s": "A brother's murderer, though on the high road met, a half-burnt house, an over-swift horse, (a horse is useless, if a leg be broken), no man is so confiding as to trust any of these."
+      }
+     ]
     },
     {
      "id": "hav-s89",
@@ -5953,7 +6475,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Such is the love of women, who falsehood meditate, as if one drove not rough-shod, on slippery ice, a spirited two-years old and unbroken horse; or as in a raging storm a helmless ship is beaten; or as if the halt were set to catch a reindeer in the thawing fell."
+      }
+     ]
     },
     {
      "id": "hav-s91",
@@ -6018,7 +6546,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Openly I now speak, because I both sexes know: unstable are men's minds towards women; 'tis then we speak most fair when we most falsely think: that deceives even the cautious."
+      }
+     ]
     },
     {
      "id": "hav-s92",
@@ -6083,7 +6617,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.995
+     "is_nu_sim": 0.995,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Fair shall speak, and money offer, who would obtain a woman's love. Praise the form of a fair damsel; he gets who courts her."
+      }
+     ]
     },
     {
      "id": "hav-s93",
@@ -6148,7 +6688,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.985
+     "is_nu_sim": 0.985,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "At love should no one ever wonder in another: a beauteous countenance oft captivates the wise, which captivates not the foolish."
+      }
+     ]
     },
     {
      "id": "hav-s94",
@@ -6213,7 +6759,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.987
+     "is_nu_sim": 0.987,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Let no one wonder at another's folly, it is the lot of many. All-powerful desire makes of the sons of men fools even of the wise."
+      }
+     ]
     },
     {
      "id": "hav-s95",
@@ -6278,7 +6830,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.983
+     "is_nu_sim": 0.983,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "The mind only knows what lies near the heart, that alone is conscious of our affections. No disease is worse to a sensible man than not to be content with himself."
+      }
+     ]
     },
     {
      "id": "hav-s96",
@@ -6343,7 +6901,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.988
+     "is_nu_sim": 0.988,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "That I experienced, when in the reeds I sat, awaiting my delight. Body and soul to me was that discreet maiden: nevertheless I possess her not."
+      }
+     ]
     },
     {
      "id": "hav-s97",
@@ -6408,7 +6972,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.985
+     "is_nu_sim": 0.985,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Billing's lass on her couch I found, sun-bright, sleeping. A prince's joy to me seemed naught, if not with that form to live."
+      }
+     ]
     },
     {
      "id": "hav-s98",
@@ -6473,7 +7043,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"Yet nearer eve must thou, Odin, come, if thou wilt talk the maiden over; all will be disastrous, unless we alone are privy to such misdeed.\""
+      }
+     ]
     },
     {
      "id": "hav-s99",
@@ -6538,7 +7114,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.956
+     "is_nu_sim": 0.956,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I returned, thinking to love, at her wise desire. I thought I should obtain her whole heart and love."
+      }
+     ]
     },
     {
      "id": "hav-s100",
@@ -6603,7 +7185,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.971
+     "is_nu_sim": 0.971,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "When next I came the bold warriors were all awake, with lights burning, and bearing torches: thus was the way to pleasure closed."
+      }
+     ]
     },
     {
      "id": "hav-s101",
@@ -6668,7 +7256,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.947
+     "is_nu_sim": 0.947,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "But at the approach of morn, when again I came, the household all was sleeping; the good damsel's dog alone I found tied to the bed"
+      }
+     ]
     },
     {
      "id": "hav-s102",
@@ -6751,7 +7345,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.975
+     "is_nu_sim": 0.975,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Many a fair maiden, when rightly known, towards men is fickle: that I experienced, when that discreet maiden I strove to seduce: contumely of every kind that wily girl heaped upon me; nor of that damsel gained I aught."
+      }
+     ]
     },
     {
      "id": "hav-s103",
@@ -6828,7 +7428,17 @@
        ]
       }
      ],
-     "is_nu_sim": 0.984
+     "is_nu_sim": 0.984,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "At home let a man be cheerful, and towards a guest liberal; of wise conduct he should be, of good memory and ready speech; if much knowledge he desires, he must often talk on good."
+      },
+      {
+       "t": "p",
+       "s": "Fimbulfambi he is called who little has to say: such is the nature of the simple."
+      }
+     ]
     },
     {
      "id": "hav-s104",
@@ -6893,7 +7503,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.98
+     "is_nu_sim": 0.98,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "The old Jotun I sought; now I am come back: little got I there by silence; in many words I spoke to my advantage in Suttung's halls."
+      }
+     ]
     },
     {
      "id": "hav-s105",
@@ -6961,7 +7577,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.974
+     "is_nu_sim": 0.974,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gunnlod gave me, on her golden seat, a draught of the precious mead; a bad recompense I afterwards made her, for her whole soul, her fervent love."
+      }
+     ]
     },
     {
      "id": "hav-s106",
@@ -7027,7 +7649,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.98
+     "is_nu_sim": 0.98,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Rati's mouth I caused to make a space, and to gnaw the rock; over and under me were the Jotun's ways: thus I my head did peril."
+      }
+     ]
     },
     {
      "id": "hav-s107",
@@ -7092,7 +7720,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.985
+     "is_nu_sim": 0.985,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Of a well-assumed form I made good use: few things fail the wise; for Odhrærir is now come up to men's earthly dwellings."
+      }
+     ]
     },
     {
      "id": "hav-s108",
@@ -7157,7 +7791,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.975
+     "is_nu_sim": 0.975,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "'Tis to me doubtful that I could have come from the Jotun's courts, had not Gunnlod aided me. that good damsel, over whom I laid my arm."
+      }
+     ]
     },
     {
      "id": "hav-s109",
@@ -7226,7 +7866,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.984
+     "is_nu_sim": 0.984,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "On the day following came the Hrim-thursar, to learn something of the High One, in the High One's hall: after Bolverk they inquired, whether he with the gods were come, or Suttung had destroyed him?"
+      }
+     ]
     },
     {
      "id": "hav-s110",
@@ -7298,7 +7944,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Odin, I believe, a ring-oath gave. Who in his faith will trust? Suttung defrauded, of his drink bereft, and Gunnlod made to weep!"
+      }
+     ]
     },
     {
      "id": "hav-s111",
@@ -7383,7 +8035,17 @@
        ]
       }
      ],
-     "is_nu_sim": 0.957
+     "is_nu_sim": 0.957,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Time 'tis to discourse from the preacher's chair. By the well of Urd I silent sat, I saw and meditated, I listened to men's words."
+      },
+      {
+       "t": "p",
+       "s": "Of runes I heard discourse, and of things divine, nor of graving them were they silent, nor of sage counsels, at the High One's hall. In the High One's hall. I thus heard say:"
+      }
+     ]
     },
     {
      "id": "hav-s112",
@@ -7452,7 +8114,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.97
+     "is_nu_sim": 0.97,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, Loddfafnir, to take advice: thou wilt profit if thou takest it. Rise not at night, unless to explore, or art compelled to go out."
+      }
+     ]
     },
     {
      "id": "hav-s113",
@@ -7521,7 +8189,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.974
+     "is_nu_sim": 0.974,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, Loddfafnir, to take advice, thou wilt profit if thou takest it. In an enchantress's embrace thou mayest not sleep, so that in her arms she clasp thee."
+      }
+     ]
     },
     {
      "id": "hav-s114",
@@ -7586,7 +8260,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.991
+     "is_nu_sim": 0.991,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "She will be the cause that thou carest not for Thing or prince's words; food thou wilt shun and human joys; sorrowful wilt thou go to sleep."
+      }
+     ]
     },
     {
      "id": "hav-s115",
@@ -7655,7 +8335,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.969
+     "is_nu_sim": 0.969,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, etc. Another's wife entice thou never to secret converse."
+      }
+     ]
     },
     {
      "id": "hav-s116",
@@ -7724,7 +8410,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.983
+     "is_nu_sim": 0.983,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, etc. By fell or firth if thou have to travel, provide thee well with food."
+      }
+     ]
     },
     {
      "id": "hav-s117",
@@ -7804,7 +8496,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.987
+     "is_nu_sim": 0.987,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, etc. A bad man let thou never know thy misfortunes; for from a bad man thou never wilt obtain a return for thy good will."
+      }
+     ]
     },
     {
      "id": "hav-s118",
@@ -7869,7 +8567,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.97
+     "is_nu_sim": 0.97,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I saw mortally wound a man a wicked woman's words; a false tongue caused, his death, and most unrighteously."
+      }
+     ]
     },
     {
      "id": "hav-s119",
@@ -7949,7 +8653,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.98
+     "is_nu_sim": 0.98,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, etc. If thou knowest thou hast a friend, whom thou well canst trust, go oft to visit him; for with brushwood over-grown, and with high grass, is the way that no one treads."
+      }
+     ]
     },
     {
      "id": "hav-s120",
@@ -8018,7 +8728,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.987
+     "is_nu_sim": 0.987,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, etc. A good man attract to thee in pleasant converse; and salutary speech learn while thou livest."
+      }
+     ]
     },
     {
      "id": "hav-s121",
@@ -8098,7 +8814,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.99
+     "is_nu_sim": 0.99,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, etc. With thy friend be thou never first to quarrel. Care gnaws the heart, if thou to no one canst thy whole mind disclose."
+      }
+     ]
     },
     {
      "id": "hav-s122",
@@ -8167,7 +8889,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.966
+     "is_nu_sim": 0.966,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, etc. Words thou never shouldst exchange with a witless fool;"
+      }
+     ]
     },
     {
      "id": "hav-s123",
@@ -8232,7 +8960,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.958
+     "is_nu_sim": 0.958,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For from an ill-conditioned man thou wilt never get a return for good; but a good man will bring thee favour by his praise."
+      }
+     ]
     },
     {
      "id": "hav-s124",
@@ -8298,7 +9032,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.992
+     "is_nu_sim": 0.992,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "There is a mingling of affection, where one can tell another all his mind. Everything is better than being with the deceitful. He is not another's friend who ever says as he says."
+      }
+     ]
     },
     {
      "id": "hav-s125",
@@ -8371,7 +9111,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.939
+     "is_nu_sim": 0.939,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, etc. Even in three words quarrel not with a worse man: often the better yields, when the worse strikes."
+      }
+     ]
     },
     {
      "id": "hav-s126",
@@ -8451,7 +9197,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.988
+     "is_nu_sim": 0.988,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, etc. Be not a shoemaker, nor a shaftmaker, unless for thyself it be; for a shoe if ill made, or a shaft if crooked, will call down evil on thee."
+      }
+     ]
     },
     {
      "id": "hav-s127",
@@ -8520,7 +9272,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.958
+     "is_nu_sim": 0.958,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, etc. Wherever of injury thou knowest, regard that injury as thy own; and give to thy foes no peace."
+      }
+     ]
     },
     {
      "id": "hav-s128",
@@ -8589,7 +9347,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.986
+     "is_nu_sim": 0.986,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, etc. Rejoiced at evil be thou never; but let good give thee pleasure."
+      }
+     ]
     },
     {
      "id": "hav-s129",
@@ -8665,7 +9429,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.974
+     "is_nu_sim": 0.974,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, etc. In a battle look not up, (like swine the sons of men then become) that men may not fascinate thee."
+      }
+     ]
     },
     {
      "id": "hav-s130",
@@ -8745,7 +9515,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.991
+     "is_nu_sim": 0.991,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "If thou wilt induce a good woman to pleasant converse, thou must promise fair, and hold to it: no one turns from good if it can be got."
+      }
+     ]
     },
     {
      "id": "hav-s131",
@@ -8824,7 +9600,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.983
+     "is_nu_sim": 0.983,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I enjoin thee to be wary, but not over wary; as drinking be thou most wary, and with another's wife; and thirdly, that thieves delude thee not."
+      }
+     ]
     },
     {
      "id": "hav-s132",
@@ -8893,7 +9675,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.985
+     "is_nu_sim": 0.985,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "With insult or derision treat thou never a guest or wayfarer. They often little know, who sit within, of what race they are who come."
+      }
+     ]
     },
     {
      "id": "hav-s133",
@@ -8958,7 +9746,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.974
+     "is_nu_sim": 0.974,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Vices and virtues the sons of mortals bear in their breasts mingled; no one is so good that no failing attends him, nor so bad as to be good for nothing."
+      }
+     ]
     },
     {
      "id": "hav-s134",
@@ -9046,7 +9840,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.992
+     "is_nu_sim": 0.992,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "At a hoary speaker laugh thou never; often is good that which the aged utter, oft from a shriveled hide discreet words issue; from those whose skin is pendent and decked with scars, and who go tottering among the vile."
+      }
+     ]
     },
     {
      "id": "hav-s135",
@@ -9115,7 +9915,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.979
+     "is_nu_sim": 0.979,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, etc. Rail not at a guest, nor from thy gate thrust him; treat well the indigent; they will speak well of thee."
+      }
+     ]
     },
     {
      "id": "hav-s136",
@@ -9180,7 +9986,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Strong is the bar that must be raised to admit all. Do thou give a penny, or they will call down on thee every ill in thy limbs."
+      }
+     ]
     },
     {
      "id": "hav-s137",
@@ -9277,7 +10089,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.975
+     "is_nu_sim": 0.975,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I counsel thee, etc. Wherever thou beer drinkest, invoke to thee the power of earth; for earth is good against drink, fire for distempers, the oak for constipation, a corn-ear for sorcery, a hall for domestic strife. In bitter hates invoke the moon; the biter for bite-injuries is good; but runes against calamity; fluid let earth absorb."
+      }
+     ]
     },
     {
      "id": "hav-s138",
@@ -9374,7 +10192,18 @@
        ]
       }
      ],
-     "is_nu_sim": 0.99
+     "is_nu_sim": 0.99,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Odin's Rune-song:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I know that I hung, on a wind-rocked tree, nine whole nights, with a spear wounded, and to Odin offered, myself to myself; on that tree, of which no one knows from what root it springs."
+      }
+     ]
     },
     {
      "id": "hav-s139",
@@ -9439,7 +10268,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.99
+     "is_nu_sim": 0.99,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Bread no one gave me, nor a horn of drink, downward I peered, to runes applied myself, wailing learnt them, then fell down thence."
+      }
+     ]
     },
     {
      "id": "hav-s140",
@@ -9504,7 +10339,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.978
+     "is_nu_sim": 0.978,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Potent songs nine from the famed son I learned of Bolthorn, Bestla's sire, and a draught obtained of the precious mead, drawn from Odhrærir."
+      }
+     ]
     },
     {
      "id": "hav-s141",
@@ -9572,7 +10413,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Then I began to bear fruit, and to know many things, to grow and well thrive: word by word I sought out words, fact by fact I sought out facts."
+      }
+     ]
     },
     {
      "id": "hav-s142",
@@ -9641,7 +10488,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.992
+     "is_nu_sim": 0.992,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Runes thou wilt find, and explained characters, very large characters, very potent characters, which the great speaker depicted, and the high powers formed, and the powers' prince graved:"
+      }
+     ]
     },
     {
      "id": "hav-s143",
@@ -9703,7 +10556,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.985
+     "is_nu_sim": 0.985,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Odin among the Æsir, but among the Alfar, Dain, and Dvalin for the dwarfs, Asvid for the Jotuns: some I myself graved."
+      }
+     ]
     },
     {
      "id": "hav-s144",
@@ -9774,7 +10633,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Knowest thou how to grave them? knowest thou how to expound them? knowest thou how to depict them? knowest thou how to prove them? knowest thou how to pray? knowest thou how to offer? knowest thou how to send? knowest thou how to consume?"
+      }
+     ]
     },
     {
      "id": "hav-s145",
@@ -9857,7 +10722,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.955
+     "is_nu_sim": 0.955,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "'Tis better not to pray than too much offer; a gift ever looks to a return. 'Tis better not to send than too much consume. So Thund graved before the origin of men, where he ascended, to whence he afterwards came."
+      }
+     ]
     },
     {
      "id": "hav-s146",
@@ -9926,7 +10797,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Those songs I know which the king's wife knows not nor son of man. Help the first is called, for that will help thee against strifes and cares."
+      }
+     ]
     },
     {
      "id": "hav-s147",
@@ -9982,7 +10859,13 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the second I know, what the sons of men require, who will as leeches live. * * * *"
+      }
+     ]
     },
     {
      "id": "hav-s148",
@@ -10046,7 +10929,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.984
+     "is_nu_sim": 0.984,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the third I know, if I have great need to restrain my foes, the weapons' edge I deaden: of my adversaries nor arms nor wiles harm aught."
+      }
+     ]
     },
     {
      "id": "hav-s149",
@@ -10115,7 +11004,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.992
+     "is_nu_sim": 0.992,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the fourth I know, if men place bonds on my limbs, I so sing that I can walk; the fetter starts from my feet, and the manacle from my hands."
+      }
+     ]
     },
     {
      "id": "hav-s150",
@@ -10180,7 +11075,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.953
+     "is_nu_sim": 0.953,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the fifth I know, if I see a shot from a hostile hand, a shaft flying amid the host, so swift it cannot fly that I cannot arrest it, if only I get sight of it."
+      }
+     ]
     },
     {
      "id": "hav-s151",
@@ -10245,7 +11146,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.97
+     "is_nu_sim": 0.97,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the sixth I know, if one wounds me with a green tree's roots; also if a man declares hatred to me, harm shall consume them sooner than me."
+      }
+     ]
     },
     {
      "id": "hav-s152",
@@ -10310,7 +11217,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.958
+     "is_nu_sim": 0.958,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the seventh I know, if a lofty house I see blaze o'er its inmates, so furiously it shall not burn that I cannot save it. That song I can sing."
+      }
+     ]
     },
     {
      "id": "hav-s153",
@@ -10375,7 +11288,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.972
+     "is_nu_sim": 0.972,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the eighth I know, what to I all is useful to learn: where hatred grows among the sons of men—that I can quickly assuage."
+      }
+     ]
     },
     {
      "id": "hav-s154",
@@ -10440,7 +11359,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.965
+     "is_nu_sim": 0.965,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the ninth I know, if I stand in need my bark on the water to save, I can the wind on the waves allay, and the sea lull."
+      }
+     ]
     },
     {
      "id": "hav-s155",
@@ -10509,7 +11434,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.97
+     "is_nu_sim": 0.97,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the tenth I know, if I see troll-wives sporting in air, I can so operate that they will forsake their own forms, and their own minds."
+      }
+     ]
     },
     {
      "id": "hav-s156",
@@ -10582,7 +11513,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.991
+     "is_nu_sim": 0.991,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the eleventh I know, if I have to lead my ancient friends to battle, under their shields I sing, and with power they go safe to the fight, safe from the fight; safe on every side they go."
+      }
+     ]
     },
     {
      "id": "hav-s157",
@@ -10651,7 +11588,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.979
+     "is_nu_sim": 0.979,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the twelfth I know, if on a tree I see a corpse swinging from a halter, I can so grave and in runes depict, that the man shall walk, and with me converse."
+      }
+     ]
     },
     {
      "id": "hav-s158",
@@ -10716,7 +11659,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.988
+     "is_nu_sim": 0.988,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the thirteenth I know, if on a young man I sprinkle water, he shall not fall, though he into battle come: that man shall not sink before swords."
+      }
+     ]
     },
     {
      "id": "hav-s159",
@@ -10781,7 +11730,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.983
+     "is_nu_sim": 0.983,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the fourteenth I know, if in the society of men I have to enumerate the gods, Æsir and Alfar, I know the distinctions of all. This few unskilled can do."
+      }
+     ]
     },
     {
      "id": "hav-s160",
@@ -10846,7 +11801,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.983
+     "is_nu_sim": 0.983,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the fifteenth I know what the dwarf Thiodreyrir sang before Delling's doors. Strength he sang to the Æsir, and to the Alfar prosperity, wisdom to Hroptatyr."
+      }
+     ]
     },
     {
      "id": "hav-s161",
@@ -10911,7 +11872,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.981
+     "is_nu_sim": 0.981,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the sixteenth I know, if a modest maiden's favour and affection I desire to possess, the soul I change of the white-armed damsel, and wholly turn her mind."
+      }
+     ]
     },
     {
      "id": "hav-s162",
@@ -10997,7 +11964,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.977
+     "is_nu_sim": 0.977,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the seventeenth I know, that that young maiden will reluctantly avoid me. These songs, Loddfafnir! thou wilt long have lacked; yet it may be good if thou understandest them, profitable if thou learnest them."
+      }
+     ]
     },
     {
      "id": "hav-s163",
@@ -11073,7 +12046,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.973
+     "is_nu_sim": 0.973,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the eighteenth I know that which I never teach to maid or wife of man, (all is better what one only knows. This is the closing of the songs) save her alone who clasps me in her arms, or is my sister."
+      }
+     ]
     },
     {
      "id": "hav-s164",
@@ -11148,7 +12127,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.905
+     "is_nu_sim": 0.905,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Now are sung the High-one's songs, in the High-one's hall, to the sons of men all-useful, but useless to the Jotuns' sons. Hail to him who has sung them! Hail to him who knows them! May he profit who has learnt them! Hail to those who have listened to them!"
+      }
+     ]
     }
    ],
    "notes": [

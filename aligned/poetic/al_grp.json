@@ -43,7 +43,17 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigmund Volsung's son was a king in Frankland. Sinfiotli was the eldest of his sons, the second was Helgi, the third Hamund. Borghild, Sigmund's wife, had a brother named Gunnar; but Sinfiotli her stepson and Gunnar both courted one woman, on which account Sinfiotli slew Gunnar. When he came home, Borghild bade him go away, but Sigmund offered the blood-fine, which it was incumbent on her to accept. At the funeral feast Borghild presented the beer: she took a large horn full of poison, and offered it to Sinfiotli; who, when he looked into the horn, and saw that there was poison in it, said to Sigmund: \"the drink ferments!\" Sigmund took the horn and drank up the contents. It is said that Sigmund was so strong that no poison could hurt him, either outwardly or inwardly; but that all his sons could endure poison outwardly. Borghild bore another horn to Sinfiotli, and prayed him to drink, when all took place as before. Yet a third time she offered him the horn, using reproachful words on his refusing to drink. He said as before to Sigmund, but the latter answered: \"Let it pass through thy lips, my son.\" Sinfiotli drank and instantly died. Sigmund bore him a long way in his arms, and came to a long and narrow firth, where there was a little vessel and one man in it. He offered Sigmund to convey him over the firth; but when Sigmund had borne the corpse into the vessel, the boat was full-laden. The man then said that Sigmund should go before through the firth. He then pushed off his boat and instantly departed."
+      },
+      {
+       "t": "p",
+       "s": "King Sigmund sojourned long in Denmark, in Borghild's kingdom, after having espoused her. He then went south to Frankland, to the kingdom he there possessed. There he married Hiordis, the daughter of Eylimi. Sigurd was their son. King Sigmund fell in a battle with the sons of Hunding. Hiordis was afterwards married to Alf, son of King Hialprek, with whom Sigurd grew up in childhood. Sigmund and his sons exceeded all other men in strength, and stature, and courage, and all accomplishments, though Sigurd was foremost of all; and in old traditions he is mentioned as excelling all men, and as the most renowned of warlike kings."
+      }
+     ]
     },
     {
      "id": "grp-s1",
@@ -120,7 +130,17 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Who here inhabits, in these towers? what nation's king do people name him?"
+      },
+      {
+       "t": "p",
+       "s": "Gripir is named the chief of men, he who rules a firm realm and people."
+      }
+     ]
     },
     {
      "id": "grp-s2",
@@ -185,7 +205,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Is the wise king of the land at home? Will the chief with me come and converse? With him needs speech an unknown man: I desire speedily Gripir to see."
+      }
+     ]
     },
     {
      "id": "grp-s3",
@@ -279,7 +310,22 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Geitir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "The glad king will of Geitir ask, who the man is that demands speech of Gripir."
+      },
+      {
+       "t": "p",
+       "s": "Sigurd I am named, born of Sigmund, and Hiordis is the chieftain's mother."
+      }
+     ]
     },
     {
      "id": "grp-s4",
@@ -333,7 +379,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Then went Geitir, Gripir to inform: \"Here is a man without, a stranger, come; of aspect he is most distinguished. He desires, king! with thee to speak.\""
+      }
+     ]
     },
     {
      "id": "grp-s5",
@@ -387,7 +439,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Goes from the hall the lord of men, and the stranger prince kindly greets: \"Welcome, Sigurd! better had it been earlier: but do thou, Geitir! take charge of Grani.\""
+      }
+     ]
     },
     {
      "id": "grp-s6",
@@ -470,7 +528,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "They began to talk, and much to tell, when the sagacious men together met. \"Tell me, if thou knowest, my mother's brother! how will Sigurd's life fall out?\""
+      }
+     ]
     },
     {
      "id": "grp-s7",
@@ -535,7 +599,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou wilt foremost be of men beneath the sun, exalted high above every king; liberal of gold, but of flight sparing, of aspect comely, and wise of words."
+      }
+     ]
     },
     {
      "id": "grp-s8",
@@ -600,7 +675,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Say thou, sage king! more than I ask, thou wise one, to Sigurd, if thou thinks to see it: what will first happen for my advancement, when from thy dwelling I shall have departed?"
+      }
+     ]
     },
     {
      "id": "grp-s9",
@@ -665,7 +751,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "First wilt thou, prince! avenge thy father, and for the wrongs of Eylimi wilt retaliate; thou wilt the cruel sons of Hunding boldly lay low; thou wilt have victory."
+      }
+     ]
     },
     {
      "id": "grp-s10",
@@ -730,7 +827,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Say, noble king! kinsman mine! with all forethought, as we hold friendly converse; seest thou of Sigurd those bold achievements, that will highest soar under heaven's regions?\""
+      }
+     ]
     },
     {
      "id": "grp-s11",
@@ -795,7 +903,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou alone wilt slay that glistening serpent, which greedy lies on Gnitaheid; thou shalt of both the slayer be, Regin and Fafnir. Gripir tells truly."
+      }
+     ]
     },
     {
      "id": "grp-s12",
@@ -860,7 +979,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Riches will abound, if I so bring conflict among men, as thou for certain sayest. Apply thy mind, and at length say what will yet my life befall."
+      }
+     ]
     },
     {
      "id": "grp-s13",
@@ -925,7 +1055,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou wilt find Fafnir's lair, and thence wilt take splendid riches, with gold wilt load Grani's back. Thou wilt to Giuki ride, the war-famed prince."
+      }
+     ]
     },
     {
      "id": "grp-s14",
@@ -990,7 +1131,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Yet must thou, prince! in friendly speech, foresighted king! more relate. I shall be Giuki's guest, and I shall thence depart: what will next my life befall?"
+      }
+     ]
     },
     {
      "id": "grp-s15",
@@ -1055,7 +1207,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "A king's daughter will on a mountain sleep, fair, in corslet cased, after Helgi's death. Thou wilt strike with a keen sword, wilt the corslet sever with Fafnir's bane."
+      }
+     ]
     },
     {
      "id": "grp-s16",
@@ -1120,7 +1283,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "The corslet is ript open, the maid begins to speak. When awakened from her sleep, on what will she chiefly with Sigurd converse hold, which to the prince's benefit may tend?"
+      }
+     ]
     },
     {
      "id": "grp-s17",
@@ -1185,7 +1359,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "She to thee, powerful one! runes will teach, all those which men ought to know; and in every man's tongue to speak, and medicines for healing. May good await thee, king!"
+      }
+     ]
     },
     {
      "id": "grp-s18",
@@ -1250,7 +1435,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Now that is past, the knowledge is acquired, and I am ready thence away to ride. Apply thy mind, and at length say what more will my life befall."
+      }
+     ]
     },
     {
      "id": "grp-s19",
@@ -1315,7 +1511,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou wilt find Heimir's dwellings, and the glad guest wilt be of that great king. Vanished is, Sigurd! that which I foresaw; no further mayest thou Gripir question."
+      }
+     ]
     },
     {
      "id": "grp-s20",
@@ -1380,7 +1587,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Now bring me grief the words thou speakest; for thou foreseest, king! much further; thou knowest of too great calamity to Sigurd; therefore thou, Gripir! wilt not utter it."
+      }
+     ]
     },
     {
      "id": "grp-s21",
@@ -1445,7 +1663,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Of thy life the early portion lay before me clearest to contemplate. I am not truly accounted sage, nor of the future prescient: that which I knew is gone."
+      }
+     ]
     },
     {
      "id": "grp-s22",
@@ -1510,7 +1739,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "No man I know on the earth's surface, who greater prescience has than thou, Gripir! Thou mayest not conceal it, unhappy though it be, or if ill betide my life."
+      }
+     ]
     },
     {
      "id": "grp-s23",
@@ -1575,7 +1815,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Not with vices will thy life be sullied; let that, noble prince! in thy mind be borne; for while mankind exists, thy name, director of the spear-storm! will be supreme."
+      }
+     ]
     },
     {
      "id": "grp-s24",
@@ -1640,7 +1891,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "The worst seems to me, that Sigurd is compelled from the king to part in such uncertainty. Show me the way—all is decreed before—great chieftain! if thou wilt, my mother's brother!"
+      }
+     ]
     },
     {
      "id": "grp-s25",
@@ -1705,7 +1967,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "To Sigurd I will now openly tell, since the chieftain me thereto compels: thou wilt surely find that I lie not. A certain day is for thy death decreed."
+      }
+     ]
     },
     {
      "id": "grp-s26",
@@ -1770,7 +2043,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I would not importune the mighty prince, but rather Gripir's good counsel have. Now I fain would know, though grateful it may not be, what prospect Sigurd has lying before him."
+      }
+     ]
     },
     {
      "id": "grp-s27",
@@ -1835,7 +2119,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "There is with Heimir a maiden fair of form, she is by men Brynhild named, daughter of Budli; but the dear king Heimir nurtures the hard-souled damsel."
+      }
+     ]
     },
     {
      "id": "grp-s28",
@@ -1900,7 +2195,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "What is it to me, although the maiden be of aspect fair? nurtured with Heimir? That thou, Gripir! must fully declare; for thou foreseest my whole destiny."
+      }
+     ]
     },
     {
      "id": "grp-s29",
@@ -1965,7 +2271,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "She will thee bereave of almost every joy, the fair-faced foster-child of Heimir. Thou wilt not sleep, nor of affairs discourse, nor men regard; only this maiden thou wilt see."
+      }
+     ]
     },
     {
      "id": "grp-s30",
@@ -2030,7 +2347,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "What remedy for Sigurd will be applied; tell me that, Gripir! if it seem good to thee. Shall I obtain the damsel? with dowry purchase the lovely royal daughter?"
+      }
+     ]
     },
     {
      "id": "grp-s31",
@@ -2095,7 +2423,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Ye will each swear unnumbered oaths, solemnly binding, but few will keep. Hast thou been Giuki's guest one night, thou wilt have forgotten the fair ward of Heimir."
+      }
+     ]
     },
     {
      "id": "grp-s32",
@@ -2160,7 +2499,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "How is that, Gripir! explain it to me: seest thou such fickleness in the king's mind, that with that maiden I shall my engagement break, whom with my whole heart I thought to love?"
+      }
+     ]
     },
     {
      "id": "grp-s33",
@@ -2225,7 +2575,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Prince! thou wilt be snared in another's wiles, thou wilt pay the penalty of Grimhild's craft; the bright-haired maiden, her daughter, she to thee will offer. This snare for the king she lays."
+      }
+     ]
     },
     {
      "id": "grp-s34",
@@ -2290,7 +2651,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Shall I then with Gunnar form relationship, and with Gudrun join in wedlock? Well wived then the king would be, if the pangs of perjury caused me no pain."
+      }
+     ]
     },
     {
      "id": "grp-s35",
@@ -2355,7 +2727,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thee will Grimhild wholly beguile; she will implore thee Brynhild to demand for the hand of Gunnar, king of Goths: the journey thou wilt forthwith promise to the king's mother."
+      }
+     ]
     },
     {
      "id": "grp-s36",
@@ -2420,7 +2803,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Evils are at hand, I can that perceive; Sigurd's wits will have wholly perished, if I shall demand for another's hand, a noble maiden whom I well love."
+      }
+     ]
     },
     {
      "id": "grp-s37",
@@ -2485,7 +2879,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "All of you will swear mutual oaths, Gunnar, and Hogni, and thou the third; and ye will forms exchange, when on the way ye are, Gunnar and thou: Gripir lies not."
+      }
+     ]
     },
     {
      "id": "grp-s38",
@@ -2550,7 +2955,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "To what end is that? why shall we exchange forms and manners, when on the way we are? Another fraud will surely follow this, altogether horrible. But say on, Gripir!"
+      }
+     ]
     },
     {
      "id": "grp-s39",
@@ -2615,7 +3031,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou wilt have Gunnar's semblance, and his manners, thy own eloquence, and great sagacity: there thou wilt betroth the high-minded ward of Heimir: no one can that prevent."
+      }
+     ]
     },
     {
      "id": "grp-s40",
@@ -2680,7 +3107,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "To me that seems worst, that among men I shall be a false traitor called, if such take place. I would not deception practise on a royal maid the most excellent I know."
+      }
+     ]
     },
     {
      "id": "grp-s41",
@@ -2745,7 +3183,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou wilt repose, leader of hosts! pure with the maiden, as she thy mother were; therefore exalted, lord of men! while the world endures thy name will be."
+      }
+     ]
     },
     {
      "id": "grp-s42",
@@ -2810,7 +3259,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "The nuptials will of both be solemnized, of Sigurd and of Gunnar, in Giuki's halls; then will ye forms exchange, when ye home return; yet to himself will have each his own senses."
+      }
+     ]
     },
     {
      "id": "grp-s43",
@@ -2875,7 +3330,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Will then Gunnar, chief among men, the noble woman wed? Tell me that, Gripir! although three nights by me the chieftain's bride glad of heart has slept? The like has no example."
+      }
+     ]
     },
     {
      "id": "grp-s44",
@@ -2940,7 +3406,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "How for happiness shall hereafter be this affinity? Tell me that, Gripir! Will the alliance for Gunnar's solace henceforth prove, or even for mine?"
+      }
+     ]
     },
     {
      "id": "grp-s45",
@@ -3005,7 +3477,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou wilt the oaths remember, and must silence keep, and let Gudrun enjoy a happy union. Brynhild nathless will herself think an ill-married woman. She will wiles devise to avenge herself."
+      }
+     ]
     },
     {
      "id": "grp-s46",
@@ -3070,7 +3553,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "What atonement will that woman take, for the frauds we shall have practised on her? From me the maiden has oaths sworn, but never kept, and but little joy."
+      }
+     ]
     },
     {
      "id": "grp-s47",
@@ -3135,7 +3629,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "She to Gunnar will plainly declare, that thou didst not well the oaths observe, when the noble king, Giuki's heir, with his whole soul, in thee confided."
+      }
+     ]
     },
     {
      "id": "grp-s48",
@@ -3200,7 +3705,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "What will then follow? let me know that. Will that tale appear as true, or that the noble woman falsely accuses me, and herself also. Tell me that, Gripir!"
+      }
+     ]
     },
     {
      "id": "grp-s49",
@@ -3265,7 +3781,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "From spite towards thee, and from o'erwhelming grief, the powerful dame will not most wisely act. To the noble woman do thou no further harm, though thou the royal bride with guiles hast circumvented."
+      }
+     ]
     },
     {
      "id": "grp-s50",
@@ -3330,7 +3857,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Will the prudent Gunnar, Guthorm, and Hogni, at her instigation, then proceed? Will Giuki's sons on their relative redden their swords? Tell me further, Gripir!"
+      }
+     ]
     },
     {
      "id": "grp-s51",
@@ -3395,7 +3933,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Gripir:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Then will Gudrun be furious at heart, when her brothers shall on thy death resolve. In nothing then will that wise woman take delight. Such is Grimhild's work."
+      }
+     ]
     },
     {
      "id": "grp-s52",
@@ -3450,7 +3999,22 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "In this thou shalt find comfort, leader of hosts! This, fortune is allotted to the hero's life: a more renowned man on earth shall never be, under the sun's abode, than thou wilt be accounted."
+      },
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Now part we, now farewell! Fate may not be withstood. Now hast thou, Gripir! done as I prayed thee: thou wouldst have fain a happier end foretold me of my life's days, hadst thou been able."
+      }
+     ]
     },
     {
      "id": "grp-s53",
@@ -3515,7 +4079,17 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "They turn to the land, the old man goes on board, and the storm abates. Sigurd said:"
+      },
+      {
+       "t": "p",
+       "s": "Tell me, Hnikar! since thou knowest the omens both of gods and men, which omens are the best—if to fight 'tis needful—at the swing of glaves?"
+      }
+     ]
     }
    ],
    "notes": [

@@ -36,7 +36,13 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "head": "Frá Hjörvarði ok Sigrlinn."
+     "head": "Frá Hjörvarði ok Sigrlinn.",
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "There was a king named Hiorvard, who had four wives, one of whom was named Alfhild, their son was named Hedin; the second was named Særeid, their son was Humlung; the third was named Sinriod, their son was Hymling. King Hiorvard made a vow that he would have to wife the most beautiful woman he knew of, and was told that King Svafnir had a daughter of incomparable beauty, named Sigrlinn. He had a jarl named Idmund, whose son Atli was sent to demand the hand of Sigrlinn for the king. He stayed throughout the winter with King Svafnir. There was a jarl there named Franmar, who was the foster-father of Sigrlinn, and had a daughter named Alof. This jarl advised that the maiden should be refused, and Atli returned home. One day when the jarl's son Atli was standing in a grove, there was a bird sitting in the boughs above him, which had heard that his men called the wives which King Hiorvard had the most beautiful. The bird talked, and Atli listened to what it said. The bird said:"
+      }
+     ]
     },
     {
      "id": "hhv-s1",
@@ -90,7 +96,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hast thou seen Sigrlinn, Svafnir's daughter, of maidens fairest, in her pleasant home? though fair the wives of Hiorvard seem to men in Glasis-lund."
+      }
+     ]
     },
     {
      "id": "hhv-s2",
@@ -184,7 +196,22 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Atli:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "With Atli, Idmund's son, sagacious bird! wilt thou further speak?"
+      },
+      {
+       "t": "p",
+       "s": "I will if the prince will offer to me, and I may choose what I will from the king's court."
+      }
+     ]
     },
     {
      "id": "hhv-s3",
@@ -249,7 +276,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Atli:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Choose not Hiorvard nor his sons, nor the fair daughters of that prince, nor the wives which the king has. Let us together bargain; that is the part of friends."
+      }
+     ]
     },
     {
      "id": "hhv-s4",
@@ -314,7 +352,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Bird:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "A fane I will chose, offer-steads many, gold-horned cows from the chief's land, if Sigrlinn sleep in his arms, and unconstrained with that prince shall live."
+      }
+     ]
     },
     {
      "id": "hhv-p2",
@@ -341,7 +390,13 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true
+     "en_draft": true,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "This took place before Atli's journey; but after his return, when the king asked his tidings, he said:"
+      }
+     ]
     },
     {
      "id": "hhv-s5",
@@ -400,7 +455,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Labour we have had, but errand none performed; our horses failed us in the vast fell; we had afterwards a swampy lake to ford; then was denied us Svafnir's daughter with rings adorned, whom we would obtain."
+      }
+     ]
     },
     {
      "id": "hhv-p3",
@@ -430,7 +491,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "The king commanded them to go a second time, and also went himself. But when they had ascended a fell, and saw in Svavaland the country on fire, and a great reek from the horses of cavalry, the king rode down the fell into the country, and took up his night-quarters by a river. Atli kept watch, and crossed the river, and came to a house, on which sat a great bird to guard it, but was asleep. Atli shot the bird dead with an arrow. In the house he found the king's daughter Sigrlinn, and Alof daughter of Franmar, and brought them both away with him. The jarl Franmar had taken the form of an eagle, and protected them from a hostile army by sorcery. There was a king named Hrodmar, a wooer of Sigrlinn: he had slain the king of Svavaland, and ravaged and burnt the country. Hiorvard obtained Sigrlinn, and Atli Alof. Hiorvard and Sigrlinn had a son tall and comely: he was taciturn and had no fixed name. As he was sitting on a mound he saw nine Valkyriur, one of whom was of most noble aspect. She said:"
+      }
+     ]
     },
     {
      "id": "hhv-s6",
@@ -484,7 +551,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Late wilt thou, Helgi! rings possess, a potent warrior, or Rodulsvellir,—so at morn the eagle sang—if thou art ever silent; although thou, prince! a fierce mood mayest show."
+      }
+     ]
     },
     {
      "id": "hhv-s7",
@@ -549,7 +622,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Helgi:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "What wilt thou let accompany the name of Helgi, maid of aspect bright! since that thou art pleased to give me? Think well over what thou art saying. I will not accept it, unless I have thee also."
+      }
+     ]
     },
     {
      "id": "hhv-s8",
@@ -614,7 +698,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Valkyria:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Swords I know lying in Sigarsholm, fewer by four than five times ten: one of them is of all the best, of shields the bale, with gold adorned."
+      }
+     ]
     },
     {
      "id": "hhv-s9",
@@ -668,7 +763,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A ring is on the hilt, courage in the midst, in the point terror for his use who owns it: along the edge a blood-stained serpent lies, and on the guard the serpent casts its tail."
+      }
+     ]
     },
     {
      "id": "hhv-p4",
@@ -694,7 +795,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "There was a king named Eylimi; Svava was his daughter; she was a Valkyria and rode through air and water. It was she who gave Helgi that name, and afterwards often protected him in battle. Helgi said:"
+      }
+     ]
     },
     {
      "id": "hhv-s10",
@@ -748,7 +855,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hiorvard! thou art not a king of wholesome counsel, leader of people! renowned though thou mayest be. Thou hast let fire devour the homes of princes, though harm to thee they none have done."
+      }
+     ]
     },
     {
      "id": "hhv-s11",
@@ -802,7 +915,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "But Hrodmar shall of the rings dispose, which our relations have possessed. That chief recks little of his life; he thinks only to obtain the heritage of the dead."
+      }
+     ]
     },
     {
      "id": "hhv-p5",
@@ -840,7 +959,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hiorvard answers, that he will supply Helgi with an army, if he will avenge his mother's father. Helgi thereupon seeks the sword that Svava had indicated to him. Afterwards he and Atli went and slew Hrodmar, and performed many deeds of valour. He killed the Jotun Hati, as he sat on a crag. Helgi and Atli lay with their ships in Hatafiord. Atli kept watch in the first part of the night. Hrimgerd, Hati's daughter, said:"
+      }
+     ]
     },
     {
      "id": "hhv-s12",
@@ -890,7 +1015,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Who are the chieftains in Hatafiord? With shields are your ships bedecked; boldly ye bear yourselves, few things ye fear, I ween: tell me how your king is named."
+      }
+     ]
     },
     {
      "id": "hhv-s13",
@@ -951,7 +1082,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Atli:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Helgi is his name; but thou nowhere canst to the chief do harm; iron forts are around the prince's fleet; giantesses may not assail us."
+      }
+     ]
     },
     {
      "id": "hhv-s14",
@@ -1012,7 +1154,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hrimgerd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "How art thou named? most powerful champion! How do men call thee? Thy king confides in thee, since in the ship's fair prow he grants thee place."
+      }
+     ]
     },
     {
      "id": "hhv-s15",
@@ -1073,7 +1226,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Atli:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Atli I am named, fierce I shall prove to thee; towards giantesses I am most hostile. The humid prow I have oft occupied, and the night-riders slain."
+      }
+     ]
     },
     {
      "id": "hhv-s16",
@@ -1123,7 +1287,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "How art thou called? corpse-greedy gigantess! hag! name thy father. Nine rasts shouldst thou be underground, and a forest grow on thy breast."
+      }
+     ]
     },
     {
      "id": "hhv-s17",
@@ -1184,7 +1354,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hrimgerd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Hrimgerd I am called, Hati was my father called, whom I knew the mightiest Jotun. He many women had from their dwellings taken, until him Helgi slew."
+      }
+     ]
     },
     {
      "id": "hhv-s18",
@@ -1245,7 +1426,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Atli:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou wast, hag! before the prince's ships, and layest before them in the fiord's mouth. The chieftain's warriors thou wouldst to Ran consign, had a bar not crossed thee."
+      }
+     ]
     },
     {
      "id": "hhv-s19",
@@ -1306,7 +1498,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hrimgerd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Now, Atli! thou art wrong, methinks thou art dreaming; thy brows thou lettest over thy eyelids fall. My mother lay before the prince's ships; I Hlodvard's sons drowned in the ocean."
+      }
+     ]
     },
     {
      "id": "hhv-s20",
@@ -1356,7 +1559,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thou wouldst neigh, Atli! if thou wert not a gelding. See! Hrimgerd cocks her tail. Thy heart, methinks, Atli! is in thy hinder part, although thy voice is clear."
+      }
+     ]
     },
     {
      "id": "hhv-s21",
@@ -1417,7 +1626,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Atli:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I think I shall the stronger prove, if thou desirest to try; and I can step from the port to land. Thou shalt be soundly cudgeled, if I heartily begin, and let thy tail fall, Hrimgerd!"
+      }
+     ]
     },
     {
      "id": "hhv-s22",
@@ -1478,7 +1698,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hrimgerd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Just come on shore, Atli! if in thy strength thou trustest, and let us meet in Varinsvik. A rib-roasting thou shalt get, brave boy! if in my claws thou comest."
+      }
+     ]
     },
     {
      "id": "hhv-s23",
@@ -1539,7 +1770,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Atli:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I will not come before the men awake, and o'er the king hold watch. It would not surprise me, if from beneath our ship some hag arose."
+      }
+     ]
     },
     {
      "id": "hhv-s24",
@@ -1600,7 +1842,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hrimgerd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Keep watch, Atli! and to Hrimgerd pay the blood-fine for Hati's death. If one night she may sleep with the prince, she for the slain will be indemnified."
+      }
+     ]
     },
     {
      "id": "hhv-s25",
@@ -1661,7 +1914,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Helgi:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Lodin is named he who shall thee possess, thou to mankind art loathsome. In Tholley dwells that Thurs, that dog-wise Jotun, of all rock-dwellers the worst: he is a fitting man for thee."
+      }
+     ]
     },
     {
      "id": "hhv-s26",
@@ -1733,7 +1997,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hrimgerd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Helgi would rather have her who last night guarded the port and men, the gold-bright maiden. She methought had strength, she stept from port to land, and so secured your fleet. She was alone the cause that I could not the king's men slay."
+      }
+     ]
     },
     {
      "id": "hhv-s27",
@@ -1794,7 +2069,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Helgi:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Hear now, Hrimgerd! If I may indemnify thee, say fully to the king: was it one being only, that saved the prince's ships, or went many together?"
+      }
+     ]
     },
     {
      "id": "hhv-s28",
@@ -1864,7 +2150,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hrimgerd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Three troops of maidens; though one maid foremost rode, bright, with helmed head. Their horses shook themselves, and from their manes there sprang dew into the deep dales, hail on the lofty trees, whence comes fruitfulness to man. To me all that I saw was hateful."
+      }
+     ]
     },
     {
      "id": "hhv-s29",
@@ -1925,7 +2222,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Atli:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Look eastward now, Hrimgerd! whether Helgi has not stricken thee with death-bearing words. By land and water the king's fleet is safe, and the chief's men also."
+      }
+     ]
     },
     {
      "id": "hhv-s30",
@@ -1986,7 +2294,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "It is now day, Hrimgerd! and Atli has thee detained to thy loss of life. A ludicrous haven-mark 'twill, indeed, be, where thou a stone-image standest."
+      }
+     ]
     },
     {
      "id": "hhv-p6",
@@ -2016,7 +2330,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "King Helgi was a renowned warrior. He came to King Eylimi and demanded his daughter Svava. Helgi and Svava were united, and loved each other ardently. Svava remained at home with her father, but Helgi was engaged in warfare. Svava was a Valkyria as before. Hedin was at home with his father, King Hiorvard in Norway. Returning home alone from the forest on a Yule-eve, Hedin met a troll-wife riding on a wolf, with serpents for reins, who offered to attend him, but he declined her offer; whereupon she said: \"Thou shalt pay for this at the Bragi-cup.\" In the evening solemn vows were made, and the son-hog was led forth, on which the guests laid their hands, and then made solemn vows at the Bragi-cup. Hedin bound himself by a vow to possess Svava, the beloved of his brother Helgi; but repented it so bitterly that he left home and wandered through wild paths to the southern lands, and there found his brother Helgi. Helgi said:"
+      }
+     ]
     },
     {
      "id": "hhv-s31",
@@ -2070,7 +2390,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Welcome art thou, Hedin! What new tidings canst thou give from Norway? Why art thou, prince! from the land driven, and alone art come to find us?"
+      }
+     ]
     },
     {
      "id": "hhv-s32",
@@ -2135,7 +2461,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hedin:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Of a much greater crime I am guilty. I have chosen a royal daughter, thy bride, at the Bragi-cup."
+      }
+     ]
     },
     {
      "id": "hhv-s33",
@@ -2210,7 +2547,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Helgi:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Accuse not thyself; true will prove words at drinking uttered by us both. Me a chieftain has to the strand summoned; within three nights I must be there. 'Tis to me doubtful whether I return; then may well such befall, if it so must be."
+      }
+     ]
     },
     {
      "id": "hhv-s34",
@@ -2275,7 +2623,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hedin:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou saidst, Helgi! that Hedin well deserved of thee, and great gifts: It would beseem thee better thy sword to redden, than to grant peace to thy foes."
+      }
+     ]
     },
     {
      "id": "hhv-p7",
@@ -2301,7 +2660,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Helgi so spoke, for he had a foreboding that his death was at hand, and that his fylgiur (attendant spirit) had accosted Hedin, when he saw the woman riding on a wolf. There was a king named Alf, a son of Hrodmar, who had appointed a place of combat with Helgi in Sigar's plain within three days. Then said Helgi:"
+      }
+     ]
     },
     {
      "id": "hhv-s35",
@@ -2355,7 +2720,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "On a wolf rode, at evening twilight, a woman who him offered to attend. She well knew, that the son of Sigrlinn would be slain, on Sigar's plain."
+      }
+     ]
     },
     {
      "id": "hhv-s36",
@@ -2410,7 +2781,13 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "head": "Þar var orrosta mikil, ok fekk þar Helgi banasár."
+     "head": "Þar var orrosta mikil, ok fekk þar Helgi banasár.",
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Helgi sent Sigar riding, after Eylimi's only daughter: he bade her quickly be in readiness, if she would find the king alive."
+      }
+     ]
     },
     {
      "id": "hhv-s37",
@@ -2475,7 +2852,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigar:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Helgi has me hither sent, with thee, Svava! thyself to speak. Thee, said the king, he fain would see, ere the noble-born breathes forth his last."
+      }
+     ]
     },
     {
      "id": "hhv-s38",
@@ -2540,7 +2928,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Svava:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "What has befallen Helgi, Hiorvard's son? I am sorely by afflictions stricken. Has the sea him deluded, or the sword wounded? On that man I will harm inflict."
+      }
+     ]
     },
     {
      "id": "hhv-s39",
@@ -2605,7 +3004,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigar:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "This morning fell, at Frekastein, the king who beneath the sun was of all the best. Alf has complete victory, though this time it should not have been!"
+      }
+     ]
     },
     {
      "id": "hhv-s40",
@@ -2670,7 +3080,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Helgi:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Hail to thee, Svava! Thy love thou must divide: this in this world, methinks, is our last meeting. They say the chieftain's wounds are bleeding. The sword came too near my heart."
+      }
+     ]
     },
     {
      "id": "hhv-s41",
@@ -2724,7 +3145,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "I pray thee, Svava!—weep not, my wife!—if thou wilt my voice obey, that for Hedin thou a couch prepare, and the young prince in thy arms clasp."
+      }
+     ]
     },
     {
      "id": "hhv-s42",
@@ -2789,7 +3216,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Svava:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I had said, in our pleasant home, when for me Helgi rings selected, that I would not gladly, after my king's departure, an unknown prince clasp in my arms."
+      }
+     ]
     },
     {
      "id": "hhv-s43",
@@ -2854,7 +3292,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hedin:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Kiss me, Svava! I will not return, Rogheim to behold, nor Rodulsfioll, before I have avenged Hiorvard's son, who was of kings under the sun the best."
+      }
+     ]
     }
    ],
    "notes": [

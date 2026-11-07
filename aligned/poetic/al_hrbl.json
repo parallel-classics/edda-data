@@ -35,7 +35,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor journeying from the eastern parts came to a strait or sound, on the other side of which was a ferryman with his boat. Thor cried out:—"
+      }
+     ]
     },
     {
      "id": "hrbl-s1",
@@ -74,7 +80,13 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Who is the knave of knaves, that by the sound stands yonder?"
+      }
+     ]
     },
     {
      "id": "hrbl-s2",
@@ -124,7 +136,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Who is the churl of churls, that cries across the water?"
+      }
+     ]
     },
     {
      "id": "hrbl-s3",
@@ -189,7 +212,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Ferry me across the sound, to-morrow I'll regale thee. I have a basket on my back: there is no better food: at my ease I ate, before I quitted home, herrings and oats, with which I yet feel sated."
+      }
+     ]
     },
     {
      "id": "hrbl-s4",
@@ -246,7 +280,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou art in haste to praise thy meal: thou surely hast no foreknowledge; for sad will be thy home: thy mother, I believe, is dead."
+      }
+     ]
     },
     {
      "id": "hrbl-s5",
@@ -301,7 +346,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou sayest now what seems to every one most unwelcome to know—that my mother is dead."
+      }
+     ]
     },
     {
      "id": "hrbl-s6",
@@ -359,7 +415,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou dost not look like one who owns three country dwellings, bare-legged thou standest, and like a beggar clothed; thou hast not even breeches."
+      }
+     ]
     },
     {
      "id": "hrbl-s7",
@@ -414,7 +481,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Steer hitherward thy boat; I will direct thee where to land. But who owns this skiff, which by the strand thou holdest?"
+      }
+     ]
     },
     {
      "id": "hrbl-s8",
@@ -484,7 +562,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Hildolf he is named who bade me hold it, a man in council wise, who dwells in Radso sound. Robbers he bade me not to ferry, or horse-stealers, but good men only, and those whom I well knew. Tell me then thy name, if thou wilt cross the sound."
+      }
+     ]
     },
     {
      "id": "hrbl-s9",
@@ -554,7 +643,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I my name will tell, (although I am an outlaw) and all my kin: I am Odin's son, Meili's brother, and Magni's sire, the gods' mighty leader: With Thor thou here mayest speak. I will now ask how thou art called."
+      }
+     ]
     },
     {
      "id": "hrbl-s10",
@@ -604,7 +704,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I am Harbard called; seldom I my name conceal."
+      }
+     ]
     },
     {
      "id": "hrbl-s11",
@@ -654,7 +765,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Why shouldst thou thy name conceal, unless thou crime hast perpetrated?"
+      }
+     ]
     },
     {
      "id": "hrbl-s12",
@@ -710,7 +832,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Yet, though I may crime have perpetrated, I will nathless guard my life against such as thou art; unless I death-doomed am."
+      }
+     ]
     },
     {
      "id": "hrbl-s13",
@@ -775,7 +908,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "It seems to me a foul annoyance to wade across the strait to thee, and wet my garments: but I will pay thee, mannikin! for thy sharp speeches, if o'er the sound I come."
+      }
+     ]
     },
     {
      "id": "hrbl-s14",
@@ -830,7 +974,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Here will I stand, and here await thee. Thou wilt have found no stouter one since Hrungnir's death."
+      }
+     ]
     },
     {
      "id": "hrbl-s15",
@@ -893,7 +1048,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou now remindest me how I with Hrungnir fought, that stout-hearted Jotun, whose head was all of stone; yet I made him fall, and sink before me. What meanwhile didst thou, Harbard?"
+      }
+     ]
     },
     {
      "id": "hrbl-s16",
@@ -958,7 +1124,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I was with Fiolvari five winters through, in the isle which Algron hight. There we could fight, and slaughter make, many perils prove, indulge in love."
+      }
+     ]
     },
     {
      "id": "hrbl-s17",
@@ -1006,7 +1183,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "How did your women prove towards you?"
+      }
+     ]
     },
     {
      "id": "hrbl-s18",
@@ -1085,7 +1273,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Sprightly women we had, had they but been meek; shrewd ones we had, had they but been kind. Of sand a rope they twisted, and from the deep valley dug the earth: to them all I alone was superior in cunning. I rested with the sisters seven, and their love and pleasures shared. What meanwhile didst thou, Thor?"
+      }
+     ]
     },
     {
      "id": "hrbl-s19",
@@ -1154,7 +1353,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I slew Thiassi, that stout-hearted Jotun: up I cast the eyes of Allvaldi's son into the heaven serene: they are signs the greatest of my deeds. What meanwhile didst thou, Harbard?"
+      }
+     ]
     },
     {
      "id": "hrbl-s20",
@@ -1218,7 +1428,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Great seductive arts I used against the riders of the night, when from their husbands I enticed them. A mighty Jotun I believed Hlebard to be: a magic wand he gave me, but from his wits I charmed him."
+      }
+     ]
     },
     {
      "id": "hrbl-s21",
@@ -1268,7 +1489,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "With evil mind then thou didst good gifts requite."
+      }
+     ]
     },
     {
      "id": "hrbl-s22",
@@ -1324,7 +1556,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "One tree gets that which is f rom another scraped: each one in such case is for self. What meanwhile didst thou, Thor?"
+      }
+     ]
     },
     {
      "id": "hrbl-s23",
@@ -1392,7 +1635,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "In the east I was, and slew the Jotun brides, crafty in evil, as they to the mountain went. Great would have been the Jotun race, had they all lived; and not a man left in Midgard. What meanwhile didst thou, Harbard?"
+      }
+     ]
     },
     {
      "id": "hrbl-s24",
@@ -1455,7 +1709,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I was in Valland, and followed warfare; princes I excited, but never reconciled. Odin has all the jarls that in conflict fall; but Thor the race of thralls."
+      }
+     ]
     },
     {
      "id": "hrbl-s25",
@@ -1508,7 +1773,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Unequally thou wouldst divide the folk among the Æsir, if thou but hadst the power."
+      }
+     ]
     },
     {
      "id": "hrbl-s26",
@@ -1576,7 +1852,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thor has strength overmuch, but courage none; from cowardice and fear, thou wast crammed into a glove, and hardly thoughtest thou wast Thor. Thou durst not then, through thy terror, either sneeze or cough, lest Fialar it might hear."
+      }
+     ]
     },
     {
      "id": "hrbl-s27",
@@ -1629,7 +1916,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Harbard, thou wretch! I would strike thee dead, could I but stretch my arm across the sound."
+      }
+     ]
     },
     {
      "id": "hrbl-s28",
@@ -1682,7 +1980,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Why wouldst thou stretch thy arm across the sound, when there is altogether no offence? But what didst thou, Thor?"
+      }
+     ]
     },
     {
      "id": "hrbl-s29",
@@ -1750,7 +2059,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "In the east I was, and a river I defended, when the sons of Svarang me assailed, and with stones pelted me, though in their success they little joyed: they were the first to sue for peace. What meanwhile didst thou, Harbard?"
+      }
+     ]
     },
     {
      "id": "hrbl-s30",
@@ -1810,7 +2130,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I was in the east, and with a certain lass held converse; with that fair I dallied, and long meetings had. I that gold-bright one delighted; the game amused her."
+      }
+     ]
     },
     {
      "id": "hrbl-s31",
@@ -1858,7 +2189,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Then you had kind damsels there?"
+      }
+     ]
     },
     {
      "id": "hrbl-s32",
@@ -1910,7 +2252,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Of thy aid I had need, Thor! in retaining that maiden lily-fair."
+      }
+     ]
     },
     {
      "id": "hrbl-s33",
@@ -1960,7 +2313,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I would have given it thee, if I had had the opportunity."
+      }
+     ]
     },
     {
      "id": "hrbl-s34",
@@ -2010,7 +2374,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I would have trusted thee, my confidence if thou hadst not betrayed it."
+      }
+     ]
     },
     {
      "id": "hrbl-s35",
@@ -2060,7 +2435,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I am not such a heel-chafer as an old leather shoe in spring."
+      }
+     ]
     },
     {
      "id": "hrbl-s36",
@@ -2108,7 +2494,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "What meanwhile didst thou, Thor?"
+      }
+     ]
     },
     {
      "id": "hrbl-s37",
@@ -2163,7 +2560,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "The Berserkers' brides I on Læsso cudgeled; they the worst had perpetrated, the whole people had seduced."
+      }
+     ]
     },
     {
      "id": "hrbl-s38",
@@ -2213,7 +2621,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Dastardly didst thou act, Thor! when thou didst cudgel women."
+      }
+     ]
     },
     {
      "id": "hrbl-s39",
@@ -2276,7 +2695,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "She-wolves they were, and scarcely women. They crushed my ship, which with props I had secured, with iron clubs threatened me, and drove away Thialfi. What meanwhile didst thou, Harbard?"
+      }
+     ]
     },
     {
      "id": "hrbl-s40",
@@ -2331,7 +2761,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I in the army was, which was hither sent, war-banners to raise, lances to redden."
+      }
+     ]
     },
     {
      "id": "hrbl-s41",
@@ -2381,7 +2822,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Of that thou now wilt speak, as thou wentest forth us hard terms to offer."
+      }
+     ]
     },
     {
      "id": "hrbl-s42",
@@ -2436,7 +2888,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "That shall be indemnified by a hand-ring, such as arbitrators give, who wish to reconcile us."
+      }
+     ]
     },
     {
      "id": "hrbl-s43",
@@ -2491,7 +2954,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Where didst thou learn words than which I never heard more irritating?"
+      }
+     ]
     },
     {
      "id": "hrbl-s44",
@@ -2544,7 +3018,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "From men I learned them, from ancient men, whose home is in the woods."
+      }
+     ]
     },
     {
      "id": "hrbl-s45",
@@ -2595,7 +3080,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou givest certainly a good name to grave-mounds, when thou callest them homes in the woods."
+      }
+     ]
     },
     {
      "id": "hrbl-s46",
@@ -2643,7 +3139,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "So speak I of such a subject."
+      }
+     ]
     },
     {
      "id": "hrbl-s47",
@@ -2704,7 +3211,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thy shrewd words will bring thee evil, if I resolve the sound to ford. Louder than a wolf thou wilt howl, I trow, if of my hammer thou gettest a touch."
+      }
+     ]
     },
     {
      "id": "hrbl-s48",
@@ -2759,7 +3277,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Sif has a gallant at home; thou wilt anxious be to find him: thou shalt that arduous work perform; it will beseem thee better."
+      }
+     ]
     },
     {
      "id": "hrbl-s49",
@@ -2814,7 +3343,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Thou utterest what comes upmost, so that to me it be most annoying, thou dastardly varlet! I believe thou art lying."
+      }
+     ]
     },
     {
      "id": "hrbl-s50",
@@ -2869,7 +3409,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I believe I am telling truth. Thou art travelling slowly; thou wouldst have long since arrived, hadst thou assumed another form."
+      }
+     ]
     },
     {
      "id": "hrbl-s51",
@@ -2919,7 +3470,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Harbard! thou wretch! rather is it thou who hast detained me."
+      }
+     ]
     },
     {
      "id": "hrbl-s52",
@@ -2972,7 +3534,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "I never thought that a ferryman could the course of Asa-Thor retard."
+      }
+     ]
     },
     {
      "id": "hrbl-s53",
@@ -3027,7 +3600,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "One advice I now will give thee: row hither with thy boat; let us cease from threats; approach the sire of Magni."
+      }
+     ]
     },
     {
      "id": "hrbl-s54",
@@ -3077,7 +3661,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Go farther from the sound, the passage is refused thee."
+      }
+     ]
     },
     {
      "id": "hrbl-s55",
@@ -3127,7 +3722,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Show me then the way, if thou wilt not ferry me across the water."
+      }
+     ]
     },
     {
      "id": "hrbl-s56",
@@ -3197,7 +3803,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "That's too little to refuse. 'Tis far to go; 'tis to the stock an hour, and to the stone another; then keep the left hand way, until thou reachest Verland; there will Fiorgyn find her son Thor, and point out to him his kinsmen's ways to Odin's land."
+      }
+     ]
     },
     {
      "id": "hrbl-s57",
@@ -3245,7 +3862,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Can I get there to-day?"
+      }
+     ]
     },
     {
      "id": "hrbl-s58",
@@ -3298,7 +3926,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "With pain and toil thou mayest get there, while the sun is up, which, I believe, is now nigh."
+      }
+     ]
     },
     {
      "id": "hrbl-s59",
@@ -3353,7 +3992,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thor:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Our talk shall now be short, as thou answerest with scoffing only. For refusing to ferry me I will reward thee, if another time we meet."
+      }
+     ]
     },
     {
      "id": "hrbl-s60",
@@ -3403,7 +4053,18 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Harbard:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Just go to where all the powers of evil may have thee."
+      }
+     ]
     }
    ],
    "notes": [

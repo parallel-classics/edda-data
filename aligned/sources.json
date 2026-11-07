@@ -47,6 +47,7 @@
    "kind": "published",
    "label": "Thorpe 1866",
    "lang": "en",
+   "licence": "public domain",
    "title": "Benjamin Thorpe, Edda Sæmundar hinns Fróða: The Edda of Sæmund the Learned (1866), public domain"
   },
   "oe-modern-brodeur": {
@@ -90,7 +91,8 @@
   "poetic": {
    "on": "gudni-1949",
    "is": "modernizer",
-   "en": "bellows-1923"
+   "en": "bellows-1923",
+   "en-thorpe": "thorpe-1866"
   }
  },
  "row_flags": {
