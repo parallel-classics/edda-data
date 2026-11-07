@@ -72,7 +72,9 @@ Generated files are regenerated, never edited (COORDINATION rule 5: rerun, do no
 - `status`: `draft` (not reviewed: the page labels it "AI draft · not reviewed" in every view) or `reviewed`; an AI
   text becomes `reviewed` only with `reviewed_by: "user:<id>"`.
 - Written from the aligned texts (the rows of `mentions.json`) and general knowledge, not copied from Wikipedia
-  (CC BY-SA). The first pass covers every entity with at least 5 Old Norse mentions. CC BY 4.0 like the edition.
+  (CC BY-SA). 587 of the 598 entities have one: the first pass (266) covered every entity with at least 5 Old
+  Norse mentions, the second (321) those with 1-4. The 11 left out mix different figures under one id or are false
+  matches (an ordinary word counted as a name); they wait for a rules fix. CC BY 4.0 like the edition.
 - `scripts/validate.py` checks ids, plain text, author, date and status.
 
 ## Mention record (`mentions.json`)

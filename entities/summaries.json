@@ -1,5 +1,5 @@
 {
- "_note": "Short summaries of the entities (who or what, the part in the Eddas, key relations), written by an AI model (Claude) from the aligned texts and general knowledge, not copied from Wikipedia. status draft = not reviewed: the page shows them as 'AI draft · not reviewed' until a person checks them (status reviewed, reviewed_by user:<id>). First pass 2026-11-07: every entity with at least 5 Old Norse mentions. English only; an Icelandic text goes in 'is' (with 'by' as {lang: author} when the authors differ). CC BY 4.0 like the rest of the edition.",
+ "_note": "Short summaries of the entities (who or what, the part in the Eddas, key relations), written by an AI model (Claude) from the aligned texts and general knowledge, not copied from Wikipedia. status draft = not reviewed: the page shows them as 'AI draft · not reviewed' until a person checks them (status reviewed, reviewed_by user:<id>). First pass 2026-11-07: every entity with at least 5 Old Norse mentions; second pass the same day: those with 1-4 (one short paragraph each), except 11 whose index entry mixes figures or is a false match. English only; an Icelandic text goes in 'is' (with 'by' as {lang: author} when the authors differ). CC BY 4.0 like the rest of the edition.",
  "summaries": {
   "odin": {
    "en": "Óðinn is the chief of the Æsir, god of wisdom, poetry, magic, war and the dead. Husband of Frigg and father of Þórr, Baldr, Váli and Víðarr, he lives in Ásgarðr, gathers fallen warriors in Valhöll and rides the eight-legged Sleipnir. He bears scores of names, many listed in Grímnismál and Gylfaginning (chapter 20).\n\nHe runs through both Eddas. In Gylfaginning he appears as the triple Hárr, Jafnhárr and Þriði (chapter 2), while Snorri's Prologue (chapter 3) makes him a human king descended from the kings of Troy. Völuspá is addressed to him, and at Ragnarök he is swallowed by Fenrir (Gylfaginning chapter 51; Völuspá in skamma 15). He seeks wisdom by contest or disguise in Vafþrúðnismál, Grímnismál (as Grímnir, tormented by King Geirröðr), Hárbarðsljóð (as the ferryman Hárbarðr mocking Þórr) and Baldrs draumar; Hávamál gathers his counsels and tells how he won the runes and the mead of poetry, a story Snorri retells in Skáldskaparmál (from chapter 5). In the heroic poems he shapes human fates: he gives Dagr the spear that kills Helgi (Helgakviða Hundingsbana II, prose) and puts Sigrdrífa to sleep (Sigrdrífumál 2).",
@@ -1593,6 +1593,1932 @@
   },
   "yrsa": {
    "en": "Yrsa is the mother of the legendary Danish king Hrólfr kraki and wife of the Swedish king Aðils of Uppsala. Gróttasöngr 22 alludes to her story: Hrólfr, \"Yrsa's son\", will be called \"her own son and brother\", because, as other sources tell, he was born of her union with her own father, Helgi.\n\nIn Skáldskaparmál chapter 54 Snorri tells how Hrólfr rode to Uppsala to claim payment from Aðils. Yrsa welcomed her son, and after Aðils' men tried to scorch Hrólfr's company with great fires, she gave Hrólfr a horn filled with gold, including the ring Svíagríss, and sent them away. On the plain of Fýrisvellir Hrólfr scattered the gold to delay his pursuers, which is why gold is called \"Kraki's seed\" or \"seed of Fýrisvellir\". A verse there speaks of gold as \"the crop of Yrsa's offspring\".",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "alsvidr": {
+   "en": "Alsviðr ('all-swift') is one of the two horses that draw the chariot of the sun, the other being Árvakr ('early-waking'). Snorri tells that the gods set Sól, daughter of Mundilfari, to drive them, and placed bellows under their shoulders to cool them (Gylfaginning chapter 11); Grímnismál 37 names the pair, and Skáldskaparmál chapter 72 repeats the list of horses of the sun, night and day. In Forspjallsljóð (Hrafnagaldr Óðins) 4 the name Alsviðr appears in an obscure stanza about worlds sinking and being gathered again; what it refers to there is uncertain.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "andvaranaut": {
+   "en": "Andvaranautr ('Andvari's gift') is the gold ring that Loki takes from the dwarf Andvari with the rest of his hoard. In the prose of Reginsmál Óðinn uses it to cover the last whisker showing on the gold-filled otter-skin paid to Hreiðmarr. Snorri has Sigurðr give it to Brynhildr as her bride-gift while in Gunnarr's shape; in the queens' quarrel Guðrún names the ring on Brynhildr's hand and says it was not Gunnarr who won it on Gnitaheiðr, and after Sigurðr's death Gunnarr and Högni take it with Fáfnir's hoard (Skáldskaparmál chapter 49). In Dráp Niflunga, by contrast, Guðrún holds it and sends it to Högni with a wolf's hair tied round it, as a warning against Atli's invitation.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "arvakr": {
+   "en": "Árvakr (\"early-awake\") is one of the two horses that draw the chariot of the sun, the other being Alsviðr. Gylfaginning chapter 11 says the gods set Sól, daughter of Mundilfari, to drive them, with bellows under their shoulders to cool them; Grímnismál 37 gives the same picture in verse. In Sigrdrífumál 15 runes are said to be written on Árvakr's ear, and the horse is named again in the list of horses in Skáldskaparmál chapter 72.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "bergelmir": {
+   "en": "Bergelmir is the frost giant who survives the flood of Ymir's blood. Vafþrúðnismál makes him the son of Þrúðgelmir and grandson of Aurgelmir (Ymir), born countless winters before the earth was shaped, and the earliest thing the giant Vafþrúðnir remembers is Bergelmir being laid in a lúðr (Vafþrúðnismál 29, 35). Snorri explains in Gylfaginning chapter 7 that when the sons of Borr killed Ymir, all the frost giants drowned in his blood except Bergelmir, who escaped with his wife in a boat; the later race of frost giants descends from them. The meaning of lúðr in the poem is uncertain (possibly a cradle or a mill-frame), and Snorri's boat may be his own interpretation.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "bikki": {
+   "en": "Bikki is the evil counsellor of King Jörmunrekkr in the Gothic part of the Völsung cycle. In Skáldskaparmál chapter 50 and the prose introduction to Guðrúnarhvöt, Jörmunrekkr sends his son Randvér to bring home Svanhildr, Sigurðr's daughter, as his bride; Bikki advises Randvér that the young pair are better matched than the old king, then reports the affair to Jörmunrekkr. The king has Randvér hanged and Svanhildr trampled to death by horses, which leads to the vengeance of Guðrún's sons.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "bilskirnir": {
+   "en": "Bilskirnir is the hall of Þórr, which Snorri places in Þrúðvangar and Grímnismál in Þrúðheimr. Its size is its fame: Óðinn says in Grímnismál 24 that it has five hundred rooms and forty, the greatest of all roofed houses he knows, a stanza Snorri quotes in Gylfaginning chapter 21. In Skáldskaparmál chapter 11 Þórr may be called owner of Bilskirnir, and a stanza by Gamli there names him \"Lord of high Bilskirnir\" as he strikes at the Miðgarðr serpent.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "blakkr": {
+   "en": "Blakkr ('the dark one') is a horse name in the verse lists of horses. In Þorgrímsþula, quoted in Skáldskaparmál chapter 72 and among the Eddubrot, 'Blakkr could carry a thane'; in Kálfsvísa, in the same chapter, Blakkr is the horse ridden by Björn ('Björn rode Blakkr'). Nothing more is told of either. The word blakkr is also a common poetic word for a horse.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "breidablik": {
+   "en": "Breiðablik ('broad-gleaming') is Baldr's hall in heaven. Grímnismál 12 counts it the seventh of the gods' dwellings, in a land that lies most free of baleful runes. Snorri lists it among the heavenly abodes, saying there is none fairer (Gylfaginning chapter 17), and in his account of Baldr says that nothing unclean may be there, quoting the Grímnismál stanza (Gylfaginning chapter 22).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "brimir": {
+   "en": "Brimir is a giant whose name is bound up with the halls of the world after Ragnarök. Völuspá 37 speaks of the beer-hall of the giant Brimir in Ókólnir, and Snorri, following it, makes Brimir the name of the hall itself, where good drink awaits the righteous (Gylfaginning chapter 52). Völuspá 9 has the gods shape the dwarfs out of \"Brimir's blood\", which Snorri understands as Ymir's, and Sigrdrífumál 14 mentions \"Brimir's sword\", where the name stands in a sword-kenning.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "brokkr": {
+   "en": "Brokkr is a dwarf, brother of the smith who in this text is called Sindri (other manuscripts name him Eitri). In Skáldskaparmál chapter 43 Loki wagers his head with Brokkr that his brother cannot make three treasures as good as those made by the sons of Ívaldi. Brokkr works the bellows while a fly, Loki in disguise, stings him, and the smith produces the golden boar, the ring Draupnir and the hammer Mjöllnir, whose handle comes out short when Brokkr falters. Brokkr presents the gifts to Óðinn, Freyr and Þórr, and the gods judge the hammer best, so the dwarf wins the wager; denied Loki's head, he sews up his lips instead.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "droma": {
+   "en": "Drómi is the second fetter the Æsir made for the wolf Fenrir, twice as strong as the first, Læðingr. In Gylfaginning chapter 34 the Æsir urge the Wolf to test himself against it for the sake of fame; he does so and breaks it, as he had broken Læðingr, so that the dwarf-made Gleipnir has to be fetched. The Eddubrot prose likewise names Drómi and Læðingr as the two fetters that failed to hold him.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "durinn": {
+   "en": "Durinn is a dwarf, named second after Mótsognir at the creation of the dwarves in Völuspá 10, which also says the dwarves made figures in human likeness \"as Durinn said\". Snorri retells this in Gylfaginning chapter 14, explaining that the dwarves first quickened as maggots in Ymir's flesh before the gods gave them human shape and wit. In Hervarar saga a dwarf Durinn (in some versions Dulinn) forges the sword Tyrfingr together with Dvalinn.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "eyjolfr": {
+   "en": "Eyjólfr dáðaskáld ('valiant skald') was an Icelandic poet of the early eleventh century who served Earl Eiríkr Hákonarson; his poem on the earl is known as Bandadrápa. Snorri quotes him twice: for 'ski' as a word for ship (Skáldskaparmál chapter 64) and for bönd, 'bonds', as a name of the gods, in a half-stanza on Eiríkr (Skáldskaparmál chapter 68). The Eyjólfr son of Hundingr whom Helgi kills in Helgakviða Hundingsbana I 14 and the prose of Helgakviða Hundingsbana II is a different figure.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "fakr": {
+   "en": "Fákr is a horse name that occurs only in verse lists of horses. Þorgrímsþula, quoted in the list of horse names in Skáldskaparmál chapter 72, names it among other horses, and Kálfsvísa, quoted in the same chapter, says that Haki rode Fákr; both verses recur among the Eddubrot fragments. Fákr is also an ordinary poetic word for a horse.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "falhofnir": {
+   "en": "Falhófnir is one of the horses of the Æsir on which the gods ride each day to their court of judgement at the ash Yggdrasill. It appears in the list of the gods' horses in Grímnismál 30 and in Gylfaginning chapter 15, where it is named ninth after Sleipnir, and again among the horse names of Skáldskaparmál chapter 72 and the corresponding þula among the Eddubrot. Nothing is told of it beyond its name.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "freki": {
+   "en": "Freki (roughly \"the greedy one\") is one of Óðinn's two wolves, the other being Geri. Gylfaginning chapter 38 explains that Óðinn gives the food on his table to the wolves, since he needs none himself and lives on wine alone, and quotes the stanza that appears as Grímnismál 19. The wolves suit Óðinn as god of battle, wolves being the beasts that feed on the slain.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "geirrodargardar": {
+   "en": "Geirröðargarðar, \"Geirröðr's courts\", is the dwelling of the giant Geirröðr. Skáldskaparmál chapter 11 recalls the river Vimur that Þórr waded on his way there, and in chapter 26 Bragi tells the full tale: Loki, flying into the courts in Frigg's hawk-plumage, is caught and starved by Geirröðr until he promises to bring Þórr there without his hammer and girdle of might. Þórr, helped by the giantess Gríðr, goes nonetheless and kills Geirröðr and his daughters.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "glenr": {
+   "en": "Glenr is the husband of Sól, the sun. In Gylfaginning chapter 11 Mundilfari, proud of his beautiful children, names them Máni and Sól and marries his daughter to Glenr; the angered gods set brother and sister in the sky to drive the chariots of moon and sun. In Skáldskaparmál chapter 34 the sun may accordingly be called Glenr's wife, illustrated by a stanza of Skúli Þorsteinsson about \"Glenr's god-blithe Bed-Mate\". The same name is given to one of the Æsir's horses in Gylfaginning chapter 15.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "glitnir": {
+   "en": "Glitnir ('the shining one') is the hall of Forseti, son of Baldr and Nanna, in heaven. Its pillars and posts are of red gold and its roof of silver (Gylfaginning chapter 17). Snorri calls it the best seat of judgement among gods and men: all who come there with disputes go away reconciled (Gylfaginning chapter 32, quoting the stanza that is Grímnismál 15, where it is the tenth of the divine dwellings).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gnipalundr": {
+   "en": "Gnipalundr is a coastal place in Helgakviða Hundingsbana I where Helgi Hundingsbani's fleet comes to land before his battle with the sons of Granmarr. Sigrún shields the ships as they come in off Gnipalundr (30). In the flyting that follows, Sinfjötli tells Guðmundr that the Ylfings have come there from the east (34), and Guðmundr retorts that giantesses once gelded Sinfjötli at Gnipalundr (40). Guðmundr then reports Helgi's ships lying at anchor off it (50).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gotland": {
+   "en": "Gotland, the land of the Goths, is in Snorri's account the old name of the realm later called Denmark, where Óðinn's son Skjöldr ruled, followed by Friðleifr and Fróði (Skáldskaparmál chapter 52, repeated in the prose before Gróttasöngr). In Skáldskaparmál chapter 81 Snorri derives the name from a king Goti, himself named after Óðinn's name Gautr, and says that Gautland or Gotland was so called after Óðinn. It is not the Baltic island of the same name.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "greip": {
+   "en": "Greip is a giantess, one of the two daughters of the giant Geirröðr. In Skáldskaparmál chapter 26 she and her sister Gjálp are under the chair on which Þórr sits in Geirröðr's goat-shed; the chair rises to crush him against the roof, but he pushes back with the staff Gríðarvölr and breaks both their backs. The same episode, with a stanza in which Þórr boasts of the deed, is given in the Eddubrot section. Gjálp and Greip are also named among the nine giantess mothers of Heimdallr in Völuspá in skamma 8; whether these are the same figures is unclear.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gullfaxi": {
+   "en": "Gullfaxi, \"Gold-mane\", is the horse of the giant Hrungnir. In Skáldskaparmál chapter 24 Óðinn wagers that no horse in Jötunheimar is as good as Sleipnir, and Hrungnir races after him on Gullfaxi as far as Ásgarðr. After Þórr has killed Hrungnir, he gives Gullfaxi to his three-night-old son Magni, who had lifted the giant's leg off him; Óðinn objects that the horse should have gone to him rather than to the son of a giantess. The name also appears among the horses of Þorgrímsþula in Skáldskaparmál chapter 72 and the Eddubrot.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "guthormr": {
+   "en": "Gotþormr (Guthormr) is the younger brother of Gunnarr and Högni (Snorri makes him Gjúki's stepson) and the killer of Sigurðr. Because he had not sworn blood-brotherhood with Sigurðr, the brothers rouse him to the deed, as Gunnarr urges in Sigurðarkviða in skamma 20; Brot af Sigurðarkviðu 8 says they fed him wolf and serpent flesh to make him fierce. He stabs Sigurðr in bed, and the dying hero hurls his sword Gramr after him and cuts him in two (Sigurðarkviða in skamma 22; Skáldskaparmál chapter 49). The Brot and Guðrúnarkviða II instead place Sigurðr's death out of doors.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gyllir": {
+   "en": "Gyllir ('golden') is one of the horses on which the Æsir ride each day to their court of judgement at the well of Urðr under Yggdrasill. Snorri counts it the third of their steeds after Sleipnir and Glaðr (Gylfaginning chapter 15), following the list in Grímnismál 30. It is named again in Þorgrímsþula, quoted in Skáldskaparmál chapter 72 and among the Eddubrot. Nothing is said of who rides it.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "haddingjar": {
+   "en": "The Haddingjar are a legendary people or royal line, usually connected with the Hasdingi, a ruling house of the Vandals. The name appears only in verse. It forms part of a kenning in a stanza about the death of a Sigurðr at Ögló (Skáldskaparmál chapter 9), and the 'land of the Haddingjar' is among the signs carved on the drinking-horn Grímhildr gives Guðrún (Guðrúnarkviða II 22). Kálfsvísa, quoted in the list of horses in Skáldskaparmál chapter 72 and again among the Eddubrot fragments, says that the lord of the Haddingjar rode Skævaðr.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "heidrun": {
+   "en": "Heiðrún is the she-goat who stands at Valhöll and browses the branches of the tree Læraðr; from her udders flows mead enough to fill a great vat each day, so that all the einherjar can drink their fill (Gylfaginning chapter 39; Grímnismál 25). In Hyndluljóð 30 and 31 the giantess Hyndla insults Freyja with the refrain that she runs about at night like Heiðrún among the he-goats.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "herkja": {
+   "en": "Herkja is Atli's serving-woman and former concubine in Guðrúnarkviða in þriðja. In the prose introduction she tells Atli that she has seen Guðrún together with Þjóðrekr, and Atli confronts Guðrún with the charge (stanza 2). Guðrún clears herself by the ordeal of taking stones from the bottom of a boiling cauldron unharmed. Atli then makes Herkja undergo the same test (stanza 10); her hands are scalded, and she is thrown into a foul bog (stanza 11).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hervardr": {
+   "en": "Hervarðr is one of the twelve berserk sons of Arngrímr and Eyfura, who in the legendary tradition fell together on Sámsey. Hyndluljóð 22 names him among them as kinsmen of Óttarr. In Hervararkviða 9 and 11 Angantýr's daughter Hervör, at the burial mounds, calls on Hervarðr, Hjörvarðr, Hrani and Angantýr by name, cursing them to rot unless they give up the sword Tyrfingr. A different Hervarðr, a son of Hundingr killed by Helgi, is named in the prose of Helgakviða Hundingsbana II.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "himinbjorg": {
+   "en": "Himinbjörg (roughly 'heaven-cliffs') is the dwelling of Heimdallr, standing at heaven's end where the bridge Bifröst reaches the sky. Grímnismál 13 counts it the eighth of the gods' homes, where the watchman of the gods gladly drinks good mead. Snorri lists it among the heavenly abodes in Gylfaginning chapter 17 and in chapter 27 places Heimdallr there to guard the bridge against the hill-giants, quoting the Grímnismál stanza.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hlesey": {
+   "en": "Hlésey ('Hlér's island', probably the Danish island of Læsø in the Kattegat) is the home of the sea-giant Ægir, also called Hlér, according to the opening of Skáldskaparmál (chapter 1). In Hárbarðsljóð 37 Þórr boasts that he killed the 'brides of berserks' on Hlésey. Helgi names it as his home when Sigrún questions him in Helgakviða Hundingsbana II 6, and in Oddrúnarkviða 30 Oddrún hears from Hlésey the sound of Gunnarr's harp as he lies in the snake pit.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hlodver": {
+   "en": "Hlöðvér is a king whose name corresponds to Frankish Chlodowech (Louis). In Völundarkviða he is the father of the swan-maidens Hlaðguðr and Hervör, who with Ölrún become the wives of Völundr and his brothers (opening prose; 15); when Völundr counts his rings and finds one missing, he hopes that Hlöðvér's daughter has come back (10). In Guðrúnarkviða II 25 Grímhildr offers the widowed Guðrún 'Hlöðvér's halls' among other treasures; whether the same king is meant there is not clear.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hofvarpnir": {
+   "en": "Hófvarpnir (\"hoof-tosser\") is the horse of the goddess Gná, Frigg's messenger, which runs through the air and over the sea. Gylfaginning chapter 35 tells how some of the Vanir saw her riding in the sky and asked what flew there; she answered in verse that she did not fly but rode on Hófvarpnir, whom Hamskerpir begot on Garðrofa. The same passage is repeated among the Eddubrot.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "holgi": {
+   "en": "Hölgi is a legendary king from whom Hálogaland in northern Norway takes its name, and the father of Þorgerðr Hölgabrúðr. Skáldskaparmál chapter 55 tells that both were worshipped with sacrifices and that Hölgi's burial mound was raised with alternate layers of gold or silver offerings and of earth and stones. Hence gold may be called the roof of Hölgi's mound (Skáldskaparmál chapter 40), as in the stanza by Skúli Þorsteinsson about the battle of Svöldr quoted in chapter 55.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hrimfaxi": {
+   "en": "Hrímfaxi, \"Rime-mane\", is the horse that draws Nótt (Night) across the sky. In Gylfaginning chapter 10 Alföðr gives Nótt and her son Dagr each a horse and chariot; Nótt rides first behind Hrímfaxi, who every morning bedews the earth with the foam from his bit. Vafþrúðnismál 14 says the same, deriving the dew in the valleys from it. Skáldskaparmál chapter 72 gives Fjörsvartnir as an alternative name for Night's horse, and Forspjallsljóð (Hrafnagaldr Óðins) 23 refers to it in its account of nightfall.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hrym": {
+   "en": "Hrymr is a giant who leads the forces of chaos at Ragnarök. Völuspá 50 has him come from the east holding his shield before him, as the serpent writhes and Naglfar is loosed. Snorri, quoting the stanza in Gylfaginning chapter 51, makes Hrymr the helmsman of Naglfar, the ship built from dead men's nails; Völuspá itself says that Loki steers a ship from the east, so the two accounts differ on who commands which vessel.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hunaland": {
+   "en": "Húnaland, the land of the Huns, is the kingdom of King Humli in the poem and prose of the Battle of the Goths and Huns (Hlöðskviða). Hlöðr, Heiðrekr's son by Humli's daughter, is born there (Hlöðskviða 2) and returns there angry when his half-brother Angantýr refuses him an equal share of the inheritance. Humli then raises so great a host that Húnaland is left empty of fighting men, and leads it through the forest Myrkviðr, which divides Húnaland from the land of the Goths, to war on Angantýr (prose of Hlöðskviða).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "idavollr": {
+   "en": "Iðavöllr is the plain where the gods meet. In Völuspá 7 they gather there at the beginning of time to build shrines and temples and set up forges; after Ragnarök they meet there again on the renewed earth and recall the past (Völuspá 60). Snorri places it in the middle of Ásgarðr and makes it the site of the gods' first works, the court Glaðsheimr and the goddesses' hall (Gylfaginning chapter 14), and says that Víðarr and Váli will live there after the end, where Ásgarðr once stood (Gylfaginning chapter 53).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "jarnsaxa": {
+   "en": "Járnsaxa is a giantess, the mother of Þórr's son Magni. Skáldskaparmál chapter 24 tells how the three-night-old Magni lifted Hrungnir's leg off his father, and chapter 29 lists \"co-wife of Járnsaxa\" among the kennings for Sif. In a verse in Skáldskaparmál chapter 75 the wolf is called Járnsaxa's steed, as giantesses ride wolves. Völuspá in skamma 8 names a Járnsaxa among the nine giantess mothers of Heimdallr, possibly a different figure of the same name.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "konr": {
+   "en": "Konr ungr (\"Konr the young\") is the youngest son of Jarl in Rígsþula (stanza 41). He learns runes that protect warriors, blunt blades and calm the sea (stanza 43), and wins the name Rígr for himself. Hunting birds in the forest, he is told by a crow that he would do better to ride out and fight armies (stanzas 46-47), and is pointed to the rich halls of Danr and Danpr; there the poem breaks off. His name is usually read as a play on konungr, \"king\", so that the poem ends with the origin of kingship.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "lettfeti": {
+   "en": "Léttfeti, \"Light-foot\", is one of the horses of the Æsir. It appears only in lists: Grímnismál 30 names it among the steeds the gods ride each day to judgement at Yggdrasill, and Gylfaginning chapter 15 counts it as the eleventh of the Æsir's horses. It is also among the horse names of Þorgrímsþula in Skáldskaparmál chapter 72 and the Eddubrot.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "logi": {
+   "en": "Logi ('flame') is one of Útgarða-Loki's household in the story of Þórr's visit to Útgarðr. In Gylfaginning chapter 46 he is set against Loki in an eating contest: both reach the middle of a meat-filled trough at the same moment, but Logi has eaten the bones and the trough as well. In chapter 47 Útgarða-Loki reveals the deception: Logi was wildfire itself, which consumes wood as fast as meat.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "mead-of-poetry": {
+   "en": "The mead of poetry makes whoever drinks it a poet or a scholar. Snorri tells its story in Skáldskaparmál chapters 5 and 6: the dwarves Fjalarr and Galarr brew it from the blood of the wise Kvasir mixed with honey, and give it to the giant Suttungr as ransom for their lives; he hides it in Hnitbjörg in the keeping of his daughter Gunnlöð. Óðinn, calling himself Bölverkr, works for Suttungr's brother Baugi wins three draughts from Gunnlöð, drinks it all and flies back to Ásgarðr as an eagle and spits it into vats; some escapes behind him, the share of bad poets. Hence poetry is called Suttungr's mead, Kvasir's blood and Óðinn's drink. Hávamál gives Óðinn's own account.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "muspell-sons": {
+   "en": "The sons of Múspell (Múspells synir) are the fiery host that comes out of the burning southern realm Múspell at Ragnarök, led by Surtr. Snorri mentions them three times in Gylfaginning: when they go harrying not even Bifröst will hold (chapter 13); Freyr will miss the sword he gave away when they come (chapter 37); and in the account of the last battle they ride over Bifröst, which breaks under them, and make for the field Vígríðr, where they form a bright company of their own (chapter 51).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "nordri": {
+   "en": "Norðri (\"northern one\") is one of the four dwarfs set under the four corners of the sky, made from Ymir's skull, together with Austri, Suðri and Vestri (Gylfaginning chapter 8). Hence the sky can be called the helmet of Norðri and the others (Skáldskaparmál chapter 31). He is also named in the catalogue of dwarfs in Völuspá 11, which Snorri quotes in Gylfaginning chapter 14.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "nott": {
+   "en": "Nótt (Night) is the personified night. In Gylfaginning chapter 10 she is the dark daughter of the giant Nörfi or Narfi; she is married first to Naglfari, by whom she has Auðr, then to Ánarr, by whom she has Jörð, and last to Dellingr of the race of the Æsir, by whom she has Dagr (Day). Óðinn sets Nótt and Dagr in the sky with horses and chariots to ride around the earth; Nótt's horse Hrímfaxi bedews the earth each morning with the foam from its bit. Vafþrúðnismál 25 likewise says that Nótt was born of Nörr.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "oku-thor": {
+   "en": "Öku-Þórr, \"Driving Þórr\", is a byname of Þórr. In Gylfaginning chapter 21 Hárr names it alongside Ása-Þórr and explains it by Þórr's chariot drawn by his two goats, Tanngnjóstr and Tanngrisnir. The name opens the tale of Þórr's journey to Útgarða-Loki, where Öku-Þórr drives out with Loki and lodges with the farmer whose children become his servants (chapter 44), and Útgarða-Loki uses it mockingly when he greets the travellers, wondering whether this little fellow can really be Öku-Þórr (chapter 46).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "ori": {
+   "en": "Óri is a dwarf, named in the dwarf list of Völuspá 15 alongside Dóri, Dúfr and Andvari, and in the same lists as quoted by Snorri in Gylfaginning chapter 14. A Dóri and Óri also appear together in Fjölsvinnsmál 34, among those named as builders in Fjölsviðr's answers to Svipdagr; the pairing suggests the poet drew on the same traditional list.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "reidgotaland": {
+   "en": "Reiðgotaland is a land of the Goths in legendary geography. In Snorri's Prologue (chapter 4) Óðinn, travelling north, takes it and sets his son Skjöldr over it, adding that it is now called Jutland; in Skáldskaparmál chapter 81 the mainland ruled by Óðinn was called Reiðgotaland and the islands Eygotaland. In Heiðreksgátur it is where the powerful Gestumblindi lives, out of favour with King Heiðrekr, before the riddle contest. Its location differs between sources.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "saehrimnir": {
+   "en": "Sæhrímnir is the boar whose flesh feeds the einherjar in Valhöll. Snorri says it is boiled every day and is whole again by evening, however great the host, and that the cook is Andhrímnir and the kettle Eldhrímnir (Gylfaginning chapter 38), quoting the stanza of Grímnismál (18) that names all three. In Forspjallsljóð 19 the gods themselves are sated with Sæhrímnir at a feast.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "saxony": {
+   "en": "Saxland (Saxony) is, in Snorri's Prologue, the first land Óðinn and his followers settled on their way north from Asia: Óðinn ruled there long and set three of his sons over it, Vegdeg ruling East Saxland (Prologue chapter 4). From there the Æsir and their language spread through the northern lands (Prologue chapter 5). Skáldskaparmál chapter 66 mentions it in passing, saying that the governors called lendir menn in the Danish tongue are called counts in Saxland.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "sighvatr": {
+   "en": "Sighvatr Þórðarson was an Icelandic skald of the early eleventh century, court poet and close companion of King Óláfr Haraldsson (Saint Óláfr). Snorri quotes him in Skáldskaparmál for a heiti of Christ as king of the Jordan (chapter 65), for terms for a ruler's household men (chapter 66), and for the loanword sinjór or senjór, \"lord\", among the words for rulers (chapters 79 and 80).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "sinir": {
+   "en": "Sinir is one of the horses of the Æsir; the name means roughly \"sinewy\". It appears only in lists: Grímnismál 30 names it among the steeds the gods ride each day to judgement at Yggdrasill, and Gylfaginning chapter 15 counts it as the seventh of the Æsir's horses. It is also among the horse names of Þorgrímsþula in Skáldskaparmál chapter 72 and the Eddubrot.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "skeidbrimir": {
+   "en": "Skeiðbrimir is one of the horses the Æsir ride each day to their court at Yggdrasill. Snorri names him fifth in his list of the gods' steeds in Gylfaginning chapter 15, drawing on Grímnismál 30, and he recurs in the horse names of Þorgrímsþula cited in Skáldskaparmál chapter 72 and in the Eddubrot. Nothing is told of him beyond the name.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "sudri": {
+   "en": "Suðri ('southern') is one of the four dwarves set under the corners of the sky, which the sons of Borr made from Ymir's skull; the others are Austri, Vestri and Norðri (Gylfaginning chapter 8). Hence the sky can be called 'helm of Austri, Vestri, Suðri and Norðri' (Skáldskaparmál chapter 31). The name also stands in the list of dwarves in Völuspá 11, which Snorri quotes in Gylfaginning chapter 14.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "svadilfari": {
+   "en": "Svaðilfari is the stallion of the giant builder who offers to build the gods a fortress. Snorri tells that the horse hauled stones by night and did twice the work of its master, so the walls were nearly finished in time; Loki, turned into a mare, lured it away into the woods, the work stopped, and later Loki gave birth to its foal, the grey eight-legged Sleipnir (Gylfaginning chapter 42). Völuspá in skamma 11 also says that Loki bore Sleipnir to Svaðilfari.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "svanhvit": {
+   "en": "Svanhvít (\"swan-white\") is one of the three swan-maidens and valkyries of Völundarkviða. The opening prose calls her Hlaðguðr svanhvít, daughter of King Hlöðvér, and says she lived seven winters with Völundr's brother Slagfiðr before flying away to battle. Stanza 2 describes her wearing swan feathers, and in stanza 4 Slagfiðr goes south in search of her, while Egill goes east after Ölrún.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "thokk": {
+   "en": "Þökk is the giantess who refuses to weep for Baldr. In Gylfaginning chapter 49 the messengers of the Æsir, having asked everything in the world to weep Baldr out of Hel, find her sitting in a cave; she answers in a stanza that she will weep \"waterless tears\" and that Hel should keep what she has. So Baldr does not return. Snorri adds that people believe she was Loki. The same prose and stanza are also given in the Eddubrot section of this edition.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "thorgrimsthula": {
+   "en": "Þorgrímsþula, \"Þorgrímr's þula\", is a lost or fragmentary versified name list from which Snorri draws two sets of heiti. Skáldskaparmál chapter 72 introduces a list of horse names from it (Hrafn, Sleipnir, Léttfeti, Gullfaxi and others), and chapter 73 a short list of ox names. The same verses are given in the Eddubrot. Nothing is known of the Þorgrímr after whom it is named.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "thrymr": {
+   "en": "Þrymr is the lord of the giants who steals Þórr's hammer Mjöllnir in Þrymskviða, hides it eight leagues underground and demands Freyja as the price of its return. When she refuses, Þórr goes to Jötunheimr disguised as the bride, with Loki as bridesmaid. Þrymr has the benches strewn for Njörðr's daughter (stanza 22), marvels at a bride who eats an ox and eight salmon and drinks three casks of mead (25), and has the hammer laid in her lap to hallow the marriage (30). Þórr seizes it and kills Þrymr first, then all his kin (31). The story is not told by Snorri.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "tror": {
+   "en": "Trór is the name Snorri's Prologue gives to Þórr as a human prince of Troy: the son of King Múnón or Mennón and of Tróán, daughter of Priam. Fostered in Thrace by the duke Lóríkus, whom he kills, he grows to great strength, marries the prophetess Sibil, whom 'we call Sif', and becomes the ancestor of Óðinn's line (Prologue chapter 3). The account is a learned euhemerist construction linking the northern gods to Troy.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "valgardr": {
+   "en": "Valgarðr á Velli was an eleventh-century Icelandic skald who composed for King Haraldr harðráði of Norway. Snorri quotes him only for single words: for a word for wave among the names of the sea (Skáldskaparmál chapter 76), for two names of fire (Skáldskaparmál chapter 77), and for the royal title Skilfingr, in a half-stanza about the king's host in the south and the laying waste of Sicily (Skáldskaparmál chapter 80).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "vestri": {
+   "en": "Vestri (\"western one\") is one of the four dwarfs set under the four corners of the sky made from Ymir's skull, with Austri, Suðri and Norðri (Gylfaginning chapter 8). The sky may therefore be called the helmet of Vestri and the others (Skáldskaparmál chapter 31). He is also named in the catalogue of dwarfs in Völuspá 11, quoted by Snorri in Gylfaginning chapter 14.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "vid": {
+   "en": "Víð (\"the wide one\") is one of the mythical rivers. In Gylfaginning chapter 4 it is among the rivers that spring from the well Hvergelmir, and in chapter 39 among the streams fed by the drops from the horns of the hart Eikþyrnir. It appears in the river lists of Grímnismál 27 and 28, the first group flowing through the gods' lands and the second among men and down to Hel.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "viga-glumr": {
+   "en": "Víga-Glúmr Eyjólfsson was a tenth-century Icelandic chieftain of Eyjafjörður and the hero of Víga-Glúms saga. Snorri quotes his verses for kennings in Skáldskaparmál: in chapter 9 and again in chapter 61 a helmet is called the hood of Hangatýr, the Hanged God, a name of Óðinn; in chapter 63 battle is the storm of Óðinn and warriors the staves of that storm; and a further verse of his is quoted in chapter 75.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "vingolf": {
+   "en": "Vingólf is a hall of the gods whose role differs from passage to passage. In Gylfaginning chapter 3 the righteous are to live with the All-father \"in Gimlé or Vingólf\"; in chapter 14 it is the sanctuary built by the gods for the goddesses, next to Glaðsheimr; in chapter 20 Óðinn assigns Valhöll and Vingólf to the warriors fallen in battle. In Forspjallsljóð 17 the gods' messengers come to Vingólf and greet the Æsir at Óðinn's feast.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "ynglings": {
+   "en": "The Ynglingar are the royal house of the Swedes, said to descend from Yngvi. In the Prologue (chapter 5) Yngvi is Óðinn's son who rules in Sweden after him; in Skáldskaparmál chapter 80 Yngvi is one of the nine sons of Hálfdan the Old, and the Ynglings are among the royal houses whose names skalds use for princes. In Hyndluljóð 16 they are listed with the Skjöldungs, Skilfings and Öðlings among Óttarr's illustrious kin. The sources thus differ on who Yngvi was.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "alof": {
+   "en": "Álof is the daughter of Jarl Fránmarr, foster-father of Sigrlinn, in the prose of Helgakviða Hjörvarðssonar. When Atli comes to woo Sigrlinn for King Hjörvarðr he is refused. Returning with the king, he finds the two young women in a house guarded by Fránmarr in the shape of an eagle, and brings them away. Hjörvarðr marries Sigrlinn and Atli marries Álof.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "amma": {
+   "en": "Amma (\"grandmother\") is the wife of Afi in Rígsþula, the couple of the middle household that the god Rígr visits on his journey. She sits spinning in their well-kept house and serves Rígr a meal of boiled veal (Rígsþula 16 and 17). Nine months after his visit she bears a son, sprinkled with water and named Karl, ancestor of the free farmers (Rígsþula 21).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "arheimar": {
+   "en": "Árheimar is the seat of the Gothic king Angantýr in Hlöðskviða, the poem of the battle of the Goths and the Huns. His half-brother Hlöðr rides there to claim his share of their father Heiðrekr's inheritance while Angantýr is drinking Heiðrekr's funeral ale (stanza 3). When Hervör falls fighting the invading Huns, Ormarr rides to Angantýr in Árheimar with the news, and Hlöðr calls Angantýr's messenger Gizurr a man come from Árheimar (stanza 29). The saga places it at Danparstaðir, a name linked with the river Dnieper.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "asia": {
+   "en": "Asía is one of the three parts of the world in the learned geography of the Prologue. In chapter 2 it is the region stretching from north through east to south, the richest and fairest part of the earth and the site of its centre. In chapter 5 the Æsir are explained as \"men of Asia\" who came north with Óðinn; when they settle in Sweden under King Gylfi and intermarry, their language, the tongue of the men of Asia, becomes the speech of all the northern lands.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "aurboda": {
+   "en": "Aurboða is a giantess of the hill-giants, wife of Gymir and mother of Gerðr, whom Freyr sees from Hliðskjálf and marries (Gylfaginning chapter 37). Völuspá in skamma 2 likewise names her as Gerðr's mother. An Aurboða also appears in Fjölsvinnsmál 38 as one of the maidens who sit at the knees of Menglöð; whether the poet meant the same figure is unclear.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "aurvandill": {
+   "en": "Aurvandill is the husband of the seeress Gróa. In Skáldskaparmál chapter 25, after the duel with Hrungnir, Gróa chants over the piece of whetstone lodged in Þórr's head; to please her, Þórr tells that he carried Aurvandill in a basket on his back out of Jötunheimar, across the icy river Élivágar. One toe stuck out and froze, so Þórr broke it off and threw it into the sky, where it became the star called Aurvandill's toe. Gróa, delighted, forgets her spells and the stone stays in Þórr's head.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "austrvegr": {
+   "en": "Austrvegr ('the eastern way') is the Old Norse name for the lands east of Scandinavia across the Baltic. The prose opening of Hárbarðsljóð has Þórr returning from a journey there when he meets the ferryman. Snorri says that Hálfdan the Old raided widely in Austrvegr and killed King Sigtryggr there, and that the kindred of the Skilfingar lives there (Skáldskaparmál chapter 80).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "bestla": {
+   "en": "Bestla is a giantess, daughter of Bölþorn, wife of Borr and mother of Óðinn, Vili and Vé (Gylfaginning chapter 6). In Hávamál 140 Óðinn says he learned nine mighty songs from the son of Bölþorn, Bestla's father, that is from his mother's brother. A skaldic verse in Skáldskaparmál chapter 9 calls Óðinn the son of Bestla.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "beyla": {
+   "en": "Beyla is a servant of Freyr and wife of his servant Byggvir, present at Ægir's feast in Lokasenna (prose introduction). When she hears the mountains shake and announces that Þórr is coming to silence Loki (stanza 55), Loki turns on her too, calling her Byggvir's wife and abusing her as foul (stanza 56). Her name has been connected with words for bee, cow or bean, and Byggvir's with barley, but neither interpretation is certain.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "blodughadda": {
+   "en": "Blóðughadda ('the one with bloody hair') is one of the nine daughters of Ægir and Rán, personifications of the waves. She appears only in Skáldskaparmál: among the daughters named in the kennings for the sea in chapter 33, and in the lists of their names in chapter 76.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "brunavagar": {
+   "en": "Brunavágar is a stretch of coast where Helgi Hundingsbani lies with his fleet after killing King Hundingr, and where his men slaughter cattle on the shore and eat the meat raw (prose of Helgakviða Hundingsbana II). There Sigrún rides to his ship and asks why they wait in Brunavágar; Helgi answers that they wait for a fair wind to sail east (Helgakviða Hundingsbana II 5-6).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "byggvir": {
+   "en": "Byggvir is a servant of Freyr, present with his wife Beyla at Ægir's feast in Lokasenna (opening prose). When he speaks up for Freyr, Loki mocks him as one who could never share out food among men and who hid in the straw when warriors went to fight (46), and later abuses Beyla as Byggvir's wife (56). His name seems to be related to bygg, 'barley'.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "bylgja": {
+   "en": "Bylgja (\"billow\") is one of the nine daughters of Ægir and Rán, who personify the waves of the sea. She is named in the list of Ægir's daughters among the kennings for the sea in Skáldskaparmál chapter 33 and again in chapter 76, where her name is also illustrated, as a word for a wave, by a verse of Óttarr svarti.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "danpr": {
+   "en": "Danpr is a legendary name linked with the river Dnieper. In Rígsþula 48 the crow tells Konr ungr that Danr and Danpr have nobler halls and greater wealth than he; Danpr appears to be an early king, and the poem breaks off soon after. In Atlakviða 5 \"the steads of Danpr\" are among the riches Atli offers Gunnarr and Högni, and in Hlöðskviða 10 a fair stone at Danparstaðir is part of the inheritance Hlöðr claims; in these heroic poems the name points to the old Gothic lands by the Dnieper.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "dufa": {
+   "en": "Dúfa is one of the nine daughters of Ægir and Rán, whose names are poetic words for waves. She appears only in the lists of these daughters in Skáldskaparmál chapter 33, where the sea may be called the father of Ægir's daughters, and chapter 76, where the nine are named again among the heiti for sea and waves and her name is among the six used by Einarr Skúlason in one stanza.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "duneyrr": {
+   "en": "Duneyrr is one of the four harts that run in the branches of Yggdrasill and gnaw its leaves, with Dáinn, Dvalinn and Duraþrór. Grímnismál 33 names them, and Snorri repeats the list in Gylfaginning chapter 16; the name also appears among words for hart in Skáldskaparmál chapter 71.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "dunheidr": {
+   "en": "Dúnheiðr ('Dún heath') is a battle-site of the Goths in the Battle of the Goths and Huns. Angantýr names it with Dylgja and the Jassarfjöll as the place where Hlöðr and the Huns are to be challenged (Hlöðskviða 26 and 28), and in the prose Angantýr leads his host to Dúnheiðr, where the eight-day battle is fought in which Hlöðr and King Humli fall. Its location is unknown.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "durathror": {
+   "en": "Duraþrór is one of the four harts that graze in the branches of the ash Yggdrasill, with Dáinn, Dvalinn and Duneyrr. They are named in Grímnismál 33 and in Snorri's description of the tree (Gylfaginning chapter 16), and the name appears again in the list of words for a hart in Skáldskaparmál chapter 71.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "edda-rigsthula": {
+   "en": "Edda (\"great-grandmother\") is the wife of Ái in Rígsþula, the old couple of the poorest household, whom the god Rígr visits first. In stanza 2 the two sit by the hearth in old-fashioned dress; Edda serves him a heavy loaf full of husks and broth (Rígsþula 4), and nine months after his visit she bears a black-haired son named Þræll, ancestor of the thralls (Rígsþula 7).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "eitill": {
+   "en": "Eitill is a son of Atli and Guðrún and brother of Erpr (prose of Dráp Niflunga). After Atli has killed her brothers Gunnarr and Högni, Guðrún kills both boys in revenge and serves them to their father; in Atlakviða 37 she tells Atli that he will never again call Erpr or Eitill to his knees. In Hamðismál 8 her son Hamðir reproaches her that by killing Erpr and Eitill she struck at Atli but brought worse grief upon herself. They are not to be confused with Erpr, the half-brother of Hamðir and Sörli.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "eldhrimnir": {
+   "en": "Eldhrímnir is the cauldron in Valhöll in which the cook Andhrímnir boils the boar Sæhrímnir, whose flesh feeds the einherjar every day and is whole again by evening. Grímnismál 18 names it, and Snorri tells the story and quotes that stanza in Gylfaginning chapter 38. The name contains eldr, \"fire\".",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "england": {
+   "en": "England appears in Snorri's Edda as a real country of his own world. In the Prologue (chapter 5), after arguing that the Æsir brought their language to the North, Snorri notes that old lists of place-names in England show names from another tongue. In Skáldskaparmál chapter 66, on terms for rulers, he says the king of England may be called king of the English, and that the officials called landed men in the Danish tongue are called barons in England.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "farbauti": {
+   "en": "Fárbauti ('cruel striker') is a giant, the father of Loki; Loki's mother is Laufey or Nál, his brothers Býleistr and Helblindi (Gylfaginning chapter 33). Snorri lists 'son of Fárbauti' among the kennings for Loki (Skáldskaparmál chapter 23), and the verse quoted there calls Loki 'Fárbauti's sin-sly offspring' as Heimdallr strives with him at Singasteinn. Nothing else is told of him.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "fensalir": {
+   "en": "Fensalir ('fen halls') is the dwelling of the goddess Frigg. Snorri calls it most glorious (Gylfaginning chapter 35) and gives 'mistress of Fensalir' among the kennings for Frigg (Skáldskaparmál chapter 27). In the story of Baldr's death Loki goes there disguised as a woman and learns from Frigg that the mistletoe alone has not sworn to spare Baldr (Gylfaginning chapter 49).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "fimafeng": {
+   "en": "Fimafengr is one of Ægir's two servants, the other being Eldir. At Ægir's feast for the gods the guests praised how well the servants did their work, and Loki, unable to bear it, killed Fimafengr, for which the gods drove him out; this opens the quarrel of Lokasenna (prose introduction). Skáldskaparmál chapter 41 mentions the killing in its account of the same feast.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "fimbultul": {
+   "en": "Fimbulþul (roughly \"the mighty roaring one\") is one of the mythical rivers. Gylfaginning chapter 4 places it among the rivers that rise from the well Hvergelmir, and chapter 39 among those fed by the drops from the horns of the hart Eikþyrnir. It also appears in the river list of Grímnismál 27, among the streams that flow through the gods' lands.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "fornjotr": {
+   "en": "Fornjótr is a giant whose sons are the elements. In Skáldskaparmál chapter 35 the wind may be called the son of Fornjótr and the brother of the sea and of fire, and a quoted verse speaks of \"Fornjótr's sons ill-shapen\" beginning to blow. Later sources make him the father of Hlér (the sea), Logi (fire) and Kári (wind). Forspjallsljóð (Hrafnagaldr Óðins) 17 refers to the winds as Fornjótr's kin.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "fyrisvellir": {
+   "en": "Fýrisvellir, the plains by the river Fýri near Uppsala in Sweden, are the scene of Hrólfr kraki's escape from King Aðils. In Skáldskaparmál chapter 54 Hrólfr scatters gold along the road to delay his pursuers, so gold is called \"seed of Kraki\" or \"seed of Fýrisvellir\", a kenning already listed in chapter 40. Eyvindr skáldaspillir uses it in the stanza quoted in chapter 54, where the poet's arm bears the seed of Fýrisvellir throughout Hákon's life.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gautar": {
+   "en": "The Gautar (Geats) are a people of what is now southern Sweden, around the lakes Vänern and Vättern. In Hlöðskviða 1 Gizurr is named as their ruler among the kings of old. Snorri quotes twice the same half-stanza in which a prince 'reddened the sword on the Gautar' (Skáldskaparmál chapters 66 and 80), as an example of the word hilmir, 'prince'.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gjoll": {
+   "en": "Gjöll is one of the rivers that flow from the spring Hvergelmir; Snorri says it runs next to the gates of Hel (Gylfaginning chapter 4), and it is among the rivers listed in Grímnismál 28. In Snorri's account of Hermóðr's ride to Hel the bridge over it is Gjallarbrú. Snorri also gives the name Gjöll to the rock slab through which the gods draw the fetter of Fenrir (Gylfaginning chapter 34), apparently a different thing.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "glaumr": {
+   "en": "Glaumr is the horse of Atli, king of the Huns. Atlakviða 29 shows Atli the mighty riding the long-maned Glaumr after Gunnarr's death, and the horse appears in the verse list of famous riders and their mounts (\"Atli rode Glaumr\") in Skáldskaparmál chapter 72, also preserved among the Eddubrot.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "granmarssynir": {
+   "en": "The sons of Granmarr, Höðbroddr and Guðmundr, are the enemies of Helgi Hundingsbani in the Helgi poems. Höðbroddr has been promised Sigrún, Högni's daughter, who loves Helgi instead. In the prose of Helgakviða Hundingsbana II (the Völsungakviða in forna) Guðmundr rides home with news of Helgi's fleet, the sons of Granmarr gather an army that includes Högni and his sons, and in the battle all of Granmarr's sons and their allies fall; only Dagr Högnason is spared. Sigrún then finds Höðbroddr dying on the field.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gridr": {
+   "en": "Gríðr is a giantess, mother of Víðarr by Óðinn. In Skáldskaparmál chapter 26, on Þórr's journey to Geirröðr, he spends a night with her; she warns him that Geirröðr is cunning and dangerous and lends him her girdle of might, her iron gloves and her staff, Gríðarvölr, which save him on the way. Her name is also used for a troll-woman in kennings in two skaldic verses quoted in Skáldskaparmál chapter 61.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "grimnismal": {
+   "en": "Grímnismál is the Eddic poem in which Óðinn, disguised as Grímnir and tormented between two fires at King Geirröðr's hall, reveals the halls of the gods, the structure of Yggdrasill, the rivers and the horses of the gods and his own many names. Snorri relies heavily on it in Gylfaginning and cites it by name three times: for the size of Þórr's hall Bilskirnir (chapter 21), for the valkyries who serve drink in Valhöll (chapter 36) and for the doors of Valhöll (chapter 40).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gullrond": {
+   "en": "Gullrönd is the daughter of Gjúki and so sister of Guðrún, Gunnarr and Högni. In Guðrúnarkviða I she is among the women around the widowed Guðrún after Sigurðr's death: when the others cannot make Guðrún weep, she uncovers Sigurðr's body, so that Guðrún's grief breaks out (12, 17). When Brynhildr then curses the women who made Guðrún weep, Gullrönd rebukes her as one who has brought sorrow to seven kings (24). She is not named elsewhere in the Eddas.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hati-giant": {
+   "en": "Hati is a giant in Helgakviða Hjörvarðssonar, father of the giantess Hrímgerðr. The prose says that Helgi killed him where he sat on a mountain, and that Helgi and Atli then anchored in Hatafjörðr. In the flyting that follows, Hrímgerðr boasts that her father was the mightiest of giants and carried off many women before Helgi cut him down (17), and demands a night with Helgi as compensation for his death (24).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hefring": {
+   "en": "Hefring is one of the nine daughters of Ægir and Rán, who personify the waves of the sea. She is named among them in the kennings for the sea in Skáldskaparmál chapter 33 and in the lists of Ægir's daughters and wave names in chapter 76.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "helblindi": {
+   "en": "Helblindi is named by Snorri as a brother of Loki, alongside Býleistr, in Gylfaginning chapter 33, and \"brother of Býleistr and Helblindi\" is accordingly given as a kenning for Loki in Skáldskaparmál chapter 23. Nothing more is told of him. The same name, perhaps meaning \"Hel-blinder\", is also one of Óðinn's names in the list quoted from Grímnismál in Gylfaginning chapter 20; whether the two are connected is unclear.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hlin": {
+   "en": "Hlín is a goddess in Frigg's circle. In Gylfaginning chapter 35 she is the twelfth of the Ásynjur, set to guard those whom Frigg wishes to save from danger, and Snorri derives a verb for finding refuge from her name. In Völuspá 53, quoted in Gylfaginning chapter 51, Hlín's second sorrow comes when Óðinn goes to fight the wolf, after the loss of Baldr; there Hlín is generally taken as another name for Frigg herself.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hnoss": {
+   "en": "Hnoss is the daughter of Freyja and her husband Óðr. Snorri says in Gylfaginning chapter 35 that she is so beautiful that precious things are called hnossir after her; the word hnoss means 'treasure'. In Skáldskaparmál chapter 28 Freyja may be called mother of Hnoss, and chapter 44 points out that Einarr has used this kenning. Ynglinga saga gives her a sister, Gersemi, whose name also means 'treasure'.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hoddmimis-holt": {
+   "en": "Hoddmímis holt ('Hoddmímir's wood') is the place where the two humans Líf and Lífþrasir survive the fire of Surtr at Ragnarök, living on the morning dew; from them the new world is peopled (Gylfaginning chapter 53, quoting Vafþrúðnismál 45). Who Hoddmímir is, perhaps the same as Mímir, and whether the wood is Yggdrasill itself, is not said in the sources.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hordar": {
+   "en": "The Hörðar are the people of Hörðaland on the west coast of Norway. They appear only in court verse quoted in Skáldskaparmál, where 'warden' or 'king of the Hörðar' stands for a Norwegian ruler: in stanzas quoted in chapter 61 (kennings for weapons and battle), chapter 66 (terms for kings) and chapter 75.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hraesvelgr": {
+   "en": "Hræsvelgr (\"corpse-swallower\") is a giant in the shape of an eagle who sits at the end of heaven; when he spreads his wings the winds rise from under them and blow over the world. Óðinn learns this from the giant in Vafþrúðnismál 37, and Snorri repeats it, placing Hræsvelgr at the northern end of heaven and quoting the stanza, in Gylfaginning chapter 18, as the answer to where the wind comes from.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hrimnir": {
+   "en": "Hrímnir (roughly \"the frosty one\") is a giant. In Skírnismál 28 Skírnir threatens Gerðr that Hrímnir will stand and stare at her if she refuses Freyr. Völuspá in skamma 4 names his children Heiðr and Hrossþjófr. In a skaldic stanza quoted in Skáldskaparmál chapter 11 the poet speaks of stirring \"Hrímnir's horn-stream\", a kenning for poetry as the giants' drink.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hronn": {
+   "en": "Hrönn, \"wave\", is one of the nine daughters of Ægir and Rán, whose names are poetic words for waves. She appears in the lists of these daughters in Skáldskaparmál chapter 33, where the sea may be called the father of Ægir's daughters, and chapter 76, among the heiti for sea and waves. Hrönn is also the name of one of the rivers flowing from Hvergelmir in Gylfaginning chapter 39.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hyrrokkin": {
+   "en": "Hyrrokkin is the giantess summoned from Jötunheimr to launch Baldr's funeral ship Hringhorni, which the gods cannot move. In Gylfaginning chapter 49 she arrives riding a wolf with vipers for reins; four of Óðinn's berserks cannot hold the beast until they fell it, and she pushes the ship out at the first shove, so hard that fire flies from the rollers. Þórr wants to strike her down, but the gods protect her. A stanza of Þorbjörn dísarskáld in Skáldskaparmál chapter 11, by contrast, lists her among the giantesses Þórr has killed.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "ivaldi": {
+   "en": "Ívaldi is the father of the dwarves who made Freyr's ship Skíðblaðnir, the best of ships, which always has a fair wind and can be folded up like a cloth (Gylfaginning chapter 43, quoting Grímnismál 43; the stanza is also quoted in Skáldskaparmál chapter 14). In Snorri's account of the smiths' wager, the sons of Ívaldi also make Sif's golden hair and Óðinn's spear Gungnir. Ívaldi himself does nothing in the surviving stories.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "jarnvidr": {
+   "en": "Járnviðr ('iron wood') is the forest east of Miðgarðr where an old giantess bears wolves as her offspring. In Völuspá 40 she sits there and breeds the brood of Fenrir, one of whom will snatch away the sun. Snorri retells this, saying that troll-women called Járnviðjur live in the wood and that the mightiest of the wolves, Mánagarmr, will swallow the moon (Gylfaginning chapter 12), and quotes the same stanza.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "knefrodr": {
+   "en": "Knéfröðr is the messenger whom King Atli sends to invite Gunnarr and Högni to his court, a journey that leads to their deaths. Atlakviða 1 and 2 describe him arriving at the Gjúkungar's hall and delivering Atli's crafty invitation. The prose of Dráp Niflunga calls the messenger \"Vingi or Knéfröðr\"; Atlamál names him Vingi.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "kolga": {
+   "en": "Kólga is one of the nine daughters of the sea-god Ægir and Rán, who personify the waves; the name means roughly \"the cool one\". She appears in the list of the daughters in Skáldskaparmál chapter 33, where the sea may be called their father, and again in the name lists of chapter 76, among the six daughters named by Einarr Skúlason.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "laeradr": {
+   "en": "Læraðr is the tree standing by Valhöll. Grímnismál 25 and 26 tell that the goat Heiðrún and the hart Eikþyrnir both crop its branches: from Heiðrún's udders flows the mead of the einherjar, and from Eikþyrnir's horns a stream drops into Hvergelmir, the source of all rivers. Snorri retells this in Gylfaginning chapter 39, adding that Heiðrún fills a vat each day large enough to make all the champions drunk. It is often thought to be Yggdrasill under another name, though the poems do not say so.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "litr": {
+   "en": "Litr is the name of a dwarf in the list of Völuspá 12, beside Vitr, Nýr and Nýráðr, repeated in Gylfaginning chapter 14. In Gylfaginning chapter 49 a dwarf called Litr runs before Þórr's feet as he hallows Baldr's pyre with Mjöllnir; Þórr kicks him into the fire and he burns. Whether Snorri took the name for this episode from the dwarf list is not known. The word litr means 'colour' or 'appearance'.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "ljosalfar": {
+   "en": "The Ljósálfar (light-elves) live in Álfheimr. Snorri contrasts them with the dark-elves who live down in the earth: the light-elves are fairer to look upon than the sun, the dark-elves blacker than pitch (Gylfaginning chapter 17). He adds that in Víðbláinn, the third heaven, only light-elves are believed to dwell for now (same chapter). They play no part in the stories.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "logafjoll": {
+   "en": "Logafjöll ('flame mountains') is the place where Helgi Hundingsbani fights the sons of Hundingr. In Helgakviða Hundingsbana I the warriors choose their field there (13), and light flashes from Logafjöll as the valkyries appear above the battle (15). The prose of Helgakviða Hundingsbana II says that Helgi had just killed Álfr, Eyjólfr, Hjörvarðr and Hervarðr there and was sitting weary under the eagle-stone when Sigrún found him.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "maerir": {
+   "en": "The Mærir are the people of Mœrr (Møre) in western Norway. In Háttatal Snorri twice calls the prince he praises the ruler of the Mærir, once in a refrain and once when he recalls the fifteen gifts he received for four poems (Háttatal chapter 3). In a verse of Refr quoted in Skáldskaparmál chapter 10 the compound \"rock-Mærir\" stands for giants or dwarfs, in a kenning for poetry.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "menglod": {
+   "en": "Menglöð (\"necklace-glad\") is the maiden whom Svipdagr seeks in Fjölsvinnsmál. She dwells in a hall guarded by the watchman Fjölsviðr, who answers Svipdagr's questions about the maidens sitting at her knees (stanza 37) and declares that no man may sleep in her arms save Svipdagr, to whom the sun-bright maid is destined as bride (stanzas 41-42). When Svipdagr reveals his name, she welcomes him as her long-awaited lover.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "modir": {
+   "en": "Móðir, \"Mother\", is the wife of Faðir (Father) in Rígsþula, the third and richest of the couples visited by Rígr. In stanza 27 Rígr finds the pair in their hall gazing at each other while Faðir makes bows and arrows; in stanza 31 Móðir sets the table with an embroidered linen cloth and white wheaten bread. Nine months after Rígr's visit she bears a fair-haired, keen-eyed son wrapped in silk, Jarl, ancestor of the nobility (stanza 34).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "mundilfari": {
+   "en": "Mundilfari is the father of the moon and the sun. In Vafþrúðnismál 23 the giant tells Óðinn that he begat Máni and Sól, who must run their course each day to mark time for men. Snorri adds in Gylfaginning chapter 11 that he named his beautiful children after the heavenly bodies and married his daughter to Glenr, which angered the gods, who set the pair in the sky. In Skáldskaparmál chapter 34 the sun may be called Mundilfari's daughter.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "nari": {
+   "en": "Nari or Narfi is a son of Loki and his wife Sigyn (Gylfaginning chapter 33), and 'father of Nari' is a kenning for Loki (Skáldskaparmál chapter 23). When the Æsir capture Loki after the death of Baldr, they turn his son Váli into a wolf, who tears his brother Narfi apart; Loki is then bound with Narfi's entrails, which turn to iron (Gylfaginning chapter 50). In Lokasenna's closing prose the son is called Nari and the wolf son Narfi, so the names vary between sources.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "norvi": {
+   "en": "Nörvi (also Narfi or Nörr) is the giant who is the father of Nótt, Night. Vafþrúðnismál 25 says that night was begotten by him, and in Alvíssmál 29 Þórr asks the dwarf for the names of night, 'Nörvi's daughter', in all the worlds. In Forspjallsljóð 7 a woman is said to be unhappy with Nörvi's daughter, that is, with night.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "ragnarr": {
+   "en": "Ragnarr loðbrók is the legendary Danish viking king to whom Bragi the Old addressed his Ragnarsdrápa, a poem describing scenes on a painted shield. Snorri quotes it for the fall of Hamðir and Sörli (Skáldskaparmál chapter 51) and for the endless battle of the Hjaðningar (Skáldskaparmál chapter 62). Háttatal chapter 2 also cites a verse attributed to Ragnarr himself as an example of an old form of dróttkvætt.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "roskva": {
+   "en": "Röskva is the daughter of the farmer at whose home Þórr and Loki lodge, and sister of Þjálfi. In Gylfaginning chapter 44 Þórr slaughters his goats for supper there, and when one goat is found lame next morning, because Þjálfi split its thigh-bone for the marrow, the farmer gives up both children in compensation. Röskva and Þjálfi become Þórr's servants and go with him on the journey towards Útgarða-Loki (chapter 45). Her name means roughly \"the vigorous one\".",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "saga": {
+   "en": "Sága is a goddess, counted in Gylfaginning chapter 35 as the second of the Ásynjur, who dwells at Sökkvabekkr, a great abode. Grímnismál 7 describes Sökkvabekkr, where cool waves murmur, as the place where Óðinn and Sága drink together every day from golden cups. Little else is told of her, and some scholars have seen her as a form of Frigg.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "sigarsvellir": {
+   "en": "Sigarsvellir ('Sigarr's fields') is a place in the Helgi poems. In Helgakviða Hundingsbana I 8 it is one of the estates that Sigmundr gives to his newborn son Helgi. In Helgakviða Hjörvarðssonar it is where King Álfr, son of Hróðmarr, appoints a battle with Helgi Hjörvarðsson, and where Helgi foresees that he will fall (prose, and 35).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "silfrintoppr": {
+   "en": "Silfrintoppr ('silver-forelock') is one of the horses that the Æsir ride each day to their court at Yggdrasill. It is named in the list of these horses in Grímnismál 30 and in Snorri's version of the list (Gylfaginning chapter 15), and again in Þorgrímsþula, preserved among the Eddubrot fragments. Nothing more is told of it.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "sindri": {
+   "en": "Sindri is the dwarf smith, brother of Brokkr, against whom Loki wagers his head. In Skáldskaparmál chapter 43 he forges the boar with golden bristles, the ring Draupnir and the hammer Mjöllnir while Brokkr works the bellows, though a fly (Loki in disguise) stings Brokkr. Some manuscripts call the smith Eitri. In Gylfaginning chapter 52 Sindri is the name of a golden hall on Niðafjöll where the good will live after Ragnarök, drawn from Völuspá's \"race of Sindri\".",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "sinmara": {
+   "en": "Sinmara is a female figure in Fjölsvinnsmál, apparently a giantess associated with Surtr. An obscure stanza links the cock Víðópnir on Mímir's tree with Surtr and Sinmara (stanza 24). The weapon Lævateinn, made by Loptr (Loki), lies in a chest beside Sinmara fastened with nine locks (stanza 26), and she will give it up only in exchange for a bright sickle taken from Víðópnir's feathers (stanza 30), which in turn can be won only with Lævateinn.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "skilfings": {
+   "en": "The Skilfingar are a royal house. Skáldskaparmál chapter 80 derives them from a war-king named Skelfir and places their kindred in the eastern lands; their name, like those of other dynasties, was used in poetry as a word for a king. In Hyndluljóð 11 Freyja asks Hyndla to recount the descent of the Skjöldungar, Skilfingar, Öðlingar and Ylfingar, and in stanza 16 they are among the houses from which Óttarr descends. They correspond to the Scylfingas, the Swedish royal house of Beowulf.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "skinfaxi": {
+   "en": "Skinfaxi ('shining mane') is the horse that draws Dagr, the day, across the sky. In Vafþrúðnismál 12 Óðinn names him as the best of horses, whose mane shines brightly. Snorri tells in Gylfaginning chapter 10 how the All-father gave Nótt and her son Dagr each a horse and a chariot; Nótt's horse is Hrímfaxi, Dagr's is Skinfaxi, and all the sky and earth are lit by his mane. Skáldskaparmál chapter 72 names Skinfaxi or Glaðr as the horses that accompany the day.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "skjoldr": {
+   "en": "Skjöldr is the founder of the Skjöldungar, the royal house of the Danes. In Snorri's Prologue (chapter 4) he is a son of Óðinn, set to rule the land then called Reiðgotaland, now Jutland; Skáldskaparmál chapter 52 says he ruled what is now Denmark, then called Gotland, and was father of Friðleifr and grandfather of Fróði, after whose peace gold is called 'Fróði's meal'. The Skjaldun 'whom we call Skjöld' among Óðinn's own forefathers in Prologue chapter 3 is a different figure of the same learned genealogy.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "skoll": {
+   "en": "Sköll is the wolf that chases the sun. Snorri says that the sun runs fast because Sköll is after her and will one day catch her, while Hati Hróðvitnisson runs ahead and seeks the moon (Gylfaginning chapter 12). Grímnismál 39 gives the same pair. In Heiðreksgátur the answer to one of Gestumblindi's riddles names the two wolves before and behind the sun as Skalli and Hatti.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "sol": {
+   "en": "Sól (\"Sun\") is the sun personified, daughter of Mundilfari and sister of Máni (Moon). Gylfaginning chapter 11 tells that her father named his children after the heavenly bodies and married her to Glenr; the angry gods set her in the sky to drive the horses Árvakr and Alsviðr, which draw the sun's chariot. In Vafþrúðnismál 23 the giant tells Óðinn that Mundilfari is the father of Máni and Sól.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "surtalogi": {
+   "en": "Surtalogi, \"Surtr's flame\", is the fire with which the giant Surtr burns heaven and earth at Ragnarök. In Gylfaginning chapter 17 Gangleri asks what will protect the hall Gimlé when that fire comes. In chapter 53 Hárr tells that Víðarr and Váli will survive, harmed neither by the sea nor by Surtr's fire, and quotes a stanza in which they dwell in the gods' shrines \"when the fire of Surtr is slackened\".",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "svarinshaugr": {
+   "en": "Svarinshaugr, \"Svarinn's mound\", is the seat of King Granmarr in the Helgi poems. The prose of Helgakviða Hundingsbana II says that Granmarr, father of Höðbroddr, Guðmundr and Starkaðr, lived there, and in Helgakviða Hundingsbana I 31 those watching from Svarinshaugr see Helgi's fleet arrive with dismay. In a separate use, the dwarf list quoted in Gylfaginning chapter 14 names a group of dwarfs who travelled from Svarinshaugr to Aurvangar on Jöruvellir.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "sviagris": {
+   "en": "Svíagríss ('pig of the Swedes') is a gold ring that had belonged to the forefathers of King Aðils of Uppsala. In Skáldskaparmál chapter 54 Hrólfr kraki's berserks claim it for him and are refused; Queen Yrsa then gives Hrólfr a horn full of gold with the ring in it. As Aðils pursues him across Fýrisvellir, Hrólfr strews the gold on the road and finally throws down the ring itself; Aðils stoops to pick it up with his spear, and Hrólfr mocks him for bending like a swine.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "swedes": {
+   "en": "The Svíar (Swedes) appear in Snorri's tale of Hrólfr kraki's ride from Uppsala: when King Aðils pursues him across the Fýrisvellir, Hrólfr strews gold on the road, the Swedes leap from their horses to gather it, and Hrólfr mocks Aðils as 'mightiest of Swedes' when the king stoops for the ring Svíagríss (Skáldskaparmál chapter 54). A verse in Skáldskaparmál chapter 70 calls Óláfr 'king of the Swedes'.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "thorleikr": {
+   "en": "Þorleikr fagri ('the fair') was an eleventh-century Icelandic skald who composed for the Danish king Sveinn Úlfsson. Snorri quotes him for kennings for gold: a half-stanza on a young prince giving 'embers of the arm' and 'crucible-load' (Skáldskaparmál chapter 56), and the term gold-thrower for a generous ruler (Skáldskaparmál chapter 57). He is also cited for a word for wave among the names of the sea (Skáldskaparmál chapter 76).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "thrivaldi": {
+   "en": "Þrívaldi (\"thrice mighty\") is a nine-headed giant killed by Þórr; the myth itself is not told. Snorri lists \"slayer of Þrívaldi\" among the kennings for Þórr in Skáldskaparmál chapter 11 and quotes two skaldic stanzas that allude to the deed: one praises Þórr as the splitter of Þrívaldi's nine heads, and the other, by Vetrliði, lists Þrívaldi among the giants and giantesses Þórr has struck down.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "thrudvangr": {
+   "en": "Þrúðvangr, in Snorri's plural form Þrúðvangar, \"fields of strength\", is the realm of Þórr, where his hall Bilskirnir stands (Gylfaginning chapter 21). Þórr returns there with the whetstone still lodged in his head after the fight with Hrungnir (Skáldskaparmál chapter 25), and again after his humbling at Útgarða-Loki's (Gylfaginning chapter 47). Grímnismál calls his home Þrúðheimr instead.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "uppsala": {
+   "en": "Uppsala (Old Norse Uppsalir) in central Sweden was the seat of the Swedish kings. In Skáldskaparmál chapter 54 Hrólfr kraki rides there with his berserks to claim the payment King Aðils owes him, endures the ordeal of the fire heaped up before them, and escapes across Fýrisvellir. In Hjálmarskviða 7 the dying Hjálmarr asks for his ring to be taken to Ingibjörg, grieving that he will never come to Uppsalir.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "valland": {
+   "en": "Valland is the Norse name for the lands of the Romance-speaking peoples, chiefly France. In Hárbarðsljóð 24 Hárbarðr (Óðinn) boasts that he was in Valland and stirred up wars among princes. In the prose of Völundarkviða the swan-maiden Ölrún is the daughter of Kjárr of Valland, and in Helreið Brynhildar 2 a giantess asks the dead Brynhildr why she comes 'from Valland' to her house.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "vigridr": {
+   "en": "Vígríðr is the field where the last battle of Ragnarök is fought. Snorri says that the sons of Múspell, Fenrir, the Miðgarðr serpent, Loki and Hrymr with the frost-giants all gather there, and that it stretches a hundred leagues each way (Gylfaginning chapter 51). He quotes a stanza from Vafþrúðnismál naming it as the place where Surtr and the gods will meet.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "agdir": {
+   "en": "Agðir (Agder) is the coastal region at the southern tip of Norway. It appears only in skaldic verses quoted by Snorri: in Skáldskaparmál chapter 64 a ship sails past Karmøy and the coast of Agðir, and in Skáldskaparmál chapter 70 a land is laid low from the Veiga northward to Agðir in the south.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "alvissmal": {
+   "en": "Alvíssmál, \"the sayings of Alvíss\", is the Eddic poem in which Þórr questions the dwarf Alvíss, who has come to claim his daughter, about the names of things in the languages of gods, men, giants and others, until the sun rises and turns the dwarf to stone. Snorri cites it as Alsvinnsmál for synonyms in Skáldskaparmál chapter 74, for names of the winds, and chapter 78, for names of night.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "amlodi": {
+   "en": "Amlóði is the legendary figure known from Saxo Grammaticus as Amlethus, the original of Shakespeare's Hamlet. His only appearance in the Eddas is in a stanza by Snæbjörn quoted in Skáldskaparmál chapter 33, in which nine maidens of the skerries (the waves) churn the mill Grótti far beyond the edge of the earth; Snorri explains that here the sea is called Amlóði's mill (kvern). The story behind the kenning is lost.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "andvarafors": {
+   "en": "Andvarafors ('Andvari's falls') is the waterfall where the dwarf Andvari lived in the shape of a pike. In the opening prose of Reginsmál, Reginn tells Sigurðr how Óðinn, Hœnir and Loki came there; Loki killed the otter Otr, Reginn's brother, and later caught Andvari in a net and forced him to yield his gold, including the ring on which Andvari laid his curse.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "augustus": {
+   "en": "Augustus is the Roman emperor. Snorri dates the Danish king Fróði by him: Fróði came to the throne when Augustus established peace over the whole world and Christ was born, and the peace of the north was named after Fróði (Skáldskaparmál chapter 52). The same passage serves as the prose introduction to Gróttasöngr.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "aurvangar": {
+   "en": "Aurvangar (roughly \"mud-plains\" or \"gravel-fields\") is a place in the dwarf catalogue: Völuspá 14 says that the dwarfs of Dvalinn's company went from the rock of the hall to the dwelling of Aurvangar on Jöruvellir, and Snorri, quoting the list in Gylfaginning chapter 14, says they went from Svarinshaugr to Aurvangar. Lofarr is said to come from them.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "austri": {
+   "en": "Austri (\"easterner\") is one of the four dwarves whom Snorri places at the corners of the sky, which the gods made from Ymir's skull, together with Norðri, Suðri and Vestri. Accordingly the sky may be called the helmet of Austri and his fellows, as Skáldskaparmál chapter 31 explains, and in a stanza by Arnórr jarlaskáld quoted there the end of the world is pictured as the bursting of \"Austri's toil\". The name also occurs in the dwarf lists of Völuspá and Gylfaginning.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "blain": {
+   "en": "Bláinn is a name in Völuspá 9, quoted by Snorri in Gylfaginning chapter 14: the gods meet in council to decide who should shape the race of dwarfs out of Brimir's blood and Bláinn's limbs. The passage is usually taken to mean the blood and bones of the primeval giant Ymir, with Brimir and Bláinn as names for him, though this is not certain.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "bolthorn": {
+   "en": "Bölþorn ('evil thorn') is a giant, father of Bestla and so grandfather of Óðinn, Vili and Vé through Bestla's marriage to Borr (Gylfaginning chapter 6). In Hávamál 140 Óðinn says that he learned nine mighty songs from the son of Bölþorn, Bestla's father; this unnamed son, Óðinn's maternal uncle, is not identified.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "bralundr": {
+   "en": "Brálundr is the home of Helgi Hundingsbani's mother. Helgakviða Hundingsbana I 1 says that Helgi, son of Borghildr, was born there. The opening prose of Helgakviða Hundingsbana II calls Borghildr, the wife of Sigmundr, 'from Brálundr'.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "budlungar": {
+   "en": "The Buðlungar are the descendants of King Buðli, among them Atli and Brynhildr. Skáldskaparmál chapter 80 names Buðli among the legendary ancestors of famous royal families. In Atlakviða 42 the hall that Guðrún sets on fire after killing Atli is called the dwelling of the Buðlungar.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "daughters-of-aegir": {
+   "en": "The daughters of Ægir are the nine daughters of the sea-giant Ægir and Rán, who personify the waves of the sea. Skáldskaparmál chapter 33 names them as Himinglæva, Dúfa, Blóðughadda, Hefring, Uðr, Hrönn, Bylgja, Bára and Kólga, and explains that the sea may be called their father and their land. Their names, such as Hrönn and Bylgja, are ordinary poetic words for waves, and are used in skaldic verse in that sense.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "dokkalfar": {
+   "en": "The Dökkálfar, \"dark elves\", are one of the two kinds of elves described in Gylfaginning chapter 17. Unlike the Ljósálfar of Álfheimr, who are fairer than the sun, the dark elves live down in the earth and are blacker than pitch, and they differ from the light elves even more in nature than in looks. How they relate to the svartálfar and the dwarfs of Snorri's other tales is not made clear.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "drosull": {
+   "en": "Drösull is a legendary horse, ridden by Dagr according to Kálfsvísa, a verse list of famous riders and their mounts. Snorri quotes it among the horse names in Skáldskaparmál chapter 72, and the same list is preserved in the Eddubrot. Nothing more is told of it.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "eir": {
+   "en": "Eir is one of the goddesses of the Æsir. Snorri lists her third among them and says only that she is the best of physicians (Gylfaginning chapter 35). In Fjölsvinnsmál 38 Eir is one of the maidens who sit at the knees of Menglöð. The name means roughly 'help, mercy'.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "elli": {
+   "en": "Elli ('old age') is the old woman whom Útgarða-Loki calls his foster-mother and sets to wrestle with Þórr after his other trials. She brings him down on one knee (Gylfaginning chapter 46). Next morning Útgarða-Loki explains that she was old age itself, which brings everyone down, and that it was a marvel that Þórr stood so long (Gylfaginning chapter 47).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "embla": {
+   "en": "Embla is the first woman, made with Askr, the first man, from two trees. In Völuspá 17 three gods find them on the land \"empty of might\" and without fate, and give them breath, mind and life; in Gylfaginning chapter 9 the makers are the sons of Borr, who find two trees on the sea-strand, shape them into a man and a woman and name them Askr and Embla, ancestors of all mankind.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "eyfura": {
+   "en": "Eyfura is the wife of Arngrímr and mother of his berserk sons, among them Angantýr, Hjörvarðr and Hervarðr. Hyndluljóð 22 tells that the sons of Arngrímr and Eyfura were born in Bolmr in the east and raged over land and sea, and counts them among Óttarr's kinsmen. In Hervararkviða 10 Angantýr's daughter Hervör calls on her dead father and uncles in their mounds on Sámsey, complaining that none of Eyfura's sons will speak with her at Munarvágr.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "eysteinn": {
+   "en": "Eysteinn Valdason is a skald known from verses on Þórr's fishing for the Miðgarðsormr, quoted by Snorri in Skáldskaparmál chapter 11 among the kennings for Þórr. The lines call Þórr the father of Þrúðr and the husband of Sif, and picture him glaring at the serpent as the sea floods into the boat.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "fjoturlundr": {
+   "en": "Fjöturlundr ('fetter-grove') is the place where Helgi Hundingsbani is killed. In Helgakviða Hundingsbana II Dagr, son of Högni, sacrifices to Óðinn for revenge for his father, receives Óðinn's spear and runs Helgi through at Fjöturlundr, as the prose says; in stanza 30 Dagr tells his sister Sigrún that the noblest prince in the world fell there that morning.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "folkvangr": {
+   "en": "Fólkvangr ('field of the host') is the dwelling of Freyja in heaven. Grímnismál 14 counts it the ninth of the divine dwellings, where Freyja chooses the seats in her hall and takes half of the slain each day while Óðinn has the other half; Snorri repeats this in Gylfaginning chapter 24, adding that her hall there is called Sessrúmnir.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "folkvir": {
+   "en": "Fölkvir is a horse name, found only in Kálfsvísa, which says that Haraldr rode Fölkvir. The verse is quoted in the list of horses in Skáldskaparmál chapter 72 and again among the Eddubrot fragments. Nothing else is told of the horse.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "frosti": {
+   "en": "Frosti (\"frosty one\") is a dwarf named only in the catalogue of dwarfs of Lofarr's line, in Völuspá 16 and in Snorri's quotation of the same list in Gylfaginning chapter 14.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "galar": {
+   "en": "Galarr is a dwarf who, with his brother Fjalarr, kills Kvasir and mixes his blood with honey to make the mead of poetry, collected in the kettle Óðrerir and the vats Són and Boðn (Skáldskaparmál chapter 5). The brothers tell the Æsir that Kvasir choked on his own wisdom. They then drown the giant Gillingr, and at Fjalarr's bidding Galarr drops a millstone on the head of Gillingr's weeping wife. Gillingr's son Suttungr forces the dwarves to give up the mead as compensation.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gandalfr": {
+   "en": "Gandálfr is a dwarf in the list of dwarf names in Völuspá 12, which Snorri repeats in Gylfaginning chapter 14. The name is usually understood as \"wand-elf\" or \"sorcerer-elf\". It is known today mainly because J. R. R. Tolkien took it, with several other names from this list, for The Hobbit.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gardrofa": {
+   "en": "Garðrofa ('fence-breaker') is a mare, the mother of Hófvarpnir by the stallion Hamskerpir. She is known only from the verse in Gylfaginning chapter 35, where the goddess Gná, Frigg's messenger, tells the Vanir watching her ride through the air that she does not fly but rides Hófvarpnir, the horse Hamskerpir got on Garðrofa. The same verse is preserved in the Eddubrot.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "geirvimul": {
+   "en": "Geirvimul is one of the rivers that flow from the spring Hvergelmir, fed by the moisture that drips from the horns of the hart Eikþyrnir on Valhöll. It appears only in the river list in Gylfaginning chapter 39 and in the corresponding name list of Grímnismál 27, where these rivers flow through the lands of the gods.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "ginnarr": {
+   "en": "Ginnarr is a dwarf named only in the catalogue of dwarfs of Lofarr's line, as the last name in Völuspá 16 and in Snorri's quotation of the same list in Gylfaginning chapter 14. The name probably means something like \"deceiver\".",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gladr": {
+   "en": "Glaðr (\"the bright\" or \"the glad one\") is a horse. In Gylfaginning chapter 15 it is second in the list of the horses the Æsir ride each day over Bifröst to their court at the well of Urðr, after Óðinn's Sleipnir. In the name lists of Skáldskaparmál chapter 72 Glaðr appears instead as an alternative name for the horse that draws the day, beside Skinfaxi.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gna": {
+   "en": "Gná is a goddess, the fourteenth of the Ásynjur in Gylfaginning chapter 35. Frigg sends her on errands into various worlds, riding the horse Hófvarpnir, which runs over sky and sea. Some of the Vanir once see her riding through the air and ask what it is that flies there; she answers in a short verse. The same account appears in the Eddubrot.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gopul": {
+   "en": "Göpul is one of the rivers that flow from Hvergelmir. In Gylfaginning chapter 39 they come from the drops falling from the antlers of the hart Eikþyrnir, which stands on Valhöll, and Göpul is named with Gípul, Gömul and Geirvimul among those that flow about the dwellings of the Æsir. It appears in the river list of Grímnismál 27 from which Snorri draws.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "grafvolludr": {
+   "en": "Grafvölluðr is one of the serpents that gnaw at the roots and twigs of Yggdrasill. It is named only in the list in Grímnismál 34, which Snorri quotes in Gylfaginning chapter 16, alongside Góinn, Móinn, Grábakr, Ófnir and Sváfnir. The name means roughly 'one who digs under the field'.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "grjottunagardar": {
+   "en": "Grjóttúnagarðar is the place on the border where Þórr fights the giant Hrungnir. In Snorri's story Hrungnir, unarmed in Ásgarðr, challenges Þórr to meet him there; the giants then make a man of clay at Grjóttúnagarðar, nine miles high, to stand with Hrungnir (Skáldskaparmál chapter 24).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "grottasongr": {
+   "en": "Gróttasöngr (\"the song of Grótti\") is the Eddic poem sung by the giant slave-women Fenja and Menja as they turn the magic mill Grótti for King Fróði. Snorri tells the story in Skáldskaparmál chapter 52: Fróði would let them rest no longer than a song took, so they sang this poem and ground out an army against him, and the sea-king Mýsingr killed him that night. The same prose precedes the poem in this edition.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gunnthro": {
+   "en": "Gunnþró is one of the mythical rivers; the first element of the name means \"battle\". In Gylfaginning chapter 39 it is among the streams fed by the drops from the horns of the hart Eikþyrnir, which run into Hvergelmir and flow about the dwellings of the Æsir, and it appears in the river list of Grímnismál 27, among the rivers that flow through the gods' lands. Snorri's form of the name in that list is Gunnþrá.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "haefir": {
+   "en": "Hæfir is an ox, not a horse, despite its tag here. It appears only in the list of ox names from Þorgrímsþula quoted in Skáldskaparmál chapter 73 and given again in the Eddubrot, alongside Rauðr, Rekinn, Himinhrjóðr and others.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hafeti": {
+   "en": "Háfeti ('high-stepper') is a legendary horse, ridden by Hjálmþér according to Kálfsvísa, a verse list of famous riders and their mounts. Snorri quotes it among the horse names in Skáldskaparmál chapter 72, and the same list is preserved in the Eddubrot. Nothing more is told of it.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hallar-steinn": {
+   "en": "Hallar-Steinn is an Icelandic skald quoted twice by Snorri in Skáldskaparmál chapter 58, on kennings for women: for 'willow' of gold, and for 'forest' (mörk) in a woman-kenning. Both half-stanzas address or recall a woman. Nothing else about him appears in the Eddas.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hamskerpir": {
+   "en": "Hamskerpir is a horse, sire of Hófvarpnir, the horse ridden through the air by Frigg's messenger Gná, with the mare Garðrofa as dam. He is named only in the verse that Snorri quotes in his account of Gná (Gylfaginning chapter 35), which recurs among the Eddubrot fragments.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hatafjordr": {
+   "en": "Hatafjörðr is the fjord where Helgi Hjörvarðsson and his companion Atli lie with their ships after Helgi has killed the giant Hati (Helgakviða Hjörvarðssonar, prose). There Hati's daughter, the giantess Hrímgerðr, hails them in stanza 12, asking who the heroes in Hatafjörðr are, and an exchange of insults with Atli follows through the night.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hati": {
+   "en": "Hati Hróðvitnisson is a wolf who pursues the heavenly bodies. In Gylfaginning chapter 12 Hárr explains that two wolves chase the sun and moon: Sköll runs after the sun, while Hati runs ahead of her and longs to seize the moon. Grímnismál 39 calls Hati the son of Hróðvitnir, a name of Fenrir. At Ragnarök the wolves will swallow sun and moon.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "haustlong": {
+   "en": "Haustlöng is a shield poem by the Norwegian skald Þjóðólfr of Hvinir, describing mythological scenes painted on a shield given to him by a man named Þorleifr. Snorri quotes it for two myths in Skáldskaparmál: Þórr's duel with the giant Hrungnir (chapter 25) and the theft of Iðunn by the giant Þjazi, with Loki's part in it (chapter 30).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "heimdallargaldr": {
+   "en": "Heimdallargaldr ('Heimdallr's incantation') is a lost poem in which Heimdallr speaks of himself. Snorri quotes two lines from it in Gylfaginning chapter 27, \"I am the son of nine mothers, the son of nine sisters\", and he also mentions it in Skáldskaparmál as the source of the story that a man's head is called Heimdallr's sword. The same citation is found in the Eddubrot.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "herfjotur": {
+   "en": "Herfjötur ('host-fetter') is a valkyrie, named only in the list of valkyries who bear drink to the einherjar in Valhöll, in Grímnismál 36, quoted by Snorri in Gylfaginning chapter 36.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hervor-alvitr": {
+   "en": "Hervör alvitr ('all-wise') is a swan-maiden and valkyrie in Völundarkviða, daughter of King Hlöðvér and sister of Hlaðguðr svanhvít. The opening prose tells how she and her companions were found spinning on a lake shore; Völundr took her as his wife, and after seven winters she flew away to battle. Stanza 15 names her parentage. In the verses of the poem she is called Alvitr.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "himinhrjod": {
+   "en": "Himinhrjóðr is the largest ox of the giant Hymir's herd. In Gylfaginning chapter 48 Þórr cuts off its head to use as bait when he goes fishing with Hymir and hooks the Miðgarðr serpent; the translation follows the variant form Himinbrjótr. The name also appears in the verse list of ox names in Skáldskaparmál chapter 73.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "himinvangar": {
+   "en": "Himinvangar (\"heavenly fields\") is one of the estates that Sigmundr gives his newborn son Helgi in Helgakviða Hundingsbana I 8. The word recurs in stanza 15, where the valkyries appear in a blaze of light from Logafjöll, riding helmeted \"on Himinvangar\"; editors differ on whether this is the same place or a poetic phrase for the sky.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hjalmgunnarr": {
+   "en": "Hjálmgunnarr is an old king and great warrior in the prose of Sigrdrífumál. The valkyrie Sigrdrífa tells Sigurðr that two kings fought, and Óðinn had promised the victory to Hjálmgunnarr; but she struck him down in the battle. In punishment Óðinn pricked her with a sleep-thorn and decreed that she should never again win victory but should be married, and she vowed in turn to wed only a man who knew no fear.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hjuki": {
+   "en": "Hjúki is one of the two children, with Bil, whom Máni, the moon, takes up from the earth as they come from the well Byrgir carrying the bucket Sægr on the pole Simul. Snorri tells this in Gylfaginning chapter 11, adding that their father is Viðfinnr and that they follow the moon, as can be seen from the earth. A half-stanza naming the bucket, the pole and the pair is preserved in the Eddubrot.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hlymdalir": {
+   "en": "Hlymdalir ('resounding dales') is the home of Heimir, Brynhildr's foster-father. Snorri says that Áslaug, daughter of Sigurðr, was brought up there with Heimir (Skáldskaparmál chapter 51). In Helreið Brynhildar 6 Brynhildr says that in Hlymdalir she was known as Hildr under the helmet.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "holkvir": {
+   "en": "Hölkvir is a horse name, found only in Kálfsvísa, which says that Högni rode Hölkvir. The verse is quoted in the list of horses in Skáldskaparmál chapter 72 and again among the Eddubrot fragments. Nothing else is told of the horse.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hrid": {
+   "en": "Hríð (\"storm\") is one of the rivers that flow from the spring Hvergelmir in Niflheimr. It is named in the list of these rivers in Gylfaginning chapter 4, and in the list of rivers in Grímnismál 28 that flow among men and fall to Hel.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hringstadir": {
+   "en": "Hringstaðir is one of the estates that Sigmundr gives his newborn son Helgi in Helgakviða Hundingsbana I 8. At the end of the poem, after Helgi has defeated the sons of Granmarr, Sigrún greets him as the winner of both Högni's daughter and Hringstaðir (stanza 56). The place has sometimes been identified with Ringsted on Zealand in Denmark.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hrotti": {
+   "en": "Hrotti is a sword in the treasure of the dragon Fáfnir. In Skáldskaparmál chapter 47 Fáfnir, after killing his father Hreiðmarr, takes the helm of terror and the sword Hrotti before going to Gnitaheiðr. In the prose of Fáfnismál Sigurðr finds Hrotti in Fáfnir's lair, along with the helm of terror and a golden mail-coat, and loads them onto Grani.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "husdrapa": {
+   "en": "Húsdrápa ('house poem') is a poem by the Icelandic skald Úlfr Uggason describing carvings in the new hall of Óláfr pái in the late tenth century. Snorri names it as his source for Baldr's funeral (Skáldskaparmál chapter 12) and for the fight of Heimdallr and Loki, in the form of seals, over the Brísingamen (Skáldskaparmál chapter 15), and quotes stanzas from it elsewhere.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hvedna": {
+   "en": "Hveðna is a woman of the legendary genealogies in Völuspá in skamma: the daughter of Hjörvarðr and mother of Haki, called the best of her sons (Völuspá in skamma 4). Nothing more is told of her.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "idi": {
+   "en": "Iði is a giant, son of Ölvaldi and brother of Þjazi and Gangr. Skáldskaparmál chapter 4 tells how the brothers divided their father's gold by each taking the same number of mouthfuls, so that gold may be called the speech or words of these giants. In Gróttasöngr 9 the giant maidens Fenja and Menja name Iði and Aurnir among their kinsmen, the mountain giants from whom they are born.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "jalangrsheidr": {
+   "en": "Jalangrsheiðr is the heath at Jelling in Jutland. In the account of Fróði's peace in Skáldskaparmál chapter 52 and the prose introduction to Gróttasöngr, there was so little theft in Denmark in his reign that a gold ring lay untouched on Jalangrsheiðr for a long time.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "kalfsvisa": {
+   "en": "Kálfsvísa ('Kálfr's verse') is a short poem preserved only in the horse names of Skáldskaparmál chapter 72, also printed among the Eddubrot. In pairs of riders and horses it names, among others, Dagr on Drösull, Freyr on Blóðughófi, Áli on Hrafn at the battle on the ice, and Sigurðr on Grani.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "kerlaugar": {
+   "en": "The Kerlaugar are two rivers that Þórr must wade each day on his way to the gods' court at Yggdrasill, because Bifröst would burn under him. They are named with Körmt and Örmt in Grímnismál 29, a stanza Snorri quotes in Gylfaginning chapter 15.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "kertr": {
+   "en": "Kertr is the horse of Bjárr, named only in the verse list of riders and their horses (\"Bjárr rode Kertr\") in Skáldskaparmál chapter 72, which also survives among the Eddubrot as part of Kálfsvísa.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "kili": {
+   "en": "Kíli is a dwarf known only from the dwarf lists: Völuspá 13 and the stanza quoted from it in Gylfaginning chapter 14, where he is paired with Fíli. Tolkien took the names Fíli and Kíli, with others from the same lists, for the dwarves of The Hobbit.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "leifthrasir": {
+   "en": "Leifþrasir, also written Lífþrasir, is the man who, with the woman Líf, survives Ragnarök. In Gylfaginning chapter 53 Hárr tells that the two will lie hidden in Hoddmímir's holt during Surtr's fire, living on the morning dew, and that from them the world will be peopled again; Snorri supports this with a stanza from Vafþrúðnismál.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "leiftr": {
+   "en": "Leiptr (here Leiftr, 'lightning') is one of the rivers flowing from Hvergelmir. Snorri names it in Gylfaginning chapter 4 last before Gjöll in the rivers of Niflheimr, and it appears in Grímnismál 28 among the rivers that flow among men and fall to Hel. In Helgakviða Hundingsbana II an oath is sworn by the water of Leiptr.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "lofn": {
+   "en": "Lofn is the eighth goddess in Snorri's list of the Ásynjur. She is so gentle to those who call on her that she obtains from Óðinn or Frigg leave for men and women to marry even where it was forbidden; Snorri links her name to lof, 'permission', and lofaðr, 'praised' (Gylfaginning chapter 35). Her name serves as a base in woman-kennings, as in the verse quoted in Skáldskaparmál chapter 76.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "lungr": {
+   "en": "Lungr is a horse name found only in Þorgrímsþula, which names it with Mórr and Marr. The verse is quoted in the list of horses in Skáldskaparmál chapter 72 and again among the Eddubrot fragments. Nothing else is told of the horse.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "meili": {
+   "en": "Meili is a son of Óðinn and so a brother of Þórr. In Hárbarðsljóð 9 Þórr names himself \"Meili's brother\" when he tells the ferryman his lineage, and a skaldic verse in Skáldskaparmál chapter 31 calls Þórr \"Meili's brother\" as he drives to battle. Nothing else is told of him.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "mimisbrunnr": {
+   "en": "Mímisbrunnr is the well of Mímir, which lies under the root of the world-tree Yggdrasill that reaches towards the frost giants. Gylfaginning chapter 15 says that wisdom and understanding are hidden in it, that Mímir drinks from it out of the horn Gjallarhorn, and that Óðinn gave one eye for a single drink. At Ragnarök Óðinn rides to the well to take counsel with Mímir (chapter 51).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "mjodvitnir": {
+   "en": "Mjöðvitnir is a dwarf in the list of dwarf names in Völuspá 11, repeated in Gylfaginning chapter 14. The name means roughly \"mead-wolf\"; nothing is told of him beyond the list.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "moinsheimar": {
+   "en": "Móinsheimar is the site of a battle in the Helgi poems. A stanza found in both Helgakviða Hundingsbana I 46 and Helgakviða Hundingsbana II 24, closing the exchange of insults with Granmarr's sons, grants that although they are no friends, they proved at Móinsheimar that they had the courage to wield swords.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "mokkurkalfi": {
+   "en": "Mökkurkálfi is a clay giant made by the giants to support Hrungnir in his duel with Þórr at Grjótúnagarðar: nine leagues tall and given a mare's heart. In Skáldskaparmál chapter 24 he stands beside Hrungnir, so frightened at the sight of Þórr that he wets himself, and Þjálfi fells him 'with little glory'.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "morr": {
+   "en": "Mórr is a horse name. Kálfsvísa, quoted in the list of horses in Skáldskaparmál chapter 72, says that Meinþjófr rode Mórr; the name also appears in Þorgrímsþula, and both verses recur among the Eddubrot fragments.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "munarvagr": {
+   "en": "Munarvágr is the bay on the island of Samsey where Hervör lands to wake her dead father Angantýr and the other sons of Arngrímr in their burial mounds. In Hervararkviða 1 she meets a herdsman there at sunset, and in stanza 10 she reproaches the dead brothers that none of Eyfura's sons will speak with her in Munarvágr.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "naglfari": {
+   "en": "Naglfari is the first husband of Nótt (Night). In Gylfaginning chapter 10 Snorri tells that Nótt, daughter of the giant Nörfi, was first married to Naglfari, by whom she had a son Auðr, before her marriages to Ánarr and Dellingr. Nothing more is told of him. His name resembles that of Naglfar, the ship of dead men's nails that sails at Ragnarök, but the two are distinct.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "nainn": {
+   "en": "Náinn is a dwarf in the list of dwarf names in Völuspá 11, repeated in Gylfaginning chapter 14, where he stands beside Nár and Nípingr. Nothing is told of him beyond the list.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "nidafjoll": {
+   "en": "Niðafjöll ('dark fells') is a mountain range in the world of the dead. In Völuspá 66, the closing stanza, the dark dragon Niðhöggr comes flying from Niðafjöll bearing corpses on his wings. Snorri places there, in Gylfaginning chapter 52, the hall of red gold called Sindri, where good men will live after Ragnarök; Völuspá itself sets the golden hall of Sindri's kin on Niðavellir.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "nidi": {
+   "en": "Niði ('waning moon') is a dwarf, named only in the list of dwarves in Völuspá 11, which Snorri quotes in Gylfaginning chapter 14, together with Nýi ('new moon'), Norðri and Suðri.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "niflhel": {
+   "en": "Niflhel ('misty Hel') is the lowest realm of the dead. Snorri says that evil men go to Hel and from there down to Niflhel, in the ninth world (Gylfaginning chapter 3). In Vafþrúðnismál 43 the giant claims to have travelled through nine worlds down to Niflhel, where the dead go.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "nordrlond": {
+   "en": "Norðrlönd (\"the northern lands\") is the general name for Scandinavia and the north. Snorri uses it when he says Fróði was the mightiest king in the northern lands, which is why the peace of his time bore his name (prose before Gróttasöngr), and Vöggr says he had heard that King Hrólfr of Hleiðr was the greatest man in the northern lands (Skáldskaparmál chapter 53).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "nori": {
+   "en": "Nóri is a dwarf known only from the dwarf lists, where he is named after Bifurr, Báfurr and Bömburr: Völuspá 11 and the stanza quoted from it in Gylfaginning chapter 14. Tolkien used the name, with others from the same lists, for one of the dwarves of The Hobbit.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "not": {
+   "en": "Nöt is a mythical river. It appears only in river lists: in Gylfaginning chapter 39 among the rivers that flow from Hvergelmir, fed from the horns of the hart Eikþyrnir, and in Grímnismál 28 among the rivers that run among men and fall to Hel.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "nyradr": {
+   "en": "Nýráðr is a dwarf named in the list of Völuspá 12, next to Nýr, Vitr and Litr, and again in the version of the list quoted by Snorri in Gylfaginning chapter 14. Nothing is told of him beyond the name.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "okolnir": {
+   "en": "Ókólnir ('never cold') is the place where the giant Brimir's beer-hall stands. In Völuspá 37 it is set beside the golden hall of Sindri's race in Niðavellir. Snorri, in Gylfaginning chapter 52, places these halls in the world after Ragnarök: the hall Brimir in Ókólnir has plenty of good drink, and good men will dwell in Brimir and Sindri.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "ormt": {
+   "en": "Örmt is one of the rivers that Þórr must wade each day on his way to the gods' court at Yggdrasill. It is named with Körmt and the two Kerlaugar in Grímnismál 29, a stanza Snorri quotes in Gylfaginning chapter 15.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "otr": {
+   "en": "Otr is a son of Hreiðmarr and brother of Fáfnir and Reginn, who took the shape of an otter to fish. Loki killed him with a stone, and Hreiðmarr demanded as compensation that the otter-skin be filled and covered with red gold, the treasure taken from Andvari (Skáldskaparmál chapter 46). In the prose of Reginsmál Fáfnir kills his father when Hreiðmarr refuses to share the payment for Otr's death.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "radgridr": {
+   "en": "Ráðgríðr is a valkyrie, known only from the list of valkyries who serve ale to the einherjar in Valhöll: Grímnismál 36, quoted by Snorri in Gylfaginning chapter 36. She is paired there with Randgríðr. The first element of her name means \"counsel\"; like most valkyrie names it is otherwise attested only in such lists.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "radsvidr": {
+   "en": "Ráðsviðr is a dwarf in the list of dwarf names in Völuspá 12, repeated in Gylfaginning chapter 14. The name means roughly \"swift in counsel\" or \"wise in counsel\"; nothing is told of him beyond the list.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "ratatoskr": {
+   "en": "Ratatoskr is the squirrel that runs up and down the ash Yggdrasill. In Grímnismál 32 he carries the eagle's words from the top of the tree down to Niðhöggr below; Snorri adds in Gylfaginning chapter 16 that the words he bears between the eagle and Niðhöggr are envious ones, stirring up strife.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "reginleif": {
+   "en": "Reginleif is a valkyrie, named only in the list of valkyries who bear drink to the einherjar in Valhöll, in Grímnismál 36, quoted by Snorri in Gylfaginning chapter 36.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "rota": {
+   "en": "Róta is a valkyrie. Snorri names her with Guðr and the youngest norn, Skuld, as riding to choose the slain and decide battles (Gylfaginning chapter 36). In a stanza quoted in Skáldskaparmál chapter 61 her name forms part of a kenning in which 'spear-Róta', a valkyrie, stands for battle.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "saevarstod": {
+   "en": "Sævarstöð (\"sea-stead\") is the island where King Níðuðr has the captured Völundr hamstrung and set to work as his smith. Níðuðr's queen advises it in Völundarkviða 17, and in stanza 20 Níðuðr's two sons come to look into Völundr's smithy there, which leads to their deaths.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "sessrumnir": {
+   "en": "Sessrúmnir (\"roomy-seated\") is Freyja's hall, which Snorri describes as great and fair in Gylfaginning chapter 24. Freyja may accordingly be called the owner of Sessrúmnir (Skáldskaparmál chapter 28). Snorri places the hall in Fólkvangr, where Freyja receives half of the slain.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "siggeir": {
+   "en": "Siggeirr is the king who married Signý, daughter of Völsungr, and later killed his father-in-law, as the Völsunga saga tells. Skáldskaparmál chapter 80 names him as Völsungr's son-in-law and places him in the line of the Siklingar. In Helgakviða Hundingsbana I 41 Guðmundr taunts Sinfjötli as Siggeirr's stepson, who lay out in the woods listening to wolves and killed his brothers.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "sigtryggr": {
+   "en": "Sigtryggr is a king slain by Hálfdan the Old. In Skáldskaparmál chapter 80 Hálfdan kills him in single combat in the eastern lands and then marries Alvig (Almveig), daughter of King Eymundr of Hólmgarðr, who bears him eighteen sons. Hyndluljóð 15 tells the same, with Hálfdan strengthened by Eymundr and killing Sigtryggr with the cold sword.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "singasteinn": {
+   "en": "Singasteinn is the place, apparently a rock or skerry in the sea, where Heimdallr fought Loki for the necklace Brísingamen. Snorri mentions it among Heimdallr's kennings, noting that Úlfr Uggason treated the tale in Húsdrápa and that the two fought in the form of seals (Skáldskaparmál chapter 15), and quotes a verse in which Heimdallr strives with Loki at Singasteinn (Skáldskaparmál chapter 23).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "snaebjorn": {
+   "en": "Snæbjörn is a skald known only from the verses Snorri quotes. Among the kennings for the sea he cites the stanza in which nine maidens of the skerries turn the quern Grótti beyond the edge of the world, and the sea is called the meal-grinder of Amlóði, a figure usually identified with the Amleth of Saxo and so with Hamlet (Skáldskaparmál chapter 33). A second half-stanza, on a ship holding its course against the waves, is quoted in Skáldskaparmál chapter 66.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "solarr": {
+   "en": "Sólarr is a son of Högni and Kostbera, brother of Snævarr. The prose of Dráp Niflunga names him with Snævarr and Gjúki as Högni's sons, and in Atlamál 30 Sólarr and Snævarr set out with their father and Gunnarr on the journey to Atli that ends in their deaths.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "svartalfaheimr": {
+   "en": "Svartálfaheimr is the world of the black elves, which Snorri seems to treat as the home of the dwarves. In Gylfaginning chapter 34 Óðinn sends Skírnir there to have dwarves make the fetter Gleipnir for the wolf Fenrir, and in Skáldskaparmál chapter 46 Óðinn sends Loki there to seize the gold of the dwarf Andvari to pay the otter's ransom.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "svarthofdi": {
+   "en": "Svarthöfði, \"Black-head\", is a giant from whom the workers of magic spells descend. The stanza of Völuspá in skamma (5) that traces sibyls from Viðólfr, seers from Vilmeiðr, spell-workers from Svarthöfði and all giants from Ymir is quoted by Snorri in Gylfaginning chapter 5. Nothing more is told of him.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "thir": {
+   "en": "Þír is the bondwoman who becomes the wife of Þræll in Rígsþula; her name means 'servant woman'. Stanza 10 describes her with crooked legs, dirty feet, sunburnt arms and a flat nose, and in stanza 11 she and Þræll talk and make the bed together. Their many children, with names such as Hösvir, Klúrr and Drumba, are the ancestors of the race of thralls.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "thjodnuma": {
+   "en": "Þjóðnuma is one of the rivers that flow from the spring Hvergelmir. It is named only in the river list in Gylfaginning chapter 39 and in Grímnismál 28, among the rivers that flow among men and fall to Hel.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "thorinn": {
+   "en": "Þorinn is a dwarf, named in the list of dwarves in Völuspá 12 and in Snorri's version of that list (Gylfaginning chapter 14). Nothing is told of him. J. R. R. Tolkien took the name, along with several others from the same list, for The Hobbit.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "thrace": {
+   "en": "Thrace (Trakía) appears in Snorri's Prologue, which derives the Æsir from Troy. Trór, \"whom we call Þórr\", grandson of King Priam, is fostered in Thrace by the duke Lóríkus; at twelve he kills his foster-father and takes the kingdom of Thrace, which Snorri equates with Þrúðheimr (Prologue chapter 3).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "thrainn": {
+   "en": "Þráinn is a dwarf named in the dwarf list of Völuspá 12. In the late poem Forspjallsljóð (Hrafnagaldr Óðins), stanza 3, Þráinn and Dáinn interpret an ominous dream, as the gods fear disaster; both names belong to dwarves, and the poet presumably meant the same figures.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "thrudheimr": {
+   "en": "Þrúðheimr, \"home of strength\", is the dwelling of Þórr in Grímnismál 4, a holy land near the gods and elves where he shall live until the gods perish. Snorri uses Þrúðvangar instead in Gylfaginning. In the euhemerising Prologue (chapter 3) Þrúðheimr is identified with Thrace, the kingdom that Þórr, a grandson of King Priam, wins by killing his foster-father.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "tjaldari": {
+   "en": "Tjaldari is a horse named in the list of horse names from Þorgrímsþula quoted in Skáldskaparmál chapter 72, alongside Hrafn, Sleipnir and Léttfeti. The same list is preserved in the Eddubrot. Nothing more is told of it.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "troy": {
+   "en": "Trója (Troy) in Snorri's Prologue is the greatest city of the ancient world, near the earth's centre and identified with 'Turkland'; it had twelve kingdoms under one high king, and its prince Trór, grandson of Priam, is Þórr (Prologue chapter 3). This learned framing makes the Æsir human Trojans who migrated north.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "turkey": {
+   "en": "Tyrkland (Turkland) is, in Snorri's Prologue, the land of Troy, which he places near the centre of the earth as the most splendid of dwellings, with twelve kingdoms under one high king (chapter 3). Óðinn, foreseeing that his fame would be greatest in the north, leaves Tyrkland with a great following and journeys northward (chapter 4). The Prologue thus derives the Æsir from Asia.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "utgardar": {
+   "en": "Útgarðr (\"the outer enclosure\") is the giants' stronghold ruled by Útgarða-Loki. In Gylfaginning chapter 45 Skrýmir tells Þórr and his companions that they have not far to go to the castle called Útgarðr and warns them not to boast there, as Útgarða-Loki's men will not tolerate big words; there Þórr and his companions are later outdone in a series of contests won by illusion.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "vakr": {
+   "en": "Vakr (\"the wakeful\") is a horse ridden by Morginn in Kálfsvísa, the verse list of famous horses and their riders quoted in the name lists of Skáldskaparmál chapter 72 and given again in the Eddubrot section. Nothing else is told of horse or rider.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "vanaheimr": {
+   "en": "Vanaheimr is the home of the Vanir. In Gylfaginning chapter 23 Njörðr is said to have been brought up there before the Vanir gave him to the gods as a hostage in exchange for Hœnir. Vafþrúðnismál 39 tells the same of Njörðr and adds that at the end of the world he will return home to the wise Vanir.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "vegsvinn": {
+   "en": "Vegsvinn is one of the rivers that flow from Hvergelmir. It appears in Grímnismál 28 among the rivers that flow among men and fall to Hel, and Snorri names it in Gylfaginning chapter 39 among the streams that come from the drops falling from the antlers of the hart Eikþyrnir.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "verdandi": {
+   "en": "Verðandi ('becoming') is one of the three Norns, with Urðr and Skuld, maidens who come from the hall by the well beneath Yggdrasill and shape the lives of men (Völuspá 20; Gylfaginning chapter 15). Snorri adds that there are many other norns, of the gods, the elves and the dwarves. Her name is often taken to stand for the present, Urðr's for the past and Skuld's for the future, though the sources do not say so.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "vidblindi": {
+   "en": "Viðblindi is a giant who, Snorri explains, drew whales from the sea as other men catch fish. He is known only from a kenning in which the whale is called 'Viðblindi's boar' and the sea its drink, quoted with Snorri's explanation in Skáldskaparmál chapter 58.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "vidofnir": {
+   "en": "Víðófnir is the gleaming cock who sits in the tree Mímameiðr in Fjölsvinnsmál. In stanza 18 Fjölsviðr says the only food that will distract the watch-dogs lies in Víðófnir's limbs, and in stanza 30 that a bright sickle from among Víðófnir's feathers must be brought to Sinmara before she will lend the weapon that can kill him, one of the circular tasks that bar the way to Menglöð.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "vifill": {
+   "en": "Vífill is a legendary figure named only in Kálfsvísa, the verse list of famous horses and their riders, as the rider of the horse Stúfr. The verse is quoted in the name lists of Skáldskaparmál chapter 72 and given again in the Eddubrot section. Nothing else is told of him there.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "virfir": {
+   "en": "Virfir is a dwarf in the list of dwarf names in Völuspá 15, repeated in Gylfaginning chapter 14 among the dwarfs of Lofarr's line who came from Svarinshaugr to Aurvangar. Nothing is told of him beyond the list.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "vitr": {
+   "en": "Vitr is a dwarf in the list of Völuspá 12, beside Litr, Nýr and Nýráðr, and in the same list quoted by Snorri in Gylfaginning chapter 14. The name means 'wise'. Nothing is told of him beyond the name.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "volu-steinn": {
+   "en": "Völu-Steinn is an Icelandic skald quoted twice by Snorri. In Skáldskaparmál chapter 10 his half-stanza, addressed to one Egill, calls poetry 'Þundr's (Óðinn's) find' and the streams of 'Mímr's friend'; in chapter 70 he uses Hlöðyn as a name for the earth, in a verse on a death and burial.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "zealand": {
+   "en": "Selund (Zealand, Danish Sjælland) is the largest Danish island. Snorri tells at the start of Gylfaginning (chapter 1) that the goddess Gefjun, given as much of King Gylfi's land as she could plough, used four oxen, her sons by a giant, to drag the land out to sea and set it down as Selund, leaving the lake Lögr (Mälaren) in Sweden.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "afi": {
+   "en": "Afi (\"grandfather\") is the husband of Amma in Rígsþula, the couple of the middle household visited by the god Rígr. Stanza 16 says that Afi and Amma owned the house where Amma sat spinning. Their son Karl, fathered by Rígr, is the ancestor of the free farmers.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "alfheimr": {
+   "en": "Álfheimr (\"elf-world\") is the dwelling of the light elves. In Gylfaginning chapter 17 Hárr names it first among the glorious places in heaven and contrasts the light elves, fairer than the sun, with the dark elves who live in the earth, blacker than pitch. Grímnismál says that the gods gave Álfheimr to Freyr as a tooth-gift.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "amsvartner": {
+   "en": "Ámsvartnir is the lake to which the Æsir take the wolf Fenrir for his binding. In Gylfaginning chapter 34 they row out to the island Lyngvi in Ámsvartnir, persuade the Wolf to let himself be bound with the silken fetter Gleipnir, and leave him fettered there, Týr losing his hand in the process.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "andlangr": {
+   "en": "Andlangr is the second heaven. In Gylfaginning chapter 17 Hárr explains that it lies south of and above the heaven over the earth, and that a third heaven, Víðbláinn, lies above it again, where the hall Gimlé is believed to stand; only light-elves, he says, now dwell in those places. Nothing else is told of it in the Eddas.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "angrboda": {
+   "en": "Angrboða ('bringer of grief') is a giantess with whom Loki fathers the wolf Fenrir, as Völuspá in skamma 11 tells in a stanza that also recalls Loki bearing Sleipnir to Svaðilfari. In Gylfaginning Snorri makes her a giantess of Jötunheimar and the mother of all three of Loki's monstrous children: Fenrir, the Miðgarðr serpent and Hel.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "audumbla": {
+   "en": "Auðumbla (Auðhumla) is the primeval cow formed from the dripping rime at the beginning of the world. Four rivers of milk run from her udders and feed the giant Ymir (Gylfaginning chapter 6). Snorri goes on to tell that she licked the salt rime-stones and freed Búri, grandfather of Óðinn. She appears only in Snorri's account.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "dainsleif": {
+   "en": "Dáinsleif (\"Dáinn's heirloom\") is the sword of King Högni in the tale of the Hjaðningar. In Skáldskaparmál chapter 62 Högni refuses Heðinn's late offer of peace because he has already drawn Dáinsleif, made by dwarfs, which must cause a man's death whenever it is bared and gives wounds that never heal.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "eggther": {
+   "en": "Eggþér is a giant who appears once, in Völuspá 42, sitting on a mound playing the harp at the approach of Ragnarök. The völva calls him the \"herdsman of the giantess\" and \"glad Eggþér\", while the red cock Fjalarr crows above him. The giantess is perhaps the old woman in Járnviðr of the preceding stanzas, who breeds Fenrir's kin, but nothing more is said of him.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "eikthyrnir": {
+   "en": "Eikþyrnir is the hart that stands by Valhöll and crops the branches of the tree Læraðr. In Gylfaginning chapter 39 so much liquid drips from his horns that it runs into Hvergelmir, and from there flow the many rivers whose names Snorri lists. The account follows Grímnismál, which says the same of him.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "eistla": {
+   "en": "Eistla is a giantess, one of the nine mothers of Heimdallr. She appears only in Völuspá in skamma 8, which lists the nine (Gjálp, Greip, Eistla, Eyrgjafa, Ulfrún, Angeyja, Imðr, Atla and Járnsaxa) and says that he was made strong with the strength of the earth, the ice-cold sea and the blood of swine.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "erna": {
+   "en": "Erna is the wife of Jarl in Rígsþula. Jarl's messengers ride to the hall of Hersir, whose slender-fingered, wise daughter she is (Rígsþula 39), and she is married to Jarl; their sons, among them Konr ungr, are the ancestors of the noble class.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "fadir": {
+   "en": "Faðir ('Father') and his wife Móðir ('Mother') are the third couple visited by Rígr in Rígsþula, a well-off household in which the husband makes bows and arrows and the wife tends her fine linen (27). Rígr shares their bed, and Móðir later bears Jarl, ancestor of the noble class.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "fjolvar": {
+   "en": "Fjölvarr is a figure known only from Hárbarðsljóð 16, where Hárbarðr (Óðinn in disguise) boasts to Þórr that he spent five whole winters with Fjölvarr on the island called Algrœn, fighting and winning women.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gaut": {
+   "en": "Gautr is one of the names of Óðinn. In this edition it occurs only in the compound Gautatýr, \"god of the Gautar\" or \"Gautr-god\", a kenning for Óðinn in the opening stanza of Eyvindr skáldaspillir's Hákonarmál, quoted in Skáldskaparmál chapter 9: Gautatýr sends the valkyries Göndul and Skögul to choose which king of Yngvi's line should go to Óðinn in Valhöll.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gjallarbru": {
+   "en": "Gjallarbrú is the bridge over the river Gjöll on the road to Hel. In Gylfaginning chapter 49, as Hermóðr rides to Hel to ask for Baldr's return, the maiden Móðguðr who guards the bridge tells him that Baldr has ridden over it, and that the way to Hel lies down and to the north.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gladsheimr": {
+   "en": "Glaðsheimr ('bright home') is a hall of the gods. In Gylfaginning chapter 14 Snorri describes it as the first work of the Æsir on Iðavöllr: a court holding twelve seats for the gods and a high seat for the All-father, the finest and largest house on earth, all gold within and without; Vingólf, the goddesses' hall, is built next. In Grímnismál it is the land in which Valhöll stands.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "gullveig": {
+   "en": "Gullveig ('gold-draught' or 'gold-power') is a mysterious woman in Völuspá 21: the gods pierce her with spears and burn her three times in Hárr's (Óðinn's) hall, yet she is reborn each time and still lives. The episode leads into the first war in the world, between the Æsir and the Vanir. She is often taken to be the same as the seeress Heiðr of the next stanza.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hamundr": {
+   "en": "Hámundr is the third son of King Sigmundr, after Sinfjötli and Helgi, his mother being Borghildr. He is named only in the opening of the prose Frá dauða Sinfjötla, placed in this edition with Grípisspá.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hindarfjall": {
+   "en": "Hindarfjall is the mountain on which Sigurðr finds the sleeping valkyrie. In the prose opening of Sigrdrífumál he rides up Hindarfjall towards the land of the Franks, sees a great light, and within a wall of shields finds a woman in armour asleep. He cuts her mail-coat open and she wakes; she names herself Sigrdrífa and teaches him wisdom.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hjadningavig": {
+   "en": "Hjaðningavíg, \"the battle of the Hjaðningar\", is the endless battle between King Högni and Heðinn, who had carried off Högni's daughter Hildr. In Skáldskaparmál chapter 62 they fight all day, and each night Hildr wakes the dead with magic, so that the fight is renewed every morning; the dead and their weapons turn to stone by night and rise again at dawn, and it will go on until Ragnarök. Snorri quotes Bragi's Ragnarsdrápa, which describes the battle as painted on a shield.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hlora": {
+   "en": "Hlóra is named once, in Skáldskaparmál chapter 11, where Þórr may be called fóstri of Vingnir and Hlóra. Brodeur translates this as 'foster-father', but the word can also mean 'foster-son', and Hlóra is usually taken to be Þórr's foster-mother, the Glóra who with her husband Lóricus brings up Þórr in Snorri's Prologue. Þórr's name Hlórriði may be connected.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hnitbjorg": {
+   "en": "Hnitbjörg ('clashing rocks') is the mountain where the giant Suttungr hides the mead of poetry, in the keeping of his daughter Gunnlöð (Skáldskaparmál chapter 5). Óðinn later bores into it with the auger Rati, crawls in as a snake and wins the mead.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hringhorni": {
+   "en": "Hringhorni is Baldr's ship, the greatest of all ships, on which his body is burned. Snorri tells in Gylfaginning how the gods could not launch it for the funeral until the giantess Hyrrokkin pushed it out. In this edition it is named only among the kennings for Baldr, 'possessor of Hringhorni' (Skáldskaparmál chapter 12).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "hronn-river": {
+   "en": "Hrönn is one of the rivers in the list in Grímnismál 28, which flow among men and fall to Hel. The same word means \"wave\" and is also the name of one of Ægir's daughters.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "ifingr": {
+   "en": "Ífingr is the river that divides the lands of the gods from those of the giants. In Vafþrúðnismál 16 Óðinn answers the giant Vafþrúðnir's question about it: it flows open for all time and no ice ever forms on it.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "ingunar-freyr": {
+   "en": "Ingunar-Freyr is a name of the god Freyr, used once in the Eddas, by Byggvir in Lokasenna 43: had he so high a birth and seat as Ingunar-Freyr, he says, he would crush Loki to marrow. The first part of the name has been variously explained, often in connection with Yngvi, the ancestor of the Swedish Ynglingar.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "kara": {
+   "en": "Kára is a valkyrie, daughter of Hálfdan, known only from the closing prose of Helgakviða Hundingsbana II. It says that Helgi and Sigrún were believed to have been born again, he as Helgi Haddingjaskati and she as Kára, as told in a lost poem, the Lay of Kára (Káruljóð). The compiler dismisses rebirth as old wives' tales.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "kjarr": {
+   "en": "Kjárr is a legendary king whose name is thought to derive from Latin Caesar. Snorri names him as a member of the Öðlingar, one of the royal lines descended from Hálfdan the Old (Skáldskaparmál chapter 80). In Völundarkviða a Kjárr of Valland is the father of the swan-maiden Ölrún.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "leikn": {
+   "en": "Leikn is a giantess whose leg Þórr broke. She is known only from a verse of Vetrliði skáld quoted in Skáldskaparmál chapter 11, which lists Þórr's victims: Leikn, Þrívaldi, Starkaðr and the dead Gjálp.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "lodurr": {
+   "en": "Lóðurr is one of the three gods who give life to the first humans, Askr and Embla, in Völuspá 18: Óðinn gives them breath, Hœnir sense, and Lóðurr warmth (or blood) and healthy colour. He appears nowhere else in the Eddas. Snorri tells the same story of the three sons of Borr, and his identity is disputed: some scholars equate him with Loki, others with Vé.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "lyngvi": {
+   "en": "Lyngvi is the island in the lake Ámsvartnir where the wolf Fenrir is bound. In Gylfaginning chapter 34 the Æsir bring him there and persuade him to try the silken fetter Gleipnir, which holds him; Týr loses his hand in the wolf's mouth, and the Æsir fasten the fetter to a rock.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "lyngvi-hundingsson": {
+   "en": "Lyngvi is a son of King Hundingr, enemy of the Völsungar. In the prose of Reginsmál Sigurðr avenges his father Sigmundr in a great battle against Lyngvi and his brothers, in which Lyngvi and two of his brothers fall. In Völsunga saga Lyngvi is the rejected suitor of Hjördís who attacks Sigmundr in the battle where Sigmundr's sword breaks on Óðinn's spear.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "managarmr": {
+   "en": "Mánagarmr ('moon-hound') is the mightiest of the wolves born to the giantess in Járnviðr east of Miðgarðr. Snorri says he will be filled with the flesh of all who die, swallow the moon and stain the heavens with blood, so that the sun loses her light (Gylfaginning chapter 12), following Völuspá's stanza on the wolf of that race.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "mogthrasir": {
+   "en": "Mögþrasir is a figure named only in Vafþrúðnismál 49, where the giant tells Óðinn that the maidens of Mögþrasir will come in three throngs over the settlements of men after the end of the world, as guardian spirits, though bred among giants. Who Mögþrasir is, the poem does not say.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "nastrond": {
+   "en": "Náströnd (\"corpse-shore\") is the place of punishment after Ragnarök. Gylfaginning chapter 52 describes a great hall there, its doors facing north and its walls woven of serpents whose heads blow venom inside, so that oath-breakers and murderers must wade rivers of poison; Snorri bases the description on Völuspá.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "rati": {
+   "en": "Rati is the auger Óðinn uses to reach the mead of poetry. In Skáldskaparmál chapter 6 Óðinn, calling himself Bölverkr, has the giant Baugi bore with Rati into the mountain Hnitbjörg, where Suttungr keeps the mead. When Baugi claims the hole is through, Óðinn blows into it and the chips fly back, revealing the deceit; once it is truly through, Óðinn turns into a snake and slips in, and Baugi stabs at him in vain with the auger.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "rerir": {
+   "en": "Rerir is a king of Frankland, son of Sigi and grandson of Óðinn. In the genealogy of the Prologue (chapter 4) Sigi and Rerir rule the land now called Frankland, from which the Völsungar descend. In the Völsunga saga he is the father of Völsungr.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "ridill": {
+   "en": "Riðill is the sword with which Reginn cuts out the heart of the slain dragon Fáfnir, as the prose of Fáfnismál tells; Reginn then drinks the blood from the wound. Snorri, in Skáldskaparmál, calls Reginn's sword Refill instead.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "sigi": {
+   "en": "Sigi is the third son of Óðinn in Snorri's Prologue, father of Rerir; they ruled in what is now Frankland, and from them descends the house of the Völsungar (Prologue chapter 4). In Völsunga saga Sigi is outlawed for killing a thrall and wins a kingdom in Húnaland.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "sjofn": {
+   "en": "Sjöfn is one of the Ásynjur. Snorri, the only source, counts her seventh among the goddesses and says she turns the minds of men and women to love, so that love-longing is called sjafni after her (Gylfaginning chapter 35).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "slongvir": {
+   "en": "Slöngvir is the horse of King Aðils of Sweden, named only in the verse list of riders and their horses (\"Aðils rode Slöngvir\") in Skáldskaparmál chapter 72.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "snotra": {
+   "en": "Snotra is a goddess, the thirteenth in Snorri's list of the Ásynjur in Gylfaginning chapter 35. He calls her wise and courteous, and says that from her name a man or woman of sense and moderation is called snotr, \"wise\". She is known only from Snorri and from the lists of goddess names.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "sokkvabekkr": {
+   "en": "Sökkvabekkr, perhaps \"sunken bench\", is the dwelling of the goddess Sága, described in Gylfaginning chapter 35 as a great abode. Grímnismál describes it as a place where cool waters murmur and where Óðinn and Sága drink together each day from golden cups.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "svafrlami": {
+   "en": "Svafrlami is a king for whom the dwarves forged the cursed sword Tyrfingr, later owned by Angantýr. In Hervararkviða 8 Hervör, waking her dead father Angantýr in his mound, demands the sword \"which for Svafrlami the dwarfs forged\". In Hervarar saga the dwarves Dvalinn and Durinn make the sword under compulsion and lay a curse on it.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "tanngnjostr": {
+   "en": "Tanngnjóstr ('tooth-gnasher') is one of the two he-goats that draw Þórr's chariot, the other being Tanngrisnir ('tooth-gritter'); from them Þórr is called Öku-Þórr, 'driving Þórr' (Gylfaginning chapter 21). Elsewhere in Gylfaginning Þórr slaughters and eats his goats and raises them again with his hammer.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "tanngrisnir": {
+   "en": "Tanngrísnir is one of the two he-goats, with Tanngnjóstr, that draw Þórr's chariot, which is why Þórr is called Öku-Þórr (Gylfaginning chapter 21). Snorri also tells how Þórr kills and cooks his goats on his journey to Útgarða-Loki and restores them with his hammer, one of them lamed because a farmer's son split a thigh-bone for the marrow.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "vadgelmir": {
+   "en": "Vaðgelmir is a river in which liars must wade in punishment. It is known only from Reginsmál 4, where the dwarf Andvari, caught by Loki, says that heavy payment awaits those who lie about one another and must wade in Vaðgelmir's waters.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "valaskjalf": {
+   "en": "Valaskjálf is Óðinn's dwelling in heaven. In Gylfaginning chapter 17 Hárr says that the gods built it and roofed it with pure silver, and that in it stands the high seat Hliðskjálf, from which Óðinn can see over all the worlds.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "ve": {
+   "en": "Vé is a son of Borr and Bestla and brother of Óðinn and Vili; in Snorri's account the three brothers kill Ymir and make the world from his body. In the Poetic Edda he appears only in Lokasenna 26, where Loki taunts Frigg with having slept with Vili and Vé, an allusion to a story, also told in Ynglinga saga, that they shared Frigg while Óðinn was away.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "vedrfolnir": {
+   "en": "Veðrfölnir is the hawk that sits between the eyes of the eagle at the top of the ash Yggdrasill. He is mentioned only in Gylfaginning chapter 16, in Snorri's description of the creatures of the tree; no poem names him.",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "vidblainn": {
+   "en": "Víðbláinn ('wide-blue') is the third heaven, above Andlangr and the sky over the earth. Snorri says that the hall Gimlé, which will stand after Ragnarök, is believed to be in it, and that only light-elves dwell there now (Gylfaginning chapter 17).",
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-07",
+   "status": "draft"
+  },
+  "vindsval": {
+   "en": "Vindsvalr ('wind-cool') is the father of Vetr (Winter). Snorri gives 'son of Vindsvalr' as a kenning for winter (Skáldskaparmál chapter 37). Vafþrúðnismál names him as Winter's father, and Gylfaginning adds that his own father was Vásaðr.",
    "by": "ai:claude-2026-11",
    "date": "2026-11-07",
    "status": "draft"
