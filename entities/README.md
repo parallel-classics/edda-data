@@ -21,6 +21,7 @@ Everything here is status `auto` (automatic identification, not reviewed) until 
 | `entities.json` | `make_entities.py detect` | one record per entity (below) plus the tag vocabulary with English and Icelandic labels |
 | `mentions.json` | `make_entities.py detect` | one record per mention (below) |
 | `report.md` | `make_entities.py detect` | numbers, `check` counts, derived forms, the gap list for the curator, rejected images, cards |
+| `summaries.json` | AI drafts (Claude, 2026-11-07), corrected by hand | one or two short paragraphs per entity: who or what, the part in the Eddas (where), key relations; shown in the Names entry as "AI draft · not reviewed" until reviewed (below) |
 
 Generated files are regenerated, never edited (COORDINATION rule 5: rerun, do not merge).
 
@@ -54,6 +55,25 @@ Generated files are regenerated, never edited (COORDINATION rule 5: rerun, do no
 - `card`: has a free image and (in `notable.json` or at least three narrative mentions).
 - `coords`: `[lat, lon]` from `coords.json` for the real places (task 16e); null otherwise. Mythic places never get
   coordinates.
+
+## Summaries (`summaries.json`)
+
+```json
+{"summaries": {"surtr": {"en": "Surtr is ...\n\nIn Gylfaginning (chapter 51) ...", "by": "ai:claude-2026-11",
+                         "date": "2026-11-07", "status": "draft"}}}
+```
+
+- Not generated: edited by hand, kept when `detect` reruns. Keys are entity ids of `entities.json`.
+- `en`: plain text, paragraphs separated by a blank line, no markup. The page links poem titles ("Völuspá"),
+  stanza references ("Völuspá 52" -> `vsp-s52`) and "Gylfaginning chapter 51" itself; stanza and chapter numbers are
+  the ones of this edition's row ids.
+- `is`: optional Icelandic text (none yet); then `by` may be `{"en": ..., "is": ...}` when the authors differ.
+- `by`: `ai:<model>-<yyyy-mm>`, `user:<id>` or `bot:<name>` (as in `intros/intros.json`); `date`: YYYY-MM-DD.
+- `status`: `draft` (not reviewed: the page labels it "AI draft · not reviewed" in every view) or `reviewed`; an AI
+  text becomes `reviewed` only with `reviewed_by: "user:<id>"`.
+- Written from the aligned texts (the rows of `mentions.json`) and general knowledge, not copied from Wikipedia
+  (CC BY-SA). The first pass covers every entity with at least 5 Old Norse mentions. CC BY 4.0 like the edition.
+- `scripts/validate.py` checks ids, plain text, author, date and status.
 
 ## Mention record (`mentions.json`)
 

@@ -15,7 +15,8 @@ Checks
   images/scenes.json  every chapter key exists in the part
   entities/           (when present) seed.json, rules.json, notable.json, images.json, entities.json, mentions.json:
                       ids are unique slugs, tags are from the vocabulary, Wikidata ids look like Q123, every mention
-                      names an existing entity, row and language, every used image passed the licence check
+                      names an existing entity, row and language, every used image passed the licence check;
+                      summaries.json: known entity ids, plain-text en (is optional), author, date, status draft|reviewed
 
 Then prints, per part and column, the effective origin (edition / published / machine / ai / contributor / empty)
 and check (aligned-auto / aligned-checked / unreviewed / reviewed / disputed / empty) of the cells after overlays
@@ -698,7 +699,47 @@ def check_entities(rows):
                 err(f"{where}: file {rec.get('file')!r} missing")
             if not images.get(rec.get("source") or "", {}).get("ok"):
                 err(f"{where}: source {rec.get('source')!r} has not passed the licence check in images.json")
+    check_summaries(d, ids_out)
     return n_ent, n_men
+
+
+AUTHOR = re.compile(r"^(user:[\w-]+|ai:[\w.-]+-\d{4}-\d{2}|bot:[\w-]+)$")
+
+
+def check_summaries(d, ids_out):
+    """entities/summaries.json: {"summaries": {entity id: {"en": text, "is": text (optional), "by": author or {lang: author},
+    "date": YYYY-MM-DD, "status": draft|reviewed, "reviewed_by": user:... (needed to mark an AI text reviewed)}}}.
+    Plain text (paragraphs separated by a blank line), no markup."""
+    p = os.path.join(d, "summaries.json")
+    if not os.path.exists(p):
+        return
+    for eid, rec in (load(p).get("summaries") or {}).items():
+        where = f"entities/summaries.json#{eid}"
+        if eid not in ids_out:
+            err(f"{where}: unknown entity")
+        if not isinstance(rec.get("en"), str) or not rec["en"].strip():
+            err(f"{where}: en missing")
+        langs = [lang for lang in ("en", "is") if rec.get(lang)]
+        for lang in langs:
+            t = rec[lang]
+            if not isinstance(t, str) or re.search(r"<[a-zA-Z/]|\[\[|\*\*", t):
+                err(f"{where}: {lang} must be plain text (no HTML or markdown)")
+            elif re.search("[\U0001F000-\U0001FAFF☀-➿]", t):
+                err(f"{where}: {lang} contains an emoji")
+        set_keys = set(rec) - {"en", "is", "by", "date", "status", "reviewed_by", "note"}
+        if set_keys:
+            err(f"{where}: unknown keys {sorted(set_keys)}")
+        by = rec.get("by")
+        for lang in langs:
+            a = by.get(lang, "") if isinstance(by, dict) else (by or "")
+            if not AUTHOR.match(a):
+                err(f"{where}: by ({lang}) {a!r} is not user:/ai:<model>-<yyyy-mm>/bot:")
+            if a.startswith("ai:") and rec.get("status") == "reviewed" and not str(rec.get("reviewed_by", "")).startswith("user:"):
+                err(f"{where}: an AI text cannot be reviewed without a user: reviewer (reviewed_by)")
+        if rec.get("status") not in ("draft", "reviewed"):
+            err(f"{where}: status must be draft or reviewed")
+        if not re.match(r"^\d{4}-\d{2}-\d{2}$", rec.get("date") or ""):
+            err(f"{where}: date must be YYYY-MM-DD")
 
 
 def cell_props(rid, r, cell, effective, src):
