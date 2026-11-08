@@ -756,6 +756,29 @@ def check_summaries(d, ids_out):
             err(f"{where}: date must be YYYY-MM-DD")
 
 
+def check_pron():
+    """guide/pron.json (Mímir pronunciation hints): every card id is a card, every hint has head, ipa and say, every
+    section id is a section."""
+    pp = os.path.join(ROOT, "guide", "pron.json")
+    if not os.path.exists(pp):
+        return
+    pron = load(pp)
+    cards = set(load(os.path.join(ROOT, "guide", "cards.json")).get("cards", {}))
+    secs = {s["id"] for s in load(os.path.join(ROOT, "guide", "sections.json")).get("sections", [])}
+    hints = [(f"cards.{k}", v) for k, v in pron.get("cards", {}).items()] + [(f"terms.{k}", v) for k, v in pron.get("terms", {}).items()]
+    for k in pron.get("cards", {}):
+        if k not in cards:
+            err(f"guide/pron.json: cards.{k} is not a card in guide/cards.json")
+    for k, vv in pron.get("sections", {}).items():
+        if k not in secs:
+            err(f"guide/pron.json: sections.{k} is not a section in guide/sections.json")
+        hints += [(f"sections.{k}", v) for v in vv]
+    for where, v in hints:
+        missing = [f for f in ("head", "ipa", "say") if not v.get(f)]
+        if missing:
+            err(f"guide/pron.json: {where} lacks {', '.join(missing)}")
+
+
 def check_pictures():
     """images/plates/pN.anchors.json and images/mimir/mimir.anchors.json (Mímir, task 34): the picture is there, every
     entity exists, every box lies inside the picture, part_of names a figure of the same plate, a scene's story is a story."""
@@ -968,6 +991,7 @@ def main():
     check_worlds(rows)
     check_guide(rows)
     check_pictures()
+    check_pron()
     check_ravens(rows)
     check_intros(poem_prefixes_for_intros())
     print(f"aligned rows: {len(rows)} in {len(chapters)} parts; overlay files: {n_overlay_files}, "

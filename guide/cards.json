@@ -20559,6 +20559,16 @@
         {
           "id": "urdarbrunnr",
           "rel": "lives_in"
+        },
+        {
+          "id": "urdr",
+          "rel": "companion",
+          "auto": "inverse"
+        },
+        {
+          "id": "norns",
+          "rel": "companion",
+          "auto": "inverse"
         }
       ],
       "status": "draft",
@@ -23547,6 +23557,16 @@
         {
           "id": "skuld",
           "rel": "home_of"
+        },
+        {
+          "id": "urdr",
+          "rel": "home_of",
+          "auto": "inverse"
+        },
+        {
+          "id": "norns",
+          "rel": "home_of",
+          "auto": "inverse"
         }
       ],
       "status": "draft",
@@ -24584,6 +24604,16 @@
         {
           "id": "urdarbrunnr",
           "rel": "lives_in"
+        },
+        {
+          "id": "urdr",
+          "rel": "companion",
+          "auto": "inverse"
+        },
+        {
+          "id": "norns",
+          "rel": "companion",
+          "auto": "inverse"
         }
       ],
       "status": "draft",
@@ -35264,6 +35294,254 @@
       ],
       "status": "draft",
       "by": "claude"
+    },
+    "urdr": {
+      "hook": {
+        "en": "The first of the three norns, who come from the well beneath the world-ash and shape people's lives."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who"
+          },
+          "value": {
+            "en": "The first-named of the three norns: Urðr, Verðandi and Skuld"
+          },
+          "ids": [
+            "verdandi",
+            "skuld"
+          ],
+          "refs": [
+            "g-c15-9",
+            "vsp-s20"
+          ]
+        },
+        {
+          "label": {
+            "en": "Home"
+          },
+          "value": {
+            "en": "A fair hall under the ash by the well that bears her name, Urðarbrunnr"
+          },
+          "ids": [
+            "urdarbrunnr",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-9",
+            "vsp-s19"
+          ]
+        },
+        {
+          "label": {
+            "en": "Known for"
+          },
+          "value": {
+            "en": "With her sisters she set laws, chose life and allotted fates to men"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s20",
+            "g-c15-9"
+          ]
+        },
+        {
+          "label": {
+            "en": "Known for"
+          },
+          "value": {
+            "en": "Every day the norns pour water and clay from the well over the ash so that it does not wither"
+          },
+          "ids": [
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c16-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s20",
+          "why": {
+            "en": "The three maidens named, and what they do."
+          }
+        },
+        {
+          "row": "g-c15-9",
+          "why": {
+            "en": "Snorri's account of the norns and their hall."
+          }
+        }
+      ],
+      "stories": [
+        "the-golden-age"
+      ],
+      "myths": [],
+      "related": [
+        {
+          "id": "verdandi",
+          "rel": "companion"
+        },
+        {
+          "id": "skuld",
+          "rel": "companion"
+        },
+        {
+          "id": "urdarbrunnr",
+          "rel": "lives_in"
+        },
+        {
+          "id": "norns",
+          "rel": "companion"
+        }
+      ],
+      "status": "draft",
+      "by": "claude",
+      "new_entity": {
+        "id": "urdr",
+        "on": "Urðr",
+        "is": "Urður",
+        "en": "Urd",
+        "tags": [
+          "norn"
+        ]
+      }
+    },
+    "norns": {
+      "hook": {
+        "en": "The women who decide a person's life and fate: three by the well, and many more."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "What"
+          },
+          "value": {
+            "en": "Women who shape people's lives; the three best known are Urðr, Verðandi and Skuld"
+          },
+          "ids": [
+            "urdr",
+            "verdandi",
+            "skuld"
+          ],
+          "refs": [
+            "g-c15-9",
+            "vsp-s20"
+          ]
+        },
+        {
+          "label": {
+            "en": "Where"
+          },
+          "value": {
+            "en": "The three live in a hall by Urðarbrunnr, under the ash"
+          },
+          "ids": [
+            "urdarbrunnr"
+          ],
+          "refs": [
+            "g-c15-9"
+          ]
+        },
+        {
+          "label": {
+            "en": "Known for"
+          },
+          "value": {
+            "en": "Other norns come to every child that is born; some are of the gods' kin, some of the elves', some daughters of Dvalinn"
+          },
+          "ids": [
+            "dvalinn"
+          ],
+          "refs": [
+            "g-c15-9",
+            "g-c15-10",
+            "fm-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "Known for"
+          },
+          "value": {
+            "en": "Good norns shape a good life; those who meet misfortune have bad norns to thank"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-12"
+          ]
+        },
+        {
+          "label": {
+            "en": "Appears in"
+          },
+          "value": {
+            "en": "They come at Helgi's birth and shape his fate"
+          },
+          "ids": [
+            "helgi-hundingsbani"
+          ],
+          "refs": [
+            "hh1-s2"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-9",
+          "why": {
+            "en": "Who the norns are, in Snorri."
+          }
+        },
+        {
+          "row": "fm-s13",
+          "why": {
+            "en": "Fáfnir tells Sigurðr the norns are of many kins."
+          }
+        },
+        {
+          "row": "hh1-s2",
+          "why": {
+            "en": "The norns arrive in the night at a hero's birth."
+          }
+        }
+      ],
+      "stories": [
+        "the-golden-age",
+        "helgi-hundingsbani"
+      ],
+      "myths": [],
+      "related": [
+        {
+          "id": "urdr",
+          "rel": "companion"
+        },
+        {
+          "id": "verdandi",
+          "rel": "companion"
+        },
+        {
+          "id": "skuld",
+          "rel": "companion"
+        },
+        {
+          "id": "urdarbrunnr",
+          "rel": "lives_in"
+        }
+      ],
+      "status": "draft",
+      "by": "claude",
+      "new_entity": {
+        "id": "norns",
+        "on": "nornir",
+        "is": "nornir",
+        "en": "the norns",
+        "tags": [
+          "norn",
+          "people"
+        ]
+      }
     }
   }
 }

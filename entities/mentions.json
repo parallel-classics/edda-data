@@ -7378,6 +7378,14 @@
    "status": "auto"
   },
   {
+   "entity": "urdr",
+   "row": "g-c15-9",
+   "lang": "on",
+   "form": "Urðr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "verdandi",
    "row": "g-c15-9",
    "lang": "on",
@@ -7410,6 +7418,14 @@
    "status": "auto"
   },
   {
+   "entity": "urdr",
+   "row": "g-c15-9",
+   "lang": "is",
+   "form": "Urður",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "verdandi",
    "row": "g-c15-9",
    "lang": "is",
@@ -7438,6 +7454,14 @@
    "row": "g-c15-9",
    "lang": "en",
    "form": "Bifröst",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "urdr",
+   "row": "g-c15-9",
+   "lang": "en",
+   "form": "Urdr",
    "kind": "name",
    "status": "auto"
   },
@@ -57951,6 +57975,14 @@
    "derived": true
   },
   {
+   "entity": "urdr",
+   "row": "s-c61-32",
+   "lang": "on",
+   "form": "Urðr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "s-c61-32",
    "lang": "is",
@@ -57967,10 +57999,26 @@
    "status": "auto"
   },
   {
+   "entity": "urdr",
+   "row": "s-c61-32",
+   "lang": "is",
+   "form": "Urður",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "s-c61-32",
    "lang": "en",
    "form": "Odin's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "urdr",
+   "row": "s-c61-32",
+   "lang": "en",
+   "form": "Urdr",
    "kind": "name",
    "status": "auto"
   },
@@ -71042,6 +71090,14 @@
    "status": "auto"
   },
   {
+   "entity": "urdr",
+   "row": "vsp-s20",
+   "lang": "on",
+   "form": "Urð",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "verdandi",
    "row": "vsp-s20",
    "lang": "on",
@@ -71058,6 +71114,14 @@
    "status": "auto"
   },
   {
+   "entity": "urdr",
+   "row": "vsp-s20",
+   "lang": "is",
+   "form": "Urð",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "verdandi",
    "row": "vsp-s20",
    "lang": "is",
@@ -71070,6 +71134,14 @@
    "row": "vsp-s20",
    "lang": "is",
    "form": "Skuld",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "urdr",
+   "row": "vsp-s20",
+   "lang": "en",
+   "form": "Urth",
    "kind": "name",
    "status": "auto"
   },
@@ -97378,6 +97450,30 @@
    "status": "auto"
   },
   {
+   "entity": "urdr",
+   "row": "grg-s7",
+   "lang": "on",
+   "form": "Urðar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "urdr",
+   "row": "grg-s7",
+   "lang": "is",
+   "form": "Urðar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "urdr",
+   "row": "grg-s7",
+   "lang": "en",
+   "form": "Urth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fjolsvidr",
    "row": "fjm-s2",
    "lang": "on",
@@ -98898,6 +98994,14 @@
    "status": "auto"
   },
   {
+   "entity": "urdr",
+   "row": "fjm-s47",
+   "lang": "on",
+   "form": "Urðar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "svipdagr",
    "row": "fjm-s47",
    "lang": "is",
@@ -98910,6 +99014,14 @@
    "row": "fjm-s47",
    "lang": "is",
    "form": "Svipdagur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "urdr",
+   "row": "fjm-s47",
+   "lang": "is",
+   "form": "Urðar",
    "kind": "name",
    "status": "auto"
   },
@@ -98926,6 +99038,14 @@
    "row": "fjm-s47",
    "lang": "en",
    "form": "Svipdag",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "urdr",
+   "row": "fjm-s47",
+   "lang": "en",
+   "form": "Urth",
    "kind": "name",
    "status": "auto"
   },
@@ -145251,6 +145371,30 @@
    "row": "fsl-s1",
    "lang": "is",
    "form": "Alföður",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "urdr",
+   "row": "fsl-s2",
+   "lang": "on",
+   "form": "Urðr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "urdr",
+   "row": "fsl-s2",
+   "lang": "is",
+   "form": "Urður",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "urdr",
+   "row": "fsl-s2",
+   "lang": "en",
+   "form": "Urd",
    "kind": "name",
    "status": "auto"
   },
