@@ -404,9 +404,11 @@
       },
       "plate": "P13",
       "entities": [
-        "urdarbrunnr",
+        "norns",
+        "urdr",
         "verdandi",
         "skuld",
+        "urdarbrunnr",
         "hildr",
         "skogul",
         "mist",

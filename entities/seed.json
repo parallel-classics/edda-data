@@ -7243,7 +7243,11 @@
    "first": {
     "snorri": "g-c15-9",
     "poetic": "vsp-s20"
-   }
+   },
+   "tags": [
+    "norn",
+    "valkyrie"
+   ]
   },
   {
    "id": "gleipnir",
@@ -12130,7 +12134,10 @@
    "first": {
     "snorri": "g-c15-9",
     "poetic": "vsp-s20"
-   }
+   },
+   "tags": [
+    "norn"
+   ]
   },
   {
    "id": "ratatoskr",
@@ -17973,6 +17980,65 @@
    "notes": [
     "added 2026-11-02 at the curator's request (mailbox 2320); kept in notable.json"
    ]
+  },
+  {
+   "id": "urdr",
+   "type": "character",
+   "tags": [
+    "norn"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Urðr",
+    "is": "Urður",
+    "en": "Urd"
+   },
+   "desc": {
+    "en": "norn, one of the three at Urðarbrunnr"
+   },
+   "forms": {
+    "Urðr": 3,
+    "Urð": 1,
+    "Urðar": 2
+   },
+   "notes": [
+    "added from the cloud message of 2026-11-08 (norns); \"Urðar\" inside Urðarbrunnr belongs to urdarbrunnr; \"Urðu\" is the verb"
+   ],
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "heiti": {},
+   "status": "curated",
+   "mentions": 0,
+   "first": {}
+  },
+  {
+   "id": "norns",
+   "type": "group",
+   "tags": [
+    "norn",
+    "people"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Nornir",
+    "is": "Nornir",
+    "en": "Norns"
+   },
+   "desc": {
+    "en": "the women who shape fate"
+   },
+   "forms": {},
+   "notes": [
+    "added from the cloud message of 2026-11-08 (norns)"
+   ],
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "heiti": {},
+   "status": "curated",
+   "mentions": 0,
+   "first": {}
   }
  ]
 }

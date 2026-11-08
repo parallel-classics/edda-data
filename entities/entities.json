@@ -13244,6 +13244,61 @@
    "notes": []
   },
   {
+   "id": "urdr",
+   "tags": [
+    "norn"
+   ],
+   "type": "norn",
+   "wikidata": null,
+   "names": {
+    "on": "Urðr",
+    "is": "Urður",
+    "en": "Urd"
+   },
+   "desc": {
+    "en": "norn, one of the three at Urðarbrunnr"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Urðr",
+     "Urðar",
+     "Urð"
+    ],
+    "is": [
+     "Urður",
+     "Urðar",
+     "Urð"
+    ],
+    "en": [
+     "Urth",
+     "Urdr",
+     "Urd"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c15-9",
+    "poetic": "vsp-s20"
+   },
+   "first_any": {
+    "snorri": "g-c15-9",
+    "poetic": "vsp-s20"
+   },
+   "mentions": 6,
+   "narrative": 6,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added from the cloud message of 2026-11-08 (norns); \"Urðar\" inside Urðarbrunnr belongs to urdarbrunnr; \"Urðu\" is the verb"
+   ]
+  },
+  {
    "id": "vingi",
    "tags": [
     "hero"
@@ -14898,9 +14953,10 @@
   {
    "id": "skuld",
    "tags": [
+    "norn",
     "valkyrie"
    ],
-   "type": "valkyrie",
+   "type": "norn",
    "wikidata": "Q500473",
    "names": {
     "en": "Skuld",
@@ -28372,9 +28428,9 @@
   {
    "id": "verdandi",
    "tags": [
-    "valkyrie"
+    "norn"
    ],
-   "type": "valkyrie",
+   "type": "norn",
    "wikidata": "Q917725",
    "names": {
     "en": "Verðandi",
@@ -31403,6 +31459,40 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "norns",
+   "tags": [
+    "norn",
+    "people"
+   ],
+   "type": "norn",
+   "wikidata": null,
+   "names": {
+    "on": "Nornir",
+    "is": "Nornir",
+    "en": "Norns"
+   },
+   "desc": {
+    "en": "the women who shape fate"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {},
+   "heiti": {},
+   "first": {},
+   "first_any": {},
+   "mentions": 0,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added from the cloud message of 2026-11-08 (norns)"
+   ]
   }
  ]
 }
