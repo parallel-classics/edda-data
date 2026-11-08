@@ -749,6 +749,7 @@
    "type": "king",
    "wikidata": "Q5850202",
    "names": {
+    "on": "Atli",
     "de": "Etzel",
     "en": "Etzel",
     "ru": "Этцель"
@@ -964,6 +965,7 @@
    "type": "god",
    "wikidata": "Q131658",
    "names": {
+    "on": "Baldr",
     "sv": "Balder",
     "is": "Baldur",
     "ru": "Бальдр",
@@ -1321,6 +1323,7 @@
    "type": "hero",
    "wikidata": "Q155432",
    "names": {
+    "on": "Helgi Hundingsbani",
     "de": "Helgi",
     "en": "Helgi Hundingsbane",
     "sv": "Helge Hundingsbane"
@@ -2023,6 +2026,7 @@
    "type": "god",
    "wikidata": "Q193879",
    "names": {
+    "on": "Njörðr",
     "de": "Njörðr",
     "en": "Njord",
     "sv": "Njord",
@@ -2685,6 +2689,7 @@
    "type": "place_myth",
    "wikidata": "Q204102",
    "names": {
+    "on": "Jötunheimar",
     "de": "Jötunheim",
     "en": "Jotunheim",
     "sv": "Jotunheim",
@@ -3290,6 +3295,7 @@
    "type": "place_myth",
    "wikidata": "Q178182",
    "names": {
+    "on": "Ásgarðr",
     "de": "Asgard",
     "en": "Asgard",
     "sv": "Asgård",
@@ -3356,6 +3362,7 @@
    "type": "king",
    "wikidata": "Q3129325",
    "names": {
+    "on": "Heðinn",
     "en": "Hedin Hjarrandason"
    },
    "desc": {
@@ -4728,6 +4735,7 @@
    "type": "place_myth",
    "wikidata": "Q131135",
    "names": {
+    "on": "Yggdrasill",
     "sv": "Yggdrasil",
     "is": "Askur Yggdrasils",
     "ru": "Иггдрасиль",
@@ -4795,6 +4803,7 @@
    "type": "place_myth",
    "wikidata": "Q180682",
    "names": {
+    "on": "Miðgarðr",
     "de": "Midgard",
     "en": "Midgard",
     "sv": "Midgård",
@@ -4862,6 +4871,7 @@
    "type": "object",
    "wikidata": "Q193813",
    "names": {
+    "on": "Mjöllnir",
     "de": "Mjölnir",
     "en": "Mjölnir",
     "sv": "Mjölner",
@@ -6261,6 +6271,7 @@
    "type": "god",
    "wikidata": "Q213479",
    "names": {
+    "on": "Ullr",
     "de": "Uller",
     "en": "Ull",
     "sv": "Ull",
@@ -6849,6 +6860,7 @@
    "type": "monster",
    "wikidata": "Q182560",
    "names": {
+    "on": "Fenrir",
     "de": "Fenriswolf",
     "en": "Fenrir",
     "sv": "Fenrisulven",
@@ -8342,6 +8354,7 @@
    "type": "god",
    "wikidata": "Q293560",
    "names": {
+    "on": "Óðr",
     "ru": "Од",
     "en": "Óðr",
     "de": "Óðr",
@@ -10445,6 +10458,7 @@
    "type": "god",
    "wikidata": "Q846981",
    "names": {
+    "on": "Váli",
     "ru": "Вали",
     "en": "Váli",
     "de": "Wali",
@@ -11260,6 +11274,7 @@
    "type": "goddess",
    "wikidata": "Q548730",
    "names": {
+    "on": "Jörð",
     "de": "Jörd",
     "da": "Fjørgyn",
     "en": "Jörð",
@@ -12670,6 +12685,7 @@
    "type": "goddess",
    "wikidata": "Q3305838",
    "names": {
+    "on": "Menglöð",
     "sv": "Menglöd",
     "en": "Menglöðr",
     "da": "Menglöd",
@@ -13281,6 +13297,7 @@
    "type": "god",
    "wikidata": "Q2573198",
    "names": {
+    "on": "Ánarr",
     "en": "Annar",
     "sv": "Anar",
     "de": "Ánarr",
@@ -13671,6 +13688,7 @@
    "type": "giant",
    "wikidata": "Q1505256",
    "names": {
+    "on": "Gillingr",
     "ru": "Гиллинг",
     "en": "Gilling",
     "de": "Gilling",
@@ -13850,6 +13868,7 @@
    "type": "place_myth",
    "wikidata": "Q1533234",
    "names": {
+    "on": "Gnipahellir",
     "en": "Gnipahellir",
     "de": "Gnipahellir",
     "sv": "Gnipahålan",
@@ -15637,6 +15656,7 @@
    "type": "hall",
    "wikidata": "Q905546",
    "names": {
+    "on": "Breiðablik",
     "en": "Breidablik",
     "de": "Breidablik",
     "sv": "Breidablick",
@@ -15807,6 +15827,7 @@
    "type": "object",
    "wikidata": "Q5195557",
    "names": {
+    "on": "Drómi",
     "en": "Droma",
     "da": "Drome",
     "nb": "Drome",
@@ -17051,6 +17072,7 @@
    "type": "giant",
    "wikidata": "Q1545518",
    "names": {
+    "on": "Hrymr",
     "de": "Hrymr",
     "en": "Hrym",
     "da": "Hrym",
@@ -19739,6 +19761,7 @@
    "type": "giant",
    "wikidata": "Q1396283",
    "names": {
+    "on": "Fárbauti",
     "en": "Fárbauti",
     "de": "Fárbauti",
     "sv": "Farbaute",
@@ -20961,6 +20984,7 @@
    "type": "dwarf",
    "wikidata": "Q12318681",
    "names": {
+    "on": "Ívaldi",
     "da": "Ivalde",
     "de": "Ivaldi",
     "ru": "Ивальди",
@@ -22610,6 +22634,7 @@
    "type": "place_myth",
    "wikidata": "Q1769480",
    "names": {
+    "on": "Þrúðvangar",
     "sv": "Trudvang",
     "da": "Trudvang",
     "nb": "Trudvang",
@@ -22715,6 +22740,7 @@
    "type": "place_myth",
    "wikidata": "Q3356115",
    "names": {
+    "on": "Valland",
     "nn": "Valland",
     "en": "Valland",
     "sv": "Valland",
@@ -23173,6 +23199,7 @@
    "type": "dwarf",
    "wikidata": "Q881142",
    "names": {
+    "on": "Bláinn",
     "de": "Blainn",
     "en": "Bláin"
    },
@@ -28144,6 +28171,7 @@
    "type": "place_myth",
    "wikidata": "Q1130444",
    "names": {
+    "on": "Útgarðar",
     "de": "Utgard",
     "sv": "Utgård",
     "is": "Útgarður",
@@ -28249,6 +28277,7 @@
    "type": "place_myth",
    "wikidata": "Q749587",
    "names": {
+    "on": "Vanaheimr",
     "ru": "Ванахейм",
     "en": "Vanaheimr",
     "de": "Vanaheimr",
@@ -29133,6 +29162,7 @@
    "type": "animal",
    "wikidata": "Q1303861",
    "names": {
+    "on": "Eikþyrnir",
     "en": "Eikþyrnir",
     "de": "Eikthyrnir",
     "nb": "Eiktyrne",
@@ -29870,6 +29900,7 @@
    "type": "object",
    "wikidata": "Q1424849",
    "names": {
+    "on": "Hringhorni",
     "en": "Hringhorni",
     "de": "Ringhorn",
     "da": "Ringhorne",
@@ -30884,6 +30915,7 @@
    "type": "place_myth",
    "wikidata": "Q16513498",
    "names": {
+    "on": "Sökkvabekkr",
     "en": "Sökkvabekkr",
     "sv": "Sökkvabäck",
     "da": "Søkkvabek",
@@ -31031,6 +31063,7 @@
    "type": "animal",
    "wikidata": "Q140299427",
    "names": {
+    "on": "Tanngrisnir",
     "en": "Tanngrísnir",
     "de": "Tanngrisnir",
     "nb": "Tanngrisne",
@@ -31177,6 +31210,7 @@
    "type": "god",
    "wikidata": "Q609434",
    "names": {
+    "on": "Vé",
     "de": "Vé",
     "is": "Vé",
     "sv": "Ve",

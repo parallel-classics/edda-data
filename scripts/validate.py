@@ -784,8 +784,10 @@ def check_guide(rows):
     paths, relations = g("paths.json", "paths", {}), g("relations.json", "relations", [])
     for sec in sections:
         refs(f"sections.json#{sec['id']}", sec.get("refs"))
-        for e in sec.get("entities", []):
+        for e in sec.get("entities", []) + sec.get("more", []):
             ent(f"sections.json#{sec['id']}", e)
+            if e not in cards:
+                err(f"guide/sections.json#{sec['id']}: {e!r} has no card")
     for cid, c in cards.items():
         where = f"cards.json#{cid}"
         ent(where, cid)
@@ -802,14 +804,26 @@ def check_guide(rows):
         refs(where, [b["row"] for b in c.get("best", [])])
         for r in c.get("related", []):
             ent(where, r["id"])
-            if r.get("rel") not in CARD_RELS:
-                err(f"guide/{where}: related kind {r.get('rel')!r} is not known")
+            for k in [r.get("rel")] + list(r.get("also", [])):
+                if k not in CARD_RELS:
+                    err(f"guide/{where}: related kind {k!r} is not known")
         for m in c.get("myths", []):
             if m not in myths:
                 err(f"guide/{where}: myth {m!r} not in myths.json")
         for s in c.get("stories", []):
             if s not in stories:
                 err(f"guide/{where}: story {s!r} not in stories.json")
+    placed = [e for sec in sections for e in sec.get("entities", []) + sec.get("more", [])]
+    more = [e for sec in sections for e in sec.get("more", [])]
+    for cid in cards:   # a main card may stand in two sections (Sleipnir: Loki's children and the mounts)
+        if sections and cid not in placed:
+            err(f"guide/sections.json: card {cid!r} is in no section")
+        if cid in more and placed.count(cid) > 1:
+            err(f"guide/sections.json: short card {cid!r} is listed more than once")
+    for cid, c in cards.items():   # a link between two cards is there on both, so a reader can always go back
+        for r in c.get("related", []):
+            if r["id"] in cards and not any(x["id"] == cid for x in cards[r["id"]].get("related", [])):
+                err(f"guide/cards.json#{cid}: related {r['id']!r} has no link back")
     for sid, s in stories.items():
         where = f"stories.json#{sid}"
         if s.get("age") not in ages:
