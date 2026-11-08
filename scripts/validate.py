@@ -557,6 +557,11 @@ def check_paths(rows):
         for k in ("title", "time"):
             if not (path.get(k) or {}).get("en"):
                 err(f"{where}: no English {k}")
+        tp = os.path.join(ROOT, "guide", "paths.json")
+        tours = set(load(tp).get("paths", {})) if os.path.exists(tp) else set()
+        for x in path.get("tours", []):
+            if x not in tours:
+                err(f"{where}: tour {x!r} is not a Mímir tour in guide/paths.json")
         for i, st in enumerate(path.get("steps", []), 1):
             ref, to = st.get("ref") or "", st.get("to")
             if not (ref in rows or ref in chapters or ref in poems):
