@@ -1,0 +1,234 @@
+{
+  "_note": "Figure anchors for picture plate P03 (Mímir, task 34), in pixels of the full-size 5504x3072 master (p3-v4 (four oxen; a scribble in the foliage removed by the cloud session) in Grigory's folder). bbox = [x, y, w, h] for the figure (crop for cards and popovers; click target); label = point for the name, inside the empty caption box; kind = figure | attribute | place (attribute/place: part_of the main figure, no label of its own, but its own click target). shows = what is drawn, each with the rows that state it (from the figure's Mímir card). Drafted by the cloud session from a downscaled view: check the boxes on the image before use. 2026-11-08.",
+  "image": "p3.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "asynjur",
+  "caption_box": [
+    76,
+    2528,
+    5353,
+    458
+  ],
+  "figures": [
+    {
+      "entity": "frigg",
+      "kind": "figure",
+      "bbox": [
+        155,
+        705,
+        912,
+        1531
+      ],
+      "label": [
+        516,
+        2724
+      ],
+      "shows": [
+        {
+          "en": "queen of the goddesses, enthroned",
+          "refs": [
+            "g-c20-4",
+            "g-c35-2",
+            "g-c35-6",
+            "g-c35-15"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "fulla",
+      "kind": "figure",
+      "bbox": [
+        602,
+        516,
+        396,
+        636
+      ],
+      "label": [
+        843,
+        2862
+      ],
+      "shows": [
+        {
+          "en": "loose hair, gold band, Frigg's box",
+          "refs": [
+            "g-c35-6",
+            "s-c27-1",
+            "s-c40-1",
+            "s-c44-1"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sif",
+      "kind": "figure",
+      "bbox": [
+        1066,
+        550,
+        516,
+        1634
+      ],
+      "label": [
+        1324,
+        2752
+      ],
+      "shows": [
+        {
+          "en": "hair of gold",
+          "refs": [
+            "s-c43-1",
+            "s-c43-3",
+            "s-c40-1",
+            "s-c29-1"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "idunn",
+      "kind": "figure",
+      "bbox": [
+        1600,
+        671,
+        464,
+        1496
+      ],
+      "label": [
+        1832,
+        2752
+      ],
+      "shows": [
+        {
+          "en": "box of apples",
+          "refs": [
+            "g-c26-1",
+            "s-c30-1",
+            "s-c2-5",
+            "s-c2-6"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "gefjon",
+      "kind": "figure",
+      "bbox": [
+        2064,
+        671,
+        550,
+        1238
+      ],
+      "label": [
+        2339,
+        2752
+      ],
+      "shows": [
+        {
+          "en": "ploughing with four oxen, her giant sons",
+          "refs": [
+            "g-c1-1",
+            "g-c1-2"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "skadi",
+      "kind": "figure",
+      "bbox": [
+        3027,
+        516,
+        688,
+        1582
+      ],
+      "label": [
+        3371,
+        2752
+      ],
+      "shows": [
+        {
+          "en": "on skis, with a bow",
+          "refs": [
+            "g-c23-5"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "saga",
+      "kind": "figure",
+      "bbox": [
+        3612,
+        929,
+        740,
+        1135
+      ],
+      "label": [
+        3982,
+        2752
+      ],
+      "shows": [
+        {
+          "en": "drinks from gold cups at Sökkvabekkr",
+          "refs": [
+            "g-c35-3",
+            "grm-s7"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "gna",
+      "kind": "figure",
+      "bbox": [
+        4197,
+        344,
+        1152,
+        912
+      ],
+      "label": [
+        4954,
+        2862
+      ],
+      "shows": [
+        {
+          "en": "rides through the air",
+          "refs": [
+            "g-c35-15",
+            "g-c35-18",
+            "g-c35-16"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "eir",
+      "kind": "figure",
+      "bbox": [
+        4300,
+        1359,
+        722,
+        929
+      ],
+      "label": [
+        4575,
+        2724
+      ],
+      "shows": [
+        {
+          "en": "the best of healers",
+          "refs": [
+            "g-c35-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana / Nano Banana Pro), several edit passes; P1 head of Heimdallr composited from an earlier pass and the caption box redrawn by the cloud session (provenance only, not shown on the page)"
+}

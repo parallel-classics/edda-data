@@ -1,0 +1,140 @@
+{
+  "_note": "Clickable scenes on the Mímir picture (landing page /mimir/), in pixels of the 5504x3072 master 'mimir v2.jpg' in Grigory's folder. Each scene opens its story (if given) or its card. No labels drawn: names appear on hover. Drafted by the cloud session from a 1600 px view; check at full size. 2026-11-08.",
+  "image": "mimir.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "title_area": [
+    0,
+    0,
+    1926,
+    1445
+  ],
+  "scenes": [
+    {
+      "id": "mimir",
+      "entity": "mimir",
+      "story": null,
+      "bbox": [
+        3578,
+        963,
+        1066,
+        1066
+      ]
+    },
+    {
+      "id": "mimisbrunnr",
+      "entity": "mimisbrunnr",
+      "story": null,
+      "bbox": [
+        2253,
+        1995,
+        2821,
+        791
+      ]
+    },
+    {
+      "id": "eye",
+      "entity": "odin",
+      "story": null,
+      "bbox": [
+        3474,
+        2270,
+        344,
+        172
+      ]
+    },
+    {
+      "id": "sleipnir",
+      "entity": "sleipnir",
+      "story": "the-wall-builder",
+      "bbox": [
+        2838,
+        791,
+        516,
+        327
+      ]
+    },
+    {
+      "id": "fenrir",
+      "entity": "fenrir",
+      "story": "binding-of-fenrir",
+      "bbox": [
+        2374,
+        1118,
+        722,
+        310
+      ]
+    },
+    {
+      "id": "thor",
+      "entity": "thor",
+      "story": "thor-fishes",
+      "bbox": [
+        2012,
+        1462,
+        482,
+        619
+      ]
+    },
+    {
+      "id": "serpent",
+      "entity": "jormungandr",
+      "story": "thor-fishes",
+      "bbox": [
+        2546,
+        1462,
+        808,
+        447
+      ]
+    },
+    {
+      "id": "ragnarok",
+      "entity": "naglfar",
+      "story": "ragnarok",
+      "bbox": [
+        4231,
+        292,
+        1187,
+        654
+      ]
+    },
+    {
+      "id": "norns",
+      "entity": "urdarbrunnr",
+      "story": "the-golden-age",
+      "bbox": [
+        4816,
+        963,
+        654,
+        482
+      ]
+    },
+    {
+      "id": "falcon",
+      "entity": "freyja",
+      "story": "idunn-and-thjazi",
+      "bbox": [
+        5040,
+        1531,
+        327,
+        482
+      ]
+    },
+    {
+      "id": "dragon",
+      "entity": "fafnir",
+      "story": "sigurdr-and-fafnir",
+      "bbox": [
+        4850,
+        1754,
+        413,
+        361
+      ]
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana Pro), two passes (provenance only, not shown on the page)"
+}

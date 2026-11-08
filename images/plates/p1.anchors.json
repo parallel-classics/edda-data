@@ -1,0 +1,347 @@
+{
+  "_note": "Figure anchors for picture plate P01 (Mímir, task 34), in pixels of the full-size 5504x3072 master (p1-v6.jpg in Grigory's folder). bbox = [x, y, w, h] for the figure (crop for cards and popovers; click target); label = point for the name, inside the empty caption box; kind = figure | attribute | place (attribute/place: part_of the main figure, no label of its own, but its own click target). shows = what is drawn, each with the rows that state it (from the figure's Mímir card). Drafted by the cloud session from a downscaled view: check the boxes on the image before use. 2026-11-08.",
+  "image": "p1.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "aesir",
+  "caption_box": [
+    165,
+    2731,
+    5174,
+    234
+  ],
+  "figures": [
+    {
+      "entity": "odin",
+      "kind": "figure",
+      "bbox": [
+        447,
+        241,
+        963,
+        2339
+      ],
+      "label": [
+        928,
+        2848
+      ],
+      "shows": [
+        {
+          "en": "one eye",
+          "refs": [
+            "g-c15-4",
+            "g-c15-5",
+            "vsp-s28"
+          ]
+        },
+        {
+          "en": "spear Gungnir",
+          "refs": [
+            "s-c43-1",
+            "s-c43-3",
+            "g-c51-5"
+          ]
+        },
+        {
+          "en": "ravens Huginn and Muninn",
+          "refs": [
+            "g-c38-7",
+            "grm-s20"
+          ]
+        },
+        {
+          "en": "wolves Geri and Freki",
+          "refs": [
+            "g-c38-5",
+            "grm-s19"
+          ]
+        },
+        {
+          "en": "gold arm-ring (Draupnir)",
+          "refs": [
+            "s-c43-2",
+            "s-c43-4"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "gungnir",
+      "kind": "attribute",
+      "bbox": [
+        430,
+        258,
+        206,
+        2322
+      ],
+      "label": [
+        533,
+        0
+      ],
+      "shows": [],
+      "part_of": "odin"
+    },
+    {
+      "entity": "huginn",
+      "kind": "attribute",
+      "bbox": [
+        636,
+        671,
+        206,
+        275
+      ],
+      "label": [
+        739,
+        0
+      ],
+      "shows": [],
+      "part_of": "odin"
+    },
+    {
+      "entity": "munin",
+      "kind": "attribute",
+      "bbox": [
+        1170,
+        671,
+        241,
+        241
+      ],
+      "label": [
+        1290,
+        0
+      ],
+      "shows": [],
+      "part_of": "odin"
+    },
+    {
+      "entity": "geri",
+      "kind": "attribute",
+      "bbox": [
+        258,
+        1565,
+        344,
+        998
+      ],
+      "label": [
+        430,
+        0
+      ],
+      "shows": [],
+      "part_of": "odin"
+    },
+    {
+      "entity": "freki",
+      "kind": "attribute",
+      "bbox": [
+        1118,
+        1600,
+        808,
+        1049
+      ],
+      "label": [
+        1522,
+        0
+      ],
+      "shows": [],
+      "part_of": "odin"
+    },
+    {
+      "entity": "thor",
+      "kind": "figure",
+      "bbox": [
+        1462,
+        619,
+        912,
+        1995
+      ],
+      "label": [
+        1918,
+        2848
+      ],
+      "shows": [
+        {
+          "en": "hammer Mjöllnir with its short handle",
+          "refs": [
+            "g-c21-4",
+            "s-c43-2",
+            "s-c43-4",
+            "g-c51-5"
+          ]
+        },
+        {
+          "en": "iron gloves and belt of strength",
+          "refs": [
+            "g-c21-4",
+            "s-c43-2",
+            "s-c43-4"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "mjolnir",
+      "kind": "attribute",
+      "bbox": [
+        1445,
+        1617,
+        430,
+        378
+      ],
+      "label": [
+        1660,
+        0
+      ],
+      "shows": [],
+      "part_of": "thor"
+    },
+    {
+      "entity": "baldur",
+      "kind": "figure",
+      "bbox": [
+        2305,
+        654,
+        516,
+        1926
+      ],
+      "label": [
+        2563,
+        2848
+      ],
+      "shows": [
+        {
+          "en": "so fair that light shines from him",
+          "refs": [
+            "g-c22-2"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "tyr",
+      "kind": "figure",
+      "bbox": [
+        2804,
+        688,
+        688,
+        1926
+      ],
+      "label": [
+        3148,
+        2848
+      ],
+      "shows": [
+        {
+          "en": "right hand lost to Fenrir",
+          "refs": [
+            "g-c34-11",
+            "g-c25-2"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "heimdall",
+      "kind": "figure",
+      "bbox": [
+        3474,
+        688,
+        654,
+        1892
+      ],
+      "label": [
+        3801,
+        2848
+      ],
+      "shows": [
+        {
+          "en": "horn Gjallarhorn",
+          "refs": [
+            "g-c27-1",
+            "g-c51-5",
+            "vsp-s46"
+          ]
+        },
+        {
+          "en": "golden teeth",
+          "refs": [
+            "g-c27-1",
+            "s-c15-1",
+            "rth-p1"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "gjallarhorn",
+      "kind": "attribute",
+      "bbox": [
+        3578,
+        1514,
+        378,
+        258
+      ],
+      "label": [
+        4016,
+        0
+      ],
+      "shows": [],
+      "part_of": "heimdall"
+    },
+    {
+      "entity": "bragi",
+      "kind": "figure",
+      "bbox": [
+        4025,
+        722,
+        688,
+        1858
+      ],
+      "label": [
+        4369,
+        2848
+      ],
+      "shows": [
+        {
+          "en": "long beard; the god of poetry",
+          "refs": [
+            "g-c26-1",
+            "s-c17-1"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "loki",
+      "kind": "figure",
+      "bbox": [
+        4696,
+        722,
+        585,
+        1858
+      ],
+      "label": [
+        4988,
+        2848
+      ],
+      "shows": [
+        {
+          "en": "fishing net",
+          "refs": [
+            "g-c50-2",
+            "g-c50-3"
+          ]
+        },
+        {
+          "en": "stitched lips",
+          "refs": [
+            "s-c43-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana / Nano Banana Pro), several edit passes; P1 head of Heimdallr composited from an earlier pass and the caption box redrawn by the cloud session (provenance only, not shown on the page)"
+}

@@ -1,0 +1,192 @@
+{
+  "_note": "Figure anchors for picture plate P04 (Mímir, task 34), in pixels of the full-size 5504x3072 master (p4-v2.jpg in Grigory's folder). bbox = [x, y, w, h] for the figure (crop for cards and popovers; click target); label = point for the name, inside the empty caption box; kind = figure | attribute | place (attribute/place: part_of the main figure, no label of its own, but its own click target). shows = what is drawn, each with the rows that state it (from the figure's Mímir card). Drafted by the cloud session from a downscaled view: check the boxes on the image before use. 2026-11-08.",
+  "image": "p4.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "vanir",
+  "caption_box": [
+    131,
+    2666,
+    5243,
+    334
+  ],
+  "figures": [
+    {
+      "entity": "njordr",
+      "kind": "figure",
+      "bbox": [
+        516,
+        568,
+        998,
+        1892
+      ],
+      "label": [
+        1015,
+        2828
+      ],
+      "shows": [
+        {
+          "en": "barefoot by the sea at Nóatún",
+          "refs": [
+            "g-c23-1",
+            "grm-s16",
+            "s-c3-4",
+            "s-c3-5"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "freyr",
+      "kind": "figure",
+      "bbox": [
+        1307,
+        550,
+        1101,
+        1376
+      ],
+      "label": [
+        1857,
+        2828
+      ],
+      "shows": [
+        {
+          "en": "rain, sunshine and harvest",
+          "refs": [
+            "g-c24-1"
+          ]
+        },
+        {
+          "en": "an antler instead of his sword",
+          "refs": [
+            "g-c37-4",
+            "skm-s9",
+            "g-c37-6",
+            "g-c51-5"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "gullinbursti",
+      "kind": "attribute",
+      "bbox": [
+        1324,
+        1668,
+        1049,
+        774
+      ],
+      "label": [
+        1848,
+        0
+      ],
+      "shows": [],
+      "part_of": "freyr"
+    },
+    {
+      "entity": "freyja",
+      "kind": "figure",
+      "bbox": [
+        2460,
+        636,
+        671,
+        1789
+      ],
+      "label": [
+        2795,
+        2828
+      ],
+      "shows": [
+        {
+          "en": "necklace Brísingamen",
+          "refs": [
+            "g-c35-7",
+            "thrk-s13",
+            "s-c3-1",
+            "thrk-s3"
+          ]
+        },
+        {
+          "en": "feather cloak",
+          "refs": [
+            "g-c35-7",
+            "thrk-s13",
+            "s-c3-1",
+            "thrk-s3"
+          ]
+        },
+        {
+          "en": "tears of red gold",
+          "refs": [
+            "g-c35-7",
+            "s-c44-15",
+            "g-c24-3",
+            "g-c49-15"
+          ]
+        },
+        {
+          "en": "wagon drawn by cats",
+          "refs": [
+            "g-c24-3",
+            "g-c49-15",
+            "hdl-s6",
+            "hdl-s7"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "gullveig",
+      "kind": "figure",
+      "bbox": [
+        3440,
+        378,
+        860,
+        2047
+      ],
+      "label": [
+        3870,
+        2828
+      ],
+      "shows": [
+        {
+          "en": "pierced by spears, burned three times, still alive",
+          "refs": [
+            "vsp-s21",
+            "vsp-s24"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "kvasir",
+      "kind": "figure",
+      "bbox": [
+        4644,
+        1084,
+        619,
+        1187
+      ],
+      "label": [
+        4953,
+        2828
+      ],
+      "shows": [
+        {
+          "en": "so wise that no one could ask him a question he could not answer",
+          "refs": [
+            "s-c5-2",
+            "s-c5-3",
+            "s-c5-5",
+            "s-c10-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana / Nano Banana Pro), several edit passes; P1 head of Heimdallr composited from an earlier pass and the caption box redrawn by the cloud session (provenance only, not shown on the page)"
+}

@@ -1,0 +1,232 @@
+{
+  "_note": "Figure anchors for picture plate P02 (Mímir, task 34), in pixels of the full-size 5504x3072 master (p2-v3.jpg in Grigory's folder). bbox = [x, y, w, h] for the figure (crop for cards and popovers; click target); label = point for the name, inside the empty caption box; kind = figure | attribute | place (attribute/place: part_of the main figure, no label of its own, but its own click target). shows = what is drawn, each with the rows that state it (from the figure's Mímir card). Drafted by the cloud session from a downscaled view: check the boxes on the image before use. 2026-11-08.",
+  "image": "p2.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "aesir-more",
+  "caption_box": [
+    120,
+    2484,
+    5263,
+    492
+  ],
+  "figures": [
+    {
+      "entity": "hodr",
+      "kind": "figure",
+      "bbox": [
+        258,
+        774,
+        774,
+        1514
+      ],
+      "label": [
+        645,
+        2752
+      ],
+      "shows": [
+        {
+          "en": "blind",
+          "refs": [
+            "g-c28-1",
+            "g-c49-8",
+            "g-c49-11",
+            "g-c49-12"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "vidarr",
+      "kind": "figure",
+      "bbox": [
+        1015,
+        791,
+        722,
+        1565
+      ],
+      "label": [
+        1376,
+        2752
+      ],
+      "shows": [
+        {
+          "en": "the thick shoe",
+          "refs": [
+            "g-c29-1",
+            "g-c51-5",
+            "s-c18-1"
+          ]
+        },
+        {
+          "en": "silent",
+          "refs": [
+            "g-c29-1"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "vali",
+      "kind": "figure",
+      "bbox": [
+        1668,
+        619,
+        808,
+        1668
+      ],
+      "label": [
+        2072,
+        2752
+      ],
+      "shows": [
+        {
+          "en": "archer",
+          "refs": [
+            "g-c30-1"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "ull",
+      "kind": "figure",
+      "bbox": [
+        2253,
+        740,
+        1221,
+        1600
+      ],
+      "label": [
+        2863,
+        2752
+      ],
+      "shows": [
+        {
+          "en": "on skis, with bow and shield",
+          "refs": [
+            "g-c31-1",
+            "s-c21-1"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "forseti",
+      "kind": "figure",
+      "bbox": [
+        3474,
+        1084,
+        499,
+        740
+      ],
+      "label": [
+        3723,
+        2752
+      ],
+      "shows": [
+        {
+          "en": "judge in Glitnir",
+          "refs": [
+            "g-c32-1",
+            "g-c17-2",
+            "grm-s15",
+            "s-c1-2"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "glitnir",
+      "kind": "place",
+      "bbox": [
+        3216,
+        310,
+        1686,
+        1066
+      ],
+      "label": [
+        4059,
+        0
+      ],
+      "shows": [
+        {
+          "en": "gold pillars, silver roof",
+          "refs": [
+            "g-c17-2",
+            "grm-s15"
+          ]
+        }
+      ],
+      "part_of": "forseti"
+    },
+    {
+      "entity": "h-nir",
+      "kind": "figure",
+      "bbox": [
+        4042,
+        671,
+        499,
+        1651
+      ],
+      "label": [
+        4291,
+        2752
+      ],
+      "shows": [
+        {
+          "en": "tall, long-legged",
+          "refs": [
+            "s-c22-1"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "mimir",
+      "kind": "figure",
+      "bbox": [
+        4678,
+        980,
+        619,
+        1256
+      ],
+      "label": [
+        4987,
+        2752
+      ],
+      "shows": [
+        {
+          "en": "drinks from the horn at his well",
+          "refs": [
+            "g-c15-4",
+            "g-c15-5",
+            "vsp-s28",
+            "g-c51-5"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "mimisbrunnr",
+      "kind": "place",
+      "bbox": [
+        4885,
+        1737,
+        482,
+        499
+      ],
+      "label": [
+        5126,
+        0
+      ],
+      "shows": [],
+      "part_of": "mimir"
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana / Nano Banana Pro), several edit passes; P1 head of Heimdallr composited from an earlier pass and the caption box redrawn by the cloud session (provenance only, not shown on the page)"
+}
