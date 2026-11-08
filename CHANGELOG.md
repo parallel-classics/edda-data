@@ -4,6 +4,10 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 ## Unreleased
 
+- Mímir (task 34), pilot: `guide/` with a small sample (Óðinn and Þórr, two stories, the eight ages, a path, two
+  outside sources, two myths) for the pages until the cloud session's content replaces it; AI draft, not reviewed.
+  The validator checks `guide/`: refs are row ids, entities exist, every story step has a passage, symmetric relations.
+
 - Map of the worlds, background v4 (2026-11-08): the grazing stag (Dáinn) redrawn whole; anchors unchanged.
 - Names: summaries for the minor entities (`entities/summaries.json`, AI drafts, not reviewed): 321 more, for the
   entities with 1-4 Old Norse mentions (67 with 4, 82 with 3, 120 with 2, 52 with 1), one short paragraph each citing

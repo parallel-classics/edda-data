@@ -1,0 +1,23 @@
+{
+ "_note": "Mímir (task 34, edda-site docs/specs/MIMIR.md). PILOT SAMPLE by Claude Code, 2026-11-08: a few entries to build the pages against, until the cloud session's content arrives (it replaces this file). AI draft, not reviewed; CC BY 4.0.",
+ "sections": [
+  {
+   "id": "aesir",
+   "title": {
+    "en": "The Æsir",
+    "is": "Æsir"
+   },
+   "plate": null,
+   "intro": {
+    "en": "The gods of Ásgarðr, with Óðinn at their head. Snorri lists them one by one in Gylfaginning 20-34."
+   },
+   "refs": [
+    "g-c20-1"
+   ],
+   "entities": [
+    "odin",
+    "thor"
+   ]
+  }
+ ]
+}

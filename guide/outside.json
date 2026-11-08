@@ -1,0 +1,44 @@
+{
+ "_note": "Mímir (task 34, edda-site docs/specs/MIMIR.md). PILOT SAMPLE by Claude Code, 2026-11-08: a few entries to build the pages against, until the cloud session's content arrives (it replaces this file). AI draft, not reviewed; CC BY 4.0.",
+ "sources": [
+  {
+   "id": "saxo",
+   "title": {
+    "en": "Saxo Grammaticus, Gesta Danorum"
+   },
+   "date": "about 1200",
+   "what": {
+    "en": "A Latin history of the Danes that retells many of the same figures as human kings and heroes."
+   },
+   "adds": {
+    "en": "Other versions of the stories of Baldr (Balderus) and Hamlet (Amlethus)."
+   },
+   "differs": {
+    "en": "Baldr is a warrior killed in battle by Høtherus, not by the mistletoe."
+   },
+   "read": [
+    {
+     "label": "Wikisource (English, Elton 1894)",
+     "url": "https://en.wikisource.org/wiki/The_Nine_Books_of_the_Danish_History_of_Saxo_Grammaticus"
+    }
+   ]
+  },
+  {
+   "id": "volsunga",
+   "title": {
+    "en": "Völsunga saga"
+   },
+   "date": "13th century",
+   "what": {
+    "en": "A prose saga of the Völsungs that tells the whole story of Sigurðr, Brynhildr and Guðrún in order."
+   },
+   "adds": {
+    "en": "The parts of the story lost with the missing leaves of the Codex Regius."
+   },
+   "differs": {
+    "en": "Details of Sigurðr's death and Brynhildr's vows differ between the saga and the poems."
+   },
+   "read": []
+  }
+ ]
+}

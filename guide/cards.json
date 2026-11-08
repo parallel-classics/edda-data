@@ -1,0 +1,210 @@
+{
+ "_note": "Mímir (task 34, edda-site docs/specs/MIMIR.md). PILOT SAMPLE by Claude Code, 2026-11-08: a few entries to build the pages against, until the cloud session's content arrives (it replaces this file). AI draft, not reviewed; CC BY 4.0.",
+ "cards": {
+  "odin": {
+   "status": "draft",
+   "by": "ai:claude-2026-11",
+   "hook": {
+    "en": "The one-eyed chief of the gods, who gave an eye for wisdom and hung nine nights on a tree to win the runes."
+   },
+   "facts": [
+    {
+     "label": {
+      "en": "Family"
+     },
+     "value": {
+      "en": "Husband of Frigg; father of Þórr, whose mother is Jörð, the Earth"
+     },
+     "refs": [
+      "g-c9-2"
+     ]
+    },
+    {
+     "label": {
+      "en": "Home"
+     },
+     "value": {
+      "en": "Ásgarðr; from his high seat Hliðskjálf he sees the whole world"
+     },
+     "refs": [
+      "g-c9-2"
+     ]
+    },
+    {
+     "label": {
+      "en": "Companions"
+     },
+     "value": {
+      "en": "The ravens Huginn and Muninn, who bring him the news of the world every day"
+     },
+     "refs": [
+      "g-c38-7"
+     ]
+    },
+    {
+     "label": {
+      "en": "Known for"
+     },
+     "value": {
+      "en": "His wisdom: an eye left as pledge at Mímir's well; the runes won on the windy tree"
+     },
+     "refs": [
+      "g-c15-4",
+      "hav-s138"
+     ]
+    },
+    {
+     "label": {
+      "en": "Fate"
+     },
+     "value": {
+      "en": "Swallowed by the wolf Fenrir at Ragnarök; his son Víðarr avenges him"
+     },
+     "refs": [
+      "g-c51-5",
+      "g-c51-12"
+     ]
+    }
+   ],
+   "best": [
+    {
+     "row": "g-c3-2",
+     "why": {
+      "en": "Gangleri's first question: the highest god and his twelve names"
+     }
+    },
+    {
+     "row": "hav-s138",
+     "why": {
+      "en": "Óðinn tells how he hung on the tree and took up the runes"
+     }
+    },
+    {
+     "row": "g-c38-7",
+     "why": {
+      "en": "the ravens on his shoulders"
+     }
+    }
+   ],
+   "related": [
+    {
+     "id": "frigg",
+     "rel": "spouse"
+    },
+    {
+     "id": "thor",
+     "rel": "child"
+    },
+    {
+     "id": "vidarr",
+     "rel": "child"
+    },
+    {
+     "id": "fenrir",
+     "rel": "killed_by"
+    }
+   ],
+   "myths": [
+    "loki-brother"
+   ]
+  },
+  "thor": {
+   "status": "draft",
+   "by": "ai:claude-2026-11",
+   "hook": {
+    "en": "The strongest of the gods, who drives a goat chariot and defends gods and men with his hammer Mjöllnir."
+   },
+   "facts": [
+    {
+     "label": {
+      "en": "Family"
+     },
+     "value": {
+      "en": "Son of Óðinn and Jörð"
+     },
+     "refs": [
+      "g-c9-2"
+     ]
+    },
+    {
+     "label": {
+      "en": "Home"
+     },
+     "value": {
+      "en": "Þrúðvangar, with the hall Bilskirnir, the greatest of all houses"
+     },
+     "refs": [
+      "g-c21-2",
+      "g-c21-3"
+     ]
+    },
+    {
+     "label": {
+      "en": "Owns"
+     },
+     "value": {
+      "en": "The hammer Mjöllnir, the belt of strength and the iron gloves; a chariot drawn by two he-goats"
+     },
+     "refs": [
+      "g-c21-4"
+     ]
+    },
+    {
+     "label": {
+      "en": "Known for"
+     },
+     "value": {
+      "en": "His journeys against the giants: Útgarða-Loki, Hrungnir, Þrymr"
+     },
+     "refs": [
+      "g-c45-1",
+      "s-c24-1",
+      "thrk-s1"
+     ]
+    },
+    {
+     "label": {
+      "en": "Fate"
+     },
+     "value": {
+      "en": "At Ragnarök he kills the Miðgarðsormr, walks nine paces and falls dead from its venom"
+     },
+     "refs": [
+      "g-c51-5"
+     ]
+    }
+   ],
+   "best": [
+    {
+     "row": "g-c21-4",
+     "why": {
+      "en": "his goats, his hammer, his belt and gloves"
+     }
+    },
+    {
+     "row": "thrk-s1",
+     "why": {
+      "en": "the morning his hammer is gone"
+     }
+    },
+    {
+     "row": "s-c24-1",
+     "why": {
+      "en": "the duel with the giant Hrungnir"
+     }
+    }
+   ],
+   "related": [
+    {
+     "id": "odin",
+     "rel": "father"
+    },
+    {
+     "id": "jormungandr",
+     "rel": "fights"
+    }
+   ],
+   "myths": []
+  }
+ }
+}

@@ -756,6 +756,86 @@ def check_summaries(d, ids_out):
             err(f"{where}: date must be YYYY-MM-DD")
 
 
+def check_guide(rows):
+    """guide/ (Mímir, task 34): every passage ref is a row id, every entity id exists, every story step has a ref,
+    symmetric relations come in pairs, stories, ages, myths and paths point at things that exist."""
+    gd = os.path.join(ROOT, "guide")
+    if not os.path.isdir(gd):
+        return 0
+    ep = os.path.join(ROOT, "entities", "entities.json")
+    ents = {e["id"] for e in load(ep).get("entities", [])} if os.path.exists(ep) else set()
+
+    def g(name, key):
+        p = os.path.join(gd, name)
+        return load(p).get(key, {} if key == "cards" else []) if os.path.exists(p) else ({} if key == "cards" else [])
+
+    def refs(where, rr):
+        for r in rr or []:
+            if r not in rows:
+                err(f"guide/{where}: ref {r!r} is not a row id")
+    cards, stories, ages = g("cards.json", "cards"), g("stories.json", "stories"), g("ages.json", "ages")
+    myths, sections = g("myths.json", "myths"), g("sections.json", "sections")
+    story_ids, age_ids, myth_ids = {s["id"] for s in stories}, {a["id"] for a in ages}, {m["id"] for m in myths}
+    for sec in sections:
+        refs(f"sections.json#{sec['id']}", sec.get("refs"))
+        for e in sec.get("entities", []):
+            if e not in ents:
+                err(f"guide/sections.json#{sec['id']}: entity {e!r} does not exist")
+    for cid, c in cards.items():
+        where = f"cards.json#{cid}"
+        if cid not in ents:
+            err(f"guide/{where}: not an entity")
+        if c.get("status") not in ("draft", "reviewed"):
+            err(f"guide/{where}: status must be draft or reviewed")
+        if not (c.get("hook") or {}).get("en"):
+            err(f"guide/{where}: no English hook")
+        for f in c.get("facts", []):
+            if not f.get("refs"):
+                err(f"guide/{where}: fact {f.get('label', {}).get('en')!r} has no passage")
+            refs(where, f.get("refs"))
+        refs(where, [b["row"] for b in c.get("best", [])])
+        for r in c.get("related", []):
+            if r["id"] not in ents:
+                err(f"guide/{where}: related {r['id']!r} does not exist")
+        for m in c.get("myths", []):
+            if m not in myth_ids:
+                err(f"guide/{where}: myth {m!r} not in myths.json")
+    for s in stories:
+        where = f"stories.json#{s['id']}"
+        if s.get("age") not in age_ids:
+            err(f"guide/{where}: age {s.get('age')!r} not in ages.json")
+        for st in s.get("steps", []):
+            if not st.get("refs"):
+                err(f"guide/{where}: a step without a passage")
+            refs(where, st.get("refs"))
+        for e in s.get("participants", []):
+            if e not in ents:
+                err(f"guide/{where}: participant {e!r} does not exist")
+        for k in ("before", "after"):
+            if s.get(k) and s[k] not in story_ids:
+                err(f"guide/{where}: {k} {s[k]!r} is not a story")
+    for a in ages:
+        refs(f"ages.json#{a['id']}", a.get("refs"))
+    for m in myths:
+        refs(f"myths.json#{m['id']}", m.get("refs"))
+        for e in m.get("entities", []):
+            if e not in ents:
+                err(f"guide/myths.json#{m['id']}: entity {e!r} does not exist")
+    edges = {(r["from"], r["to"], r["rel"]) for r in g("relations.json", "relations")}
+    for f, t, rel in edges:
+        for e in (f, t):
+            if e not in ents:
+                err(f"guide/relations.json: {e!r} does not exist")
+        if rel in ("spouse", "sibling", "foster") and (t, f, rel) not in edges:
+            err(f"guide/relations.json: {f} {rel} {t} has no reverse edge")
+    for p in g("paths.json", "paths"):
+        for st in p.get("steps", []):
+            ok = st["id"] in cards if st["kind"] == "card" else st["id"] in story_ids
+            if not ok:
+                err(f"guide/paths.json#{p['id']}: {st['kind']} {st['id']!r} does not exist")
+    return len(cards)
+
+
 def cell_props(rid, r, cell, effective, src):
     """(origin, source, check) of a cell: the overlay result or the generated default; (None, None, None) when empty."""
     if (rid, cell) in effective:
@@ -813,6 +893,7 @@ def main():
     n_ent, n_men = check_entities(rows)
     check_paths(rows)
     check_worlds(rows)
+    check_guide(rows)
     check_ravens(rows)
     check_intros(poem_prefixes_for_intros())
     print(f"aligned rows: {len(rows)} in {len(chapters)} parts; overlay files: {n_overlay_files}, "
