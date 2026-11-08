@@ -4,6 +4,8 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 ## Unreleased
 
+- Mímir (task 34), content pass 2: 40 stories (16 new, age 3 now has its own), 5 paths, cards list every story they
+  take part in.
 - Mímir (task 34), content: `guide/` now holds the cloud session's first full pass — 216 cards, 18 sections, 24 stories,
   8 ages and the heroes' line, 344 relations, 2 paths, 18 misconceptions, 14 outside entries. AI draft, fact-checked
   by AI against the rows, not reviewed by a person. The validator follows its format (objects keyed by id) and checks

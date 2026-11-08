@@ -230,6 +230,274 @@
           }
         }
       ]
+    },
+    "thors-journeys": {
+      "title": {
+        "en": "Þórr's journeys"
+      },
+      "intro": {
+        "en": "Þórr's stories in one reading order, from the forging of his hammer to his last fight. No source gives the order of his journeys; where Snorri links two of them, that link is followed."
+      },
+      "items": [
+        {
+          "kind": "card",
+          "id": "thor",
+          "link": {
+            "en": "Þórr's hammer was one of the treasures the dwarfs made after Loki cut off Sif's hair."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "the-treasures",
+          "link": {
+            "en": "The gods judged the hammer the best of all the treasures, because it was their greatest defence against the frost-giants."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "mjolnir",
+          "link": {
+            "en": "On his journey east to Útgarða-Loki, Þórr used the hammer to bring his slaughtered goats back to life."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "thor-and-utgarda-loki",
+          "link": {
+            "en": "On that journey a farmer's son who cracked a goat's bone for the marrow became Þórr's servant."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "thjalfi",
+          "link": {
+            "en": "Snorri says Þórr went fishing for the Miðgarðr serpent soon after he came home from Útgarðr."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "thor-fishes",
+          "link": {
+            "en": "Þjálfi is at Þórr's side again when the giant Hrungnir challenges Þórr to single combat."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "thor-and-hrungnir",
+          "link": {
+            "en": "Once Þórr had to face a giant without his hammer: Loki had promised Geirröðr to bring him unarmed."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "thor-and-geirrodr",
+          "link": {
+            "en": "In Þrymskviða the hammer itself is stolen, and Þórr has to dress as a bride to get it back."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "thrymr-steals-the-hammer",
+          "link": {
+            "en": "Þórr's last fight is with the Miðgarðr serpent, at Ragnarök."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "ragnarok",
+          "link": {
+            "en": "After the fire, says Vafþrúðnismál, Þórr's sons Móði and Magni will have Mjöllnir."
+          }
+        }
+      ]
+    },
+    "the-cursed-gold": {
+      "title": {
+        "en": "The cursed gold"
+      },
+      "intro": {
+        "en": "Follow Andvari's gold and his cursed ring from an otter's ransom to the bottom of the Rhine, meeting everyone who held it on the way."
+      },
+      "items": [
+        {
+          "kind": "card",
+          "id": "andvari",
+          "link": {
+            "en": "Loki took all of Andvari's gold, ring and all, to pay for an otter that was a man's son."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "andvaris-gold",
+          "link": {
+            "en": "The ring Andvari cursed has its own name: Andvaranautr."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "andvaranaut",
+          "link": {
+            "en": "The first to keep the gold was Hreiðmarr, the otter's father."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "hreidmarr",
+          "link": {
+            "en": "He would share none of it with his sons Fáfnir and Reginn, and they killed him for it."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "fafnir",
+          "link": {
+            "en": "Fáfnir lay on the gold in the shape of a serpent; his brother Reginn fostered the boy who would kill him."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "regin",
+          "link": {
+            "en": "Reginn's foster-son was Sigurðr, son of Sigmundr."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "sigurdr",
+          "link": {
+            "en": "Sigurðr killed Fáfnir from a pit and loaded the gold onto his horse Grani."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "sigurdr-and-fafnir",
+          "link": {
+            "en": "The birds also told Sigurðr of a valkyrie asleep on Hindarfjall."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "sigrdrifa-wakes",
+          "link": {
+            "en": "Snorri calls the woman Sigurðr woke Brynhildr. Later she vowed to marry only the man who rode through the fire around her hall."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "brynhild",
+          "link": {
+            "en": "Sigurðr gave Brynhildr Andvari's ring, and Guðrún later used that ring to show who had really ridden through the fire."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "brynhildr-and-gudrun",
+          "link": {
+            "en": "After Sigurðr's death his widow Guðrún was married to King Atli."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "gudrun",
+          "link": {
+            "en": "Her brothers Gunnarr and Högni had taken the gold, and hid it in the Rhine before riding to Atli."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "gunnar",
+          "link": {
+            "en": "Högni rode with him, and laughed while his heart was cut out."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "hogni",
+          "link": {
+            "en": "Their deaths at Atli's court end the story of the gold."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "the-fall-of-the-gjukungs",
+          "link": {
+            "en": "The gold, says Snorri, has never been found."
+          }
+        }
+      ]
+    },
+    "monsters-and-the-end": {
+      "title": {
+        "en": "Monsters and the end"
+      },
+      "intro": {
+        "en": "Loki's three monstrous children, the gods' attempts to keep them down, and how everything breaks loose at the end of the world."
+      },
+      "items": [
+        {
+          "kind": "card",
+          "id": "loki",
+          "link": {
+            "en": "With the giantess Angrboða in Jötunheimar Loki had three children."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "angrboda",
+          "link": {
+            "en": "The first of them was the wolf Fenrir."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "fenrir",
+          "link": {
+            "en": "The second was the serpent Jörmungandr, which Óðinn threw into the sea around all lands."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "jormungandr",
+          "link": {
+            "en": "The third was Hel, whom Óðinn threw into Niflheimr and gave power over those who die of sickness or old age."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "hel",
+          "link": {
+            "en": "The wolf the gods kept at home, until they had to bind him."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "binding-of-fenrir",
+          "link": {
+            "en": "Loki himself caused the death of Baldr."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "death-of-baldr",
+          "link": {
+            "en": "For Baldr's death the gods caught Loki and bound him in a cave."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "loki-bound",
+          "link": {
+            "en": "Loki, like the wolf, lies bound until Ragnarök, when every fetter breaks."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "ragnarok",
+          "link": {
+            "en": "Fenrir swallows Óðinn, Þórr kills the serpent and dies of its poison, and Loki and Heimdallr kill each other. After the fire, the earth rises again."
+          }
+        }
+      ]
     }
   }
 }

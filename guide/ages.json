@@ -43,7 +43,6 @@
         "vsp-s17"
       ],
       "stories": [
-        "ymir-and-the-making",
         "the-first-humans"
       ]
     },
@@ -52,7 +51,7 @@
         "en": "The golden age"
       },
       "intro": {
-        "en": "Völuspá remembers a happy beginning. The gods met on the plain of Iðavöllr, built shrines and temples, set up forges and made tools. They played board games in the meadow and never lacked gold. Snorri says they made everything they used of gold, and calls the time the golden age. It ended, both sources say, when three giant women came from Jötunheimar. The gods also gave the dwarfs their shape and wits. No full story is set in this age; it is the calm before the trouble."
+        "en": "Völuspá remembers a happy beginning. The gods met on the plain of Iðavöllr, built shrines and temples, set up forges and made tools. They played board games in the meadow and never lacked gold. Snorri says they made everything they used of gold, and calls the time the golden age. It ended, both sources say, when three giant women came from Jötunheimar. The gods also gave the dwarfs their shape and wits. It is the calm before the trouble."
       },
       "refs": [
         "vsp-s7",
@@ -61,7 +60,11 @@
         "vsp-s9",
         "vsp-s10"
       ],
-      "stories": []
+      "stories": [
+        "the-golden-age",
+        "the-dwarves-are-made",
+        "rig-walks-among-men"
+      ]
     },
     "4": {
       "title": {
@@ -101,13 +104,20 @@
         "idunn-and-thjazi",
         "skadi-chooses",
         "mead-of-poetry",
+        "odin-wins-the-runes",
+        "odin-and-vafthrudnir",
+        "grimnir-between-the-fires",
         "freyr-and-gerdr",
+        "svipdagr-and-menglod",
         "thor-and-utgarda-loki",
         "thor-fishes",
         "thor-and-hrungnir",
+        "harbard-and-thor",
         "thor-and-geirrodr",
+        "alviss-and-thors-daughter",
         "thrymr-steals-the-hammer",
-        "binding-of-fenrir"
+        "binding-of-fenrir",
+        "hyndla-and-ottarr"
       ]
     },
     "6": {
@@ -188,9 +198,15 @@
       ],
       "stories": [
         "andvaris-gold",
+        "helgi-hjorvardsson",
+        "helgi-hundingsbani",
         "sigurdr-and-fafnir",
+        "sigrdrifa-wakes",
         "brynhildr-and-gudrun",
-        "the-fall-of-the-gjukungs"
+        "the-fall-of-the-gjukungs",
+        "volundr",
+        "the-mill-grotti",
+        "hjadningavig"
       ]
     }
   }
