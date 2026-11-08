@@ -4,6 +4,9 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 ## Unreleased
 
+- Mímir (task 34), content pass 3: 331 cards (115 short ones), every link between two cards both ways, one entry per
+  neighbour (`also` for further kinds), sections with `more`. Old Norse names (`names.on`) for 34 entities whose
+  title fell back to an inflected form (Vé, Miðgarðr, Jörð, Ullr …). The validator checks `also`, sections and link-backs.
 - Mímir (task 34), content pass 2: 40 stories (16 new, age 3 now has its own), 5 paths, cards list every story they
   take part in.
 - Mímir (task 34), content: `guide/` now holds the cloud session's first full pass — 216 cards, 18 sections, 24 stories,

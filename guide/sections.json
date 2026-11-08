@@ -1,5 +1,5 @@
 {
-  "_note": "Mímir sections (task 34): the order of /mimir/who/. 'plate' = the picture plate (P1..P18; 'worlds' = the world map). 'refs' = rows behind the intro. Draft by Claude, not reviewed.",
+  "_note": "Mímir sections (task 34): the order of /mimir/who/. 'plate' = the picture plate (P1..P18; 'worlds' = the world map). 'refs' = rows behind the intro. Draft by Claude, not reviewed. 'more' = shorter cards for figures linked from the main ones (shown under the section's main cards, smaller).",
   "sections": [
     {
       "id": "aesir",
@@ -25,7 +25,8 @@
         "g-c21-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": []
     },
     {
       "id": "aesir-more",
@@ -56,7 +57,13 @@
         "g-c29-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": [
+        "fjorgyn",
+        "annar",
+        "lodurr",
+        "glenr"
+      ]
     },
     {
       "id": "asynjur",
@@ -88,7 +95,10 @@
         "g-c35-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": [
+        "menglodr"
+      ]
     },
     {
       "id": "vanir",
@@ -116,7 +126,8 @@
         "vsp-s21"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": []
     },
     {
       "id": "lokis-children",
@@ -144,7 +155,8 @@
         "g-c34-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": []
     },
     {
       "id": "mounts",
@@ -174,7 +186,12 @@
         "g-c38-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": [
+        "gullfaxi",
+        "hofvarpnir",
+        "vedrfolnir"
+      ]
     },
     {
       "id": "sky",
@@ -207,7 +224,8 @@
         "g-c12-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": []
     },
     {
       "id": "first-giants",
@@ -236,7 +254,22 @@
         "g-c5-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": [
+        "bestla",
+        "gilling",
+        "aurboda",
+        "idi",
+        "elli",
+        "bolthorn",
+        "byleistr",
+        "gridr",
+        "hati-giant",
+        "mokkurkalfi",
+        "sinmara",
+        "naglfari",
+        "brimir"
+      ]
     },
     {
       "id": "thors-giants",
@@ -267,7 +300,8 @@
         "g-c44-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": []
     },
     {
       "id": "sea-and-giantesses",
@@ -299,7 +333,8 @@
         "s-c1-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": []
     },
     {
       "id": "dwarves",
@@ -330,7 +365,10 @@
         "g-c14-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": [
+        "blain"
+      ]
     },
     {
       "id": "elves",
@@ -352,7 +390,8 @@
         "g-c17-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": []
     },
     {
       "id": "norns-valkyries",
@@ -380,7 +419,12 @@
         "g-c36-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": [
+        "sigrdrifa",
+        "kara",
+        "hervor-alvitr"
+      ]
     },
     {
       "id": "treasures",
@@ -416,7 +460,14 @@
         "s-c43-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": [
+        "gramr",
+        "hrotti",
+        "gridarvolr",
+        "rati",
+        "ridill"
+      ]
     },
     {
       "id": "valhalla",
@@ -440,7 +491,8 @@
         "g-c38-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": []
     },
     {
       "id": "places",
@@ -487,7 +539,33 @@
         "g-c15-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": [
+        "hnitbjorg",
+        "elivagar",
+        "gnitaheidi",
+        "folkvangr",
+        "thrudheimr",
+        "hlesey",
+        "andvarafors",
+        "laeradr",
+        "vidblainn",
+        "nidafjoll",
+        "utgardar",
+        "hindarfjall",
+        "sessrumnir",
+        "vimur",
+        "fjoturlundr",
+        "gjoll",
+        "gjallarbru",
+        "valaskjalf",
+        "grjottunagardar",
+        "nastrond",
+        "niflhel",
+        "hoddmimis-holt",
+        "valland",
+        "frekasteinn"
+      ]
     },
     {
       "id": "heroes",
@@ -528,7 +606,58 @@
         "s-c46-1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": [
+        "einherjar",
+        "vanir",
+        "frodi",
+        "jonakr",
+        "muspell-sons",
+        "mysingr",
+        "mundilfari",
+        "hjalprekr",
+        "guthormr",
+        "nidudr",
+        "embla",
+        "ottar",
+        "randver",
+        "daughters-of-aegir",
+        "fimafeng",
+        "helblindi",
+        "rhine",
+        "bodvildr",
+        "egill",
+        "heimir",
+        "gripir",
+        "bikki",
+        "edda-rigsthula",
+        "amma",
+        "modir",
+        "volsung",
+        "groa",
+        "slagfidr",
+        "eldir",
+        "fjolnir",
+        "svipdagr",
+        "byggvir",
+        "beyla",
+        "king-geirrod",
+        "zealand",
+        "gjukungar",
+        "niflungar",
+        "glaumvor",
+        "hogni-hildar",
+        "hedin-hjarrandason",
+        "hjadningavig",
+        "kostbera",
+        "goths",
+        "afi",
+        "fadir",
+        "konr",
+        "hlodver",
+        "hjalmgunnarr",
+        "skjoldungs"
+      ]
     },
     {
       "id": "helgi",
@@ -550,7 +679,21 @@
         "hh1-s1"
       ],
       "status": "draft",
-      "by": "claude"
+      "by": "claude",
+      "more": [
+        "eylimi",
+        "atli-idmundarson",
+        "dagr-hognason",
+        "hogni-sigrunar",
+        "hundingr",
+        "hjorvardr",
+        "sigrlinn",
+        "hodbroddr",
+        "lyngvi-hundingsson",
+        "svafnir",
+        "hagall",
+        "granmarssynir"
+      ]
     }
   ]
 }
