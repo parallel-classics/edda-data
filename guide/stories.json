@@ -266,7 +266,7 @@
         "ymir-and-the-making"
       ],
       "after": [
-        "the-first-war"
+        "the-golden-age"
       ],
       "best": [
         {
@@ -386,7 +386,7 @@
         "asgard"
       ],
       "before": [
-        "the-first-humans"
+        "rig-walks-among-men"
       ],
       "after": [
         "the-wall-builder"
@@ -1062,7 +1062,7 @@
         "skadi-chooses"
       ],
       "after": [
-        "freyr-and-gerdr"
+        "odin-wins-the-runes"
       ],
       "best": [
         {
@@ -1219,10 +1219,10 @@
         "jotunheim"
       ],
       "before": [
-        "mead-of-poetry"
+        "grimnir-between-the-fires"
       ],
       "after": [
-        "thor-and-utgarda-loki"
+        "svipdagr-and-menglod"
       ],
       "best": [
         {
@@ -1375,7 +1375,7 @@
         "thrudvangr"
       ],
       "before": [
-        "freyr-and-gerdr"
+        "svipdagr-and-menglod"
       ],
       "after": [
         "thor-fishes"
@@ -1680,7 +1680,7 @@
         "thor-fishes"
       ],
       "after": [
-        "thor-and-geirrodr"
+        "harbard-and-thor"
       ],
       "best": [
         {
@@ -1804,10 +1804,10 @@
         "greip"
       ],
       "before": [
-        "thor-and-hrungnir"
+        "harbard-and-thor"
       ],
       "after": [
-        "thrymr-steals-the-hammer"
+        "alviss-and-thors-daughter"
       ],
       "best": [
         {
@@ -1956,7 +1956,7 @@
         "njordr"
       ],
       "before": [
-        "thor-and-geirrodr"
+        "alviss-and-thors-daughter"
       ],
       "after": [
         "binding-of-fenrir"
@@ -2138,7 +2138,7 @@
         "thrymr-steals-the-hammer"
       ],
       "after": [
-        "death-of-baldr"
+        "hyndla-and-ottarr"
       ]
     },
     "death-of-baldr": {
@@ -2310,7 +2310,7 @@
       "order": 16,
       "lane": "gods",
       "before": [
-        "binding-of-fenrir"
+        "hyndla-and-ottarr"
       ],
       "after": [
         "lokasenna"
@@ -3032,7 +3032,7 @@
       ],
       "before": [],
       "after": [
-        "sigurdr-and-fafnir"
+        "helgi-hjorvardsson"
       ],
       "best": [
         {
@@ -3200,10 +3200,10 @@
         "rhine"
       ],
       "before": [
-        "andvaris-gold"
+        "helgi-hundingsbani"
       ],
       "after": [
-        "brynhildr-and-gudrun"
+        "sigrdrifa-wakes"
       ],
       "best": [
         {
@@ -3373,7 +3373,7 @@
         "rhine"
       ],
       "before": [
-        "sigurdr-and-fafnir"
+        "sigrdrifa-wakes"
       ],
       "after": [
         "the-fall-of-the-gjukungs"
@@ -3570,7 +3570,9 @@
       "before": [
         "brynhildr-and-gudrun"
       ],
-      "after": [],
+      "after": [
+        "volundr"
+      ],
       "best": [
         {
           "row": "akv-s27",
@@ -3596,6 +3598,2614 @@
       },
       "order": 24,
       "lane": "heroic"
+    },
+    "the-golden-age": {
+      "title": {
+        "en": "The golden age"
+      },
+      "age": "3",
+      "lane": "gods",
+      "order": 2.2,
+      "order_basis": {
+        "en": "Völuspá tells it after the gods have named the times of day and before the dwarfs and the first humans; Snorri tells it after Ásgarðr is built and people are made. Snorri calls the temple their first work (g-c14-2), so the story opens the age after the making of the world."
+      },
+      "hook": {
+        "en": "Before the trouble began, the gods built temples and forges, played board games in the meadow, and never lacked gold."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "The Æsir met on the plain of Iðavöllr. There they built altars and temples with high timbers, set up forges, worked precious metal, and shaped tongs and tools."
+          },
+          "refs": [
+            "vsp-s7"
+          ]
+        },
+        {
+          "text": {
+            "en": "They played board games in the meadow and were glad. They lacked nothing made of gold."
+          },
+          "refs": [
+            "vsp-s8"
+          ]
+        },
+        {
+          "text": {
+            "en": "Snorri tells it at more length. When Ásgarðr was made, Allfather set rulers in seats and asked them to judge the fates of men with him and to plan the stronghold. This was at Iðavöllr, in the middle of the stronghold."
+          },
+          "refs": [
+            "g-c14-1",
+            "g-c14-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Their first work was a temple with twelve seats besides Allfather's high seat. Snorri calls it the best and greatest house on earth, like pure gold inside and out, and names it Glaðsheimr. A second hall, a very fair sanctuary, belonged to the goddesses: Vingólf."
+          },
+          "refs": [
+            "g-c14-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Next they built a house for a forge and made a hammer, tongs and an anvil, and with these all other tools. They worked metal, stone and wood, and so much gold that all their household goods and riding gear were made of it. 'That time is called the Age of Gold,' Snorri says."
+          },
+          "refs": [
+            "g-c14-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "It did not last. In Völuspá the good times run 'Till thither came up giant-maids three', very mighty, out of Jötunheimar. Snorri says the golden age was spoiled by the coming of the women who came from Jötunheimar. Neither source says who they were or what they did."
+          },
+          "refs": [
+            "vsp-s8",
+            "g-c14-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Both sources then turn to the dwarfs. The gods went to their seats of judgement, and, in Snorri's words, called to mind how the dwarfs had come to life in the earth."
+          },
+          "refs": [
+            "vsp-s9",
+            "g-c14-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "The golden age has an echo at the very end. After Ragnarök the gods meet again at Iðavöllr, and the wonderful golden game pieces they had owned in the old days are found in the grass. Snorri tells the same, and says Iðavöllr is where Ásgarðr had been."
+          },
+          "refs": [
+            "vsp-s60",
+            "vsp-s61",
+            "g-c53-2"
+          ]
+        }
+      ],
+      "participants": [
+        "idavollr",
+        "asgard",
+        "odin",
+        "gladsheimr",
+        "vingolf",
+        "jotunheim"
+      ],
+      "before": [
+        "the-first-humans"
+      ],
+      "after": [
+        "the-dwarves-are-made"
+      ],
+      "best": [
+        {
+          "row": "vsp-s8",
+          "why": {
+            "en": "Board games, plenty of gold, and the three giant maidens who end it."
+          }
+        },
+        {
+          "row": "g-c14-2",
+          "why": {
+            "en": "Snorri's version: Glaðsheimr, Vingólf, the forge, and gold for everything."
+          }
+        },
+        {
+          "row": "vsp-s61",
+          "why": {
+            "en": "After Ragnarök the golden game pieces turn up again in the grass."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Völuspá sets the golden age before the dwarfs and the first humans; Snorri tells it after Ásgarðr is built and the first people are made, and only he gives the names Glaðsheimr and Vingólf and the term gullaldr, golden age. Neither source says who the three giant women were. Völuspá also speaks of three wise maidens who come from the well under the ash, Urðr, Verðandi and Skuld (vsp-s20), but it does not say they are the same three."
+      }
+    },
+    "the-dwarves-are-made": {
+      "title": {
+        "en": "The dwarfs are made"
+      },
+      "age": "3",
+      "lane": "gods",
+      "order": 2.4,
+      "order_basis": {
+        "en": "Völuspá tells it right after the golden age and before the first humans; Snorri tells it right after the golden age too, as something the gods remembered."
+      },
+      "hook": {
+        "en": "Snorri says the dwarfs began as maggots in the dead giant's flesh, until the gods gave them human shape and human wit."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "The gods went to their seats of judgement and held council: who should shape the host of dwarfs out of Brimir's blood and Bláinn's limbs?"
+          },
+          "refs": [
+            "vsp-s9"
+          ]
+        },
+        {
+          "text": {
+            "en": "Mótsognir became the greatest of all the dwarfs, and Durinn the second. The dwarfs made many figures in the likeness of men, in the earth, as Durinn said."
+          },
+          "refs": [
+            "vsp-s10"
+          ]
+        },
+        {
+          "text": {
+            "en": "Snorri tells it as a memory. The gods sat in their seats, held judgement, and called to mind how the dwarfs had come to life in the soil and down in the earth, like maggots in flesh. They first took shape and life in Ymir's flesh, and were maggots then."
+          },
+          "refs": [
+            "g-c14-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "By the gods' decision the maggots gained human understanding and the shape of men. Yet they still live in the earth and in stones. Mótsognir was the first, Snorri says, and Durinn the second."
+          },
+          "refs": [
+            "g-c14-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then the seeress of Völuspá recites their names: Nýi and Niði, Norðri and Suðri, Austri and Vestri, Alþjófr, Dvalinn, Bívurr, Bávurr, Bömburr, Nóri, Gandalfr, Vindalfr, Þorinn, Fíli, Kíli and many more. She has now, she says, counted them rightly. Norðri, Suðri, Austri and Vestri are, in Snorri, the four dwarfs set under the corners of the sky."
+          },
+          "refs": [
+            "vsp-s11",
+            "vsp-s12",
+            "vsp-s13",
+            "g-c8-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "She goes on to count the dwarfs in Dvalinn's host down to Lofarr: those who journeyed from the stone of the hall to the dwelling of Aurvangar on Jöruvellir. Among them are Draupnir, Glóinn, Dóri, Óri, Andvari, Fjalarr and Frosti."
+          },
+          "refs": [
+            "vsp-s14",
+            "vsp-s15",
+            "vsp-s16"
+          ]
+        },
+        {
+          "text": {
+            "en": "The list, she says, will be remembered as long as people live: 'So for all time shall the tale be known', the long line of Lofarr's forebears."
+          },
+          "refs": [
+            "vsp-s16"
+          ]
+        },
+        {
+          "text": {
+            "en": "Snorri gives the same list with small differences. He adds that the later dwarfs live in stones and the first in the soil, and that those who came from Svarinshaugr to Aurvangar on Jöruvellir are the ones from whom Lofarr came."
+          },
+          "refs": [
+            "g-c14-5",
+            "g-c14-6",
+            "g-c14-8",
+            "g-c14-10",
+            "g-c14-11"
+          ]
+        },
+        {
+          "text": {
+            "en": "Some of the names come back in other stories. Andvari is the dwarf whose gold Loki takes; a Fjalarr and a Galarr kill Kvasir and brew the mead of poetry; and in Hávamál Dvalinn carves runes for the dwarfs."
+          },
+          "refs": [
+            "s-c46-3",
+            "s-c5-3",
+            "hav-s143"
+          ]
+        }
+      ],
+      "participants": [
+        "brimir",
+        "blain",
+        "durinn",
+        "ymir",
+        "nordri",
+        "sudri",
+        "austri",
+        "vestri",
+        "dvalinn",
+        "nori",
+        "gandalfr",
+        "thorinn",
+        "kili",
+        "aurvangar",
+        "ori",
+        "andvari",
+        "fjalar",
+        "frosti",
+        "ginnarr",
+        "virfir"
+      ],
+      "before": [
+        "the-golden-age"
+      ],
+      "after": [
+        "rig-walks-among-men"
+      ],
+      "best": [
+        {
+          "row": "vsp-s9",
+          "why": {
+            "en": "The gods sit in council over who should shape the dwarfs."
+          }
+        },
+        {
+          "row": "g-c14-2",
+          "why": {
+            "en": "Snorri's maggots in Ymir's flesh, given human wit by the gods."
+          }
+        },
+        {
+          "row": "vsp-s11",
+          "why": {
+            "en": "The start of the great list of dwarf names."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Völuspá says only that the gods held council over who should shape the dwarfs from Brimir's blood and Bláinn's limbs; the maggots in Ymir's flesh are Snorri's. Snorri's quotation of the same stanza reads ór brimi blóðgu, 'From the bloody surge', instead of Brimir's blood (g-c14-3, g-c14-4). The two lists of names differ in places, and neither says who Brimir and Bláinn were. In Völuspá the dwarfs make human likenesses before the gods find Askr and Embla; Snorri tells of the dwarfs after the first people are made."
+      }
+    },
+    "rig-walks-among-men": {
+      "title": {
+        "en": "Rígr walks among men"
+      },
+      "age": "3",
+      "lane": "gods",
+      "order": 2.6,
+      "order_basis": {
+        "en": "Age 3: the poem opens 'Ár', in early days, and tells how the ranks of people began, so it follows the making of the first humans and comes before the gods' wars. No source dates it more closely; this is a reading aid."
+      },
+      "hook": {
+        "en": "A god calling himself Rígr spent three nights in each of three houses. Nine months later each wife bore a son."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Old stories say, according to the prose before the poem, that one of the Æsir, called Heimdallr, went along a seashore, came to a farmstead and called himself Rígr. The poem itself only says that in early days an old, wise, strong god walked the green roads: Rígr."
+          },
+          "refs": [
+            "rth-p1",
+            "rth-s1"
+          ]
+        },
+        {
+          "text": {
+            "en": "He came to a house with a fire burning on the floor. An old couple sat by the hearth, Ái and Edda. Rígr knew how to give them counsel. Edda brought a heavy, thick loaf full of husks, broth in a bowl, and boiled calf, the best of the dishes. He lay down in the middle of their bed, one of them on each side, and stayed three nights. Then he went on his way, and nine months passed."
+          },
+          "refs": [
+            "rth-s2",
+            "rth-s3",
+            "rth-s4",
+            "rth-s5",
+            "rth-s6"
+          ]
+        },
+        {
+          "text": {
+            "en": "Edda bore a son. They sprinkled him with water and called him Þræll. He was dark, with wrinkled skin on his hands, knotted knuckles, thick fingers, an ugly face, a bent back and long heels. He bound bast, carried loads and brought home brushwood all day."
+          },
+          "refs": [
+            "rth-s7",
+            "rth-s8",
+            "rth-s9"
+          ]
+        },
+        {
+          "text": {
+            "en": "A girl called Þír came to the farm, with crooked legs, mud on her soles, sunburnt arms and a hooked nose. She and Þræll had many sons and daughters, who dunged the fields, kept pigs and goats and dug turf. 'And thence has risen the race of thralls.'"
+          },
+          "refs": [
+            "rth-s10",
+            "rth-s11",
+            "rth-s12",
+            "rth-s13"
+          ]
+        },
+        {
+          "text": {
+            "en": "Rígr walked on to a hall where Afi and Amma sat at work. The man was shaping wood for a loom, his beard trimmed and his shirt close-fitting; the woman was spinning, with a band on her head and brooches on her shoulders. Again Rígr gave counsel, ate boiled calf, lay between them for three nights, and nine months passed."
+          },
+          "refs": [
+            "rth-s14",
+            "rth-s15",
+            "rth-s16",
+            "rth-s17",
+            "rth-s19",
+            "rth-s20"
+          ]
+        },
+        {
+          "text": {
+            "en": "Amma bore a son, red and ruddy with bright eyes, and they called him Karl. He tamed oxen, made ploughs, built houses and barns, made carts and drove the plough. He married Snör, who came in a goatskin dress with keys at her belt. From their many sons and daughters came the free farmers."
+          },
+          "refs": [
+            "rth-s21",
+            "rth-s22",
+            "rth-s23",
+            "rth-s24",
+            "rth-s25"
+          ]
+        },
+        {
+          "text": {
+            "en": "Next Rígr came to a hall with its doors facing south. Inside sat Faðir and Móðir, gazing into each other's eyes. The husband was twisting a bowstring and fitting shafts to arrows; the wife, in a fine headdress and blue-tinted shirt, was smoothing linen, her neck whiter than new snow. Móðir laid an embroidered cloth with thin white wheat loaves, silver dishes, pork, roast birds and wine. Again he stayed three nights, and nine months passed."
+          },
+          "refs": [
+            "rth-s26",
+            "rth-s27",
+            "rth-s28",
+            "rth-s29",
+            "rth-s31",
+            "rth-s32",
+            "rth-s33"
+          ]
+        },
+        {
+          "text": {
+            "en": "Móðir bore a son, wrapped him in silk and called him Jarl. His hair was fair, his cheeks bright, his eyes as fierce as a young snake's. He grew up handling shields, bows, spears, horses, hounds and swords. Then Rígr came walking out of the thicket, taught him runes, gave him his own name, and claimed him as his son. He told him to take possession of his ancestral lands."
+          },
+          "refs": [
+            "rth-s34",
+            "rth-s35",
+            "rth-s36"
+          ]
+        },
+        {
+          "text": {
+            "en": "Jarl rode through dark forest and over frosty mountains, fought, reddened the field and won lands. He ruled eighteen farms and gave out treasure, horses and rings. His messengers fetched Erna, the slender-fingered, wise daughter of Hersir, and they lived happily and had many sons. The youngest, Konr, knew runes that could save men, blunt blades and calm the sea, and he understood the speech of birds. He matched runes with Rígr Jarl and knew more, and so won the right to be called Rígr himself."
+          },
+          "refs": [
+            "rth-s37",
+            "rth-s38",
+            "rth-s39",
+            "rth-s40",
+            "rth-s41",
+            "rth-s43",
+            "rth-s44",
+            "rth-s45"
+          ]
+        },
+        {
+          "text": {
+            "en": "Young Konr rode through the woods, shooting and snaring birds. A crow on a branch asked him why he was luring birds when he could be riding horses and fighting. Danr and Danpr, it said, had finer halls and better lands than his, and knew how to sail a ship and how to wound. Soon after this the poem breaks off."
+          },
+          "refs": [
+            "rth-s46",
+            "rth-s47",
+            "rth-s48"
+          ]
+        }
+      ],
+      "participants": [
+        "rig",
+        "heimdall",
+        "edda-rigsthula",
+        "thir",
+        "afi",
+        "amma",
+        "fadir",
+        "modir",
+        "erna",
+        "konr",
+        "danpr"
+      ],
+      "before": [
+        "the-dwarves-are-made"
+      ],
+      "after": [
+        "the-first-war"
+      ],
+      "best": [
+        {
+          "row": "rth-p1",
+          "why": {
+            "en": "The prose that names the wandering god as Heimdallr."
+          }
+        },
+        {
+          "row": "rth-s8",
+          "why": {
+            "en": "Þræll described, from knuckles to heels."
+          }
+        },
+        {
+          "row": "rth-s36",
+          "why": {
+            "en": "Rígr comes out of the thicket and claims Jarl as his son."
+          }
+        },
+        {
+          "row": "rth-s48",
+          "why": {
+            "en": "The crow's taunt, where the poem breaks off."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Only the prose before the poem says that Rígr was Heimdallr; the poem calls him an old, wise and strong god (áss). The poem does not say outright that Rígr fathered Þræll and Karl: it says he lay three nights between each couple and that a son was born nine months later, and only Jarl does Rígr claim as his son (rth-s36). Snorri does not tell this story. Völuspá opens by asking a hearing from Heimdallr's sons, 'both high and low' (vsp-s1), which may reflect the same idea; the poem does not explain the phrase."
+      }
+    },
+    "odin-wins-the-runes": {
+      "title": {
+        "en": "Óðinn wins the runes"
+      },
+      "age": "5",
+      "lane": "gods",
+      "order": 8.2,
+      "order_basis": {
+        "en": "No source dates it. In the same passage the speaker says he got a drink of the mead poured from Óðrerir, so it is placed next to the mead of poetry; this is a reading aid."
+      },
+      "hook": {
+        "en": "Wounded by a spear, Óðinn hung nine nights on a windswept tree as a gift to himself, then took up the runes, screaming."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "This story is told in one place only, near the end of Hávamál, and only in the speaker's own words. The poem closes by saying that these are the sayings of Hár, the High One, spoken in the High One's hall. The speaker shows who he is when he says he was given to Óðinn, 'myself to myself'."
+          },
+          "refs": [
+            "hav-s164",
+            "hav-s138"
+          ]
+        },
+        {
+          "text": {
+            "en": "He knows, he says, that he hung on a windy tree for nine whole nights, wounded with a spear and given 'To Othin, myself to myself', on the tree of which no one knows from what roots it rises."
+          },
+          "refs": [
+            "hav-s138"
+          ]
+        },
+        {
+          "text": {
+            "en": "No one gave him bread or a drink from a horn. He peered down and took up the runes; 'shrieking I took them', and then he fell back from there."
+          },
+          "refs": [
+            "hav-s139"
+          ]
+        },
+        {
+          "text": {
+            "en": "He learned nine mighty songs from the famous son of Bölþorn, Bestla's father, and got a drink of the precious mead, poured from Óðrerir. Snorri makes Bestla, Bölþorn's daughter, the mother of Óðinn, so this teacher would be his mother's brother; Hávamál does not say so."
+          },
+          "refs": [
+            "hav-s140",
+            "g-c6-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then he began to grow fruitful and wise, to grow and to thrive. 'Each word led me on to another word', and each deed to another deed."
+          },
+          "refs": [
+            "hav-s141"
+          ]
+        },
+        {
+          "text": {
+            "en": "He tells the listener: you will find runes and meaningful staves, very great and very strong, which the mighty sage coloured, the great gods made, and Hroftr of the gods carved. Óðinn carved them for the Æsir, Dáinn for the elves, Dvalinn for the dwarfs, Ásviðr for the giants, and some he carved himself."
+          },
+          "refs": [
+            "hav-s142",
+            "hav-s143"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then come eight questions: do you know how to carve, how to read, how to colour, how to test, how to ask, how to sacrifice, how to send, how to slaughter? Better not to pray at all than to offer too much, for a gift always looks for a return. So Þundr carved, before the history of peoples, where he rose up when he came back. Þundr is one of the names Óðinn gives himself in Grímnismál."
+          },
+          "refs": [
+            "hav-s144",
+            "hav-s145",
+            "grm-s54"
+          ]
+        },
+        {
+          "text": {
+            "en": "Last he lists eighteen charms he knows, which no king's wife or son of man knows. One helps against strife and sorrow; others blunt an enemy's blade, make fetters spring open, stop an arrow in flight, quench a burning hall, calm wind and sea, and turn a woman's heart. With the twelfth, when 'I see a hanged man swing', he can carve runes so that the man walks and talks to him. The eighteenth he will teach no one, except the woman in his arms or his sister."
+          },
+          "refs": [
+            "hav-s146",
+            "hav-s148",
+            "hav-s149",
+            "hav-s150",
+            "hav-s152",
+            "hav-s154",
+            "hav-s157",
+            "hav-s161",
+            "hav-s163"
+          ]
+        },
+        {
+          "text": {
+            "en": "Runes are remembered once more after the end of the world. In the renewed world of Völuspá the gods meet at Iðavöllr and call to mind 'the ancient runes' of Fimbultýr, the great god; the poem does not say these are the runes of Hávamál."
+          },
+          "refs": [
+            "vsp-s60"
+          ]
+        }
+      ],
+      "participants": [
+        "odin",
+        "bolthorn",
+        "bestla",
+        "odrerir",
+        "dvalinn",
+        "idavollr"
+      ],
+      "before": [
+        "mead-of-poetry"
+      ],
+      "after": [
+        "odin-and-vafthrudnir"
+      ],
+      "best": [
+        {
+          "row": "hav-s138",
+          "why": {
+            "en": "Nine nights on the windy tree, given 'myself to myself'."
+          }
+        },
+        {
+          "row": "hav-s139",
+          "why": {
+            "en": "No bread, no horn: he takes up the runes, screaming."
+          }
+        },
+        {
+          "row": "hav-s143",
+          "why": {
+            "en": "Who carved runes for whom: gods, elves, dwarfs and giants."
+          }
+        },
+        {
+          "row": "hav-s157",
+          "why": {
+            "en": "The twelfth charm: making a hanged man walk and talk."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Only Hávamál tells the hanging, and only in the first person; Snorri does not tell it. The poem does not name the tree; taking it for Yggdrasill is an interpretation, not something the text says. It also does not say why the speaker hung there, beyond what he gained. The English column in this part of Hávamál is offset from the Old Norse (hav-s138 also holds the end of the previous stanza), so the story follows the Old Norse rows."
+      }
+    },
+    "odin-and-vafthrudnir": {
+      "title": {
+        "en": "Óðinn and Vafþrúðnir"
+      },
+      "age": "5",
+      "lane": "gods",
+      "order": 8.4,
+      "order_basis": {
+        "en": "No source dates it; placed with Óðinn's other quests for knowledge as a reading aid. Its last question speaks of a son's funeral pyre as already past. If that son is Baldr, as readers often assume, the contest would come after Baldr's death, but the poem does not name him."
+      },
+      "hook": {
+        "en": "Óðinn bet his head in a contest of knowledge with the wisest giant, and won with a question no one but himself could answer."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Óðinn asked Frigg's advice: he longed to visit Vafþrúðnir and match old lore with that all-wise giant. Frigg would rather keep him at home, for she knew no giant as strong as Vafþrúðnir. Óðinn said he had travelled much and tested much, and wanted to see the giant's hall. Frigg wished him a safe journey and a safe return, and that his wits would serve him."
+          },
+          "refs": [
+            "vm-s1",
+            "vm-s2",
+            "vm-s3",
+            "vm-s4"
+          ]
+        },
+        {
+          "text": {
+            "en": "He went to the hall of Ím's father and walked straight in. The giant asked who he was, and warned that he would not leave unless he proved the wiser. Óðinn called himself Gagnráðr and said he had come a long way, thirsty. Offered a seat, he answered that a poor man visiting a rich one should speak to the point or keep quiet."
+          },
+          "refs": [
+            "vm-s5",
+            "vm-s6",
+            "vm-s7",
+            "vm-s8",
+            "vm-s9",
+            "vm-s10"
+          ]
+        },
+        {
+          "text": {
+            "en": "So the giant tested him where he stood on the floor. The horse that draws the day is Skinfaxi; the horse that brings the night is Hrímfaxi, whose bit drips foam that falls as dew in the valleys. The river between the giants' land and the gods' is Ífingr, which never freezes. The field where Surtr and the gods will fight is Vígríðr, a hundred leagues each way."
+          },
+          "refs": [
+            "vm-s11",
+            "vm-s12",
+            "vm-s13",
+            "vm-s14",
+            "vm-s16",
+            "vm-s18"
+          ]
+        },
+        {
+          "text": {
+            "en": "'Wise art thou, guest!' said the giant, and invited him to the bench. Now they would wager 'our heads, O guest' on their wisdom."
+          },
+          "refs": [
+            "vm-s19"
+          ]
+        },
+        {
+          "text": {
+            "en": "Now Óðinn asked. The giant answered: the earth was made from Ymir's flesh, the mountains from his bones, the sky from his skull and the sea from his blood. Mundilfari is the father of the moon and the sun; Dellingr is the father of Day, and Night was born to Nörr. Winter's father is Vindsvalr, summer's Svásuðr. Asked who was the eldest of Ymir's kin, he named Bergelmir, born countless winters before the earth was made, son of Þrúðgelmir and grandson of Aurgelmir."
+          },
+          "refs": [
+            "vm-s21",
+            "vm-s23",
+            "vm-s25",
+            "vm-s27",
+            "vm-s29",
+            "vm-s28"
+          ]
+        },
+        {
+          "text": {
+            "en": "Aurgelmir grew from drops of venom that sprang from Élivágar, and all the giants' kin came from there. He had children without a giantess: a girl and a boy grew under his arm, and one foot begot a six-headed son with the other. The giant's earliest memory is of Bergelmir being laid in a lúðr (the English has 'a boat'). The wind comes from the wings of Hræsvelgr, a giant in eagle's shape at the end of heaven."
+          },
+          "refs": [
+            "vm-s31",
+            "vm-s33",
+            "vm-s35",
+            "vm-s37",
+            "vm-s30",
+            "vm-s32"
+          ]
+        },
+        {
+          "text": {
+            "en": "Njörðr was made in Vanaheimr and given to the gods as a hostage; at the end of the age he will go home to the Vanir. Every day the einherjar fight in Óðinn's courts and ride home reconciled. The giant knows the secrets of gods and giants, he says, because he has been in every world: 'To nine worlds came I', even down to Niflhel below."
+          },
+          "refs": [
+            "vm-s39",
+            "vm-s41",
+            "vm-s43"
+          ]
+        },
+        {
+          "text": {
+            "en": "Óðinn now began each question with 'Much have I fared, much have I found'. Who will live when the great winter has passed? Líf and Lífþrasir, hidden in Hoddmímir's wood, living on the morning dew. The sun, Álfröðull, will bear a daughter before Fenrir takes her, and she will ride her mother's paths. After Surtr's fire, Víðarr and Váli will live in the gods' sanctuaries, and Móði and Magni will have Mjöllnir."
+          },
+          "refs": [
+            "vm-s44",
+            "vm-s45",
+            "vm-s46",
+            "vm-s47",
+            "vm-s51"
+          ]
+        },
+        {
+          "text": {
+            "en": "What will be Óðinn's own end? The wolf will swallow the Father of Ages, the giant said, and Víðarr will avenge him by tearing apart the wolf's cold jaws."
+          },
+          "refs": [
+            "vm-s52",
+            "vm-s53"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then the last question: what did Óðinn himself say in his son's ear before the son mounted the pyre? No one knows what you said, the giant answered. With a doomed mouth he had spoken his old lore and of Ragnarök; now he had matched wisdom with Óðinn, 'And ever the wiser thou art'. The poem ends there."
+          },
+          "refs": [
+            "vm-s54",
+            "vm-s55"
+          ]
+        }
+      ],
+      "participants": [
+        "odin",
+        "frigg",
+        "vafthrudnir",
+        "skinfaxi",
+        "hrimfaxi",
+        "ifingr",
+        "vigridr",
+        "surtr",
+        "ymir",
+        "mundilfari",
+        "dellingr",
+        "nott",
+        "norvi",
+        "vindsval",
+        "bergelmir",
+        "elivagar",
+        "hraesvelgr",
+        "njordr",
+        "vanaheimr",
+        "einherjar",
+        "niflhel",
+        "hoddmimis-holt",
+        "fenrir",
+        "vidarr",
+        "vali",
+        "modi",
+        "magni",
+        "mjolnir"
+      ],
+      "before": [
+        "odin-wins-the-runes"
+      ],
+      "after": [
+        "grimnir-between-the-fires"
+      ],
+      "best": [
+        {
+          "row": "vm-s19",
+          "why": {
+            "en": "The wager: their heads on their wisdom."
+          }
+        },
+        {
+          "row": "vm-s45",
+          "why": {
+            "en": "Líf and Lífþrasir, who survive the great winter."
+          }
+        },
+        {
+          "row": "vm-s53",
+          "why": {
+            "en": "Óðinn hears his own death foretold."
+          }
+        },
+        {
+          "row": "vm-s55",
+          "why": {
+            "en": "The giant recognises Óðinn and gives up."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Snorri does not tell the contest, but he quotes its stanzas as the giant's evidence for the creation (g-c5-6, g-c5-7, g-c7-3); he says Bergelmir escaped Ymir's flood on his lúðr with his wife (g-c7-2), while the poem only says he was laid in one. The poem does not name the son at the pyre or tell what Óðinn whispered, and it does not say whether Óðinn took the giant's head. The wolf is not named in vm-s53, but in vm-s46 Fenrir is the one who takes the sun."
+      }
+    },
+    "grimnir-between-the-fires": {
+      "title": {
+        "en": "Grímnir between the fires"
+      },
+      "age": "5",
+      "lane": "gods",
+      "order": 8.6,
+      "order_basis": {
+        "en": "No source dates it; placed with Óðinn's other journeys in disguise as a reading aid."
+      },
+      "hook": {
+        "en": "A king set a silent stranger between two fires for eight nights. The stranger was Óðinn, and Frigg's warning had put him there."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "King Hrauðungr had two sons, Agnarr, ten winters old, and Geirröðr, eight. They rowed out to fish, the wind drove them out to sea, and in the dark they were wrecked on a shore. They spent the winter with a poor farmer and his wife; the wife fostered Agnarr, the man fostered Geirröðr and taught him wisdom. In spring, when the farmer gave them a boat, he spoke with Geirröðr alone. At their father's landing Geirröðr leapt ashore, pushed the boat back out and said: 'Go thou now where evil may have thee!' Their father was dead, and Geirröðr was made king."
+          },
+          "refs": [
+            "grm-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Óðinn and Frigg sat in Hliðskjálf, looking over all the worlds. Óðinn asked her to see her foster-son Agnarr, begetting children with a giantess in a cave, while his own foster-son Geirröðr was a king. The prose does not say more, but their words imply that the old couple had been the two gods. Frigg answered that Geirröðr was so mean with food that he tortured his guests if too many came. Óðinn called that the greatest of lies, and they made a wager."
+          },
+          "refs": [
+            "grm-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Frigg sent her maid Fulla to Geirröðr to warn him against a sorcerer who had come to his land; the sign, she said, was that no dog would attack him. The prose calls the charge of meanness a great slander, but the king had the man seized whom the dogs would not touch. He wore a dark-blue cloak, called himself Grímnir, and said nothing more about himself."
+          },
+          "refs": [
+            "grm-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "The king had him tortured to make him talk and set him between two fires, and there he sat for eight nights. The king's ten-year-old son, named Agnarr after his uncle, brought him a full horn and said his father did wrong to torment an innocent man. By then the fire was so close that Grímnir's cloak was burning."
+          },
+          "refs": [
+            "grm-p1",
+            "grm-s1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Grímnir spoke. For eight nights no one had offered him food except Agnarr, who alone would rule the land of the Goths. For a single drink, said Veratýr, Agnarr would never get a better reward."
+          },
+          "refs": [
+            "grm-s2",
+            "grm-s3"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then he described the homes of the gods: Þórr in Þrúðheimr, Ullr in Ýdalir, Álfheimr given to Freyr as a tooth-gift, Sökkvabekkr where Óðinn and Sága drink from golden cups, Glaðsheimr with Valhöll, Þrymheimr where Skaði lives in her father's old home, Baldr's Breiðablik, Heimdallr's Himinbjörg, Freyja's Fólkvangr, Forseti's Glitnir, Njörðr's Nóatún and Víðarr's land."
+          },
+          "refs": [
+            "grm-s4",
+            "grm-s5",
+            "grm-s7",
+            "grm-s8",
+            "grm-s11",
+            "grm-s12",
+            "grm-s13",
+            "grm-s14",
+            "grm-s15",
+            "grm-s16",
+            "grm-s17"
+          ]
+        },
+        {
+          "text": {
+            "en": "He told of Valhöll, roofed with shields, with spear-shafts for rafters, a wolf hanging by the west door and five hundred and forty doors; and of the ash Yggdrasill, with Hel under one root, the frost-giants under another and humankind under the third, a tree that suffers more than men know. He also said that he had shown his face to the gods, and that help would now awaken."
+          },
+          "refs": [
+            "grm-s9",
+            "grm-s10",
+            "grm-s23",
+            "grm-s31",
+            "grm-s35",
+            "grm-s45"
+          ]
+        },
+        {
+          "text": {
+            "en": "He reeled off his names: Grímr, Gangleri, Herjann, Bölverkr, Grímnir and dozens more. 'A single name have I never had', he said, since he first went among the peoples. He was Grímnir at Geirröðr's, and Hárbarðr among the gods."
+          },
+          "refs": [
+            "grm-s46",
+            "grm-s47",
+            "grm-s48",
+            "grm-s49"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then he turned on the king: 'Drunk art thou, Geirröth'. Geirröðr had lost his favour, the favour of the einherjar and of Óðinn. He saw his friend's sword lying all wet with blood; Yggr would soon have the king's corpse. Now he could see Óðinn: 'Now come to me if thou canst!' He was Óðinn now, he said, and had been Yggr and Þundr before."
+          },
+          "refs": [
+            "grm-s51",
+            "grm-s52",
+            "grm-s53",
+            "grm-s54"
+          ]
+        },
+        {
+          "text": {
+            "en": "Geirröðr sat with his sword on his knee, half drawn. When he heard that it was Óðinn, he stood up to take him from the fire. The sword slipped from his hand, hilt down; the king tripped, fell forward onto it and died. Óðinn vanished, and Agnarr ruled there long afterwards."
+          },
+          "refs": [
+            "grm-p2"
+          ]
+        }
+      ],
+      "participants": [
+        "odin",
+        "frigg",
+        "king-geirrod",
+        "agnarr-geirrodsson",
+        "hlidskjalf",
+        "fulla",
+        "goths",
+        "thor",
+        "thrudheimr",
+        "ull",
+        "freyr",
+        "alfheimr",
+        "sokkvabekkr",
+        "saga",
+        "gladsheimr",
+        "valhalla",
+        "thrymheimr",
+        "skadi",
+        "breidablik",
+        "baldur",
+        "himinbjorg",
+        "heimdall",
+        "folkvangr",
+        "freyja",
+        "glitnir",
+        "forseti",
+        "noatun",
+        "njordr",
+        "vidarr",
+        "yggdrasil",
+        "hel",
+        "einherjar"
+      ],
+      "before": [
+        "odin-and-vafthrudnir"
+      ],
+      "after": [
+        "freyr-and-gerdr"
+      ],
+      "best": [
+        {
+          "row": "grm-p1",
+          "why": {
+            "en": "The whole set-up: two brothers, two foster-parents, a wager and a slander."
+          }
+        },
+        {
+          "row": "grm-s2",
+          "why": {
+            "en": "Eight nights between the fires, and one boy who brought a drink."
+          }
+        },
+        {
+          "row": "grm-s48",
+          "why": {
+            "en": "'A single name have I never had': Óðinn's list of names."
+          }
+        },
+        {
+          "row": "grm-p2",
+          "why": {
+            "en": "The king falls on his own sword."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Snorri does not tell the frame story, but he quotes many Grímnismál stanzas on the halls, Valhöll and Yggdrasill (e.g. g-c21-2, g-c40-2) and gives a similar list of Óðinn's names (g-c20-8). This Geirröðr is a human king, not the giant Geirröðr whom Þórr visits. The prose never says outright that the poor couple were Óðinn and Frigg, and it does not say what the farmer whispered to Geirröðr. It also does not quite say that Óðinn caused the king's death; the poem has him foresee it."
+      }
+    },
+    "harbard-and-thor": {
+      "title": {
+        "en": "Þórr and the ferryman"
+      },
+      "age": "5",
+      "lane": "gods",
+      "order": 12.5,
+      "order_basis": {
+        "en": "No source dates it. Þórr already boasts of killing Hrungnir and Þjazi, and the ferryman mocks him for hiding in a glove, so it is placed after those stories."
+      },
+      "hook": {
+        "en": "Coming home from the east, Þórr asked a ferryman to row him across. He got boasts, insults and a long walk instead."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Þórr was on his way back from the east and came to a sound. On the far side stood a ferryman with a boat. Þórr called across, offering to feed him in the morning in return for the crossing: he had a basket on his back, and had eaten herring and oats before he left home."
+          },
+          "refs": [
+            "hrbl-p1",
+            "hrbl-s1",
+            "hrbl-s2",
+            "hrbl-s3"
+          ]
+        },
+        {
+          "text": {
+            "en": "The ferryman jeered at him. His homecoming would be sad, he said: Þórr's mother, he thought, was dead. And he hardly looked like a man with three good farms: he stood barefoot in a beggar's clothes, without even breeches."
+          },
+          "refs": [
+            "hrbl-s4",
+            "hrbl-s5",
+            "hrbl-s6"
+          ]
+        },
+        {
+          "text": {
+            "en": "The boat, the ferryman said, belonged to Hildólfr of Ráðseyjarsund, who had told him not to ferry robbers or horse-thieves. Þórr gave his name and family: Óðinn's son, Meili's brother, Magni's father, the strength of the gods. The ferryman said his own name was Hárbarðr, 'and seldom I hide my name'."
+          },
+          "refs": [
+            "hrbl-s7",
+            "hrbl-s8",
+            "hrbl-s9",
+            "hrbl-s10"
+          ]
+        },
+        {
+          "text": {
+            "en": "It became a contest of boasts. Þórr had felled Hrungnir, whose head was made of stone; Hárbarðr claimed five winters with Fjölvarr on the island of Algræn, fighting and winning women, and nights with seven sisters. Þórr had killed the giant Þjazi and thrown his eyes up into the sky, where all men can see them. Each time came the question: 'What, Harbarth, didst thou the while?'"
+          },
+          "refs": [
+            "hrbl-s14",
+            "hrbl-s15",
+            "hrbl-s16",
+            "hrbl-s18",
+            "hrbl-s19"
+          ]
+        },
+        {
+          "text": {
+            "en": "Hárbarðr boasted of seducing women of the night away from their husbands, and of stealing the wits of the giant Hlébarðr after the giant had given him a magic wand. Þórr said he had repaid good gifts with an evil mind. Hárbarðr said he had been in Valland, stirring up wars and never making peace: Óðinn gets the nobles who fall in battle, 'And Thor hath the race of the thralls.'"
+          },
+          "refs": [
+            "hrbl-s20",
+            "hrbl-s21",
+            "hrbl-s24"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then he struck at Þórr's courage. Þórr had strength but no heart, he said: out of fear he had crawled into a glove and forgot that he was Þórr, and dared neither sneeze nor fart in case Fjalarr heard."
+          },
+          "refs": [
+            "hrbl-s26"
+          ]
+        },
+        {
+          "text": {
+            "en": "Þórr spoke of beating back the sons of Svárangr at a river, and of fighting the brides of berserkers on Hlésey. It was shameful, said Hárbarðr, to fight women. They were she-wolves rather than women, Þórr answered: they had shaken his ship, threatened him with iron clubs and chased off Þjálfi. Hárbarðr claimed he had been in the army that came there to raise banners and redden spears; Þórr took that as hostility to the gods, and Hárbarðr offered a ring as settlement."
+          },
+          "refs": [
+            "hrbl-s29",
+            "hrbl-s37",
+            "hrbl-s38",
+            "hrbl-s39",
+            "hrbl-s40",
+            "hrbl-s41",
+            "hrbl-s42"
+          ]
+        },
+        {
+          "text": {
+            "en": "Where had he learned such insulting talk? From old men who live in the woods of home, said Hárbarðr; Þórr said that was a fine name for burial mounds. Þórr threatened him with the hammer, and Hárbarðr answered that Sif had a lover at home, a better use for Þórr's strength. Þórr called it a lie."
+          },
+          "refs": [
+            "hrbl-s43",
+            "hrbl-s44",
+            "hrbl-s45",
+            "hrbl-s47",
+            "hrbl-s48",
+            "hrbl-s49"
+          ]
+        },
+        {
+          "text": {
+            "en": "Þórr ordered him to row over. Hárbarðr refused and gave directions instead: a while to the stump, a while to the stone, then keep left until Verland, where Fjörgyn would meet her son Þórr and show him the road to Óðinn's lands. Þórr promised to repay the refusal if they ever met again. Hárbarðr's last words: 'Get hence where every evil thing shall have thee!'"
+          },
+          "refs": [
+            "hrbl-s53",
+            "hrbl-s54",
+            "hrbl-s56",
+            "hrbl-s59",
+            "hrbl-s60"
+          ]
+        }
+      ],
+      "participants": [
+        "thor",
+        "odin",
+        "meili",
+        "magni",
+        "hrungnir",
+        "fjolvar",
+        "thjazi",
+        "valland",
+        "fjalar",
+        "hlesey",
+        "thjalfi",
+        "sif",
+        "mjolnir",
+        "fjorgyn"
+      ],
+      "before": [
+        "thor-and-hrungnir"
+      ],
+      "after": [
+        "thor-and-geirrodr"
+      ],
+      "best": [
+        {
+          "row": "hrbl-s6",
+          "why": {
+            "en": "Þórr mocked as a barefoot beggar without breeches."
+          }
+        },
+        {
+          "row": "hrbl-s24",
+          "why": {
+            "en": "Óðinn gets the nobles, Þórr the thralls."
+          }
+        },
+        {
+          "row": "hrbl-s26",
+          "why": {
+            "en": "The glove jibe: strength but no heart."
+          }
+        },
+        {
+          "row": "hrbl-s56",
+          "why": {
+            "en": "Directions instead of a ferry: stump, stone, and left to Verland."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "The poem never says who Hárbarðr is. The identification with Óðinn comes from elsewhere: in Grímnismál Óðinn lists Hárbarðr among his names with the gods (grm-s49), and Snorri's list of Óðinn's names includes it (g-c20-8). In the poem Hárbarðr speaks of Óðinn as someone else (hrbl-s24), and his boasts, like his claims about Þórr's mother and Sif, are only his words; he says Þórr's mother is dead but then that Fjörgyn will meet her son (hrbl-s4, hrbl-s56). In Snorri it is Óðinn, not Þórr, who throws Þjazi's eyes into the sky (s-c4-1). The glove is Skrýmir's in Snorri (g-c45-5), and Loki makes the same jibe in Lokasenna (ls-s60)."
+      }
+    },
+    "alviss-and-thors-daughter": {
+      "title": {
+        "en": "Alvíss and Þórr's daughter"
+      },
+      "age": "5",
+      "lane": "gods",
+      "order": 13.5,
+      "order_basis": {
+        "en": "No source dates it; placed among Þórr's other meetings with giants and dwarfs as a reading aid."
+      },
+      "hook": {
+        "en": "A dwarf came to fetch his promised bride. Her father, Þórr, kept him answering questions until the sun rose."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "The dwarf Alvíss arrived, ready for his wedding: the benches should be spread, and the bride should come home with him at once. Everyone would think the match hurried, he said, but there would be no resting at home."
+          },
+          "refs": [
+            "alv-s1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Þórr looked him over. What was he? Why so pale about the nose; had he spent the night with a corpse? 'To a giant like dost thou look, methinks', said Þórr, and he was not born for the bride."
+          },
+          "refs": [
+            "alv-s2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Alvíss gave his name. He lived under the earth, with his home under a stone, and had come to see the 'wagon-guider'. Let no one break a firm promise, he said. Þórr said he would break it: as father he had the most say over the bride, and he had not been at home when she was promised."
+          },
+          "refs": [
+            "alv-s3",
+            "alv-s4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Who was this, Alvíss asked, a wanderer few would know, to claim rights over the shining girl? Þórr answered that he was Vingþórr, who had travelled widely, the son of Síðgrani; without his consent Alvíss would not have her."
+          },
+          "refs": [
+            "alv-s5",
+            "alv-s6"
+          ]
+        },
+        {
+          "text": {
+            "en": "Alvíss wanted that consent quickly: he would rather have 'This snow-white maid' than go without. Þórr agreed that the dwarf would not be denied the girl's love, if he could tell him everything he wished to know about every world."
+          },
+          "refs": [
+            "alv-s7",
+            "alv-s8"
+          ]
+        },
+        {
+          "text": {
+            "en": "So Þórr asked, and Alvíss answered: what is the earth called in each world? Among men it is 'Earth', among the gods 'Field', among the Vanir 'The Ways', among giants 'Ever Green', among elves 'The Grower'. The sky among men is 'Heaven', but the dwarfs call it 'The Dripping Hall'."
+          },
+          "refs": [
+            "alv-s9",
+            "alv-s10",
+            "alv-s11",
+            "alv-s12"
+          ]
+        },
+        {
+          "text": {
+            "en": "The questions went on: the moon, the sun, clouds, wind, calm, sea, fire, wood, night, seed and ale, thirteen things in all, each with its name among men, gods, Vanir, giants, elves, dwarfs or the dead. The dwarfs call the sun 'The Deceiver of Dvalin'; the elves call night 'Sleep's Joy'; among Suttungr's sons ale is 'The Feast-Draught'."
+          },
+          "refs": [
+            "alv-s13",
+            "alv-s16",
+            "alv-s30",
+            "alv-s34"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then Þórr said he had never seen more ancient lore in one breast, but he had tricked the dwarf with great wiles: 'The day has caught thee, dwarf!' Now the sun was shining into the hall. Here the poem ends."
+          },
+          "refs": [
+            "alv-s35"
+          ]
+        }
+      ],
+      "participants": [
+        "alviss",
+        "thor",
+        "vanir",
+        "dvalinn",
+        "suttungr"
+      ],
+      "before": [
+        "thor-and-geirrodr"
+      ],
+      "after": [
+        "thrymr-steals-the-hammer"
+      ],
+      "best": [
+        {
+          "row": "alv-s2",
+          "why": {
+            "en": "Þórr's first look at the pale suitor."
+          }
+        },
+        {
+          "row": "alv-s10",
+          "why": {
+            "en": "One thing, six names: the pattern of the whole poem."
+          }
+        },
+        {
+          "row": "alv-s35",
+          "why": {
+            "en": "The trap closes at sunrise."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Only Alvíssmál tells this; Snorri does not. The poem does not name the bride or say who promised her. Snorri names a daughter of Þórr, Þrúðr (s-c11-1), but never links her to Alvíss. The poem says only that day has caught the dwarf and the sun shines into the hall; it does not say that he turns to stone, as retellings often add. In Helgakviða Hjörvarðssonar a giantess kept talking until daybreak is told she will stand as a stone (hhv-s30)."
+      }
+    },
+    "hyndla-and-ottarr": {
+      "title": {
+        "en": "Freyja, Hyndla and Óttarr"
+      },
+      "age": "5",
+      "lane": "gods",
+      "order": 15.5,
+      "order_basis": {
+        "en": "No source dates it among the gods' deeds. Hyndla counts Sigurðr and the Gjúkungs among Óttarr's kin, so in human time it comes after the heroic stories. It is placed among the gods' deeds, before Baldr's death, only as a reading aid."
+      },
+      "hook": {
+        "en": "Freyja woke a giantess to recite a young man's ancestry so he could win a wager. It ended in fire and a cursed drink."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Freyja woke Hyndla, 'my sister', who lived in a cave: it was dusk, and the two of them would ride to Valhöll and the holy sanctuary. They would ask for the favour of Herjaföðr, who gives gold to his followers. He gave Hermóðr a helmet and mail-coat and Sigmundr a sword; he gives victory to some and wealth to others, eloquence and wit, fair winds to sailors and poetry to poets."
+          },
+          "refs": [
+            "hdl-s1",
+            "hdl-s2",
+            "hdl-s3"
+          ]
+        },
+        {
+          "text": {
+            "en": "Freyja told Hyndla to take one of her wolves from its stall and let it run with Freyja's boar. In the Old Norse Hyndla answers in the same stanza: Freyja's boar is slow on the gods' road, and she will not load her own good mount. (The English column gives the whole stanza to Freyja.)"
+          },
+          "refs": [
+            "hdl-s5"
+          ]
+        },
+        {
+          "text": {
+            "en": "'Falsely thou askest me, Freyja', said Hyndla: she could see from Freyja's eyes that Freyja had her man with her on the road of the slain, young Óttarr, Innsteinn's son. Freyja told her she was deluded and dreaming: it was her boar, golden-bristled Hildisvíni, made for her by two dwarfs, Dáinn and Nabbi."
+          },
+          "refs": [
+            "hdl-s6",
+            "hdl-s7"
+          ]
+        },
+        {
+          "text": {
+            "en": "They dismounted to talk about the lineages of princes descended from the gods. Óttarr and Angantýr had made a wager in 'foreign metal', and the young man had to get his father's inheritance. He had built Freyja an altar of piled stones, now turned to glass, and reddened it with fresh ox-blood; 'In the goddesses ever did Ottar trust.'"
+          },
+          "refs": [
+            "hdl-s8",
+            "hdl-s9",
+            "hdl-s10"
+          ]
+        },
+        {
+          "text": {
+            "en": "Freyja asked her to recite the ancient lines: who is of the Skjöldungar, the Skilfingar, the Öðlingar and the Ylfingar, who is free-born and who is noble."
+          },
+          "refs": [
+            "hdl-s11"
+          ]
+        },
+        {
+          "text": {
+            "en": "Hyndla began: Óttarr is the son of Innsteinn, son of Álfr the Old, and so back to Svanr the Red; his mother was Hlédís the priestess. Long ago Hálfdan was the highest of the Skjöldungar; he killed Sigtryggr and married Almveig, who bore him eighteen sons. From them come the Skjöldungar, Skilfingar, Öðlingar and Ynglingar, the free-born and the noble. From here on, verse after verse ends with the same refrain: 'And all are thy kinsmen, Ottar, thou fool!'"
+          },
+          "refs": [
+            "hdl-s12",
+            "hdl-s13",
+            "hdl-s14",
+            "hdl-s15",
+            "hdl-s16"
+          ]
+        },
+        {
+          "text": {
+            "en": "The list grows: the berserk sons of Arngrímr and Eyfura, born in Bolm; Jörmunrekkr, kinsman by marriage of Sigurðr who killed Fáfnir; Sigurðr, from Völsungr's line; Gunnarr, Högni and their sister Guðrún, heirs of Gjúki, and Gutþormr, their brother though not of Gjúki's blood; and Haraldr War-tooth, son of Auðr the Deep-minded."
+          },
+          "refs": [
+            "hdl-s22",
+            "hdl-s25",
+            "hdl-s26",
+            "hdl-s27",
+            "hdl-s28"
+          ]
+        },
+        {
+          "text": {
+            "en": "Freyja asked Hyndla to give her guest the ale of memory, so that he would remember every word on the third morning, when he and Angantýr went through their lineages."
+          },
+          "refs": [
+            "hdl-s29"
+          ]
+        },
+        {
+          "text": {
+            "en": "Hyndla refused. She wanted to sleep; Freyja should go away. She called Freyja Óðr's beloved, always longing and running after Óðr, out at night like the goat Heiðrún among the bucks, with others creeping under her apron. (In this edition the English column of these rows carries a different poem; this follows the Old Norse.)"
+          },
+          "refs": [
+            "hdl-s30",
+            "hdl-s31"
+          ]
+        },
+        {
+          "text": {
+            "en": "Freyja said she would ring the giantess with fire so that she could not get away. Hyndla saw fire burning and the earth aflame, and told Freyja to bring Óttarr his beer, then, heavily mixed with poison, with ill luck. Freyja answered that the giant-bride's curse would come to nothing: Óttarr would drink precious drinks, and she asked all the gods to help him. The poem ends there."
+          },
+          "refs": [
+            "hdl-s32",
+            "hdl-s33",
+            "hdl-s34"
+          ]
+        }
+      ],
+      "participants": [
+        "freyja",
+        "hyndla",
+        "ottar",
+        "innsteinn",
+        "angantyr",
+        "odin",
+        "valhalla",
+        "hermodr",
+        "sigmund",
+        "halfdan",
+        "sigtryggr",
+        "skjoldungs",
+        "skilfings",
+        "ylfingar",
+        "ynglings",
+        "eyfura",
+        "jormunrekkr",
+        "sigurdr",
+        "volsung",
+        "gunnar",
+        "hogni",
+        "gudrun",
+        "gjuki",
+        "guthormr",
+        "odr",
+        "heidrun"
+      ],
+      "before": [
+        "binding-of-fenrir"
+      ],
+      "after": [
+        "death-of-baldr"
+      ],
+      "best": [
+        {
+          "row": "hdl-s7",
+          "why": {
+            "en": "Freyja's golden-bristled boar and the dwarfs who made it."
+          }
+        },
+        {
+          "row": "hdl-s10",
+          "why": {
+            "en": "Óttarr's altar of stones, turned to glass by sacrifice."
+          }
+        },
+        {
+          "row": "hdl-s16",
+          "why": {
+            "en": "The refrain: 'And all are thy kinsmen, Ottar, thou fool!'"
+          }
+        },
+        {
+          "row": "hdl-s34",
+          "why": {
+            "en": "Freyja overrules the giantess's curse."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Snorri does not tell this story or mention Óttarr. In Snorri the boar with golden bristles, Gullinbursti, is Freyr's (s-c14-5, g-c49-15); here Freyja's boar Hildisvíni is golden-bristled. The poem never says outright that the boar is Óttarr: Hyndla's charge and Freyja's denial are all it gives. In this edition the English cells of hdl-s29 to hdl-s34 carry stanzas of Völuspá in skamma, which Guðni Jónsson prints as a separate poem (vsk); those rows are told from the Old Norse."
+      }
+    },
+    "volundr": {
+      "title": {
+        "en": "Völundr the smith"
+      },
+      "age": "heroic",
+      "order_basis": {
+        "en": "No source ties Völundr to the Völsungs or the Gjúkungs, so his story stands on its own after the story of the gold."
+      },
+      "hook": {
+        "en": "A king seized a smith, cut his sinews and set him to work on an island. The smith's revenge fell on the king's children."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Three brothers, sons of a king of the Finns, hunted on snowshoes: Slagfiðr, Egill and Völundr. They built a house in Úlfdalir by a lake. Early one morning they found three women on the shore spinning flax, with their swan-shapes beside them. The prose calls them valkyries: Hlaðguðr the swan-white and Hervör the all-wise, daughters of King Hlöðvér, and Ölrún, daughter of Kjárr of Valland."
+          },
+          "refs": [
+            "vkv-p1",
+            "vkv-s1"
+          ]
+        },
+        {
+          "text": {
+            "en": "The brothers took them home. Egill had Ölrún, Slagfiðr had Svanhvít, and Völundr had Alvitr. They lived together seven winters; then the women flew off to battles and did not come back. Egill went east to look for Ölrún and Slagfiðr south for Svanhvít."
+          },
+          "refs": [
+            "vkv-p1",
+            "vkv-s3",
+            "vkv-s4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Völundr stayed alone in Úlfdalir. He forged red gold set with gems and threaded rings on a rope of bast, waiting in case his wife came home. The prose calls him the most skilful man known from the old stories."
+          },
+          "refs": [
+            "vkv-s5",
+            "vkv-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Níðuðr, king in Sweden and lord of the Njárar, heard that Völundr was alone. His men rode by night in studded mail, their shields shining in the waning moon. In the empty hall they found seven hundred rings on the bast. They took them off and put them back, all but one."
+          },
+          "refs": [
+            "vkv-p1",
+            "vkv-s6",
+            "vkv-s7",
+            "vkv-s8"
+          ]
+        },
+        {
+          "text": {
+            "en": "Völundr came home from hunting, roasted bear meat, sat on the bearskin and counted his rings. One was missing, and he thought Hlöðvér's daughter had come back and taken it. He sat until he fell asleep, and woke with heavy chains on his hands and fetters on his feet."
+          },
+          "refs": [
+            "vkv-s8",
+            "vkv-s9",
+            "vkv-s10",
+            "vkv-s11"
+          ]
+        },
+        {
+          "text": {
+            "en": "Níðuðr gave the ring to his daughter Böðvildr and wore Völundr's sword himself. His queen saw how Völundr's eyes glittered like a snake's and he bared his teeth at the sword and the ring. On her advice his knee sinews were cut, and he was put on an island near the shore, Sævarstaðr, to make treasures for the king. No one but the king dared go to him. Völundr grieved to see his sword at Níðuðr's belt, and his bride's red rings worn by Böðvildr."
+          },
+          "refs": [
+            "vkv-p2",
+            "vkv-s16",
+            "vkv-s17",
+            "vkv-p3",
+            "vkv-s18",
+            "vkv-s19"
+          ]
+        },
+        {
+          "text": {
+            "en": "Níðuðr's two young sons came to the island and asked for the keys to his chest; it seemed full of gold and jewels. Völundr told them to come back the next day, alone, and tell no one. When they came, he cut off their heads and hid their feet under the bellows."
+          },
+          "refs": [
+            "vkv-s20",
+            "vkv-s21",
+            "vkv-s22",
+            "vkv-s23",
+            "vkv-s24"
+          ]
+        },
+        {
+          "text": {
+            "en": "He set their skulls in silver and sent them to Níðuðr. From their eyes he made gems for the queen, and from their teeth brooches for Böðvildr."
+          },
+          "refs": [
+            "vkv-s24",
+            "vkv-s25"
+          ]
+        },
+        {
+          "text": {
+            "en": "Böðvildr broke her ring and brought it to him in secret. He promised to mend it so that it looked better than before, gave her beer until she fell asleep in her seat, and said he had now avenged all his wrongs but one. 'Laughing Völund rose aloft'; Böðvildr left the island weeping, grieving for her lover's going and her father's anger."
+          },
+          "refs": [
+            "vkv-s26",
+            "vkv-s27",
+            "vkv-s28",
+            "vkv-s29"
+          ]
+        },
+        {
+          "text": {
+            "en": "Níðuðr's wife came in and asked if he was awake. He was: he had hardly slept since his sons died, and he wanted to speak with Völundr. Völundr first made him swear not to harm Völundr's wife or child in the hall. Then he told him everything: the blood on the bellows, the skulls, the gems, the brooches, and that Böðvildr was carrying his child. Níðuðr said no man could take him down or shoot him down now, up by the clouds, and Völundr rose into the air laughing, leaving Níðuðr to sit in sorrow. Böðvildr told her father it was true: she had been with Völundr on the island and could not resist him."
+          },
+          "refs": [
+            "vkv-s30",
+            "vkv-s31",
+            "vkv-s33",
+            "vkv-s34",
+            "vkv-s35",
+            "vkv-s36",
+            "vkv-s37",
+            "vkv-s38",
+            "vkv-s40",
+            "vkv-s41"
+          ]
+        }
+      ],
+      "participants": [
+        "wayland-the-smith",
+        "slagfidr",
+        "egill",
+        "ulfdalir",
+        "myrkvidr",
+        "svanhvit",
+        "hervor-alvitr",
+        "olrun",
+        "hlodver",
+        "kjarr",
+        "valland",
+        "nidudr",
+        "bodvildr",
+        "saevarstod"
+      ],
+      "before": [
+        "the-fall-of-the-gjukungs"
+      ],
+      "after": [
+        "the-mill-grotti"
+      ],
+      "best": [
+        {
+          "row": "vkv-p1",
+          "why": {
+            "en": "Three swan-shaped women on a lakeshore, and three brothers."
+          }
+        },
+        {
+          "row": "vkv-s10",
+          "why": {
+            "en": "One ring missing, and Völundr hopes his wife is back."
+          }
+        },
+        {
+          "row": "vkv-s38",
+          "why": {
+            "en": "Völundr rises into the air, laughing; the king sits alone."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Only Völundarkviða tells this story in the Eddas. The prose calls the women valkyries (vkv-p1); the poem calls them maidens from the south who flew through Myrkviðr (vkv-s1). The poem never says how Völundr flies: it says only that he 'rose aloft' (vkv-s29, vkv-s38), and the line in which he speaks of his feet (vkv-s29) is unclear. Völundr hints at a link to the gold of the Völsung stories: there was no gold, he says, on Grani's road (vkv-s14). The English column of this poem is often a stanza off; the steps cite the Old Norse."
+      },
+      "order": 25,
+      "lane": "heroic"
+    },
+    "helgi-hjorvardsson": {
+      "title": {
+        "en": "Helgi Hjörvarðsson and Sváfa"
+      },
+      "age": "heroic",
+      "order_basis": {
+        "en": "The prose of Helgakviða Hundingsbana II says Helgi Hundingsbani was named after this Helgi, and that his valkyrie Sigrún was Sváfa reborn, so this story is placed before his."
+      },
+      "hook": {
+        "en": "A silent boy got his name from a valkyrie. Dying, he asked her to love his brother, who had sworn to have her."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "King Hjörvarðr had vowed to marry the most beautiful woman he knew of. He already had wives and sons, among them Heðinn. He heard that King Sváfnir's daughter Sigrlinn was the fairest of all, and sent Atli, son of Jarl Iðmundr, to woo her. Atli stayed a winter, but the jarl Fránmarr, her foster-father, had her refused."
+          },
+          "refs": [
+            "hhv-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "In a wood a bird spoke to Atli: had he seen Sigrlinn, the fairest girl? It would say more if the king made offerings, and asked for temples, altars and golden-horned cows if Sigrlinn came to sleep in his arms."
+          },
+          "refs": [
+            "hhv-p1",
+            "hhv-s1",
+            "hhv-s2",
+            "hhv-s4"
+          ]
+        },
+        {
+          "text": {
+            "en": "On the second journey the king came too. They found Sváfnir's land burning: King Hróðmarr, a suitor of Sigrlinn, had killed Sváfnir. Atli found a house guarded by a great sleeping bird and killed it with his spear. It was Jarl Fránmarr in eagle shape, who had protected the women with magic. Inside were Sigrlinn and Fránmarr's daughter Álof. Hjörvarðr married Sigrlinn, and Atli married Álof."
+          },
+          "refs": [
+            "hhv-p3"
+          ]
+        },
+        {
+          "text": {
+            "en": "Their son was big and handsome, but silent, and no name stuck to him. Sitting on a mound, he saw nine valkyries ride by. The noblest called him Helgi and told him of swords lying on Sigarsholmr; the best had gold on it and a snake along the blade. She was Sváfa, King Eylimi's daughter, a valkyrie who rode through air and over sea. She gave Helgi his name and often shielded him in battle afterwards."
+          },
+          "refs": [
+            "hhv-p3",
+            "hhv-s6",
+            "hhv-s7",
+            "hhv-s8",
+            "hhv-s9",
+            "hhv-p4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Helgi told his father he was no wise king, while Hróðmarr held the treasure of their kinsmen. Hjörvarðr gave him men to avenge his mother's father. Helgi fetched the sword Sváfa had told him of, and with Atli killed Hróðmarr. He also killed the giant Hati, whom he found sitting on a mountain."
+          },
+          "refs": [
+            "hhv-s10",
+            "hhv-s11",
+            "hhv-p5"
+          ]
+        },
+        {
+          "text": {
+            "en": "Helgi and Atli lay with their ships in Hatafjörðr. Atli kept watch, and Hati's daughter Hrímgerðr called out to ask who they were. She said her mother had lain in wait for the ships and that she had drowned Hlöðvarðr's sons. She and Atli traded insults all night; she dared him ashore, and he refused to leave his watch."
+          },
+          "refs": [
+            "hhv-p5",
+            "hhv-s12",
+            "hhv-s17",
+            "hhv-s19",
+            "hhv-s20",
+            "hhv-s22",
+            "hhv-s23"
+          ]
+        },
+        {
+          "text": {
+            "en": "Hrímgerðr asked Helgi for one night in his bed as payment for her father. He told her the giant Loðinn on Þolley was a fit husband for her. She said a gold-decked maiden had guarded the fleet: three times nine maidens, one riding first, with dew falling from their horses' manes. Then Helgi told her to look east, and Atli told her it was day: he had kept her talking until dawn, and now she stood turned to stone, a harbour-mark for people to laugh at."
+          },
+          "refs": [
+            "hhv-s24",
+            "hhv-s25",
+            "hhv-s26",
+            "hhv-s28",
+            "hhv-s29",
+            "hhv-s30"
+          ]
+        },
+        {
+          "text": {
+            "en": "Helgi asked King Eylimi for Sváfa. They gave each other their vows and loved each other greatly; she stayed at home, still a valkyrie, while he went raiding. One Yule eve Helgi's brother Heðinn met a troll-woman riding a wolf with snakes for reins. She offered to go with him; he refused, and she said he would pay for it at the vow-cup."
+          },
+          "refs": [
+            "hhv-p6"
+          ]
+        },
+        {
+          "text": {
+            "en": "That evening men laid their hands on the sacred boar and made vows. Heðinn vowed to have Sváfa, his brother's beloved. He regretted it so much that he went off south on wild paths and found Helgi. Helgi told him not to blame himself: the ale-vows of both might come true. A king had challenged Helgi to fight in three nights, and he doubted he would come back. The prose says he felt his death near, because his own attendant spirits had come to Heðinn as the woman riding the wolf."
+          },
+          "refs": [
+            "hhv-p6",
+            "hhv-s31",
+            "hhv-s32",
+            "hhv-s33",
+            "hhv-p7",
+            "hhv-s35"
+          ]
+        },
+        {
+          "text": {
+            "en": "Álfr, Hróðmarr's son, had marked out the battlefield. Helgi was wounded to death and sent Sigarr to fetch Sváfa; Sigarr told her Helgi had fallen. Dying, he told her not to weep, but to make a bed for Heðinn and love the young prince. Sváfa said she had vowed never to take an unknown prince in her arms after Helgi. Heðinn asked her for a kiss: he would not come home until he had avenged Helgi."
+          },
+          "refs": [
+            "hhv-p7",
+            "hhv-s36",
+            "hhv-s37",
+            "hhv-s39",
+            "hhv-s40",
+            "hhv-s41",
+            "hhv-s42",
+            "hhv-s43"
+          ]
+        }
+      ],
+      "participants": [
+        "hjorvardr",
+        "sigrlinn",
+        "svafnir",
+        "atli-idmundarson",
+        "helgi-hjorvardsson",
+        "svafa",
+        "eylimi",
+        "hati-giant",
+        "hrimgerdr",
+        "hatafjordr",
+        "sigar",
+        "sigarsvellir",
+        "frekasteinn"
+      ],
+      "before": [
+        "andvaris-gold"
+      ],
+      "after": [
+        "helgi-hundingsbani"
+      ],
+      "best": [
+        {
+          "row": "hhv-p3",
+          "why": {
+            "en": "A nameless, silent boy sees nine valkyries ride."
+          }
+        },
+        {
+          "row": "hhv-s30",
+          "why": {
+            "en": "Dawn comes, and the giantess is stone."
+          }
+        },
+        {
+          "row": "hhv-s41",
+          "why": {
+            "en": "Dying, Helgi gives his bride to his brother."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "The place of Helgi's last battle differs inside the poem: the prose and Helgi's verse name Sigarsvellir (hhv-p7, hhv-s35), but Sigarr says he fell at Frekasteinn (hhv-s39), where Helgi Hundingsbani also fights (hh1-s53). The poem ends with Heðinn's promise and does not say whether he avenged Helgi. The prose of Helgakviða Hundingsbana II links the two Helgis: Helgi Hundingsbani was named after this one (hh2-p1), and Sigrún was Sváfa reborn (hh2-p3). This Atli is a jarl's son, not King Atli Buðlason, and this Heðinn is not Heðinn of the Hjaðningar. In the English column the speakers of hhv-s29 and hhv-s30 are swapped; the Old Norse gives 'It is day' to Atli."
+      },
+      "order": 21.3,
+      "lane": "heroic"
+    },
+    "helgi-hundingsbani": {
+      "title": {
+        "en": "Helgi Hundingsbani and Sigrún"
+      },
+      "age": "heroic",
+      "order_basis": {
+        "en": "Helgi is a son of Sigmundr, born before Sigmundr married Sigurðr's mother Hjördís (grp-p1), so his story comes before Sigurðr's. He was named after Helgi Hjörvarðsson (hh2-p1)."
+      },
+      "hook": {
+        "en": "Norns shaped his fate the night he was born. Dead, he rode back from Valhöll to spend a night with his wife in his mound."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Helgi was born to Borghildr in Brálundr in a time when eagles screamed. In the night the norns came and shaped his life: they bade him become the most famous of princes. They twisted the threads of fate, fastened golden cords under the moon's hall, hid the ends east and west, and one cast a chain to the north."
+          },
+          "refs": [
+            "hh1-s1",
+            "hh1-s2",
+            "hh1-s3",
+            "hh1-s4"
+          ]
+        },
+        {
+          "text": {
+            "en": "A raven told another that Sigmundr's son, barely a day old, already stood in a mail-coat with a warrior's sharp eyes. The king himself came from battle to give the boy a fine leek, named him Helgi, and gave him lands and a sword. The prose of the second poem says he was named after Helgi Hjörvarðsson and fostered by Hagall."
+          },
+          "refs": [
+            "hh1-s5",
+            "hh1-s6",
+            "hh1-s7",
+            "hh1-s8",
+            "hh2-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "There was feud between Sigmundr and King Hundingr. In the second poem Helgi goes to spy at Hundingr's court; when Hundingr's men search Hagall's house, he hides in a slave-woman's clothes, turning the millstones. One of them notices the grinder's sharp eyes, and Hagall says she is a captured king's daughter."
+          },
+          "refs": [
+            "hh2-p1",
+            "hh2-p2",
+            "hh2-s2",
+            "hh2-s4"
+          ]
+        },
+        {
+          "text": {
+            "en": "At fifteen Helgi killed Hundingr. Hundingr's sons demanded compensation; Helgi paid nothing and promised them a storm of spears instead. At Logafjöll he killed Álfr, Eyjólfr, Hjörvarðr and Hávarðr, and with them Hundingr's line. From then on he was called Hundingsbani, Hundingr's slayer."
+          },
+          "refs": [
+            "hh1-s10",
+            "hh1-s11",
+            "hh1-s12",
+            "hh1-s14",
+            "hh2-p3",
+            "hh2-p4"
+          ]
+        },
+        {
+          "text": {
+            "en": "After the battle light flashed over Logafjöll, and helmeted valkyries rode out of the sky. Sigrún, King Högni's daughter, told Helgi that her father had promised her to Höðbroddr, Granmarr's son, a king she thought 'as fine a king as the son of a cat'. Unless Helgi fought him, Höðbroddr would come for her within a few nights. She had loved Sigmundr's son with all her heart before she ever saw him."
+          },
+          "refs": [
+            "hh1-s15",
+            "hh1-s17",
+            "hh1-s18",
+            "hh1-s19",
+            "hh2-p4",
+            "hh2-s15",
+            "hh2-s16"
+          ]
+        },
+        {
+          "text": {
+            "en": "Helgi promised battle unless he died first, and gathered a fleet. A great storm caught it at sea, and Sigrún saved the ships from above; the prose says the men saw nine valkyries riding and knew her among them. On the shore Helgi's brother Sinfjötli and Granmarr's son Guðmundr traded insults across the water."
+          },
+          "refs": [
+            "hh1-s8",
+            "hh1-s20",
+            "hh1-s22",
+            "hh1-s29",
+            "hh1-s30",
+            "hh2-p5",
+            "hh1-s33",
+            "hh1-s36",
+            "hh1-s37"
+          ]
+        },
+        {
+          "text": {
+            "en": "They fought at Frekasteinn, Helgi always first in the fight, and Sigrún hailed him as the winner of the battle and of herself. All Granmarr's sons fell. In the second poem Sigrún's own father Högni and her brother Bragi fought against Helgi and fell too; only her brother Dagr was spared, and swore oaths to the Völsungs. Sigrún found Höðbroddr dying and told him he would never hold her. Helgi told her he had killed her father and brother, and she wept."
+          },
+          "refs": [
+            "hh1-s53",
+            "hh1-s55",
+            "hh1-s56",
+            "hh2-p6",
+            "hh2-s25",
+            "hh2-s26",
+            "hh2-s29"
+          ]
+        },
+        {
+          "text": {
+            "en": "Helgi married Sigrún and they had sons. But Dagr sacrificed to Óðinn for revenge, and Óðinn lent him his spear. At Fjöturlundr Dagr ran Helgi through, then rode to tell his sister. Sigrún cursed him: may his ship not sail, his horse not run, his sword not bite. Dagr answered that Óðinn alone caused all the harm, and offered her half his land."
+          },
+          "refs": [
+            "hh2-p7",
+            "hh2-s30",
+            "hh2-s31",
+            "hh2-s32",
+            "hh2-s33",
+            "hh2-s34",
+            "hh2-s35"
+          ]
+        },
+        {
+          "text": {
+            "en": "A mound was raised for Helgi. In Valhöll Óðinn offered to let him rule everything with him, and Helgi set Hundingr to wash every man's feet, tie up the dogs and feed the pigs. One evening Sigrún's maid saw Helgi ride to the mound with many men, and asked whether she was dreaming, or whether this was Ragnarök, since dead men were riding. Helgi said it was neither."
+          },
+          "refs": [
+            "hh2-p9",
+            "hh2-s39",
+            "hh2-p10",
+            "hh2-s40",
+            "hh2-s41"
+          ]
+        },
+        {
+          "text": {
+            "en": "Sigrún went into the open mound. Helgi's hair was thick with frost, he was wet with the dew of death, his hands ice-cold. He said it was her tears, each falling bloody on his breast. She made a bed in the mound and slept in his arms. He had to ride west, he said, before Salgófnir woke the host of warriors, and he rode away. The next evening she waited, but he did not come; she died young of grief. The prose adds that people once believed the two were born again, a belief 'now called old wives' folly'."
+          },
+          "refs": [
+            "hh2-s42",
+            "hh2-s43",
+            "hh2-s44",
+            "hh2-s45",
+            "hh2-s47",
+            "hh2-s48",
+            "hh2-s49",
+            "hh2-p11",
+            "hh2-s50",
+            "hh2-p12"
+          ]
+        }
+      ],
+      "participants": [
+        "helgi-hundingsbani",
+        "borghild",
+        "bralundr",
+        "sigmund",
+        "hagall",
+        "hundingr",
+        "logafjoll",
+        "sigrun",
+        "hogni-sigrunar",
+        "hodbroddr",
+        "granmarssynir",
+        "gudmundr",
+        "sinfjotli",
+        "frekasteinn",
+        "dagr-hognason",
+        "odin",
+        "fjoturlundr",
+        "sefafjoll",
+        "valhalla",
+        "kara"
+      ],
+      "before": [
+        "helgi-hjorvardsson"
+      ],
+      "after": [
+        "sigurdr-and-fafnir"
+      ],
+      "best": [
+        {
+          "row": "hh1-s2",
+          "why": {
+            "en": "The norns come in the night to shape the newborn's life."
+          }
+        },
+        {
+          "row": "hh2-s40",
+          "why": {
+            "en": "Dead men riding at dusk: is it Ragnarök?"
+          }
+        },
+        {
+          "row": "hh2-s44",
+          "why": {
+            "en": "Sigrún kisses the dead king, his hair heavy with frost."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Two poems tell Helgi's life. Helgakviða Hundingsbana I runs from his birth to his victory; Helgakviða Hundingsbana II adds the disguise at the mill, Helgi's killing of Sigrún's father, his death by Óðinn's spear, and his return from the dead. The second poem says it quotes an 'old Volsung lay' (hh2-p4). Both contain the quarrel of Sinfjötli and Guðmundr, in different words. The prose at the end says Helgi and Sigrún were believed reborn as Helgi Haddingjaskati and Kára, as told in a poem called Káruljóð (hh2-p12); that poem is not in the Eddas. Sigrún herself is called Sváfa reborn (hh2-p3). Helgi blames the norns for the deaths of her kin (hh2-s26). In the English column of Helgakviða Hundingsbana II, stanzas 17 to 29 are offset; the steps cite the Old Norse."
+      },
+      "order": 21.6,
+      "lane": "heroic"
+    },
+    "sigrdrifa-wakes": {
+      "title": {
+        "en": "The sleeping valkyrie"
+      },
+      "age": "heroic",
+      "order_basis": {
+        "en": "Fáfnismál ends with birds telling Sigurðr of the sleeping maiden on Hindarfjall, and Sigrdrífumál takes up the story there. Snorri tells the waking just before Sigurðr comes to King Gjúki."
+      },
+      "hook": {
+        "en": "Sigurðr cut the mail off a sleeping warrior and found a woman Óðinn had punished. Awake, she taught him runes and counsel."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "After Sigurðr killed Fáfnir, birds told him of a hall high on Hindarfjall, ringed with fire. A battle-maiden slept there: Yggr, that is Óðinn, had pricked her with a thorn because she struck down a different man from the one he wanted."
+          },
+          "refs": [
+            "fm-s42",
+            "fm-s43",
+            "fm-s44",
+            "grm-s54"
+          ]
+        },
+        {
+          "text": {
+            "en": "Sigurðr rode up Hindarfjall, heading south towards the land of the Franks. He saw a great light, as if a fire burned up to the sky, and found a wall of shields with a banner above it. Inside lay someone asleep in full armour. He took off the helmet and saw it was a woman. The mail-coat was as tight as if it had grown into her flesh, so he cut it open with his sword Gramr, down from the neck and out along both sleeves, and she woke."
+          },
+          "refs": [
+            "sd-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "She asked what had cut through her mail and who had freed her. Sigmundr's son, he said, with Sigurðr's sword. She said she had slept long: Óðinn had made it so, and she could not throw off the sleep-spells."
+          },
+          "refs": [
+            "sd-s1",
+            "sd-s2"
+          ]
+        },
+        {
+          "text": {
+            "en": "She gave him a horn of mead as a memory-drink and greeted the day, the night, the gods, the goddesses and the earth, asking them for wisdom, speech and healing hands for the two of them."
+          },
+          "refs": [
+            "sd-p2",
+            "sd-s3",
+            "sd-s4"
+          ]
+        },
+        {
+          "text": {
+            "en": "She was called Sigrdrífa, and was a valkyrie. Two kings had fought: old Hjálmgunnarr, to whom Óðinn had promised victory, and Agnarr, brother of Auða, whom no one would help. She struck down Hjálmgunnarr. In return Óðinn pricked her with a sleep-thorn, said she would never again win a battle, and that she must marry. She vowed in turn never to marry a man who knew fear."
+          },
+          "refs": [
+            "sd-p3",
+            "sd-v1",
+            "sd-p4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Sigurðr asked her to teach him wisdom. She brought him beer full of spells and taught him runes: victory runes to carve on the sword hilt, calling twice on Týr; ale-runes, so another man's wife could not betray him; runes to help a woman give birth; runes to keep ships safe; runes for healing; speech-runes for the assembly, so that no one repays a wrong with hatred; and runes for a wise mind."
+          },
+          "refs": [
+            "sd-p4",
+            "sd-s5",
+            "sd-s6",
+            "sd-s7",
+            "sd-s9",
+            "sd-s10",
+            "sd-s11",
+            "sd-s12",
+            "sd-s13"
+          ]
+        },
+        {
+          "text": {
+            "en": "She told where the runes came from. Hroptr, a name of Óðinn, devised them from the liquid that had dripped from Heiðdraupnir's skull and Hoddrofnir's horn, and Mímir's head spoke the first wise words. The runes were carved on many things, then shaved off, mixed into the holy mead and sent far and wide: some to the Æsir, some to the elves, some to the Vanir, and some to men."
+          },
+          "refs": [
+            "sd-s13",
+            "sd-s14",
+            "sd-s18",
+            "grm-s8"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then she offered him a choice, speech or silence: all harm is already measured out. Sigurðr answered: 'I shall not flee, though my fate be near.' He wanted all her counsel for as long as he lived."
+          },
+          "refs": [
+            "sd-s20",
+            "sd-s21"
+          ]
+        },
+        {
+          "text": {
+            "en": "She gave him eleven counsels. Be blameless towards your kin and slow to take revenge. Swear no oath that is not true. Do not argue with fools at the assembly. Do not stay the night with a witch. Do not let lovely women rob you of sleep. Do not quarrel with drunk men. Fight rather than be burned in your hall. Seduce neither girl nor wife. Wash, comb and bury any dead you find. Never trust the son of a man you have killed, however much gold he takes. And beware of treachery from friends: she does not foresee a long life for the prince."
+          },
+          "refs": [
+            "sd-s22",
+            "sd-s23",
+            "sd-s24",
+            "sd-s26",
+            "sd-s28",
+            "sd-s29",
+            "sd-s31",
+            "sd-s32",
+            "sd-s33",
+            "sd-s34",
+            "sd-s35",
+            "sd-s37"
+          ]
+        },
+        {
+          "text": {
+            "en": "Snorri tells the waking in a few lines: the woman Sigurðr freed named herself Hildr; she is called Brynhildr, and was a valkyrie. In Helreið Brynhildar, Brynhildr herself tells the same story as Sigrdrífa: people called her Hildr-under-helmet, she sent old Hjálmgunnarr to Hel and gave victory to Auða's brother, and the angry Óðinn shut her in with shields and decreed that only a man who knew no fear should break her sleep."
+          },
+          "refs": [
+            "s-c48-1",
+            "hlr-s6",
+            "hlr-s7",
+            "hlr-s9",
+            "hlr-s10"
+          ]
+        }
+      ],
+      "participants": [
+        "sigurdr",
+        "sigrdrifa",
+        "brynhild",
+        "hildr",
+        "hindarfjall",
+        "gramr",
+        "odin",
+        "hjalmgunnarr",
+        "tyr",
+        "mimir"
+      ],
+      "before": [
+        "sigurdr-and-fafnir"
+      ],
+      "after": [
+        "brynhildr-and-gudrun"
+      ],
+      "best": [
+        {
+          "row": "sd-p1",
+          "why": {
+            "en": "A wall of shields, a helmet lifted, a woman underneath."
+          }
+        },
+        {
+          "row": "sd-s3",
+          "why": {
+            "en": "Her greeting to day and night on waking."
+          }
+        },
+        {
+          "row": "sd-s21",
+          "why": {
+            "en": "Sigurðr will not flee, though his fate is near."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Sigrdrífumál calls her Sigrdrífa (sd-p3, fm-s44). Snorri says she named herself Hildr and is called Brynhildr (s-c48-1), and in Helreið Brynhildar it is Brynhildr who tells of Hjálmgunnarr, Auða's brother and Óðinn's punishment (hlr-s9, hlr-s10). Helreið adds that a young king had carried off the shapes of her and seven sisters, so she swore oaths to him (hlr-s8), and that Óðinn ringed her hall with fire which only the man who brought Fáfnir's gold should cross (hlr-s11). In Sigrdrífumál she lies inside a shield-wall glowing like fire (sd-p1). In Snorri she later waits behind flickering fire to be won for Gunnarr (s-c48-3). Sigrdrífumál ends with the eleventh counsel (sd-s37) and does not tell what Sigurðr did next. The English column of this poem is often a stanza off, and its heading 'Brynhild spake' at sd-s20 is not in the Old Norse."
+      },
+      "order": 22.5,
+      "lane": "heroic"
+    },
+    "the-mill-grotti": {
+      "title": {
+        "en": "The mill Grótti"
+      },
+      "age": "heroic",
+      "order_basis": {
+        "en": "Snorri tells it right after the Völsungs and Gjúkungs, to explain why gold is called Fróði's meal. He sets Fróði's reign in the time of the emperor Augustus, when Christ was born."
+      },
+      "hook": {
+        "en": "A king set two giant women to grind gold and peace without rest. They ground out an army against him instead."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Skjöldr, a son of Óðinn and the ancestor of the Skjöldungs, ruled the land now called Denmark. His son was Friðleifr, and Friðleifr's son was Fróði, who became king when the emperor Augustus made peace over the whole world and Christ was born."
+          },
+          "refs": [
+            "s-c52-1",
+            "grt-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Fróði was the most powerful king in the northern lands, so the peace was named after him: Fróði's peace. No one harmed another, even if he met his father's or brother's killer, loose or bound. There were no thieves or robbers, and a gold ring lay untouched on Jalangrsheiðr for a long time."
+          },
+          "refs": [
+            "s-c52-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "At a feast in Sweden, at the court of King Fjölnir, Fróði bought two slave women, Fenja and Menja, big and strong. At that time two millstones were found in Denmark, so huge that no one could turn them. The mill, called Grótti, ground out whatever the grinder asked for. It had been given to Fróði by a man named Hengikjöftr."
+          },
+          "refs": [
+            "s-c52-2",
+            "s-c52-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "Fróði put the women to the mill and told them to grind gold, and they ground gold, peace and happiness for him. He let them rest or sleep no longer than the cuckoo was silent or a song could be sung."
+          },
+          "refs": [
+            "s-c52-4",
+            "grt-s2",
+            "grt-s7"
+          ]
+        },
+        {
+          "text": {
+            "en": "As they ground, they sang the poem called Gróttasöngr. At first they ground him wealth: let him sit on riches, sleep on down and wake to his wishes. Here no one should harm another, not even a man who found his brother's killer bound."
+          },
+          "refs": [
+            "s-c52-4",
+            "grt-s4",
+            "grt-s5",
+            "grt-s6"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then they reproached him. He had bought them for their strength and looks without asking about their kin. Hrungnir was hard, they said, and Þjazi mightier still; they themselves were born of mountain-giants, kin of Iði and Aurnir. For nine winters they had played under the earth, moving mountains and rolling boulders, and later fought in battles in Sweden."
+          },
+          "refs": [
+            "grt-s8",
+            "grt-s9",
+            "grt-s11",
+            "grt-s12",
+            "grt-s13"
+          ]
+        },
+        {
+          "text": {
+            "en": "Now they were slaves: mud ate their soles, cold came from above, and 'it is gloomy at Fróði's.' They foresaw fire east of the stronghold and an army coming to burn the hall; Fróði would not keep his high seat at Hleiðr. Yrsa's son, they sang, would take vengeance for Fróði."
+          },
+          "refs": [
+            "grt-s16",
+            "grt-s18",
+            "grt-s19",
+            "grt-s20",
+            "grt-s22"
+          ]
+        },
+        {
+          "text": {
+            "en": "They ground in a giant's fury until the shafts shook, the frame fell, and the heavy stone burst in two. 'We have ground, Fróði, so that we must stop,' said the giant-maiden."
+          },
+          "refs": [
+            "grt-s23",
+            "grt-s24"
+          ]
+        },
+        {
+          "text": {
+            "en": "Snorri says that before they finished the song they had ground out an army against Fróði. That same night the sea-king Mýsingr came, killed Fróði and took much plunder. That was the end of Fróði's peace."
+          },
+          "refs": [
+            "s-c52-6",
+            "grt-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Mýsingr took Grótti, Fenja and Menja on board and had them grind salt. At midnight they asked whether he was not tired of salt. He told them to grind on. Soon after, the ship sank. Ever since there has been a whirlpool where the sea pours through the hole in the millstone, and that is when the sea became salt."
+          },
+          "refs": [
+            "s-c52-6"
+          ]
+        }
+      ],
+      "participants": [
+        "skjoldr",
+        "skjoldungs",
+        "odin",
+        "fridleifr",
+        "frodi",
+        "jalangrsheidr",
+        "fenja",
+        "menja",
+        "grotti",
+        "idi",
+        "hrungnir",
+        "thjazi",
+        "yrsa",
+        "mysingr"
+      ],
+      "before": [
+        "volundr"
+      ],
+      "after": [
+        "hjadningavig"
+      ],
+      "best": [
+        {
+          "row": "grt-s5",
+          "why": {
+            "en": "The happy grinding: wealth, down pillows and peace."
+          }
+        },
+        {
+          "row": "grt-s16",
+          "why": {
+            "en": "The slaves' side of the story: mud, cold and gloom."
+          }
+        },
+        {
+          "row": "s-c52-6",
+          "why": {
+            "en": "Why the sea is salt."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "The poem and Snorri's prose end differently. Gróttasöngr stops with the millstone breaking (grt-s24); the women foresee an army and name Yrsa's son as avenger (grt-s19, grt-s22). Only the prose has the sea-king Mýsingr, the grinding of salt, the sinking ship and the salt sea (s-c52-6, grt-p1). In this edition Snorri's Old Norse gives only the poem's first stanza (s-c52-5); the English column of s-c52-6 adds a translation of the whole poem. Fróði's peace is also mentioned in Helgakviða Hundingsbana I, broken at the battle of Logafjöll (hh1-s13). The King Fjölnir of Sweden here is a man; Fjölnir is also one of Óðinn's names (g-c20-8)."
+      },
+      "order": 26,
+      "lane": "heroic"
+    },
+    "hjadningavig": {
+      "title": {
+        "en": "The everlasting battle"
+      },
+      "age": "heroic",
+      "order_basis": {
+        "en": "Snorri tells it in Skáldskaparmál to explain why battle is called the storm of the Hjaðningar. No source ties it in time to the other heroes, and it lasts until Ragnarök, so it is placed last in this lane."
+      },
+      "hook": {
+        "en": "Hildr woke the fallen by magic, and her father and the king who carried her off fight every day until Ragnarök."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Why is battle called the storm or snow-shower of the Hjaðningar, and weapons their fire or wands? There is a story behind it."
+          },
+          "refs": [
+            "s-c62-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "King Högni had a daughter named Hildr. While Högni was away at a meeting of kings, King Heðinn, son of Hjarrandi, raided his kingdom and took her as plunder. Högni set out after him with his army, north along the coast to Norway, then west over the sea to the Orkneys. At Háey he found Heðinn waiting with his men."
+          },
+          "refs": [
+            "s-c62-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Hildr went to her father and offered him a necklace on Heðinn's behalf as a settlement. In the same breath she said that Heðinn was ready to fight and Högni could expect no mercy. Högni answered her harshly. Back with Heðinn, she said Högni wanted no settlement, and told him to get ready for battle. Both sides went up onto the island and drew up their lines."
+          },
+          "refs": [
+            "s-c62-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "Heðinn called out to Högni, his father-in-law, and offered settlement and much gold. Högni said he was too late: he had drawn Dáinsleif, a sword the dwarfs made, which must kill a man each time it is drawn, never misses, and leaves wounds that never heal."
+          },
+          "refs": [
+            "s-c62-4",
+            "s-c62-5"
+          ]
+        },
+        {
+          "text": {
+            "en": "Heðinn answered that Högni was boasting of a sword, not of a victory: 'I call any sword good which is faithful to its lord.'"
+          },
+          "refs": [
+            "s-c62-6"
+          ]
+        },
+        {
+          "text": {
+            "en": "They fought all day, and in the evening the kings went back to their ships. In the night Hildr went to the battlefield and woke all the dead by magic. The next day the kings fought again, and with them everyone who had fallen the day before."
+          },
+          "refs": [
+            "s-c62-7"
+          ]
+        },
+        {
+          "text": {
+            "en": "So the battle went on day after day. The fallen, their weapons and their shields lay turned to stone; but every dawn the dead stood up and fought, and the weapons were good again. The poems say the Hjaðningar will go on like this until Ragnarök. Snorri adds that the poet Bragi composed verses on this story in his poem for Ragnarr loðbrók."
+          },
+          "refs": [
+            "s-c62-7"
+          ]
+        }
+      ],
+      "participants": [
+        "hogni-hildar",
+        "hildr",
+        "hedin-hjarrandason",
+        "hjadningar",
+        "hjadningavig",
+        "dainsleif",
+        "ragnarr"
+      ],
+      "before": [
+        "the-mill-grotti"
+      ],
+      "after": [],
+      "best": [
+        {
+          "row": "s-c62-3",
+          "why": {
+            "en": "Hildr offers peace and threatens war in the same breath."
+          }
+        },
+        {
+          "row": "s-c62-6",
+          "why": {
+            "en": "Heðinn's answer to the cursed sword."
+          }
+        },
+        {
+          "row": "s-c62-7",
+          "why": {
+            "en": "The dead rise every dawn, until Ragnarök."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Of the Eddas only Snorri tells this story (s-c62). He names Bragi's poem for Ragnarr loðbrók as a source (s-c62-7); the English column of that row includes Bragi's verses, the Old Norse row does not. Snorri does not say why Hildr acts as she does. The names recur elsewhere for other people: this Högni is neither Gjúki's son nor Sigrún's father, this Heðinn is not Helgi Hjörvarðsson's brother, and Hildr is also the name of a valkyrie who carries ale to the einherjar (g-c36-2)."
+      },
+      "order": 27,
+      "lane": "heroic"
+    },
+    "svipdagr-and-menglod": {
+      "title": {
+        "en": "Svipdagr and Menglöð"
+      },
+      "age": "5",
+      "order_basis": {
+        "en": "No source dates it. It is placed after Freyr and Gerðr, another Eddic wooing of a woman in a hall behind flickering fire (skm-s8, fjm-s31), only as a reading aid."
+      },
+      "hook": {
+        "en": "A son wakes his dead mother for spells; in a second poem, Svipdagr reaches the guarded hall of his fated bride."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Grógaldr (Gróa's spell) opens at a grave. A son calls at the doors of the dead, telling his mother Gróa to wake. She had told him to come to her cairn if he ever needed her."
+          },
+          "refs": [
+            "grg-s1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Gróa asks what trouble makes her only son call on his mother, who has gone into the earth. He says the treacherous woman who married his father has set him a cruel task: to go where no one can go, to seek Menglöð."
+          },
+          "refs": [
+            "grg-s2",
+            "grg-s3"
+          ]
+        },
+        {
+          "text": {
+            "en": "Gróa tells him the way is long, but 'long is love as well'; he may get what he wants if fate allows. He asks her for good spells, since he is young and fears he will die on the road."
+          },
+          "refs": [
+            "grg-s4",
+            "grg-s5"
+          ]
+        },
+        {
+          "text": {
+            "en": "She sings him nine charms: first the one Rani sang to Rindr, to shake off what he hates and be his own guide; for the bolts of Urðr to guard him; for the rivers Horn and Ruðr to dry before him; for enemies to turn to peace; for fetters to fall from his limbs; for calm sea; against frost on the mountains; against the curse of a dead Christian woman on a dark road at night; and for words and wit if he must talk with a giant."
+          },
+          "refs": [
+            "grg-s6",
+            "grg-s7",
+            "grg-s8",
+            "grg-s9",
+            "grg-s10",
+            "grg-s11",
+            "grg-s12",
+            "grg-s13",
+            "grg-s14"
+          ]
+        },
+        {
+          "text": {
+            "en": "She sang them standing on an earth-fast stone inside her door. He should carry his mother's words in his breast: he will have good luck as long as he remembers them."
+          },
+          "refs": [
+            "grg-s15",
+            "grg-s16"
+          ]
+        },
+        {
+          "text": {
+            "en": "Fjölsvinnsmál (the sayings of Fjölsviðr) begins at a hall surrounded by flickering flame. A stranger arrives. The gatekeeper, Fjölsviðr, calls him a friendless wolf and tells him to go home. The stranger says he wants to see what his eyes long for: the shining golden halls."
+          },
+          "refs": [
+            "fjm-s1",
+            "fjm-s2",
+            "fjm-s31"
+          ]
+        },
+        {
+          "text": {
+            "en": "Asked his name, the stranger says he is Vindkaldr, son of Várkaldr. He asks who rules the hall: Menglöð. Then he asks question after question, and Fjölsviðr names everything: the gate Þrymgjöll, which holds fast anyone who opens it; the wall Gastrópnir, built from the limbs of Leirbrimir; the hounds Gífr and Geri; the tree Mímameiðr, whose roots no one knows and which neither fire nor iron will fell; and the golden cock Víðópnir in its branches."
+          },
+          "refs": [
+            "fjm-s6",
+            "fjm-s7",
+            "fjm-s8",
+            "fjm-s10",
+            "fjm-s12",
+            "fjm-s14",
+            "fjm-s20",
+            "fjm-s23",
+            "fjm-s24"
+          ]
+        },
+        {
+          "text": {
+            "en": "Can anyone get in? The hounds sleep in turns, one by night and one by day. The only food that would distract them is Víðópnir's two wing-joints. The weapon that could send Víðópnir to Hel is Lævateinn, which Loptr made with runes below the gates of the dead; it lies with Sinmara in a chest under nine locks. She would give it only for the bright sickle that lies among Víðópnir's own feathers."
+          },
+          "refs": [
+            "fjm-s16",
+            "fjm-s18",
+            "fjm-s26",
+            "fjm-s28",
+            "fjm-s30",
+            "fjm-s25"
+          ]
+        },
+        {
+          "text": {
+            "en": "The hall is called Hyrr, and trembles as if on a spear's point. Its builders included Loki. Menglöð sits on Lyfjaberg, a mountain that heals any woman who climbs it, with nine maidens at her knees, among them Eir and Aurboða, who help those who sacrifice to them."
+          },
+          "refs": [
+            "fjm-s32",
+            "fjm-s34",
+            "fjm-s36",
+            "fjm-s38",
+            "fjm-s40",
+            "fjm-s33",
+            "fjm-s35",
+            "fjm-s37"
+          ]
+        },
+        {
+          "text": {
+            "en": "Is there any man who may sleep in Menglöð's arms? None, says Fjölsviðr, but Svipdagr: the sun-bright bride was promised to him. The stranger tells him to throw open the gates: here is Svipdagr. The hounds fawn and the house opens. Menglöð threatens him with ravens if he lies; he names himself Svipdagr, son of Sólbjartr. She welcomes him with a kiss: she has sat long on the mountain waiting for him, and now they will spend their lives together."
+          },
+          "refs": [
+            "fjm-s41",
+            "fjm-s42",
+            "fjm-s43",
+            "fjm-s44",
+            "fjm-s45",
+            "fjm-s47",
+            "fjm-s48",
+            "fjm-s49",
+            "fjm-s50"
+          ]
+        }
+      ],
+      "participants": [
+        "groa",
+        "svipdagr",
+        "menglodr",
+        "fjolsvidr",
+        "vidofnir",
+        "sinmara",
+        "loki",
+        "eir",
+        "aurboda",
+        "rindr"
+      ],
+      "before": [
+        "freyr-and-gerdr"
+      ],
+      "after": [
+        "thor-and-utgarda-loki"
+      ],
+      "best": [
+        {
+          "row": "grg-s1",
+          "why": {
+            "en": "A son wakes his dead mother at her grave."
+          }
+        },
+        {
+          "row": "fjm-s26",
+          "why": {
+            "en": "The sword Lævateinn, locked away below the gates of the dead."
+          }
+        },
+        {
+          "row": "fjm-s42",
+          "why": {
+            "en": "Only one man may sleep in Menglöð's arms."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "From general knowledge, not from these texts: Grógaldr and Fjölsvinnsmál are not in the Codex Regius, the main manuscript of the Poetic Edda, but survive only in much later copies, and editors often read them as two halves of one story, sometimes called Svipdagsmál. Neither poem mentions the other. In the Old Norse of Grógaldr the son is never named ('Sonr kvað', grg-s1); the name Svipdag in the English column is the translator's. The link is Menglöð: he is sent to seek her (grg-s3), and in Fjölsvinnsmál she is promised to Svipdagr (fjm-s42). He first gives a false name, Vindkaldr (fjm-s6). Nothing says this Gróa is the seeress Gróa who sang over Þórr's head (s-c25-1). The Christian dead woman of grg-s13 (kristin dauð kona) suggests the poem was made in Christian times. The English column of Fjölsvinnsmál is often several stanzas off, and fjm-s2 holds several stanzas in one row; the steps cite the Old Norse."
+      },
+      "order": 9.5,
+      "lane": "gods"
     }
   }
 }
