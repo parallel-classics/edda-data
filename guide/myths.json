@@ -1,39 +1,717 @@
 {
- "_note": "Mímir (task 34, edda-site docs/specs/MIMIR.md). PILOT SAMPLE by Claude Code, 2026-11-08: a few entries to build the pages against, until the cloud session's content arrives (it replaces this file). AI draft, not reviewed; CC BY 4.0.",
- "myths": [
-  {
-   "id": "horned-helmets",
-   "claim": {
-    "en": "Viking gods and warriors wore horned helmets."
-   },
-   "sources": {
-    "en": "No Eddic text describes a horned helmet."
-   },
-   "origin": {
-    "en": "Nineteenth-century art and stage design, above all the costumes for Wagner's Ring in 1876."
-   },
-   "refs": [],
-   "entities": []
-  },
-  {
-   "id": "loki-brother",
-   "claim": {
-    "en": "Loki is Óðinn's (or Þórr's) brother."
-   },
-   "sources": {
-    "en": "Loki is the son of the giant Fárbauti and Laufey; he and Óðinn mixed their blood in sworn brotherhood."
-   },
-   "origin": {
-    "en": "Modern retellings and films turn the sworn brotherhood into kinship."
-   },
-   "refs": [
-    "g-c33-1",
-    "ls-s9"
-   ],
-   "entities": [
-    "odin",
-    "loki"
-   ]
+  "_note": "Mímir (task 34) content, drafted by an AI model (Claude) from the aligned texts of Open Edda; every fact cites row ids. status draft = not reviewed. CC BY 4.0. Generated 2026-11-08.",
+  "myths": {
+    "horned-helmets": {
+      "claim": {
+        "en": "Vikings, and the Norse gods, wore helmets with horns."
+      },
+      "sources": {
+        "en": "The Eddas mention helmets often, but never horns. Óðinn rides to the last battle \"with the gold helmet\", and the giant Hrungnir sees him riding Sleipnir with a gold helmet; valkyries ride \"under helmets\"; Fáfnir wears a fear-helmet, the ægishjálmr."
+      },
+      "origin": {
+        "en": "Horns came from 19th-century art and stage. Roberta Frank's study of the image (2000) found that earlier pictures more often gave Vikings winged helmets, and that horns became the standard look after Carl Emil Doepler's costumes for the first Bayreuth Ring (1876), which mixed horned and winged helmets. Archaeology does not support them: the Gjermundbu helmet from Norway (10th century), the best-preserved of the few Viking-Age helmets known, has no horns, and the horned helmets from Veksø in Denmark are Bronze Age, about 1100–900 BC."
+      },
+      "refs": [
+        "g-c51-5",
+        "s-c24-1",
+        "hh1-s15",
+        "hhv-s28",
+        "s-c47-2"
+      ],
+      "entities": [
+        "odin",
+        "fafnir",
+        "hrungnir"
+      ],
+      "outside": [
+        "romantic-art",
+        "wagner"
+      ],
+      "web": [
+        {
+          "title": "Horned helmet (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Horned_helmet"
+        },
+        {
+          "title": "Gjermundbu helmet (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Gjermundbu_helmet"
+        },
+        {
+          "title": "The Ring at Bayreuth: stagecraft and the image of the Germanic past (Deutsches Historisches Museum, in German)",
+          "url": "https://www.dhm.de/archiv/ausstellungen/walhall/nib1.htm"
+        }
+      ]
+    },
+    "nine-worlds": {
+      "claim": {
+        "en": "The Norse universe is a fixed set of nine named worlds hanging on Yggdrasill: Ásgarðr, Miðgarðr, Jötunheimr, Vanaheimr, Álfheimr, Svartálfaheimr, Niflheimr, Múspellsheimr and Helheimr."
+      },
+      "sources": {
+        "en": "The number nine is truly Eddic: the seeress remembers \"nine worlds\" by the tree, the giant Vafþrúðnir has been to nine worlds, Hel rules over nine worlds, and Niflhel lies \"down in the ninth world\". But no text ever lists the nine. Snorri gives the tree three roots, among the Æsir, the frost-giants and over Niflheimr, and Alvíssmál asks what things are called \"in each world\", giving words used by men, gods, Vanir, giants, elves and dwarves."
+      },
+      "origin": {
+        "en": "The tidy list is a modern reconstruction. Translators such as Henry Adams Bellows (Poetic Edda, 1923) proposed which nine were meant (Bellows himself called the ninth uncertain), and later handbooks, maps, games and films fixed one version. Several names on it are Snorri's (Svartálfaheimr, Niflheimr, Múspellsheimr), but the name Helheimr occurs in neither Edda."
+      },
+      "refs": [
+        "vsp-s2",
+        "vm-s43",
+        "g-c34-2",
+        "g-c3-6",
+        "g-c15-4",
+        "alv-s9",
+        "alv-s10",
+        "alv-s12",
+        "s-c46-3",
+        "g-c5-3"
+      ],
+      "entities": [
+        "yggdrasil",
+        "hel",
+        "niflhel",
+        "niflheim",
+        "vafthrudnir",
+        "alviss",
+        "asgard",
+        "midgard",
+        "jotunheim"
+      ],
+      "outside": [
+        "modern-pop"
+      ],
+      "web": [
+        {
+          "title": "Nine Worlds (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Nine_Worlds"
+        }
+      ]
+    },
+    "valhalla-only": {
+      "claim": {
+        "en": "Norse warriors who died in battle all went to Valhǫll, the Viking heaven."
+      },
+      "sources": {
+        "en": "In the poems Valhǫll takes only some of the dead. Óðinn chooses the weapon-dead there each day, but Freyja chooses half of the slain for her own hall in Fólkvangr. Snorri adds that Hel receives those who die of sickness or old age, that women who die unmarried serve the goddess Gefjun, and that the sea-goddess Rán has a net in which she catches men at sea; he also names Gimlé, Vingólf and Niflhel. So the claim is partly true for Snorri, who is not consistent: elsewhere he says all who fall in battle are Óðinn's adopted sons, given Valhǫll and Vingólf, and Gangleri says all men fallen in battle since the world began are with Óðinn."
+      },
+      "origin": {
+        "en": "Valhǫll is by far the most vividly described afterlife in the texts, especially in Snorri's Gylfaginning (c. 1220), so modern retellings, from Wagner's 'Walhall' to films and games, treat it as the Viking heaven. Hilda Ellis Davidson observed that the significance of Freyja's Fólkvangr and the other halls has been lost, so they rarely enter the popular picture."
+      },
+      "refs": [
+        "grm-s8",
+        "grm-s14",
+        "g-c24-1",
+        "g-c34-2",
+        "g-c35-5",
+        "g-c3-6",
+        "g-c38-1",
+        "g-c20-6",
+        "s-c41-1",
+        "hhv-s18"
+      ],
+      "entities": [
+        "valhalla",
+        "odin",
+        "freyja",
+        "folkvangr",
+        "hel",
+        "gefjon",
+        "gimle",
+        "niflhel",
+        "einherjar",
+        "ran",
+        "vingolf"
+      ],
+      "outside": [
+        "wagner",
+        "modern-pop"
+      ],
+      "web": [
+        {
+          "title": "Fólkvangr (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/F%C3%B3lkvangr"
+        }
+      ]
+    },
+    "loki-odins-brother": {
+      "claim": {
+        "en": "Loki is Þórr's adopted brother, or Óðinn's son or brother."
+      },
+      "sources": {
+        "en": "Loki is the son of the giant Fárbauti and of Laufey (or Nál), and his brothers are Býleistr and Helblindi; he is never Þórr's brother. He and Óðinn are blood-brothers: in Lokasenna Loki reminds Óðinn that in early days they \"mixed blood\" and that Óðinn promised never to drink unless Loki was served too. Snorri's list of names for Loki also calls him \"kinsman and uncle\" and bench-mate of Óðinn and the Æsir, without explaining the kinship; and Helblindi is also one of Óðinn's own names, a coincidence the texts leave unexplained. So 'Óðinn's brother' is partly true, by oath, not by birth."
+      },
+      "origin": {
+        "en": "The adopted-brother story is Marvel's: in its Thor comics (from the 1960s) and later films, Loki is Thor's adoptive brother and rival. The blood-brother tie is Eddic; the family tie is not."
+      },
+      "refs": [
+        "g-c33-1",
+        "s-c23-1",
+        "ls-s9",
+        "g-c20-7"
+      ],
+      "entities": [
+        "loki",
+        "odin",
+        "thor",
+        "farbauti",
+        "laufey",
+        "byleistr",
+        "helblindi"
+      ],
+      "outside": [
+        "modern-pop"
+      ],
+      "web": [
+        {
+          "title": "Loki (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Loki"
+        },
+        {
+          "title": "Thor (Marvel Comics) (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+        }
+      ]
+    },
+    "loki-god-of-mischief": {
+      "claim": {
+        "en": "Loki is the god of mischief, a lovable prankster."
+      },
+      "sources": {
+        "en": "This English translation does call him \"the mischief-monger of the Æsir\", but Snorri's Old Norse is harsher: slanderer of the Æsir, originator of deceits, shame of all gods and men. Snorri also says he often brings the gods into great trouble and then gets them out of it with his tricks. No text gives him a domain like Þórr's or Freyr's. He arranges Baldr's death, is probably the giantess who refuses to weep Baldr out of Hel, lies bound until Ragnarök, and there comes to the last battle followed by all Hel's people (in Völuspá he steers the ship from the east), and kills, and is killed by, Heimdallr."
+      },
+      "origin": {
+        "en": "'God of mischief' is a modern tag from popular retellings, made familiar above all by Marvel's comics and films. Scholars describe Loki as a trickster, and there is no evidence that he was ever worshipped."
+      },
+      "refs": [
+        "g-c33-1",
+        "g-c49-8",
+        "g-c49-11",
+        "g-c49-25",
+        "g-c50-4",
+        "g-c51-4",
+        "g-c51-5",
+        "vsp-s51"
+      ],
+      "entities": [
+        "loki",
+        "baldur",
+        "hodr",
+        "thokk",
+        "heimdall"
+      ],
+      "outside": [
+        "modern-pop"
+      ],
+      "web": [
+        {
+          "title": "Loki (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Loki"
+        }
+      ]
+    },
+    "hel-is-hell": {
+      "claim": {
+        "en": "Hel is the Norse hell, a place of fire and punishment for the wicked."
+      },
+      "sources": {
+        "en": "Hel is both a being, Loki's half blue-black daughter, and her realm, which receives those who die of sickness or old age. It lies in Niflheimr, the misty world, and is bleak (her hall is Éljúðnir, her dish Hunger, her knife Famine), not fiery, and the blameless Baldr goes there and sits in the high seat. Punishment does exist, though: Snorri says \"evil men\" go to Hel and on to Niflhel, and Völuspá shows oath-breakers and murderers wading poison streams by a hall on Náströnd."
+      },
+      "origin": {
+        "en": "English 'hell' and Norse 'Hel' come from the same old Germanic word for a hidden place, the underworld; in Christian English it came to mean the place of punishment. Hilda Ellis Davidson suggested that Snorri's account of Hel and his moral sorting of the dead may partly reflect Christian teaching about the afterlife."
+      },
+      "refs": [
+        "g-c34-2",
+        "g-c49-20",
+        "g-c3-6",
+        "vsp-s38",
+        "vsp-s39",
+        "g-c52-2",
+        "g-c34-1"
+      ],
+      "entities": [
+        "hel",
+        "baldur",
+        "niflhel",
+        "nastrond",
+        "nidhoggr",
+        "loki",
+        "niflheim"
+      ],
+      "outside": [],
+      "web": [
+        {
+          "title": "Hel (location) (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Hel_(location)"
+        }
+      ]
+    },
+    "worthy-hammer": {
+      "claim": {
+        "en": "Only someone \"worthy\" can lift Þórr's hammer."
+      },
+      "sources": {
+        "en": "No Eddic text sets a worthiness test. The giant Þrymr steals Mjǫllnir and hides it eight leagues under the earth, then has it carried in and laid in his \"bride's\" lap: giants handle it freely. What Þórr himself needs is gear: iron gloves to grip the shaft and a belt that doubles his strength. The dwarf Brokkr promises only that it will never fail, never miss, and always return to his hand."
+      },
+      "origin": {
+        "en": "The inscription \"Whosoever holds this hammer, if he be worthy, shall possess the power of Thor\" is Marvel's, from the Thor comics created by Stan Lee, Larry Lieber and Jack Kirby, which began with Journey into Mystery #83 (1962)."
+      },
+      "refs": [
+        "thrk-s8",
+        "thrk-s30",
+        "g-c21-4",
+        "s-c43-4"
+      ],
+      "entities": [
+        "mjolnir",
+        "thor",
+        "thrymr",
+        "brokkr"
+      ],
+      "outside": [
+        "modern-pop"
+      ],
+      "web": [
+        {
+          "title": "Who has wielded Thor's hammer? (Marvel.com)",
+          "url": "https://www.marvel.com/articles/comics/every-character-who-has-wielded-thors-hammer-mjolnir"
+        }
+      ]
+    },
+    "long-hammer": {
+      "claim": {
+        "en": "Mjǫllnir is a big war hammer with a long handle."
+      },
+      "sources": {
+        "en": "Snorri says the opposite: the hammer's one flaw was that its handle was \"somewhat short\", and if Þórr wished it became so small that he could carry it inside his shirt. In Þrymskviða it is laid in the lap of the seated \"bride\"."
+      },
+      "origin": {
+        "en": "Long handles belong to modern illustration, comics, films and games. Saxo Grammaticus (c. 1200) calls Thor's weapon a club and has Høtherus cut off its handle in battle. The roughly 1,000 Viking-Age hammer pendants found in Scandinavia, England, northern Germany, the Baltic and Russia are small amulets, not weapons."
+      },
+      "refs": [
+        "s-c43-4",
+        "thrk-s30"
+      ],
+      "entities": [
+        "mjolnir",
+        "thor",
+        "brokkr",
+        "sindri"
+      ],
+      "outside": [
+        "saxo",
+        "modern-pop",
+        "romantic-art"
+      ],
+      "web": [
+        {
+          "title": "Mjölnir (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Mj%C3%B6lnir"
+        }
+      ]
+    },
+    "winged-valkyries": {
+      "claim": {
+        "en": "Valkyries are women with wings, or with winged helmets."
+      },
+      "sources": {
+        "en": "Mostly not, but not entirely. The Eddas show valkyries riding horses through air and sea: Sigrún \"rode air and sea\", valkyries ride \"high under helmets\", their mares shake dew and hail from their manes, and Snorri says they ride to choose the slain. The one feathered image is in Völundarkviða: three valkyries leave their swan-garments by a lake, the poem says the maids \"flew\" from the south, and later they fly off to battles. Freyja, not a valkyrie, owns a feather-cloak she lends to Loki."
+      },
+      "origin": {
+        "en": "Winged helmets were a stock prop in pictures of ancient Northerners long before horns took over (Roberta Frank, 2000). Carl Emil Doepler's costumes for the first Bayreuth Ring (1876) mixed winged and horned helmets, and Doepler also drew Óðinn in a winged helmet. Winged valkyries and winged helmets belong to this 19th-century tradition of painting and opera, not to the Viking Age."
+      },
+      "refs": [
+        "hh2-p3",
+        "hh1-s15",
+        "hhv-s28",
+        "g-c36-3",
+        "vkv-p1",
+        "thrk-s3",
+        "vkv-s1"
+      ],
+      "entities": [
+        "sigrun",
+        "hervor-alvitr",
+        "svanhvit",
+        "olrun",
+        "freyja",
+        "loki",
+        "skuld"
+      ],
+      "outside": [
+        "romantic-art",
+        "wagner"
+      ],
+      "web": [
+        {
+          "title": "Valkyrie (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Valkyrie"
+        },
+        {
+          "title": "The Debunked Helmet (Scandinavian Archaeology)",
+          "url": "https://www.scandinavianarchaeology.com/?p=896"
+        },
+        {
+          "title": "The Ring at Bayreuth: stagecraft and the image of the Germanic past (Deutsches Historisches Museum, in German)",
+          "url": "https://www.dhm.de/archiv/ausstellungen/walhall/nib1.htm"
+        }
+      ]
+    },
+    "red-bearded-thor": {
+      "claim": {
+        "en": "Þórr has a red beard."
+      },
+      "sources": {
+        "en": "Þórr has a beard: in Þrymskviða he wakes, misses his hammer and \"shook his beard\". But no row in either Edda gives its colour. The nearest fiery detail is in the same poem, where the disguised Þórr's eyes seem to burn with fire under the bridal veil."
+      },
+      "origin": {
+        "en": "The red beard comes from later Icelandic sagas, including the Flateyjarbók Óláfs saga Tryggvasonar (c. 1390), Eiríks saga rauða and Flóamanna saga, as gathered by Hilda Ellis Davidson. It is old, but not Eddic."
+      },
+      "refs": [
+        "thrk-s1",
+        "thrk-s27"
+      ],
+      "entities": [
+        "thor"
+      ],
+      "outside": [
+        "romantic-art"
+      ],
+      "web": [
+        {
+          "title": "Thor (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Thor"
+        }
+      ]
+    },
+    "brisingamen-dwarves": {
+      "claim": {
+        "en": "Freyja got the necklace Brísingamen by sleeping with the four dwarves who made it."
+      },
+      "sources": {
+        "en": "The Eddas never say who made it. They say Freyja owned Brísingamen, that it burst when she raged at being asked to go to the giants as Þrymr's bride in Þrymskviða, and was then hung on the disguised Þórr, and that Loki stole it and Heimdallr fought him for it, in seal shape, as told in the skaldic poem Húsdrápa. In Lokasenna Loki accuses Freyja of sleeping with all the gods and elves at the feast, but dwarves are not mentioned."
+      },
+      "origin": {
+        "en": "The four dwarves (Álfrigg, Dvalinn, Berlingr and Grérr) come from Sörla þáttr, preserved in Flateyjarbók, which two priests wrote about 1390. There Óðinn is a king in Asia and Freyja his concubine, Loki steals the necklace for Óðinn by turning into a flea, and the tale ends with a Christian king's man breaking a curse."
+      },
+      "refs": [
+        "g-c35-7",
+        "thrk-s13",
+        "thrk-s19",
+        "s-c15-1",
+        "s-c23-1",
+        "ls-s30",
+        "thrk-s12"
+      ],
+      "entities": [
+        "brisingamen",
+        "freyja",
+        "loki",
+        "heimdall",
+        "husdrapa",
+        "thor"
+      ],
+      "outside": [
+        "sorla-thattr",
+        "skaldic-poetry"
+      ],
+      "web": [
+        {
+          "title": "Sörla þáttr (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/S%C3%B6rla_%C3%BE%C3%A1ttr"
+        },
+        {
+          "title": "Brísingamen (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Br%C3%ADsingamen"
+        }
+      ]
+    },
+    "valknut-vegvisir": {
+      "claim": {
+        "en": "The valknut and the vegvísir ('Viking compass') are ancient Norse symbols named and explained in the Eddas."
+      },
+      "sources": {
+        "en": "The Eddas speak of runes and carved staves of power, which Óðinn won by hanging on the tree, but they never name or draw a valknut or a vegvísir. The nearest thing is Snorri's remark that the giant Hrungnir's stone heart had three corners, like a carved sign still called \"Hrungnir's heart\"; some compare it to the valknut, but that cannot be proved. The Eddic ægishjálmr is a terrifying helmet worn by Fáfnir, not a drawn symbol."
+      },
+      "origin": {
+        "en": "Interlaced triangles do appear in Viking-Age art (Gotland picture stones such as Stora Hammars I and Tängelgårda, the Oseberg ship), but 'valknut' is a modern name and the old one is unknown. The vegvísir is first found in the Icelandic Huld manuscript compiled by Geir Vigfússon in 1860, with no known link to the Viking Age."
+      },
+      "refs": [
+        "hav-s139",
+        "hav-s142",
+        "s-c24-8",
+        "s-c47-2",
+        "fm-p7"
+      ],
+      "entities": [
+        "odin",
+        "hrungnir",
+        "fafnir"
+      ],
+      "outside": [
+        "picture-stones",
+        "modern-paganism",
+        "modern-pop"
+      ],
+      "web": [
+        {
+          "title": "Valknut (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Valknut"
+        },
+        {
+          "title": "Vegvísir (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Vegv%C3%ADsir"
+        }
+      ]
+    },
+    "ragnarok-the-end": {
+      "claim": {
+        "en": "Ragnarök is the end of everything: Norse myth closes in total destruction."
+      },
+      "sources": {
+        "en": "Ragnarök kills most of the gods and Surtr burns the world, but both Eddas go on. The earth rises from the sea a second time, green, fields grow unsown and Baldr and Höðr come back from Hel. Víðarr, Váli, Móði and Magni survive and keep Mjǫllnir. Two humans, Líf and Leifþrasir, hide in Hoddmímir's wood and repeople the world, and a gold-roofed hall at Gimlé awaits the good."
+      },
+      "origin": {
+        "en": "The English 'Twilight of the Gods' comes from the spelling ragnarøkkr ('gods' twilight'), used by Snorri and in Lokasenna, and was spread by Wagner's Götterdämmerung (1876); the older form ragna rök means 'fate of the gods'. Some scholars see Christian influence in parts of Völuspá's renewal, but the renewal is in both Eddas."
+      },
+      "refs": [
+        "g-c51-5",
+        "vsp-s59",
+        "g-c53-2",
+        "vsp-s62",
+        "vm-s51",
+        "g-c53-4",
+        "g-c53-5",
+        "vsp-s64",
+        "g-c51-1",
+        "ls-s39",
+        "vsp-s44"
+      ],
+      "entities": [
+        "surtr",
+        "baldur",
+        "hodr",
+        "vidarr",
+        "vali",
+        "magni",
+        "modi",
+        "mjolnir",
+        "leifthrasir",
+        "hoddmimis-holt",
+        "gimle"
+      ],
+      "outside": [
+        "wagner",
+        "picture-stones"
+      ],
+      "web": [
+        {
+          "title": "Ragnarök (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Ragnar%C3%B6k"
+        }
+      ]
+    },
+    "pagan-scripture": {
+      "claim": {
+        "en": "The Eddas are the holy scripture of the Viking religion, a pagan Bible."
+      },
+      "sources": {
+        "en": "Snorri's Edda opens with the Christian God creating heaven and earth, and Adam and Eve. Skáldskaparmál says plainly that the book is for young poets who want to learn the old kennings, and adds that Christian men must not believe in the heathen gods. Gylfaginning ends with the hall vanishing and Gangleri retelling the tales as stories. The poems do keep heathen lore, such as the seeress's vision of the world in Völuspá and Óðinn's own account of winning the runes in Hávamál, but they are poems, not a canon of law or worship."
+      },
+      "origin": {
+        "en": "Snorri wrote his Edda in Christian Iceland around 1220 as a handbook of poetry; the Codex Regius of the poems was copied in the 1270s. The poems are older, but nothing shows they were ever used as a sacred book. Even Iceland's modern Ásatrú association, which recites Eddic verse at its ceremonies, has no fixed dogma."
+      },
+      "refs": [
+        "p-c1-1",
+        "s-c8-1",
+        "g-c54-1",
+        "vsp-s2",
+        "hav-s138"
+      ],
+      "entities": [],
+      "outside": [
+        "prologue-euhemerism",
+        "modern-paganism",
+        "skaldic-poetry"
+      ],
+      "web": [
+        {
+          "title": "Prose Edda (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Prose_Edda"
+        },
+        {
+          "title": "Codex Regius (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Codex_Regius"
+        }
+      ]
+    },
+    "wagner-ring": {
+      "claim": {
+        "en": "Wagner's Ring of the Nibelung retells the Norse myths faithfully."
+      },
+      "sources": {
+        "en": "Some pieces are Eddic: the dwarf Andvari curses the ring that is taken from him, Óðinn punishes the valkyrie Sigrdrífa with a sleep-thorn for felling the king he had promised victory, and the Niflungs' gold ends in the Rhine. But in the Eddas Brynhildr is the daughter of Buðli and sister of Atli, not Óðinn's daughter; Sigurðr is killed by Gotthormr, egged on by his brothers Gunnarr and Högni (Wagner's Hagen), not by Hagen himself; and the gold is the dwarf Andvari's, seized by Loki to pay for killing Otr, not stolen from Rhine maidens."
+      },
+      "origin": {
+        "en": "Wagner wrote the Ring between 1848 and 1874; the first full cycle was staged at Bayreuth on 13–17 August 1876. He blended the Eddas, Völsunga saga, Þiðreks saga and the German Nibelungenlied, used German names (Wotan, Fricka, Brünnhilde, Siegfried) and invented much, such as Alberich forging the ring from Rhine gold."
+      },
+      "refs": [
+        "rm-p2",
+        "rm-s5",
+        "s-c46-3",
+        "sd-p4",
+        "akv-s27",
+        "s-c48-3",
+        "s-c49-5",
+        "sd-p3"
+      ],
+      "entities": [
+        "andvari",
+        "andvaranaut",
+        "sigrdrifa",
+        "brynhild",
+        "sigurdr",
+        "guthormr",
+        "budli",
+        "odin",
+        "loki",
+        "otr",
+        "rhine",
+        "etzel",
+        "hogni",
+        "gunnar"
+      ],
+      "outside": [
+        "wagner",
+        "volsunga-saga"
+      ],
+      "web": [
+        {
+          "title": "Der Ring des Nibelungen (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen"
+        }
+      ]
+    },
+    "odin-wotan-wanderer-only": {
+      "claim": {
+        "en": "Óðinn is basically a wise old wanderer in a grey cloak and wide hat, like Wagner's Wanderer or Tolkien's Gandalf."
+      },
+      "sources": {
+        "en": "Partly true: the wandering Óðinn is Eddic. He visits King Geirrøðr in a blue cloak as Grímnir, comes to the giant Vafþrúðnir as the traveller Gagnráðr, and his names include Síðhöttr (long hood) and Síðskeggr (long beard). But he is much more: ruler of all things, father of the slain who fills Valhǫll, a god who hanged himself on the tree to win the runes and pledged an eye at Mímir's well. Loki accuses him of sorcery and of giving victory to the unworthy, and at Ragnarök the wolf swallows him."
+      },
+      "origin": {
+        "en": "Wagner made the disguised god 'the Wanderer' in Siegfried, and Arthur Rackham's illustrations of the Ring (1910–11) helped fix the cloaked, hatted figure. Tolkien called Gandalf an 'Odinic wanderer' in a 1946 letter and took the name Gandálfr from the dwarf list in Völuspá."
+      },
+      "refs": [
+        "grm-p1",
+        "vm-s8",
+        "grm-s48",
+        "g-c20-8",
+        "g-c20-4",
+        "g-c20-6",
+        "hav-s138",
+        "vsp-s28",
+        "ls-s22",
+        "ls-s24",
+        "g-c51-5",
+        "vsp-s12"
+      ],
+      "entities": [
+        "odin",
+        "king-geirrod",
+        "vafthrudnir",
+        "mimir",
+        "valhalla",
+        "fenrir",
+        "loki",
+        "gandalfr"
+      ],
+      "outside": [
+        "wagner",
+        "romantic-art",
+        "modern-pop"
+      ],
+      "web": [
+        {
+          "title": "Gandalf (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Gandalf"
+        },
+        {
+          "title": "Rackham, Mime and the Wanderer (MyNDIR, University of Victoria)",
+          "url": "https://myndir.uvic.ca/RngNbLng-V02-024-Plt.html"
+        }
+      ]
+    },
+    "freyja-frigg-same": {
+      "claim": {
+        "en": "Freyja and Frigg are the same goddess under two names."
+      },
+      "sources": {
+        "en": "In both Eddas they are two different goddesses. Snorri names Frigg first among the goddesses, at home in Fensalir and wife of Óðinn; Freyja is the daughter of Njǫrðr, married to Óðr, and weeps red-gold tears for him; Snorri even ranks the two side by side as the noblest goddesses. In Lokasenna Loki insults each of them in turn."
+      },
+      "origin": {
+        "en": "The equation is a serious scholarly hypothesis, not a simple mistake. Frigg is known across the early Germanic world, Freyja only in Scandinavia; both are linked with love and the household, and Freyja's lost husband Óðr has a name close to Óðinn's. Some scholars see two aspects of one goddess, while most linguists reject a shared origin for the names."
+      },
+      "refs": [
+        "g-c35-2",
+        "g-c20-4",
+        "g-c24-1",
+        "g-c35-7",
+        "ls-s26",
+        "ls-s30"
+      ],
+      "entities": [
+        "freyja",
+        "frigg",
+        "odr",
+        "odin",
+        "njordr",
+        "fensalir"
+      ],
+      "outside": [],
+      "web": [
+        {
+          "title": "Frigg and Freyja common origin hypothesis (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Frigg_and_Freyja_common_origin_hypothesis"
+        },
+        {
+          "title": "Freyja (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Freyja"
+        }
+      ]
+    },
+    "thor-dim": {
+      "claim": {
+        "en": "Þórr is a dim-witted strongman, all muscle and no brain."
+      },
+      "sources": {
+        "en": "Partly true in tone: the Eddas enjoy his temper and his defeats in wit. Útgarða-Loki fools him with illusions, the ferryman Hárbarðr (a name of Óðinn) out-talks him and sends him the long way home, and in Þrymskviða it is Heimdallr who thinks of disguising him as a bride. But Þórr also wins by wit: in Alvíssmál he keeps the all-knowing dwarf answering questions until the sun rises and catches him. Útgarða-Loki admits Þórr's strength nearly ruined him, and Snorri calls him the strongest of gods and men."
+      },
+      "origin": {
+        "en": "The comic episodes are medieval; scholars read Hárbarðsljóð as a deliberately stylized flyting rather than a portrait of a fool. Modern retellings and films often play these episodes for laughs, which spreads the 'dim Thor'."
+      },
+      "refs": [
+        "g-c47-4",
+        "hrbl-s56",
+        "thrk-s15",
+        "alv-s35",
+        "g-c21-2",
+        "g-c20-8"
+      ],
+      "entities": [
+        "thor",
+        "utgarda-loki",
+        "odin",
+        "heimdall",
+        "alviss",
+        "thrymr"
+      ],
+      "outside": [
+        "modern-pop"
+      ],
+      "web": [
+        {
+          "title": "Hárbarðsljóð (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/H%C3%A1rbar%C3%B0slj%C3%B3%C3%B0"
+        }
+      ]
+    }
   }
- ]
 }

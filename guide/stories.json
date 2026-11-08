@@ -1,104 +1,3601 @@
 {
- "_note": "Mímir (task 34, edda-site docs/specs/MIMIR.md). PILOT SAMPLE by Claude Code, 2026-11-08: a few entries to build the pages against, until the cloud session's content arrives (it replaces this file). AI draft, not reviewed; CC BY 4.0.",
- "stories": [
-  {
-   "id": "making-of-the-world",
-   "title": {
-    "en": "The making of the world"
-   },
-   "age": "making",
-   "lane": "gods",
-   "order": 1,
-   "order_basis": {
-    "en": "Gylfaginning 7-9 tells it in this order."
-   },
-   "hook": {
-    "en": "The sons of Borr kill the first giant and build the world from his body."
-   },
-   "steps": [
-    {
-     "text": {
-      "en": "Óðinn and his brothers, the sons of Borr, kill the giant Ymir; his blood drowns the frost giants, all but Bergelmir."
-     },
-     "refs": [
-      "g-c7-2"
-     ]
+  "_note": "Mímir (task 34) content, drafted by an AI model (Claude) from the aligned texts of Open Edda; every fact cites row ids. status draft = not reviewed. CC BY 4.0. Generated 2026-11-08.",
+  "stories": {
+    "ymir-and-the-making": {
+      "title": {
+        "en": "Ymir and the making of the world"
+      },
+      "age": "1",
+      "order_basis": {
+        "en": "Völuspá (stanza 3) and Snorri (Gylfaginning ch. 4-5) both start the history of the world here, when nothing yet existed."
+      },
+      "hook": {
+        "en": "The world was made from the body of the first giant, by three brothers whose mother was a giant's daughter."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "In the beginning there was no sand, sea, earth or sky, and no grass. There was only Ginnungagap, a vast empty gap."
+          },
+          "refs": [
+            "g-c4-3",
+            "vsp-s3"
+          ]
+        },
+        {
+          "text": {
+            "en": "Long before the earth, the cold Niflheimr was made, with the spring Hvergelmir at its centre and many rivers flowing from it. Even earlier, in the south, there was Múspell, hot and bright. Surtr sits at its border with a flaming sword."
+          },
+          "refs": [
+            "g-c4-4",
+            "g-c4-5"
+          ]
+        },
+        {
+          "text": {
+            "en": "The rivers called Élivágar flowed so far that their poisonous foam hardened into ice, and rime piled up layer on layer in the northern part of the gap. The southern part was lit by sparks flying out of Múspell."
+          },
+          "refs": [
+            "g-c5-2",
+            "g-c5-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "In the middle the air was mild. Where the rime met the warm breath from the south, it melted and dripped, and from the drops a being in the shape of a man came to life. This was Ymir; the frost-giants call him Aurgelmir."
+          },
+          "refs": [
+            "g-c5-4",
+            "vm-s31"
+          ]
+        },
+        {
+          "text": {
+            "en": "Ymir sweated in his sleep. A man and a woman grew under his left arm, and one of his feet fathered a son with the other. From them come the frost-giants. Snorri's narrator says plainly that Ymir was evil and was no god."
+          },
+          "refs": [
+            "g-c5-9",
+            "vm-s33"
+          ]
+        },
+        {
+          "text": {
+            "en": "A cow, Auðhumla, also came from the dripping rime, and four rivers of milk from her fed Ymir. She licked the salty ice. On the first evening a man's hair appeared, on the second his head, on the third the whole man: Búri."
+          },
+          "refs": [
+            "g-c6-2",
+            "g-c6-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Búri had a son, Borr, who married Bestla, daughter of the giant Bölþorn. Their sons were Óðinn, Vili and Vé. So the first gods had giants among their ancestors."
+          },
+          "refs": [
+            "g-c6-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "The sons of Borr killed Ymir. So much blood flowed from his wounds that all the frost-giants drowned except Bergelmir, who escaped with his wife on his lúðr (the translation says 'ship'). All later giants descend from them."
+          },
+          "refs": [
+            "g-c7-2",
+            "g-c7-3",
+            "vm-s35"
+          ]
+        },
+        {
+          "text": {
+            "en": "The brothers carried Ymir into the middle of Ginnungagap and made the world from him: earth from his flesh, sea from his blood, mountains from his bones, stones from his teeth, trees from his hair. His skull became the sky, held up at the four corners by four dwarfs, Austri, Vestri, Norðri and Suðri."
+          },
+          "refs": [
+            "g-c8-2",
+            "g-c8-3",
+            "g-c8-4",
+            "grm-s40",
+            "vm-s21"
+          ]
+        },
+        {
+          "text": {
+            "en": "They set sparks from Múspell in the sky to light heaven and earth and gave them fixed paths, so days and years could be counted. They gave the giants the land along the outer sea, built a wall around the inner land from Ymir's eyebrows against the giants, and called it Miðgarðr. His brain became the clouds."
+          },
+          "refs": [
+            "g-c8-4",
+            "g-c8-8",
+            "grm-s41"
+          ]
+        }
+      ],
+      "participants": [
+        "ymir",
+        "ginnungagap",
+        "niflheim",
+        "hvergelmir",
+        "muspelheim",
+        "surtr",
+        "elivagar",
+        "audumbla",
+        "borr",
+        "bestla",
+        "bolthorn",
+        "odin",
+        "ve",
+        "bergelmir",
+        "austri",
+        "vestri",
+        "nordri",
+        "sudri",
+        "midgard"
+      ],
+      "before": [],
+      "after": [
+        "the-first-humans"
+      ],
+      "best": [
+        {
+          "row": "g-c5-4",
+          "why": {
+            "en": "Life begins where ice meets fire: the birth of Ymir."
+          }
+        },
+        {
+          "row": "g-c6-4",
+          "why": {
+            "en": "The cow licks a man out of the ice: Óðinn's grandfather."
+          }
+        },
+        {
+          "row": "g-c8-2",
+          "why": {
+            "en": "The world built from a dead giant's body."
+          }
+        },
+        {
+          "row": "grm-s40",
+          "why": {
+            "en": "The same making, told in six lines of verse."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Völuspá does not tell of Ymir's killing. It says only that the sons of Burr (Borr) 'lifted the level land' and made Miðgarðr, and that sun, moon and stars did not know their places until the gods met in council and named night, morning, midday and evening. Snorri instead has the gods place the sparks themselves (vsp-s4-6, g-c8-4). Vafþrúðnismál adds that the son born of Ymir's feet had six heads, and that Bergelmir was the son of Þrúðgelmir and grandson of Aurgelmir (vm-s29, vm-s33). The English in this edition's vsp-s3 says 'when Ymir lived', but the Old Norse text used here says 'when nothing was'."
+      },
+      "order": 1,
+      "lane": "gods"
     },
-    {
-     "text": {
-      "en": "From his body they make the world: the earth from his flesh, the sea from his blood, the sky from his skull."
-     },
-     "refs": [
-      "g-c8-2",
-      "g-c8-4"
-     ]
+    "the-first-humans": {
+      "title": {
+        "en": "The first humans"
+      },
+      "age": "2",
+      "order_basis": {
+        "en": "Both Snorri and Völuspá tell it after the earth and sky are made."
+      },
+      "hook": {
+        "en": "Two trees on a seashore, three gods passing by: that is how people began."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "The gods had made the earth from the body of the giant Ymir. Around the inner land they raised a wall made from Ymir's eyebrows, to keep out the giants, and called that land Miðgarðr. The verse Snorri quotes says it was made for 'sons of men' before any men existed."
+          },
+          "refs": [
+            "g-c8-8",
+            "g-c8-9"
+          ]
+        },
+        {
+          "text": {
+            "en": "In Völuspá the dwarfs come first. The gods sat in council on who should shape the dwarfs from Brimir's blood and Bláinn's limbs. Mótsognir became the greatest of the dwarfs, and Durinn the second; and the dwarfs made many figures in the likeness of men, in the earth."
+          },
+          "refs": [
+            "vsp-s9",
+            "vsp-s10"
+          ]
+        },
+        {
+          "text": {
+            "en": "Snorri's account: the three sons of Borr were walking along the seashore when they found two trees (or two logs). They picked them up and made people out of them."
+          },
+          "refs": [
+            "g-c9-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Each brother gave a gift. The first gave breath and life, the second wit and movement, the third a face, speech, hearing and sight. They also gave the two clothes and names: the man was Askr and the woman Embla."
+          },
+          "refs": [
+            "g-c9-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "All humankind comes from these two, and they were given Miðgarðr to live in. Only then did the gods build their own stronghold in the middle of the world, Ásgarðr."
+          },
+          "refs": [
+            "g-c9-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Völuspá tells it differently. Three Æsir, strong and kind, came from the gods' company and found Askr and Embla on the land, with little strength and 'without fate' (örlöglausa)."
+          },
+          "refs": [
+            "vsp-s17"
+          ]
+        },
+        {
+          "text": {
+            "en": "The two had no breath, no mind, no warmth and no healthy colour. Óðinn gave them breath, Hœnir gave them mind, and Lóðurr gave them warmth and good colour."
+          },
+          "refs": [
+            "vsp-s18"
+          ]
+        },
+        {
+          "text": {
+            "en": "Völuspá then turns straight to the ash tree Yggdrasill and the three maidens who come from the well beneath it, Urðr, Verðandi and Skuld. They lay down laws and choose the lives and fates of the children of men."
+          },
+          "refs": [
+            "vsp-s19",
+            "vsp-s20"
+          ]
+        }
+      ],
+      "participants": [
+        "borr",
+        "odin",
+        "h-nir",
+        "lodurr",
+        "embla",
+        "midgard",
+        "ymir",
+        "asgard",
+        "brimir",
+        "blain",
+        "durinn",
+        "yggdrasil",
+        "urdarbrunnr",
+        "verdandi",
+        "skuld"
+      ],
+      "before": [
+        "ymir-and-the-making"
+      ],
+      "after": [
+        "the-first-war"
+      ],
+      "best": [
+        {
+          "row": "g-c9-2",
+          "why": {
+            "en": "Snorri's whole account of the first man and woman in one passage."
+          }
+        },
+        {
+          "row": "vsp-s17",
+          "why": {
+            "en": "The first humans found 'without fate': people before destiny."
+          }
+        },
+        {
+          "row": "vsp-s18",
+          "why": {
+            "en": "Each god's gift named in eight short lines."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Snorri says the makers were the three sons of Borr, whom he names elsewhere as Óðinn, Vili and Vé (g-c6-4), and he does not say which son gave which gift. Völuspá names Óðinn, Hœnir and Lóðurr and pairs each with a gift; its gifts (breath, mind, warmth and colour) are not quite Snorri's (life, wit and movement, face and senses). Völuspá does not say Askr and Embla were trees, although 'askr' means ash tree; only Snorri says the gods made them from two trees on the shore."
+      },
+      "order": 2,
+      "lane": "gods"
     },
-    {
-     "text": {
-      "en": "From two trees on the shore they make the first humans, Askr and Embla."
-     },
-     "refs": [
-      "g-c9-2"
-     ]
+    "the-first-war": {
+      "title": {
+        "en": "The first war: Æsir and Vanir"
+      },
+      "age": "4",
+      "order_basis": {
+        "en": "Völuspá calls it the first war in the world and tells it before Baldr's death."
+      },
+      "hook": {
+        "en": "Völuspá ties the gods' first war to a woman who would not stay dead; Snorri's peace ends with a man made of spit."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "The seeress of Völuspá remembers the first war in the world. She ties it to the time when the gods stabbed Gullveig with spears and burned her in the hall of Hárr (Óðinn). They burned her three times, and three times she was born again; she still lives."
+          },
+          "refs": [
+            "vsp-s21"
+          ]
+        },
+        {
+          "text": {
+            "en": "The next stanza speaks of a woman called Heiðr, a seeress who went from house to house working seiðr, a kind of magic, and was the delight of wicked women. The poem does not say outright that she is Gullveig, but it sets the two side by side."
+          },
+          "refs": [
+            "vsp-s22"
+          ]
+        },
+        {
+          "text": {
+            "en": "The gods met in council over whether the Æsir should pay tribute, or whether all the gods should share in the offerings."
+          },
+          "refs": [
+            "vsp-s23"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then Óðinn threw his spear over the enemy host: this, the poem repeats, was the first war in the world. The wall of the Æsir's stronghold was broken, and the Vanir, with their war-magic, trod the plain. The poem says no more about how the war ended."
+          },
+          "refs": [
+            "vsp-s24"
+          ]
+        },
+        {
+          "text": {
+            "en": "Snorri tells only the ending. The gods had a quarrel with the people called the Vanir; they arranged a peace meeting and made a truce. As its sign, both sides went to one vat and spat into it."
+          },
+          "refs": [
+            "s-c5-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "The two sides exchanged hostages. The Vanir gave Njörðr, who had been raised in Vanaheimr, and took in return Hœnir. Njörðr became the bond of peace between the gods and the Vanir. In Vafþrúðnismál, the giant adds that Njörðr will go home to the wise Vanir at the end of the age."
+          },
+          "refs": [
+            "g-c23-1",
+            "vm-s39"
+          ]
+        },
+        {
+          "text": {
+            "en": "In Lokasenna Njörðr himself remembers being sent far away as a hostage to the gods. His comfort, he says, is the son he fathered, whom no one hates; Týr then praises Freyr as the best of the gods."
+          },
+          "refs": [
+            "ls-s35",
+            "ls-s37"
+          ]
+        },
+        {
+          "text": {
+            "en": "The gods would not let the peace-token go to waste. From the spittle in the vat they made a man, Kvasir, so wise that no one could ask him a question he could not answer. His death begins the story of the mead of poetry."
+          },
+          "refs": [
+            "s-c5-2",
+            "s-c5-3"
+          ]
+        }
+      ],
+      "participants": [
+        "gullveig",
+        "odin",
+        "vanir",
+        "vanaheimr",
+        "njordr",
+        "h-nir",
+        "freyr",
+        "kvasir",
+        "asgard"
+      ],
+      "before": [
+        "the-first-humans"
+      ],
+      "after": [
+        "the-wall-builder"
+      ],
+      "best": [
+        {
+          "row": "vsp-s21",
+          "why": {
+            "en": "Gullveig burned three times and born three times."
+          }
+        },
+        {
+          "row": "vsp-s24",
+          "why": {
+            "en": "Óðinn's spear-throw and the broken wall: the whole war in eight lines."
+          }
+        },
+        {
+          "row": "s-c5-2",
+          "why": {
+            "en": "The truce sealed by spitting into one vat, and Kvasir made from it."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Völuspá tells the war but not the peace; Snorri tells the peace and the hostages but not the war, which he never describes. Neither says who won; Völuspá only says the Æsir's wall was broken. Völuspá does not explain who Gullveig was or why the gods attacked her. A longer account with more hostages is found outside the Eddas, in Snorri's Ynglinga saga."
+      },
+      "order": 3,
+      "lane": "gods"
+    },
+    "the-wall-builder": {
+      "title": {
+        "en": "The giant who built the wall"
+      },
+      "age": "5",
+      "order_basis": {
+        "en": "Snorri sets it early in the gods' settlement, after Miðgarðr and Valhöll were made; the Völuspá stanzas he quotes follow right after the first war."
+      },
+      "hook": {
+        "en": "A builder offered the gods a wall in exchange for Freyja, the sun and the moon. The gods said yes, and then cheated."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Early in the gods' time, after they had made Miðgarðr and Valhöll, a builder came and offered to build them a stronghold in three seasons, strong enough to keep out the hill-giants and frost-giants. As his price he wanted Freyja, and the sun and the moon."
+          },
+          "refs": [
+            "g-c42-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "The Æsir agreed, but set stricter terms: he had to finish in one winter, with no man's help, or get nothing. He asked to use his stallion, Svaðilfari, and Loki advised them to allow it."
+          },
+          "refs": [
+            "g-c42-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "The deal was sealed with witnesses and many oaths, because the giant did not feel safe among the Æsir if Þórr came home; Þórr was away in the east fighting trolls. The stallion hauled huge rocks by night and did twice the builder's work."
+          },
+          "refs": [
+            "g-c42-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Three days before summer the wall had almost reached the gate. The gods met in judgment and asked who had advised giving away Freyja and the sun and moon. All agreed it was Loki, and they threatened him with a cruel death. Frightened, Loki swore to make the builder lose his pay."
+          },
+          "refs": [
+            "g-c42-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "That evening, as the builder drove out for stone, a mare ran out of a wood and whinnied at Svaðilfari. The stallion broke his harness and chased her all night, and the builder chased him. The next day the work fell behind."
+          },
+          "refs": [
+            "g-c42-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Seeing that he could not finish, the builder flew into a giant's rage. Now the Æsir knew he was a hill-giant, and they ignored their oaths. They called Þórr, who paid the wage with his hammer Mjöllnir and smashed the giant's skull."
+          },
+          "refs": [
+            "g-c42-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Loki had been with Svaðilfari, and some time later he gave birth to a grey foal with eight legs. This is Sleipnir, the best horse among gods and men."
+          },
+          "refs": [
+            "g-c42-5"
+          ]
+        },
+        {
+          "text": {
+            "en": "Snorri ends with two stanzas of Völuspá: the gods in council over who had poisoned the air and given 'Óðr's maid' to the giants; oaths and pledges broken; Þórr alone striking, swollen with anger."
+          },
+          "refs": [
+            "g-c42-6",
+            "g-c42-7",
+            "vsp-s25",
+            "vsp-s26"
+          ]
+        }
+      ],
+      "participants": [
+        "loki",
+        "thor",
+        "freyja",
+        "svadilfari",
+        "sleipnir",
+        "mjolnir",
+        "sol",
+        "mani",
+        "midgard",
+        "valhalla"
+      ],
+      "best": [
+        {
+          "row": "g-c42-3",
+          "why": {
+            "en": "The gods turn on Loki and force him to fix his own advice."
+          }
+        },
+        {
+          "row": "g-c42-5",
+          "why": {
+            "en": "The birth of Sleipnir, in one short sentence."
+          }
+        },
+        {
+          "row": "vsp-s26",
+          "why": {
+            "en": "Völuspá's bare version: broken oaths, and Þórr alone."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Völuspá has no builder and no horse. It has only the gods' council over who had given 'Óðr's maid' to the giants, Þórr striking in anger, and oaths broken, and it places these straight after the war with the Vanir (vsp-s24-26). It is Snorri who links the stanzas to the builder and to Sleipnir's birth."
+      },
+      "order": 4,
+      "lane": "gods",
+      "before": [
+        "the-first-war"
+      ],
+      "after": [
+        "the-treasures"
+      ]
+    },
+    "the-treasures": {
+      "title": {
+        "en": "The gods' treasures"
+      },
+      "age": "5",
+      "order_basis": {
+        "en": "No source dates it. It is placed early because the treasures made here, above all Mjöllnir, are used in most later stories."
+      },
+      "hook": {
+        "en": "Loki cut off Sif's hair out of mischief, and the gods ended up with their greatest treasures."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Loki, out of pure mischief, cut off all of Sif's hair. When Þórr found out, he seized Loki and would have broken every bone in him, but Loki swore to get the black elves to make Sif new hair of gold that would grow like real hair."
+          },
+          "refs": [
+            "s-c43-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Loki went to the dwarfs called the sons of Ívaldi. They made the golden hair, and also the ship Skíðblaðnir and the spear Gungnir, which became Óðinn's. Grímnismál also remembers that Ívaldi's sons made Skíðblaðnir 'in days of old' for Freyr."
+          },
+          "refs": [
+            "s-c43-1",
+            "grm-s43"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then Loki bet his head with the dwarf Brokkr that Brokkr's brother Sindri could not make three treasures as good as these."
+          },
+          "refs": [
+            "s-c43-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "In the smithy Sindri laid a pigskin in the forge and told Brokkr to keep the bellows going until he came back. A fly settled on Brokkr's hand and stung him, but he kept blowing, and out came a boar with golden bristles. Next Sindri put in gold; the fly stung Brokkr's neck twice as hard, but out came the ring Draupnir."
+          },
+          "refs": [
+            "s-c43-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Last, Sindri put in iron and warned that it would be ruined if the blowing stopped. The fly settled between Brokkr's eyes and stung his eyelids until blood ran into them. He let go of the bellows for a moment to swat it. Sindri said the work had nearly been spoiled, and took out a hammer."
+          },
+          "refs": [
+            "s-c43-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "In Ásgarðr the gods sat in judgment, with Óðinn, Þórr and Freyr to decide. Loki gave Óðinn the spear Gungnir, which never stops in its thrust; Þórr the hair for Sif, which took root as soon as it touched her head; and Freyr the ship Skíðblaðnir, which always has a fair wind and can be folded like a cloth and carried in a pouch. Gylfaginning adds that all the Æsir can sail in it with their weapons."
+          },
+          "refs": [
+            "s-c43-3",
+            "g-c43-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Brokkr gave Óðinn the ring, from which eight equally heavy rings drip every ninth night; Freyr the boar, which runs over sky and sea faster than any horse and lights the darkest night with its bristles; and Þórr the hammer. It would never break, never miss, always come back to his hand, and could be made small enough to carry in his shirt. Its one flaw: the handle was rather short."
+          },
+          "refs": [
+            "s-c43-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "The gods judged the hammer the best of all, because it was the greatest defence against the frost-giants. The dwarf had won his bet."
+          },
+          "refs": [
+            "s-c43-5"
+          ]
+        },
+        {
+          "text": {
+            "en": "Loki offered to buy back his head; the dwarf refused. 'Take me, then,' said Loki, and was far away in his shoes that run over sky and sea. Þórr caught him. Loki argued the dwarf owned his head but not his neck. So Brokkr sewed Loki's lips together with a thong, using his brother's awl; Loki tore the thong out. The thong is called Vartari."
+          },
+          "refs": [
+            "s-c43-6",
+            "s-c43-7",
+            "s-c43-8"
+          ]
+        }
+      ],
+      "participants": [
+        "loki",
+        "sif",
+        "thor",
+        "svartalfaheimr",
+        "ivaldi",
+        "skidbladnir",
+        "gungnir",
+        "brokkr",
+        "sindri",
+        "gullinbursti",
+        "draupnir",
+        "mjolnir",
+        "odin",
+        "freyr",
+        "asgard"
+      ],
+      "before": [
+        "the-wall-builder"
+      ],
+      "after": [
+        "idunn-and-thjazi"
+      ],
+      "best": [
+        {
+          "row": "s-c43-2",
+          "why": {
+            "en": "The forging, and the fly that nearly ruins the hammer."
+          }
+        },
+        {
+          "row": "s-c43-4",
+          "why": {
+            "en": "What each treasure does, including the hammer's short handle."
+          }
+        },
+        {
+          "row": "s-c43-8",
+          "why": {
+            "en": "Head but not neck: Loki's lawyerly escape, and its price."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Only Snorri tells this story. The poems know just pieces of it: Grímnismál says Ívaldi's sons made Skíðblaðnir for Freyr (grm-s43). Snorri never says who the stinging fly was; the common belief that it was Loki is a reader's guess. He does not name the golden boar here, but elsewhere calls Freyr's boar Gullinbursti (s-c14-5)."
+      },
+      "order": 5,
+      "lane": "gods"
+    },
+    "idunn-and-thjazi": {
+      "title": {
+        "en": "Iðunn and the giant Þjazi"
+      },
+      "age": "5",
+      "order_basis": {
+        "en": "No source dates it; Snorri tells it first in Skáldskaparmál, and Skaði's marriage follows from it."
+      },
+      "hook": {
+        "en": "Without Iðunn's apples the gods grew old fast, and Loki had to bring her back."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Iðunn, the wife of Bragi, keeps apples in a box. When the gods grow old they bite into them and become young again, and so it will be until Ragnarök."
+          },
+          "refs": [
+            "g-c26-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Óðinn, Loki and Hœnir were travelling over mountains and wasteland, where food was scarce. In a valley they killed an ox and set it to cook in an earth oven, but twice when they opened it the meat was still raw."
+          },
+          "refs": [
+            "s-c2-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "A voice from the oak above said it was stopping the cooking. It was an eagle, and not a small one. If they gave it its fill of the ox, the meat would cook. They agreed, and the eagle swooped down and took both thighs and both shoulders."
+          },
+          "refs": [
+            "s-c2-2",
+            "s-c2-3",
+            "s-c2-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Loki angrily struck the eagle with a pole. The pole stuck to the bird, and Loki's hands stuck to the pole. The eagle flew off with him, so that his feet knocked against stones and trees, and would not let him go until Loki swore to bring Iðunn and her apples out of Ásgarðr."
+          },
+          "refs": [
+            "s-c2-5"
+          ]
+        },
+        {
+          "text": {
+            "en": "At the agreed time Loki lured Iðunn into a wood outside Ásgarðr, saying he had found apples she would value, and told her to bring her own to compare. The giant Þjazi came in eagle's shape, seized her, and flew home with her to Þrymheimr."
+          },
+          "refs": [
+            "s-c2-6"
+          ]
+        },
+        {
+          "text": {
+            "en": "Without Iðunn the Æsir quickly grew grey and old. At their assembly they worked out that she had last been seen leaving with Loki. They seized him and threatened him with death or torture, and in fear he promised to fetch her back if Freyja lent him her falcon shape."
+          },
+          "refs": [
+            "s-c3-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Loki flew north to Jötunheimar. Þjazi had rowed out to sea and Iðunn was alone. Loki turned her into a nut, took her in his claws and flew as fast as he could."
+          },
+          "refs": [
+            "s-c3-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Þjazi came home, missed her, and chased Loki in eagle shape. The Æsir piled wood shavings at the wall of Ásgarðr. The falcon dropped down inside the wall; the gods lit the shavings, and the eagle, unable to stop, flew into the fire and burned his feathers. The Æsir killed Þjazi inside their gates, 'and that slaying is exceeding famous'."
+          },
+          "refs": [
+            "s-c3-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Asked who Þjazi was, Bragi says his father Ölvaldi was rich in gold. When his sons, Þjazi, Iði and Gangr, divided it, each took the same number of mouthfuls. That is why poets call gold the giants' 'speech'."
+          },
+          "refs": [
+            "s-c4-3"
+          ]
+        }
+      ],
+      "participants": [
+        "idunn",
+        "bragi",
+        "odin",
+        "loki",
+        "h-nir",
+        "thjazi",
+        "freyja",
+        "asgard",
+        "jotunheim",
+        "thrymheimr"
+      ],
+      "before": [
+        "the-treasures"
+      ],
+      "after": [
+        "skadi-chooses"
+      ],
+      "best": [
+        {
+          "row": "s-c2-5",
+          "why": {
+            "en": "Loki stuck to the eagle's back and forced into a bargain."
+          }
+        },
+        {
+          "row": "s-c3-1",
+          "why": {
+            "en": "The gods grow old, and turn on Loki."
+          }
+        },
+        {
+          "row": "s-c3-2",
+          "why": {
+            "en": "The nut, the falcon, and the fire on Ásgarðr's wall."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Only Snorri tells the theft and rescue. In Hárbarðsljóð Þórr boasts that he himself killed Þjazi and threw his eyes into the sky (hrbl-s19); Snorri says the Æsir killed him together and Óðinn made the stars (s-c4-1). In Lokasenna Loki claims he was 'first and last' at the killing (ls-s50)."
+      },
+      "order": 6,
+      "lane": "gods"
+    },
+    "skadi-chooses": {
+      "title": {
+        "en": "Skaði chooses a husband by his feet"
+      },
+      "age": "5",
+      "order_basis": {
+        "en": "Snorri tells it as the direct sequel to Þjazi's death."
+      },
+      "hook": {
+        "en": "A giant's daughter came for revenge and left with a husband she had chosen by looking only at his feet."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Skaði, the daughter of the giant Þjazi, put on a helmet and mail, took up all her weapons and went to Ásgarðr to avenge her father."
+          },
+          "refs": [
+            "s-c3-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "The Æsir offered her a settlement. First, she could choose a husband from among them, but she must choose by the feet alone and see nothing else."
+          },
+          "refs": [
+            "s-c3-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "She saw one man's very beautiful feet and said: 'I choose this one: in Baldr little can be loathly.' But the feet belonged to Njörðr of Nóatún."
+          },
+          "refs": [
+            "s-c3-4",
+            "s-c3-5"
+          ]
+        },
+        {
+          "text": {
+            "en": "She had also demanded something she thought they could never do: make her laugh. Loki tied a cord to the beard of a goat and the other end to his own genitals. Each pulled in turn and both screamed loudly; then Loki dropped into Skaði's lap, and she laughed. The settlement was made."
+          },
+          "refs": [
+            "s-c3-6"
+          ]
+        },
+        {
+          "text": {
+            "en": "As further compensation, it is said, Óðinn took Þjazi's eyes, threw them up into the sky and made two stars of them."
+          },
+          "refs": [
+            "s-c4-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "The marriage did not go well. Skaði wanted to live where her father had lived, in the mountains at Þrymheimr; Njörðr wanted to be near the sea. They agreed to spend nine nights in Þrymheimr and then nine at Nóatún."
+          },
+          "refs": [
+            "g-c23-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Back at Nóatún, Njörðr said he hated the mountains: the howling of wolves was ugly after the song of swans. Skaði answered that she could not sleep by the sea for the shrieking of the gulls that woke her every morning."
+          },
+          "refs": [
+            "g-c23-2",
+            "g-c23-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "So Skaði went back up to the mountains and lived in Þrymheimr. She travels on skis with a bow and hunts animals, and is called the ski-goddess. A verse says she now lives in her father's old home, a 'pure bride of the gods'."
+          },
+          "refs": [
+            "g-c23-5",
+            "g-c23-6",
+            "grm-s11"
+          ]
+        },
+        {
+          "text": {
+            "en": "Skaði did not forget. In Lokasenna she tells Loki the gods will bind him with the guts of his own son. Loki boasts that he was first and last at the killing of Þjazi, and she answers that from her shrines and fields he will always get cold counsel."
+          },
+          "refs": [
+            "ls-s49",
+            "ls-s50",
+            "ls-s51"
+          ]
+        }
+      ],
+      "participants": [
+        "skadi",
+        "thjazi",
+        "njordr",
+        "baldur",
+        "loki",
+        "odin",
+        "asgard",
+        "noatun",
+        "thrymheimr"
+      ],
+      "before": [
+        "idunn-and-thjazi"
+      ],
+      "after": [
+        "mead-of-poetry"
+      ],
+      "best": [
+        {
+          "row": "s-c3-4",
+          "why": {
+            "en": "Skaði picks the feet she thinks are Baldr's."
+          }
+        },
+        {
+          "row": "g-c23-4",
+          "why": {
+            "en": "Skaði's complaint about the seabirds, in her own verse."
+          }
+        },
+        {
+          "row": "ls-s51",
+          "why": {
+            "en": "Years later, her threat to Loki."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "The choice by feet and the laughter appear only in Snorri's Skáldskaparmál; Gylfaginning tells only the unhappy marriage. In Hárbarðsljóð it is Þórr, not Óðinn, who claims to have thrown Þjazi's eyes into the sky (hrbl-s19). In Lokasenna Loki also claims to have slept with Skaði (ls-s52); that is his insult, not something any other source says."
+      },
+      "order": 7,
+      "lane": "gods"
+    },
+    "mead-of-poetry": {
+      "title": {
+        "en": "The mead of poetry"
+      },
+      "age": "5",
+      "order_basis": {
+        "en": "Snorri begins it with the peace after the war with the Vanir, so it is placed after the first war."
+      },
+      "hook": {
+        "en": "The gift of poetry was brewed from a murdered wise man's blood and stolen by Óðinn in an eagle's shape."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Kvasir, the wise man made from the gods' peace-token, travelled the world teaching. Two dwarfs, Fjalarr and Galarr, invited him home, took him aside and killed him. They let his blood run into two vats, Són and Boðn, and a kettle, Óðrerir, and mixed it with honey. The result was a mead that makes whoever drinks it a poet or a scholar. They told the Æsir that Kvasir had choked on his own wisdom."
+          },
+          "refs": [
+            "s-c5-2",
+            "s-c5-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "The same dwarfs drowned the giant Gillingr by overturning his boat. When his wife would not stop weeping, Galarr dropped a millstone on her head."
+          },
+          "refs": [
+            "s-c5-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Gillingr's son, the giant Suttungr, set the dwarfs on a rock that the tide covered. To save their lives they gave him the mead as payment for his father. Suttungr hid it inside the mountain Hnitbjörg, with his daughter Gunnlöð to guard it."
+          },
+          "refs": [
+            "s-c5-5"
+          ]
+        },
+        {
+          "text": {
+            "en": "Óðinn set out and met nine slaves mowing hay. He sharpened their scythes with his whetstone, and they all wanted to buy it. He threw it into the air; as they all grabbed for it, each cut another's throat with his scythe."
+          },
+          "refs": [
+            "s-c6-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "That night Óðinn lodged with Baugi, Suttungr's brother, who complained that his nine slaves had killed each other. Calling himself Bölverkr, a name meaning evil-doer, Óðinn offered to do the work of nine men for one drink of Suttungr's mead. Baugi said the mead was not his to give, but he would help him try."
+          },
+          "refs": [
+            "s-c6-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "After the summer's work Suttungr flatly refused them a drop. Bölverkr took out the auger Rati and had Baugi bore into the mountain. Baugi tried to cheat, saying it was through; Bölverkr blew into the hole and the chips flew back. The second time they blew inward. Bölverkr turned into a snake and crawled in; Baugi stabbed after him with the auger and missed."
+          },
+          "refs": [
+            "s-c6-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "Inside, Bölverkr lay three nights with Gunnlöð, and she let him have three drinks. With the first he emptied Óðrerir, with the second Boðn, with the third Són. Then he took an eagle's shape and flew."
+          },
+          "refs": [
+            "s-c6-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Suttungr chased him as an eagle. The Æsir set out their vats in the courtyard, and Óðinn spat the mead into them. Suttungr came so close that some of it went out behind; anyone may have that part, the 'poetaster's part'. The rest Óðinn gave to the Æsir and to those who can make poems."
+          },
+          "refs": [
+            "s-c6-5"
+          ]
+        },
+        {
+          "text": {
+            "en": "In Hávamál Óðinn tells it himself. He sought the old giant and won by talking. Rati's mouth gnawed a way through the stone, with giants' paths above and below him, so that he risked his head. Gunnlöð gave him a drink of the precious mead on a golden seat, and he repaid her badly."
+          },
+          "refs": [
+            "hav-s104",
+            "hav-s106",
+            "hav-s105"
+          ]
+        },
+        {
+          "text": {
+            "en": "The next day the frost-giants came to Óðinn's hall to ask whether Bölverkr had come home or Suttungr had killed him. The poem judges Óðinn plainly: he swore an oath on a ring, and 'Who now his troth shall trust?' He cheated Suttungr of his drink and left Gunnlöð weeping."
+          },
+          "refs": [
+            "hav-s109",
+            "hav-s110"
+          ]
+        }
+      ],
+      "participants": [
+        "kvasir",
+        "fjalar",
+        "galar",
+        "gilling",
+        "suttungr",
+        "hnitbjorg",
+        "gunnlod",
+        "odin",
+        "baugi",
+        "odrerir",
+        "bodn",
+        "son",
+        "rati",
+        "asgard",
+        "mead-of-poetry"
+      ],
+      "before": [
+        "skadi-chooses"
+      ],
+      "after": [
+        "freyr-and-gerdr"
+      ],
+      "best": [
+        {
+          "row": "s-c6-3",
+          "why": {
+            "en": "The auger, the cheating giant, and Óðinn as a snake."
+          }
+        },
+        {
+          "row": "s-c6-5",
+          "why": {
+            "en": "The eagle chase, and where bad poetry comes from."
+          }
+        },
+        {
+          "row": "hav-s110",
+          "why": {
+            "en": "The poem's own verdict on Óðinn's broken oath."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "The dwarfs, Kvasir, Baugi and the eagle chase are only in Snorri. Hávamál has Óðinn tell the theft in his own voice: he talks his way into Suttungr's hall, Rati gnaws through the rock, Gunnlöð gives him a drink, and he leaves her weeping; it adds that he broke an oath (hav-s104 to hav-s110). Earlier in Hávamál a speaker says he lay 'fettered' in Gunnlöð's court and was dead-drunk 'with Fjalar wise' (hav-s13, hav-s14); in Snorri Fjalarr is one of the dwarfs, so the poem may know a different version. Bölverkr is also among Óðinn's names in Grímnismál (grm-s47)."
+      },
+      "order": 8,
+      "lane": "gods"
+    },
+    "freyr-and-gerdr": {
+      "title": {
+        "en": "Freyr and Gerðr"
+      },
+      "age": "5",
+      "order_basis": {
+        "en": "No source dates it; it must come before Ragnarök, where Freyr dies for lack of the sword he gives away here."
+      },
+      "hook": {
+        "en": "Freyr sat in Óðinn's seat, saw a giant's daughter, and gave away the sword he would need at the end of the world."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Gymir and his wife Aurboða, of the mountain-giants' kin, had a daughter, Gerðr, the most beautiful of all women. One day Freyr sat in Hliðskjálf, the seat from which one sees all the worlds. In the north he saw a woman walk to a great house; as she raised her arms to open the door, the light from them shone over sky and sea."
+          },
+          "refs": [
+            "g-c37-1",
+            "skm-p1",
+            "skm-s6"
+          ]
+        },
+        {
+          "text": {
+            "en": "Snorri says this was his punishment for sitting in that holy seat. Freyr went home full of grief; he did not speak, sleep or drink, and no one dared ask him why."
+          },
+          "refs": [
+            "g-c37-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Njörðr sent for Skírnir, Freyr's servant, to ask what was wrong. Skírnir went unwillingly, expecting harsh words. Freyr told him he had seen a woman and would not live long without her: no one among gods or elves, he says in the poem, wants the two of them together. Skírnir must go and woo her, whether her father liked it or not."
+          },
+          "refs": [
+            "g-c37-2",
+            "g-c37-3",
+            "skm-s7"
+          ]
+        },
+        {
+          "text": {
+            "en": "Skírnir asked for Freyr's horse, which could carry him through the flickering fire, and his sword, which fights by itself against giants. Freyr gave him both."
+          },
+          "refs": [
+            "g-c37-4",
+            "skm-s8",
+            "skm-s9"
+          ]
+        },
+        {
+          "text": {
+            "en": "In Skírnismál, Skírnir rides to Gymir's house. Fierce dogs are tied at the gate, and a herdsman tells him he will never get to speak to Gerðr. But Gerðr hears the ground shake, has him brought in for mead, though she fears he may be the man who killed her brother."
+          },
+          "refs": [
+            "skm-p2",
+            "skm-s12",
+            "skm-s14",
+            "skm-s16"
+          ]
+        },
+        {
+          "text": {
+            "en": "Skírnir offers her eleven golden apples, and she refuses. He offers the ring that was burned with Óðinn's young son, from which eight rings drip every ninth night; she says there is gold enough in her father's house."
+          },
+          "refs": [
+            "skm-s19",
+            "skm-s20",
+            "skm-s21",
+            "skm-s22"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then Skírnir turns to threats. He will cut off her head with his sword, and her father will die by it. He strikes her with a taming wand and lays a long curse on her: she will sit on an eagle's mound looking towards Hel, live with a three-headed giant or have no husband. He carves runes for lust, madness and longing, which he will scrape off again if she yields."
+          },
+          "refs": [
+            "skm-s23",
+            "skm-s25",
+            "skm-s26",
+            "skm-s27",
+            "skm-s31",
+            "skm-s36"
+          ]
+        },
+        {
+          "text": {
+            "en": "Gerðr gives way. She offers him the frost-cup full of old mead, though she never thought she would love one of the Vanir. In nine nights, she says, she will meet Freyr in Barri, a quiet grove."
+          },
+          "refs": [
+            "skm-s37",
+            "skm-s39"
+          ]
+        },
+        {
+          "text": {
+            "en": "When Skírnir brought the answer, Freyr said that one night is long and two are longer: 'How can I wait through three?' A month had often seemed shorter than half such a night."
+          },
+          "refs": [
+            "g-c37-5",
+            "skm-s42"
+          ]
+        },
+        {
+          "text": {
+            "en": "The price came later. Without his sword, Freyr had to kill the giant Beli with a deer's antler. Worse, he will lack it at Ragnarök when the sons of Múspell come. In Lokasenna Loki throws it at him: he bought Gymir's daughter with gold and sold his sword."
+          },
+          "refs": [
+            "g-c37-6",
+            "g-c37-8",
+            "ls-s42"
+          ]
+        }
+      ],
+      "participants": [
+        "freyr",
+        "gerdr",
+        "gymir",
+        "aurboda",
+        "hlidskjalf",
+        "njordr",
+        "skadi",
+        "skirnir",
+        "draupnir",
+        "beli",
+        "surtr",
+        "jotunheim"
+      ],
+      "before": [
+        "mead-of-poetry"
+      ],
+      "after": [
+        "thor-and-utgarda-loki"
+      ],
+      "best": [
+        {
+          "row": "skm-s6",
+          "why": {
+            "en": "Freyr's first sight of Gerðr: arms that light up sea and sky."
+          }
+        },
+        {
+          "row": "skm-s36",
+          "why": {
+            "en": "Skírnir carves the curse, and offers to scrape it off."
+          }
+        },
+        {
+          "row": "g-c37-8",
+          "why": {
+            "en": "Why giving away the sword matters at the end of the world."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Snorri tells a gentle version: Skírnir simply 'wooed the woman for him, and received her promise', and the meeting place is Barrey (g-c37-4). In Skírnismál the gifts are refused and Gerðr gives in only to threats and a curse, and the grove is Barri. In the poem's opening prose Njörðr asks Skírnir to speak to Freyr, but the first stanza is spoken by Skaði, who calls Freyr the son of the two of them (Old Norse okkarn mög) (skm-p1, skm-s1). Snorri says the sword was given to Skírnir; Lokasenna says Freyr bought Gerðr with gold and sold his sword (ls-s42). The ring 'burned with Óðinn's young son' matches Draupnir, which Óðinn laid on Baldr's pyre (g-c49-15), though the poem does not name it."
+      },
+      "order": 9,
+      "lane": "gods"
+    },
+    "thor-and-utgarda-loki": {
+      "title": {
+        "en": "Þórr at Útgarða-Loki's"
+      },
+      "age": "5",
+      "order_basis": {
+        "en": "No source dates it; Snorri says Þórr's fishing trip followed soon after, so it is placed just before that story."
+      },
+      "hook": {
+        "en": "Þórr lost every contest in a giant's hall, and only learned on the way home that he had been fooled."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Þórr drove out with his goats and Loki and stayed the night at a farmer's. He killed both goats for supper, invited the family to eat, and told them to throw the bones onto the hides. The farmer's son Þjálfi split a thigh bone to get at the marrow."
+          },
+          "refs": [
+            "g-c44-7"
+          ]
+        },
+        {
+          "text": {
+            "en": "Before dawn Þórr raised Mjöllnir over the hides, and the goats stood up alive; but one was lame in a hind leg. The farmer and his household begged for mercy in terror. Þórr calmed down and took their children, Þjálfi and Röskva, as his servants; they have followed him ever since."
+          },
+          "refs": [
+            "g-c44-7"
+          ]
+        },
+        {
+          "text": {
+            "en": "Leaving the goats behind, Þórr went east towards Jötunheimar with Loki, Þjálfi and Röskva, across the deep sea and through a great forest. At night they sheltered in a huge empty hall with a door as wide as the hall. At midnight the ground shook, and they crept into a side room."
+          },
+          "refs": [
+            "g-c45-1",
+            "g-c45-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "At dawn Þórr found a huge man asleep and snoring nearby. He put on his belt of strength, but for once he did not dare to strike. The giant said his name was Skrýmir and that he knew this was Ása-Þórr. He picked up his glove: it was the 'hall' they had slept in, and the side room was its thumb."
+          },
+          "refs": [
+            "g-c45-3",
+            "g-c45-4",
+            "g-c45-5"
+          ]
+        },
+        {
+          "text": {
+            "en": "Skrýmir carried all their food in his bag. That night Þórr could not undo a single knot of it. In anger he struck the sleeping giant on the head with Mjöllnir three times. Each time Skrýmir woke and asked whether a leaf, an acorn or some twigs had fallen on him. In the morning he warned them not to boast at Útgarðr, and went off north."
+          },
+          "refs": [
+            "g-c45-6",
+            "g-c45-8",
+            "g-c45-11",
+            "g-c45-13"
+          ]
+        },
+        {
+          "text": {
+            "en": "They reached a stronghold so tall they had to bend their heads back to see the top, and squeezed in between the bars of the gate. Útgarða-Loki looked at them slowly and sneered: could this little lad be Öku-Þórr? Nobody stayed there, he said, without some skill beyond other men."
+          },
+          "refs": [
+            "g-c46-1",
+            "g-c46-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Loki offered to out-eat anyone. He and a man called Logi ate from either end of a trough of meat and met in the middle; Loki had eaten the meat, but Logi had eaten meat, bones and trough. Þjálfi raced a boy called Hugi three times, and lost each time by more."
+          },
+          "refs": [
+            "g-c46-5",
+            "g-c46-6",
+            "g-c46-10"
+          ]
+        },
+        {
+          "text": {
+            "en": "Þórr tried to empty a drinking horn in three draughts and hardly lowered it. He tried to lift a grey cat and got only one paw off the floor. In anger he offered to wrestle, and was given Útgarða-Loki's old nurse, Elli. The harder he gripped, the firmer she stood, and at last he went down on one knee."
+          },
+          "refs": [
+            "g-c46-13",
+            "g-c46-17",
+            "g-c46-21",
+            "g-c46-25",
+            "g-c46-26"
+          ]
+        },
+        {
+          "text": {
+            "en": "Next morning, outside the walls, Útgarða-Loki told the truth. He had been Skrýmir; the bag was tied with iron wire; the hammer blows had struck a hill, leaving three square valleys. Logi was wildfire, Hugi was his own thought, the horn's end lay in the sea, which is why the sea has ebbs. The cat was the Miðgarðr serpent, and Elli was old age, which brings everyone down."
+          },
+          "refs": [
+            "g-c47-4",
+            "g-c47-5"
+          ]
+        },
+        {
+          "text": {
+            "en": "He said Þórr would never be let in again. Þórr raised his hammer, but Útgarða-Loki was gone, and where the stronghold had stood there were only wide plains. Þórr went home to Þrúðvangar, resolved to meet the Miðgarðr serpent."
+          },
+          "refs": [
+            "g-c47-5",
+            "g-c47-6"
+          ]
+        }
+      ],
+      "participants": [
+        "thor",
+        "loki",
+        "thjalfi",
+        "roskva",
+        "mjolnir",
+        "jotunheim",
+        "skrymir",
+        "utgarda-loki",
+        "utgardar",
+        "logi",
+        "hugi",
+        "elli",
+        "jormungandr",
+        "thrudvangr"
+      ],
+      "before": [
+        "freyr-and-gerdr"
+      ],
+      "after": [
+        "thor-fishes"
+      ],
+      "best": [
+        {
+          "row": "g-c45-5",
+          "why": {
+            "en": "The 'hall' turns out to be a giant's glove."
+          }
+        },
+        {
+          "row": "g-c46-26",
+          "why": {
+            "en": "Þórr wrestles an old woman, and falls to one knee."
+          }
+        },
+        {
+          "row": "g-c47-4",
+          "why": {
+            "en": "The giant explains every trick."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Only Snorri tells the whole journey. The poems know it as a joke against Þórr: in Lokasenna and Hárbarðsljóð he is mocked for cowering in the thumb of a glove (ls-s60, hrbl-s26), and Loki reminds him he could not open Skrýmir's food bag (ls-s62). In Hárbarðsljóð the giant who might hear him there is called Fjalarr, not Skrýmir. Hymiskviða blames Loki for the lame goat (hym-s37); Snorri blames Þjálfi."
+      },
+      "order": 10,
+      "lane": "gods"
+    },
+    "thor-fishes": {
+      "title": {
+        "en": "Þórr fishes for the serpent"
+      },
+      "age": "5",
+      "order_basis": {
+        "en": "Snorri says Þórr set off on this trip soon after coming home from Útgarða-Loki, to make up for that journey."
+      },
+      "hook": {
+        "en": "Þórr used an ox's head as bait and hooked the serpent that circles the world."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Soon after the Útgarða-Loki journey, Þórr set out to make up for it. He took no chariot, no goats and no companions, crossed Miðgarðr looking like a young boy, and spent the night with the giant Hymir."
+          },
+          "refs": [
+            "g-c48-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "At dawn Hymir got ready to row out fishing. He said a small boy would be no use and would freeze. Þórr, angry enough to hammer him, held back because he meant to test his strength elsewhere. Hymir told him to find his own bait."
+          },
+          "refs": [
+            "g-c48-3",
+            "g-c48-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Þórr tore the head off Hymir's biggest ox, Himinhrjóðr. He rowed so hard that they passed Hymir's usual fishing grounds, then the point where Hymir said it was dangerous because of the Miðgarðr serpent, and kept going."
+          },
+          "refs": [
+            "g-c48-5"
+          ]
+        },
+        {
+          "text": {
+            "en": "He baited a huge hook with the ox head. The serpent took it, and jerked so hard that both Þórr's fists struck the gunwale. In his god-strength Þórr braced so hard that his feet went through the boat to the sea floor, and he hauled the serpent up to the side. Þórr glared down; the serpent glared up and blew poison."
+          },
+          "refs": [
+            "g-c48-6"
+          ]
+        },
+        {
+          "text": {
+            "en": "Hymir went pale with fear as the sea poured in and out of the boat. Just as Þórr raised his hammer, Hymir cut the line and the serpent sank. Some say Þórr's hammer struck off its head among the waves, but Hárr believes it still lives in the ocean. Þórr knocked Hymir overboard and waded ashore."
+          },
+          "refs": [
+            "g-c48-6"
+          ]
+        },
+        {
+          "text": {
+            "en": "Hymiskviða tells a different story around the fishing. The gods, feasting, needed a kettle big enough for Ægir to brew ale for them all. Týr told Þórr that his own father, Hymir, who lives east of Élivágar at the edge of heaven, owns a kettle a league deep."
+          },
+          "refs": [
+            "hym-s1",
+            "hym-s3",
+            "hym-s4",
+            "hym-s5"
+          ]
+        },
+        {
+          "text": {
+            "en": "They left Þórr's goats with Egill and went to Hymir's hall. Týr's nine-hundred-headed grandmother loathed him, but his mother hid them. Hymir came in from hunting with frozen beard; his glance split a pillar. Three oxen were cooked, and Þórr ate two by himself."
+          },
+          "refs": [
+            "hym-s7",
+            "hym-s8",
+            "hym-s10",
+            "hym-s12",
+            "hym-s15"
+          ]
+        },
+        {
+          "text": {
+            "en": "Next day they went fishing. Þórr tore the head off a black ox for bait. Hymir pulled up two whales at once. Þórr hooked the serpent, dragged it to the boat and struck its head with his hammer; rocks roared and the old earth shook, and then 'the fish' sank into the sea."
+          },
+          "refs": [
+            "hym-s18",
+            "hym-s19",
+            "hym-s21",
+            "hym-s22",
+            "hym-s23",
+            "hym-s24"
+          ]
+        },
+        {
+          "text": {
+            "en": "Hymir still doubted his strength: no one was strong who could not break his cup. Þórr threw it through stone pillars and it stayed whole, until Hymir's woman told him to strike it on Hymir's own skull, which was harder. The cup shattered."
+          },
+          "refs": [
+            "hym-s28",
+            "hym-s29",
+            "hym-s30",
+            "hym-s31"
+          ]
+        },
+        {
+          "text": {
+            "en": "Týr could not even move the kettle. Þórr put it on his head, his feet breaking through the floor and its rings clattering at his heels, killed the many-headed giants who chased them, and brought it to the gods' assembly. Now the gods can drink ale in Ægir's hall."
+          },
+          "refs": [
+            "hym-s33",
+            "hym-s34",
+            "hym-s35",
+            "hym-s36",
+            "hym-s39"
+          ]
+        }
+      ],
+      "participants": [
+        "thor",
+        "hymir",
+        "jormungandr",
+        "himinhrjod",
+        "midgard",
+        "tyr",
+        "aegir",
+        "elivagar",
+        "egill",
+        "mjolnir"
+      ],
+      "before": [
+        "thor-and-utgarda-loki"
+      ],
+      "after": [
+        "thor-and-hrungnir"
+      ],
+      "best": [
+        {
+          "row": "g-c48-6",
+          "why": {
+            "en": "Feet through the boat, and the serpent's poison breath."
+          }
+        },
+        {
+          "row": "hym-s23",
+          "why": {
+            "en": "The poem's version: Þórr strikes the serpent's head."
+          }
+        },
+        {
+          "row": "hym-s34",
+          "why": {
+            "en": "Þórr walks off wearing the giant's kettle."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "In Hymiskviða the fishing is one episode in a quest for Hymir's great kettle, and Týr calls Hymir his father (hym-s5); Snorri calls Týr Óðinn's son (s-c16-1) and tells only the fishing. In the poem Þórr strikes the serpent with his hammer and it sinks; Hymir does not cut the line. Snorri reports that some say the hammer took off its head, but he thinks it still lives. Hymiskviða blames Loki for the lamed goat on the way home (hym-s37); Snorri blames Þjálfi in an earlier story (g-c44-7)."
+      },
+      "order": 11,
+      "lane": "gods"
+    },
+    "thor-and-hrungnir": {
+      "title": {
+        "en": "Þórr and Hrungnir"
+      },
+      "age": "5",
+      "order_basis": {
+        "en": "No source dates it; placed among Þórr's journeys."
+      },
+      "hook": {
+        "en": "A horse race ended with a drunk giant in Valhöll and a piece of whetstone stuck in Þórr's head."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "While Þórr was away in the east, Óðinn rode Sleipnir into Jötunheimar to the giant Hrungnir. Hrungnir admired the horse of the man in the golden helmet. Óðinn bet his head that no horse in Jötunheimar was as good. Hrungnir said his Gullfaxi had a longer stride, and chased him in a rage, so fast that he was inside the gates of Ásgarðr before he noticed."
+          },
+          "refs": [
+            "s-c24-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "The gods invited him in to drink, from the bowls Þórr usually drank from. Drunk, Hrungnir boasted that he would carry Valhöll off to Jötunheimar, sink Ásgarðr and kill all the gods, except Freyja and Sif, whom he would take home. Only Freyja dared to pour for him, and he swore he would drink all the Æsir's ale."
+          },
+          "refs": [
+            "s-c24-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Tired of him, the gods called on Þórr's name, and Þórr came in at once with his hammer raised, asking who had let a giant drink there. Hrungnir said Óðinn had invited him and he was under Óðinn's protection."
+          },
+          "refs": [
+            "s-c24-3",
+            "s-c24-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Hrungnir said there was little glory in killing an unarmed man; he had left his shield and whetstone at home. He challenged Þórr to a duel at the border, at Grjóttúnagarðar. Þórr accepted gladly, since no one had ever challenged him to single combat before."
+          },
+          "refs": [
+            "s-c24-5",
+            "s-c24-6"
+          ]
+        },
+        {
+          "text": {
+            "en": "The giants feared what would happen if their strongest fell. They built a clay man, Mökkurkálfi, nine leagues tall, and gave him a mare's heart, the only one big enough. Hrungnir himself had a heart of hard stone with three points, a stone head and a stone shield, and a whetstone for a weapon. Mökkurkálfi wet himself when he saw Þórr."
+          },
+          "refs": [
+            "s-c24-6",
+            "s-c24-7",
+            "s-c24-8"
+          ]
+        },
+        {
+          "text": {
+            "en": "Þjálfi ran ahead and told Hrungnir that Þórr would come at him from under the ground, so Hrungnir put his shield under his feet. Then came lightning and thunder: Þórr threw his hammer, and Hrungnir threw his whetstone. They met in the air. The whetstone broke: one part fell to earth, and all whetstone rock comes from it; the other part struck Þórr's head, and he fell."
+          },
+          "refs": [
+            "s-c24-10",
+            "s-c24-11"
+          ]
+        },
+        {
+          "text": {
+            "en": "Mjöllnir smashed Hrungnir's skull, and he fell across Þórr with his foot on Þórr's neck. Þjálfi felled the clay giant, 'with little glory'. Neither Þjálfi nor all the Æsir together could lift the giant's leg."
+          },
+          "refs": [
+            "s-c24-11",
+            "s-c24-12"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then came Magni, Þórr's son by the giantess Járnsaxa, three nights old. He threw the leg off and said it was a pity he had come late: he would have killed the giant with his fist. Þórr gave him the horse Gullfaxi. Óðinn said he was wrong to give such a horse to a giantess's son instead of to his father."
+          },
+          "refs": [
+            "s-c24-13",
+            "s-c24-14",
+            "s-c24-15"
+          ]
+        },
+        {
+          "text": {
+            "en": "At home in Þrúðvangar the seeress Gróa sang spells over Þórr until the stone began to loosen. To please her, Þórr told her he had carried her husband Aurvandill out of Jötunheimar in a basket, and had made a star from his frozen toe; Aurvandill would soon be home. Gróa was so happy she forgot her spells, and the stone is still in Þórr's head."
+          },
+          "refs": [
+            "s-c25-1"
+          ]
+        }
+      ],
+      "participants": [
+        "odin",
+        "sleipnir",
+        "hrungnir",
+        "gullfaxi",
+        "asgard",
+        "valhalla",
+        "freyja",
+        "sif",
+        "thor",
+        "mjolnir",
+        "grjottunagardar",
+        "mokkurkalfi",
+        "thjalfi",
+        "magni",
+        "jarnsaxa",
+        "groa",
+        "aurvandill",
+        "thrudvangr"
+      ],
+      "before": [
+        "thor-fishes"
+      ],
+      "after": [
+        "thor-and-geirrodr"
+      ],
+      "best": [
+        {
+          "row": "s-c24-2",
+          "why": {
+            "en": "A drunk giant's boasts in the gods' own hall."
+          }
+        },
+        {
+          "row": "s-c24-11",
+          "why": {
+            "en": "Hammer meets whetstone in mid-air."
+          }
+        },
+        {
+          "row": "s-c24-13",
+          "why": {
+            "en": "A three-night-old son lifts what no god could."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Snorri says Þjóðólfr of Hvinir composed his poem Haustlöng on this story (s-c25-1). The Eddic poems mention the fight only in passing: in Hárbarðsljóð Þórr boasts that he felled Hrungnir, whose head was of stone (hrbl-s15), and in Lokasenna he calls his hammer 'The slayer of Hrungnir' (ls-s63)."
+      },
+      "order": 12,
+      "lane": "gods"
+    },
+    "thor-and-geirrodr": {
+      "title": {
+        "en": "Þórr at Geirröðr's"
+      },
+      "age": "5",
+      "order_basis": {
+        "en": "No source dates it; placed among Þórr's journeys."
+      },
+      "hook": {
+        "en": "Loki promised a giant he would bring Þórr without his hammer, and kept his word."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Once, flying for fun in Frigg's falcon shape, Loki looked in at a window of the giant Geirröðr's hall. Geirröðr had the bird caught; Loki waited too long to fly off, and his feet stuck fast."
+          },
+          "refs": [
+            "s-c26-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Geirröðr saw the bird's eyes and guessed it was a man, but Loki would not speak. Geirröðr locked him in a chest and starved him for three months. Then Loki told him who he was, and to save his life swore to bring Þórr to Geirröðargarðar without his hammer or his belt of strength."
+          },
+          "refs": [
+            "s-c26-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "So Þórr set out without Mjöllnir, his belt or his iron gloves, with Loki along. On the way he stayed with the giantess Gríðr, mother of Víðarr the Silent. She warned him about Geirröðr and lent him her own belt of strength, iron gloves and staff, called Gríðarvölr."
+          },
+          "refs": [
+            "s-c26-1",
+            "s-c26-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "They came to Vimur, the greatest of rivers. Þórr put on the belt and leaned on the staff; Loki held on to the belt behind. In midstream the water rose to Þórr's shoulders, and he spoke a verse: if you rise, Vimur, my god-strength will rise as high as heaven."
+          },
+          "refs": [
+            "s-c26-3",
+            "s-c26-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then he saw Geirröðr's daughter Gjálp standing astride the gorge upstream: she was making the flood. Þórr threw a great stone at her, saying a river must be stopped at its source, and did not miss. He reached the bank by catching hold of a rowan bush, which is why rowan is called 'Thor's deliverance'."
+          },
+          "refs": [
+            "s-c26-5",
+            "s-c26-6",
+            "s-c26-7"
+          ]
+        },
+        {
+          "text": {
+            "en": "At Geirröðr's the guests were put in a goat shed with a single chair. When Þórr sat in it, it rose up towards the roof. He pushed the staff against the rafters and forced the chair down; there was a crack and a scream. Geirröðr's daughters Gjálp and Greip had been under the chair, and both their backs were broken."
+          },
+          "refs": [
+            "s-c26-8"
+          ]
+        },
+        {
+          "text": {
+            "en": "Geirröðr called Þórr into the hall for games, where great fires burned. He picked up a glowing lump of iron with tongs and threw it at Þórr. Þórr caught it in the iron gloves; Geirröðr jumped behind an iron pillar. Þórr threw the iron through the pillar, through Geirröðr, through the wall and into the ground outside."
+          },
+          "refs": [
+            "s-c26-9"
+          ]
+        },
+        {
+          "text": {
+            "en": "Snorri ends by naming a poem on the story: Eilífr Guðrúnarson's Þórsdrápa."
+          },
+          "refs": [
+            "s-c26-10"
+          ]
+        }
+      ],
+      "participants": [
+        "loki",
+        "frigg",
+        "geirrodr",
+        "geirrodargardar",
+        "thor",
+        "mjolnir",
+        "gridr",
+        "gridarvolr",
+        "vidarr",
+        "vimur",
+        "gjalp",
+        "greip"
+      ],
+      "before": [
+        "thor-and-hrungnir"
+      ],
+      "after": [
+        "thrymr-steals-the-hammer"
+      ],
+      "best": [
+        {
+          "row": "s-c26-4",
+          "why": {
+            "en": "Þórr's verse to the rising river."
+          }
+        },
+        {
+          "row": "s-c26-7",
+          "why": {
+            "en": "The rowan bush that saves Þórr."
+          }
+        },
+        {
+          "row": "s-c26-9",
+          "why": {
+            "en": "The glowing iron goes through pillar, giant and wall."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "No Eddic poem tells this story; Snorri says the skaldic poem Þórsdrápa, by Eilífr Guðrúnarson, was composed on this story (s-c26-10). This giant Geirröðr is not the human king Geirröðr of Grímnismál."
+      },
+      "order": 13,
+      "lane": "gods"
+    },
+    "thrymr-steals-the-hammer": {
+      "title": {
+        "en": "Þrymr steals the hammer"
+      },
+      "age": "5",
+      "order_basis": {
+        "en": "No source dates it; placed among Þórr's journeys."
+      },
+      "hook": {
+        "en": "To get his hammer back, Þórr had to go to a giant's wedding dressed as the bride."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Þórr woke in a rage: his hammer was gone. He shook his beard and tossed his hair and groped about for it. Then he told Loki: no one on earth or in heaven knows it, but the god's hammer has been stolen."
+          },
+          "refs": [
+            "thrk-s1",
+            "thrk-s2"
+          ]
+        },
+        {
+          "text": {
+            "en": "They went to Freyja, and Þórr asked her to lend Loki her feather shape. She said she would give it even if it were made of gold or silver. Loki flew out of the gods' land into the giants' world."
+          },
+          "refs": [
+            "thrk-s3",
+            "thrk-s4",
+            "thrk-s5"
+          ]
+        },
+        {
+          "text": {
+            "en": "Þrymr, lord of the giants, sat on a mound plaiting golden collars for his dogs and trimming his horses' manes. Yes, he said, he had hidden Þórr's hammer eight leagues under the earth, and no one would get it back unless they brought him Freyja as his wife."
+          },
+          "refs": [
+            "thrk-s6",
+            "thrk-s7",
+            "thrk-s8"
+          ]
+        },
+        {
+          "text": {
+            "en": "Þórr met Loki before he had even landed and made him tell the news in the air. They went to Freyja, and Þórr told her: 'Bind on, Freyja, the bridal veil'; the two of them must go to Jötunheimar. Freyja was so angry that the gods' hall shook and her great necklace, the Brísinga men, burst. They would think her the most man-mad of women, she said, if she went."
+          },
+          "refs": [
+            "thrk-s9",
+            "thrk-s10",
+            "thrk-s11",
+            "thrk-s12",
+            "thrk-s13"
+          ]
+        },
+        {
+          "text": {
+            "en": "All the gods and goddesses met in council. Heimdallr, who could see the future, proposed dressing Þórr as the bride: linen veil, the Brísinga necklace, keys jingling at his belt, a woman's dress to his knees and jewels on his breast. Þórr said the gods would call him unmanly. Loki told him to be quiet: without the hammer, giants would soon be living in Ásgarðr."
+          },
+          "refs": [
+            "thrk-s14",
+            "thrk-s15",
+            "thrk-s16",
+            "thrk-s17",
+            "thrk-s18"
+          ]
+        },
+        {
+          "text": {
+            "en": "So they dressed him, and Loki went along as his maid. The goats were brought in and harnessed; mountains broke and the earth burned as Óðinn's son drove to Jötunheimar."
+          },
+          "refs": [
+            "thrk-s19",
+            "thrk-s20",
+            "thrk-s21"
+          ]
+        },
+        {
+          "text": {
+            "en": "Þrymr ordered the benches spread for Freyja, Njörðr's daughter; he had golden-horned cows and black oxen and treasure, and lacked only her. At the feast the bride ate a whole ox, eight salmon and all the delicacies meant for the women, and drank three casks of mead. When Þrymr wondered, the clever maid explained that Freyja had eaten nothing for eight nights, she longed so much for Jötunheimar."
+          },
+          "refs": [
+            "thrk-s22",
+            "thrk-s23",
+            "thrk-s24",
+            "thrk-s25",
+            "thrk-s26"
+          ]
+        },
+        {
+          "text": {
+            "en": "Þrymr lifted the veil for a kiss and leapt back the length of the hall: why were Freyja's eyes so fierce, as if fire burned in them? Freyja had not slept for eight nights, said the maid. Then Þrymr's sister came in and asked the bride for red-gold rings as a bridal gift."
+          },
+          "refs": [
+            "thrk-s27",
+            "thrk-s28",
+            "thrk-s29"
+          ]
+        },
+        {
+          "text": {
+            "en": "Þrymr called for the hammer to bless the bride: 'On the maiden's knees let Mjollnir lie.' Þórr's heart laughed in his breast when he saw it. He killed Þrymr first, then all the giant's kin, and gave the old sister blows instead of rings. 'And so his hammer got Othin's son.'"
+          },
+          "refs": [
+            "thrk-s30",
+            "thrk-s31",
+            "thrk-s32"
+          ]
+        }
+      ],
+      "participants": [
+        "thor",
+        "mjolnir",
+        "loki",
+        "freyja",
+        "thrymr",
+        "jotunheim",
+        "asgard",
+        "brisingamen",
+        "heimdall",
+        "njordr"
+      ],
+      "before": [
+        "thor-and-geirrodr"
+      ],
+      "after": [
+        "binding-of-fenrir"
+      ],
+      "best": [
+        {
+          "row": "thrk-s13",
+          "why": {
+            "en": "Freyja's fury: the hall shakes and the necklace bursts."
+          }
+        },
+        {
+          "row": "thrk-s24",
+          "why": {
+            "en": "The 'bride' eats an ox and eight salmon."
+          }
+        },
+        {
+          "row": "thrk-s31",
+          "why": {
+            "en": "The hammer is laid in the bride's lap."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Snorri does not tell this story anywhere in his Edda; it is known only from the poem Þrymskviða. In Snorri's Edda Þórr goes without his hammer to Geirröðr's because of Loki's oath (s-c26-1); the hammer is never stolen there."
+      },
+      "order": 14,
+      "lane": "gods"
+    },
+    "binding-of-fenrir": {
+      "title": {
+        "en": "The binding of Fenrir"
+      },
+      "age": "5",
+      "order_basis": {
+        "en": "No source dates it. Lokasenna, set after Baldr's death, already shows Týr one-handed (ls-p1), so it happened before that feast; placing it last among the gods' deeds is only a reading aid."
+      },
+      "hook": {
+        "en": "The gods would not kill the wolf in their sanctuary, so they tied him with a ribbon made of things that do not exist."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Loki had three children with the giantess Angrboða in Jötunheimar: the wolf Fenrir, the serpent Jörmungandr, and Hel."
+          },
+          "refs": [
+            "g-c34-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Prophecies told the gods that great harm would come from these three, bad through their mother and worse through their father. Óðinn had them brought to him. He threw the serpent into the sea around the world, where it grew until it circled all lands and bit its own tail. He threw Hel into Niflheimr and gave her rule over those who die of sickness or old age."
+          },
+          "refs": [
+            "g-c34-1",
+            "g-c34-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "The Æsir raised the wolf at home, and only Týr dared to feed him. He grew every day, and the prophecies said he would harm them. So they made a strong fetter, Læðingr, and asked him to test his strength on it. He broke it at the first kick."
+          },
+          "refs": [
+            "g-c34-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "They made a second fetter, Drómi, twice as strong. The wolf knew it was strong, but he had grown too, and he wanted fame, so he let them put it on. He shook himself and broke it, and the pieces flew far."
+          },
+          "refs": [
+            "g-c34-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "Óðinn then sent Skírnir, Freyr's messenger, to dwarfs in Svartálfaheimr. They made Gleipnir from six things: the noise of a cat's footsteps, a woman's beard, the roots of a mountain, a bear's sinews, a fish's breath and a bird's spit. Snorri's narrator points out that women have no beards, a cat's step makes no sound and mountains have no roots."
+          },
+          "refs": [
+            "g-c34-4",
+            "g-c34-5"
+          ]
+        },
+        {
+          "text": {
+            "en": "Gleipnir was soft and smooth like a silk ribbon. The Æsir took the wolf to the island of Lyngvi in the lake Ámsvartnir and asked him to break it. He suspected a trick: there was no fame in snapping so thin a band, and if it was made by cunning he would not let it near him."
+          },
+          "refs": [
+            "g-c34-7",
+            "g-c34-8"
+          ]
+        },
+        {
+          "text": {
+            "en": "The gods said they would free him if he could not break it. The wolf said that once bound he would get no help from them, and asked that one of them put a hand in his mouth as a pledge. They looked at one another. Only Týr put his right hand in the wolf's mouth."
+          },
+          "refs": [
+            "g-c34-9",
+            "g-c34-10",
+            "g-c34-11"
+          ]
+        },
+        {
+          "text": {
+            "en": "The more the wolf struggled, the tighter the band became. \"Then all laughed except Týr: he lost his hand.\""
+          },
+          "refs": [
+            "g-c34-11"
+          ]
+        },
+        {
+          "text": {
+            "en": "The gods fixed the chain deep in the earth with great rocks and propped a sword between his jaws. His drool runs out as the river Ván. There he lies until Ragnarök."
+          },
+          "refs": [
+            "g-c34-11"
+          ]
+        },
+        {
+          "text": {
+            "en": "Why not kill him? The gods would not stain their sanctuary with his blood, even though the prophecies say he will kill Óðinn."
+          },
+          "refs": [
+            "g-c34-13"
+          ]
+        }
+      ],
+      "participants": [
+        "loki",
+        "angrboda",
+        "fenrir",
+        "jormungandr",
+        "hel",
+        "odin",
+        "niflheim",
+        "tyr",
+        "laedingr",
+        "droma",
+        "skirnir",
+        "freyr",
+        "svartalfaheimr",
+        "gleipnir",
+        "lyngvi",
+        "amsvartner"
+      ],
+      "best": [
+        {
+          "row": "g-c34-4",
+          "why": {
+            "en": "The six impossible ingredients of Gleipnir."
+          }
+        },
+        {
+          "row": "g-c34-10",
+          "why": {
+            "en": "The wolf's condition: a hand in his mouth."
+          }
+        },
+        {
+          "row": "g-c34-11",
+          "why": {
+            "en": "Týr pays the price, and everyone else laughs."
+          }
+        },
+        {
+          "row": "ls-s39",
+          "why": {
+            "en": "Týr's own bitter answer, years later."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "The poems do not tell this story; they only refer to it. In Lokasenna Loki taunts Týr that Fenrir tore off his right hand, and Týr answers that the wolf must wait in bonds until Ragnarök (ls-s38, ls-s39). The opening prose of Lokasenna also says Týr lost his hand when the wolf was bound (ls-p1)."
+      },
+      "order": 15,
+      "lane": "gods",
+      "before": [
+        "thrymr-steals-the-hammer"
+      ],
+      "after": [
+        "death-of-baldr"
+      ]
+    },
+    "death-of-baldr": {
+      "title": {
+        "en": "The death of Baldr"
+      },
+      "age": "6",
+      "order_basis": {
+        "en": "Völuspá tells it after the first war and the broken oaths, and just before Loki's binding and Ragnarök."
+      },
+      "hook": {
+        "en": "Everything in the world swore not to hurt Baldr, except one small plant that seemed too young to ask."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Baldr the Good had great and dangerous dreams about his life. When he told the Æsir, they decided to ask safety for him. Frigg took oaths from fire and water, iron and all metals, stones, earth, trees, sicknesses, animals, birds, poisons and snakes that they would not harm Baldr."
+          },
+          "refs": [
+            "g-c49-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "In the poem Baldrs draumar, Óðinn rides Sleipnir down towards Hel and wakes a dead seeress. Unwillingly she tells him that mead is brewed for Baldr below, that Höðr will kill him, and that Váli, a son born to Rindr, will avenge him at one night old."
+          },
+          "refs": [
+            "bdr-s2",
+            "bdr-s4",
+            "bdr-s7",
+            "bdr-s9",
+            "bdr-s11"
+          ]
+        },
+        {
+          "text": {
+            "en": "Now Baldr made a game of it. He stood at the assembly while the others shot at him, struck at him and threw stones, and nothing hurt him. Everyone thought this a great honour."
+          },
+          "refs": [
+            "g-c49-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "Loki did not like it. He went to Frigg at Fensalir in the shape of a woman and asked whether all things had sworn. Frigg said a young shoot grew west of Valhöll, called mistletoe, which had seemed too young to ask for an oath."
+          },
+          "refs": [
+            "g-c49-4",
+            "g-c49-5",
+            "g-c49-6",
+            "g-c49-7"
+          ]
+        },
+        {
+          "text": {
+            "en": "Loki pulled up the mistletoe and went to the assembly. Höðr was standing at the edge of the ring, because he was blind. Loki asked why he was not shooting, and offered to show him where Baldr stood."
+          },
+          "refs": [
+            "g-c49-8",
+            "g-c49-9",
+            "g-c49-10",
+            "g-c49-11"
+          ]
+        },
+        {
+          "text": {
+            "en": "Höðr threw the mistletoe as Loki directed. It went straight through Baldr, and he fell dead. The gods could not speak or move; none could take revenge, because the place was a sanctuary. Óðinn took it hardest, because he understood best what the loss meant."
+          },
+          "refs": [
+            "g-c49-12",
+            "g-c49-13"
+          ]
+        },
+        {
+          "text": {
+            "en": "Frigg asked who would ride to Hel and offer a ransom for Baldr. Hermóðr, Óðinn's son, took Sleipnir and rode off."
+          },
+          "refs": [
+            "g-c49-14"
+          ]
+        },
+        {
+          "text": {
+            "en": "Baldr's ship Hringhorni would not move, so the giantess Hyrrokkin was fetched; she came riding a wolf with snakes for reins and launched it with one push. Baldr's wife Nanna died of grief and was burned with him. Þórr blessed the pyre with Mjöllnir and kicked a dwarf, Litr, into the fire. Óðinn laid the ring Draupnir on the pyre."
+          },
+          "refs": [
+            "g-c49-15"
+          ]
+        },
+        {
+          "text": {
+            "en": "Hermóðr rode nine nights through dark valleys to the bridge Gjallarbrú, jumped Sleipnir over Hel's gate and found Baldr in the high seat. Hel said Baldr could return if everything in the world, living and dead, wept for him; if anything refused, he would stay."
+          },
+          "refs": [
+            "g-c49-16",
+            "g-c49-20",
+            "g-c49-21"
+          ]
+        },
+        {
+          "text": {
+            "en": "Messengers asked the whole world to weep, and everything did: people, animals, earth, stones, trees and metals. But a giantess in a cave, Þökk, said she would weep only dry tears, and Hel could keep what she had. People think she was Loki."
+          },
+          "refs": [
+            "g-c49-22",
+            "g-c49-23",
+            "g-c49-24",
+            "g-c49-25"
+          ]
+        }
+      ],
+      "participants": [
+        "baldur",
+        "frigg",
+        "loki",
+        "hodr",
+        "odin",
+        "sleipnir",
+        "hel",
+        "fensalir",
+        "hermodr",
+        "hringhorni",
+        "hyrrokkin",
+        "nanna",
+        "thor",
+        "mjolnir",
+        "litr",
+        "draupnir",
+        "gjallarbru",
+        "thokk",
+        "vali",
+        "rindr"
+      ],
+      "best": [
+        {
+          "row": "g-c49-7",
+          "why": {
+            "en": "Frigg gives away the one secret that matters."
+          }
+        },
+        {
+          "row": "g-c49-12",
+          "why": {
+            "en": "Blind Höðr's throw, guided by Loki."
+          }
+        },
+        {
+          "row": "g-c49-21",
+          "why": {
+            "en": "Hel's terms: all things must weep."
+          }
+        },
+        {
+          "row": "g-c49-24",
+          "why": {
+            "en": "Þökk's cold refusal, in verse."
+          }
+        },
+        {
+          "row": "vsp-s32",
+          "why": {
+            "en": "Völuspá's version: the mistletoe, Höðr, and the avenger."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Völuspá and Baldrs draumar name Höðr as the killer and the mistletoe as the weapon, but neither mentions Loki's part in this. Instead they tell of the revenge Snorri leaves out of this chapter: Váli, Óðinn's son by Rindr, kills Höðr at one night old, before washing his hands or combing his hair (vsp-s32, vsp-s33, bdr-s11). In Lokasenna Loki himself boasts to Frigg that he is the reason Baldr no longer rides home (ls-s28)."
+      },
+      "order": 16,
+      "lane": "gods",
+      "before": [
+        "binding-of-fenrir"
+      ],
+      "after": [
+        "lokasenna"
+      ]
+    },
+    "lokasenna": {
+      "title": {
+        "en": "Loki's quarrel at Ægir's feast"
+      },
+      "age": "6",
+      "order_basis": {
+        "en": "Its prose shows Týr already one-handed, Loki boasts of Baldr's death, and the closing prose leads straight into Loki's capture."
+      },
+      "hook": {
+        "en": "At a feast where no violence was allowed, Loki killed a servant and then insulted every god in turn."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Ægir, once he had the great kettle, brewed ale for the gods. Óðinn and Frigg came, Sif, Bragi and Iðunn, the one-handed Týr, Njörðr and Skaði, Freyr and Freyja, Víðarr, Loki, and Freyr's servants Byggvir and Beyla. Þórr was away in the east. Gold lit the hall instead of fire, the ale served itself, and the hall was a place of sanctuary."
+          },
+          "refs": [
+            "ls-p1",
+            "s-c41-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "The guests praised Ægir's two servants. Loki could not bear it and killed one of them, Fimafengr. The gods shook their shields, shouted at him and drove him into the woods. He came back and asked the other servant, Eldir, what the gods were talking about over their ale; Eldir warned him that no one inside was his friend. Loki said he would bring them quarrels and mix their mead with harm."
+          },
+          "refs": [
+            "ls-p1",
+            "ls-s2",
+            "ls-s3"
+          ]
+        },
+        {
+          "text": {
+            "en": "When Loki walked in, the hall went silent. He asked for a drink and a seat, or to be sent away. Bragi refused, but Loki reminded Óðinn that in early days they had mixed their blood, and Óðinn had sworn never to drink unless both were served. Óðinn told Víðarr to make room, and Víðarr poured for him."
+          },
+          "refs": [
+            "ls-p2",
+            "ls-s6",
+            "ls-s8",
+            "ls-s9",
+            "ls-s10",
+            "ls-p3"
+          ]
+        },
+        {
+          "text": {
+            "en": "Loki drank to all the gods except Bragi. Bragi offered him a horse, a sword and a ring to keep the peace; Loki called him the most afraid of battle of anyone there. From then on, as each god or goddess tried to calm him or answered back, Loki had an insult ready. What follows are Loki's accusations, not facts the other sources confirm."
+          },
+          "refs": [
+            "ls-s11",
+            "ls-s12",
+            "ls-s13"
+          ]
+        },
+        {
+          "text": {
+            "en": "Loki and Óðinn traded charges. Loki said Óðinn often gave victory to cowards and had practised women's magic on Sámsey; Óðinn said Loki had spent eight winters under the earth as a milkmaid and had borne children. Frigg told them not to talk of old deeds."
+          },
+          "refs": [
+            "ls-s22",
+            "ls-s23",
+            "ls-s24",
+            "ls-s25"
+          ]
+        },
+        {
+          "text": {
+            "en": "Frigg said that if she had a son like Baldr in the hall, Loki would not get out alive. Loki answered that he was the reason she would never again see Baldr ride home."
+          },
+          "refs": [
+            "ls-s27",
+            "ls-s28"
+          ]
+        },
+        {
+          "text": {
+            "en": "Loki went on: Freyja, he claimed, had slept with every god and elf in the hall; Njörðr had been a hostage; Týr had lost his hand to Fenrir. Týr answered that Loki had lost his wolf-son, who lies bound until Ragnarök. Freyr warned Loki he would be bound next. Loki mocked Freyr for buying Gerðr with gold and his sword, and Heimdallr as the gods' watchman."
+          },
+          "refs": [
+            "ls-s30",
+            "ls-s34",
+            "ls-s38",
+            "ls-s39",
+            "ls-s41",
+            "ls-s42",
+            "ls-s48"
+          ]
+        },
+        {
+          "text": {
+            "en": "Skaði told Loki the gods would bind him with the guts of his own son. Loki boasted that he had been first and last at the killing of her father Þjazi. Sif offered him mead and asked him to spare her; he did not."
+          },
+          "refs": [
+            "ls-s49",
+            "ls-s50",
+            "ls-s53",
+            "ls-s54"
+          ]
+        },
+        {
+          "text": {
+            "en": "Byggvir's wife Beyla said the mountains were shaking: Þórr must be coming. Þórr arrived and four times threatened Loki with Mjöllnir. Loki taunted him back: he would not dare face the wolf that swallows Óðinn, he had hidden in the thumb of a glove, and he could not open Skrýmir's food bag."
+          },
+          "refs": [
+            "ls-s55",
+            "ls-s57",
+            "ls-s58",
+            "ls-s60",
+            "ls-s62",
+            "ls-s63"
+          ]
+        },
+        {
+          "text": {
+            "en": "At last Loki said he had spoken his mind before the gods, but would leave for Þórr alone, because he knew Þórr would strike. He cursed Ægir: he would never brew again, and fire would play over all he owned. After that, the prose says, Loki hid in Fránangr's waterfall as a salmon, and the gods caught him."
+          },
+          "refs": [
+            "ls-s64",
+            "ls-s65",
+            "ls-p4"
+          ]
+        }
+      ],
+      "participants": [
+        "aegir",
+        "loki",
+        "fimafeng",
+        "eldir",
+        "odin",
+        "frigg",
+        "thor",
+        "sif",
+        "bragi",
+        "idunn",
+        "gefjon",
+        "tyr",
+        "njordr",
+        "skadi",
+        "freyr",
+        "freyja",
+        "heimdall",
+        "vidarr",
+        "byggvir",
+        "beyla",
+        "mjolnir",
+        "baldur",
+        "fenrir"
+      ],
+      "before": [
+        "death-of-baldr"
+      ],
+      "after": [
+        "loki-bound"
+      ],
+      "best": [
+        {
+          "row": "ls-s28",
+          "why": {
+            "en": "Loki's boast to Frigg about Baldr."
+          }
+        },
+        {
+          "row": "ls-s39",
+          "why": {
+            "en": "Týr's answer: each of them has lost something."
+          }
+        },
+        {
+          "row": "ls-s64",
+          "why": {
+            "en": "Loki leaves only for Þórr, because he knows Þórr strikes."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Snorri mentions the feast only briefly: the gold that lit Ægir's hall, Loki quarrelling with all the gods, and the killing of Fimafengr (s-c41-1); he gives none of the insults. Most of Loki's charges in the poem are found nowhere else in the Eddas and should be read as insults, not as facts. A few do match other stories: Snorri also makes Loki the cause of Baldr's death (g-c49-12) and has the gods kill Þjazi (s-c3-2)."
+      },
+      "order": 17,
+      "lane": "gods"
+    },
+    "loki-bound": {
+      "title": {
+        "en": "Loki bound"
+      },
+      "age": "6",
+      "order_basis": {
+        "en": "Snorri tells it as the punishment for Baldr's death; the prose at the end of Lokasenna puts it right after Ægir's feast, and Völuspá places it after Baldr's death."
+      },
+      "hook": {
+        "en": "Loki invented the fishing net, and the gods used it to catch him."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Snorri's narrator says Loki caused both Baldr's killing and his staying with Hel, and asks whether Loki was ever punished for it."
+          },
+          "refs": [
+            "g-c50-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "When the gods were as angry as could be expected, Loki ran away. He built a house on a mountain with four doors, so he could watch in every direction, and by day he often hid as a salmon in the waterfall Fránangrsfoss."
+          },
+          "refs": [
+            "g-c50-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Wondering how the gods might catch him, he knotted linen thread into a net, the first one. Óðinn had seen from Hliðskjálf where he was. When the gods came near, Loki threw the net into the fire and jumped into the river."
+          },
+          "refs": [
+            "g-c50-2",
+            "g-c50-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "Kvasir, the wisest, went in first and saw the shape of the net in the ashes. He understood it was for catching fish, and the gods made a net like it."
+          },
+          "refs": [
+            "g-c50-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "On the first cast Loki lay between two stones and the net passed over him. They weighted the net and he leapt over it. On the third try Þórr waded in the middle of the river and caught him as he jumped; Loki slipped through his hand until it held at the tail. That, Snorri says, is why the salmon is narrow at the tail."
+          },
+          "refs": [
+            "g-c50-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "They took Loki to a cave and set up three stone slabs with holes in them. They took his sons Váli and Nari (or Narfi). The gods turned Váli into a wolf, and he tore his brother apart. With Narfi's guts they bound Loki over the three stones, and the bonds turned to iron."
+          },
+          "refs": [
+            "g-c50-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Skaði hung a poisonous snake above him so that its venom drips onto his face. His wife Sigyn holds a bowl under the drops. When she goes to empty it, the venom falls on him and he jerks so hard that the whole earth shakes: what people call earthquakes. He lies bound there until Ragnarök."
+          },
+          "refs": [
+            "g-c50-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "The prose at the end of Lokasenna tells the same in brief: after Ægir's feast Loki hid as a salmon in Fránangrsfoss, was caught and bound, and Skaði hung the snake over him."
+          },
+          "refs": [
+            "ls-p4"
+          ]
+        }
+      ],
+      "participants": [
+        "loki",
+        "odin",
+        "hlidskjalf",
+        "kvasir",
+        "thor",
+        "vali-2",
+        "nari",
+        "skadi",
+        "sigyn"
+      ],
+      "best": [
+        {
+          "row": "g-c50-3",
+          "why": {
+            "en": "Loki outwitted by his own invention."
+          }
+        },
+        {
+          "row": "g-c50-4",
+          "why": {
+            "en": "The cave, the snake, and Sigyn's bowl."
+          }
+        },
+        {
+          "row": "vsp-s35",
+          "why": {
+            "en": "The seeress sees him bound, with Sigyn beside him."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "The prose at the end of Lokasenna reverses the sons: Loki is bound with the guts of his son Váli, and Narfi becomes a wolf (ls-p4). Völuspá gives only glimpses: Váli twisting bonds made of guts (a half-stanza from another manuscript), and a bound figure like Loki lying under Hveralundr with Sigyn, who is not glad (vsp-s34, vsp-s35)."
+      },
+      "order": 18,
+      "lane": "gods",
+      "before": [
+        "lokasenna"
+      ],
+      "after": [
+        "ragnarok"
+      ]
+    },
+    "ragnarok": {
+      "title": {
+        "en": "Ragnarök"
+      },
+      "age": "7",
+      "order_basis": {
+        "en": "Völuspá, Vafþrúðnismál and Snorri all tell it as the end of the gods' time, after Loki and Fenrir are bound."
+      },
+      "hook": {
+        "en": "Every bond breaks at once. Then the gods ride out to a battle the prophecies say they will lose."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "First comes the Fimbulvetr: three winters in a row with no summer between, snow from every side, hard frost and no use of the sun. Before that come three winters of great wars, when brothers kill each other for greed and no one spares father or son."
+          },
+          "refs": [
+            "g-c51-2",
+            "vsp-s45"
+          ]
+        },
+        {
+          "text": {
+            "en": "A wolf swallows the sun, and another takes the moon. The stars vanish. The earth shakes so that trees are torn up and mountains fall, and every fetter breaks. Fenrir is free."
+          },
+          "refs": [
+            "g-c51-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "The sea floods the land as the Miðgarðr serpent comes ashore in giant fury. The ship Naglfar, made of dead men's nails, comes loose, steered by the giant Hrymr. Fenrir advances with his lower jaw on the earth and his upper jaw against the sky; the serpent spews poison."
+          },
+          "refs": [
+            "g-c51-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "The sky splits, and the sons of Múspell ride out, with Surtr first, fire before and behind him. As they ride over Bifröst it breaks. They gather on the plain of Vígríðr with Fenrir, the serpent, Loki, Hrymr and all the frost-giants; all Hel's people follow Loki."
+          },
+          "refs": [
+            "g-c51-4",
+            "vsp-s52"
+          ]
+        },
+        {
+          "text": {
+            "en": "Heimdallr stands up and blows the Gjallarhorn and wakes all the gods. Óðinn rides to Mímir's well for counsel. The ash Yggdrasill shakes, and nothing in heaven or earth is without fear."
+          },
+          "refs": [
+            "g-c51-5",
+            "vsp-s46",
+            "vsp-s47"
+          ]
+        },
+        {
+          "text": {
+            "en": "Óðinn rides first, with a golden helmet and his spear Gungnir, against Fenrir. Þórr cannot help him, because he is fighting the serpent. Freyr fights Surtr and falls, because he no longer has the good sword he gave to Skírnir. The hound Garmr breaks loose and fights Týr, and each kills the other."
+          },
+          "refs": [
+            "g-c51-5"
+          ]
+        },
+        {
+          "text": {
+            "en": "Þórr kills the serpent, walks nine steps away, and falls dead from the poison it blew at him. The wolf swallows Óðinn."
+          },
+          "refs": [
+            "g-c51-5",
+            "vsp-s56",
+            "vm-s53"
+          ]
+        },
+        {
+          "text": {
+            "en": "At once Óðinn's son Víðarr steps with one foot into the wolf's lower jaw, wearing a shoe made from all the leather scraps people have ever cut from their shoes. He takes the upper jaw in his hand and tears the mouth apart, and the wolf dies. Loki and Heimdallr fight, and each kills the other."
+          },
+          "refs": [
+            "g-c51-5"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then Surtr throws fire over the earth and burns the whole world. The sun turns black, the earth sinks into the sea, the stars vanish from the sky, and flame plays against heaven itself."
+          },
+          "refs": [
+            "g-c51-5",
+            "vsp-s57"
+          ]
+        }
+      ],
+      "participants": [
+        "fenrir",
+        "jormungandr",
+        "naglfar",
+        "hrym",
+        "muspell-sons",
+        "surtr",
+        "bifrost",
+        "vigridr",
+        "loki",
+        "hel",
+        "heimdall",
+        "gjallarhorn",
+        "odin",
+        "mimisbrunnr",
+        "mimir",
+        "yggdrasil",
+        "einherjar",
+        "gungnir",
+        "thor",
+        "freyr",
+        "skirnir",
+        "garmr",
+        "tyr",
+        "vidarr"
+      ],
+      "best": [
+        {
+          "row": "g-c51-5",
+          "why": {
+            "en": "The whole battle, duel by duel."
+          }
+        },
+        {
+          "row": "vsp-s46",
+          "why": {
+            "en": "Heimdallr's horn and Óðinn speaking with Mímir's head."
+          }
+        },
+        {
+          "row": "vsp-s57",
+          "why": {
+            "en": "The world's end in eight short lines."
+          }
+        },
+        {
+          "row": "vm-s53",
+          "why": {
+            "en": "A giant's answer to Óðinn about Óðinn's own death."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Völuspá has Víðarr thrust his sword into the wolf's heart (vsp-s55); Snorri and Vafþrúðnismál have him tear or split the jaws (g-c51-5, vm-s53). In Völuspá Hrymr comes from the east and Loki steers a ship carrying the people of Múspell (vsp-s50, vsp-s51); Snorri has Hrymr steer Naglfar. Völuspá does not describe the duels of Týr with Garmr or of Loki with Heimdallr; those are Snorri's."
+      },
+      "order": 19,
+      "lane": "gods",
+      "before": [
+        "loki-bound"
+      ],
+      "after": [
+        "the-world-renewed"
+      ]
+    },
+    "the-world-renewed": {
+      "title": {
+        "en": "The world renewed"
+      },
+      "age": "8",
+      "order_basis": {
+        "en": "Völuspá and Snorri both tell it after Surtr's fire."
+      },
+      "hook": {
+        "en": "After the fire, the earth comes up green again, and the gods find their old golden game pieces in the grass."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Gangleri asks what is left once the world is burned and gods and men are dead. There will be good places and bad ones, Þriði answers. Best is Gimlé in heaven; there is plenty to drink in the hall Brimir on Ókólnir, and there is a hall of red gold called Sindri on Niðafjöll. Good and righteous people will live there."
+          },
+          "refs": [
+            "g-c52-1",
+            "g-c52-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "On Náströnd stands a great, evil hall with its doors facing north, woven of snakes' backs, with poison running through it. Oath-breakers and murderers must wade those rivers. Worst of all is Hvergelmir, where Níðhöggr torments the bodies of the dead."
+          },
+          "refs": [
+            "g-c52-2",
+            "g-c52-3",
+            "g-c52-4",
+            "g-c52-5",
+            "g-c52-6"
+          ]
+        },
+        {
+          "text": {
+            "en": "The seeress of Völuspá sees the earth rise a second time out of the sea, green again. Waterfalls tumble, and an eagle flies over, hunting fish from the cliff. Snorri adds that fields will grow unsown."
+          },
+          "refs": [
+            "vsp-s59",
+            "g-c53-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Víðarr and Váli are alive; neither sea nor Surtr's fire has harmed them. They live on Iðavöllr, where Ásgarðr used to be. Þórr's sons Móði and Magni come there and have Mjöllnir."
+          },
+          "refs": [
+            "g-c53-2",
+            "g-c53-3",
+            "vm-s51"
+          ]
+        },
+        {
+          "text": {
+            "en": "Baldr and Höðr come back from Hel. The gods sit together and talk over the old days: the Miðgarðr serpent, the wolf Fenrir, and the ancient runes. In the grass they find the golden game pieces the Æsir had owned long ago."
+          },
+          "refs": [
+            "g-c53-2",
+            "vsp-s60",
+            "vsp-s61",
+            "vsp-s62"
+          ]
+        },
+        {
+          "text": {
+            "en": "In Völuspá, Hœnir chooses the lot-twigs, and the sons of two brothers live in wide Vindheimr, the wind-home."
+          },
+          "refs": [
+            "vsp-s63"
+          ]
+        },
+        {
+          "text": {
+            "en": "Two people survive, Líf and Leifþrasir, hidden in Hoddmímir's wood. They live on the morning dew, and from them comes a race large enough to fill the world."
+          },
+          "refs": [
+            "g-c53-4",
+            "g-c53-5",
+            "vm-s44",
+            "vm-s45"
+          ]
+        },
+        {
+          "text": {
+            "en": "Before the wolf takes her, the sun bears a daughter as beautiful as herself, and the daughter rides her mother's road across the sky."
+          },
+          "refs": [
+            "g-c53-6",
+            "g-c53-7",
+            "vm-s46",
+            "vm-s47"
+          ]
+        },
+        {
+          "text": {
+            "en": "Völuspá sees a hall fairer than the sun, roofed with gold, on Gimlé, where the worthy will live in joy forever. A mighty one, who rules all things, comes from above to the judgment."
+          },
+          "refs": [
+            "vsp-s64",
+            "vsp-s65"
+          ]
+        },
+        {
+          "text": {
+            "en": "Völuspá does not end in peace. The dark dragon Níðhöggr comes flying up from Niðafjöll with corpses in his feathers, and the poem ends: 'now must I sink.' Snorri ends with Hárr saying no one has ever told the course of the world further than this."
+          },
+          "refs": [
+            "vsp-s66",
+            "g-c53-8"
+          ]
+        }
+      ],
+      "participants": [
+        "gimle",
+        "nidafjoll",
+        "nastrond",
+        "hvergelmir",
+        "nidhoggr",
+        "vidarr",
+        "vali",
+        "idavollr",
+        "asgard",
+        "modi",
+        "magni",
+        "mjolnir",
+        "baldur",
+        "hodr",
+        "h-nir",
+        "leifthrasir",
+        "hoddmimis-holt",
+        "surtr",
+        "sol",
+        "fenrir"
+      ],
+      "before": [
+        "ragnarok"
+      ],
+      "after": [],
+      "best": [
+        {
+          "row": "vsp-s59",
+          "why": {
+            "en": "The green earth rising from the sea."
+          }
+        },
+        {
+          "row": "vsp-s61",
+          "why": {
+            "en": "The golden game pieces found again in the grass."
+          }
+        },
+        {
+          "row": "g-c53-4",
+          "why": {
+            "en": "Two humans hidden in a wood, living on dew."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Völuspá names Baldr, Höðr and Hœnir in the new world but not Víðarr, Váli, Móði or Magni; those come from Vafþrúðnismál, which Snorri quotes (vm-s51, g-c53-3). Vafþrúðnismál hides Líf and Leifþrasir through the great winter, the fimbulvetr (vm-s44, vm-s45); Snorri hides them through Surtr's fire (g-c53-4). Völuspá does not say who the 'mighty lord' coming to judgment is (vsp-s65), and it ends with Níðhöggr flying, not with the new world at peace (vsp-s66)."
+      },
+      "order": 20,
+      "lane": "gods"
+    },
+    "andvaris-gold": {
+      "title": {
+        "en": "Andvari's gold and the otter's ransom"
+      },
+      "age": "heroic",
+      "order_basis": {
+        "en": "The heroic lane begins here: Snorri tells it as the origin of the gold that passes to Fáfnir and Sigurðr."
+      },
+      "hook": {
+        "en": "Loki killed an otter that turned out to be a man's son, and the gods paid for it with cursed gold."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Óðinn, Loki and Hœnir were out exploring the world. Beside a waterfall they saw an otter eating a salmon with its eyes half shut. Loki threw a stone and killed it, and boasted that he had caught an otter and a salmon with one blow."
+          },
+          "refs": [
+            "s-c46-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "That evening they asked for lodging with Hreiðmarr, a powerful man skilled in magic, and showed him their catch."
+          },
+          "refs": [
+            "s-c46-1",
+            "rm-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Hreiðmarr called his sons Fáfnir and Reginn: their brother Otr, who often swam in the falls as an otter, had been killed. They seized and bound the gods. The gods offered whatever ransom Hreiðmarr asked, and it was sworn: they must fill the otter's skin with red gold and cover it completely."
+          },
+          "refs": [
+            "s-c46-2",
+            "rm-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Óðinn sent Loki to Svartálfaheimr, to the dwarf Andvari, who lived in the water as a fish. In Reginsmál, Loki borrows the sea-goddess Rán's net and catches Andvari in the shape of a pike in Andvari's waterfall. To save his life, Andvari had to give up all the gold he kept in his rock."
+          },
+          "refs": [
+            "s-c46-3",
+            "rm-p1",
+            "rm-s1",
+            "rm-s2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Andvari brought out a great heap of gold, but slipped one small ring under his arm, saying he could breed new wealth from it. Loki made him hand it over. Andvari cursed it: the ring would be the death of whoever owned it. In Reginsmál he adds that the gold will kill two brothers and set eight princes quarrelling."
+          },
+          "refs": [
+            "s-c46-3",
+            "rm-p2",
+            "rm-s5"
+          ]
+        },
+        {
+          "text": {
+            "en": "Óðinn saw the ring, liked it and kept it, and paid the rest to Hreiðmarr. The skin was filled and stood up, and Óðinn piled gold over it. Hreiðmarr looked closely and found one whisker still showing. Óðinn had to bring out the ring to cover it."
+          },
+          "refs": [
+            "s-c46-4",
+            "rm-p3"
+          ]
+        },
+        {
+          "text": {
+            "en": "Once Óðinn had his spear back and Loki his shoes, and they had nothing more to fear, Loki told Hreiðmarr that Andvari's curse would hold: the ring and the gold would be the death of whoever owned them. 'And that was fulfilled afterward,' says Snorri. Hreiðmarr answered that he would keep the red gold as long as he lived."
+          },
+          "refs": [
+            "s-c46-5",
+            "rm-s6",
+            "rm-s9"
+          ]
+        }
+      ],
+      "participants": [
+        "odin",
+        "loki",
+        "h-nir",
+        "otr",
+        "hreidmarr",
+        "fafnir",
+        "regin",
+        "andvari",
+        "andvarafors",
+        "ran",
+        "svartalfaheimr",
+        "andvaranaut"
+      ],
+      "before": [],
+      "after": [
+        "sigurdr-and-fafnir"
+      ],
+      "best": [
+        {
+          "row": "s-c46-3",
+          "why": {
+            "en": "Andvari hides one small ring, and curses it."
+          }
+        },
+        {
+          "row": "s-c46-4",
+          "why": {
+            "en": "One whisker left uncovered."
+          }
+        },
+        {
+          "row": "rm-s5",
+          "why": {
+            "en": "The curse in verse: two brothers dead, eight princes at war."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Snorri has Loki catch Andvari with his hands; Reginsmál has him use Rán's net (rm-p1). Reginsmál's prose names the ring Andvaranautr (rm-p3), as Snorri does later (s-c49-4). In Reginsmál the story is told by Reginn himself to the young Sigurðr. A longer telling of the whole gold story exists outside the Eddas, in Völsunga saga."
+      },
+      "order": 21,
+      "lane": "heroic"
+    },
+    "sigurdr-and-fafnir": {
+      "title": {
+        "en": "Sigurðr kills Fáfnir"
+      },
+      "age": "heroic",
+      "order_basis": {
+        "en": "Snorri tells it straight after the otter's ransom."
+      },
+      "hook": {
+        "en": "A son killed his father for gold, became a dragon, and was killed from a ditch by his brother's foster-son."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Hreiðmarr took the gold as payment for his son and would share none of it with Fáfnir and Reginn. Snorri says the two brothers killed him for it. In Reginsmál, Fáfnir alone stabs his sleeping father, who calls on his daughters to avenge him."
+          },
+          "refs": [
+            "s-c47-1",
+            "rm-p4",
+            "rm-s10"
+          ]
+        },
+        {
+          "text": {
+            "en": "Reginn asked for half; Fáfnir refused and told him to go or share his father's fate. Fáfnir put on his father's helmet of terror, the ægishjálmr, which every living thing fears, and took the sword Hrotti. He went to Gnitaheiðr, made a lair, took the shape of a serpent and lay down on the gold."
+          },
+          "refs": [
+            "s-c47-2"
+          ]
+        },
+        {
+          "text": {
+            "en": "Reginn went to King Hjálprekr as his smith and became foster-father to Sigurðr, son of Sigmundr Völsungsson and Hjördís. Reginsmál says Reginn was clever, fierce and skilled in magic, and as small as a dwarf. Sigurðr chose a horse from Hjálprekr's herd, Grani."
+          },
+          "refs": [
+            "s-c47-2",
+            "s-c47-3",
+            "rm-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Reginn told Sigurðr where Fáfnir lay and urged him to take the gold. He forged him the sword Gramr, so sharp that it cut through a tuft of wool floating down a river onto its edge (the Rhine, says Reginsmál). With it Sigurðr split Reginn's anvil."
+          },
+          "refs": [
+            "s-c47-3",
+            "s-c47-4",
+            "rm-p7"
+          ]
+        },
+        {
+          "text": {
+            "en": "In Reginsmál, Sigurðr first avenges his father. Sailing in a storm, he takes on an old man from a cliff who calls himself Hnikarr, a name Óðinn uses, and the storm drops. Sigurðr then kills Lyngvi, Hundingr's son, and his brothers."
+          },
+          "refs": [
+            "rm-s15",
+            "rm-s18",
+            "rm-p9",
+            "rm-p10",
+            "rm-s26",
+            "grm-s47"
+          ]
+        },
+        {
+          "text": {
+            "en": "Then Sigurðr and Reginn went to Gnitaheiðr. Sigurðr dug a pit across the track Fáfnir used to crawl to the water and hid in it. As Fáfnir crawled over, blowing poison, Sigurðr thrust the sword up through him."
+          },
+          "refs": [
+            "s-c47-5",
+            "fm-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Dying, Fáfnir asked who he was. At first Sigurðr hid his name, because a dying man's curse was thought powerful if he named his enemy; then he told it. Fáfnir warned him that the gold would be his death, and that Reginn, who had betrayed Fáfnir, would betray him too."
+          },
+          "refs": [
+            "fm-p2",
+            "fm-s2",
+            "fm-s4",
+            "fm-s9",
+            "fm-s22"
+          ]
+        },
+        {
+          "text": {
+            "en": "Reginn came back, drank Fáfnir's blood, cut out the heart and asked Sigurðr to roast it for him. Sigurðr touched it to see if it was done, burned his finger and put it in his mouth. As the heart's blood touched his tongue, he understood the speech of birds."
+          },
+          "refs": [
+            "s-c47-5",
+            "s-c47-6",
+            "fm-p4",
+            "fm-p5"
+          ]
+        },
+        {
+          "text": {
+            "en": "The birds in the tree said that Reginn was plotting to betray him to avenge his brother, and that Sigurðr should cut off his head and keep the gold. Sigurðr killed Reginn. In Fáfnismál he then ate the heart and drank the blood of both brothers."
+          },
+          "refs": [
+            "s-c47-7",
+            "s-c47-8",
+            "fm-s33",
+            "fm-s34",
+            "s-c47-9",
+            "fm-p6"
+          ]
+        },
+        {
+          "text": {
+            "en": "The birds also spoke of Gjúki's daughter, and of a hall on Hindarfjall ringed with fire, where a war-maiden sleeps because Óðinn pricked her with a thorn. Sigurðr rode to Fáfnir's lair, behind iron doors, and loaded Grani with two chests of gold, the helmet of terror, a golden mail-coat and the sword Hrotti."
+          },
+          "refs": [
+            "fm-s41",
+            "fm-s42",
+            "fm-s43",
+            "fm-p7",
+            "s-c47-9"
+          ]
+        }
+      ],
+      "participants": [
+        "hreidmarr",
+        "fafnir",
+        "regin",
+        "gnitaheidi",
+        "hjalprekr",
+        "sigurdr",
+        "sigmund",
+        "hjordis",
+        "grani",
+        "gramr",
+        "hrotti",
+        "ridill",
+        "lyngvi-hundingsson",
+        "hindarfjall",
+        "gjuki",
+        "rhine"
+      ],
+      "before": [
+        "andvaris-gold"
+      ],
+      "after": [
+        "brynhildr-and-gudrun"
+      ],
+      "best": [
+        {
+          "row": "fm-p2",
+          "why": {
+            "en": "Why Sigurðr will not tell the dying dragon his name."
+          }
+        },
+        {
+          "row": "s-c47-6",
+          "why": {
+            "en": "A burnt finger, and the language of birds."
+          }
+        },
+        {
+          "row": "fm-s43",
+          "why": {
+            "en": "The birds point Sigurðr to the sleeping war-maiden."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Snorri says Fáfnir and Reginn killed their father together; Reginsmál says Fáfnir did it alone (rm-p4). In Snorri, Reginn drinks the blood and lies down to sleep; in Fáfnismál he has kept away during the fight, and Sigurðr reproaches him for it (fm-p3, fm-s28). The revenge for Sigurðr's father is in Reginsmál only. Snorri has Sigurðr simply kill Reginn; Fáfnismál has him behead Reginn and then eat the heart himself (fm-p6)."
+      },
+      "order": 22,
+      "lane": "heroic"
+    },
+    "brynhildr-and-gudrun": {
+      "title": {
+        "en": "Brynhildr, Guðrún and the death of Sigurðr"
+      },
+      "age": "heroic",
+      "order_basis": {
+        "en": "Snorri tells it after Sigurðr wins the gold."
+      },
+      "hook": {
+        "en": "Two queens argued over whose husband was braver, and the answer got the bravest one killed."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "Sigurðr rode up a mountain and found a house where a woman lay asleep in helmet and mail. He cut the mail open with his sword and she woke. Snorri says she called herself Hildr, also called Brynhildr, and was a valkyrie."
+          },
+          "refs": [
+            "s-c48-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "In Sigrdrífumál the sleeper is called Sigrdrífa. She had struck down King Hjálmgunnarr in battle, though Óðinn had promised him victory, so Óðinn pricked her with a sleep-thorn and said she must marry. She vowed to marry no man who knew fear. Awake, she taught Sigurðr runes and gave him advice, including to swear no false oaths."
+          },
+          "refs": [
+            "sd-p1",
+            "sd-s2",
+            "sd-p4",
+            "sd-s23"
+          ]
+        },
+        {
+          "text": {
+            "en": "Sigurðr came to King Gjúki and Queen Grímhildr, whose children were Gunnarr, Högni, Guðrún and Guðný; Gotthormr was Gjúki's stepson. Sigurðr married Guðrún, and Gunnarr and Högni swore brotherhood with him. In Grípisspá, Sigurðr's uncle foretells that Grímhildr's tricks will make him forget Brynhildr."
+          },
+          "refs": [
+            "s-c48-2",
+            "sg-s1",
+            "sg-s2",
+            "grp-s31",
+            "grp-s33"
+          ]
+        },
+        {
+          "text": {
+            "en": "Next they rode to win Brynhildr, sister of King Atli Buðlason, for Gunnarr. She lived on a mountain inside a ring of flickering fire and had vowed to marry only the man who dared ride through it. Gunnarr's horse would not jump into the fire."
+          },
+          "refs": [
+            "s-c48-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "So Sigurðr and Gunnarr swapped shapes and names. Grani would carry no one but Sigurðr, so Sigurðr rode through the fire and that night married Brynhildr in Gunnarr's shape. In bed he laid the sword Gramr between them. In the morning he gave her the ring Loki had taken from Andvari and took another ring of hers as a keepsake. Then the two men changed back."
+          },
+          "refs": [
+            "s-c48-4",
+            "grp-s37",
+            "grp-s39",
+            "sg-s4"
+          ]
+        },
+        {
+          "text": {
+            "en": "One day Brynhildr and Guðrún went to wash their hair in a river. Brynhildr waded out further, saying she would not have water from Guðrún's hair on her own head, since her husband was braver. Guðrún answered that hers had killed Fáfnir and Reginn. Brynhildr said it was a greater deed that Gunnarr rode the fire."
+          },
+          "refs": [
+            "s-c49-1",
+            "s-c49-2",
+            "s-c49-3"
+          ]
+        },
+        {
+          "text": {
+            "en": "Guðrún laughed: 'Dost thou think that Gunnarr rode through the flaring fire?' The man who gave her own ring, she said, had slept beside Brynhildr; and the ring on Brynhildr's hand was Andvaranautr, which Gunnarr had certainly not fetched from Gnitaheiðr."
+          },
+          "refs": [
+            "s-c49-4"
+          ]
+        },
+        {
+          "text": {
+            "en": "Brynhildr said nothing and went home. Then she urged Gunnarr and Högni to kill Sigurðr. In Sigurðarkviða she says she must have Sigurðr or die, and threatens to leave Gunnarr unless Sigurðr and his son are killed; Högni warns against breaking their oaths. Because the brothers had sworn oaths to Sigurðr, they set their younger brother Gotthormr, who had sworn none, to do it."
+          },
+          "refs": [
+            "s-c49-5",
+            "sg-s6",
+            "sg-s11",
+            "sg-s12",
+            "sg-s17",
+            "sg-s20"
+          ]
+        },
+        {
+          "text": {
+            "en": "The sources disagree on how Sigurðr died. In Snorri and Sigurðarkviða, Gotthormr stabs him in bed while he sleeps; Sigurðr throws Gramr after him and cuts him in two, and Guðrún wakes in his blood. Snorri adds that Sigurðr's three-year-old son was killed too. In Brot and Guðrúnarkviða II he is killed out of doors, 'south of the Rhine', and Grani comes home riderless. The prose after Brot says that some tell one, some the other, but all agree he was betrayed and killed off guard."
+          },
+          "refs": [
+            "s-c49-5",
+            "sg-s21",
+            "sg-s22",
+            "sg-s24",
+            "br-s9",
+            "gdr2-s4",
+            "br-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Hearing Guðrún's weeping, Brynhildr laughed once with all her heart. Then she stabbed herself with a sword, and was burned on the same pyre as Sigurðr, with a sword between them as before. Gunnarr and Högni took Fáfnir's gold and the ring Andvaranautr."
+          },
+          "refs": [
+            "sg-s30",
+            "br-s14",
+            "s-c49-5",
+            "sg-s47",
+            "sg-s65",
+            "sg-s67"
+          ]
+        }
+      ],
+      "participants": [
+        "sigurdr",
+        "brynhild",
+        "sigrdrifa",
+        "hindarfjall",
+        "hjalmgunnarr",
+        "odin",
+        "gjuki",
+        "grimhildr",
+        "gudrun",
+        "gunnar",
+        "hogni",
+        "guthormr",
+        "etzel",
+        "gripir",
+        "grani",
+        "gramr",
+        "andvaranaut",
+        "rhine"
+      ],
+      "before": [
+        "sigurdr-and-fafnir"
+      ],
+      "after": [
+        "the-fall-of-the-gjukungs"
+      ],
+      "best": [
+        {
+          "row": "s-c49-4",
+          "why": {
+            "en": "Guðrún reveals the ring, and the deception."
+          }
+        },
+        {
+          "row": "br-p1",
+          "why": {
+            "en": "The old editor admits the sources disagree on Sigurðr's death."
+          }
+        },
+        {
+          "row": "sg-s30",
+          "why": {
+            "en": "Brynhildr's single laugh at Guðrún's grief."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "Snorri calls the woman Sigurðr wakes Brynhildr. Sigrdrífumál calls her Sigrdrífa (sd-p3), and Grípisspá seems to treat them as two women: one asleep on a mountain (grp-s15) and Brynhildr, raised by Heimir (grp-s27). Where and how Sigurðr died is told two ways: in bed (s-c49-5, sg-s24, ghv-s17, hm-s7) or out of doors south of the Rhine (br-s9, gdr2-s4); the prose note in br-p1 lists both. The river quarrel is told only by Snorri. A longer version is outside the Eddas, in Völsunga saga."
+      },
+      "order": 23,
+      "lane": "heroic"
+    },
+    "the-fall-of-the-gjukungs": {
+      "title": {
+        "en": "The fall of the Gjúkungs"
+      },
+      "age": "heroic",
+      "order_basis": {
+        "en": "Snorri tells it after Sigurðr's death, as the end of the gold's story."
+      },
+      "hook": {
+        "en": "The brothers sank the gold in the Rhine, and their sister took a terrible revenge for them."
+      },
+      "steps": [
+        {
+          "text": {
+            "en": "After Sigurðr's death King Atli, Brynhildr's brother, married Guðrún. Dráp Niflunga says Atli blamed Gjúki's sons for his sister's death, and the marriage was the price of peace. In Guðrúnarkviða II her mother Grímhildr gives her a drink of forgetting and a pile of gifts; Guðrún agrees unwillingly, and foresees that Atli will kill her brothers."
+          },
+          "refs": [
+            "s-c50-1",
+            "drn-p1",
+            "gdr2-s21",
+            "gdr2-s25",
+            "gdr2-s27",
+            "gdr2-s31",
+            "gdr2-s34"
+          ]
+        },
+        {
+          "text": {
+            "en": "Atli sent a messenger to invite Gunnarr and Högni and offer them great gifts. Guðrún tried to warn them: Atlakviða says she sent a ring wound with wolf's hair, and Atlamál says she carved runes that the messenger altered. Högni read the warning, but Gunnarr went anyway."
+          },
+          "refs": [
+            "akv-s1",
+            "akv-s3",
+            "akv-s8",
+            "akv-s11",
+            "am-s4",
+            "drn-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Before setting out, says Snorri, they hid Fáfnir's gold in the Rhine, and it has never been found."
+          },
+          "refs": [
+            "s-c50-1"
+          ]
+        },
+        {
+          "text": {
+            "en": "At Atli's hall Guðrún met her brothers: 'Betrayed art thou, Gunnar!' Atli's men fought them. In Atlakviða Gunnarr is taken and bound, and Högni kills seven men before he falls. In Atlamál Guðrún throws off her cloak, takes a sword and fights beside her brothers, killing two of Atli's men."
+          },
+          "refs": [
+            "akv-s15",
+            "akv-s18",
+            "akv-s19",
+            "am-s49",
+            "am-s50"
+          ]
+        },
+        {
+          "text": {
+            "en": "Gunnarr was offered his life for the gold. He asked first for Högni's heart in his hand. They cut out the heart of a slave, Hjalli, instead; Gunnarr knew it by its trembling. Then they cut out Högni's, and Högni laughed while they did it. Gunnarr said: 'To no one save me is the secret known Of the Niflungs' hoard'; 'The swift Rhine shall hold the strife-gold of heroes.'"
+          },
+          "refs": [
+            "akv-s20",
+            "akv-s21",
+            "akv-s22",
+            "akv-s23",
+            "akv-s24",
+            "akv-s25",
+            "akv-s26",
+            "akv-s27"
+          ]
+        },
+        {
+          "text": {
+            "en": "Gunnarr was thrown alive into a pit of snakes, where he played the harp. In Atlakviða he plays with his hand; in Atlamál and in Snorri he plays with his toes, because his hands are bound. Snorri says the music put all the snakes to sleep but one adder, which bit into his liver."
+          },
+          "refs": [
+            "akv-s31",
+            "am-s66",
+            "s-c50-1",
+            "drn-p1"
+          ]
+        },
+        {
+          "text": {
+            "en": "Guðrún held a funeral feast. She killed her two sons by Atli, Erpr and Eitill, had cups made from their skulls, mixed their blood into Atli's drink and gave him their hearts to eat. Then she told him what he had eaten."
+          },
+          "refs": [
+            "s-c50-2",
+            "akv-s36",
+            "akv-s37",
+            "am-s79",
+            "am-s82",
+            "am-s83"
+          ]
+        },
+        {
+          "text": {
+            "en": "Who killed Atli, and how, depends on the poem. Snorri: Guðrún and Högni's son killed him in his sleep and set the hall on fire. Atlakviða: Guðrún alone stabbed him in bed, then burned the hall with everyone inside. Atlamál: Högni's son and Guðrún killed him; Atli wakes and talks with her before he dies, and she promises him a ship and a painted coffin. There is no fire."
+          },
+          "refs": [
+            "s-c50-2",
+            "akv-s41",
+            "akv-s42",
+            "am-s88",
+            "am-s89",
+            "am-s90",
+            "am-s103",
+            "am-s104"
+          ]
+        },
+        {
+          "text": {
+            "en": "Guðrún walked into the sea to drown, but the waves carried her to the land of King Jónakr, who married her. Their sons were Sörli, Hamðir and Erpr. Svanhildr, Sigurðr's daughter, grew up there. King Jörmunrekkr sent his son Randvér to woo her for him; his counsellor Bikki said young Randvér should have her instead, then told the king. Jörmunrekkr hanged his son and had Svanhildr trampled to death under horses."
+          },
+          "refs": [
+            "s-c50-3",
+            "s-c50-4",
+            "ghv-p1",
+            "ghv-s13"
+          ]
+        },
+        {
+          "text": {
+            "en": "Guðrún goaded her sons into revenge and gave them mail iron could not bite. On the way they killed their brother Erpr, who said he would help them as one foot helps the other. They cut off Jörmunrekkr's hands and feet; 'His head were now off if Erp were living.' The king's men stoned them to death. With them, says Snorri, the whole line of Gjúki was gone."
+          },
+          "refs": [
+            "s-c50-5",
+            "s-c50-6",
+            "s-c50-8",
+            "s-c50-9",
+            "s-c50-10",
+            "ghv-s7",
+            "hm-s13",
+            "hm-s15",
+            "hm-s28",
+            "hm-s31"
+          ]
+        }
+      ],
+      "participants": [
+        "gudrun",
+        "etzel",
+        "grimhildr",
+        "gunnar",
+        "hogni",
+        "knefrodr",
+        "vingi",
+        "rhine",
+        "niflungar",
+        "gjukungar",
+        "eitill",
+        "erpr",
+        "jonakr",
+        "svanhildr",
+        "jormunrekkr",
+        "randver",
+        "bikki",
+        "hamdir",
+        "sorli"
+      ],
+      "before": [
+        "brynhildr-and-gudrun"
+      ],
+      "after": [],
+      "best": [
+        {
+          "row": "akv-s27",
+          "why": {
+            "en": "Gunnarr's last word on the gold: the Rhine shall keep it."
+          }
+        },
+        {
+          "row": "s-c50-1",
+          "why": {
+            "en": "Snorri's snake pit, harp and adder in one passage."
+          }
+        },
+        {
+          "row": "hm-s30",
+          "why": {
+            "en": "The last brothers: no one outlives the norns' verdict."
+          }
+        }
+      ],
+      "sources_differ": {
+        "en": "The poems disagree on many details. Gunnarr plays the harp with his hand in Atlakviða (akv-s31) but with his toes in Atlamál and Snorri (am-s66, s-c50-1). Atli is killed by Guðrún alone in Atlakviða (akv-s41), by Guðrún with Högni's son in Snorri and Atlamál (s-c50-2, am-s89); only Snorri and Atlakviða burn the hall. In Atlamál the messenger is Vingi (am-s4), in Atlakviða Knéfröðr (akv-s1). Snorri makes Erpr Guðrún's son by Jónakr; Hamðismál calls him a half-brother by another mother (hm-s13). Snorri says Jörmunrekkr ordered the stoning; in Hamðismál the order comes from an unnamed man in the hall, 'the king, of the race of the gods' (hm-s25)."
+      },
+      "order": 24,
+      "lane": "heroic"
     }
-   ],
-   "participants": [
-    "odin",
-    "ymir",
-    "embla"
-   ],
-   "before": null,
-   "after": "thrym"
-  },
-  {
-   "id": "thrym",
-   "title": {
-    "en": "Þórr's hammer stolen"
-   },
-   "age": "deeds",
-   "lane": "gods",
-   "order": 2,
-   "order_basis": {
-    "en": "Þrymskviða gives no time; placed among the gods' deeds as a reading aid."
-   },
-   "hook": {
-    "en": "A giant steals Mjöllnir and asks for Freyja as his bride; Þórr goes to the wedding in her place."
-   },
-   "steps": [
-    {
-     "text": {
-      "en": "Þórr wakes to find his hammer gone."
-     },
-     "refs": [
-      "thrk-s1"
-     ]
-    },
-    {
-     "text": {
-      "en": "The giant Þrymr has hidden it deep in the earth and will give it back only for Freyja."
-     },
-     "refs": [
-      "thrk-s7"
-     ]
-    },
-    {
-     "text": {
-      "en": "Þórr goes as the bride; when the hammer is laid in his lap to hallow the marriage, he takes it and kills Þrymr."
-     },
-     "refs": [
-      "thrk-s30",
-      "thrk-s31"
-     ]
-    }
-   ],
-   "participants": [
-    "thor",
-    "loki",
-    "thrymr",
-    "freyja"
-   ],
-   "before": "making-of-the-world",
-   "after": null
   }
- ]
 }

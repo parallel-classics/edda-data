@@ -1,23 +1,556 @@
 {
- "_note": "Mímir (task 34, edda-site docs/specs/MIMIR.md). PILOT SAMPLE by Claude Code, 2026-11-08: a few entries to build the pages against, until the cloud session's content arrives (it replaces this file). AI draft, not reviewed; CC BY 4.0.",
- "sections": [
-  {
-   "id": "aesir",
-   "title": {
-    "en": "The Æsir",
-    "is": "Æsir"
-   },
-   "plate": null,
-   "intro": {
-    "en": "The gods of Ásgarðr, with Óðinn at their head. Snorri lists them one by one in Gylfaginning 20-34."
-   },
-   "refs": [
-    "g-c20-1"
-   ],
-   "entities": [
-    "odin",
-    "thor"
-   ]
-  }
- ]
+  "_note": "Mímir sections (task 34): the order of /mimir/who/. 'plate' = the picture plate (P1..P18; 'worlds' = the world map). 'refs' = rows behind the intro. Draft by Claude, not reviewed.",
+  "sections": [
+    {
+      "id": "aesir",
+      "order": 1,
+      "title": {
+        "en": "The Æsir"
+      },
+      "intro": {
+        "en": "The main family of gods, led by Óðinn, living in Ásgarðr."
+      },
+      "plate": "P1",
+      "entities": [
+        "odin",
+        "thor",
+        "baldur",
+        "tyr",
+        "heimdall",
+        "bragi",
+        "loki"
+      ],
+      "refs": [
+        "g-c20-1",
+        "g-c21-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "aesir-more",
+      "order": 2,
+      "title": {
+        "en": "More of the Æsir"
+      },
+      "intro": {
+        "en": "Gods who appear less often but each have their own story."
+      },
+      "plate": "P2",
+      "entities": [
+        "hodr",
+        "vidarr",
+        "vali",
+        "ull",
+        "forseti",
+        "h-nir",
+        "mimir",
+        "hermodr",
+        "magni",
+        "modi",
+        "ve",
+        "rig"
+      ],
+      "refs": [
+        "g-c28-1",
+        "g-c29-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "asynjur",
+      "order": 3,
+      "title": {
+        "en": "The goddesses"
+      },
+      "intro": {
+        "en": "The Ásynjur: Frigg, her companions, and the wives of the gods."
+      },
+      "plate": "P3",
+      "entities": [
+        "frigg",
+        "fulla",
+        "sif",
+        "idunn",
+        "gefjon",
+        "skadi",
+        "saga",
+        "eir",
+        "gna",
+        "nanna",
+        "sigyn",
+        "thrudr",
+        "jord",
+        "rindr"
+      ],
+      "refs": [
+        "g-c35-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "vanir",
+      "order": 4,
+      "title": {
+        "en": "The Vanir"
+      },
+      "intro": {
+        "en": "A second family of gods, once at war with the Æsir, then joined with them through hostages."
+      },
+      "plate": "P4",
+      "entities": [
+        "njordr",
+        "freyr",
+        "freyja",
+        "gullveig",
+        "kvasir",
+        "gerdr",
+        "skirnir",
+        "odr",
+        "hnoss"
+      ],
+      "refs": [
+        "g-c23-1",
+        "vsp-s21"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "lokis-children",
+      "order": 5,
+      "title": {
+        "en": "Loki's children"
+      },
+      "intro": {
+        "en": "Three children born to Loki and a giantess, each bound or banished by the gods — and Sleipnir."
+      },
+      "plate": "P5",
+      "entities": [
+        "laufey",
+        "farbauti",
+        "angrboda",
+        "fenrir",
+        "jormungandr",
+        "hel",
+        "sleipnir",
+        "vali-2",
+        "nari",
+        "sigyn"
+      ],
+      "refs": [
+        "g-c34-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "mounts",
+      "order": 6,
+      "title": {
+        "en": "The gods' animals and other beasts"
+      },
+      "intro": {
+        "en": "Horses, goats, boars, wolves and ravens that belong to the gods, and the hound Garmr."
+      },
+      "plate": "P6",
+      "entities": [
+        "sleipnir",
+        "tanngnjostr",
+        "tanngrisnir",
+        "gullinbursti",
+        "huginn",
+        "munin",
+        "geri",
+        "freki",
+        "gulltoppr",
+        "svadilfari",
+        "garmr",
+        "grani"
+      ],
+      "refs": [
+        "g-c38-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "sky",
+      "order": 7,
+      "title": {
+        "en": "Sun, moon, day and night"
+      },
+      "intro": {
+        "en": "How the sky is driven, and the wolves that chase it."
+      },
+      "plate": "P7",
+      "entities": [
+        "sol",
+        "mani",
+        "nott",
+        "dagr",
+        "dellingr",
+        "skoll",
+        "hati",
+        "managarmr",
+        "arvakr",
+        "alsvidr",
+        "hrimfaxi",
+        "skinfaxi",
+        "hraesvelgr"
+      ],
+      "refs": [
+        "g-c10-1",
+        "g-c11-1",
+        "g-c12-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "first-giants",
+      "order": 8,
+      "title": {
+        "en": "Giants of the beginning and the end"
+      },
+      "intro": {
+        "en": "The first beings, and the giants who will come at Ragnarök."
+      },
+      "plate": "P8",
+      "entities": [
+        "ymir",
+        "audumbla",
+        "borr",
+        "bergelmir",
+        "vafthrudnir",
+        "narfi",
+        "hyrrokkin",
+        "surtr",
+        "hrym",
+        "beli",
+        "fjolsvidr"
+      ],
+      "refs": [
+        "g-c5-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "thors-giants",
+      "order": 9,
+      "title": {
+        "en": "Þórr's giants"
+      },
+      "intro": {
+        "en": "The giants Þórr visits, fools or kills."
+      },
+      "plate": "P9",
+      "entities": [
+        "hrungnir",
+        "geirrodr",
+        "gjalp",
+        "greip",
+        "hymir",
+        "thrymr",
+        "skrymir",
+        "utgarda-loki",
+        "logi",
+        "hugi",
+        "thjazi",
+        "thjalfi",
+        "roskva"
+      ],
+      "refs": [
+        "g-c44-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "sea-and-giantesses",
+      "order": 10,
+      "title": {
+        "en": "The sea and the giantesses"
+      },
+      "intro": {
+        "en": "Ægir and Rán, the mead's guardian, the mill-maids."
+      },
+      "plate": "P10",
+      "entities": [
+        "aegir",
+        "ran",
+        "gerdr",
+        "gymir",
+        "gunnlod",
+        "suttungr",
+        "baugi",
+        "fenja",
+        "menja",
+        "skadi",
+        "jarnsaxa",
+        "hyndla",
+        "hrimgerdr",
+        "thokk"
+      ],
+      "refs": [
+        "s-c1-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "dwarves",
+      "order": 11,
+      "title": {
+        "en": "Dwarves"
+      },
+      "intro": {
+        "en": "Makers of the gods' treasures, born in the earth."
+      },
+      "plate": "P11",
+      "entities": [
+        "brokkr",
+        "sindri",
+        "ivaldi",
+        "andvari",
+        "alviss",
+        "fjalar",
+        "galar",
+        "dvalinn",
+        "durinn",
+        "nordri",
+        "sudri",
+        "austri",
+        "vestri"
+      ],
+      "refs": [
+        "g-c14-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "elves",
+      "order": 12,
+      "title": {
+        "en": "Elves"
+      },
+      "intro": {
+        "en": "The light elves and the dark elves, and Völundr."
+      },
+      "plate": "P12",
+      "entities": [
+        "alfheimr",
+        "ljosalfar",
+        "dokkalfar",
+        "wayland-the-smith"
+      ],
+      "refs": [
+        "g-c17-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "norns-valkyries",
+      "order": 13,
+      "title": {
+        "en": "Norns and valkyries"
+      },
+      "intro": {
+        "en": "The women who shape fate and choose the slain."
+      },
+      "plate": "P13",
+      "entities": [
+        "urdarbrunnr",
+        "verdandi",
+        "skuld",
+        "hildr",
+        "skogul",
+        "mist",
+        "hrist",
+        "gondul",
+        "reginleif"
+      ],
+      "refs": [
+        "g-c15-1",
+        "g-c36-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "treasures",
+      "order": 14,
+      "title": {
+        "en": "The gods' treasures"
+      },
+      "intro": {
+        "en": "Weapons, rings, ships and fetters, and who made them."
+      },
+      "plate": "P14",
+      "entities": [
+        "mjolnir",
+        "gungnir",
+        "draupnir",
+        "skidbladnir",
+        "gleipnir",
+        "laedingr",
+        "droma",
+        "brisingamen",
+        "gjallarhorn",
+        "andvaranaut",
+        "odrerir",
+        "bodn",
+        "son",
+        "mead-of-poetry",
+        "hlidskjalf",
+        "naglfar",
+        "grotti",
+        "hringhorni"
+      ],
+      "refs": [
+        "s-c43-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "valhalla",
+      "order": 15,
+      "title": {
+        "en": "Valhöll and the slain"
+      },
+      "intro": {
+        "en": "Where Óðinn's chosen warriors fight and feast."
+      },
+      "plate": "P15",
+      "entities": [
+        "valhalla",
+        "eikthyrnir",
+        "heidrun",
+        "saehrimnir",
+        "vingolf",
+        "gladsheimr"
+      ],
+      "refs": [
+        "g-c38-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "places",
+      "order": 16,
+      "title": {
+        "en": "The worlds and their places"
+      },
+      "intro": {
+        "en": "The tree, the wells, the halls and the realms. See also the map of the worlds."
+      },
+      "plate": "worlds",
+      "entities": [
+        "yggdrasil",
+        "asgard",
+        "midgard",
+        "jotunheim",
+        "urdarbrunnr",
+        "mimisbrunnr",
+        "hvergelmir",
+        "bifrost",
+        "breidablik",
+        "himinbjorg",
+        "bilskirnir",
+        "thrudvangr",
+        "sokkvabekkr",
+        "fensalir",
+        "glitnir",
+        "noatun",
+        "thrymheimr",
+        "vanaheimr",
+        "svartalfaheimr",
+        "niflheim",
+        "muspelheim",
+        "ginnungagap",
+        "jarnvidr",
+        "idavollr",
+        "gimle",
+        "vigridr",
+        "gnipahellir",
+        "nidhoggr",
+        "ratatoskr"
+      ],
+      "refs": [
+        "g-c15-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "heroes",
+      "order": 17,
+      "title": {
+        "en": "Heroes of the cursed gold"
+      },
+      "intro": {
+        "en": "The Völsungs and the Gjúkungs: Sigurðr, Brynhildr, Guðrún and the gold of Andvari."
+      },
+      "plate": "P18",
+      "entities": [
+        "sigurdr",
+        "fafnir",
+        "regin",
+        "hreidmarr",
+        "otr",
+        "brynhild",
+        "gudrun",
+        "gunnar",
+        "hogni",
+        "gjuki",
+        "grimhildr",
+        "etzel",
+        "budli",
+        "svanhildr",
+        "sigmund",
+        "sinfjotli",
+        "hamdir",
+        "sorli",
+        "erpr",
+        "jormunrekkr",
+        "oddrun",
+        "borghild",
+        "hjordis"
+      ],
+      "refs": [
+        "s-c46-1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "helgi",
+      "order": 18,
+      "title": {
+        "en": "The Helgi poems"
+      },
+      "intro": {
+        "en": "Two heroes named Helgi and the valkyries who loved them."
+      },
+      "plate": "",
+      "entities": [
+        "helgi-hundingsbani",
+        "sigrun",
+        "helgi-hjorvardsson",
+        "svafa"
+      ],
+      "refs": [
+        "hh1-s1"
+      ],
+      "status": "draft",
+      "by": "claude"
+    }
+  ]
 }

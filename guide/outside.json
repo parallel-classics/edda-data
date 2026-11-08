@@ -1,44 +1,460 @@
 {
- "_note": "Mímir (task 34, edda-site docs/specs/MIMIR.md). PILOT SAMPLE by Claude Code, 2026-11-08: a few entries to build the pages against, until the cloud session's content arrives (it replaces this file). AI draft, not reviewed; CC BY 4.0.",
- "sources": [
-  {
-   "id": "saxo",
-   "title": {
-    "en": "Saxo Grammaticus, Gesta Danorum"
-   },
-   "date": "about 1200",
-   "what": {
-    "en": "A Latin history of the Danes that retells many of the same figures as human kings and heroes."
-   },
-   "adds": {
-    "en": "Other versions of the stories of Baldr (Balderus) and Hamlet (Amlethus)."
-   },
-   "differs": {
-    "en": "Baldr is a warrior killed in battle by Høtherus, not by the mistletoe."
-   },
-   "read": [
-    {
-     "label": "Wikisource (English, Elton 1894)",
-     "url": "https://en.wikisource.org/wiki/The_Nine_Books_of_the_Danish_History_of_Saxo_Grammaticus"
+  "_note": "Mímir (task 34) content, drafted by an AI model (Claude) from the aligned texts of Open Edda; every fact cites row ids. status draft = not reviewed. CC BY 4.0. Generated 2026-11-08.",
+  "outside": {
+    "ynglinga-saga": {
+      "title": {
+        "en": "Ynglinga saga"
+      },
+      "who": {
+        "en": "Snorri Sturluson"
+      },
+      "date": {
+        "en": "c. 1225"
+      },
+      "what": {
+        "en": "The first saga of Snorri's history of the Norwegian kings, Heimskringla. It traces the Swedish Yngling kings back to Óðinn, Njǫrðr and Freyr, told as human rulers."
+      },
+      "adds": {
+        "en": "It tells stories the Eddas only hint at: how the Æsir and Vanir made peace and swapped hostages, how Mímir was beheaded and Óðinn kept his head to give him counsel, and how Freyr ruled at Uppsala and was buried in a mound. Gefjun's ploughing out of Zealand appears in both works."
+      },
+      "differs": {
+        "en": "The gods are mortal men from Ásaland near the river Tanais who are later worshipped as gods, much as in Snorri's Prologue."
+      },
+      "kind": "source",
+      "refs": [
+        "g-c1-1",
+        "g-c23-1",
+        "vsp-s46",
+        "s-c5-2"
+      ],
+      "read": [
+        {
+          "label": "Old Norse text (heimskringla.no)",
+          "url": "https://www.heimskringla.no/wiki/Ynglinga_saga"
+        }
+      ]
+    },
+    "prologue-euhemerism": {
+      "title": {
+        "en": "Snorri's Prologue"
+      },
+      "who": {
+        "en": "Snorri Sturluson"
+      },
+      "date": {
+        "en": "c. 1220"
+      },
+      "what": {
+        "en": "The opening of Snorri's Edda, included in Open Edda. It begins with God's creation and Noah's flood and explains the Norse gods as people from Troy who moved north and were taken for gods."
+      },
+      "adds": {
+        "en": "It is the key to how a Christian author could write down heathen myth: Þórr is Trór, grandson of King Priam of Troy, and Óðinn leads his people from 'Asia' to Sweden, so the Æsir become 'men of Asia'. Gylfaginning carries the idea on, calling Ásgarðr Troy, and Skáldskaparmál warns Christians not to believe the tales except as the book's opening explains them."
+      },
+      "differs": {
+        "en": "Its gods are human kings and heroes, which contradicts the gods of the poems; scholars call this approach euhemerism."
+      },
+      "kind": "source",
+      "refs": [
+        "p-c1-1",
+        "p-c1-2",
+        "p-c3-1",
+        "p-c3-2",
+        "p-c4-1",
+        "p-c5-1",
+        "g-c9-2",
+        "s-c8-1"
+      ],
+      "read": []
+    },
+    "saxo": {
+      "title": {
+        "en": "Gesta Danorum (Deeds of the Danes)"
+      },
+      "who": {
+        "en": "Saxo Grammaticus"
+      },
+      "date": {
+        "en": "finished after 1208"
+      },
+      "what": {
+        "en": "A Latin history of Denmark in sixteen books, written for Archbishop Absalon. The first nine books retell legends of the gods and early kings."
+      },
+      "adds": {
+        "en": "It is an independent Danish witness to many Eddic figures: Balderus, Høtherus and Nanna, Othinus and Rinda, a journey to the giant Geruthus (Geirrøðr) and to a chained Utgarthilocus. It also has the story of Amleth, the source of Hamlet."
+      },
+      "differs": {
+        "en": "The gods are powerful humans or demons. Baldr and Høðr are rivals for Nanna, a human woman, and Høðr mortally wounds Baldr in their feud; there is no mistletoe."
+      },
+      "kind": "source",
+      "refs": [
+        "g-c49-11",
+        "s-c26-10",
+        "g-c50-4"
+      ],
+      "read": [
+        {
+          "label": "Books I–IX in English, tr. Oliver Elton (Project Gutenberg)",
+          "url": "https://www.gutenberg.org/ebooks/1150"
+        }
+      ]
+    },
+    "skaldic-poetry": {
+      "title": {
+        "en": "Skaldic poetry: Ragnarsdrápa, Haustlöng, Húsdrápa, Þórsdrápa"
+      },
+      "who": {
+        "en": "Bragi Boddason, Þjóðólfr of Hvinir, Úlfr Uggason, Eilífr Goðrúnarson"
+      },
+      "date": {
+        "en": "9th–10th centuries"
+      },
+      "what": {
+        "en": "Court poems by named poets, several describing myth pictures on shields or the walls of a hall. They survive mostly because Snorri quotes them in his Edda."
+      },
+      "adds": {
+        "en": "They are the oldest datable witnesses to the myths, mostly composed before Iceland's conversion. Snorri names his sources: Haustlöng for Þórr and Hrungnir and for Iðunn and Þjazi, Þórsdrápa for Þórr's trip to Geirrøðr, Húsdrápa for Baldr's funeral and for Heimdallr and Loki fighting over Brísingamen, and verses by Bragi the Old, many from his Ragnarsdrápa, for Gefjun, Þórr's fishing and the endless battle of the Hjaðningar."
+      },
+      "differs": {
+        "en": "Each poem shows only a scene, in dense kennings; Snorri's prose fills in the story around them, and sometimes adds details they lack."
+      },
+      "kind": "source",
+      "refs": [
+        "s-c25-1",
+        "s-c30-2",
+        "s-c26-10",
+        "s-c12-1",
+        "s-c15-1",
+        "s-c62-7",
+        "g-c1-2",
+        "s-c11-2"
+      ],
+      "read": [
+        {
+          "label": "Haustlöng, Old Norse text (heimskringla.no)",
+          "url": "https://www.heimskringla.no/wiki/Haustlöng"
+        }
+      ]
+    },
+    "volsunga-saga": {
+      "title": {
+        "en": "Völsunga saga"
+      },
+      "who": {
+        "en": "anonymous Icelandic author"
+      },
+      "date": {
+        "en": "late 13th century (manuscript c. 1400)"
+      },
+      "what": {
+        "en": "A prose saga of the Völsung family, from Sigi and Sigmundr to Sigurðr, the Gjúkungs and Guðrún's last revenge, built largely on the heroic poems of the Poetic Edda."
+      },
+      "adds": {
+        "en": "It tells the whole story in order, and it covers the part of Sigurðr's life lost with the missing leaves of the Codex Regius. Snorri gives a short version of the same story in Skáldskaparmál."
+      },
+      "differs": {
+        "en": "It smooths the poems into one plot, so where the poems disagree with each other the saga picks one version or adds connecting scenes."
+      },
+      "kind": "source",
+      "refs": [
+        "s-c46-3",
+        "s-c48-3",
+        "s-c49-5",
+        "rm-s5"
+      ],
+      "read": [
+        {
+          "label": "The Story of the Volsungs, tr. Magnússon and Morris (Project Gutenberg)",
+          "url": "https://www.gutenberg.org/ebooks/1152"
+        },
+        {
+          "label": "Same translation (sacred-texts)",
+          "url": "https://sacred-texts.com/neu/vlsng/index.htm"
+        }
+      ]
+    },
+    "sorla-thattr": {
+      "title": {
+        "en": "Sörla þáttr (Heðins saga ok Högna)"
+      },
+      "who": {
+        "en": "anonymous; copied by the priests Jón Þórðarson and Magnús Þórhallsson"
+      },
+      "date": {
+        "en": "c. 1390 (Flateyjarbók)"
+      },
+      "what": {
+        "en": "A short tale inside the long saga of King Óláfr Tryggvason in Flateyjarbók. It explains the endless battle of Heðinn and Högni."
+      },
+      "adds": {
+        "en": "It is the only source for Freyja buying Brísingamen with a night with each of four dwarves, and for Loki stealing it as a flea. It links that theft to the Hjaðningavíg, which Snorri and Bragi also describe."
+      },
+      "differs": {
+        "en": "Óðinn is a king in Asia and Freyja his concubine, Heimdallr plays no part, and the coming of King Óláfr's man ends the curse."
+      },
+      "kind": "source",
+      "refs": [
+        "g-c35-7",
+        "s-c15-1",
+        "s-c62-7"
+      ],
+      "read": [
+        {
+          "label": "English translations by Tunstall and by Magnússon & Morris (germanicmythology.com)",
+          "url": "https://germanicmythology.com/FORNALDARSAGAS/SorliThattrHedinHogniMorrisTunstall.html"
+        }
+      ]
+    },
+    "tacitus-germania": {
+      "title": {
+        "en": "Germania"
+      },
+      "who": {
+        "en": "Publius Cornelius Tacitus"
+      },
+      "date": {
+        "en": "AD 98"
+      },
+      "what": {
+        "en": "A short Roman account of the Germanic peoples, written more than seven centuries before the Viking Age."
+      },
+      "adds": {
+        "en": "It shows Germanic gods long before the Norse texts. Tacitus calls them by Roman names, Mercury (usually taken as Wodan/Óðinn), Hercules and Mars, and describes a goddess Nerthus, 'Mother Earth', carried in a covered wagon. Her name matches that of Njǫrðr, the Vanir god of wind and sea in the Eddas."
+      },
+      "differs": {
+        "en": "It is an outsider's view of continental tribes, not Norse myth; Nerthus is a goddess where Njǫrðr is a god."
+      },
+      "kind": "source",
+      "refs": [
+        "g-c23-1"
+      ],
+      "read": [
+        {
+          "label": "The Germany and the Agricola, Oxford translation (Project Gutenberg)",
+          "url": "https://www.gutenberg.org/ebooks/7524"
+        }
+      ]
+    },
+    "adam-of-bremen": {
+      "title": {
+        "en": "Gesta Hammaburgensis ecclesiae pontificum (History of the Archbishops of Hamburg-Bremen)"
+      },
+      "who": {
+        "en": "Adam of Bremen"
+      },
+      "date": {
+        "en": "1073–1076"
+      },
+      "what": {
+        "en": "A Latin church history of the north German mission; its fourth book describes the lands and peoples of Scandinavia."
+      },
+      "adds": {
+        "en": "It has the best-known near-contemporary description of a heathen temple, at Uppsala: images of Thor in the middle with Wodan and Fricco (Freyr) beside him, a great feast every nine years with nine days of sacrifices, and a sacred tree and well nearby. Adam says Wodan, 'that is, fury', wages war, and Fricco gives peace and pleasure; the Eddas, too, link Óðinn with the slain and Freyr with peace."
+      },
+      "differs": {
+        "en": "It is a Christian cleric's hostile report from hearsay; it puts Thor, not Óðinn, at the head of the gods, and it tells no myths."
+      },
+      "kind": "source",
+      "refs": [
+        "g-c24-1",
+        "g-c20-6",
+        "g-c21-2",
+        "g-c15-4"
+      ],
+      "read": [
+        {
+          "label": "German translation by J. C. M. Laurent (Wikisource)",
+          "url": "https://de.wikisource.org/wiki/Hamburgische_Kirchengeschichte"
+        },
+        {
+          "label": "Temple at Uppsala, with the key passage (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Temple_at_Uppsala"
+        }
+      ]
+    },
+    "picture-stones": {
+      "title": {
+        "en": "Picture stones and carved monuments"
+      },
+      "who": {
+        "en": "unknown Viking-Age carvers in Gotland, Sweden, Denmark and northern England"
+      },
+      "date": {
+        "en": "c. 400–1100"
+      },
+      "what": {
+        "en": "Carved stones that show scenes from myth and legend: the Gotland picture stones, the Altuna runestone and Ramsund carving in Sweden, the Hunnestad monument in Scania and the Gosforth Cross in Cumbria."
+      },
+      "adds": {
+        "en": "They prove that stories told by Snorri two centuries later were known in the Viking Age. Altuna (11th century) shows Þórr fishing for the serpent with his foot through the boat, as in Snorri; Gosforth (c. 920–950) shows Víðarr tearing the wolf's jaw and Loki bound with Sigyn beside him; Ramsund (c. 1030) shows Sigurðr, Fáfnir and Reginn; Gotland stones show an eight-legged horse; and a Hunnestad stone shows a woman riding a wolf, perhaps Hyrrokkin."
+      },
+      "differs": {
+        "en": "They have no captions, so identifications are interpretations; the Gosforth Cross mixes Norse scenes with the Crucifixion."
+      },
+      "kind": "source",
+      "refs": [
+        "g-c48-6",
+        "g-c51-5",
+        "g-c50-4",
+        "fm-p4",
+        "fm-s27",
+        "g-c15-6",
+        "g-c49-15",
+        "hhv-p6"
+      ],
+      "read": [
+        {
+          "label": "Gotlandic Picture Stones database (Gotlands Museum)",
+          "url": "https://gotlandicpicturestones.se.gotlandsmuseum.se/s/index/page/iconography"
+        }
+      ]
+    },
+    "place-names": {
+      "title": {
+        "en": "Place-names"
+      },
+      "who": {
+        "en": "the people of Scandinavia, over many centuries"
+      },
+      "date": {
+        "en": "Iron Age and Viking Age"
+      },
+      "what": {
+        "en": "Names of farms, towns and holy sites that contain a god's name, such as Odense in Denmark (Óðins vé, 'Óðinn's sanctuary', first recorded in 988) or Ullensvang and Ullevi ('Ullr's field', 'Ullr's sanctuary') in Norway and Sweden."
+      },
+      "adds": {
+        "en": "They show where gods were actually worshipped. Ullr, who gets only a few lines in the Eddas (a fine archer and skier, Sif's son, with a home at Ýdalir), is common in Norwegian and Swedish place-names, so he once mattered far more than the texts suggest."
+      },
+      "differs": {
+        "en": "Names tell us of cult, not of stories."
+      },
+      "kind": "source",
+      "refs": [
+        "g-c31-1",
+        "grm-s5"
+      ],
+      "read": []
+    },
+    "romantic-art": {
+      "title": {
+        "en": "Romantic art and illustration"
+      },
+      "who": {
+        "en": "Lorenz Frølich, Carl Emil Doepler, W. G. Collingwood, Arthur Rackham and others"
+      },
+      "date": {
+        "en": "19th – early 20th century"
+      },
+      "what": {
+        "en": "Paintings, book illustrations and stage designs of the Norse gods made in the age of national romanticism. Frølich (1820–1908) illustrated Danish books on the northern gods and Gjellerup's Edda (1895); Doepler (1824–1905) designed the costumes for Wagner's Ring at Bayreuth in 1876; Collingwood (1854–1932) illustrated Olive Bray's Elder Edda (1908)."
+      },
+      "adds": {
+        "en": "These images created the look most people now picture: winged and horned helmets, flowing beards and heroic poses. They show how the 19th century read the Eddas."
+      },
+      "differs": {
+        "en": "Many details, such as horns and wings, have no support in the Eddas or in Viking-Age finds."
+      },
+      "kind": "reception",
+      "refs": [],
+      "read": [
+        {
+          "label": "MyNDIR: Norse mythology illustrations (University of Victoria)",
+          "url": "https://myndir.uvic.ca/"
+        },
+        {
+          "label": "The Ring at Bayreuth: costumes and the Germanic image (Deutsches Historisches Museum, in German)",
+          "url": "https://www.dhm.de/archiv/ausstellungen/walhall/nib1.htm"
+        }
+      ]
+    },
+    "wagner": {
+      "title": {
+        "en": "Der Ring des Nibelungen"
+      },
+      "who": {
+        "en": "Richard Wagner"
+      },
+      "date": {
+        "en": "1848–1874; first full cycle Bayreuth, August 1876"
+      },
+      "what": {
+        "en": "A cycle of four operas: Das Rheingold, Die Walküre, Siegfried and Götterdämmerung, built from the Eddas, Völsunga saga, Þiðreks saga and the German Nibelungenlied."
+      },
+      "adds": {
+        "en": "It brought Óðinn (as Wotan), the valkyries, the cursed ring and the twilight of the gods to a world audience, and its staging fixed many popular images of the Norse world."
+      },
+      "differs": {
+        "en": "Wagner reshaped the material freely: Brünnhilde is Wotan's daughter, Hagen kills Siegfried, the ring is forged by Alberich from the Rhine gold, and the gods' world ends in fire without the Eddic renewal."
+      },
+      "kind": "reception",
+      "refs": [
+        "rm-s5",
+        "sd-p4",
+        "s-c48-3",
+        "s-c49-5"
+      ],
+      "read": [
+        {
+          "label": "Siegfried & The Twilight of the Gods, tr. Margaret Armour, ill. Arthur Rackham (Project Gutenberg)",
+          "url": "https://www.gutenberg.org/ebooks/49507"
+        }
+      ]
+    },
+    "modern-pop": {
+      "title": {
+        "en": "Comics, films, games and novels"
+      },
+      "who": {
+        "en": "Marvel (Stan Lee, Larry Lieber, Jack Kirby), J. R. R. Tolkien, game and film studios"
+      },
+      "date": {
+        "en": "20th–21st centuries"
+      },
+      "what": {
+        "en": "Modern retellings and inventions: Marvel's Thor (from Journey into Mystery #83, 1962) and its films, Tolkien's dwarves and Gandalf with names taken from Völuspá, and many video games."
+      },
+      "adds": {
+        "en": "They have made the names Óðinn, Þórr, Loki, Asgard and Ragnarök known worldwide, and they send many readers back to the Eddas."
+      },
+      "differs": {
+        "en": "They often change families and powers: Loki as Thor's adopted brother, a hammer only the worthy can lift, a fixed map of nine worlds."
+      },
+      "kind": "reception",
+      "refs": [
+        "vsp-s12"
+      ],
+      "read": []
+    },
+    "modern-paganism": {
+      "title": {
+        "en": "Modern heathenry (Ásatrú)"
+      },
+      "who": {
+        "en": "Ásatrúarfélagið in Iceland and similar groups elsewhere"
+      },
+      "date": {
+        "en": "founded 1972; recognised in Iceland 1973"
+      },
+      "what": {
+        "en": "Modern religious movements that honour the Norse gods. Iceland's Ásatrúarfélagið was founded in 1972 by the farmer-poet Sveinbjörn Beinteinsson and others and became a registered religion in 1973."
+      },
+      "adds": {
+        "en": "They use the Eddas as living cultural heritage: verses from the Poetic Edda are recited at their blót ceremonies, and they hold Edda evenings."
+      },
+      "differs": {
+        "en": "Ásatrúarfélagið has no fixed dogma, and modern heathen practice is a reconstruction, not an unbroken tradition from the Viking Age."
+      },
+      "kind": "reception",
+      "refs": [],
+      "read": [
+        {
+          "label": "Ásatrúarfélagið (in Icelandic)",
+          "url": "https://asatru.is/"
+        },
+        {
+          "label": "Ásatrúarfélagið (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/%C3%81satr%C3%BAarf%C3%A9lagi%C3%B0"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "id": "volsunga",
-   "title": {
-    "en": "Völsunga saga"
-   },
-   "date": "13th century",
-   "what": {
-    "en": "A prose saga of the Völsungs that tells the whole story of Sigurðr, Brynhildr and Guðrún in order."
-   },
-   "adds": {
-    "en": "The parts of the story lost with the missing leaves of the Codex Regius."
-   },
-   "differs": {
-    "en": "Details of Sigurðr's death and Brynhildr's vows differ between the saga and the poems."
-   },
-   "read": []
   }
- ]
 }
