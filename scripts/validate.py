@@ -757,34 +757,38 @@ def check_summaries(d, ids_out):
 
 
 def check_guide(rows):
-    """guide/ (Mímir, task 34): every passage ref is a row id, every entity id exists, every story step has a ref,
-    symmetric relations come in pairs, stories, ages, myths and paths point at things that exist."""
+    """guide/ (Mímir, task 34): every passage ref is a row id, every entity id exists, every fact and story step has
+    a passage, relations use the known kinds, and stories, ages, myths, outside entries and paths point at things
+    that exist. Collections are objects keyed by id (cards, stories, myths, outside, paths, ages) or lists (sections,
+    relations)."""
     gd = os.path.join(ROOT, "guide")
     if not os.path.isdir(gd):
         return 0
     ep = os.path.join(ROOT, "entities", "entities.json")
     ents = {e["id"] for e in load(ep).get("entities", [])} if os.path.exists(ep) else set()
 
-    def g(name, key):
+    def g(name, key, default):
         p = os.path.join(gd, name)
-        return load(p).get(key, {} if key == "cards" else []) if os.path.exists(p) else ({} if key == "cards" else [])
+        return load(p).get(key, default) if os.path.exists(p) else default
 
     def refs(where, rr):
         for r in rr or []:
             if r not in rows:
                 err(f"guide/{where}: ref {r!r} is not a row id")
-    cards, stories, ages = g("cards.json", "cards"), g("stories.json", "stories"), g("ages.json", "ages")
-    myths, sections = g("myths.json", "myths"), g("sections.json", "sections")
-    story_ids, age_ids, myth_ids = {s["id"] for s in stories}, {a["id"] for a in ages}, {m["id"] for m in myths}
+
+    def ent(where, e):
+        if e not in ents:
+            err(f"guide/{where}: entity {e!r} does not exist")
+    cards, stories, ages = g("cards.json", "cards", {}), g("stories.json", "stories", {}), g("ages.json", "ages", {})
+    myths, sections, outside = g("myths.json", "myths", {}), g("sections.json", "sections", []), g("outside.json", "outside", {})
+    paths, relations = g("paths.json", "paths", {}), g("relations.json", "relations", [])
     for sec in sections:
         refs(f"sections.json#{sec['id']}", sec.get("refs"))
         for e in sec.get("entities", []):
-            if e not in ents:
-                err(f"guide/sections.json#{sec['id']}: entity {e!r} does not exist")
+            ent(f"sections.json#{sec['id']}", e)
     for cid, c in cards.items():
         where = f"cards.json#{cid}"
-        if cid not in ents:
-            err(f"guide/{where}: not an entity")
+        ent(where, cid)
         if c.get("status") not in ("draft", "reviewed"):
             err(f"guide/{where}: status must be draft or reviewed")
         if not (c.get("hook") or {}).get("en"):
@@ -793,47 +797,68 @@ def check_guide(rows):
             if not f.get("refs"):
                 err(f"guide/{where}: fact {f.get('label', {}).get('en')!r} has no passage")
             refs(where, f.get("refs"))
+            for e in f.get("ids", []):
+                ent(where, e)
         refs(where, [b["row"] for b in c.get("best", [])])
         for r in c.get("related", []):
-            if r["id"] not in ents:
-                err(f"guide/{where}: related {r['id']!r} does not exist")
+            ent(where, r["id"])
+            if r.get("rel") not in CARD_RELS:
+                err(f"guide/{where}: related kind {r.get('rel')!r} is not known")
         for m in c.get("myths", []):
-            if m not in myth_ids:
+            if m not in myths:
                 err(f"guide/{where}: myth {m!r} not in myths.json")
-    for s in stories:
-        where = f"stories.json#{s['id']}"
-        if s.get("age") not in age_ids:
+        for s in c.get("stories", []):
+            if s not in stories:
+                err(f"guide/{where}: story {s!r} not in stories.json")
+    for sid, s in stories.items():
+        where = f"stories.json#{sid}"
+        if s.get("age") not in ages:
             err(f"guide/{where}: age {s.get('age')!r} not in ages.json")
         for st in s.get("steps", []):
             if not st.get("refs"):
                 err(f"guide/{where}: a step without a passage")
             refs(where, st.get("refs"))
+        refs(where, [b["row"] for b in s.get("best", [])])
         for e in s.get("participants", []):
-            if e not in ents:
-                err(f"guide/{where}: participant {e!r} does not exist")
+            ent(where, e)
         for k in ("before", "after"):
-            if s.get(k) and s[k] not in story_ids:
-                err(f"guide/{where}: {k} {s[k]!r} is not a story")
-    for a in ages:
-        refs(f"ages.json#{a['id']}", a.get("refs"))
-    for m in myths:
-        refs(f"myths.json#{m['id']}", m.get("refs"))
+            for x in s.get(k) or []:
+                if x not in stories:
+                    err(f"guide/{where}: {k} {x!r} is not a story")
+    for aid, a in ages.items():
+        refs(f"ages.json#{aid}", a.get("refs"))
+        for x in a.get("stories", []):
+            if x not in stories:
+                err(f"guide/ages.json#{aid}: story {x!r} is not a story")
+    for mid, m in myths.items():
+        refs(f"myths.json#{mid}", m.get("refs"))
         for e in m.get("entities", []):
-            if e not in ents:
-                err(f"guide/myths.json#{m['id']}: entity {e!r} does not exist")
-    edges = {(r["from"], r["to"], r["rel"]) for r in g("relations.json", "relations")}
-    for f, t, rel in edges:
-        for e in (f, t):
-            if e not in ents:
-                err(f"guide/relations.json: {e!r} does not exist")
-        if rel in ("spouse", "sibling", "foster") and (t, f, rel) not in edges:
-            err(f"guide/relations.json: {f} {rel} {t} has no reverse edge")
-    for p in g("paths.json", "paths"):
-        for st in p.get("steps", []):
-            ok = st["id"] in cards if st["kind"] == "card" else st["id"] in story_ids
+            ent(f"myths.json#{mid}", e)
+        for o in m.get("outside", []):
+            if o not in outside:
+                err(f"guide/myths.json#{mid}: outside {o!r} not in outside.json")
+    for oid, o in outside.items():
+        refs(f"outside.json#{oid}", o.get("refs"))
+        if o.get("kind") not in ("source", "reception"):
+            err(f"guide/outside.json#{oid}: kind must be source or reception")
+    for r in relations:
+        for e in (r["from"], r["to"]):
+            ent("relations.json", e)
+        if r.get("rel") not in RELS:
+            err(f"guide/relations.json: kind {r.get('rel')!r} is not known")
+        refs("relations.json", r.get("refs"))
+    for pid, p in paths.items():
+        for st in p.get("items", []):
+            ok = st["id"] in cards if st["kind"] == "card" else st["id"] in stories
             if not ok:
-                err(f"guide/paths.json#{p['id']}: {st['kind']} {st['id']!r} does not exist")
+                err(f"guide/paths.json#{pid}: {st['kind']} {st['id']!r} does not exist")
     return len(cards)
+
+
+RELS = {"child_of", "spouse", "sibling", "foster_child_of", "killed", "owns", "rides", "fights", "bound", "swallows",
+        "chases", "lives_in", "servant_of", "made", "lover", "same_as"}
+CARD_RELS = RELS | {"parent_of", "foster_parent_of", "killed_by", "owned_by", "ridden_by", "bound_by", "swallowed_by",
+                    "chased_by", "home_of", "master_of", "made_by", "companion"}
 
 
 def cell_props(rid, r, cell, effective, src):

@@ -1,34 +1,235 @@
 {
- "_note": "Mímir (task 34, edda-site docs/specs/MIMIR.md). PILOT SAMPLE by Claude Code, 2026-11-08: a few entries to build the pages against, until the cloud session's content arrives (it replaces this file). AI draft, not reviewed; CC BY 4.0.",
- "paths": [
-  {
-   "id": "gods-in-10",
-   "title": {
-    "en": "The gods in ten minutes"
-   },
-   "steps": [
-    {
-     "kind": "card",
-     "id": "odin",
-     "link": {
-      "en": "Start with the chief of the gods."
-     }
+  "_note": "Mímir (task 34) content, drafted by an AI model (Claude) from the aligned texts of Open Edda; every fact cites row ids. status draft = not reviewed. CC BY 4.0. Generated 2026-11-08.",
+  "paths": {
+    "gods-in-10-minutes": {
+      "title": {
+        "en": "The gods in ten minutes"
+      },
+      "intro": {
+        "en": "A short route through the main gods and the three stories that hold the whole mythology together: the binding of the wolf, the death of Baldr, and the end of the world."
+      },
+      "items": [
+        {
+          "kind": "story",
+          "id": "ymir-and-the-making",
+          "link": {
+            "en": "The world was built by the three sons of Borr; the first of them named is Óðinn."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "odin",
+          "link": {
+            "en": "Óðinn's strongest son, and the gods' defender against giants, is Þórr."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "thor",
+          "link": {
+            "en": "Þórr's companion on several journeys, and the gods' most troublesome member, is Loki."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "loki",
+          "link": {
+            "en": "The gods blamed Loki for the builder's bargain that put Freyja at risk; she is the next card."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "freyja",
+          "link": {
+            "en": "Loki's own children were a danger too, and only one god dared feed the wolf: Týr."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "tyr",
+          "link": {
+            "en": "Týr's courage is clearest in the binding of Fenrir."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "binding-of-fenrir",
+          "link": {
+            "en": "Next comes the gods' worst loss: Óðinn's son Baldr."
+          }
+        },
+        {
+          "kind": "card",
+          "id": "baldur",
+          "link": {
+            "en": "Snorri calls Baldr's death the greatest misfortune among gods and men."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "death-of-baldr",
+          "link": {
+            "en": "After Baldr, Loki is bound, and the next time all bonds break, it is the end."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "ragnarok",
+          "link": {
+            "en": "Ragnarök is not quite the end: read on to the world renewed if you have a minute more."
+          }
+        }
+      ]
     },
-    {
-     "kind": "card",
-     "id": "thor",
-     "link": {
-      "en": "His son, the gods' defender."
-     }
-    },
-    {
-     "kind": "story",
-     "id": "thrym",
-     "link": {
-      "en": "And the day Þórr lost his hammer."
-     }
+    "creation-to-ragnarok": {
+      "title": {
+        "en": "From creation to Ragnarök"
+      },
+      "intro": {
+        "en": "All the stories of the gods in one reading order, from the empty gap before the world to the green earth after the fire. Where the sources give an order, it is followed; elsewhere the order is a reading aid."
+      },
+      "items": [
+        {
+          "kind": "story",
+          "id": "ymir-and-the-making",
+          "link": {
+            "en": "With the world built, the gods make people from two trees."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "the-first-humans",
+          "link": {
+            "en": "Next the gods' peace is broken by their first war, against the Vanir."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "the-first-war",
+          "link": {
+            "en": "Völuspá follows the war with broken oaths, which Snorri explains through the builder of the gods' wall."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "the-wall-builder",
+          "link": {
+            "en": "Þórr's hammer, used to pay the builder, is one of the treasures the dwarfs made for the gods."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "the-treasures",
+          "link": {
+            "en": "Loki causes trouble again when he lures Iðunn and her apples out of Ásgarðr."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "idunn-and-thjazi",
+          "link": {
+            "en": "Þjazi's daughter Skaði then comes to Ásgarðr for revenge."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "skadi-chooses",
+          "link": {
+            "en": "Snorri's next tale goes back to the peace with the Vanir, and the mead brewed from Kvasir's blood."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "mead-of-poetry",
+          "link": {
+            "en": "Another god longs for something in Jötunheimar: Freyr, who sees Gerðr."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "freyr-and-gerdr",
+          "link": {
+            "en": "The giants' lands are also where Þórr travels, most famously to Útgarða-Loki."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "thor-and-utgarda-loki",
+          "link": {
+            "en": "To make up for that journey, Þórr goes fishing for the serpent."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "thor-fishes",
+          "link": {
+            "en": "Next Þórr fights his first duel, with the giant Hrungnir."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "thor-and-hrungnir",
+          "link": {
+            "en": "Loki, caught by another giant, has to bring Þórr to Geirröðr without his hammer."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "thor-and-geirrodr",
+          "link": {
+            "en": "Once the hammer itself is stolen, and Þórr has to dress as a bride to get it back."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "thrymr-steals-the-hammer",
+          "link": {
+            "en": "The gods also bind Loki's son, the wolf Fenrir."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "binding-of-fenrir",
+          "link": {
+            "en": "Then the worst thing happens: Baldr dies."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "death-of-baldr",
+          "link": {
+            "en": "At Ægir's feast Loki boasts of Baldr's death and insults every god."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "lokasenna",
+          "link": {
+            "en": "After the feast the gods catch Loki and bind him."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "loki-bound",
+          "link": {
+            "en": "He lies bound until all bonds break at Ragnarök."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "ragnarok",
+          "link": {
+            "en": "After the fire, the earth rises again."
+          }
+        },
+        {
+          "kind": "story",
+          "id": "the-world-renewed",
+          "link": {
+            "en": "For the heroes' stories, which run alongside, start with Andvari's gold."
+          }
+        }
+      ]
     }
-   ]
   }
- ]
 }

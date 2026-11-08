@@ -4,6 +4,11 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 ## Unreleased
 
+- Mímir (task 34), content: `guide/` now holds the cloud session's first full pass — 216 cards, 18 sections, 24 stories,
+  8 ages and the heroes' line, 344 relations, 2 paths, 18 misconceptions, 14 outside entries. AI draft, fact-checked
+  by AI against the rows, not reviewed by a person. The validator follows its format (objects keyed by id) and checks
+  fact chips, story and myth links, outside kinds and the relation kinds.
+
 - Mímir (task 34), pilot: `guide/` with a small sample (Óðinn and Þórr, two stories, the eight ages, a path, two
   outside sources, two myths) for the pages until the cloud session's content replaces it; AI draft, not reviewed.
   The validator checks `guide/`: refs are row ids, entities exist, every story step has a passage, symmetric relations.

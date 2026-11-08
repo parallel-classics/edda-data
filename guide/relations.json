@@ -1,61 +1,3142 @@
 {
- "_note": "Mímir (task 34, edda-site docs/specs/MIMIR.md). PILOT SAMPLE by Claude Code, 2026-11-08: a few entries to build the pages against, until the cloud session's content arrives (it replaces this file). AI draft, not reviewed; CC BY 4.0.",
- "relations": [
-  {
-   "from": "odin",
-   "to": "frigg",
-   "rel": "spouse",
-   "refs": [
-    "g-c9-2"
-   ]
-  },
-  {
-   "from": "frigg",
-   "to": "odin",
-   "rel": "spouse",
-   "refs": [
-    "g-c9-2"
-   ]
-  },
-  {
-   "from": "odin",
-   "to": "thor",
-   "rel": "child",
-   "refs": [
-    "g-c9-2"
-   ]
-  },
-  {
-   "from": "thor",
-   "to": "odin",
-   "rel": "father",
-   "refs": [
-    "g-c9-2"
-   ]
-  },
-  {
-   "from": "odin",
-   "to": "vidarr",
-   "rel": "child",
-   "refs": [
-    "g-c51-12"
-   ]
-  },
-  {
-   "from": "fenrir",
-   "to": "odin",
-   "rel": "killed",
-   "refs": [
-    "g-c51-5"
-   ]
-  },
-  {
-   "from": "thor",
-   "to": "jormungandr",
-   "rel": "fights",
-   "refs": [
-    "g-c51-5"
-   ]
-  }
- ]
+  "_note": "Mímir (task 34) content, drafted by an AI model (Claude) from the aligned texts of Open Edda; every fact cites row ids. status draft = not reviewed. CC BY 4.0. Generated 2026-11-08. rel: from does rel to/of to.",
+  "relations": [
+    {
+      "from": "odin",
+      "to": "borr",
+      "rel": "child_of",
+      "refs": [
+        "g-c6-4"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "bestla",
+      "rel": "child_of",
+      "refs": [
+        "g-c6-4"
+      ]
+    },
+    {
+      "from": "bestla",
+      "to": "bolthorn",
+      "rel": "child_of",
+      "refs": [
+        "g-c6-4"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "ve",
+      "rel": "sibling",
+      "refs": [
+        "g-c6-4"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "frigg",
+      "rel": "spouse",
+      "refs": [
+        "g-c20-4",
+        "s-c27-1"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "sleipnir",
+      "rel": "rides",
+      "refs": [
+        "g-c15-6",
+        "bdr-s2"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "gungnir",
+      "rel": "owns",
+      "refs": [
+        "s-c43-3",
+        "g-c51-5"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "huginn",
+      "rel": "owns",
+      "refs": [
+        "g-c38-7"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "munin",
+      "rel": "owns",
+      "refs": [
+        "g-c38-7"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "geri",
+      "rel": "owns",
+      "refs": [
+        "g-c38-5"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "freki",
+      "rel": "owns",
+      "refs": [
+        "g-c38-5"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "draupnir",
+      "rel": "owns",
+      "refs": [
+        "s-c43-4"
+      ],
+      "note": {
+        "en": "Brokkr gives it to Óðinn; Óðinn lays it on Baldr's pyre"
+      }
+    },
+    {
+      "from": "odin",
+      "to": "hlidskjalf",
+      "rel": "owns",
+      "refs": [
+        "g-c17-2"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "valhalla",
+      "rel": "lives_in",
+      "refs": [
+        "grm-s8",
+        "g-c20-6"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "valaskjalf",
+      "rel": "owns",
+      "refs": [
+        "g-c17-2"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "fenrir",
+      "rel": "fights",
+      "refs": [
+        "g-c51-5"
+      ]
+    },
+    {
+      "from": "fenrir",
+      "to": "odin",
+      "rel": "swallows",
+      "refs": [
+        "g-c51-5"
+      ]
+    },
+    {
+      "from": "fenrir",
+      "to": "odin",
+      "rel": "killed",
+      "refs": [
+        "g-c51-5",
+        "g-c34-13"
+      ]
+    },
+    {
+      "from": "thor",
+      "to": "odin",
+      "rel": "child_of",
+      "refs": [
+        "s-c11-1"
+      ]
+    },
+    {
+      "from": "thor",
+      "to": "jord",
+      "rel": "child_of",
+      "refs": [
+        "s-c11-1"
+      ]
+    },
+    {
+      "from": "thor",
+      "to": "sif",
+      "rel": "spouse",
+      "refs": [
+        "s-c11-1",
+        "s-c29-1",
+        "ls-p1"
+      ]
+    },
+    {
+      "from": "magni",
+      "to": "thor",
+      "rel": "child_of",
+      "refs": [
+        "s-c11-1"
+      ]
+    },
+    {
+      "from": "modi",
+      "to": "thor",
+      "rel": "child_of",
+      "refs": [
+        "s-c11-1"
+      ]
+    },
+    {
+      "from": "thrudr",
+      "to": "thor",
+      "rel": "child_of",
+      "refs": [
+        "s-c11-1"
+      ]
+    },
+    {
+      "from": "thor",
+      "to": "mjolnir",
+      "rel": "owns",
+      "refs": [
+        "g-c21-4",
+        "s-c11-1"
+      ]
+    },
+    {
+      "from": "sindri",
+      "to": "mjolnir",
+      "rel": "made",
+      "refs": [
+        "s-c43-2"
+      ],
+      "note": {
+        "en": "his brother Brokkr works the bellows and gives it to Þórr (s-c43-4)"
+      }
+    },
+    {
+      "from": "thor",
+      "to": "tanngnjostr",
+      "rel": "owns",
+      "refs": [
+        "g-c21-4"
+      ]
+    },
+    {
+      "from": "thor",
+      "to": "tanngrisnir",
+      "rel": "owns",
+      "refs": [
+        "g-c21-4"
+      ]
+    },
+    {
+      "from": "thor",
+      "to": "bilskirnir",
+      "rel": "lives_in",
+      "refs": [
+        "g-c21-2"
+      ]
+    },
+    {
+      "from": "thor",
+      "to": "thrudvangr",
+      "rel": "lives_in",
+      "refs": [
+        "g-c21-2"
+      ]
+    },
+    {
+      "from": "thor",
+      "to": "thrudheimr",
+      "rel": "lives_in",
+      "refs": [
+        "grm-s4"
+      ],
+      "note": {
+        "en": "Grímnismál's name for his land"
+      }
+    },
+    {
+      "from": "thjalfi",
+      "to": "thor",
+      "rel": "servant_of",
+      "refs": [
+        "s-c11-1"
+      ]
+    },
+    {
+      "from": "roskva",
+      "to": "thor",
+      "rel": "servant_of",
+      "refs": [
+        "s-c11-1"
+      ]
+    },
+    {
+      "from": "thor",
+      "to": "jormungandr",
+      "rel": "fights",
+      "refs": [
+        "g-c51-5",
+        "vsp-s56",
+        "hym-s23"
+      ]
+    },
+    {
+      "from": "thor",
+      "to": "jormungandr",
+      "rel": "killed",
+      "refs": [
+        "g-c51-5"
+      ]
+    },
+    {
+      "from": "jormungandr",
+      "to": "thor",
+      "rel": "killed",
+      "refs": [
+        "g-c51-5"
+      ],
+      "note": {
+        "en": "Þórr dies of the serpent's venom after nine steps"
+      }
+    },
+    {
+      "from": "thor",
+      "to": "hrungnir",
+      "rel": "killed",
+      "refs": [
+        "s-c11-1"
+      ]
+    },
+    {
+      "from": "thor",
+      "to": "geirrodr",
+      "rel": "killed",
+      "refs": [
+        "s-c11-1"
+      ]
+    },
+    {
+      "from": "thor",
+      "to": "thrymr",
+      "rel": "killed",
+      "refs": [
+        "thrk-s31"
+      ]
+    },
+    {
+      "from": "loki",
+      "to": "farbauti",
+      "rel": "child_of",
+      "refs": [
+        "g-c33-1",
+        "s-c23-1"
+      ]
+    },
+    {
+      "from": "loki",
+      "to": "laufey",
+      "rel": "child_of",
+      "refs": [
+        "g-c33-1",
+        "s-c23-1"
+      ]
+    },
+    {
+      "from": "loki",
+      "to": "byleistr",
+      "rel": "sibling",
+      "refs": [
+        "g-c33-1"
+      ]
+    },
+    {
+      "from": "loki",
+      "to": "helblindi",
+      "rel": "sibling",
+      "refs": [
+        "g-c33-1"
+      ]
+    },
+    {
+      "from": "loki",
+      "to": "sigyn",
+      "rel": "spouse",
+      "refs": [
+        "g-c33-1",
+        "g-c50-4"
+      ]
+    },
+    {
+      "from": "nari",
+      "to": "loki",
+      "rel": "child_of",
+      "refs": [
+        "g-c33-1",
+        "g-c50-4"
+      ]
+    },
+    {
+      "from": "loki",
+      "to": "angrboda",
+      "rel": "lover",
+      "refs": [
+        "g-c34-1"
+      ]
+    },
+    {
+      "from": "fenrir",
+      "to": "loki",
+      "rel": "child_of",
+      "refs": [
+        "g-c34-1"
+      ]
+    },
+    {
+      "from": "jormungandr",
+      "to": "loki",
+      "rel": "child_of",
+      "refs": [
+        "g-c34-1"
+      ]
+    },
+    {
+      "from": "hel",
+      "to": "loki",
+      "rel": "child_of",
+      "refs": [
+        "g-c34-1"
+      ]
+    },
+    {
+      "from": "sleipnir",
+      "to": "loki",
+      "rel": "child_of",
+      "refs": [
+        "g-c42-5",
+        "vsk-s11"
+      ],
+      "note": {
+        "en": "Loki, as a mare, is Sleipnir's mother"
+      }
+    },
+    {
+      "from": "sleipnir",
+      "to": "svadilfari",
+      "rel": "child_of",
+      "refs": [
+        "g-c42-5"
+      ]
+    },
+    {
+      "from": "loki",
+      "to": "heimdall",
+      "rel": "fights",
+      "refs": [
+        "g-c51-5",
+        "s-c23-1",
+        "s-c15-1"
+      ],
+      "note": {
+        "en": "for Brísingamen; again at Ragnarök"
+      }
+    },
+    {
+      "from": "loki",
+      "to": "heimdall",
+      "rel": "killed",
+      "refs": [
+        "g-c51-5"
+      ],
+      "note": {
+        "en": "each kills the other"
+      }
+    },
+    {
+      "from": "heimdall",
+      "to": "loki",
+      "rel": "killed",
+      "refs": [
+        "g-c51-5"
+      ],
+      "note": {
+        "en": "each kills the other"
+      }
+    },
+    {
+      "from": "baldur",
+      "to": "odin",
+      "rel": "child_of",
+      "refs": [
+        "s-c12-1",
+        "g-c22-2"
+      ]
+    },
+    {
+      "from": "baldur",
+      "to": "frigg",
+      "rel": "child_of",
+      "refs": [
+        "s-c12-1",
+        "s-c27-1"
+      ]
+    },
+    {
+      "from": "baldur",
+      "to": "nanna",
+      "rel": "spouse",
+      "refs": [
+        "s-c12-1",
+        "g-c49-15"
+      ]
+    },
+    {
+      "from": "forseti",
+      "to": "baldur",
+      "rel": "child_of",
+      "refs": [
+        "g-c32-1",
+        "s-c12-1"
+      ]
+    },
+    {
+      "from": "forseti",
+      "to": "nanna",
+      "rel": "child_of",
+      "refs": [
+        "g-c32-1"
+      ]
+    },
+    {
+      "from": "baldur",
+      "to": "breidablik",
+      "rel": "lives_in",
+      "refs": [
+        "g-c22-2",
+        "grm-s12"
+      ]
+    },
+    {
+      "from": "baldur",
+      "to": "hringhorni",
+      "rel": "owns",
+      "refs": [
+        "g-c49-15",
+        "s-c12-1"
+      ]
+    },
+    {
+      "from": "baldur",
+      "to": "draupnir",
+      "rel": "owns",
+      "refs": [
+        "s-c12-1"
+      ]
+    },
+    {
+      "from": "hodr",
+      "to": "baldur",
+      "rel": "killed",
+      "refs": [
+        "g-c49-12",
+        "bdr-s9",
+        "s-c20-1"
+      ],
+      "note": {
+        "en": "with the mistletoe, guided by Loki"
+      }
+    },
+    {
+      "from": "heimdall",
+      "to": "odin",
+      "rel": "child_of",
+      "refs": [
+        "s-c15-1"
+      ],
+      "note": {
+        "en": "Snorri, kenning list"
+      }
+    },
+    {
+      "from": "heimdall",
+      "to": "gjallarhorn",
+      "rel": "owns",
+      "refs": [
+        "g-c27-1"
+      ]
+    },
+    {
+      "from": "heimdall",
+      "to": "gulltoppr",
+      "rel": "rides",
+      "refs": [
+        "g-c27-1",
+        "g-c49-15"
+      ]
+    },
+    {
+      "from": "heimdall",
+      "to": "himinbjorg",
+      "rel": "lives_in",
+      "refs": [
+        "g-c27-1",
+        "grm-s13"
+      ]
+    },
+    {
+      "from": "bragi",
+      "to": "idunn",
+      "rel": "spouse",
+      "refs": [
+        "g-c26-1",
+        "s-c17-1"
+      ]
+    },
+    {
+      "from": "bragi",
+      "to": "odin",
+      "rel": "child_of",
+      "refs": [
+        "s-c17-1"
+      ],
+      "note": {
+        "en": "Snorri, kenning list"
+      }
+    },
+    {
+      "from": "hodr",
+      "to": "odin",
+      "rel": "child_of",
+      "refs": [
+        "s-c20-1"
+      ],
+      "note": {
+        "en": "Snorri, kenning list"
+      }
+    },
+    {
+      "from": "vali",
+      "to": "hodr",
+      "rel": "killed",
+      "refs": [
+        "s-c19-1",
+        "vsk-s1",
+        "bdr-s11"
+      ],
+      "note": {
+        "en": "revenge for Baldr"
+      }
+    },
+    {
+      "from": "vali",
+      "to": "odin",
+      "rel": "child_of",
+      "refs": [
+        "g-c30-1",
+        "s-c19-1",
+        "bdr-s11"
+      ]
+    },
+    {
+      "from": "vali",
+      "to": "rindr",
+      "rel": "child_of",
+      "refs": [
+        "g-c30-1",
+        "s-c19-1",
+        "bdr-s11"
+      ]
+    },
+    {
+      "from": "vali",
+      "to": "baldur",
+      "rel": "sibling",
+      "refs": [
+        "vsk-s1",
+        "vsp-s32"
+      ],
+      "note": {
+        "en": "half-brothers through Óðinn"
+      }
+    },
+    {
+      "from": "vidarr",
+      "to": "odin",
+      "rel": "child_of",
+      "refs": [
+        "s-c18-1",
+        "vsp-s55",
+        "ls-p1"
+      ]
+    },
+    {
+      "from": "vidarr",
+      "to": "gridr",
+      "rel": "child_of",
+      "refs": [
+        "s-c26-2"
+      ]
+    },
+    {
+      "from": "vidarr",
+      "to": "fenrir",
+      "rel": "killed",
+      "refs": [
+        "g-c51-5",
+        "vsp-s55",
+        "vm-s53",
+        "s-c18-1"
+      ],
+      "note": {
+        "en": "at Ragnarök"
+      }
+    },
+    {
+      "from": "vidarr",
+      "to": "idavollr",
+      "rel": "lives_in",
+      "refs": [
+        "g-c53-2"
+      ],
+      "note": {
+        "en": "after Ragnarök"
+      }
+    },
+    {
+      "from": "vali",
+      "to": "idavollr",
+      "rel": "lives_in",
+      "refs": [
+        "g-c53-2"
+      ],
+      "note": {
+        "en": "after Ragnarök"
+      }
+    },
+    {
+      "from": "ull",
+      "to": "sif",
+      "rel": "child_of",
+      "refs": [
+        "g-c31-1",
+        "s-c29-1"
+      ],
+      "note": {
+        "en": "Þórr is his stepfather"
+      }
+    },
+    {
+      "from": "forseti",
+      "to": "glitnir",
+      "rel": "lives_in",
+      "refs": [
+        "g-c32-1",
+        "grm-s15"
+      ]
+    },
+    {
+      "from": "forseti",
+      "to": "glitnir",
+      "rel": "owns",
+      "refs": [
+        "g-c32-1"
+      ]
+    },
+    {
+      "from": "mimir",
+      "to": "mimisbrunnr",
+      "rel": "owns",
+      "refs": [
+        "g-c15-4"
+      ]
+    },
+    {
+      "from": "hermodr",
+      "to": "odin",
+      "rel": "child_of",
+      "refs": [
+        "g-c49-14"
+      ]
+    },
+    {
+      "from": "hermodr",
+      "to": "baldur",
+      "rel": "sibling",
+      "refs": [
+        "g-c49-20"
+      ]
+    },
+    {
+      "from": "hermodr",
+      "to": "sleipnir",
+      "rel": "rides",
+      "refs": [
+        "g-c49-14",
+        "g-c49-20"
+      ]
+    },
+    {
+      "from": "frigg",
+      "to": "fjorgyn",
+      "rel": "child_of",
+      "refs": [
+        "s-c27-1",
+        "g-c9-2"
+      ],
+      "note": {
+        "en": "Snorri: daughter of Fjörgynn/Fjörgvinn (masculine form; g-c9-2, s-c27-1). Þórr's mother is called Fjörgyn in Völuspá and Hárbarðsljóð (vsp-s56, hrbl-s56); Lokasenna also calls Frigg 'Fjörgyns mær' (ls-s26)."
+      }
+    },
+    {
+      "from": "frigg",
+      "to": "fensalir",
+      "rel": "lives_in",
+      "refs": [
+        "g-c35-2",
+        "g-c49-4"
+      ]
+    },
+    {
+      "from": "fulla",
+      "to": "frigg",
+      "rel": "servant_of",
+      "refs": [
+        "g-c35-6",
+        "grm-p1"
+      ]
+    },
+    {
+      "from": "gna",
+      "to": "frigg",
+      "rel": "servant_of",
+      "refs": [
+        "g-c35-15"
+      ]
+    },
+    {
+      "from": "gna",
+      "to": "hofvarpnir",
+      "rel": "rides",
+      "refs": [
+        "g-c35-15"
+      ]
+    },
+    {
+      "from": "hofvarpnir",
+      "to": "hamskerpir",
+      "rel": "child_of",
+      "refs": [
+        "g-c35-18"
+      ]
+    },
+    {
+      "from": "hofvarpnir",
+      "to": "gardrofa",
+      "rel": "child_of",
+      "refs": [
+        "g-c35-18"
+      ]
+    },
+    {
+      "from": "thrudr",
+      "to": "sif",
+      "rel": "child_of",
+      "refs": [
+        "s-c29-1"
+      ]
+    },
+    {
+      "from": "skadi",
+      "to": "thjazi",
+      "rel": "child_of",
+      "refs": [
+        "g-c23-1",
+        "s-c3-3",
+        "vsk-s2"
+      ]
+    },
+    {
+      "from": "skadi",
+      "to": "njordr",
+      "rel": "spouse",
+      "refs": [
+        "g-c23-1",
+        "s-c3-5"
+      ],
+      "note": {
+        "en": "They part: Skaði leaves Njörðr (s-c13-3)"
+      }
+    },
+    {
+      "from": "skadi",
+      "to": "thrymheimr",
+      "rel": "lives_in",
+      "refs": [
+        "g-c23-5",
+        "grm-s11"
+      ]
+    },
+    {
+      "from": "saga",
+      "to": "sokkvabekkr",
+      "rel": "lives_in",
+      "refs": [
+        "g-c35-3"
+      ]
+    },
+    {
+      "from": "gefjon",
+      "to": "zealand",
+      "rel": "made",
+      "refs": [
+        "g-c1-1"
+      ],
+      "note": {
+        "en": "ploughed it out of Sweden"
+      }
+    },
+    {
+      "from": "nari",
+      "to": "sigyn",
+      "rel": "child_of",
+      "refs": [
+        "g-c33-1"
+      ],
+      "note": {
+        "en": "Nari or Narfi"
+      }
+    },
+    {
+      "from": "freyr",
+      "to": "njordr",
+      "rel": "child_of",
+      "refs": [
+        "g-c24-1",
+        "skm-p1"
+      ]
+    },
+    {
+      "from": "freyja",
+      "to": "njordr",
+      "rel": "child_of",
+      "refs": [
+        "g-c24-1",
+        "s-c28-1"
+      ]
+    },
+    {
+      "from": "freyr",
+      "to": "freyja",
+      "rel": "sibling",
+      "refs": [
+        "s-c14-1",
+        "s-c28-1"
+      ]
+    },
+    {
+      "from": "njordr",
+      "to": "skadi",
+      "rel": "spouse",
+      "refs": [
+        "g-c23-1"
+      ]
+    },
+    {
+      "from": "njordr",
+      "to": "noatun",
+      "rel": "lives_in",
+      "refs": [
+        "g-c23-1",
+        "grm-s16"
+      ]
+    },
+    {
+      "from": "freyja",
+      "to": "folkvangr",
+      "rel": "lives_in",
+      "refs": [
+        "g-c24-1",
+        "grm-s14"
+      ]
+    },
+    {
+      "from": "freyja",
+      "to": "sessrumnir",
+      "rel": "owns",
+      "refs": [
+        "g-c24-3",
+        "s-c28-1"
+      ],
+      "note": {
+        "en": "her hall"
+      }
+    },
+    {
+      "from": "freyja",
+      "to": "brisingamen",
+      "rel": "owns",
+      "refs": [
+        "g-c35-7",
+        "s-c28-1"
+      ]
+    },
+    {
+      "from": "freyja",
+      "to": "odr",
+      "rel": "spouse",
+      "refs": [
+        "g-c35-7"
+      ]
+    },
+    {
+      "from": "hnoss",
+      "to": "freyja",
+      "rel": "child_of",
+      "refs": [
+        "g-c35-7"
+      ]
+    },
+    {
+      "from": "hnoss",
+      "to": "odr",
+      "rel": "child_of",
+      "refs": [
+        "g-c35-7"
+      ]
+    },
+    {
+      "from": "freyr",
+      "to": "gerdr",
+      "rel": "spouse",
+      "refs": [
+        "vsk-s2"
+      ]
+    },
+    {
+      "from": "gerdr",
+      "to": "gymir",
+      "rel": "child_of",
+      "refs": [
+        "g-c37-1",
+        "vsk-s2"
+      ]
+    },
+    {
+      "from": "gerdr",
+      "to": "aurboda",
+      "rel": "child_of",
+      "refs": [
+        "g-c37-1",
+        "vsk-s2"
+      ]
+    },
+    {
+      "from": "gymir",
+      "to": "aurboda",
+      "rel": "spouse",
+      "refs": [
+        "g-c37-1"
+      ]
+    },
+    {
+      "from": "skirnir",
+      "to": "freyr",
+      "rel": "servant_of",
+      "refs": [
+        "g-c37-2",
+        "skm-p1"
+      ]
+    },
+    {
+      "from": "freyr",
+      "to": "skidbladnir",
+      "rel": "owns",
+      "refs": [
+        "g-c43-2",
+        "grm-s43"
+      ]
+    },
+    {
+      "from": "freyr",
+      "to": "gullinbursti",
+      "rel": "owns",
+      "refs": [
+        "s-c14-5",
+        "s-c43-4"
+      ]
+    },
+    {
+      "from": "freyr",
+      "to": "gullinbursti",
+      "rel": "rides",
+      "refs": [
+        "g-c49-15"
+      ],
+      "note": {
+        "en": "drives a chariot drawn by the boar"
+      }
+    },
+    {
+      "from": "freyr",
+      "to": "alfheimr",
+      "rel": "lives_in",
+      "refs": [
+        "grm-s5"
+      ],
+      "note": {
+        "en": "given to him as a tooth-gift"
+      }
+    },
+    {
+      "from": "freyr",
+      "to": "beli",
+      "rel": "killed",
+      "refs": [
+        "g-c37-6"
+      ]
+    },
+    {
+      "from": "freyr",
+      "to": "surtr",
+      "rel": "fights",
+      "refs": [
+        "g-c51-5",
+        "vsp-s53"
+      ]
+    },
+    {
+      "from": "byggvir",
+      "to": "freyr",
+      "rel": "servant_of",
+      "refs": [
+        "ls-p1"
+      ]
+    },
+    {
+      "from": "beyla",
+      "to": "freyr",
+      "rel": "servant_of",
+      "refs": [
+        "ls-p1"
+      ]
+    },
+    {
+      "from": "fjalar",
+      "to": "kvasir",
+      "rel": "killed",
+      "refs": [
+        "s-c5-3"
+      ]
+    },
+    {
+      "from": "galar",
+      "to": "kvasir",
+      "rel": "killed",
+      "refs": [
+        "s-c5-3"
+      ]
+    },
+    {
+      "from": "aegir",
+      "to": "ran",
+      "rel": "spouse",
+      "refs": [
+        "s-c41-1",
+        "s-c76-25"
+      ]
+    },
+    {
+      "from": "daughters-of-aegir",
+      "to": "aegir",
+      "rel": "child_of",
+      "refs": [
+        "s-c76-27"
+      ]
+    },
+    {
+      "from": "daughters-of-aegir",
+      "to": "ran",
+      "rel": "child_of",
+      "refs": [
+        "s-c76-27"
+      ]
+    },
+    {
+      "from": "aegir",
+      "to": "hlesey",
+      "rel": "lives_in",
+      "refs": [
+        "s-c1-1"
+      ],
+      "note": {
+        "en": "Snorri"
+      }
+    },
+    {
+      "from": "eldir",
+      "to": "aegir",
+      "rel": "servant_of",
+      "refs": [
+        "ls-p1"
+      ]
+    },
+    {
+      "from": "fimafeng",
+      "to": "aegir",
+      "rel": "servant_of",
+      "refs": [
+        "ls-p1"
+      ]
+    },
+    {
+      "from": "loki",
+      "to": "fimafeng",
+      "rel": "killed",
+      "refs": [
+        "ls-p1"
+      ]
+    },
+    {
+      "from": "magni",
+      "to": "jarnsaxa",
+      "rel": "child_of",
+      "refs": [
+        "s-c24-13"
+      ]
+    },
+    {
+      "from": "magni",
+      "to": "modi",
+      "rel": "sibling",
+      "refs": [
+        "g-c53-2"
+      ]
+    },
+    {
+      "from": "magni",
+      "to": "gullfaxi",
+      "rel": "owns",
+      "refs": [
+        "s-c24-14"
+      ],
+      "note": {
+        "en": "Þórr's gift"
+      }
+    },
+    {
+      "from": "magni",
+      "to": "mjolnir",
+      "rel": "owns",
+      "refs": [
+        "vm-s51",
+        "g-c53-2"
+      ],
+      "note": {
+        "en": "after Ragnarök, with Móði"
+      }
+    },
+    {
+      "from": "modi",
+      "to": "mjolnir",
+      "rel": "owns",
+      "refs": [
+        "vm-s51",
+        "g-c53-2"
+      ],
+      "note": {
+        "en": "after Ragnarök, with Magni"
+      }
+    },
+    {
+      "from": "jord",
+      "to": "nott",
+      "rel": "child_of",
+      "refs": [
+        "g-c10-1",
+        "s-c32-1"
+      ]
+    },
+    {
+      "from": "jord",
+      "to": "annar",
+      "rel": "child_of",
+      "refs": [
+        "g-c10-1",
+        "s-c32-1"
+      ]
+    },
+    {
+      "from": "jord",
+      "to": "odin",
+      "rel": "spouse",
+      "refs": [
+        "s-c32-1"
+      ],
+      "note": {
+        "en": "poets call the earth Óðinn's bride"
+      }
+    },
+    {
+      "from": "rindr",
+      "to": "odin",
+      "rel": "spouse",
+      "refs": [
+        "s-c19-1",
+        "s-c32-1"
+      ],
+      "note": {
+        "en": "mother of his son Váli; named among his partners"
+      }
+    },
+    {
+      "from": "sol",
+      "to": "mundilfari",
+      "rel": "child_of",
+      "refs": [
+        "g-c11-2",
+        "vm-s23"
+      ]
+    },
+    {
+      "from": "mani",
+      "to": "mundilfari",
+      "rel": "child_of",
+      "refs": [
+        "g-c11-2",
+        "vm-s23"
+      ]
+    },
+    {
+      "from": "sol",
+      "to": "mani",
+      "rel": "sibling",
+      "refs": [
+        "g-c11-2"
+      ]
+    },
+    {
+      "from": "sol",
+      "to": "glenr",
+      "rel": "spouse",
+      "refs": [
+        "g-c11-2"
+      ]
+    },
+    {
+      "from": "sol",
+      "to": "arvakr",
+      "rel": "rides",
+      "refs": [
+        "g-c11-2"
+      ],
+      "note": {
+        "en": "she drives the horses of the sun's chariot"
+      }
+    },
+    {
+      "from": "sol",
+      "to": "alsvidr",
+      "rel": "rides",
+      "refs": [
+        "g-c11-2"
+      ],
+      "note": {
+        "en": "she drives the horses of the sun's chariot"
+      }
+    },
+    {
+      "from": "skoll",
+      "to": "sol",
+      "rel": "chases",
+      "refs": [
+        "g-c12-4",
+        "g-c51-4"
+      ],
+      "note": {
+        "en": "Sköll runs after the sun and will take her; at Ragnarök Snorri's wolf that swallows the sun is unnamed"
+      }
+    },
+    {
+      "from": "hati",
+      "to": "mani",
+      "rel": "chases",
+      "refs": [
+        "g-c12-4"
+      ],
+      "note": {
+        "en": "Snorri: he runs before the sun, eager to seize the moon"
+      }
+    },
+    {
+      "from": "managarmr",
+      "to": "mani",
+      "rel": "swallows",
+      "refs": [
+        "g-c12-6"
+      ],
+      "note": {
+        "en": "Snorri: Mánagarmr swallows the moon"
+      }
+    },
+    {
+      "from": "nott",
+      "to": "narfi",
+      "rel": "child_of",
+      "refs": [
+        "g-c10-1",
+        "vm-s25"
+      ]
+    },
+    {
+      "from": "nott",
+      "to": "naglfari",
+      "rel": "spouse",
+      "refs": [
+        "g-c10-1"
+      ]
+    },
+    {
+      "from": "nott",
+      "to": "annar",
+      "rel": "spouse",
+      "refs": [
+        "g-c10-1"
+      ]
+    },
+    {
+      "from": "nott",
+      "to": "dellingr",
+      "rel": "spouse",
+      "refs": [
+        "g-c10-1"
+      ]
+    },
+    {
+      "from": "dagr",
+      "to": "nott",
+      "rel": "child_of",
+      "refs": [
+        "g-c10-1"
+      ]
+    },
+    {
+      "from": "dagr",
+      "to": "dellingr",
+      "rel": "child_of",
+      "refs": [
+        "g-c10-1",
+        "vm-s25"
+      ]
+    },
+    {
+      "from": "nott",
+      "to": "hrimfaxi",
+      "rel": "rides",
+      "refs": [
+        "g-c10-1",
+        "vm-s14"
+      ]
+    },
+    {
+      "from": "dagr",
+      "to": "skinfaxi",
+      "rel": "rides",
+      "refs": [
+        "g-c10-1",
+        "vm-s12"
+      ]
+    },
+    {
+      "from": "rig",
+      "to": "edda-rigsthula",
+      "rel": "lover",
+      "refs": [
+        "rth-s5",
+        "rth-s7"
+      ],
+      "note": {
+        "en": "implied: he sleeps between Ái and Edda; nine months later Edda bears Þræll"
+      }
+    },
+    {
+      "from": "rig",
+      "to": "amma",
+      "rel": "lover",
+      "refs": [
+        "rth-s19",
+        "rth-s21"
+      ],
+      "note": {
+        "en": "implied: Amma bears Karl"
+      }
+    },
+    {
+      "from": "rig",
+      "to": "modir",
+      "rel": "lover",
+      "refs": [
+        "rth-s33",
+        "rth-s34"
+      ],
+      "note": {
+        "en": "implied: Móðir bears Jarl"
+      }
+    },
+    {
+      "from": "fenrir",
+      "to": "angrboda",
+      "rel": "child_of",
+      "refs": [
+        "g-c34-1"
+      ]
+    },
+    {
+      "from": "jormungandr",
+      "to": "angrboda",
+      "rel": "child_of",
+      "refs": [
+        "g-c34-1"
+      ]
+    },
+    {
+      "from": "hel",
+      "to": "angrboda",
+      "rel": "child_of",
+      "refs": [
+        "g-c34-1"
+      ]
+    },
+    {
+      "from": "fenrir",
+      "to": "jormungandr",
+      "rel": "sibling",
+      "refs": [
+        "g-c34-1",
+        "hym-s23"
+      ]
+    },
+    {
+      "from": "fenrir",
+      "to": "hel",
+      "rel": "sibling",
+      "refs": [
+        "g-c34-1"
+      ]
+    },
+    {
+      "from": "jormungandr",
+      "to": "hel",
+      "rel": "sibling",
+      "refs": [
+        "g-c34-1"
+      ]
+    },
+    {
+      "from": "angrboda",
+      "to": "jotunheim",
+      "rel": "lives_in",
+      "refs": [
+        "g-c34-1"
+      ]
+    },
+    {
+      "from": "gleipnir",
+      "to": "fenrir",
+      "rel": "bound",
+      "refs": [
+        "g-c34-11",
+        "g-c25-2"
+      ],
+      "note": {
+        "en": "the gods bind the wolf with the fetter Gleipnir"
+      }
+    },
+    {
+      "from": "fenrir",
+      "to": "tyr",
+      "rel": "fights",
+      "refs": [
+        "g-c34-11",
+        "g-c25-2"
+      ],
+      "note": {
+        "en": "bites off Týr's hand"
+      }
+    },
+    {
+      "from": "hel",
+      "to": "niflheim",
+      "rel": "lives_in",
+      "refs": [
+        "g-c34-2"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "sleipnir",
+      "rel": "owns",
+      "refs": [
+        "g-c15-6",
+        "g-c49-14"
+      ]
+    },
+    {
+      "from": "vali-2",
+      "to": "loki",
+      "rel": "child_of",
+      "refs": [
+        "g-c50-4",
+        "ls-p4"
+      ]
+    },
+    {
+      "from": "vali-2",
+      "to": "nari",
+      "rel": "sibling",
+      "refs": [
+        "g-c50-4"
+      ]
+    },
+    {
+      "from": "vali-2",
+      "to": "nari",
+      "rel": "killed",
+      "refs": [
+        "g-c50-4"
+      ],
+      "note": {
+        "en": "Snorri only; Lokasenna's prose has Narfi turned into a wolf and Loki bound with Váli's guts"
+      }
+    },
+    {
+      "from": "garmr",
+      "to": "tyr",
+      "rel": "killed",
+      "refs": [
+        "g-c51-5"
+      ]
+    },
+    {
+      "from": "tyr",
+      "to": "garmr",
+      "rel": "killed",
+      "refs": [
+        "g-c51-5"
+      ]
+    },
+    {
+      "from": "garmr",
+      "to": "gnipahellir",
+      "rel": "lives_in",
+      "refs": [
+        "g-c51-5",
+        "vsp-s44"
+      ],
+      "note": {
+        "en": "bound before the cave"
+      }
+    },
+    {
+      "from": "nidhoggr",
+      "to": "hvergelmir",
+      "rel": "lives_in",
+      "refs": [
+        "g-c15-4",
+        "g-c16-2"
+      ]
+    },
+    {
+      "from": "ratatoskr",
+      "to": "yggdrasil",
+      "rel": "lives_in",
+      "refs": [
+        "g-c16-2",
+        "grm-s32"
+      ]
+    },
+    {
+      "from": "dvalinn",
+      "to": "yggdrasil",
+      "rel": "lives_in",
+      "refs": [
+        "g-c16-2",
+        "grm-s33"
+      ]
+    },
+    {
+      "from": "sindri",
+      "to": "gullinbursti",
+      "rel": "made",
+      "refs": [
+        "s-c43-2"
+      ]
+    },
+    {
+      "from": "heidrun",
+      "to": "valhalla",
+      "rel": "lives_in",
+      "refs": [
+        "g-c39-2",
+        "grm-s25"
+      ]
+    },
+    {
+      "from": "eikthyrnir",
+      "to": "valhalla",
+      "rel": "lives_in",
+      "refs": [
+        "g-c39-4",
+        "grm-s26"
+      ]
+    },
+    {
+      "from": "heimdall",
+      "to": "gulltoppr",
+      "rel": "owns",
+      "refs": [
+        "g-c27-1",
+        "s-c15-1"
+      ]
+    },
+    {
+      "from": "sigurdr",
+      "to": "grani",
+      "rel": "owns",
+      "refs": [
+        "rm-p1",
+        "s-c47-9"
+      ]
+    },
+    {
+      "from": "sigurdr",
+      "to": "grani",
+      "rel": "rides",
+      "refs": [
+        "s-c48-4",
+        "s-c72-8"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "ymir",
+      "rel": "killed",
+      "refs": [
+        "g-c7-2"
+      ],
+      "note": {
+        "en": "Snorri: the sons of Borr"
+      }
+    },
+    {
+      "from": "ve",
+      "to": "ymir",
+      "rel": "killed",
+      "refs": [
+        "g-c7-2"
+      ],
+      "note": {
+        "en": "Snorri: the sons of Borr"
+      }
+    },
+    {
+      "from": "borr",
+      "to": "bestla",
+      "rel": "spouse",
+      "refs": [
+        "g-c6-4"
+      ]
+    },
+    {
+      "from": "ve",
+      "to": "borr",
+      "rel": "child_of",
+      "refs": [
+        "g-c6-4"
+      ]
+    },
+    {
+      "from": "ve",
+      "to": "bestla",
+      "rel": "child_of",
+      "refs": [
+        "g-c6-4"
+      ]
+    },
+    {
+      "from": "ve",
+      "to": "odin",
+      "rel": "sibling",
+      "refs": [
+        "g-c6-4"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "vafthrudnir",
+      "rel": "fights",
+      "refs": [
+        "vm-s19",
+        "vm-s55"
+      ],
+      "note": {
+        "en": "A contest of wisdom, heads wagered"
+      }
+    },
+    {
+      "from": "thjazi",
+      "to": "idi",
+      "rel": "sibling",
+      "refs": [
+        "s-c4-3"
+      ]
+    },
+    {
+      "from": "thjazi",
+      "to": "thrymheimr",
+      "rel": "lives_in",
+      "refs": [
+        "grm-s11",
+        "s-c2-6"
+      ]
+    },
+    {
+      "from": "loki",
+      "to": "thjazi",
+      "rel": "fights",
+      "refs": [
+        "s-c2-5",
+        "s-c3-2"
+      ]
+    },
+    {
+      "from": "hrungnir",
+      "to": "gullfaxi",
+      "rel": "owns",
+      "refs": [
+        "s-c24-1"
+      ]
+    },
+    {
+      "from": "hrungnir",
+      "to": "gullfaxi",
+      "rel": "rides",
+      "refs": [
+        "s-c24-1"
+      ]
+    },
+    {
+      "from": "thjalfi",
+      "to": "mokkurkalfi",
+      "rel": "killed",
+      "refs": [
+        "s-c24-11"
+      ]
+    },
+    {
+      "from": "tyr",
+      "to": "hymir",
+      "rel": "child_of",
+      "refs": [
+        "hym-s5"
+      ],
+      "note": {
+        "en": "Hymiskviða; Snorri makes Týr Óðinn's son"
+      }
+    },
+    {
+      "from": "thor",
+      "to": "hymir",
+      "rel": "fights",
+      "refs": [
+        "g-c48-6",
+        "hym-s36"
+      ]
+    },
+    {
+      "from": "thor",
+      "to": "utgarda-loki",
+      "rel": "fights",
+      "refs": [
+        "g-c46-2",
+        "g-c47-6"
+      ]
+    },
+    {
+      "from": "utgarda-loki",
+      "to": "elli",
+      "rel": "foster_child_of",
+      "refs": [
+        "g-c46-25"
+      ]
+    },
+    {
+      "from": "logi",
+      "to": "utgarda-loki",
+      "rel": "servant_of",
+      "refs": [
+        "g-c46-4"
+      ],
+      "note": {
+        "en": "Called from his household"
+      }
+    },
+    {
+      "from": "hugi",
+      "to": "utgarda-loki",
+      "rel": "servant_of",
+      "refs": [
+        "g-c46-6"
+      ],
+      "note": {
+        "en": "Called from his household"
+      }
+    },
+    {
+      "from": "loki",
+      "to": "logi",
+      "rel": "fights",
+      "refs": [
+        "g-c46-5"
+      ],
+      "note": {
+        "en": "Eating contest"
+      }
+    },
+    {
+      "from": "thjalfi",
+      "to": "hugi",
+      "rel": "fights",
+      "refs": [
+        "g-c46-6"
+      ],
+      "note": {
+        "en": "Running contest"
+      }
+    },
+    {
+      "from": "thor",
+      "to": "skrymir",
+      "rel": "fights",
+      "refs": [
+        "g-c45-12"
+      ]
+    },
+    {
+      "from": "gjalp",
+      "to": "geirrodr",
+      "rel": "child_of",
+      "refs": [
+        "s-c26-5"
+      ]
+    },
+    {
+      "from": "greip",
+      "to": "geirrodr",
+      "rel": "child_of",
+      "refs": [
+        "s-c26-8"
+      ]
+    },
+    {
+      "from": "gjalp",
+      "to": "greip",
+      "rel": "sibling",
+      "refs": [
+        "s-c26-8"
+      ]
+    },
+    {
+      "from": "thor",
+      "to": "gjalp",
+      "rel": "killed",
+      "refs": [
+        "s-c26-8",
+        "s-c11-30"
+      ],
+      "note": {
+        "en": "Broke her back"
+      }
+    },
+    {
+      "from": "thor",
+      "to": "greip",
+      "rel": "killed",
+      "refs": [
+        "s-c26-8"
+      ],
+      "note": {
+        "en": "Broke her back"
+      }
+    },
+    {
+      "from": "geirrodr",
+      "to": "loki",
+      "rel": "fights",
+      "refs": [
+        "s-c26-1"
+      ],
+      "note": {
+        "en": "Caught and starved him"
+      }
+    },
+    {
+      "from": "surtr",
+      "to": "muspelheim",
+      "rel": "lives_in",
+      "refs": [
+        "g-c4-5"
+      ]
+    },
+    {
+      "from": "suttungr",
+      "to": "gilling",
+      "rel": "child_of",
+      "refs": [
+        "s-c5-5"
+      ]
+    },
+    {
+      "from": "baugi",
+      "to": "suttungr",
+      "rel": "sibling",
+      "refs": [
+        "s-c6-2"
+      ]
+    },
+    {
+      "from": "gunnlod",
+      "to": "suttungr",
+      "rel": "child_of",
+      "refs": [
+        "s-c5-5"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "gunnlod",
+      "rel": "lover",
+      "refs": [
+        "s-c6-4",
+        "hav-s108"
+      ]
+    },
+    {
+      "from": "suttungr",
+      "to": "odin",
+      "rel": "fights",
+      "refs": [
+        "s-c6-5"
+      ],
+      "note": {
+        "en": "The eagle chase"
+      }
+    },
+    {
+      "from": "fjalar",
+      "to": "galar",
+      "rel": "sibling",
+      "refs": [
+        "s-c5-4"
+      ]
+    },
+    {
+      "from": "fjalar",
+      "to": "gilling",
+      "rel": "killed",
+      "refs": [
+        "s-c5-4"
+      ],
+      "note": {
+        "en": "With Galarr"
+      }
+    },
+    {
+      "from": "hyrrokkin",
+      "to": "jotunheim",
+      "rel": "lives_in",
+      "refs": [
+        "g-c49-15"
+      ]
+    },
+    {
+      "from": "fenja",
+      "to": "frodi",
+      "rel": "servant_of",
+      "refs": [
+        "s-c52-2"
+      ]
+    },
+    {
+      "from": "menja",
+      "to": "frodi",
+      "rel": "servant_of",
+      "refs": [
+        "s-c52-2"
+      ]
+    },
+    {
+      "from": "fenja",
+      "to": "mysingr",
+      "rel": "servant_of",
+      "refs": [
+        "s-c52-6"
+      ]
+    },
+    {
+      "from": "menja",
+      "to": "mysingr",
+      "rel": "servant_of",
+      "refs": [
+        "s-c52-6"
+      ]
+    },
+    {
+      "from": "mysingr",
+      "to": "frodi",
+      "rel": "killed",
+      "refs": [
+        "s-c52-6"
+      ]
+    },
+    {
+      "from": "hrimgerdr",
+      "to": "hati-giant",
+      "rel": "child_of",
+      "refs": [
+        "hhv-s17"
+      ]
+    },
+    {
+      "from": "helgi-hjorvardsson",
+      "to": "hati-giant",
+      "rel": "killed",
+      "refs": [
+        "hhv-s17",
+        "hhv-p5"
+      ]
+    },
+    {
+      "from": "atli-idmundarson",
+      "to": "hrimgerdr",
+      "rel": "fights",
+      "refs": [
+        "hhv-s30"
+      ],
+      "note": {
+        "en": "A flyting; she turns to stone at dawn"
+      }
+    },
+    {
+      "from": "thjalfi",
+      "to": "roskva",
+      "rel": "sibling",
+      "refs": [
+        "g-c44-7"
+      ]
+    },
+    {
+      "from": "skrymir",
+      "to": "utgarda-loki",
+      "rel": "same_as",
+      "refs": [
+        "g-c45-4",
+        "g-c47-4"
+      ],
+      "note": {
+        "en": "Útgarða-Loki says he met them in the forest"
+      }
+    },
+    {
+      "from": "thokk",
+      "to": "loki",
+      "rel": "same_as",
+      "refs": [
+        "g-c49-25"
+      ],
+      "note": {
+        "en": "Snorri: men guess so"
+      }
+    },
+    {
+      "from": "brokkr",
+      "to": "sindri",
+      "rel": "sibling",
+      "refs": [
+        "s-c43-2"
+      ]
+    },
+    {
+      "from": "sindri",
+      "to": "draupnir",
+      "rel": "made",
+      "refs": [
+        "s-c43-2"
+      ],
+      "note": {
+        "en": "with Brokkr at the bellows"
+      }
+    },
+    {
+      "from": "idunn",
+      "to": "ivaldi",
+      "rel": "child_of",
+      "refs": [
+        "fsl-s6"
+      ],
+      "note": {
+        "en": "only in the late poem Forspjallsljóð"
+      }
+    },
+    {
+      "from": "andvari",
+      "to": "andvaranaut",
+      "rel": "owns",
+      "refs": [
+        "s-c46-3",
+        "rm-p2"
+      ]
+    },
+    {
+      "from": "andvari",
+      "to": "andvarafors",
+      "rel": "lives_in",
+      "refs": [
+        "rm-p1"
+      ]
+    },
+    {
+      "from": "brynhild",
+      "to": "andvaranaut",
+      "rel": "owns",
+      "refs": [
+        "s-c48-4",
+        "s-c49-4"
+      ],
+      "note": {
+        "en": "Snorri"
+      }
+    },
+    {
+      "from": "thor",
+      "to": "alviss",
+      "rel": "fights",
+      "refs": [
+        "alv-s4",
+        "alv-s35"
+      ]
+    },
+    {
+      "from": "galar",
+      "to": "gilling",
+      "rel": "killed",
+      "refs": [
+        "s-c5-4"
+      ],
+      "note": {
+        "en": "with Fjalarr"
+      }
+    },
+    {
+      "from": "fjalar",
+      "to": "mead-of-poetry",
+      "rel": "made",
+      "refs": [
+        "s-c5-3"
+      ]
+    },
+    {
+      "from": "galar",
+      "to": "mead-of-poetry",
+      "rel": "made",
+      "refs": [
+        "s-c5-3"
+      ]
+    },
+    {
+      "from": "suttungr",
+      "to": "mead-of-poetry",
+      "rel": "owns",
+      "refs": [
+        "s-c5-5"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "mead-of-poetry",
+      "rel": "owns",
+      "refs": [
+        "s-c6-4",
+        "s-c6-5"
+      ]
+    },
+    {
+      "from": "ljosalfar",
+      "to": "alfheimr",
+      "rel": "lives_in",
+      "refs": [
+        "g-c17-2"
+      ]
+    },
+    {
+      "from": "ljosalfar",
+      "to": "vidblainn",
+      "rel": "lives_in",
+      "refs": [
+        "g-c17-5"
+      ],
+      "note": {
+        "en": "Snorri: 'we believe'"
+      }
+    },
+    {
+      "from": "wayland-the-smith",
+      "to": "hervor-alvitr",
+      "rel": "spouse",
+      "refs": [
+        "vkv-p1"
+      ]
+    },
+    {
+      "from": "wayland-the-smith",
+      "to": "egill",
+      "rel": "sibling",
+      "refs": [
+        "vkv-p1"
+      ]
+    },
+    {
+      "from": "wayland-the-smith",
+      "to": "slagfidr",
+      "rel": "sibling",
+      "refs": [
+        "vkv-p1"
+      ]
+    },
+    {
+      "from": "nidudr",
+      "to": "wayland-the-smith",
+      "rel": "bound",
+      "refs": [
+        "vkv-s11",
+        "vkv-p3"
+      ]
+    },
+    {
+      "from": "verdandi",
+      "to": "urdarbrunnr",
+      "rel": "lives_in",
+      "refs": [
+        "g-c15-9"
+      ]
+    },
+    {
+      "from": "skuld",
+      "to": "urdarbrunnr",
+      "rel": "lives_in",
+      "refs": [
+        "g-c15-9"
+      ]
+    },
+    {
+      "from": "skogul",
+      "to": "odin",
+      "rel": "servant_of",
+      "refs": [
+        "s-c9-14"
+      ]
+    },
+    {
+      "from": "gondul",
+      "to": "odin",
+      "rel": "servant_of",
+      "refs": [
+        "s-c9-14"
+      ]
+    },
+    {
+      "from": "heimdall",
+      "to": "loki",
+      "rel": "fights",
+      "refs": [
+        "s-c15-1"
+      ],
+      "note": {
+        "en": "over Brísingamen, in Húsdrápa"
+      }
+    },
+    {
+      "from": "muspell-sons",
+      "to": "naglfar",
+      "rel": "owns",
+      "refs": [
+        "g-c43-2"
+      ],
+      "note": {
+        "en": "Snorri: 'Múspell has it'"
+      }
+    },
+    {
+      "from": "hrym",
+      "to": "naglfar",
+      "rel": "rides",
+      "refs": [
+        "g-c51-4"
+      ],
+      "note": {
+        "en": "Snorri: he steers it"
+      }
+    },
+    {
+      "from": "frodi",
+      "to": "grotti",
+      "rel": "owns",
+      "refs": [
+        "s-c52-3"
+      ]
+    },
+    {
+      "from": "mysingr",
+      "to": "grotti",
+      "rel": "owns",
+      "refs": [
+        "s-c52-6"
+      ],
+      "note": {
+        "en": "took it after killing Fróði"
+      }
+    },
+    {
+      "from": "laedingr",
+      "to": "fenrir",
+      "rel": "bound",
+      "refs": [
+        "g-c34-3"
+      ],
+      "note": {
+        "en": "He broke it at the first kick"
+      }
+    },
+    {
+      "from": "droma",
+      "to": "fenrir",
+      "rel": "bound",
+      "refs": [
+        "g-c34-3"
+      ],
+      "note": {
+        "en": "He shook it to pieces"
+      }
+    },
+    {
+      "from": "sigurdr",
+      "to": "sigmund",
+      "rel": "child_of",
+      "refs": [
+        "s-c47-3",
+        "grp-s3"
+      ]
+    },
+    {
+      "from": "sigurdr",
+      "to": "hjordis",
+      "rel": "child_of",
+      "refs": [
+        "s-c47-3",
+        "grp-s3"
+      ]
+    },
+    {
+      "from": "sigurdr",
+      "to": "regin",
+      "rel": "foster_child_of",
+      "refs": [
+        "rm-p1",
+        "s-c47-3"
+      ]
+    },
+    {
+      "from": "sigurdr",
+      "to": "fafnir",
+      "rel": "killed",
+      "refs": [
+        "s-c47-5",
+        "fm-p1"
+      ]
+    },
+    {
+      "from": "sigurdr",
+      "to": "regin",
+      "rel": "killed",
+      "refs": [
+        "s-c47-9",
+        "fm-p6"
+      ]
+    },
+    {
+      "from": "sigurdr",
+      "to": "guthormr",
+      "rel": "killed",
+      "refs": [
+        "s-c49-5",
+        "sg-s22"
+      ]
+    },
+    {
+      "from": "sigurdr",
+      "to": "lyngvi-hundingsson",
+      "rel": "killed",
+      "refs": [
+        "rm-p10"
+      ]
+    },
+    {
+      "from": "sigurdr",
+      "to": "gudrun",
+      "rel": "spouse",
+      "refs": [
+        "s-c48-2"
+      ]
+    },
+    {
+      "from": "sigurdr",
+      "to": "gramr",
+      "rel": "owns",
+      "refs": [
+        "s-c47-4",
+        "sd-p1"
+      ]
+    },
+    {
+      "from": "fafnir",
+      "to": "hreidmarr",
+      "rel": "child_of",
+      "refs": [
+        "s-c46-2"
+      ]
+    },
+    {
+      "from": "fafnir",
+      "to": "regin",
+      "rel": "sibling",
+      "refs": [
+        "s-c46-2"
+      ]
+    },
+    {
+      "from": "fafnir",
+      "to": "hreidmarr",
+      "rel": "killed",
+      "refs": [
+        "rm-p4",
+        "s-c47-1"
+      ],
+      "note": {
+        "en": "Snorri: with Reginn; Reginsmál: Fáfnir alone"
+      }
+    },
+    {
+      "from": "fafnir",
+      "to": "hrotti",
+      "rel": "owns",
+      "refs": [
+        "s-c47-2"
+      ]
+    },
+    {
+      "from": "fafnir",
+      "to": "gnitaheidi",
+      "rel": "lives_in",
+      "refs": [
+        "s-c47-2"
+      ]
+    },
+    {
+      "from": "regin",
+      "to": "hreidmarr",
+      "rel": "child_of",
+      "refs": [
+        "s-c46-2",
+        "rm-p1"
+      ]
+    },
+    {
+      "from": "regin",
+      "to": "gramr",
+      "rel": "made",
+      "refs": [
+        "s-c47-4",
+        "rm-p7"
+      ]
+    },
+    {
+      "from": "regin",
+      "to": "hjalprekr",
+      "rel": "servant_of",
+      "refs": [
+        "s-c47-2"
+      ]
+    },
+    {
+      "from": "otr",
+      "to": "hreidmarr",
+      "rel": "child_of",
+      "refs": [
+        "s-c46-2"
+      ]
+    },
+    {
+      "from": "loki",
+      "to": "otr",
+      "rel": "killed",
+      "refs": [
+        "s-c46-1",
+        "rm-p1"
+      ]
+    },
+    {
+      "from": "brynhild",
+      "to": "budli",
+      "rel": "child_of",
+      "refs": [
+        "grp-s27",
+        "br-s12"
+      ]
+    },
+    {
+      "from": "brynhild",
+      "to": "etzel",
+      "rel": "sibling",
+      "refs": [
+        "s-c48-3",
+        "gdr1-s25"
+      ]
+    },
+    {
+      "from": "brynhild",
+      "to": "gunnar",
+      "rel": "spouse",
+      "refs": [
+        "sg-s7"
+      ]
+    },
+    {
+      "from": "brynhild",
+      "to": "heimir",
+      "rel": "foster_child_of",
+      "refs": [
+        "grp-s27"
+      ]
+    },
+    {
+      "from": "gudrun",
+      "to": "gjuki",
+      "rel": "child_of",
+      "refs": [
+        "s-c48-2"
+      ]
+    },
+    {
+      "from": "gudrun",
+      "to": "grimhildr",
+      "rel": "child_of",
+      "refs": [
+        "s-c48-2"
+      ]
+    },
+    {
+      "from": "gudrun",
+      "to": "etzel",
+      "rel": "spouse",
+      "refs": [
+        "s-c50-1"
+      ]
+    },
+    {
+      "from": "gudrun",
+      "to": "jonakr",
+      "rel": "spouse",
+      "refs": [
+        "s-c50-3",
+        "ghv-p1"
+      ]
+    },
+    {
+      "from": "gudrun",
+      "to": "etzel",
+      "rel": "killed",
+      "refs": [
+        "s-c50-2",
+        "akv-s41",
+        "am-s89"
+      ]
+    },
+    {
+      "from": "gunnar",
+      "to": "gjuki",
+      "rel": "child_of",
+      "refs": [
+        "s-c48-2"
+      ]
+    },
+    {
+      "from": "gunnar",
+      "to": "hogni",
+      "rel": "sibling",
+      "refs": [
+        "s-c48-2"
+      ]
+    },
+    {
+      "from": "gunnar",
+      "to": "glaumvor",
+      "rel": "spouse",
+      "refs": [
+        "drn-p1",
+        "am-s6"
+      ]
+    },
+    {
+      "from": "gunnar",
+      "to": "oddrun",
+      "rel": "lover",
+      "refs": [
+        "od-s20",
+        "od-s25"
+      ]
+    },
+    {
+      "from": "hogni",
+      "to": "gjuki",
+      "rel": "child_of",
+      "refs": [
+        "s-c48-2"
+      ]
+    },
+    {
+      "from": "hogni",
+      "to": "kostbera",
+      "rel": "spouse",
+      "refs": [
+        "am-s6"
+      ]
+    },
+    {
+      "from": "gjuki",
+      "to": "grimhildr",
+      "rel": "spouse",
+      "refs": [
+        "s-c48-2"
+      ]
+    },
+    {
+      "from": "etzel",
+      "to": "budli",
+      "rel": "child_of",
+      "refs": [
+        "s-c48-3",
+        "s-c50-1"
+      ]
+    },
+    {
+      "from": "etzel",
+      "to": "oddrun",
+      "rel": "sibling",
+      "refs": [
+        "od-p1",
+        "drn-p1"
+      ]
+    },
+    {
+      "from": "etzel",
+      "to": "hogni",
+      "rel": "killed",
+      "refs": [
+        "s-c50-1"
+      ]
+    },
+    {
+      "from": "etzel",
+      "to": "gunnar",
+      "rel": "killed",
+      "refs": [
+        "s-c50-1"
+      ]
+    },
+    {
+      "from": "svanhildr",
+      "to": "sigurdr",
+      "rel": "child_of",
+      "refs": [
+        "s-c48-4"
+      ]
+    },
+    {
+      "from": "svanhildr",
+      "to": "gudrun",
+      "rel": "child_of",
+      "refs": [
+        "drn-p1"
+      ]
+    },
+    {
+      "from": "jormunrekkr",
+      "to": "svanhildr",
+      "rel": "killed",
+      "refs": [
+        "s-c50-4",
+        "ghv-p1"
+      ]
+    },
+    {
+      "from": "sigmund",
+      "to": "volsung",
+      "rel": "child_of",
+      "refs": [
+        "grp-p1",
+        "hh2-p1"
+      ]
+    },
+    {
+      "from": "sigmund",
+      "to": "borghild",
+      "rel": "spouse",
+      "refs": [
+        "hh2-p1"
+      ]
+    },
+    {
+      "from": "sigmund",
+      "to": "hjordis",
+      "rel": "spouse",
+      "refs": [
+        "grp-p1"
+      ]
+    },
+    {
+      "from": "sinfjotli",
+      "to": "sigmund",
+      "rel": "child_of",
+      "refs": [
+        "grp-p1"
+      ]
+    },
+    {
+      "from": "helgi-hundingsbani",
+      "to": "sigmund",
+      "rel": "child_of",
+      "refs": [
+        "hh2-p1",
+        "hh1-s6"
+      ]
+    },
+    {
+      "from": "helgi-hundingsbani",
+      "to": "borghild",
+      "rel": "child_of",
+      "refs": [
+        "hh1-s1",
+        "hh2-p1"
+      ]
+    },
+    {
+      "from": "helgi-hundingsbani",
+      "to": "sigrun",
+      "rel": "spouse",
+      "refs": [
+        "hh2-p7"
+      ]
+    },
+    {
+      "from": "helgi-hundingsbani",
+      "to": "hundingr",
+      "rel": "killed",
+      "refs": [
+        "hh1-s10",
+        "hh2-p3"
+      ]
+    },
+    {
+      "from": "helgi-hundingsbani",
+      "to": "hogni-sigrunar",
+      "rel": "killed",
+      "refs": [
+        "hh2-s26"
+      ]
+    },
+    {
+      "from": "dagr-hognason",
+      "to": "helgi-hundingsbani",
+      "rel": "killed",
+      "refs": [
+        "hh2-p7"
+      ]
+    },
+    {
+      "from": "sigrun",
+      "to": "hogni-sigrunar",
+      "rel": "child_of",
+      "refs": [
+        "hh2-p3"
+      ]
+    },
+    {
+      "from": "sigrun",
+      "to": "dagr-hognason",
+      "rel": "sibling",
+      "refs": [
+        "hh2-p6",
+        "hh2-s30"
+      ]
+    },
+    {
+      "from": "helgi-hjorvardsson",
+      "to": "hjorvardr",
+      "rel": "child_of",
+      "refs": [
+        "hhv-p3"
+      ]
+    },
+    {
+      "from": "helgi-hjorvardsson",
+      "to": "sigrlinn",
+      "rel": "child_of",
+      "refs": [
+        "hhv-p3"
+      ]
+    },
+    {
+      "from": "helgi-hjorvardsson",
+      "to": "svafa",
+      "rel": "spouse",
+      "refs": [
+        "hhv-p6"
+      ]
+    },
+    {
+      "from": "svafa",
+      "to": "eylimi",
+      "rel": "child_of",
+      "refs": [
+        "hhv-p4"
+      ]
+    },
+    {
+      "from": "hamdir",
+      "to": "gudrun",
+      "rel": "child_of",
+      "refs": [
+        "s-c50-3"
+      ]
+    },
+    {
+      "from": "hamdir",
+      "to": "jonakr",
+      "rel": "child_of",
+      "refs": [
+        "s-c50-3"
+      ]
+    },
+    {
+      "from": "hamdir",
+      "to": "sorli",
+      "rel": "sibling",
+      "refs": [
+        "s-c50-3",
+        "hm-s24"
+      ]
+    },
+    {
+      "from": "hamdir",
+      "to": "erpr",
+      "rel": "killed",
+      "refs": [
+        "s-c50-6",
+        "hm-s15"
+      ],
+      "note": {
+        "en": "with Sörli"
+      }
+    },
+    {
+      "from": "hamdir",
+      "to": "jormunrekkr",
+      "rel": "fights",
+      "refs": [
+        "s-c50-8",
+        "hm-s24"
+      ]
+    },
+    {
+      "from": "sorli",
+      "to": "gudrun",
+      "rel": "child_of",
+      "refs": [
+        "s-c50-3"
+      ]
+    },
+    {
+      "from": "sorli",
+      "to": "erpr",
+      "rel": "killed",
+      "refs": [
+        "s-c50-6",
+        "hm-s15"
+      ],
+      "note": {
+        "en": "with Hamðir"
+      }
+    },
+    {
+      "from": "jormunrekkr",
+      "to": "randver",
+      "rel": "killed",
+      "refs": [
+        "s-c50-4",
+        "ghv-p1"
+      ],
+      "note": {
+        "en": "had him hanged"
+      }
+    },
+    {
+      "from": "borghild",
+      "to": "sinfjotli",
+      "rel": "killed",
+      "refs": [
+        "grp-p1"
+      ],
+      "note": {
+        "en": "by poison"
+      }
+    },
+    {
+      "from": "hjordis",
+      "to": "eylimi",
+      "rel": "child_of",
+      "refs": [
+        "s-c47-3",
+        "grp-p1"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "asgard",
+      "rel": "lives_in",
+      "refs": [
+        "g-c9-2"
+      ]
+    },
+    {
+      "from": "odin",
+      "to": "valhalla",
+      "rel": "owns",
+      "refs": [
+        "grm-s8",
+        "g-c20-6"
+      ]
+    },
+    {
+      "from": "einherjar",
+      "to": "valhalla",
+      "rel": "lives_in",
+      "refs": [
+        "g-c20-6",
+        "g-c41-2"
+      ]
+    },
+    {
+      "from": "thor",
+      "to": "bilskirnir",
+      "rel": "owns",
+      "refs": [
+        "g-c21-2",
+        "s-c11-1"
+      ]
+    },
+    {
+      "from": "njordr",
+      "to": "vanaheimr",
+      "rel": "lives_in",
+      "refs": [
+        "g-c23-1",
+        "vm-s39"
+      ],
+      "note": {
+        "en": "raised there; Vafþrúðnismál says he returns there at the world's end"
+      }
+    },
+    {
+      "from": "freyr",
+      "to": "alfheimr",
+      "rel": "owns",
+      "refs": [
+        "grm-s5"
+      ]
+    },
+    {
+      "from": "andvari",
+      "to": "svartalfaheimr",
+      "rel": "lives_in",
+      "refs": [
+        "s-c46-3"
+      ]
+    },
+    {
+      "from": "hreidmarr",
+      "to": "odin",
+      "rel": "bound",
+      "refs": [
+        "s-c46-2"
+      ],
+      "note": {
+        "en": "with his sons"
+      }
+    },
+    {
+      "from": "hreidmarr",
+      "to": "loki",
+      "rel": "bound",
+      "refs": [
+        "s-c46-2"
+      ],
+      "note": {
+        "en": "with his sons"
+      }
+    },
+    {
+      "from": "jormunrekkr",
+      "to": "hamdir",
+      "rel": "killed",
+      "refs": [
+        "s-c50-10",
+        "hm-s25"
+      ],
+      "note": {
+        "en": "had them stoned"
+      }
+    },
+    {
+      "from": "jormunrekkr",
+      "to": "sorli",
+      "rel": "killed",
+      "refs": [
+        "s-c50-10",
+        "hm-s25"
+      ],
+      "note": {
+        "en": "had them stoned"
+      }
+    }
+  ]
 }

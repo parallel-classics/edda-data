@@ -1,101 +1,197 @@
 {
- "_note": "Mímir (task 34, edda-site docs/specs/MIMIR.md). PILOT SAMPLE by Claude Code, 2026-11-08: a few entries to build the pages against, until the cloud session's content arrives (it replaces this file). AI draft, not reviewed; CC BY 4.0.",
- "ages": [
-  {
-   "id": "before",
-   "title": {
-    "en": "Before the world"
-   },
-   "intro": {
-    "en": "Ginnungagap, the yawning void between the cold of Niflheimr and the fire of Múspell; from the meeting of rime and heat comes the giant Ymir."
-   },
-   "refs": [
-    "g-c5-2"
-   ]
+  "_note": "Mímir (task 34) content, drafted by an AI model (Claude) from the aligned texts of Open Edda; every fact cites row ids. status draft = not reviewed. CC BY 4.0. Generated 2026-11-08.",
+  "timeline_note": {
+    "en": "The Eddas give no single chronology. The order here follows Völuspá and Snorri where they give one, from the empty gap to the renewed earth, and is only a reading aid elsewhere, especially among the gods' deeds."
   },
-  {
-   "id": "making",
-   "title": {
-    "en": "The making of the world"
-   },
-   "intro": {
-    "en": "Óðinn and his brothers kill Ymir and build the world from his body; they set the sun and moon on their way and make the first humans."
-   },
-   "refs": [
-    "g-c8-2"
-   ]
-  },
-  {
-   "id": "golden",
-   "title": {
-    "en": "The golden age"
-   },
-   "intro": {
-    "en": "The gods meet on Iðavöllr, build halls and forges and play at tables with gold."
-   },
-   "refs": [
-    "vsp-s7"
-   ]
-  },
-  {
-   "id": "war",
-   "title": {
-    "en": "The first war"
-   },
-   "intro": {
-    "en": "War comes into the world when Óðinn hurls his spear over the host; the Æsir and Vanir fight and make peace."
-   },
-   "refs": [
-    "vsp-s24"
-   ]
-  },
-  {
-   "id": "deeds",
-   "title": {
-    "en": "The gods' deeds"
-   },
-   "intro": {
-    "en": "The wall-builder and Sleipnir, the treasures, Þórr's journeys against the giants, the binding of Fenrir."
-   },
-   "refs": [
-    "g-c42-1"
-   ]
-  },
-  {
-   "id": "baldr",
-   "title": {
-    "en": "The death of Baldr"
-   },
-   "intro": {
-    "en": "Baldr's dreams, the oaths, the mistletoe, Hermóðr's ride to Hel, and Loki bound."
-   },
-   "refs": [
-    "g-c49-1"
-   ]
-  },
-  {
-   "id": "ragnarok",
-   "title": {
-    "en": "Ragnarök"
-   },
-   "intro": {
-    "en": "The great winter, the wolves, the last battle and the fire."
-   },
-   "refs": [
-    "g-c51-1"
-   ]
-  },
-  {
-   "id": "renewed",
-   "title": {
-    "en": "The world renewed"
-   },
-   "intro": {
-    "en": "The earth rises green from the sea; some gods return and two humans repeople the world."
-   },
-   "refs": [
-    "g-c53-1"
-   ]
+  "ages": {
+    "1": {
+      "title": {
+        "en": "Before the world"
+      },
+      "intro": {
+        "en": "At first there was no sand, no sea, no earth and no sky, only an empty gap called Ginnungagap. On one side lay cold Niflheimr with its spring Hvergelmir; to the south lay Múspell, bright and burning, guarded by Surtr with a flaming sword. Where the ice and frost in the northern part of the gap met the warm air from the south, the ice melted and dripped, and from the drops a being in the shape of a man came to life: the giant Ymir. A cow, Auðhumla, fed him, and from the ice she licked came Búri, the grandfather of Óðinn."
+      },
+      "refs": [
+        "g-c4-3",
+        "vsp-s3",
+        "g-c4-4",
+        "g-c4-5",
+        "g-c5-3",
+        "g-c5-4",
+        "g-c6-2",
+        "g-c6-4"
+      ],
+      "stories": [
+        "ymir-and-the-making"
+      ]
+    },
+    "2": {
+      "title": {
+        "en": "The making of the world"
+      },
+      "intro": {
+        "en": "Óðinn and his brothers, the sons of Borr, killed Ymir and built the world from his body: earth from his flesh, sea from his blood, sky from his skull. They gave the giants the land by the outer sea and made a fenced home for people, Miðgarðr, from his eyebrows. They set sparks in the sky so that days and years could be counted. Then they found two trees on the shore and made the first man and woman, Askr and Embla, and built themselves a stronghold, Ásgarðr."
+      },
+      "refs": [
+        "g-c7-2",
+        "g-c8-2",
+        "g-c8-4",
+        "g-c8-8",
+        "vsp-s4",
+        "vsp-s6",
+        "g-c9-2",
+        "vsp-s17"
+      ],
+      "stories": [
+        "ymir-and-the-making",
+        "the-first-humans"
+      ]
+    },
+    "3": {
+      "title": {
+        "en": "The golden age"
+      },
+      "intro": {
+        "en": "Völuspá remembers a happy beginning. The gods met on the plain of Iðavöllr, built shrines and temples, set up forges and made tools. They played board games in the meadow and never lacked gold. Snorri says they made everything they used of gold, and calls the time the golden age. It ended, both sources say, when three giant women came from Jötunheimar. The gods also gave the dwarfs their shape and wits. No full story is set in this age; it is the calm before the trouble."
+      },
+      "refs": [
+        "vsp-s7",
+        "vsp-s8",
+        "g-c14-2",
+        "vsp-s9",
+        "vsp-s10"
+      ],
+      "stories": []
+    },
+    "4": {
+      "title": {
+        "en": "The first war"
+      },
+      "intro": {
+        "en": "Völuspá calls it the first war in the world. The gods stabbed a woman called Gullveig with spears and burned her three times in the hall of Hárr (Óðinn), yet she lived. Óðinn threw his spear over the enemy host, the wall of the Æsir's stronghold was broken, and the Vanir trod the field. Snorri mentions only a quarrel and tells of the peace: the two sides exchanged hostages, so Njörðr of the Vanir came to live among the Æsir, and from the spit of both sides the wise Kvasir was made."
+      },
+      "refs": [
+        "vsp-s21",
+        "vsp-s24",
+        "g-c23-1",
+        "s-c5-2"
+      ],
+      "stories": [
+        "the-first-war"
+      ]
+    },
+    "5": {
+      "title": {
+        "en": "The age of the gods' deeds"
+      },
+      "intro": {
+        "en": "Most of the famous myths belong here, and the sources rarely say in what order they happened. A giant builds the gods' wall and is cheated of his pay. Dwarfs forge the gods' treasures, among them Þórr's hammer. Iðunn's apples are stolen and won back. Óðinn steals the mead of poetry. Freyr gives away his sword for love. Þórr travels again and again into the giants' lands. The gods also bind the wolf Fenrir, and Týr loses his hand. The order here is a reading aid."
+      },
+      "refs": [
+        "g-c42-2",
+        "s-c43-5",
+        "s-c2-6",
+        "s-c6-5",
+        "g-c37-4",
+        "g-c34-11"
+      ],
+      "stories": [
+        "the-wall-builder",
+        "the-treasures",
+        "idunn-and-thjazi",
+        "skadi-chooses",
+        "mead-of-poetry",
+        "freyr-and-gerdr",
+        "thor-and-utgarda-loki",
+        "thor-fishes",
+        "thor-and-hrungnir",
+        "thor-and-geirrodr",
+        "thrymr-steals-the-hammer",
+        "binding-of-fenrir"
+      ]
+    },
+    "6": {
+      "title": {
+        "en": "Baldr's death"
+      },
+      "intro": {
+        "en": "Baldr, Óðinn's son, has bad dreams. Frigg makes everything swear not to hurt him, except the young mistletoe. Loki finds this out and puts the mistletoe in the hand of blind Höðr, who kills his brother. Hel will let Baldr go only if all things weep for him, and one giantess refuses. Snorri calls it the greatest misfortune among gods and men. Loki's insults at Ægir's feast follow, and then the gods catch him and bind him in a cave until the end of the world."
+      },
+      "refs": [
+        "g-c49-2",
+        "g-c49-12",
+        "g-c49-21",
+        "g-c49-24",
+        "vsp-s31",
+        "vsp-s35",
+        "g-c50-4"
+      ],
+      "stories": [
+        "death-of-baldr",
+        "lokasenna",
+        "loki-bound"
+      ]
+    },
+    "7": {
+      "title": {
+        "en": "Ragnarök"
+      },
+      "intro": {
+        "en": "Ragnarök is the doom of the gods. A winter of three winters comes, with no summer between, and people kill their own kin. Wolves swallow the sun and moon, and every bond breaks, so Fenrir and Loki are free. The giants, the serpent and the sons of Múspell meet the gods on the plain of Vígríðr. Heimdallr blows his horn. Óðinn, Þórr, Freyr, Týr, Heimdallr and Loki die. Then Surtr burns the whole world, and the earth sinks into the sea."
+      },
+      "refs": [
+        "g-c51-2",
+        "g-c51-4",
+        "g-c51-5",
+        "vsp-s46",
+        "vsp-s57"
+      ],
+      "stories": [
+        "ragnarok"
+      ]
+    },
+    "8": {
+      "title": {
+        "en": "The world renewed"
+      },
+      "intro": {
+        "en": "Völuspá does not end in the fire. The seeress sees the earth rise again from the sea, green, with waterfalls. Fields grow that no one sowed. The surviving gods meet again at Iðavöllr, talk about the old days, and find in the grass the golden game pieces they once owned. Baldr and Höðr come back from Hel. Two humans, Líf and Leifþrasir, have hidden in Hoddmímir's wood and live on the morning dew. From them, Snorri says, the world is peopled again."
+      },
+      "refs": [
+        "vsp-s59",
+        "vsp-s60",
+        "vsp-s61",
+        "vsp-s62",
+        "g-c53-2",
+        "g-c53-4",
+        "vm-s45"
+      ],
+      "stories": [
+        "the-world-renewed"
+      ]
+    },
+    "heroic": {
+      "title": {
+        "en": "The heroes: Völsungs and Gjúkungs"
+      },
+      "intro": {
+        "en": "Alongside the myths of the gods runs a second line of stories about people. It begins with the gods themselves: Loki kills an otter who is a man's son, and the gods pay for it with a dwarf's gold, including a ring the dwarf has cursed. The gold then brings death to those who hold it: Hreiðmarr, killed by his own sons; the dragon Fáfnir; the hero Sigurðr; and the Gjúkung brothers Gunnarr and Högni, who sink it in the Rhine before they die at King Atli's court. These stories happen in the world of men and have no fixed place in the gods' timeline."
+      },
+      "refs": [
+        "s-c46-1",
+        "s-c46-2",
+        "s-c46-3",
+        "s-c47-1",
+        "s-c47-5",
+        "s-c49-5",
+        "s-c50-1"
+      ],
+      "stories": [
+        "andvaris-gold",
+        "sigurdr-and-fafnir",
+        "brynhildr-and-gudrun",
+        "the-fall-of-the-gjukungs"
+      ]
+    }
   }
- ]
 }
