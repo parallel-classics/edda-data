@@ -1,5 +1,5 @@
 {
- "_note": "Reading paths for the Start here page (task 19a). Each step points at a chapter (<p>-ch<n>), a range of chapters (ref .. to), a poem (<prefix>-poem) or a row id; the website turns the ids into links with the titles. Notes per interface language. English by the editor; the Icelandic is a draft (status.is) until a native reader has checked it. Correct here, never on the page.",
+ "_note": "Reading paths for the Start here page (task 19a). Each step points at a chapter (<p>-ch<n>), a range of chapters (ref .. to), a poem (<prefix>-poem) or a row id; the website turns the ids into links with the titles. Notes per interface language. English by the editor; the Icelandic is a draft (status.is) until a native reader has checked it. Correct here, never on the page. tours: the Mímir tours (guide/paths.json ids) offered as \"Tour first?\" on the path.",
  "status": {
   "en": "editor",
   "is": "draft"
@@ -39,6 +39,9 @@
       "is": "Dauði Baldurs, refsing Loka, ragnarök og það sem á eftir kemur."
      }
     }
+   ],
+   "tours": [
+    "creation-to-ragnarok"
    ]
   },
   {
@@ -112,6 +115,10 @@
       "is": "Skírnir biður Gerðar fyrir Frey."
      }
     }
+   ],
+   "tours": [
+    "gods-in-10-minutes",
+    "thors-journeys"
    ]
   },
   {
@@ -251,6 +258,9 @@
       "is": "Hamðir og Sörli í höll Jörmunrekks."
      }
     }
+   ],
+   "tours": [
+    "the-cursed-gold"
    ]
   },
   {
