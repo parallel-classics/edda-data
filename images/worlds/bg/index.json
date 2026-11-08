@@ -1,6 +1,6 @@
 {
- "_note": "Resized copies of the map background for the website, written by edda-site/pipeline/make_worlds.py background from worlds-background-v3.jpg. Picture © 2026 Grigory Sapunov, CC BY 4.0; provenance in made_with (not shown on the page). Generated; do not edit.",
- "source": "worlds-background-v3.jpg",
+ "_note": "Resized copies of the map background for the website, written by edda-site/pipeline/make_worlds.py background from worlds-background-v4.jpg. Picture © 2026 Grigory Sapunov, CC BY 4.0; provenance in made_with (not shown on the page). Generated; do not edit.",
+ "source": "worlds-background-v4.jpg",
  "size": [
   2576,
   2576
@@ -9,35 +9,35 @@
  "licence": "CC BY 4.0",
  "made_with": "Google Gemini image generation (Nano Banana), several edit passes; prompts in the cloud-session chat of 2026-11-07 (provenance only, not shown on the page)",
  "files": {
-  "worlds-v3-1600.jpg": {
+  "worlds-v4-1600.jpg": {
    "width": 1600,
    "height": 1600,
-   "bytes": 798241
+   "bytes": 792454
   },
-  "worlds-v3-1600.webp": {
+  "worlds-v4-1600.webp": {
    "width": 1600,
    "height": 1600,
-   "bytes": 684048
+   "bytes": 682000
   },
-  "worlds-v3-1000.jpg": {
+  "worlds-v4-1000.jpg": {
    "width": 1000,
    "height": 1000,
-   "bytes": 322196
+   "bytes": 320311
   },
-  "worlds-v3-1000.webp": {
+  "worlds-v4-1000.webp": {
    "width": 1000,
    "height": 1000,
-   "bytes": 279304
+   "bytes": 279238
   },
-  "worlds-v3-600.jpg": {
+  "worlds-v4-600.jpg": {
    "width": 600,
    "height": 600,
-   "bytes": 116291
+   "bytes": 116010
   },
-  "worlds-v3-600.webp": {
+  "worlds-v4-600.webp": {
    "width": 600,
    "height": 600,
-   "bytes": 98254
+   "bytes": 97818
   }
  }
 }

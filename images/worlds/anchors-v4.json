@@ -1,6 +1,6 @@
 {
- "_note": "Label anchor points for the task 20 map background, in image pixels of worlds-background-v3.jpg (2576x2576, downscaled from Grigory's 4096 px 'world v8 full res.jpg'). One anchors file per image version; v3 supersedes v2. From the cloud session, 2026-11-07. Checked against the label geometry of render_worlds() (name 64 px at y-102, English gloss 40 px at y-50, marker r 30/38): no label overlaps another label or marker with the offsets given in the task; see anchors_preview-v3.jpg.",
- "image": "worlds-background-v3.jpg",
+ "_note": "Label anchor points for the task 20 map background, in image pixels of worlds-background-v4.jpg (2576x2576, downscaled from Grigory's 4096 px 'world v9.jpg'). v4 is v3 with one fix: the leftmost (grazing) stag in the crown is redrawn whole (in v3 it read as headless). The rest of the picture is in the same place, so the anchors are v3's unchanged (checked by overlaying them on v4). From the cloud session, 2026-11-08.",
+ "image": "worlds-background-v4.jpg",
  "size": [
   2576,
   2576
