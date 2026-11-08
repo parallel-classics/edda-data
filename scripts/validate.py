@@ -756,6 +756,40 @@ def check_summaries(d, ids_out):
             err(f"{where}: date must be YYYY-MM-DD")
 
 
+def check_pictures():
+    """images/plates/pN.anchors.json and images/mimir/mimir.anchors.json (Mímir, task 34): the picture is there, every
+    entity exists, every box lies inside the picture, part_of names a figure of the same plate, a scene's story is a story."""
+    ep = os.path.join(ROOT, "entities", "entities.json")
+    ents = {e["id"] for e in load(ep).get("entities", [])} if os.path.exists(ep) else set()
+    sp = os.path.join(ROOT, "guide", "stories.json")
+    stories = set(load(sp).get("stories", {})) if os.path.exists(sp) else set()
+    n = 0
+    for sub, key in (("plates", "figures"), ("mimir", "scenes")):
+        d = os.path.join(ROOT, "images", sub)
+        if not os.path.isdir(d):
+            continue
+        for name in sorted(os.listdir(d)):
+            if not name.endswith(".anchors.json"):
+                continue
+            where, a = f"images/{sub}/{name}", load(os.path.join(d, name))
+            if not os.path.exists(os.path.join(d, a.get("image", ""))):
+                err(f"{where}: image {a.get('image')!r} is missing")
+            W, H = a.get("size", [0, 0])
+            figs = {f["entity"] for f in a.get(key, [])}
+            for f in a.get(key, []):
+                n += 1
+                if f["entity"] not in ents:
+                    err(f"{where}: entity {f['entity']!r} does not exist")
+                x, y, w, h = f["bbox"]
+                if x < 0 or y < 0 or w <= 0 or h <= 0 or x + w > W or y + h > H:
+                    err(f"{where}: {f['entity']} box {f['bbox']} is outside the picture {W}x{H}")
+                if f.get("part_of") and f["part_of"] not in figs:
+                    err(f"{where}: {f['entity']} part_of {f['part_of']!r} is not on this plate")
+                if f.get("story") and stories and f["story"] not in stories:
+                    err(f"{where}: story {f['story']!r} is not in guide/stories.json")
+    return n
+
+
 def check_guide(rows):
     """guide/ (Mímir, task 34): every passage ref is a row id, every entity id exists, every fact and story step has
     a passage, relations use the known kinds, and stories, ages, myths, outside entries and paths point at things
@@ -933,6 +967,7 @@ def main():
     check_paths(rows)
     check_worlds(rows)
     check_guide(rows)
+    check_pictures()
     check_ravens(rows)
     check_intros(poem_prefixes_for_intros())
     print(f"aligned rows: {len(rows)} in {len(chapters)} parts; overlay files: {n_overlay_files}, "

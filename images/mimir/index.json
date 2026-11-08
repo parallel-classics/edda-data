@@ -1,0 +1,57 @@
+{
+ "_note": "Web copies of the Mímir picture, written by edda-site/pipeline/make_plates.py from mimir.jpg. Picture © 2026 Grigory Sapunov, CC BY 4.0. Generated; do not edit.",
+ "image": "mimir.jpg",
+ "size": [
+  5504,
+  3072
+ ],
+ "credit": "© 2026 Grigory Sapunov",
+ "licence": "CC BY 4.0",
+ "files": {
+  "mimir-2400.jpg": {
+   "width": 2400,
+   "height": 1340,
+   "bytes": 497080
+  },
+  "mimir-2400.webp": {
+   "width": 2400,
+   "height": 1340,
+   "bytes": 291058
+  },
+  "mimir-1600.jpg": {
+   "width": 1600,
+   "height": 893,
+   "bytes": 264339
+  },
+  "mimir-1600.webp": {
+   "width": 1600,
+   "height": 893,
+   "bytes": 172450
+  },
+  "mimir-1000.jpg": {
+   "width": 1000,
+   "height": 558,
+   "bytes": 120688
+  },
+  "mimir-1000.webp": {
+   "width": 1000,
+   "height": 558,
+   "bytes": 85580
+  },
+  "mimir-600.jpg": {
+   "width": 600,
+   "height": 335,
+   "bytes": 48969
+  },
+  "mimir-600.webp": {
+   "width": 600,
+   "height": 335,
+   "bytes": 36720
+  },
+  "mimir-og.jpg": {
+   "width": 1200,
+   "height": 630,
+   "bytes": 168296
+  }
+ }
+}

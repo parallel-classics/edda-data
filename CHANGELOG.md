@@ -4,6 +4,9 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 ## Unreleased
 
+- Mímir pictures (task 34): Grigory Sapunov's plates P1-P4 and the Mímir picture (© 2026, CC BY 4.0) with their
+  anchors; web sizes, a crop per figure and the social card from edda-site `pipeline/make_plates.py`. The validator
+  checks the anchors (picture present, entities exist, boxes inside, part_of, stories).
 - Mímir (task 34), content pass 3: 331 cards (115 short ones), every link between two cards both ways, one entry per
   neighbour (`also` for further kinds), sections with `more`. Old Norse names (`names.on`) for 34 entities whose
   title fell back to an inflected form (Vé, Miðgarðr, Jörð, Ullr …). The validator checks `also`, sections and link-backs.
