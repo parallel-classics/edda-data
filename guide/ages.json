@@ -1,0 +1,101 @@
+{
+ "_note": "Mímir (task 34, edda-site docs/specs/MIMIR.md). PILOT SAMPLE by Claude Code, 2026-11-08: a few entries to build the pages against, until the cloud session's content arrives (it replaces this file). AI draft, not reviewed; CC BY 4.0.",
+ "ages": [
+  {
+   "id": "before",
+   "title": {
+    "en": "Before the world"
+   },
+   "intro": {
+    "en": "Ginnungagap, the yawning void between the cold of Niflheimr and the fire of Múspell; from the meeting of rime and heat comes the giant Ymir."
+   },
+   "refs": [
+    "g-c5-2"
+   ]
+  },
+  {
+   "id": "making",
+   "title": {
+    "en": "The making of the world"
+   },
+   "intro": {
+    "en": "Óðinn and his brothers kill Ymir and build the world from his body; they set the sun and moon on their way and make the first humans."
+   },
+   "refs": [
+    "g-c8-2"
+   ]
+  },
+  {
+   "id": "golden",
+   "title": {
+    "en": "The golden age"
+   },
+   "intro": {
+    "en": "The gods meet on Iðavöllr, build halls and forges and play at tables with gold."
+   },
+   "refs": [
+    "vsp-s7"
+   ]
+  },
+  {
+   "id": "war",
+   "title": {
+    "en": "The first war"
+   },
+   "intro": {
+    "en": "War comes into the world when Óðinn hurls his spear over the host; the Æsir and Vanir fight and make peace."
+   },
+   "refs": [
+    "vsp-s24"
+   ]
+  },
+  {
+   "id": "deeds",
+   "title": {
+    "en": "The gods' deeds"
+   },
+   "intro": {
+    "en": "The wall-builder and Sleipnir, the treasures, Þórr's journeys against the giants, the binding of Fenrir."
+   },
+   "refs": [
+    "g-c42-1"
+   ]
+  },
+  {
+   "id": "baldr",
+   "title": {
+    "en": "The death of Baldr"
+   },
+   "intro": {
+    "en": "Baldr's dreams, the oaths, the mistletoe, Hermóðr's ride to Hel, and Loki bound."
+   },
+   "refs": [
+    "g-c49-1"
+   ]
+  },
+  {
+   "id": "ragnarok",
+   "title": {
+    "en": "Ragnarök"
+   },
+   "intro": {
+    "en": "The great winter, the wolves, the last battle and the fire."
+   },
+   "refs": [
+    "g-c51-1"
+   ]
+  },
+  {
+   "id": "renewed",
+   "title": {
+    "en": "The world renewed"
+   },
+   "intro": {
+    "en": "The earth rises green from the sea; some gods return and two humans repeople the world."
+   },
+   "refs": [
+    "g-c53-1"
+   ]
+  }
+ ]
+}

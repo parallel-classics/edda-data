@@ -1,0 +1,104 @@
+{
+ "_note": "Mímir (task 34, edda-site docs/specs/MIMIR.md). PILOT SAMPLE by Claude Code, 2026-11-08: a few entries to build the pages against, until the cloud session's content arrives (it replaces this file). AI draft, not reviewed; CC BY 4.0.",
+ "stories": [
+  {
+   "id": "making-of-the-world",
+   "title": {
+    "en": "The making of the world"
+   },
+   "age": "making",
+   "lane": "gods",
+   "order": 1,
+   "order_basis": {
+    "en": "Gylfaginning 7-9 tells it in this order."
+   },
+   "hook": {
+    "en": "The sons of Borr kill the first giant and build the world from his body."
+   },
+   "steps": [
+    {
+     "text": {
+      "en": "Óðinn and his brothers, the sons of Borr, kill the giant Ymir; his blood drowns the frost giants, all but Bergelmir."
+     },
+     "refs": [
+      "g-c7-2"
+     ]
+    },
+    {
+     "text": {
+      "en": "From his body they make the world: the earth from his flesh, the sea from his blood, the sky from his skull."
+     },
+     "refs": [
+      "g-c8-2",
+      "g-c8-4"
+     ]
+    },
+    {
+     "text": {
+      "en": "From two trees on the shore they make the first humans, Askr and Embla."
+     },
+     "refs": [
+      "g-c9-2"
+     ]
+    }
+   ],
+   "participants": [
+    "odin",
+    "ymir",
+    "embla"
+   ],
+   "before": null,
+   "after": "thrym"
+  },
+  {
+   "id": "thrym",
+   "title": {
+    "en": "Þórr's hammer stolen"
+   },
+   "age": "deeds",
+   "lane": "gods",
+   "order": 2,
+   "order_basis": {
+    "en": "Þrymskviða gives no time; placed among the gods' deeds as a reading aid."
+   },
+   "hook": {
+    "en": "A giant steals Mjöllnir and asks for Freyja as his bride; Þórr goes to the wedding in her place."
+   },
+   "steps": [
+    {
+     "text": {
+      "en": "Þórr wakes to find his hammer gone."
+     },
+     "refs": [
+      "thrk-s1"
+     ]
+    },
+    {
+     "text": {
+      "en": "The giant Þrymr has hidden it deep in the earth and will give it back only for Freyja."
+     },
+     "refs": [
+      "thrk-s7"
+     ]
+    },
+    {
+     "text": {
+      "en": "Þórr goes as the bride; when the hammer is laid in his lap to hallow the marriage, he takes it and kills Þrymr."
+     },
+     "refs": [
+      "thrk-s30",
+      "thrk-s31"
+     ]
+    }
+   ],
+   "participants": [
+    "thor",
+    "loki",
+    "thrymr",
+    "freyja"
+   ],
+   "before": "making-of-the-world",
+   "after": null
+  }
+ ]
+}

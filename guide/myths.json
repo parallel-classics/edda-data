@@ -1,0 +1,39 @@
+{
+ "_note": "Mímir (task 34, edda-site docs/specs/MIMIR.md). PILOT SAMPLE by Claude Code, 2026-11-08: a few entries to build the pages against, until the cloud session's content arrives (it replaces this file). AI draft, not reviewed; CC BY 4.0.",
+ "myths": [
+  {
+   "id": "horned-helmets",
+   "claim": {
+    "en": "Viking gods and warriors wore horned helmets."
+   },
+   "sources": {
+    "en": "No Eddic text describes a horned helmet."
+   },
+   "origin": {
+    "en": "Nineteenth-century art and stage design, above all the costumes for Wagner's Ring in 1876."
+   },
+   "refs": [],
+   "entities": []
+  },
+  {
+   "id": "loki-brother",
+   "claim": {
+    "en": "Loki is Óðinn's (or Þórr's) brother."
+   },
+   "sources": {
+    "en": "Loki is the son of the giant Fárbauti and Laufey; he and Óðinn mixed their blood in sworn brotherhood."
+   },
+   "origin": {
+    "en": "Modern retellings and films turn the sworn brotherhood into kinship."
+   },
+   "refs": [
+    "g-c33-1",
+    "ls-s9"
+   ],
+   "entities": [
+    "odin",
+    "loki"
+   ]
+  }
+ ]
+}

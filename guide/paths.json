@@ -1,0 +1,34 @@
+{
+ "_note": "Mímir (task 34, edda-site docs/specs/MIMIR.md). PILOT SAMPLE by Claude Code, 2026-11-08: a few entries to build the pages against, until the cloud session's content arrives (it replaces this file). AI draft, not reviewed; CC BY 4.0.",
+ "paths": [
+  {
+   "id": "gods-in-10",
+   "title": {
+    "en": "The gods in ten minutes"
+   },
+   "steps": [
+    {
+     "kind": "card",
+     "id": "odin",
+     "link": {
+      "en": "Start with the chief of the gods."
+     }
+    },
+    {
+     "kind": "card",
+     "id": "thor",
+     "link": {
+      "en": "His son, the gods' defender."
+     }
+    },
+    {
+     "kind": "story",
+     "id": "thrym",
+     "link": {
+      "en": "And the day Þórr lost his hammer."
+     }
+    }
+   ]
+  }
+ ]
+}

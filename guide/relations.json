@@ -1,0 +1,61 @@
+{
+ "_note": "Mímir (task 34, edda-site docs/specs/MIMIR.md). PILOT SAMPLE by Claude Code, 2026-11-08: a few entries to build the pages against, until the cloud session's content arrives (it replaces this file). AI draft, not reviewed; CC BY 4.0.",
+ "relations": [
+  {
+   "from": "odin",
+   "to": "frigg",
+   "rel": "spouse",
+   "refs": [
+    "g-c9-2"
+   ]
+  },
+  {
+   "from": "frigg",
+   "to": "odin",
+   "rel": "spouse",
+   "refs": [
+    "g-c9-2"
+   ]
+  },
+  {
+   "from": "odin",
+   "to": "thor",
+   "rel": "child",
+   "refs": [
+    "g-c9-2"
+   ]
+  },
+  {
+   "from": "thor",
+   "to": "odin",
+   "rel": "father",
+   "refs": [
+    "g-c9-2"
+   ]
+  },
+  {
+   "from": "odin",
+   "to": "vidarr",
+   "rel": "child",
+   "refs": [
+    "g-c51-12"
+   ]
+  },
+  {
+   "from": "fenrir",
+   "to": "odin",
+   "rel": "killed",
+   "refs": [
+    "g-c51-5"
+   ]
+  },
+  {
+   "from": "thor",
+   "to": "jormungandr",
+   "rel": "fights",
+   "refs": [
+    "g-c51-5"
+   ]
+  }
+ ]
+}
