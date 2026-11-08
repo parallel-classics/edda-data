@@ -3,6 +3,8 @@
 All notable changes to the dataset. Versions are git tags; releases are archived on Zenodo.
 
 ## Unreleased
+
+- Map of the worlds, background v4 (2026-11-08): the grazing stag (Dáinn) redrawn whole; anchors unchanged.
 - Names: summaries for the minor entities (`entities/summaries.json`, AI drafts, not reviewed): 321 more, for the
   entities with 1-4 Old Norse mentions (67 with 4, 82 with 3, 120 with 2, 52 with 1), one short paragraph each citing
   this edition's rows; 587 of 598 entities now have one. 11 left out because the index entry mixes different figures

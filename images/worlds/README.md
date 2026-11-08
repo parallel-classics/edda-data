@@ -1,12 +1,15 @@
 # images/worlds/ — background picture for the map of the worlds (task 20c)
 
-`worlds-background-v3.jpg` (2576 x 2576) is Grigory Sapunov's picture of 2026-11-07, downscaled (Lanczos) from his
-4096 px "world v8 full res.jpg", which stays with the maintainer and is not in the repository. It carries no text; the
+`worlds-background-v4.jpg` (2576 x 2576) is Grigory Sapunov's picture of 2026-11-08, downscaled (Lanczos) from his
+4096 px "world v9.jpg", which stays with the maintainer and is not in the repository. It carries no text; the
 labels are an SVG layer on top (task 20b). Credit line (decision of 2026-11-02): "© 2026 Grigory Sapunov"; licence
 CC BY 4.0; the labels and the SVG are CC BY 4.0 like the rest of the edition. Provenance, kept in the records only and
-not shown on the page: `made_with` in `anchors-v3.json` and `bg/index.json`.
+not shown on the page: `made_with` in `anchors-v4.json` and `bg/index.json`.
 
-`anchors-v3.json`: label anchor points in image pixels for the realms and features drawn in v3 (one anchors file per
+v4 (2026-11-08) replaces v3: the grazing stag in the crown (Dáinn) redrawn whole; everything else and the anchors
+unchanged (`anchors-v4.json` = `anchors-v3.json` with the new image name).
+
+`anchors-v4.json` (v4; the same points as v3): label anchor points in image pixels for the realms and features drawn (one anchors file per
 image version; `realms.json` names the current one in its key `anchors`, and the build, the validator and
 `make_worlds.py background` read that one). v3 (2026-11-07, Grigory's redraw following the "World of the Eddas"
 structure) supersedes v2: Hel inside Niflheimr with Niflhel below it, Urðarbrunnr in heaven, Mímisbrunnr under the
