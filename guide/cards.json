@@ -2106,6 +2106,10 @@
         {
           "id": "ve",
           "rel": "parent_of"
+        },
+        {
+          "id": "vili",
+          "rel": "parent_of"
         }
       ],
       "status": "draft",
@@ -17335,6 +17339,10 @@
           "rel": "sibling"
         },
         {
+          "id": "vili",
+          "rel": "sibling"
+        },
+        {
           "id": "king-geirrod",
           "rel": "foster_parent_of",
           "auto": "inverse"
@@ -24501,6 +24509,10 @@
           "rel": "sibling"
         },
         {
+          "id": "vili",
+          "rel": "sibling"
+        },
+        {
           "id": "ymir",
           "rel": "killed"
         },
@@ -25794,6 +25806,10 @@
         },
         {
           "id": "ve",
+          "rel": "parent_of"
+        },
+        {
+          "id": "vili",
           "rel": "parent_of"
         }
       ],
