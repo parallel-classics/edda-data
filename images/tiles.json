@@ -1,0 +1,738 @@
+{
+ "_note": "Where the Mímir tiles look (task 34): per entity a focus in the picture the tile is cut from (the plate crop images/plates/crops/<id>-600.jpg, else entities/img/<file>), as fractions of its width and height. head = [x, y, h]: the centre of the face and the head's height; the tile shows head and shoulders with the face in the middle. region = [x0, y0, x1, y1]: the part that must show (an animal's head, a scene, a place); the tile is the smallest box of the tile's shape around it. pad = the whole picture on a plain ground. edda-site/pipeline/make_plates.py writes images/tiles/. Set by eye by Claude Code, 2026-11-09.",
+ "tiles": {
+  "odin": {
+   "head": [
+    0.63,
+    0.15,
+    0.17
+   ]
+  },
+  "thor": {
+   "head": [
+    0.5,
+    0.12,
+    0.17
+   ]
+  },
+  "baldur": {
+   "head": [
+    0.49,
+    0.08,
+    0.12
+   ]
+  },
+  "tyr": {
+   "head": [
+    0.5,
+    0.1,
+    0.13
+   ]
+  },
+  "heimdall": {
+   "head": [
+    0.44,
+    0.1,
+    0.13
+   ]
+  },
+  "bragi": {
+   "head": [
+    0.45,
+    0.11,
+    0.16
+   ]
+  },
+  "loki": {
+   "head": [
+    0.45,
+    0.09,
+    0.12
+   ]
+  },
+  "hodr": {
+   "head": [
+    0.45,
+    0.08,
+    0.1
+   ]
+  },
+  "vidarr": {
+   "head": [
+    0.45,
+    0.09,
+    0.1
+   ]
+  },
+  "vali": {
+   "head": [
+    0.4,
+    0.27,
+    0.1
+   ]
+  },
+  "ull": {
+   "head": [
+    0.48,
+    0.15,
+    0.1
+   ]
+  },
+  "forseti": {
+   "head": [
+    0.57,
+    0.12,
+    0.14
+   ]
+  },
+  "h-nir": {
+   "head": [
+    0.45,
+    0.1,
+    0.1
+   ]
+  },
+  "mimir": {
+   "head": [
+    0.52,
+    0.13,
+    0.12
+   ]
+  },
+  "hermodr": {
+   "region": [
+    0,
+    0.25,
+    1,
+    0.75
+   ]
+  },
+  "ve": {
+   "region": [
+    0.15,
+    0.15,
+    0.85,
+    0.6
+   ]
+  },
+  "lodurr": {
+   "region": [
+    0.3,
+    0.25,
+    0.75,
+    0.65
+   ]
+  },
+  "frigg": {
+   "head": [
+    0.48,
+    0.09,
+    0.11
+   ]
+  },
+  "fulla": {
+   "head": [
+    0.5,
+    0.2,
+    0.25
+   ]
+  },
+  "sif": {
+   "head": [
+    0.45,
+    0.1,
+    0.1
+   ]
+  },
+  "idunn": {
+   "head": [
+    0.45,
+    0.12,
+    0.1
+   ]
+  },
+  "gefjon": {
+   "head": [
+    0.5,
+    0.12,
+    0.1
+   ]
+  },
+  "skadi": {
+   "head": [
+    0.52,
+    0.14,
+    0.1
+   ]
+  },
+  "saga": {
+   "head": [
+    0.52,
+    0.12,
+    0.1
+   ]
+  },
+  "eir": {
+   "head": [
+    0.52,
+    0.15,
+    0.2
+   ]
+  },
+  "gna": {
+   "region": [
+    0.2,
+    0.05,
+    0.9,
+    0.75
+   ]
+  },
+  "nanna": {
+   "region": [
+    0.3,
+    0.1,
+    0.7,
+    0.5
+   ]
+  },
+  "sigyn": {
+   "region": [
+    0.2,
+    0.1,
+    0.7,
+    0.6
+   ]
+  },
+  "thrudr": {
+   "region": [
+    0.4,
+    0,
+    0.65,
+    0.6
+   ]
+  },
+  "jord": {
+   "region": [
+    0.45,
+    0.1,
+    0.85,
+    0.7
+   ]
+  },
+  "njordr": {
+   "head": [
+    0.3,
+    0.08,
+    0.11
+   ]
+  },
+  "freyr": {
+   "head": [
+    0.45,
+    0.1,
+    0.12
+   ]
+  },
+  "freyja": {
+   "head": [
+    0.5,
+    0.08,
+    0.09
+   ]
+  },
+  "gullveig": {
+   "head": [
+    0.44,
+    0.15,
+    0.08
+   ]
+  },
+  "kvasir": {
+   "head": [
+    0.53,
+    0.12,
+    0.14
+   ]
+  },
+  "gerdr": {
+   "head": [
+    0.7,
+    0.1,
+    0.14
+   ]
+  },
+  "skirnir": {
+   "head": [
+    0.21,
+    0.17,
+    0.12
+   ]
+  },
+  "odr": {
+   "head": [
+    0.35,
+    0.2,
+    0.15
+   ]
+  },
+  "fenrir": {
+   "head": [
+    0.22,
+    0.3,
+    0.2
+   ]
+  },
+  "jormungandr": {
+   "region": [
+    0.05,
+    0.05,
+    0.8,
+    0.6
+   ]
+  },
+  "sleipnir": {
+   "region": [
+    0.1,
+    0.05,
+    0.95,
+    0.9
+   ]
+  },
+  "gullinbursti": {
+   "region": [
+    0.1,
+    0.1,
+    0.98,
+    0.75
+   ]
+  },
+  "huginn": {
+   "head": [
+    0.25,
+    0.22,
+    0.25
+   ]
+  },
+  "munin": {
+   "head": [
+    0.7,
+    0.22,
+    0.25
+   ]
+  },
+  "freki": {
+   "head": [
+    0.3,
+    0.22,
+    0.22
+   ]
+  },
+  "gulltoppr": {
+   "region": [
+    0.15,
+    0.1,
+    0.65,
+    0.75
+   ]
+  },
+  "svadilfari": {
+   "region": [
+    0.1,
+    0.1,
+    0.75,
+    0.9
+   ]
+  },
+  "garmr": {
+   "region": [
+    0.75,
+    0.4,
+    1,
+    0.9
+   ]
+  },
+  "skoll": {
+   "region": [
+    0,
+    0,
+    0.7,
+    0.55
+   ]
+  },
+  "hati": {
+   "region": [
+    0.25,
+    0.5,
+    0.95,
+    0.9
+   ]
+  },
+  "audumbla": {
+   "region": [
+    0,
+    0.05,
+    0.55,
+    0.45
+   ]
+  },
+  "vafthrudnir": {
+   "head": [
+    0.78,
+    0.38,
+    0.14
+   ]
+  },
+  "hyrrokkin": {
+   "region": [
+    0,
+    0,
+    0.9,
+    0.65
+   ]
+  },
+  "surtr": {
+   "region": [
+    0.1,
+    0.2,
+    0.95,
+    0.75
+   ]
+  },
+  "hrungnir": {
+   "region": [
+    0,
+    0.05,
+    1,
+    0.7
+   ]
+  },
+  "hymir": {
+   "head": [
+    0.48,
+    0.2,
+    0.18
+   ]
+  },
+  "skrymir": {
+   "head": [
+    0.48,
+    0.1,
+    0.18
+   ]
+  },
+  "utgarda-loki": {
+   "region": [
+    0.15,
+    0.4,
+    0.7,
+    0.8
+   ]
+  },
+  "thjazi": {
+   "region": [
+    0.05,
+    0.05,
+    0.95,
+    0.5
+   ]
+  },
+  "aegir": {
+   "head": [
+    0.38,
+    0.35,
+    0.2
+   ]
+  },
+  "ran": {
+   "region": [
+    0,
+    0,
+    0.55,
+    0.45
+   ]
+  },
+  "gunnlod": {
+   "region": [
+    0.25,
+    0.15,
+    0.75,
+    0.55
+   ]
+  },
+  "suttungr": {
+   "head": [
+    0.45,
+    0.25,
+    0.2
+   ]
+  },
+  "hyndla": {
+   "region": [
+    0.2,
+    0.05,
+    0.7,
+    0.5
+   ]
+  },
+  "brokkr": {
+   "region": [
+    0.05,
+    0.35,
+    0.95,
+    0.85
+   ]
+  },
+  "andvari": {
+   "region": [
+    0,
+    0.35,
+    1,
+    0.75
+   ]
+  },
+  "alviss": {
+   "region": [
+    0.05,
+    0.1,
+    0.8,
+    0.65
+   ]
+  },
+  "wayland-the-smith": {
+   "region": [
+    0,
+    0.25,
+    1,
+    0.7
+   ]
+  },
+  "verdandi": {
+   "region": [
+    0.2,
+    0.2,
+    0.85,
+    0.6
+   ]
+  },
+  "urdarbrunnr": {
+   "region": [
+    0.15,
+    0.1,
+    0.85,
+    0.65
+   ]
+  },
+  "mjolnir": {
+   "region": [
+    0.5,
+    0.25,
+    1,
+    0.9
+   ]
+  },
+  "gungnir": {
+   "region": [
+    0.1,
+    0.05,
+    0.9,
+    0.7
+   ]
+  },
+  "gjallarhorn": {
+   "region": [
+    0.05,
+    0.4,
+    1,
+    0.95
+   ]
+  },
+  "mead-of-poetry": {
+   "region": [
+    0,
+    0.05,
+    1,
+    0.6
+   ]
+  },
+  "valhalla": {
+   "region": [
+    0,
+    0.2,
+    1,
+    0.8
+   ]
+  },
+  "heidrun": {
+   "region": [
+    0,
+    0.1,
+    1,
+    0.55
+   ]
+  },
+  "yggdrasil": {
+   "pad": true
+  },
+  "midgard": {
+   "region": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  "mimisbrunnr": {
+   "region": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  "bifrost": {
+   "region": [
+    0,
+    0,
+    0.75,
+    0.32
+   ]
+  },
+  "glitnir": {
+   "region": [
+    0,
+    0,
+    0.7,
+    0.6
+   ]
+  },
+  "vigridr": {
+   "region": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  "nidhoggr": {
+   "region": [
+    0.2,
+    0,
+    1,
+    0.9
+   ]
+  },
+  "ratatoskr": {
+   "region": [
+    0.3,
+    0.05,
+    0.8,
+    0.5
+   ]
+  },
+  "laeradr": {
+   "region": [
+    0,
+    0.05,
+    1,
+    0.55
+   ]
+  },
+  "sigurdr": {
+   "head": [
+    0.5,
+    0.16,
+    0.12
+   ]
+  },
+  "fafnir": {
+   "region": [
+    0.1,
+    0.3,
+    0.9,
+    0.75
+   ]
+  },
+  "brynhild": {
+   "region": [
+    0.1,
+    0.05,
+    0.9,
+    0.5
+   ]
+  },
+  "gudrun": {
+   "head": [
+    0.58,
+    0.17,
+    0.12
+   ]
+  },
+  "svanhildr": {
+   "head": [
+    0.52,
+    0.3,
+    0.25
+   ]
+  },
+  "sinfjotli": {
+   "region": [
+    0.1,
+    0.05,
+    0.9,
+    0.5
+   ]
+  },
+  "bodvildr": {
+   "head": [
+    0.28,
+    0.2,
+    0.12
+   ]
+  },
+  "groa": {
+   "region": [
+    0.2,
+    0.15,
+    0.8,
+    0.6
+   ]
+  },
+  "fjolnir": {
+   "region": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  "svipdagr": {
+   "head": [
+    0.55,
+    0.17,
+    0.18
+   ]
+  },
+  "helgi-hundingsbani": {
+   "head": [
+    0.7,
+    0.3,
+    0.14
+   ]
+  },
+  "sigrun": {
+   "head": [
+    0.72,
+    0.2,
+    0.15
+   ]
+  },
+  "eikthyrnir": {
+   "region": [
+    0,
+    0.3,
+    1,
+    0.7
+   ]
+  }
+ }
+}
