@@ -716,6 +716,14 @@
    "Hata": {
     "hhv": "hati-giant",
     "*": "hati"
+   },
+   "Vili": {
+    "g": "vili",
+    "*": "skip"
+   },
+   "Vilja": {
+    "ls": "vili",
+    "*": "skip"
    }
   },
   "entities": {

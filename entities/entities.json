@@ -28619,6 +28619,57 @@
    ]
   },
   {
+   "id": "vili",
+   "tags": [
+    "god"
+   ],
+   "type": "god",
+   "wikidata": null,
+   "names": {
+    "on": "Vili",
+    "is": "Vili",
+    "en": "Vili"
+   },
+   "desc": {
+    "en": "son of Borr and Bestla, brother of Óðinn and Vé"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Vili",
+     "Vilja"
+    ],
+    "is": [
+     "Vilja",
+     "Vilji"
+    ],
+    "en": [
+     "Vili"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c6-4",
+    "poetic": "ls-s26"
+   },
+   "first_any": {
+    "snorri": "g-c6-4",
+    "poetic": "ls-s26"
+   },
+   "mentions": 2,
+   "narrative": 2,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-09: missing from the seed (the form is also the common word vili, \"will\"); rules.json limits it to Gylfaginning and Lokasenna"
+   ]
+  },
+  {
    "id": "virfir",
    "tags": [
     "dwarf"

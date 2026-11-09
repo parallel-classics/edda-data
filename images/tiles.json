@@ -1,5 +1,5 @@
 {
- "_note": "Where the Mímir tiles look (task 34): per entity a focus in the picture the tile is cut from (the plate crop images/plates/crops/<id>-600.jpg, else entities/img/<file>), as fractions of its width and height. head = [x, y, h]: the centre of the face and the head's height; the tile shows head and shoulders with the face in the middle. region = [x0, y0, x1, y1]: the part that must show (an animal's head, a scene, a place); the tile is the smallest box of the tile's shape around it. pad = the whole picture on a plain ground. edda-site/pipeline/make_plates.py writes images/tiles/. Set by eye by Claude Code, 2026-11-09.",
+ "_note": "Where the Mímir tiles look (task 34): per entity a focus in the picture the tile is cut from (the plate crop images/plates/crops/<id>-600.jpg, else entities/img/<file>), as fractions of its width and height. head = [x, y, h]: the centre of the face and the head's height; the tile shows head and shoulders with the face in the middle. region = [x0, y0, x1, y1]: the part that must show (an animal's head, a scene, a place); the tile is the smallest box of the tile's shape around it. pad = the whole picture on a plain ground. to (plate figures): how far down the tile reaches, as a fraction of the figure's crop, to show what tells the figure apart (Iðunn's apples, Fulla's box, Mjöllnir); by default a little below the shoulders. The plate's other figures are blurred. edda-site/pipeline/make_plates.py writes images/tiles/. Set by eye by Claude Code, 2026-11-09.",
  "tiles": {
   "odin": {
    "head": [
@@ -13,7 +13,8 @@
     0.5,
     0.12,
     0.17
-   ]
+   ],
+   "to": 0.58
   },
   "baldur": {
    "head": [
@@ -27,14 +28,16 @@
     0.5,
     0.1,
     0.13
-   ]
+   ],
+   "to": 0.5
   },
   "heimdall": {
    "head": [
     0.44,
     0.1,
     0.13
-   ]
+   ],
+   "to": 0.55
   },
   "bragi": {
    "head": [
@@ -69,7 +72,8 @@
     0.4,
     0.27,
     0.1
-   ]
+   ],
+   "to": 0.45
   },
   "ull": {
    "head": [
@@ -97,7 +101,8 @@
     0.52,
     0.13,
     0.12
-   ]
+   ],
+   "to": 0.45
   },
   "hermodr": {
    "region": [
@@ -135,35 +140,40 @@
     0.5,
     0.2,
     0.25
-   ]
+   ],
+   "to": 0.85
   },
   "sif": {
    "head": [
     0.45,
     0.1,
     0.1
-   ]
+   ],
+   "to": 0.5
   },
   "idunn": {
    "head": [
     0.45,
     0.12,
     0.1
-   ]
+   ],
+   "to": 0.42
   },
   "gefjon": {
    "head": [
     0.5,
     0.12,
     0.1
-   ]
+   ],
+   "to": 0.7
   },
   "skadi": {
    "head": [
     0.52,
     0.14,
     0.1
-   ]
+   ],
+   "to": 0.5
   },
   "saga": {
    "head": [
@@ -177,7 +187,8 @@
     0.52,
     0.15,
     0.2
-   ]
+   ],
+   "to": 0.6
   },
   "gna": {
    "region": [
@@ -231,21 +242,24 @@
     0.45,
     0.1,
     0.14
-   ]
+   ],
+   "to": 0.5
   },
   "freyja": {
    "head": [
     0.5,
     0.08,
     0.11
-   ]
+   ],
+   "to": 0.36
   },
   "gullveig": {
    "head": [
     0.44,
     0.2,
     0.09
-   ]
+   ],
+   "to": 0.55
   },
   "kvasir": {
    "head": [
@@ -265,7 +279,7 @@
    "head": [
     0.21,
     0.17,
-    0.12
+    0.2
    ]
   },
   "odr": {
@@ -307,24 +321,27 @@
    ]
   },
   "huginn": {
-   "head": [
-    0.25,
-    0.22,
-    0.34
+   "region": [
+    0,
+    0,
+    1,
+    0.85
    ]
   },
   "munin": {
-   "head": [
-    0.7,
-    0.22,
-    0.34
+   "region": [
+    0,
+    0,
+    1,
+    0.85
    ]
   },
   "freki": {
-   "head": [
-    0.3,
-    0.22,
-    0.22
+   "region": [
+    0,
+    0,
+    0.75,
+    0.75
    ]
   },
   "gulltoppr": {
@@ -379,7 +396,7 @@
    "head": [
     0.78,
     0.38,
-    0.14
+    0.24
    ]
   },
   "hyrrokkin": {

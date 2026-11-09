@@ -3517,6 +3517,14 @@
    "status": "auto"
   },
   {
+   "entity": "vili",
+   "row": "g-c6-4",
+   "lang": "on",
+   "form": "Vili",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c6-4",
    "lang": "on",
@@ -3565,6 +3573,14 @@
    "status": "auto"
   },
   {
+   "entity": "vili",
+   "row": "g-c6-4",
+   "lang": "is",
+   "form": "Vilji",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c6-4",
    "lang": "is",
@@ -3609,6 +3625,14 @@
    "row": "g-c6-4",
    "lang": "en",
    "form": "Odin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vili",
+   "row": "g-c6-4",
+   "lang": "en",
+   "form": "Vili",
    "kind": "name",
    "status": "auto"
   },
@@ -87757,6 +87781,14 @@
    "status": "auto"
   },
   {
+   "entity": "vili",
+   "row": "ls-s26",
+   "lang": "on",
+   "form": "Vilja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "ls-s26",
    "lang": "on",
@@ -87797,6 +87829,14 @@
    "status": "auto"
   },
   {
+   "entity": "vili",
+   "row": "ls-s26",
+   "lang": "is",
+   "form": "Vilja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "ls-s26",
    "lang": "is",
@@ -87825,6 +87865,14 @@
    "row": "ls-s26",
    "lang": "en",
    "form": "Fjorgyn's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vili",
+   "row": "ls-s26",
+   "lang": "en",
+   "form": "Vili",
    "kind": "name",
    "status": "auto"
   },

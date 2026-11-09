@@ -18039,6 +18039,33 @@
    "status": "curated",
    "mentions": 0,
    "first": {}
+  },
+  {
+   "id": "vili",
+   "type": "god",
+   "wikidata": null,
+   "names": {
+    "on": "Vili",
+    "is": "Vili",
+    "en": "Vili"
+   },
+   "desc": {
+    "en": "son of Borr and Bestla, brother of Óðinn and Vé"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Vili": 1,
+    "Vilja": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added 2026-11-09: missing from the seed (the form is also the common word vili, \"will\"); rules.json limits it to Gylfaginning and Lokasenna"
+   ],
+   "mentions": 0,
+   "first": {}
   }
  ]
 }
