@@ -761,6 +761,27 @@ def check_summaries(d, ids_out):
             err(f"{where}: date must be YYYY-MM-DD")
 
 
+def check_tiles():
+    """images/tiles.json (where each Mímir tile looks): every id an entity, one of head [x, y, h] / region [x0, y0, x1, y1]
+    / pad, fractions in 0..1; every tile written to images/tiles/ (make_plates.py)."""
+    tp = os.path.join(ROOT, "images", "tiles.json")
+    if not os.path.exists(tp):
+        return
+    ents = {e["id"] for e in load(os.path.join(ROOT, "entities", "entities.json")).get("entities", [])}
+    ip = os.path.join(ROOT, "images", "tiles", "index.json")
+    made = set(load(ip).get("tiles", {})) if os.path.exists(ip) else set()
+    for eid, f in load(tp).get("tiles", {}).items():
+        if eid not in ents:
+            err(f"images/tiles.json: {eid} is not an entity")
+        vals = f.get("head") or f.get("region")
+        if not vals and not f.get("pad"):
+            err(f"images/tiles.json: {eid} has no head, region or pad")
+        elif vals and (len(vals) != (3 if "head" in f else 4) or not all(0 <= v <= 1 for v in vals)):
+            err(f"images/tiles.json: {eid}: bad focus {vals}")
+        if eid not in made:
+            err(f"images/tiles.json: {eid} has no tile in images/tiles/ (run edda-site/pipeline/make_plates.py)")
+
+
 def check_pron():
     """guide/pron.json (Mímir pronunciation hints): every card id is a card, every hint has head, ipa and say, every
     section id is a section."""
@@ -997,6 +1018,7 @@ def main():
     check_guide(rows)
     check_pictures()
     check_pron()
+    check_tiles()
     check_ravens(rows)
     check_intros(poem_prefixes_for_intros())
     print(f"aligned rows: {len(rows)} in {len(chapters)} parts; overlay files: {n_overlay_files}, "
