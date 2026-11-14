@@ -35,7 +35,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Sigurth rode up on Hindarfjoll and turned south towards the land of the Franks. On the mountain he saw a great light, as if a fire were burning, and the glow reached up to heaven. When he came there, a tower of shields stood there, and above it was a banner. Sigurth went into the shield-tower and saw a man lying there asleep with all his weapons of war. First he took the helmet from his head, and then he saw that it was a woman. The mail-coat was as tight as if it had grown into the flesh. Then he cut the mail-coat from the neck-opening downwards, and out to both the armholes. Then he took the mail-coat off her, and she woke, sat up, saw Sigurth and said:"
+      }
+     ]
     },
     {
      "id": "sd-s1",
@@ -118,7 +124,26 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"What bit through the mail-coat? | How was my sleep broken?",
+        "Who has set me free | from the pale fetters?\""
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "He answered:",
+        "\"Sigmund's son, | with Sigurth's sword,",
+        "that lately fed | the ravens with flesh.\""
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s2",
@@ -209,7 +234,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Sigurth sat down beside her and asked her name. She took a horn full of mead and gave him a memory-draught."
+      }
+     ]
     },
     {
      "id": "sd-s3",
@@ -259,7 +290,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"Hail, day! | Hail, sons of day!",
+        "And night and her daughter now!",
+        "Look on us here | with loving eyes,",
+        "that we who wait may win victory."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s4",
@@ -320,7 +363,29 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"Hail to the gods! | Hail, you goddesses,",
+        "and all the generous earth!",
+        "Give us wisdom | and good speech,",
+        "and healing hands, all our lives."
+       ]
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Long I slept, | long was my slumber,",
+        "and long are the griefs of life;",
+        "Othin decreed | that I could not break",
+        "the heavy spells of sleep.\""
+       ]
+      }
+     ]
     },
     {
      "id": "sd-p3",
@@ -346,7 +411,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Her name was Sigrdrifa, and she was a Valkyrie. She said that two kings had fought in battle; one was called Hjalmgunnar, an old man but a mighty warrior, and Othin had promised him the victory, and"
+      }
+     ]
     },
     {
      "id": "sd-v1",
@@ -388,7 +459,17 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "the other was Agnar, | brother of Autha,",
+        "he found no one | willing to shield him."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-p4",
@@ -414,7 +495,13 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Sigrdrifa killed Hjalmgunnar in the battle, and Othin pricked her with the sleep-thorn as punishment for this, and said that she would never again win victory in battle, but that she would be married. \"And I told him that I had made a vow in my turn, that I would never marry a man who knew the meaning of fear.\" Sigurth answered and asked her to teach him wisdom, if she knew what was happening in all the worlds. Sigrdrifa said:"
+      }
+     ]
     },
     {
      "id": "sd-s5",
@@ -475,7 +562,26 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Beer I bring you, | tree of battle,",
+        "mixed with strength | and mighty fame;",
+        "it holds charms | and healing signs,",
+        "good spells, | and gladness-runes.\""
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "******"
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s6",
@@ -525,7 +631,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Learn winning-runes, | if you long to win,",
+        "and write the runes on your sword-hilt;",
+        "some on the furrow, | and some on the flat,",
+        "and twice you shall call on Tyr."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s7",
@@ -579,7 +697,23 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Learn ale-runes, | so that another's wife",
+        "may not betray your trust with lies;",
+        "you shall write on the horn, | and the backs of your hands,",
+        "and mark Need on your nails.",
+        "You shall bless the drink, | and escape danger,",
+        "and throw a leek in the cup;",
+        "(for so I know | you will never see",
+        "your mead mixed with evil.)"
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s8",
@@ -629,7 +763,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Learn birth-runes, | if you would lend help",
+        "to bring the child from the mother;",
+        "write them on your palms, | and round your joints,",
+        "and ask the fates for aid."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s9",
@@ -681,7 +827,21 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Learn wave-runes, | if you would shelter well",
+        "the sail-steeds out on the sea;",
+        "you shall write on the stem, | and the steering-blade,",
+        "and burn them into the oars;",
+        "though the breakers are high, | and the waves black,",
+        "you shall reach the harbour safe."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s10",
@@ -737,7 +897,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Learn branch-runes, | if you would be a healer,",
+        "and work a cure for wounds;",
+        "you shall write on the bark, | and on trees that have",
+        "boughs bent to the east."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s11",
@@ -789,7 +961,21 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Learn speech-runes, | so that none may seek",
+        "to answer harm with hate;",
+        "he winds them well | and weaves them all,",
+        "and sets them side by side,",
+        "at the place of judgment, | when the people there",
+        "shall fairly win justice."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s12",
@@ -851,7 +1037,24 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.29
+     "s_en": 0.29,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Learn thought-runes, | if all are to think",
+        "you the keenest-minded of men."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "******"
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s13",
@@ -910,7 +1113,20 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Hropt arranged them, | and he wrote them,",
+        "and he made them in thought,",
+        "out of the drink | that had dripped down",
+        "from the head of Heithdraupnir,",
+        "and the horn of Hoddrofnir."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s14",
@@ -967,7 +1183,26 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "On the mountain he stood | with Brimir's sword,",
+        "on his head he wore the helmet;",
+        "then first the head | of Mim spoke out,",
+        "and it told words of truth."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "******"
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s15",
@@ -1021,7 +1256,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "He told them to write on the shield | before the shining goddess,",
+        "on Arvak's ear, | and on Alsvith's hoof,",
+        "on the wheel of the chariot | of Hrungnir's killer,",
+        "on Sleipnir's teeth, | and the straps of the sledge."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s16",
@@ -1075,7 +1322,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "On the paws of the bear, | and on Bragi's tongue,",
+        "on the wolf's bared claws, | and the eagle's beak,",
+        "on bloody wings, | and the bridge's end,",
+        "on freeing hands | and helping footprints."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s17",
@@ -1136,7 +1395,26 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "On glass and on gold, | and on good charms,",
+        "in wine and in beer, | and on well-loved seats,",
+        "on Gungnir's point, | and on Grani's breast,",
+        "on the nails of Norns, | and the night-owl's beak."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "******"
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s18",
@@ -1192,7 +1470,21 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "The runes written of old | were shaved off,",
+        "and mixed with the holy mead,",
+        "and sent on wide ways;",
+        "so the gods had them, | so the elves got them,",
+        "and some for the wise Wanes,",
+        "and some for mortal men."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s19",
@@ -1258,7 +1550,29 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Beech-runes are there, | birth-runes are there,",
+        "and all the runes of ale,",
+        "and the magic runes of might;",
+        "whoever knows them rightly | and reads them truly",
+        "has them to help himself;",
+        "they always aid,",
+        "till the gods are gone."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "******"
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s20",
@@ -1309,7 +1623,20 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Brynhild said:",
+        "\"Now you shall choose, | for the choice is given,",
+        "you tree of the biting blade;",
+        "speech or silence, | it is yours to say,",
+        "all our evil is destined.\""
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s21",
@@ -1377,7 +1704,27 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Sigurth said:",
+        "\"I shall not flee, | though my fate is near,",
+        "I was not born to be a coward;",
+        "your loving words | I will win for mine,",
+        "as long as I live.\""
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "******"
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s22",
@@ -1437,7 +1784,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Then first I advise you | to be free of guilt",
+        "always towards your kinsmen;",
+        "take no vengeance, | though they do you harm,",
+        "you shall win reward after death."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s23",
@@ -1487,7 +1846,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Then second I advise you | to swear no oath",
+        "unless you know it to be true;",
+        "bitter is the fate | of the breaker of faith,",
+        "and wretched is the wolf of his word."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s24",
@@ -1537,7 +1908,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Then third I advise you | that at the Thing",
+        "you do not fight in words with fools;",
+        "for the unwise man | often utters",
+        "a worse word than he thinks."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s25",
@@ -1596,7 +1979,22 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "It is bad | if you are silent,",
+        "men call you a born coward,",
+        "and perhaps they tell the truth;",
+        "fame is seldom safe,",
+        "unless wide renown is won;",
+        "on the day after | send him to his death,",
+        "let him pay the price of his lies."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s26",
@@ -1646,7 +2044,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Then fourth I advise you, | if you find",
+        "a wily witch on your road,",
+        "it is better to go on | than to be her guest,",
+        "though night closes fast around you."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s27",
@@ -1696,7 +2106,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "The sons of men | need eyes that see",
+        "when they fight in fierce battle;",
+        "evil witches often | sit by the way,",
+        "who blunt blade and courage."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s28",
@@ -1746,7 +2168,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Then fifth I advise you, | though you see",
+        "fair maidens sitting on benches,",
+        "let the silver of kinship | not rob you of sleep,",
+        "and beware of kissing women."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s29",
@@ -1796,7 +2230,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Then sixth I advise you, | if men quarrel,",
+        "and ale-talk rises to anger,",
+        "have no words | with a drunken warrior,",
+        "for wine steals many men's wits."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s30",
@@ -1846,7 +2292,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Brawls and ale | have very often been",
+        "an ill to many a man,",
+        "death for some, | and sorrow for some;",
+        "very many are the woes of men."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s31",
@@ -1896,7 +2354,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Then seventh I advise you, | if you seek battle",
+        "with a foe who is full of might;",
+        "it is better to fight | than to burn alive",
+        "in the hall of the rich hero."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s32",
@@ -1946,7 +2416,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Then eighth I advise you | to shun evil,",
+        "and beware of lying words;",
+        "do not take a maid, | nor a man's wife,",
+        "nor lure them on to lust."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s33",
@@ -1996,7 +2478,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Then ninth I advise you: | give burial",
+        "if you find a fallen corpse,",
+        "dead of sickness, | or dead in the sea,",
+        "or dead of weapons' wounds."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s34",
@@ -2046,7 +2540,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "You shall give a bath | to those who are corpses,",
+        "and wash their hands and head;",
+        "wipe them and comb them, | before they go in the coffin,",
+        "and pray that they sleep in peace."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s35",
@@ -2100,7 +2606,21 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Then tenth I advise you | never to trust",
+        "the word of the race of wolves,",
+        "(if you brought his brother to death,",
+        "or you felled his father;)",
+        "often there is a wolf | in a son,",
+        "though he gladly takes gold."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s36",
@@ -2150,7 +2670,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Battle and hate | and harm, I think,",
+        "very seldom fall asleep;",
+        "wits and weapons | the warrior needs",
+        "if he would be the boldest of men."
+       ]
+      }
+     ]
     },
     {
      "id": "sd-s37",
@@ -2200,7 +2732,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Then eleventh I advise you | to shun anger,",
+        "and false treachery with your friends;",
+        "the leader's life | shall not be long,",
+        "for great are the foes he faces."
+       ]
+      }
+     ]
     }
    ],
    "notes": [

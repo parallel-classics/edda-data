@@ -814,8 +814,8 @@ def check_portraits():
     for eid in br.get("test", []):
         if eid not in subj:
             err(f"images/portraits/briefs.json: test subject {eid} has no brief")
-    wp = os.path.join(pd, "web", "index.json")
-    made = set(load(wp).get("portraits", {})) if os.path.exists(wp) else set()
+    tp = os.path.join(ROOT, "images", "tiles", "index.json")
+    made = {k for k, v in (load(tp).get("tiles", {}) if os.path.exists(tp) else {}).items() if v.get("source") == "portrait"}
     lights = set(br.get("lights", {}))
     for f in os.listdir(pd):
         m = re.fullmatch(r"([a-z0-9-]+)(?:@([a-z-]+))?\.(jpg|jpeg|png)", f)
@@ -828,7 +828,7 @@ def check_portraits():
         elif m.group(2) and not os.path.exists(os.path.join(pd, f"{m.group(1)}.jpg")):
             err(f"images/portraits/{f}: there is no day picture {m.group(1)}.jpg")
         elif m.group(1) not in made:
-            err(f"images/portraits/{f} has no web copies (run edda-site/pipeline/make_plates.py)")
+            err(f"images/portraits/{f} has no tiles (run edda-site/pipeline/make_plates.py)")
     kp = os.path.join(pd, "picks.json")
     for eid in (load(kp).get("picks", {}) if os.path.exists(kp) else {}):
         if not any(os.path.exists(os.path.join(pd, f"{eid}.{x}")) for x in ("jpg", "jpeg", "png")):

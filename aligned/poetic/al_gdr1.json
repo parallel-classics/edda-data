@@ -41,6 +41,12 @@
        "t": "p",
        "s": "Gudrun sat over Sigurd dead; she wept not as other women, although ready to burst with sorrow. Both men and women, came to console her, but that was not easy. It is said by some that Gudrun had eaten of Fafnir's heart, and therefore understood the talk of birds. This is also sung of Gudrun:"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Guthrun sat by the dead Sigurth. She did not weep as other women do, but her heart was close to bursting with grief. The men and women came to her to console her, but that was not easy to do. People say that Guthrun had eaten some of Fafnir's heart, and that she understood the speech of birds. This is a poem about Guthrun."
+      }
      ]
     },
     {
@@ -100,6 +106,18 @@
       {
        "t": "p",
        "s": "Of old it was that Gudrun prepared to die, when she sorrowing over Sigurd sat. No sigh she uttered, nor with her hands beat, nor wailed, as other women."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Then Guthrun | thought to die,",
+        "when she sat sorrowing | by Sigurth;",
+        "she shed no tears, | nor wrung her hands,",
+        "nor ever wailed, | as other women do."
+       ]
       }
      ]
     },
@@ -161,6 +179,18 @@
        "t": "p",
        "s": "Jarls came forward of great sagacity, from her sad state of mind to divert her. Gudrun could not shed a tear, such was her affliction; ready she was to burst."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "The wise warriors | came to her there,",
+        "longing to lighten | her heavy grief;",
+        "in her grief | Guthrun could not weep,",
+        "so sad her heart, | it seemed it would break."
+       ]
+      }
      ]
     },
     {
@@ -220,6 +250,18 @@
       {
        "t": "p",
        "s": "Sat there noble wives of jarls, adorned with gold, before Gudrun; each of them told her sorrows, the bitterest she had known."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Then the wives | of the warriors came,",
+        "adorned with gold, | and sought out Guthrun;",
+        "each one then | spoke of her own grief,",
+        "the bitterest pain | she had ever borne."
+       ]
       }
      ]
     },
@@ -286,6 +328,19 @@
        "t": "p",
        "s": "Then said Giaflaug, Giuki's sister: \"I know myself to be on earth most joyless: of five consorts I the loss have suffered; of two daughters, sisters three, and brothers eight; I alone live.\""
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Then Gjaflaug spoke, | Gjuki's sister:",
+        "\"I am the most joyless | of all on earth;",
+        "five husbands | were taken from me,",
+        "(two daughters then, | and three sisters,)",
+        "eight brothers, | yet I have lived.\""
+       ]
+      }
      ]
     },
     {
@@ -340,6 +395,17 @@
       {
        "t": "p",
        "s": "Gudrun could not shed a tear, such was her affliction for her dead consort, and her soul's anguish for the king's fall."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "In her grief | Guthrun could not weep,",
+        "such grief she had | for her dead husband,",
+        "and so grim her heart | by the hero's body."
+       ]
       }
      ]
     },
@@ -408,6 +474,21 @@
        "t": "p",
        "s": "My father and my mother, my brothers four, on the sea the wind deluded; the waves struck on the ship's timbers."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Then Herborg spoke, | the queen of the Huns:",
+        "\"I have a greater | grief to tell;",
+        "my seven sons | in the southern land,",
+        "and my husband, fell | in battle, all eight.",
+        "(Father and mother | and four brothers",
+        "the wind once struck | among the waves,",
+        "and the seas crashed through | the sides of the ship.)"
+       ]
+      }
      ]
     },
     {
@@ -463,6 +544,18 @@
       {
        "t": "p",
        "s": "Their last honours 'twas mine to pay, 'twas mine to see them tombed, their funeral rites to prepare was mine. All this I underwent in one half-year, and to me no one consolation offered."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"All the bodies | with my own hands then",
+        "I made ready for the grave, | and I buried the dead;",
+        "one half-year brought me | all this to bear,",
+        "and no one came | to comfort me."
+       ]
       }
      ]
     },
@@ -580,6 +673,18 @@
        "t": "p",
        "s": "Then I became a captive, taken in war, at the close of the same half-year. Then had I to adorn, and tie the shoes, of the hersir's wife, each morn."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Then I was bound | and taken in war,",
+        "one more sorrow | in the same half-year;",
+        "they made me dress | and tie the shoes",
+        "of the monarch's wife | every morning."
+       ]
+      }
      ]
     },
     {
@@ -640,6 +745,18 @@
        "t": "p",
        "s": "From jealousy she threatened me, and with hard blows drove me: nowhere master found I a better, but mistress no where a worse.\""
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"In jealous rage | she spoke her anger,",
+        "and often beat me | with heavy blows;",
+        "I never knew | a better lord,",
+        "and never found | a worse woman.\""
+       ]
+      }
      ]
     },
     {
@@ -694,6 +811,17 @@
       {
        "t": "p",
        "s": "Gudrun could not shed a tear, such was her affliction for her dead consort, and her soul's anguish for the king's fall."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "In her grief | Guthrun could not weep,",
+        "such grief she had | for her dead husband,",
+        "and so grim her heart | by the hero's body."
+       ]
       }
      ]
     },
@@ -755,6 +883,18 @@
        "t": "p",
        "s": "Then said Gullrond, Giuki's daughter: \"Little canst thou, my fosterer, wise as thou art, with a young wife fittingly talk.\" The king's body she forbade to be longer hidden."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Then Gollrond spoke, | Gjuki's daughter:",
+        "\"Your wisdom does not find, | my foster-mother,",
+        "the way to comfort | so young a wife.\"",
+        "She told them to uncover | the warrior's corpse."
+       ]
+      }
      ]
     },
     {
@@ -814,6 +954,18 @@
       {
        "t": "p",
        "s": "She snatched the sheet from Sigurd's corse, and turned his cheek towards his wife's knees: \"Behold thy loved one, lay thy mouth to his lip, as if thou wouldst embrace the living prince.\""
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "She lifted the shroud | from Sigurth, laying",
+        "his well-loved head | on the knees of his wife:",
+        "\"Look on your loved one, | and lay your lips",
+        "to his as if | the hero still lived.\""
+       ]
       }
      ]
     },
@@ -875,6 +1027,18 @@
        "t": "p",
        "s": "Gudrun upon him cast one look: she saw the prince's locks dripping with blood, the chief's sparkling eyes closed in death, his kingly breast cleft by the sword."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Only once | did Guthrun look;",
+        "she saw his hair | all clotted with blood,",
+        "the blinded eyes | that once shone bright,",
+        "the hero's breast | that the blade had pierced."
+       ]
+      }
      ]
     },
     {
@@ -929,6 +1093,17 @@
       {
        "t": "p",
        "s": "Then sank down Gudrun back on her pillow, her head-gear was loosed, her cheeks grew red, and a flood of tears fell to her knees."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Then Guthrun bent, | bowed on her pillow,",
+        "her hair came loose, | her cheek was hot,",
+        "and the tears like raindrops | ran down."
+       ]
       }
      ]
     },
@@ -989,6 +1164,18 @@
       {
        "t": "p",
        "s": "Then wept Gudrun, Giuki's daughter, so that the tears spontaneously flowed, and at the same time screamed the geese in the court, the noble birds, which the lady owned."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Then Guthrun, daughter | of Gjuki, wept,",
+        "and through her tresses | the tears flowed;",
+        "and from the court | came the cry of geese,",
+        "the fair birds | of the hero's bride."
+       ]
       }
      ]
     },
@@ -1054,6 +1241,19 @@
       {
        "t": "p",
        "s": "Then spake Gullrond, Giuki's daughter: \"Your loves I know were the most ardent among living beings upon earth: thou hadst delight nowhere, sister mine! save with Sigurd.\""
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Then Gollrond spoke, | the daughter of Gjuki:",
+        "\"I never knew | a greater love",
+        "than yours among | all people on earth;",
+        "you were happy nowhere, | at home or abroad,",
+        "my sister, | with Sigurth away.\""
+       ]
       }
      ]
     },
@@ -1126,6 +1326,19 @@
        "t": "p",
        "s": "Then said Gudrun, Giuki's daughter: \"Such was my Sigurd among Giuki's sons, as is the garlick out from the grass which grows, or a bright stone on a thread drawn, a precious gem on kings."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Guthrun said:",
+        "\"My Sigurth stood | above Gjuki's sons",
+        "as the spear-leek grows | above the grass,",
+        "or the bright jewel | set on the band,",
+        "the precious stone | that princes wear."
+       ]
+      }
      ]
     },
     {
@@ -1186,6 +1399,18 @@
        "t": "p",
        "s": "I also seemed to the prince's warriors higher than any of Herian's Disir; now I am as little as the leaf oft is in the storm-winds, after the chieftain's death."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"To the leader of men | I seemed loftier",
+        "and higher than all | of Herjan's maids;",
+        "now I am as little | as the leaf",
+        "hanging on the willow; | my hero is dead."
+       ]
+      }
      ]
     },
     {
@@ -1245,6 +1470,18 @@
       {
        "t": "p",
        "s": "Sitting I miss, and in my bed, my dearest friend. Giuki's sons have caused, Giuki's sons have caused my affliction, and their sister's tears of anguish."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"In his seat, in his bed, | I no longer see",
+        "my heart's true friend; | the fault is theirs,",
+        "the sons of Gjuki, | for all my grief,",
+        "that their sister | weeps so bitterly."
+       ]
       }
      ]
     },
@@ -1311,6 +1548,19 @@
        "t": "p",
        "s": "So ye desolate the people's land, as ye have kept your sworn oaths. Gunnar! thou wilt not the gold enjoy; those rings will be thy bane, for the oaths thou to Sigurd gavest."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Your land shall lose | its people",
+        "just as you have kept | the oaths you once swore;",
+        "Gunnar, the gold | shall give you no joy,",
+        "(the rings shall soon | be your killers,)",
+        "you who once swore | oaths with Sigurth."
+       ]
+      }
      ]
     },
     {
@@ -1371,6 +1621,18 @@
        "t": "p",
        "s": "Oft in the mansion was the greater mirth, when my Sigurd Grani saddled, and Brynhild they went to woo, that which accursed, in an evil hour!\""
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"There was greater gladness | in the court then,",
+        "the day my Sigurth | saddled Grani,",
+        "and went out to win | Brynhild's hand,",
+        "that evil woman, | in an evil hour.\""
+       ]
+      }
      ]
     },
     {
@@ -1430,6 +1692,18 @@
       {
        "t": "p",
        "s": "Then said Brynhild, Budli's daughter: \"May the hag lack spouse and children, who thee, Gudrun! has caused to weep, and this morning given thee runes of speech!\""
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Then Brynhild spoke, | the daughter of Buthli:",
+        "\"May the witch now lack | husband and children",
+        "who, Guthrun, loosed | your tears at last,",
+        "and with magic today | has made you speak.\""
+       ]
       }
      ]
     },
@@ -1501,6 +1775,20 @@
        "t": "p",
        "s": "Then said Gullrond, Giuki's daughter: \"Cease, thou loathed of all! from those words. The evil destiny of princes thou hast ever been; thee every billow drives of an evil nature; thou sore affliction of seven kings, the greatest bane of friendship among women!\""
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Then Gollrond, daughter | of Gjuki, spoke:",
+        "\"Do not speak such words, | you hated woman;",
+        "you have always been | the ruin of the noble,",
+        "(you are carried | on an evil wave,",
+        "you have brought sorrow | to seven kings,)",
+        "and left many a woman | without love.\""
+       ]
+      }
      ]
     },
     {
@@ -1559,6 +1847,21 @@
       {
        "t": "p",
        "s": "Then said Brynhild, Budli's daughter: \"Atli my brother, Budli's offspring, is the sole cause of all the evil;"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Then Brynhild, daughter | of Buthli, spoke:",
+        "\"Atli is guilty | of all the sorrow,",
+        "(son of Buthli | and brother of mine,)",
+        "when we saw in the hall | of the Hunnish race",
+        "the flame of the snake's bed | flash round the hero;",
+        "(I have paid dearly | for that journey since,",
+        "and I always seek | to forget the sight.)\""
+       ]
       }
      ]
     },
@@ -1682,6 +1985,18 @@
        "t": "p",
        "s": "She by a column stood, the wood violently clasped. From the eyes of Brynhild, Budli's daughter, fire gleamed forth; venom she snorted, when she beheld the wounds of Sigurd."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "She stood by the pillars | and gathered her strength;",
+        "from the eyes of Brynhild, | Buthli's daughter,",
+        "fire burned, | and she breathed out poison,",
+        "when she saw the wounds | on Sigurth then."
+       ]
+      }
      ]
     },
     {
@@ -1713,6 +2028,12 @@
       {
        "t": "p",
        "s": "Gudrun then went away to the forest and deserts, and travelled to Denmark, where she stayed seven half-years with Thora, Hakon's daughter. Brynhild would not outlive Sigurd. She caused her eight thralls and five female slaves to be killed, and then slew herself with a sword, as it is related in the \"Sigurdarkvida in Skemma\" (the Short Lay of Sigurd)."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Guthrun went away from there to a forest in the wilderness, and travelled all the way to Denmark, and stayed there seven half-years with Thora, daughter of Hokon. Brynhild would not live after Sigurth. She had eight of her slaves killed, and five serving-women. Then she killed herself with a sword, as is told in the Short Lay of Sigurth."
       }
      ]
     }
