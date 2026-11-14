@@ -4,8 +4,7 @@ One picture per figure, made for the card, so that no tile has to be cut out of 
 Where a portrait exists the site uses it for the Who is who tile, the card and the small round picture;
 where it does not, the present picture stays.
 
-Status: style not chosen yet. Step 1 is the test set below (five styles, the same five subjects).
-Step 2, after the choice: the full set, in the order of the list at the end.
+Status: style B chosen (see the decisions in section 9); the full set is being generated.
 
 The same briefs in machine-readable form are in `briefs.json` (styles, poses, one entry per subject); the
 generator reads that file, so a change of wording is made there and this page explains it. How it runs is
@@ -267,5 +266,18 @@ python -I pipeline/make_plates.py                      # chosen portraits -> til
 - `make_plates.py` writes `portraits/web/<id>-{1200,600}` for the card and replaces that figure's tile and
   small square in `images/tiles/`. A figure without a portrait keeps its present picture.
 - Default model `gemini-nano-banana-2.1` at 4K (`--model`, `--size` change it).
+
+Decisions (2026-11-14): style B, the linocut in black, rust red and blue-green, for every card (the other
+colour schemes B2-B5 and styles A-E were tried; kept in `candidates/_rounds/`). Three hours per picture:
+day, dusk (soft, just after sunset: dusty rose and mauve, no orange) and night (moonlight). The dusk and night
+versions are the chosen picture sent back to the model with "change only the light" (`relight` and `lights`
+in `briefs.json`), so the composition stays the same and the site can swap them by the reader's clock:
+
+```
+python -I tools/gen_portraits.py --relight-picks --jobs 3   # every pick -> <id>@dusk.jpg, <id>@night.jpg
+```
+
+A new choice in the picker drops the old dusk and night versions; run `--relight-picks` again after changing
+choices.
 
 Credit as for the plates: (c) 2026 Grigory Sapunov, CC BY 4.0, with the model named in `made_with`.
