@@ -60,6 +60,16 @@
        "t": "p",
        "s": "King Sigmund, son of Volsung, had to wife Borghild of Bralund. They named their son Helgi, after Helgi Hiorvard's son. Helgi was fostered by Hagal. There was a powerful king named Hunding, after whom the land was called Hundland. He was a great warrior, and had many sons, who were engaged in warfare. There was enmity, both open and concealed, between King Hunding and King Sigmund, and they slew each other's kinsmen. King Sigmund and his kindred were called Volsungs, and Ylfings. Helgi went forth and secretly explored the court of King Hunding. Heming, Hunding's son, was at home. On departing Helgi met a herdsman, and said:"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "King Sigmund, the son of Volsung, was married to Borghild, from Bralund. They named their son Helgi, after Helgi Hjorvarthsson; Hagal was Helgi's foster-father. There was a powerful king called Hunding, and Hundland is named after him. He was a mighty warrior, and had many sons with him on his campaigns. There was enmity and strife between the two of them, King Hunding and King Sigmund, and each killed the other's kinsmen. King Sigmund and his family were called Volsungs and Ylfings."
+      },
+      {
+       "t": "p",
+       "s": "Helgi went in disguise as a spy to the home of King Hunding. Hæming, a son of King Hunding, was at home. When Helgi left, he met a young herdsman, and said:"
+      }
      ]
     },
     {
@@ -137,6 +147,18 @@
        "t": "p",
        "s": "\"Say thou to Heming, that Helgi bears in mind who the mailed warrior was, whom the men laid low, when the grey wolf ye had within, and King Hunding thought it was Hamal."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Tell Hæming | that Helgi knows",
+        "whom the heroes | hid in armour;",
+        "they had a grey wolf | within their hall,",
+        "whom King Hunding | took for Hamal.\""
+       ]
+      }
      ]
     },
     {
@@ -175,6 +197,12 @@
       {
        "t": "p",
        "s": "Hamal was the son of Hagal. King Hunding sent men to Hagal in search of Helgi, and Helgi had no other way to save himself than by taking the clothes of a female slave and going to grind. They sought but did not find him. Then said Blind the Baleful:"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Hamal was the name of Hagal's son. King Hunding sent men to Hagal to look for Helgi, and Helgi could not save himself in any other way, so he put on the clothes of a slave woman and set to work at the mill. They searched for Helgi but did not find him."
       }
      ]
     },
@@ -241,7 +269,19 @@
        ]
       }
      ],
-     "is_nu_sim": 0.99
+     "is_nu_sim": 0.99,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Then Blind spoke out, | the evil-minded:",
+        "\"The eyes of Hagal's | slave woman are bright;",
+        "the one who stands at the quern | is not of common stock;",
+        "the millstones break, | the boards are shattered."
+       ]
+      }
+     ]
     },
     {
      "id": "hh2-s3",
@@ -317,6 +357,18 @@
       {
        "t": "p",
        "s": "Sharp are the eyes of Hagal's thrall-wench; of no churlish race is she who at the mill stands. The mill-stones are split, the receiver flies asunder. Now a hard fate has befallen the warrior, when a prince must barley grind: much more fitting to that hand is the falchion's hilt than a mill-handle."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "\"The hero has | a hard fate indeed,",
+        "that now he must | grind barley;",
+        "his hand is better fitted | to feel",
+        "the hilt of the sword | than the millstone's handle.\""
+       ]
       }
      ]
     },
@@ -439,6 +491,26 @@
        "t": "p",
        "s": "No wonder 'tis that the receiver rattles, when a royal damsel the handle turns. She hovered higher than the clouds, and, like the vikings, dared to fight, until Helgi made her captive. She is a sister of Sigar and Hogni; therefore has fierce eyes the Ylfing maid."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Hagal answered and said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"It is little wonder | if boards are splintered;",
+        "the mill is turned | by a king's daughter;",
+        "once she used to ride | through the clouds,",
+        "and fought battles | like fighting men,",
+        "(till Helgi held her | fast as a captive;",
+        "she is the sister | of Sigar and Hogni,",
+        "and so the eyes are bright | of the Ylfings' maid.)\""
+       ]
+      }
      ]
     },
     {
@@ -481,6 +553,16 @@
       {
        "t": "p",
        "s": "Helgi escaped and went on board a ship of war. He slew King Hunding, and was afterwards named Helgi Hundingsbani. He lay with his force in Brunavagar, and carried on \"strand-hogg\" and ate raw flesh. There was a king named Hogni, whose daughter was Sigrun: she was a Valkyria, and rode through the air and over the sea. She was Svava regenerated. Sigrun rode to Helgi, and said:—"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Helgi escaped and went to a warship. He killed King Hunding, and from then on was called Helgi Hundingsbane."
+      },
+      {
+       "t": "p",
+       "s": "He lay with his army in Brunavagar, and there they held a slaughter on the shore, and ate the meat raw. There was a king called Hogni. His daughter was Sigrun; she was a Valkyrie and rode through the air and over the water; she was Svava reborn. Sigrun rode to Helgi's ship and said:"
       }
      ]
     },
@@ -558,6 +640,18 @@
       {
        "t": "p",
        "s": "What men cause a ship along the coasts to float? where do ye warriors a home possess? what await ye in Brunavagar? whither desire ye to explore a way?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"Who commands the ship | by the shore so steep?",
+        "Where is the home | you warriors have?",
+        "Why do you wait | in Brunavagar,",
+        "or what is the way | that you wish to try?\""
+       ]
       }
      ]
     },
@@ -656,6 +750,19 @@
        "t": "p",
        "s": "Hamal causes a ship along the coasts to float; we have home in Hlesey; a fair wind we await in Brunavagar; eastward we desire to explore a way."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Helgi said:",
+        "\"The ship is Hamal's | by the shore so steep,",
+        "we have our home | in Hlesey;",
+        "we wait for a fair wind | in Brunavagar,",
+        "eastward is the way | that we wish to try.\""
+       ]
+      }
      ]
     },
     {
@@ -752,6 +859,19 @@
       {
        "t": "p",
        "s": "Where, O prince! hast thou wakened war, or fed the birds of conflict's sisters? Why is thy corslet sprinkled with blood? Why beneath the helm eat ye raw flesh?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Sigrun said:",
+        "\"Where, warrior, | have you wakened battle,",
+        "or gorged the birds | of the sisters of Guth?",
+        "Why is your mail-coat | spattered with blood,",
+        "why do you feast helmeted | on uncooked food?\""
+       ]
       }
      ]
     },
@@ -852,6 +972,21 @@
        "t": "p",
        "s": "It was the Ylfings' son's last achievement,—if thou desirest to know—west of the ocean, that I took bears in Bragalund, and the eagles' race with our weapons sated. Now, maiden! I have said what the reasons were, why at sea we little cooked meat ate."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Helgi said:",
+        "\"Latest of all, | the Ylfings' son",
+        "on the western sea, | if you wish to know,",
+        "captured bears | in Bragalund,",
+        "and fed the eagles | with the edge of the sword.",
+        "Now it is shown | why our shirts are bloody,",
+        "and why little of our food | is cooked with fire.\""
+       ]
+      }
      ]
     },
     {
@@ -922,6 +1057,19 @@
       {
        "t": "p",
        "s": "To a battle thou alludest. Before Helgi has King Hunding been doomed to fall. In conflict ye have engaged, when your kindred ye avenged, and stained with blood the falchion's edge."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Sigrun said:",
+        "\"You tell of battle, | and there King Hunding",
+        "was brought down | before Helgi;",
+        "there was carnage when you | avenged your kin,",
+        "and blood flowed fast | on the blade of the sword.\""
+       ]
       }
      ]
     },
@@ -1092,6 +1240,19 @@
        "t": "p",
        "s": "Why dost thou suppose, sagacious maiden! that it was they, who their kin avenged? Many a warrior's bold sons there are, and hostile to our kindred."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Helgi said:",
+        "\"How did you know | that we have now,",
+        "wise maiden, | well avenged our kin?",
+        "There are many | sons of the mighty",
+        "who share alike | in our noble race.\""
+       ]
+      }
      ]
     },
     {
@@ -1189,6 +1350,19 @@
        "t": "p",
        "s": "I was not far, leader of people! eager, at many a chieftain's end: yet crafty I account Sigmund's son, when in val-runes the slaughter he announces."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Sigrun said:",
+        "\"I was not far | from the lord of the people",
+        "yesterday morning, | when the king was slain;",
+        "though the son of Sigmund | is crafty, I think,",
+        "when he speaks of the fight | in slaughter-runes."
+       ]
+      }
      ]
     },
     {
@@ -1273,6 +1447,19 @@
        "t": "p",
        "s": "A while ago I saw thee commanding the warships, when thou hadst station on the bloody prow, and the cold sea waves were playing. Now, prince! thou wilt from me conceal it, but Hogni's daughter recognizes thee."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Once on the longship | I saw you well,",
+        "when you stood | in the blood-stained bow,",
+        "(and icy waves | were raging round you;)",
+        "now the hero | would hide from me,",
+        "but Helgi is known | to Hogni's daughter.\""
+       ]
+      }
      ]
     },
     {
@@ -1311,6 +1498,12 @@
       {
        "t": "p",
        "s": "Granmar was the name of a powerful prince who dwelt at Svarinshaug. He had many sons: one was called Hodbrodd, the second Gudmund, the third Starkadr. Hodbrodd was at the assembly of kings, and there betrothed himself to Sigrun, the daughter of Hogni. But when she was informed of it, she rode with the Valkyriur through the air and over the sea in quest of Helgi. Helgi was at that time at Logafioll, warring against the sons of Hunding, where he slew Alf and Eyiolf, Hiorvard and Hervard. Being over-fatigued with the conflict, he was sitting under the Arastein, where Sigrun found him, and running to him, threw her arms around his neck, and, kissing him, told him her errand so as it related in the first Volsungakvida."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "There was a mighty king called Granmar, who lived at Svarin's hill. He had many sons; one was called Hothbrodd, another Gothmund, a third Starkath. Hothbrodd was at a meeting of kings, and he won the promise of having Sigrun, Hogni's daughter, as his wife. But when she heard this, she rode with the Valkyries through the air and over the sea to look for Helgi. Helgi was then at Logafjoll, and had fought with Hunding's sons; there he killed Alf and Eyolf, Hjorvarth and Hervarth. He was utterly weary from battle, and sat under the eagle-stone. There Sigrun found him, and ran to throw her arms around his neck, and kissed him, and told him her news, as is told in the old Volsung lay:"
       }
      ]
     },
@@ -1389,6 +1582,18 @@
        "t": "p",
        "s": "Sigrun sought the joyous prince, Helgi's hand she forthwith grasped, kissed and addressed the helm-decked king."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Sigrun sought | the joyful chieftain,",
+        "at once she took | Helgi's hand;",
+        "she greeted the helmeted hero | and kissed him,",
+        "the warrior's heart | turned to the woman."
+       ]
+      }
      ]
     },
     {
@@ -1453,6 +1658,18 @@
       {
        "t": "p",
        "s": "Then was the chieftain's mind to the lady turned. She declared that she had loved, with her whole heart, Sigmund's son, before she had seen him."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "From her heart | Hogni's daughter spoke,",
+        "Helgi was dear | to her, she said;",
+        "\"Long with all | my heart I loved",
+        "Sigmund's son | before I ever saw him."
+       ]
       }
      ]
     },
@@ -1545,6 +1762,18 @@
        "t": "p",
        "s": "Hogni's daughter spoke not at variance with her heart: she said that Helgi's affection she must possess."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"At the meeting | I was promised to Hothbrodd,",
+        "but I would rather | have another hero;",
+        "yet, king, I fear | the wrath of my kin,",
+        "since I broke my father's | dearest wish.\""
+       ]
+      }
      ]
     },
     {
@@ -1615,6 +1844,19 @@
       {
        "t": "p",
        "s": "Care thou not for Hogni's wrath, nor for the evil mind of thy kin. Thou shalt, young maiden! live with me: of a good race thou art, as I perceive."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Helgi said:",
+        "\"Never fear | Hogni's anger,",
+        "nor your kinsmen's | cruel wrath;",
+        "maiden, you | shall live with me,",
+        "your kindred, fair one, | I shall not fear.\""
+       ]
       }
      ]
     },
@@ -1704,6 +1946,16 @@
        "t": "p",
        "s": "\"Who is the leader that commands the fleet, and an appalling host leads to our land?\""
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "\"Who is the king | who captains the fleet,",
+        "and leads the warriors | to the land?\""
+       ]
+      }
      ]
     },
     {
@@ -1755,6 +2007,16 @@
       {
        "t": "p",
        "s": "Who is the warrior that commands the ships, and lets his golden banner wave o'er his prow? No peace seems to me in that ship's front; it casts a warlike glow around the vikings."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Sinfjotli, Sigmund's son, answered him, and that too is written."
+      },
+      {
+       "t": "p",
+       "s": "Gothmund rode home with his news of the army; then Granmar's sons summoned their forces. Many kings came there; among them were Hogni, Sigrun's father, and his sons Bragi and Dag. There was a great battle, and all Granmar's sons were killed and all their allies; only Dag, Hogni's son, was spared, and he swore loyalty to the Volsungs. Sigrun went among the dead and found Hothbrodd at the point of death. She said:"
       }
      ]
     },
@@ -1828,7 +2090,19 @@
        ]
       }
      ],
-     "is_nu_sim": 0.988
+     "is_nu_sim": 0.988,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Never shall Sigrun | from Sevafjoll,",
+        "King Hothbrodd, | be held in your arms;",
+        "Granmar's sons | have grown quite cold,",
+        "and the grey giant-steeds | gorge on corpses.\""
+       ]
+      }
+     ]
     },
     {
      "id": "hh2-s20",
@@ -1918,7 +2192,24 @@
        ]
       }
      ],
-     "is_nu_sim": 1.0
+     "is_nu_sim": 1.0,
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Then she sought out Helgi, and was full of joy. He said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Maiden, not all | your fortune is fair,",
+        "I blame the Norns | that this should be;",
+        "this morning there fell | at Frekastein",
+        "Bragi and Hogni | by my hand."
+       ]
+      }
+     ]
     },
     {
      "id": "hh2-s21",
@@ -2009,6 +2300,18 @@
       {
        "t": "p",
        "s": "Sinfiotli, Sigmund's son, answered:"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"At Hlebjorg fell | the sons of Hrollaug,",
+        "King Starkath | at Styrkleifar;",
+        "I never saw | nobler fighters,",
+        "the body fought | when the head had fallen."
+       ]
       }
      ]
     },
@@ -2107,6 +2410,25 @@
       {
        "t": "p",
        "s": "Here may Hodbrodd Helgi learn to know, the hard of flight, in the fleet's midst: he the possession holds of thy race; he the fishes' heritage has to him subjected."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Low on the ground | the slain are lying,",
+        "most of them | are men of your race;",
+        "you have won nothing, | for it was your fate",
+        "to bring brave men | to the battlefield.\""
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Then Sigrun wept. | Helgi said:"
+       ]
       }
      ]
     },
@@ -2211,6 +2533,25 @@
        "t": "p",
        "s": "Therefore ought we first, at Frekastein, to settle together, and decide our quarrels! Hodbrodd! 'tis time vengeance to take, if an inferior lot we long have borne."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "\"Do not grieve, Sigrun, | the battle is won,",
+        "the fighter cannot escape his fate.\""
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Sigrun said:",
+        "\"I would call to life | those who lie slaughtered,",
+        "if I might be safe on your breast.\""
+       ]
+      }
      ]
     },
     {
@@ -2304,6 +2645,23 @@
       {
        "t": "p",
        "s": "Rather shalt thou, Gudmund! tend goats, and steep mountain-tops shalt climb, have in thy hand a hazel staff, that will better please thee than judgments of the sword."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Gothmund the son of Granmar said this:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"What great hero | is guiding the ships?",
+        "He flies a golden flag | at the stem;",
+        "I find no peace | at the head of your advance,",
+        "and round the fighters | the battle-light is red.\""
+       ]
       }
      ]
     },
@@ -2431,6 +2789,19 @@
        "t": "p",
        "s": "She then met Helgi, and was overjoyed. He said:"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Sinfjotli said:",
+        "\"Here Hothbrodd | may find Helgi,",
+        "the hater of flight, | in the midst of the fleet;",
+        "he holds the home | of all your race,",
+        "and he rules over | the realm of the fishes.\""
+       ]
+      }
      ]
     },
     {
@@ -2523,6 +2894,19 @@
        "t": "p",
        "s": "Not to thee, all-wise maiden! are all things granted, though, I say, in somewhat are the Norns to blame. This morn have fallen at Frekastein Bragi and Hogni: I was their slayer."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Gothmund said:",
+        "\"First shall swords | at Frekastein",
+        "prove our worth | in place of words;",
+        "it is time, Hothbrodd, | to take vengeance,",
+        "if once we were | worsted in battle.\""
+       ]
+      }
      ]
     },
     {
@@ -2606,6 +2990,19 @@
        "t": "p",
        "s": "On the earth lie the greater number of thy kinsmen, to corpses turned. Thou hast not fought the battle, yet 'twas decreed, that thou, potent maiden! shouldst cause the strife."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Sinfjotli said:",
+        "\"Better, Gothmund, | to tend the goats,",
+        "and climb the rocks | of the mountain cliffs;",
+        "a hazel switch | to hold in your hand",
+        "would suit you better | than the hilt of a sword.\""
+       ]
+      }
      ]
     },
     {
@@ -2687,6 +3084,19 @@
       {
        "t": "p",
        "s": "Sigrun then wept. Helgi said:"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Helgi said:",
+        "\"It would suit you better, | Sinfjotli,",
+        "to give battle | and gladden the eagles,",
+        "than to utter | vain and empty speech,",
+        "though warriors often | fight with words."
+       ]
       }
      ]
     },
@@ -2802,6 +3212,19 @@
        "t": "p",
        "s": "Sigrun! console thyself; a Hild thou hast been to us. Kings cannot conquer fate: gladly would I have them living who are departed, if I might clasp thee to my breast."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"I do not find | the sons of Granmar good,",
+        "but it is fitting for heroes | to speak the truth;",
+        "at Moinsheimar | the men proved",
+        "that they had hearts | for the wielding of swords,",
+        "(and the warriors | are always brave.)\""
+       ]
+      }
      ]
     },
     {
@@ -2840,6 +3263,12 @@
       {
        "t": "p",
        "s": "Helgi obtained Sigrun, and they had sons. Helgi lived not to be old. Dag, the son of Hogni, sacrificed to Odin, for vengeance for his father. Odin lent Dag his spear. Dag met with his relation Helgi in a place called Fioturlund, and pierced him through with his spear. Helgi fell there, but Dag rode to the mountains and told Sigrun what had taken place."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Helgi married Sigrun, and they had sons. Helgi did not reach old age. Dag, the son of Hogni, offered sacrifice to Othin to be avenged for his father's death; Othin gave Dag his spear. Dag found Helgi, his brother-in-law, at a place called Fjoturlund. He thrust the spear through Helgi's body. Then Helgi fell, and Dag rode to Sevafjoll and told Sigrun the news:"
       }
      ]
     },
@@ -2924,6 +3353,19 @@
       {
        "t": "p",
        "s": "Loath am I, sister! sad news to tell thee; for unwillingly I have my sister caused to weep. This morning fell, in Fioturlund, the prince who was on earth the best, and on the necks of warriors stood."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "\"I am sad, sister, | to tell you sorrow,",
+        "unwillingly I brought | grief to my kin;",
+        "this morning there fell | at Fjoturlund",
+        "the noblest prince | the world has known,",
+        "(and he set his heel | on the heroes' necks.)\""
+       ]
       }
      ]
     },
@@ -3042,6 +3484,19 @@
        "t": "p",
        "s": "Thee shall the oaths all gnaw, which to Helgi thou didst swear, at the limpid Leiptr's water, and at the cold dank wave-washed rock."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Sigrun said:",
+        "\"Now may every | oath bite you",
+        "that you have sworn | with Helgi,",
+        "by the bright | water of Leipt,",
+        "and the ice-cold | stone of Uth."
+       ]
+      }
      ]
     },
     {
@@ -3118,6 +3573,18 @@
       {
        "t": "p",
        "s": "May the ship not move forward, which under thee should move, although the wished-for wind behind thee blow. May the horse not run, which under thee should run, although from enemies thou hast to flee!"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"The ship shall not sail | in which you sail,",
+        "though a favouring wind | should follow behind;",
+        "the horse shall not run | on which you ride,",
+        "though you are eager | to flee your foe."
+       ]
       }
      ]
     },
@@ -3219,6 +3686,28 @@
        "t": "p",
        "s": "May the sword not bite which thou drawest, unless it sing round thy own head. Then would Helgi's death be on thee avenged, if a wolf thou wert, out in the woods, of all good bereft, and every joy, have no sustenance, unless on corpses thou shouldst spring."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "..............",
+        "..............",
+        "\"The sword shall not bite | which you bear,",
+        "till it sings | about your own head."
+       ]
+      },
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"Vengeance would be mine | for Helgi's murder,",
+        "if you were a wolf | out in the woods,",
+        "possessing nothing | and knowing no joy,",
+        "having no food | but corpses to feed on.\""
+       ]
+      }
      ]
     },
     {
@@ -3316,6 +3805,19 @@
        "t": "p",
        "s": "Sister! thou ravest, and hast lost thy wits, when on thy brother thou callest down such miseries. Odin alone is cause of all the evil; for between relatives he brought the runes of strife."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Dag said:",
+        "\"You are mad, sister, | and wild of mind,",
+        "to cast such a curse | on your brother;",
+        "Othin is ruler | of every ill,",
+        "who divides kin | with runes of spite."
+       ]
+      }
      ]
     },
     {
@@ -3392,6 +3894,18 @@
       {
        "t": "p",
        "s": "Thy brother offers thee rings of red gold, all Vandilsve and Vigdalir: have half the land, thy grief to compensate, woman ring-adorned! thou and thy sons."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "\"Your brother will give you | rings so red,",
+        "all Vandilsve | and Vigdalir;",
+        "take half my land | to pay for the harm,",
+        "ring-decked maiden, | and as recompense for your sons.\""
+       ]
       }
      ]
     },
@@ -3497,6 +4011,20 @@
        "t": "p",
        "s": "So happy I shall not sit at Sefafioll, neither at morn nor night, as to feel joy in life, if o'er the people plays not the prince's beam of light; if his war-steed runs not under the chieftain hither, to the gold bit accustomed; if in the king I cannot rejoice."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Sigrun said:",
+        "\"I shall not sit happy | at Sevafjoll,",
+        "early or late, | loving my life,",
+        "if the light cannot show, | in the leader's band,",
+        "Vigblær bearing him | back to his home,",
+        "(the golden-bitted; | I shall never greet him.)"
+       ]
+      }
      ]
     },
     {
@@ -3573,6 +4101,18 @@
       {
        "t": "p",
        "s": "So had Helgi struck with fear all his foes and their kindred, as before the wolf the goats run frantic from the fell, of terror full."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "\"Such was the fear | that Helgi's foes",
+        "always felt, | and all their kin,",
+        "as makes the goats, | mad with terror,",
+        "run from the wolf | among the rocks."
+       ]
       }
      ]
     },
@@ -3658,6 +4198,19 @@
        "t": "p",
        "s": "So himself Helgi among warriors bore, as the towering ash is among thorns, or as the fawn, moistened with dew, that more proudly stalks than all the other beasts, and its horns glisten against the sky."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Helgi rose | above all heroes",
+        "like the lofty ash | above lowly thorns,",
+        "or the noble stag, | sprinkled with dew,",
+        "bearing his head | above all beasts,",
+        "(and his horns gleam bright | to heaven itself.)\""
+       ]
+      }
      ]
     },
     {
@@ -3696,6 +4249,12 @@
       {
        "t": "p",
        "s": "A mound was raised for Helgi: but when he came to Valhall, Odin offered him the rule over all jointly with himself. Helgi said:"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "A hill was made in Helgi's memory. And when he came to Valhall, Othin invited him to rule over everything with him."
       }
      ]
     },
@@ -3779,6 +4338,23 @@
        "t": "p",
        "s": "Thou, Hunding! shalt for every man a foot-bath get, and fire kindle; shalt bind the dogs, to the horses look, to the swine give wash, ere to sleep thou goest."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Helgi said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "\"Hunding, you shall | wash the feet",
+        "of every hero, | and kindle the fire,",
+        "tie up the dogs, | and tend the horses,",
+        "and feed the pigs | before you go to sleep.\""
+       ]
+      }
      ]
     },
     {
@@ -3817,6 +4393,12 @@
       {
        "t": "p",
        "s": "A female slave passing at evening by Helgi's mound, saw him riding towards it with many men:"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "One of Sigrun's maids went one evening to Helgi's hill, and saw Helgi riding to the hill with many men. The maid said:"
       }
      ]
     },
@@ -3894,6 +4476,18 @@
       {
        "t": "p",
        "s": "Is it a delusion which methinks I see, or the powers' dissolution, that ye, dead men, ride, and your horses with spurs urge on, or to warriors is a home journey granted?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Is this a dream | that I think I see,",
+        "or the doom of the gods, | that dead men ride,",
+        "and spurring this way | you urge your horses,",
+        "or is a homecoming now | granted to the heroes?\""
+       ]
       }
      ]
     },
@@ -3991,6 +4585,19 @@
       {
        "t": "p",
        "s": "'Tis no delusion which thou thinkst to see, nor of mankind the end, although thou seest us, although our horses we with spurs urge on, nor to warriors is a home-journey granted."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Helgi said:",
+        "\"This is no dream | that you think you see,",
+        "nor the end of the world, | though you behold us,",
+        "and spurring this way | we urge our horses,",
+        "nor is a homecoming now | granted to the heroes.\""
+       ]
       }
      ]
     },
@@ -4099,6 +4706,24 @@
        "t": "p",
        "s": "Sigrun! go forth from Sefafioll, if the people's chief thou desirest to meet. The mound is opened, Helgi is come, his wounds still bleed; the prince prayed thee that thou wouldst still the trickling blood."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "The maid went home and said to Sigrun:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Go out, Sigrun, | from Sevafjoll,",
+        "if you wish to find | the lord of the people;",
+        "(the hill is open, | Helgi has come;)",
+        "the sword-tracks bleed; | the king has asked",
+        "that you should now | heal his wounds.\""
+       ]
+      }
      ]
     },
     {
@@ -4199,6 +4824,23 @@
        "t": "p",
        "s": "Now am I as glad, at our meeting, as the voracious hawks of Odin, when they of slaughter know; of warm prey, or, dewy-feathered, see the peep of day."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Sigrun went into the hill to Helgi, and said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "\"Now I am as glad | of our meeting",
+        "as Othin's hawks, | so eager for prey,",
+        "when they scent slaughter | and flesh still warm,",
+        "or, wet with dew, | see the red of day."
+       ]
+      }
      ]
     },
     {
@@ -4289,6 +4931,20 @@
       {
        "t": "p",
        "s": "I will kiss my lifeless king, ere thou thy bloody corslet layest aside. Thy hair is, Helgi! tumid with sweat of death; my prince is all bathed in slaughter-dew; cold, clammy are the hands of Hogni's son. How shall I, prince! for this make thee amends?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "\"First I will kiss | the lifeless king,",
+        "before you cast off | the bloody mail-coat;",
+        "your hair, Helgi, | is heavy with frost,",
+        "and you are damp | with the dew of death;",
+        "(Hogni's kinsman | has ice-cold hands,",
+        "what, prince, can I do | to bring you ease?)\""
+       ]
       }
      ]
     },
@@ -4401,6 +5057,21 @@
        "t": "p",
        "s": "Thou art alone the cause, Sigrun of Sefafioll! that Helgi is with sorrow's dew suffused. Thou weepest, gold-adorned! cruel tears, sun-bright daughter of the south! ere to sleep thou goest; each one falls bloody on the prince's breast, wet, cold, and piercing, with sorrow big."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "Helgi said:",
+        "\"You alone, Sigrun | of Sevafjoll,",
+        "are the cause that Helgi | is heavy with dew;",
+        "gold-decked maiden, | your tears are grievous,",
+        "(sun-bright maid of the south, | before you sleep;)",
+        "each falls like blood | on the hero's breast,",
+        "(burned-out, cold, | and crushed with care.)"
+       ]
+      }
      ]
     },
     {
@@ -4496,6 +5167,20 @@
        "t": "p",
        "s": "We shall surely drink delicious draughts, though we have lost life and lands. No one shall a song of mourning sing, though on my breast he wounds behold. Now are women in the mound enclosed, daughters of kings, with us the dead."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "\"We shall drink well | a noble draught,",
+        "though love and lands | are lost to me;",
+        "no man shall sing | a song of sorrow,",
+        "though there are bleeding wounds | on my breast;",
+        "now in the hill | we hold our brides,",
+        "the heroes' loves, | beside their dead husbands.\""
+       ]
+      }
      ]
     },
     {
@@ -4578,6 +5263,18 @@
       {
        "t": "p",
        "s": "Here, Helgi! have I for thee a peaceful couch prepared, for the Ylfings' son. On thy breast I will, chieftain! repose, as in my hero's lifetime I was wont."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "\"Here I have made | a bed for you, Helgi,",
+        "to rest you from care, | kinsman of the Ylfings;",
+        "I will make you sink | to sleep in my arms,",
+        "as once I lay | with the living king.\""
+       ]
       }
      ]
     },
@@ -4683,6 +5380,20 @@
        "t": "p",
        "s": "Nothing I now declare unlooked for, at Sefafioll, late or early, since in a corpse's arms thou sleepest, Hogni's fair daughter! in a mound, and thou art living, daughter of kings!"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "Helgi said:",
+        "\"Now I say | that in Sevafjoll",
+        "anything may happen, | early or late,",
+        "since you sleep clasped | in a corpse's arms,",
+        "so fair in the hill, | the daughter of Hogni!",
+        "(You come here living, | a daughter of kings.)"
+       ]
+      }
      ]
     },
     {
@@ -4760,6 +5471,18 @@
        "t": "p",
        "s": "Time 'tis for me to ride on the reddening ways: let the pale horse tread the aerial path. I towards the west must go over Vindhialm's bridge, ere Salgofnir awakens heroes."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "\"Now I must ride | the reddened ways,",
+        "and set my bay horse | to tread the sky;",
+        "westward I go | to wind-helm's bridges,",
+        "before Salgofnir wakes | the warrior throng.\""
+       ]
+      }
      ]
     },
     {
@@ -4798,6 +5521,12 @@
       {
        "t": "p",
        "s": "Helgi and his attendants rode their way, but Sigrun and hers proceeded to their habitation. The following evening Sigrun ordered her serving-maid to hold watch at the mound; but at nightfall, when Sigrun came thither, she said:"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Then Helgi and his followers rode on their way, and the women went home to the house. Another evening Sigrun told the maid to keep watch at the hill. And at sunset, when Sigrun came to the hill, she said:"
       }
      ]
     },
@@ -4882,6 +5611,19 @@
       {
        "t": "p",
        "s": "Now would be come, if he to come intended, Sigmund's son, from Odin's halls. I think the hope lessens of the king's coming, since on the ash's boughs the eagles sit, and all the folk to the dreams' tryst are hastening."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "\"He would be here now, | if he could come,",
+        "Sigmund's son, | from Othin's seat;",
+        "hope of the hero's return | grows dim",
+        "when eagles sit | on the ash-tree boughs,",
+        "and men are seeking | the meeting of dreams.\""
+       ]
       }
      ]
     },
@@ -4980,6 +5722,19 @@
        "t": "p",
        "s": "Be not so rash alone to go, daughter of heroes! to the house of draugs: more powerful are, in the night-season, all dead warriors, than in the light of day."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "The Maid said:",
+        "\"You would seem mad | to seek alone,",
+        "daughter of heroes, | the house of the dead;",
+        "for all the ghosts of the dead | are mightier",
+        "now at night | than when day is bright.\""
+       ]
+      }
      ]
     },
     {
@@ -5011,6 +5766,12 @@
       {
        "t": "p",
        "s": "Sigrun's life was shortened by grief and mourning. It was a belief in ancient times that men were regenerated, but that is now regarded as an old crone's fancy. Helgi and Sigrun are said to have been regenerated. He was then called Helgi Haddingiaskadi, and she Kara Halfdan's daughter, as it is said in the songs of Kara; and she also was a Valkyria."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Sigrun died young of sorrow and grief. In the old days it was believed that people were born again, but that is now called old wives' folly. Of Helgi and Sigrun it is said that they were born again; he became Helgi Haddingjaskati, and she Kara the daughter of Halfdan, as is told in the Lay of Kara, and she was a Valkyrie."
       }
      ]
     }

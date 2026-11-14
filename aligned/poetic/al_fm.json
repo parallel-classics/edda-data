@@ -41,6 +41,12 @@
        "t": "p",
        "s": "Sigurd and Regin went up to Gnitaheid, and there found Fafnir's slot, or track, along which he crawled to the water. There on the way Sigurd made a large pit, and went down into it. When Fafnir crawled from the gold he blew forth venom, but it flew over Sigurd's head. When Fafnir crept over the pit, Sigurd with his sword pierced him to the heart. Fafnir shook himself, and beat with his head and tail. Sigurd leapt from the pit, and each looked at the other. Fafnir said:"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Sigurth and Regin went up to the Gnitaheith, and there they found the track that Fafnir made when he crawled to the water. Then Sigurth dug a great trench across the path and took his place in it. When Fafnir crawled from his gold, he blew out poison, and it ran down from above onto Sigurth's head. But when Fafnir crawled over the trench, Sigurth thrust his sword into his body, right to the heart. Fafnir writhed and struck out with his head and tail. Sigurth leaped from the trench, and each looked at the other. Fafnir said:"
+      }
      ]
     },
     {
@@ -97,6 +103,18 @@
        "t": "p",
        "s": "Young fellow! young fellow! by what fellow art thou begot? of what people are thou the son? that thou in Fafnir reddenst thy glittering falchion? Thy sword has pierced my heart."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Youth, oh, youth! | Of whom then, youth, were you born?",
+        "Say whose son you are,",
+        "who reddened your bright blade | in Fafnir's blood,",
+        "and struck your sword to my heart.\""
+       ]
+      }
      ]
     },
     {
@@ -128,6 +146,12 @@
       {
        "t": "p",
        "s": "Sigurd concealed his name, because it was the belief in those times, that the words of dying persons were of great power, if they cursed an enemy by his name."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Sigurth concealed his name because it was believed in the old days that the words of a dying man could have great power if he cursed his enemy by name. He said:"
       }
      ]
     },
@@ -189,6 +213,18 @@
       {
        "t": "p",
        "s": "Gofugt-dyr I am called, but I have wandered a motherless child; nor have I a father like the sons of men: alone I wander."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"The Noble Hart | is my name, and I go",
+        "through the world a motherless man;",
+        "I had no father, | as others have,",
+        "and I always live alone.\""
+       ]
       }
      ]
     },
@@ -255,6 +291,19 @@
       {
        "t": "p",
        "s": "If thou hast no father like the sons of men, by what wonder art thou begotten?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Fafnir said:",
+        "\"If you had no father, | as others have,",
+        "by what wonder were you born?",
+        "(Though you hide your name | on the day of my death,",
+        "you know now that you are lying.)\""
+       ]
       }
      ]
     },
@@ -328,6 +377,19 @@
        "t": "p",
        "s": "My race, I tell thee, is to thee unknown, and myself also. Sigmund was my father named, my name is Sigurd, who with weapon have assailed thee."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Sigurth said:",
+        "\"My family, I think, | is unknown to you,",
+        "and so am I myself;",
+        "Sigurth is my name, | and I am Sigmund's son,",
+        "who struck you so with the sword.\""
+       ]
+      }
      ]
     },
     {
@@ -399,6 +461,19 @@
       {
        "t": "p",
        "s": "Who has incited thee? why hast thou suffered thyself to be incited to take my life? youth of the sparkling eyes! Thou hadst a cruel father— * * * *"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Fafnir said:",
+        "\"Who drove you on? | Why were you driven",
+        "to make me lose my life?",
+        "The bright-eyed youth | had a brave father,",
+        "for you are bold in boyhood.\""
+       ]
       }
      ]
     },
@@ -472,6 +547,19 @@
        "t": "p",
        "s": "My heart incited me, my hands gave me aid, and my keen sword. Rarely a man is bold, when of mature age, if in childhood he was faint-hearted."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Sigurth said:",
+        "\"My heart drove me, | my hand carried it out,",
+        "and my shining sword so sharp;",
+        "few are bold | when old age comes",
+        "who are timid in boyhood.\""
+       ]
+      }
      ]
     },
     {
@@ -543,6 +631,19 @@
       {
        "t": "p",
        "s": "I know if thou hadst chanced to grow in the lap of friends, they would have seen thee fierce in fight. Now thou art a captive, taken in war, and, 'tis said, slaves ever tremble."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Fafnir said:",
+        "\"If you could grow up | among your friends,",
+        "one might see you fight fiercely;",
+        "but you are bound, | and taken in battle,",
+        "and prisoners are prone to fear.\""
+       ]
       }
      ]
     },
@@ -616,6 +717,19 @@
        "t": "p",
        "s": "Why Fafnir! dost thou upbraid me that I am far from my paternal home? I am not a captive, although in war I was taken: thou hast found that I am free."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Sigurth said:",
+        "\"You blame me, Fafnir, | that I see from afar",
+        "the wealth that was my father's;",
+        "I am not bound, | though taken in battle;",
+        "you have found that I live free.\""
+       ]
+      }
      ]
     },
     {
@@ -687,6 +801,19 @@
       {
        "t": "p",
        "s": "Thou wilt account only as angry words all I to thee shall say, but I will say the truth. The jingling gold, and the gleed-red treasure, those rings, shall be thy bane."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Fafnir said:",
+        "\"In all I say | you see hatred,",
+        "yet I tell only the truth;",
+        "the ringing gold, | the glow-red wealth,",
+        "and the rings will be your death.\""
+       ]
       }
      ]
     },
@@ -760,6 +887,19 @@
        "t": "p",
        "s": "Treasure at command every one desires, ever till that one day; for at some time each mortal shall hence to Hel depart."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Sigurth said:",
+        "\"Someone shall always | hold the hoard,",
+        "till the destined day comes;",
+        "for there is a time | when every man",
+        "shall journey from here to hell.\""
+       ]
+      }
      ]
     },
     {
@@ -832,6 +972,19 @@
        "t": "p",
        "s": "The Norns' decree thou wilt hold in contempt as from a witless wight: In water thou shalt be drowned, if in wind thou rowest. All things bring peril to the fated."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Fafnir said:",
+        "\"The fate of the Norns | before the headland",
+        "you will find, and a fool's doom;",
+        "you will drown in the water | if you row against the wind;",
+        "every danger is near to death.\""
+       ]
+      }
      ]
     },
     {
@@ -903,6 +1056,19 @@
       {
        "t": "p",
        "s": "Tell me, Fafnir! as thou art wise declared, and many things to know: who those Norns are, who help in need, and from babes loose the mothers."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Sigurth said:",
+        "\"Tell me then, Fafnir, | for you are famed as wise,",
+        "and you know much now:",
+        "who are the Norns | who help in need,",
+        "and bring the baby from the mother?\""
+       ]
       }
      ]
     },
@@ -978,6 +1144,19 @@
        "t": "p",
        "s": "Very diversely born I take those Norns to be: they have no common race. Some are of Æsir-race, some of Alfar-race, some are Dvalin's daughters."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Fafnir said:",
+        "\"Of many births | the Norns must be,",
+        "and they were not of one race;",
+        "some are kin to gods, | others to elves,",
+        "and some are Dvalin's daughters.\""
+       ]
+      }
      ]
     },
     {
@@ -1049,6 +1228,19 @@
       {
        "t": "p",
        "s": "Tell me, Fafnir! as thou art wise declared, and many things to know, how that holm is called, where Surt and the Æsir will sword-liquor together mingle?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Sigurth said:",
+        "\"Tell me then, Fafnir, | for you are famed as wise,",
+        "and you know much now:",
+        "what do they call the island | where all the gods",
+        "and Surt shall mingle sword-sweat?\""
+       ]
       }
      ]
     },
@@ -1122,6 +1314,19 @@
        "t": "p",
        "s": "Oskopnir it is called; there shall the gods with lances play; Bilrost shall be broken, when they go forth, and their steeds in the river swim."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Fafnir said:",
+        "\"It is Oskopnir, | where all the gods",
+        "shall seek the play of swords;",
+        "Bilrost breaks | when they cross the bridge,",
+        "and the horses shall swim in the flood."
+       ]
+      }
      ]
     },
     {
@@ -1177,6 +1382,18 @@
       {
        "t": "p",
        "s": "An Œgis-helm I bore among the sons of men, while I o'er the treasures lay; stronger than all I thought myself to be; stronger I found not many!"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "\"I wore the fear-helm | to terrify mankind,",
+        "while I lay guarding my gold;",
+        "I seemed mightier | than any man,",
+        "for I never found a fiercer.\""
+       ]
       }
      ]
     },
@@ -1250,6 +1467,19 @@
        "t": "p",
        "s": "An Œgis-helm is no protection, where men impelled by anger fight: soon he finds, who among many comes, that no one is alone the boldest."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Sigurth said:",
+        "\"The fear-helm surely | shields no man",
+        "when he faces a brave enemy;",
+        "often one finds, | on meeting the enemy,",
+        "that he is not the bravest of all.\""
+       ]
+      }
      ]
     },
     {
@@ -1317,6 +1547,19 @@
       {
        "t": "p",
        "s": "Venom I blew forth, when on my father's great heritage I lay."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Fafnir said:",
+        "\"I breathed poison | when I lay shining",
+        "on the hoard my father had;",
+        "(there was none so mighty | as dared to meet me,",
+        "and I feared neither weapons nor wiles.)\""
+       ]
       }
      ]
     },
@@ -1390,6 +1633,19 @@
        "t": "p",
        "s": "Thou, glistening serpent! didst a great belching make, and wast so hard of heart. Fierceness so much the greater have the sons of men, when they possess that helm."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Sigurth said:",
+        "\"Glittering serpent, | your hissing was loud,",
+        "and you showed a hard heart;",
+        "but the sons of men | have more hatred",
+        "for the one who owns the helm.\""
+       ]
+      }
      ]
     },
     {
@@ -1461,6 +1717,19 @@
       {
        "t": "p",
        "s": "Sigurd! I now counsel thee, do thou take my counsel; and hence ride home. The jingling gold, and the gleed-red treasure, those rings, shall be thy bane."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Fafnir said:",
+        "\"I advise you, Sigurth, | heed my words,",
+        "and ride home from here;",
+        "the ringing gold, | the glow-red wealth,",
+        "and the rings will be your death.\""
+       ]
       }
      ]
     },
@@ -1534,6 +1803,19 @@
        "t": "p",
        "s": "Counsel regarding thee is taken, and I to the gold will ride, on the heath that lies. But lie thou, Fafnir! in the pangs of death, until Hel have thee!"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Sigurth said:",
+        "\"Your advice is given, | but I shall go",
+        "to the gold hidden in the heather;",
+        "and you, Fafnir, | are fighting with death,",
+        "lying where Hel shall have you.\""
+       ]
+      }
      ]
     },
     {
@@ -1606,6 +1888,19 @@
        "t": "p",
        "s": "Regin betrayed me, he will thee betray, he of us both will be the bane. Fafnir must, I trow, let forth his life: thine was the greater might!"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Fafnir said:",
+        "\"Regin betrayed me, | and will betray you;",
+        "he will bring us both to death;",
+        "Fafnir, I think, | must lose his life,",
+        "for you were the mightier man.\""
+       ]
+      }
      ]
     },
     {
@@ -1637,6 +1932,12 @@
       {
        "t": "p",
        "s": "Regin had gone away while Sigurd slew Fafnir, but came back as Sigurd was wiping the blood from his sword. He said:"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Regin had gone some distance away while Sigurth fought Fafnir, and came back while Sigurth was wiping the blood from his sword. Regin said:"
       }
      ]
     },
@@ -1693,6 +1994,18 @@
       {
        "t": "p",
        "s": "Hail to thee now, Sigurd! Now hast thou victory won and Fafnir slain: of all the men who tread the earth, thou art, I say, the bravest born."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "\"Hail to you, Sigurth! | You have the victory,",
+        "and have killed Fafnir in the fight;",
+        "of all the men | who walk the earth,",
+        "you are the most fearless, I think.\""
+       ]
       }
      ]
     },
@@ -1769,6 +2082,20 @@
        "t": "p",
        "s": "Uncertain 'tis to know, when we all come together, sons of victorious heroes, which is the bravest born. Many a one is bold, who sword has never broken in another's breast."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Sigurth said:",
+        "\"No one knows, | when all are together,",
+        "(the sons of the glorious gods,)",
+        "who will seem the bravest born;",
+        "some are brave | who redden no sword",
+        "in the blood of an enemy's breast.\""
+       ]
+      }
      ]
     },
     {
@@ -1841,6 +2168,19 @@
        "t": "p",
        "s": "Glad are thou now, Sigurd! and in thy gain rejoicing, while Gram in the grass thou driest. My brother thou to death hast wounded, yet in some degree was I the cause."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Regin said:",
+        "\"You are glad, Sigurth, | of the battle won,",
+        "as you clean Gram on the grass;",
+        "my fierce brother | you have killed in the fight,",
+        "and I did something myself.\""
+       ]
+      }
      ]
     },
     {
@@ -1912,6 +2252,19 @@
       {
        "t": "p",
        "s": "Thou didst me counsel, that I should ride o'er high fells hither. Treasure and life had still possess'd that glistening serpent, hadst thou my anger not excited."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Sigurth said:",
+        "\"You went far off | while Fafnir reddened",
+        "my keen blade with his blood;",
+        "I matched my strength | with the dragon's might,",
+        "while you hid in the heather.\""
+       ]
       }
      ]
     },
@@ -2017,6 +2370,19 @@
        "t": "p",
        "s": "Long hadst thou allowed in the ling to lie that Jotun old, hadst thou the sword not used that I forged for thee, thy keen-edged glave."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Regin said:",
+        "\"Longer you would | have left in the heather",
+        "that grey old giant hiding,",
+        "if the weapon had not served | that I once forged,",
+        "the keen-edged blade you carried.\""
+       ]
+      }
      ]
     },
     {
@@ -2089,6 +2455,19 @@
        "t": "p",
        "s": "Valour is better than might of sword, when foes embittered fight; for a brave man I have ever seen gain victory with a dull sword."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Sigurth said:",
+        "\"Courage is better | than a mighty blade",
+        "for one who must fight fiercely;",
+        "the brave man will | fight well and win,",
+        "though his blade may be blunt."
+       ]
+      }
      ]
     },
     {
@@ -2155,6 +2534,18 @@
        "t": "p",
        "s": "For the brave 'tis better than for the timid to join in the game of war; for the joyous it is better than for the sad, let come whatever may."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Brave men are better | than cowards",
+        "when the clash of battle comes;",
+        "and the glad man better | than the gloomy",
+        "will face what lies before him."
+       ]
+      }
      ]
     },
     {
@@ -2215,7 +2606,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "\"It was your advice | that I should ride",
+        "here over the high mountains;",
+        "the glittering serpent | would have wealth and life",
+        "if you had not mocked my strength.\""
+       ]
+      }
+     ]
     },
     {
      "id": "fm-s31",
@@ -2266,7 +2669,19 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.3
+     "s_en": 0.3,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Sit now, Sigurth, | for I will sleep;",
+        "hold Fafnir's heart to the fire;",
+        "for all his heart | shall be eaten,",
+        "since I have drunk deep of blood.\""
+       ]
+      }
+     ]
     },
     {
      "id": "fm-p5",
@@ -2297,6 +2712,12 @@
       {
        "t": "p",
        "s": "Sigurd took Fafnir's heart and roasted it on a stick. When he thought it roasted enough, and the blood frothed from it, he touched it with his finger, to try whether it were quite done. He burnt his finger and put it in his mouth; and when Fafnir's heart's blood touched his tongue he understood the language of birds. He heard the eagles chattering among the branches. One eagle said:"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Sigurth took Fafnir's heart and cooked it on a spit. When he thought it was fully cooked, and the blood foamed out of the heart, he tested it with his finger to see whether it was done. He burned his finger and put it in his mouth. But when Fafnir's heart's-blood touched his tongue, he understood the speech of birds. He heard nuthatches chattering in the thickets. A nuthatch said:"
       }
      ]
     },
@@ -2359,6 +2780,18 @@
       {
        "t": "p",
        "s": "There sits Sigurd sprinkled with blood; Fafnir's heart at the fire he roasts. Wise methinks were the ring-dispenser, if he the glistening life-pulp ate."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "\"There sits Sigurth, | sprinkled with blood,",
+        "and Fafnir's heart | he cooks at the fire;",
+        "the breaker of rings | would be wise, I think,",
+        "to eat the life-muscles, | bright as they are.\""
+       ]
       }
      ]
     },
@@ -2438,6 +2871,19 @@
        "t": "p",
        "s": "There lies Regin communing with himself; he will beguile the youth, who in him trusts: in rage he brings malicious words together, the framer of evil will avenge his brother."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "A second said:",
+        "\"There Regin lies, | and he lays plans",
+        "to betray the youth | who trusts him well;",
+        "lying words | he will speak with cunning,",
+        "till the maker of mischief | avenges his brother.\""
+       ]
+      }
      ]
     },
     {
@@ -2509,6 +2955,19 @@
       {
        "t": "p",
        "s": "By the head shorter, let him the hoary babbler send hence to Hel; then can he all the gold possess alone, the mass that under Fafnir lay."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "A third said:",
+        "\"Shorter by a head | let the grey old chatterer",
+        "go from here to hell;",
+        "then all of the wealth | he alone can command,",
+        "the gold that Fafnir guarded.\""
+       ]
       }
      ]
     },
@@ -2586,6 +3045,19 @@
        "t": "p",
        "s": "He would, methinks, be prudent, if he could have your friendly counsel, my sisters! If he would bethink himself, and Hugin gladden. There I expect the wolf, where his ears I see."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "A fourth said:",
+        "\"He would seem wise | if he would heed",
+        "the good advice | we sisters give;",
+        "he would take thought, | and gladden the ravens;",
+        "there is always a wolf | where I see his ears.\""
+       ]
+      }
      ]
     },
     {
@@ -2662,6 +3134,19 @@
        "t": "p",
        "s": "Not so prudent is that tree of battle, as I that martial leader had supposed, if he one brother lets depart, now he the other has of life bereft."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "A fifth said:",
+        "\"The tree of battle | must be less wise",
+        "than I would think | a leader of men,",
+        "if he lets | one brother go,",
+        "when he is | the other's killer.\""
+       ]
+      }
      ]
     },
     {
@@ -2733,6 +3218,19 @@
       {
        "t": "p",
        "s": "He is most simple, if he longer spares that people's pest. There lies Regin, who has betrayed him.—He cannot guard against it."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "A sixth said:",
+        "\"He seems most foolish | if he spares",
+        "his enemy, the bane of the people;",
+        "there Regin lies, | who has wronged him so,",
+        "yet he knows nothing of falsehood.\""
+       ]
       }
      ]
     },
@@ -2806,6 +3304,19 @@
        "t": "p",
        "s": "By the head shorter let him make the ice-cold Jotun, and of his rings deprive him; then of that treasure thou, which Fafnir owned, sole lord wilt be!"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "A seventh said:",
+        "\"Let the head be hewn | from the frost-cold giant,",
+        "and let him be robbed of rings;",
+        "then all the wealth | that was Fafnir's",
+        "will belong to you alone.\""
+       ]
+      }
      ]
     },
     {
@@ -2878,6 +3389,19 @@
        "t": "p",
        "s": "Fate shall not so resistless be, that Regin shall my death-word bear; for the brothers both shall speedily go hence to Hel."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Sigurth said:",
+        "\"Regin shall not have | so rich a fate",
+        "as to tell the tale of my death;",
+        "for soon both | the brothers shall die,",
+        "and go from here to hell.\""
+       ]
+      }
      ]
     },
     {
@@ -2909,6 +3433,12 @@
       {
        "t": "p",
        "s": "Sigurd cut off the head of Regin, and then ate Fafnir's heart, and drank the blood of both Regin and Fafnir. He then heard the eagles saying:"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Sigurth cut off Regin's head, and then he ate Fafnir's heart and drank the blood of both Regin and Fafnir. Then Sigurth heard what the nuthatch said:"
       }
      ]
     },
@@ -2969,6 +3499,18 @@
       {
        "t": "p",
        "s": "Bind thou, Sigurd! the red-gold rings. It is not kingly many things to fear. I a maid know by far the fairest, with gold adorned. Couldst thou but her obtain!"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "\"Bind the golden rings | together, Sigurth;",
+        "it is not kingly | to fear anything;",
+        "I know a maiden, | none is so fair,",
+        "rich in gold, | if you could win her."
+       ]
       }
      ]
     },
@@ -3034,6 +3576,18 @@
       {
        "t": "p",
        "s": "To Giuki lead all-verdant ways; the fates point out to wayfarers where the good king a born daughter has; her wilt thou, Sigurd! purchase with bridal gifts."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Green are the paths | that lead to Gjuki,",
+        "and his fate shows | the wanderer the way;",
+        "the valiant king | has a daughter,",
+        "whom you, Sigurth, | may buy as a bride.\""
+       ]
       }
      ]
     },
@@ -3101,6 +3655,19 @@
        "t": "p",
        "s": "There stands a hall on the high Hindarfiall, without 'tis all with fire surrounded; sagacious men have it constructed of the resplendent radiance of the flood."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "Another said:",
+        "\"A hall stands high | on Hindarfjoll,",
+        "all with flame | it is ringed outside;",
+        "wise warriors | made it once",
+        "out of the flaming | light of the flood."
+       ]
+      }
      ]
     },
     {
@@ -3166,6 +3733,18 @@
        "t": "p",
        "s": "On the fell I know a warrior maid to sleep, over her waves the linden's bane. Ygg whilom stuck a sleep-thorn in the robe of the maid who would heroes choose."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "\"On the mountain sleeps | a battle-maid,",
+        "and about her plays | the bane of the wood;",
+        "Ygg with the thorn | has struck her so,",
+        "for she felled the fighter | he wished to save."
+       ]
+      }
      ]
     },
     {
@@ -3225,6 +3804,18 @@
       {
        "t": "p",
        "s": "Thou, youth! mayest see the helmed maiden, her whom Vingskornir from battle bore. May not Sigrdrifa's slumber break the son of warriors, against the Norns' decrees."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "\"There you may see | the helmeted maiden,",
+        "who rode from the fight | on Vingskornir;",
+        "the victory-bringer | shall not break her sleep,",
+        "son of heroes, | so the Norns have decreed.\""
+       ]
       }
      ]
     },
