@@ -98,7 +98,7 @@
   },
   "tyr": {
    "kind": "person",
-   "subject": "Týr: a warrior whose right arm ends at the wrist, shown plainly and in front; a sword on his left side.",
+   "subject": "Týr: a warrior who has lost his RIGHT hand: the right arm ends at the wrist, shown plainly and in front. His LEFT hand is whole and holds a sword. Only one hand is missing.",
    "ref": true
   },
   "heimdall": {
@@ -108,7 +108,7 @@
   },
   "bragi": {
    "kind": "person",
-   "subject": "Bragi: an old poet with a very long beard; his instrument as in the reference.",
+   "subject": "Bragi: an old poet with a very long beard, reciting, one hand raised as he speaks. No musical instrument (the harp is a later idea, not in the sources).",
    "ref": true
   },
   "loki": {
@@ -165,7 +165,7 @@
   },
   "sif": {
    "kind": "person",
-   "subject": "Sif: very long hair of real metallic gold, the main thing in the picture; not blond.",
+   "subject": "Sif: very long hair of real metallic gold, the main thing in the picture; not blond. No scissors or shears (Loki cut her hair, not she).",
    "ref": true
   },
   "idunn": {
@@ -217,7 +217,7 @@
   },
   "gullveig": {
    "kind": "person",
-   "subject": "Gullveig: a woman standing unharmed in flames, spear shafts through her, gold on her.",
+   "subject": "Gullveig: a woman standing unharmed in flames, spear shafts through her; nothing in her hands (the gold is only in her name).",
    "ref": true
   },
   "kvasir": {
@@ -227,7 +227,7 @@
   },
   "fenrir": {
    "kind": "animal",
-   "subject": "Fenrir: a huge wolf bound with a thin silk ribbon, a sword propping the jaws open."
+   "subject": "Fenrir: a huge wolf bound with a thin silk-like ribbon; a sword set upright in his open jaws as a gag, the hilt against his lower jaw and the point against the roof of his mouth, holding the jaws apart."
   },
   "jormungandr": {
    "kind": "animal",
@@ -235,15 +235,15 @@
   },
   "sleipnir": {
    "kind": "animal",
-   "subject": "Sleipnir: Óðinn's grey horse with EIGHT legs: four pairs of legs, each pair side by side, all eight hooves clearly visible and countable, in side view. No rider."
+   "subject": "Sleipnir: Óðinn's grey horse with EIGHT legs: four pairs of legs, each pair side by side, all eight the same grey as the body, all eight hooves clearly visible and countable, in side view. No rider."
   },
   "nidhoggr": {
    "kind": "animal",
-   "subject": "Níðhöggr: a serpent-dragon gnawing a great tree root from below."
+   "subject": "Níðhöggr: a long scaly serpent-dragon, no fur, gnawing a great tree root from below."
   },
   "ratatoskr": {
    "kind": "animal",
-   "subject": "Ratatoskr: a squirrel running down the trunk of a great ash."
+   "subject": "Ratatoskr: an ordinary red squirrel, no clothes and no bag, running down the trunk of a great ash."
   },
   "eikthyrnir": {
    "kind": "animal",
@@ -251,7 +251,7 @@
   },
   "heidrun": {
    "kind": "animal",
-   "subject": "Heiðrún: a she-goat on a hall roof, mead running from her udder into a vat."
+   "subject": "Heiðrún: a she-goat standing on a hall roof, mead streaming from her udder down into a great vat below (a vat, not a chest)."
   },
   "gullinbursti": {
    "kind": "animal",
@@ -271,7 +271,7 @@
   },
   "fafnir": {
    "kind": "animal",
-   "subject": "Fáfnir: a dragon lying on a heap of gold."
+   "subject": "Fáfnir: a huge wingless serpent-dragon, long-bodied, coiled on a heap of gold (the Eddas call him a serpent; no wings)."
   },
   "yggdrasil": {
    "kind": "place",
@@ -279,7 +279,7 @@
   },
   "bifrost": {
    "kind": "place",
-   "subject": "Bifröst: the whole arc of the bridge from the earth to the gods' gate, its red band burning."
+   "subject": "Bifröst: the whole arc of the bridge from the earth to the gods' gate: a rainbow of three colours, its red band burning with fire."
   },
   "mjolnir": {
    "kind": "thing",
@@ -379,7 +379,7 @@
    "kind": "person",
    "subject": "A driver of a light across the sky.",
    "pair_of": "sol",
-   "differs": "Máni: a youth steering, silver light, two small children behind him."
+   "differs": "Máni: a youth steering, silver light; behind him two small children, a boy and a girl, carrying a pail on a pole between them (Bil and Hjúki)."
   },
   "dagr": {
    "kind": "person",
@@ -431,7 +431,7 @@
   },
   "magni": {
    "kind": "person",
-   "subject": "A son of Þórr.",
+   "subject": "Magni: a small boy only three nights old, of huge strength, lifting a giant's enormous stone leg with both hands. No hammer.",
    "pair": "modi",
    "differs": "Magni: a small child of huge strength."
   },
@@ -598,9 +598,9 @@
   },
   "gondul": {
    "kind": "person",
-   "subject": "One of two valkyries sent by Óðinn to choose a king for Valhöll, on horseback, in mail and helmet.",
+   "subject": "One of two valkyries sent by Óðinn to choose a king for Valhöll, on horseback, in mail and helmet, awake and alert.",
    "pair": "skogul",
-   "differs": "Göndul: leaning on her spear shaft, looking down at the field."
+   "differs": "Göndul: leaning forward in the saddle, spear in hand, eyes open, looking down at the battlefield."
   },
   "skogul": {
    "kind": "person",
@@ -672,7 +672,7 @@
   },
   "beli": {
    "kind": "person",
-   "subject": "Beli: a big rough fighter falling back, struck by a stag's antler (only the antler and a hand seen)."
+   "subject": "Beli: a huge wild giant reeling back from a blow; a stag's antler held like a weapon by a hand coming in from the edge of the frame (Freyr's). Beli holds no antler himself."
   },
   "bergelmir": {
    "kind": "person",
@@ -911,11 +911,11 @@
   },
   "draupnir": {
    "kind": "thing",
-   "subject": "Draupnir: a gold arm-ring from which eight equal rings drip like drops."
+   "subject": "Draupnir: a heavy closed gold arm-ring lying on a cloth, and eight smaller gold rings, all alike, falling from it like drops. Gold, not copper."
   },
   "gleipnir": {
    "kind": "thing",
-   "subject": "Gleipnir: a fetter as thin and smooth as a silk ribbon, lying in a loop on a stone."
+   "subject": "Gleipnir: a fetter as thin and smooth as a silk ribbon, lying loose on a stone, its two ends clearly visible; not a closed loop."
   },
   "grotti": {
    "kind": "thing",
@@ -1073,7 +1073,7 @@
   },
   "midgard": {
    "kind": "place",
-   "subject": "Miðgarðr: the inner earth of fields and farms ringed by a great fence like a line of eyebrow hair, the sea outside it."
+   "subject": "Miðgarðr: the inner earth of fields and farms ringed by a great fence like a line of eyebrow hair, the sea outside it with the coils of the World Serpent in it, and the rainbow bridge rising from the land to the sky."
   },
   "mimisbrunnr": {
    "kind": "place",
@@ -1085,7 +1085,7 @@
   },
   "niflheim": {
    "kind": "place",
-   "subject": "Niflheimr: a world of mist, frost and dark, icy rivers running out of it."
+   "subject": "Niflheimr: a dark world deep in mist and fog, frost and ice, the light dim and grey, icy rivers running out of it."
   },
   "noatun": {
    "kind": "place",
@@ -1173,7 +1173,7 @@
   },
   "nastrond": {
    "kind": "place",
-   "subject": "Náströnd: a hall far from the sun, its doors to the north, its walls woven of serpents' backs, venom running out of the door."
+   "subject": "Náströnd: a hall far from the sun, its doors to the north, its walls woven of serpents' backs; thin dark greenish venom dripping and running out of the door (poison, not fire or lava)."
   },
   "niflhel": {
    "kind": "place",
@@ -1319,7 +1319,7 @@
   },
   "otr": {
    "kind": "animal",
-   "subject": "Otr: an otter on a river bank eating a salmon with its eyes shut."
+   "subject": "Otr: an ordinary otter, no clothes, on a river bank eating a salmon with its eyes shut."
   },
   "sigmund": {
    "kind": "person",
@@ -1393,7 +1393,7 @@
   },
   "embla": {
    "kind": "person",
-   "subject": "Embla: the first woman, just made from a tree on the shore, bark still on one arm, opening her eyes.",
+   "subject": "Embla: the first woman, just shaped from a tree on the shore: bark and wood grain still on one arm, opening her eyes. No spinning tools.",
    "length": "three-quarter"
   },
   "ottar": {
