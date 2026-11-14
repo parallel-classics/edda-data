@@ -1,0 +1,1646 @@
+{
+ "_note": "Briefs for the portraits of the Mímir cards (images/portraits/BRIEF.md explains them). Read by edda-site/tools/gen_portraits.py. subjects: kind (person, animal, place, thing), subject (what must be seen), ref (a cut-out in ref/<id>.jpg is the character reference), length (three-quarter or whole, where half-length would lose the attribute), pair / pair_of + differs (the two are drawn in one sheet, facing each other). lights + relight: the prompt that turns a chosen picture into its dusk and night versions (gen_portraits.py --relight).",
+ "reference": "Use the attached picture only as the character reference: the same person, face, hair, clothing colours and objects. Redraw the figure alone. Do not copy the neighbours or the background.",
+ "rules": "Plain quiet background, the same in every panel. No text, no letters, no runes, no labels, no border, no frame, no signature, no other people. No horned or winged helmets; clothing and gear of the Viking Age.",
+ "format": {
+  "person": "A single figure, {length}, head centred in the width, the top of the head one eighth down from the top edge, the eyes one third down, the attribute in front and fully visible inside the central square.",
+  "animal": "The whole animal alone, filling most of the frame, its most telling outline clear.",
+  "place": "The whole of it alone, one clear shape filling most of the frame.",
+  "thing": "The object alone, lying or hanging, no hand, filling most of the frame."
+ },
+ "poses": {
+  "person": [
+   "three-quarter view facing slightly left, calm, the attribute held in front",
+   "facing the viewer directly, still",
+   "in the middle of the act the figure is known for, the attribute in use",
+   "seated or at rest, a little further back so that more of the figure shows"
+  ],
+  "animal": [
+   "side view, standing",
+   "side view, in motion",
+   "three-quarter view, the head towards the viewer",
+   "at rest"
+  ],
+  "place": [
+   "seen from the front, whole",
+   "seen from slightly below, whole",
+   "closer, on the most telling part",
+   "whole, from a little further away"
+  ],
+  "thing": [
+   "seen from the front",
+   "seen at an angle",
+   "closer, on the most telling detail",
+   "in use, without any person"
+  ]
+ },
+ "styles": {
+  "A": {
+   "name": "The plates' own style",
+   "ref_style": true,
+   "text": "Painted illustration with fine ink outline, muted earth colours (ochre, rust red, slate blue, moss green) on warm parchment, soft flat light, small touches of gold; the same hand as the attached reference. Background: bare warm parchment with a faint wash behind the figure."
+  },
+  "B": {
+   "name": "Woodcut / linocut",
+   "text": "Hand-printed linocut: bold black outline and carved hatching, three flat colours only (black, one rust red, one muted blue-green) on cream paper, slight unevenness of ink as in a real print. Strong simple shapes, almost no background: a few carved lines for ground or sky."
+  },
+  "C": {
+   "name": "Icelandic paper manuscript",
+   "text": "In the manner of the illustrated Icelandic Edda manuscripts of the 17th and 18th centuries: naive pen drawing in brown-black ink with flat watercolour washes (red, yellow ochre, blue, green), stiff charm, simple faces, plain laid paper with slight foxing. No lettering anywhere."
+  },
+  "D": {
+   "name": "Viking Age ornament",
+   "text": "Flat stylised figure in the manner of Viking Age picture stones and metalwork: clear silhouette, interlace and ribbon ornament inside the shapes, limited palette of stone grey, iron black, red ochre and a little gold, on a rough pale stone ground. Still readable as a person or animal at a glance."
+  },
+  "E": {
+   "name": "Book illustration, about 1900",
+   "text": "Ink-and-watercolour book illustration in the Nordic manner of about 1900: confident pen line, large calm areas of muted colour, a low horizon or a single tree or wave as setting, an art-nouveau sense of design without ornament borders. Dignified, a little melancholy."
+  },
+  "B2": {
+   "name": "Linocut, winter",
+   "text": "Hand-printed linocut: bold outline and carved hatching, slight unevenness of ink as in a real print. Strong simple shapes, almost no background: a few carved lines for ground or sky. Three flat colours only: black, slate blue and a pale grey-blue, on cool white paper. A cold, quiet northern light."
+  },
+  "B3": {
+   "name": "Linocut, ochre and moss",
+   "text": "Hand-printed linocut: bold outline and carved hatching, slight unevenness of ink as in a real print. Strong simple shapes, almost no background: a few carved lines for ground or sky. Three flat colours only: black, yellow ochre and moss green, on cream paper. Warm, earthy, like late summer."
+  },
+  "B4": {
+   "name": "Linocut, indigo and gold",
+   "text": "Hand-printed linocut: bold outline and carved hatching, slight unevenness of ink as in a real print. Strong simple shapes, almost no background: a few carved lines for ground or sky. The key block in deep indigo instead of black; two more flat colours only: gold ochre and a soft brick red, on warm off-white paper."
+  },
+  "B5": {
+   "name": "Linocut, hand-coloured",
+   "text": "Hand-printed linocut: bold outline and carved hatching, slight unevenness of ink as in a real print. Strong simple shapes, almost no background: a few carved lines for ground or sky. The print in black only, then hand-tinted with thin, uneven watercolour washes in muted natural colours (any colours the subject needs), the paper showing through."
+  }
+ },
+ "test": [
+  "odin",
+  "freyja",
+  "huginn",
+  "fenrir",
+  "yggdrasil"
+ ],
+ "subjects": {
+  "odin": {
+   "kind": "person",
+   "subject": "Óðinn: an old man with one eye. The other eye is gone, given for a drink from Mímir's well: an empty, sunken eye socket, closed, with an old scar across the lid, shown openly. No eye patch, no band, no cover over it, and not hidden by the hat brim (the reference wrongly shows a patch; do not copy it). Grey beard, dark blue cloak and wide hat; the spear Gungnir upright in his hand; a gold arm-ring. No ravens and no wolves in the picture.",
+   "ref": true
+  },
+  "thor": {
+   "kind": "person",
+   "subject": "Þórr: red beard, broad; the hammer Mjöllnir with its short handle raised to the chest in an iron glove; the belt of strength.",
+   "ref": true
+  },
+  "baldur": {
+   "kind": "person",
+   "subject": "Baldr: young, fair, light coming from him (a pale glow on hair and skin, not a halo disc); a sprig of mistletoe near him.",
+   "ref": true
+  },
+  "tyr": {
+   "kind": "person",
+   "subject": "Týr: a warrior whose right arm ends at the wrist, shown plainly and in front; a sword on his left side.",
+   "ref": true
+  },
+  "heimdall": {
+   "kind": "person",
+   "subject": "Heimdallr: the watchman with the great horn Gjallarhorn held across the chest; golden teeth showing in a slight smile.",
+   "ref": true
+  },
+  "bragi": {
+   "kind": "person",
+   "subject": "Bragi: an old poet with a very long beard; his instrument as in the reference.",
+   "ref": true
+  },
+  "loki": {
+   "kind": "person",
+   "subject": "Loki: slight, sharp-faced, a sideways look; old stitch scars across the lips; a fishing net over his arm.",
+   "ref": true
+  },
+  "hodr": {
+   "kind": "person",
+   "subject": "Höðr: blind, eyes closed or bound; one hand out before him; a shaft of mistletoe in the other.",
+   "ref": true
+  },
+  "vidarr": {
+   "kind": "person",
+   "subject": "Víðarr: silent and strong, mouth firmly shut; one foot forward in a thick heavy shoe, which must be in the picture.",
+   "ref": true,
+   "length": "three-quarter"
+  },
+  "vali": {
+   "kind": "person",
+   "subject": "Váli: a very young archer, bow held ready.",
+   "ref": true
+  },
+  "ull": {
+   "kind": "person",
+   "subject": "Ullr: skis on his shoulder, a bow, a shield.",
+   "ref": true
+  },
+  "forseti": {
+   "kind": "person",
+   "subject": "Forseti: the judge, seated, calm, one open hand; a pillar of gold and a roof of silver hinted behind him.",
+   "ref": true
+  },
+  "h-nir": {
+   "kind": "person",
+   "subject": "Hœnir: tall, long-legged, handsome, hesitant; as in the reference.",
+   "ref": true,
+   "length": "three-quarter"
+  },
+  "mimir": {
+   "kind": "person",
+   "subject": "Mímir: an old man, head and shoulders, by a well, drinking from a horn.",
+   "ref": true
+  },
+  "frigg": {
+   "kind": "person",
+   "subject": "Frigg: the queen, enthroned, as in the reference.",
+   "ref": true
+  },
+  "fulla": {
+   "kind": "person",
+   "subject": "Fulla: a girl with loose hair and a gold band round her head, carrying a small casket.",
+   "ref": true
+  },
+  "sif": {
+   "kind": "person",
+   "subject": "Sif: very long hair of real metallic gold, the main thing in the picture; not blond.",
+   "ref": true
+  },
+  "idunn": {
+   "kind": "person",
+   "subject": "Iðunn: holding an open box of apples in front of her.",
+   "ref": true
+  },
+  "gefjon": {
+   "kind": "person",
+   "subject": "Gefjun: with a plough and the heads of her oxen beside her.",
+   "ref": true
+  },
+  "skadi": {
+   "kind": "person",
+   "subject": "Skaði: a huntress on skis in snow, bow in hand, a mountain line behind.",
+   "ref": true
+  },
+  "saga": {
+   "kind": "person",
+   "subject": "Sága: lifting a gold cup; a second gold cup beside her; water behind.",
+   "ref": true
+  },
+  "gna": {
+   "kind": "person",
+   "subject": "Gná: riding through the air on her horse, hair and cloak blown back.",
+   "ref": true,
+   "length": "whole"
+  },
+  "eir": {
+   "kind": "person",
+   "subject": "Eir: the healer; herbs and bowl as in the reference.",
+   "ref": true
+  },
+  "njordr": {
+   "kind": "person",
+   "subject": "Njörðr: an older man barefoot on the shore, the bare feet in the picture; a ship's prow hinted.",
+   "ref": true,
+   "length": "three-quarter"
+  },
+  "freyr": {
+   "kind": "person",
+   "subject": "Freyr: bright, with a sheaf of corn; in his hand a stag's antler in place of a sword.",
+   "ref": true
+  },
+  "freyja": {
+   "kind": "person",
+   "subject": "Freyja: the great necklace Brísingamen on her breast; a cloak of falcon feathers on her shoulders; a tear of red gold on her cheek; one cat at her side.",
+   "ref": true
+  },
+  "gullveig": {
+   "kind": "person",
+   "subject": "Gullveig: a woman standing unharmed in flames, spear shafts through her, gold on her.",
+   "ref": true
+  },
+  "kvasir": {
+   "kind": "person",
+   "subject": "Kvasir: the wise one, as in the reference.",
+   "ref": true
+  },
+  "fenrir": {
+   "kind": "animal",
+   "subject": "Fenrir: a huge wolf bound with a thin silk ribbon, a sword propping the jaws open."
+  },
+  "jormungandr": {
+   "kind": "animal",
+   "subject": "The Miðgarðr serpent: one great coil ringing the sea, biting its own tail."
+  },
+  "sleipnir": {
+   "kind": "animal",
+   "subject": "Sleipnir: Óðinn's grey horse with EIGHT legs: four pairs of legs, each pair side by side, all eight hooves clearly visible and countable, in side view. No rider."
+  },
+  "nidhoggr": {
+   "kind": "animal",
+   "subject": "Níðhöggr: a serpent-dragon gnawing a great tree root from below."
+  },
+  "ratatoskr": {
+   "kind": "animal",
+   "subject": "Ratatoskr: a squirrel running down the trunk of a great ash."
+  },
+  "eikthyrnir": {
+   "kind": "animal",
+   "subject": "Eikþyrnir: a hart standing on a hall roof, water dripping from its antlers."
+  },
+  "heidrun": {
+   "kind": "animal",
+   "subject": "Heiðrún: a she-goat on a hall roof, mead running from her udder into a vat."
+  },
+  "gullinbursti": {
+   "kind": "animal",
+   "subject": "Gullinbursti: a boar with bristles of shining gold."
+  },
+  "gulltoppr": {
+   "kind": "animal",
+   "subject": "Gulltoppr: a horse with a forelock of gold."
+  },
+  "audumbla": {
+   "kind": "animal",
+   "subject": "Auðumbla: the first cow, licking a man's head out of a block of salty ice."
+  },
+  "garmr": {
+   "kind": "animal",
+   "subject": "Garmr: a great hound chained before the mouth of a cave, howling."
+  },
+  "fafnir": {
+   "kind": "animal",
+   "subject": "Fáfnir: a dragon lying on a heap of gold."
+  },
+  "yggdrasil": {
+   "kind": "place",
+   "subject": "Yggdrasill: the whole world-ash, crown, trunk and three roots; an eagle at the top, a serpent at the root, a squirrel on the trunk, all small."
+  },
+  "bifrost": {
+   "kind": "place",
+   "subject": "Bifröst: the whole arc of the bridge from the earth to the gods' gate, its red band burning."
+  },
+  "mjolnir": {
+   "kind": "thing",
+   "subject": "Mjöllnir: a hammer with a short handle."
+  },
+  "gungnir": {
+   "kind": "thing",
+   "subject": "Gungnir: a spear."
+  },
+  "gjallarhorn": {
+   "kind": "thing",
+   "subject": "Gjallarhorn: a great horn."
+  },
+  "mead-of-poetry": {
+   "kind": "thing",
+   "subject": "The mead of poetry: a kettle and two vats of dark mead."
+  },
+  "huginn": {
+   "kind": "animal",
+   "subject": "One of Óðinn's two ravens.",
+   "pair": "munin",
+   "differs": "Huginn (Thought): leaning forward, wings half open, about to take off, beak open, looking ahead; a blue sheen on the black."
+  },
+  "munin": {
+   "kind": "animal",
+   "subject": "One of Óðinn's two ravens.",
+   "pair_of": "huginn",
+   "differs": "Muninn (Memory): perched still, wings closed, head turned back over the shoulder, looking behind; a warm bronze sheen on the black."
+  },
+  "geri": {
+   "kind": "animal",
+   "subject": "One of Óðinn's two wolves.",
+   "pair": "freki",
+   "differs": "Geri: grey, lying over a bone, head low, eyes up."
+  },
+  "freki": {
+   "kind": "animal",
+   "subject": "One of Óðinn's two wolves.",
+   "pair_of": "geri",
+   "differs": "Freki: darker, standing, jaws open, tongue out."
+  },
+  "skoll": {
+   "kind": "animal",
+   "subject": "A wolf running across the sky.",
+   "pair": "hati",
+   "differs": "Sköll: rust-red, lit from in front by warm gold light (the sun just out of frame)."
+  },
+  "hati": {
+   "kind": "animal",
+   "subject": "A wolf running across the sky.",
+   "pair_of": "skoll",
+   "differs": "Hati: grey-blue, lit from in front by cold silver light (the moon just out of frame)."
+  },
+  "arvakr": {
+   "kind": "animal",
+   "subject": "One of the two horses that pull the sun; a bellows fixed under the shoulder.",
+   "pair": "alsvidr",
+   "differs": "Árvakr (Early-Wake): head high, ears pricked, pale gold."
+  },
+  "alsvidr": {
+   "kind": "animal",
+   "subject": "One of the two horses that pull the sun; a bellows fixed under the shoulder.",
+   "pair_of": "arvakr",
+   "differs": "Alsviðr (All-Swift): neck stretched in full gallop, deeper red-gold."
+  },
+  "skinfaxi": {
+   "kind": "animal",
+   "subject": "A horse crossing the sky.",
+   "pair": "hrimfaxi",
+   "differs": "Skinfaxi, the horse of Day: bright, the mane shining and lighting the sky."
+  },
+  "hrimfaxi": {
+   "kind": "animal",
+   "subject": "A horse crossing the sky.",
+   "pair_of": "skinfaxi",
+   "differs": "Hrímfaxi, the horse of Night: dark, mane white with frost, foam dropping from the bit as dew."
+  },
+  "tanngnjostr": {
+   "kind": "animal",
+   "subject": "One of the two he-goats that pull Þórr's chariot.",
+   "pair": "tanngrisnir",
+   "differs": "Tanngnjóstr: head lowered to butt, teeth bared."
+  },
+  "tanngrisnir": {
+   "kind": "animal",
+   "subject": "One of the two he-goats that pull Þórr's chariot.",
+   "pair_of": "tanngnjostr",
+   "differs": "Tanngrisnir: head up, jaw set sideways as if grinding."
+  },
+  "sol": {
+   "kind": "person",
+   "subject": "A driver of a light across the sky.",
+   "pair": "mani",
+   "differs": "Sól: a girl driving, reins in hand, gold light, hair flying."
+  },
+  "mani": {
+   "kind": "person",
+   "subject": "A driver of a light across the sky.",
+   "pair_of": "sol",
+   "differs": "Máni: a youth steering, silver light, two small children behind him."
+  },
+  "dagr": {
+   "kind": "person",
+   "subject": "A rider who circles the earth.",
+   "pair": "nott",
+   "differs": "Dagr (Day): fair and bright."
+  },
+  "nott": {
+   "kind": "person",
+   "subject": "A rider who circles the earth.",
+   "pair_of": "dagr",
+   "differs": "Nótt (Night): dark, cloaked in stars."
+  },
+  "fenja": {
+   "kind": "person",
+   "subject": "One of two giant maids turning a great hand-mill.",
+   "pair": "menja",
+   "differs": "Fenja: pushing the mill handle."
+  },
+  "menja": {
+   "kind": "person",
+   "subject": "One of two giant maids turning a great hand-mill.",
+   "pair_of": "fenja",
+   "differs": "Menja: pulling it, singing."
+  },
+  "brokkr": {
+   "kind": "person",
+   "subject": "A dwarf smith at the forge.",
+   "pair": "sindri",
+   "differs": "Brokkr: working the bellows, a fly on his eyelid."
+  },
+  "sindri": {
+   "kind": "person",
+   "subject": "A dwarf smith at the forge.",
+   "pair_of": "brokkr",
+   "differs": "Sindri: at the anvil with tongs."
+  },
+  "fjalar": {
+   "kind": "person",
+   "subject": "A sly dwarf.",
+   "pair": "galar",
+   "differs": "Fjalar: holding a knife."
+  },
+  "galar": {
+   "kind": "person",
+   "subject": "A sly dwarf.",
+   "pair_of": "fjalar",
+   "differs": "Galar: holding a vat."
+  },
+  "magni": {
+   "kind": "person",
+   "subject": "A son of Þórr.",
+   "pair": "modi",
+   "differs": "Magni: a small child of huge strength."
+  },
+  "modi": {
+   "kind": "person",
+   "subject": "A son of Þórr.",
+   "pair_of": "magni",
+   "differs": "Móði: older, fierce."
+  },
+  "dellingr": {
+   "kind": "person",
+   "subject": "Dellingr: a bright, fair god standing in the doorway of his hall at first light, the doors open behind him."
+  },
+  "hermodr": {
+   "kind": "person",
+   "subject": "Hermóðr the Bold: a young rider leaning forward in the saddle of a grey horse, riding down a dark valley; a bridge roofed with gold far ahead.",
+   "length": "whole"
+  },
+  "nanna": {
+   "kind": "person",
+   "subject": "Nanna: a young wife in grief, a linen robe folded over her arm and a gold finger-ring in her open hand; a ship's prow hinted behind."
+  },
+  "odr": {
+   "kind": "person",
+   "subject": "Óðr: a traveller seen walking away along a road, cloak and staff, looking back once over his shoulder."
+  },
+  "rig": {
+   "kind": "person",
+   "subject": "Rígr: an old, wise and strong wanderer with a staff, walking along the seashore; three farmsteads small in the distance.",
+   "length": "three-quarter"
+  },
+  "ve": {
+   "kind": "person",
+   "subject": "Vé: a young god, brother of Óðinn, kneeling to shape a human figure out of a piece of driftwood on the shore.",
+   "length": "three-quarter"
+  },
+  "fjorgyn": {
+   "kind": "person",
+   "subject": "Fjörgyn: Earth as a mother, a strong woman in green and brown, oak leaves in her hair, rock and turf rising behind her."
+  },
+  "annar": {
+   "kind": "person",
+   "subject": "Annarr: a quiet man in a dark cloak under the evening sky, holding a clod of earth with a green shoot in it."
+  },
+  "lodurr": {
+   "kind": "person",
+   "subject": "Lóðurr: a god breathing warmth into his cupped hands, a red glow between them lighting his face."
+  },
+  "glenr": {
+   "kind": "person",
+   "subject": "Glenr: a man looking up, his face lit gold from above by the sun, one hand shading his eyes."
+  },
+  "fensalir": {
+   "kind": "place",
+   "subject": "Fensalir: a great timber hall standing in fenland among water and reeds, mist round it."
+  },
+  "gerdr": {
+   "kind": "person",
+   "subject": "Gerðr: a giant's daughter lifting her arms to open a door, light shining from her bare arms over sea and sky."
+  },
+  "hel": {
+   "kind": "person",
+   "subject": "Hel: a woman whose body is divided down the middle, one half dark blue-black, the other the colour of living flesh; stern, downcast, seated in a dim hall."
+  },
+  "hnoss": {
+   "kind": "person",
+   "subject": "Hnoss: a young girl of great beauty holding a jewel in both hands, which shines on her face."
+  },
+  "jord": {
+   "kind": "person",
+   "subject": "Jörð: Earth as a woman, broad and calm, a cloak of grass and field strips, hills as her shoulders' line behind."
+  },
+  "laufey": {
+   "kind": "person",
+   "subject": "Laufey: a slender woman, thin as a needle, with leaves in her hair."
+  },
+  "sigyn": {
+   "kind": "person",
+   "subject": "Sigyn: a woman standing with a bowl held out at arm's length to catch drops of venom falling from a snake above; patient, tired."
+  },
+  "thrudr": {
+   "kind": "person",
+   "subject": "Þrúðr: a strong young woman with her father's red hair and her mother's gold in the braid."
+  },
+  "menglodr": {
+   "kind": "person",
+   "subject": "Menglöð: a maiden with a great necklace, seated in a hall ringed by flickering flame, waiting, looking towards the door."
+  },
+  "brynhild": {
+   "kind": "person",
+   "subject": "Brynhildr: a valkyrie in a mail-coat and helmet, standing inside a ring of fire, a sword point down before her."
+  },
+  "sigrdrifa": {
+   "kind": "person",
+   "subject": "Sigrdrífa: a helmeted woman in mail asleep on a mountain top behind a wall of shields, a banner above."
+  },
+  "hildr": {
+   "kind": "person",
+   "subject": "Hildr: a valkyrie with shield and spear, one hand raised as if calling the fallen to stand up again."
+  },
+  "reginleif": {
+   "kind": "person",
+   "subject": "Reginleif: a valkyrie in a long dress carrying a large jug of ale in both hands."
+  },
+  "hervor-alvitr": {
+   "kind": "person",
+   "subject": "Hervör alvitr: a young woman sitting by a lake spinning flax, a garment of white swan feathers lying beside her."
+  },
+  "alviss": {
+   "kind": "person",
+   "subject": "Alvíss: a dwarf, pale round the nose as if he had lain among the dead, one finger raised in answer; the first ray of dawn touching him."
+  },
+  "andvari": {
+   "kind": "person",
+   "subject": "Andvari: a dwarf crouching on a rock under a waterfall, clutching one gold ring to his chest; a pike in the pool below."
+  },
+  "durinn": {
+   "kind": "person",
+   "subject": "Durinn: an old dwarf shaping a small man-like figure out of earth with his hands."
+  },
+  "ivaldi": {
+   "kind": "person",
+   "subject": "Ívaldi: an old dwarf father standing behind a workbench on which lie a small ship and a spearhead."
+  },
+  "regin": {
+   "kind": "person",
+   "subject": "Reginn: a smith small as a dwarf, wise and fierce, holding up a new-forged sword and looking along its edge."
+  },
+  "blain": {
+   "kind": "person",
+   "subject": "Bláinn: a huge dark-blue figure lying still on the ground like a ridge of rock."
+  },
+  "dvalinn": {
+   "kind": "person",
+   "subject": "Dvalinn: a dwarf cutting runes into a stone slab with a knife (the marks only strokes, not readable letters)."
+  },
+  "hraesvelgr": {
+   "kind": "animal",
+   "subject": "Hræsvelgr: a giant in the shape of an enormous eagle sitting at the edge of the sky, wings half spread, wind streaming out from under them."
+  },
+  "managarmr": {
+   "kind": "animal",
+   "subject": "Mánagarmr: a monstrous wolf leaping at the moon, its jaws red, the sky behind spattered with red."
+  },
+  "saehrimnir": {
+   "kind": "animal",
+   "subject": "Sæhrímnir: a great boar standing whole and alive beside a huge cooking kettle."
+  },
+  "vedrfolnir": {
+   "kind": "animal",
+   "subject": "Veðrfölnir: a pale hawk perched between the eyes of a great eagle, of which only the head is seen."
+  },
+  "aegir": {
+   "kind": "person",
+   "subject": "One of the couple who rule the sea, standing waist-deep in the waves.",
+   "pair": "ran",
+   "differs": "Ægir: a big sea-giant host with a beard like foam, holding a brimming ale-horn; a hall lit by gold behind him."
+  },
+  "ran": {
+   "kind": "person",
+   "subject": "One of the couple who rule the sea, standing waist-deep in the waves.",
+   "pair_of": "aegir",
+   "differs": "Rán: a cold-eyed sea-woman hauling a wide net out of the water."
+  },
+  "gondul": {
+   "kind": "person",
+   "subject": "One of two valkyries sent by Óðinn to choose a king for Valhöll, on horseback, in mail and helmet.",
+   "pair": "skogul",
+   "differs": "Göndul: leaning on her spear shaft, looking down at the field."
+  },
+  "skogul": {
+   "kind": "person",
+   "subject": "One of two valkyries sent by Óðinn to choose a king for Valhöll, on horseback, in mail and helmet.",
+   "pair_of": "gondul",
+   "differs": "Skögul: shield raised, pointing the way upward."
+  },
+  "hrist": {
+   "kind": "person",
+   "subject": "One of the two valkyries who bear the drinking horn to Óðinn in Valhöll, in a long dress, no armour.",
+   "pair": "mist",
+   "differs": "Hrist: holding the horn out in both hands."
+  },
+  "mist": {
+   "kind": "person",
+   "subject": "One of the two valkyries who bear the drinking horn to Óðinn in Valhöll, in a long dress, no armour.",
+   "pair_of": "hrist",
+   "differs": "Mist: carrying the horn against her shoulder, a pitcher in the other hand."
+  },
+  "austri": {
+   "kind": "person",
+   "subject": "One of the four dwarves the gods set under the four corners of the sky: a stocky dwarf bent under the edge of the sky, which rests on his shoulders and hands like a great bowl.",
+   "set": "sky-dwarves",
+   "differs": "Austri (East): in the red-gold light of dawn."
+  },
+  "sudri": {
+   "kind": "person",
+   "subject": "One of the four dwarves the gods set under the four corners of the sky: a stocky dwarf bent under the edge of the sky, which rests on his shoulders and hands like a great bowl.",
+   "set": "sky-dwarves",
+   "differs": "Suðri (South): in the white light of noon."
+  },
+  "vestri": {
+   "kind": "person",
+   "subject": "One of the four dwarves the gods set under the four corners of the sky: a stocky dwarf bent under the edge of the sky, which rests on his shoulders and hands like a great bowl.",
+   "set": "sky-dwarves",
+   "differs": "Vestri (West): in the orange light of dusk."
+  },
+  "nordri": {
+   "kind": "person",
+   "subject": "One of the four dwarves the gods set under the four corners of the sky: a stocky dwarf bent under the edge of the sky, which rests on his shoulders and hands like a great bowl.",
+   "set": "sky-dwarves",
+   "differs": "Norðri (North): in the blue dark of night, with stars."
+  },
+  "svafa": {
+   "kind": "person",
+   "subject": "The valkyrie beloved of Helgi, one woman born three times: the same face in every panel, riding through the air over the sea, in mail.",
+   "set": "helgi-brides",
+   "differs": "Sváfa: fair, holding out a sword with a ring in the hilt."
+  },
+  "sigrun": {
+   "kind": "person",
+   "subject": "The valkyrie beloved of Helgi, one woman born three times: the same face in every panel, riding through the air over the sea, in mail.",
+   "set": "helgi-brides",
+   "differs": "Sigrún: in a dark cloak, sheltering ships below her from a storm."
+  },
+  "kara": {
+   "kind": "person",
+   "subject": "The valkyrie beloved of Helgi, one woman born three times: the same face in every panel, riding through the air over the sea, in mail.",
+   "set": "helgi-brides",
+   "differs": "Kára: the same woman, with the wings of a swan."
+  },
+  "angrboda": {
+   "kind": "person",
+   "subject": "Angrboða: a grim giantess of the iron wood; at her feet a wolf cub, a small snake and a little girl half dark, half pale, all very small."
+  },
+  "baugi": {
+   "kind": "person",
+   "subject": "Baugi: a giant farmer boring into a rock face with a long auger; scythes lying in the grass."
+  },
+  "beli": {
+   "kind": "person",
+   "subject": "Beli: a big rough fighter falling back, struck by a stag's antler (only the antler and a hand seen)."
+  },
+  "bergelmir": {
+   "kind": "person",
+   "subject": "Bergelmir: an ancient frost giant with his wife in a hollowed wooden chest like a boat, riding a dark red flood.",
+   "length": "whole"
+  },
+  "borr": {
+   "kind": "person",
+   "subject": "Borr: a strong early man, plain, fatherly, standing on new bare ground; ice melting behind him."
+  },
+  "farbauti": {
+   "kind": "person",
+   "subject": "Fárbauti: a giant striking fire, a bolt of lightning in his raised fist."
+  },
+  "fjolsvidr": {
+   "kind": "person",
+   "subject": "Fjölsviðr: a surly gatekeeper before a barred gate ringed with flame, two hounds at his side."
+  },
+  "geirrodr": {
+   "kind": "person",
+   "subject": "Geirröðr: a crafty giant holding a glowing lump of iron in tongs, about to throw it."
+  },
+  "gunnlod": {
+   "kind": "person",
+   "subject": "Gunnlöð: a giant's daughter seated on a golden chair inside a mountain, guarding a kettle of mead, sad."
+  },
+  "gymir": {
+   "kind": "person",
+   "subject": "Gymir: a rich giant before his courts; fierce dogs chained at the gate, a ring of flickering fire round the hall."
+  },
+  "hrimgerdr": {
+   "kind": "person",
+   "subject": "Hrímgerðr: a giantess wading in the sea by a ship, turning to grey stone from the feet up as the sun rises.",
+   "length": "three-quarter"
+  },
+  "hrungnir": {
+   "kind": "person",
+   "subject": "Hrungnir: the strongest giant, his head of stone, a stone shield before him and a whetstone raised to throw.",
+   "length": "three-quarter"
+  },
+  "hrym": {
+   "kind": "person",
+   "subject": "Hrymr: an old giant at the steering oar of a ship, his shield raised before him, coming out of the east."
+  },
+  "hymir": {
+   "kind": "person",
+   "subject": "Hymir: a giant with icicles in his beard, in a rowing boat, a knife in his hand, cutting a taut fishing line.",
+   "length": "three-quarter"
+  },
+  "hyndla": {
+   "kind": "person",
+   "subject": "Hyndla: a giantess at the mouth of her cave at night, astride a wolf.",
+   "length": "whole"
+  },
+  "hyrrokkin": {
+   "kind": "person",
+   "subject": "Hyrrokkin: a giantess riding a huge wolf, the reins a live viper.",
+   "length": "whole"
+  },
+  "jarnsaxa": {
+   "kind": "person",
+   "subject": "Járnsaxa: a giantess with an iron knife in her belt, a small very strong boy on her arm."
+  },
+  "narfi": {
+   "kind": "person",
+   "subject": "Narfi: a giant of the dark, his cloak and long hair the night sky itself, with stars in them; his face pale and grey in the starlight; not a human skin colour."
+  },
+  "rindr": {
+   "kind": "person",
+   "subject": "Rindr: a proud woman in a western hall holding a newborn son who already grips an arrow."
+  },
+  "skrymir": {
+   "kind": "person",
+   "subject": "Skrýmir: a giant so huge that he lies asleep like a hill among the trees; near him his glove, big as a hall, with tiny travellers at its opening.",
+   "length": "whole"
+  },
+  "surtr": {
+   "kind": "person",
+   "subject": "Surtr: a towering fire giant whose body is black, charred rock with glowing cracks of ember, like cooling lava, holding up a flaming sword brighter than the sun; not a human skin colour, a being of fire and soot.",
+   "length": "three-quarter"
+  },
+  "suttungr": {
+   "kind": "person",
+   "subject": "Suttungr: an angry giant on a tide-washed skerry, carrying a kettle and two vats away."
+  },
+  "thjazi": {
+   "kind": "animal",
+   "subject": "Þjazi: a giant in the shape of a huge eagle in flight, the tips of his feathers on fire."
+  },
+  "thokk": {
+   "kind": "person",
+   "subject": "Þökk: an old giantess sitting in a cave mouth, arms folded, dry-eyed, a sly look."
+  },
+  "thrymr": {
+   "kind": "person",
+   "subject": "Þrymr: the lord of the giants sitting on a mound, twisting golden leashes for his hounds.",
+   "length": "three-quarter"
+  },
+  "utgarda-loki": {
+   "kind": "person",
+   "subject": "Útgarða-Loki: a giant king on a high seat in a vast hall, smiling, one hand open as if showing a trick."
+  },
+  "vafthrudnir": {
+   "kind": "person",
+   "subject": "Vafþrúðnir: an old all-wise giant seated on a bench in his hall, one finger raised, his head wagered."
+  },
+  "ymir": {
+   "kind": "person",
+   "subject": "Ymir: the first giant, vast and pale, asleep on the rime between ice and fire.",
+   "length": "whole"
+  },
+  "bestla": {
+   "kind": "person",
+   "subject": "Bestla: a giant's daughter, mother of gods, three small boys at her knee."
+  },
+  "gilling": {
+   "kind": "person",
+   "subject": "Gillingr: a heavy giant in a small rowing boat that is tipping over on the sea.",
+   "length": "whole"
+  },
+  "aurboda": {
+   "kind": "person",
+   "subject": "Aurboða: a tall giantess of the hill-giants' kin, grey as rock, standing in a mountain doorway."
+  },
+  "idi": {
+   "kind": "person",
+   "subject": "Iði: a giant with his mouth full of gold, gold pieces between his fingers."
+  },
+  "bolthorn": {
+   "kind": "person",
+   "subject": "Bölþorn: an old giant, thorny and hard-faced, a thorn branch as his staff."
+  },
+  "byleistr": {
+   "kind": "person",
+   "subject": "Býleistr: a storm-coloured giant, lightning in the cloud behind him."
+  },
+  "gridr": {
+   "kind": "person",
+   "subject": "Gríðr: a friendly giantess holding out a staff, a belt and a pair of iron gloves."
+  },
+  "hati-giant": {
+   "kind": "person",
+   "subject": "Hati the giant: a mighty giant sitting on a mountain top above a fjord with ships."
+  },
+  "mokkurkalfi": {
+   "kind": "person",
+   "subject": "Mökkurkálfi: an enormous man of wet clay standing stiff with fear, knees knocking.",
+   "length": "whole"
+  },
+  "sinmara": {
+   "kind": "person",
+   "subject": "Sinmara: a pale shadowy woman sitting beside an iron chest fastened with nine locks."
+  },
+  "naglfari": {
+   "kind": "person",
+   "subject": "Naglfari: a dark man at the stern of a ship at nightfall."
+  },
+  "brimir": {
+   "kind": "place",
+   "subject": "Brimir: a warm beer-hall standing in a land that never freezes, light in the door."
+  },
+  "norns": {
+   "kind": "person",
+   "subject": "The norns: three women, old, grown and young, at a well under a great ash, one thread running through all their hands.",
+   "length": "whole"
+  },
+  "grani": {
+   "kind": "animal",
+   "subject": "Grani: a grey horse loaded with two chests of gold, head hanging low to the grass."
+  },
+  "svadilfari": {
+   "kind": "animal",
+   "subject": "Svaðilfari: a powerful black stallion hauling a sledge of huge stones by night."
+  },
+  "gullfaxi": {
+   "kind": "animal",
+   "subject": "Gullfaxi: a galloping horse with a mane of gold."
+  },
+  "hofvarpnir": {
+   "kind": "animal",
+   "subject": "Hófvarpnir: a horse galloping through the air above sea and cloud, no wings."
+  },
+  "dokkalfar": {
+   "kind": "person",
+   "subject": "A dark-elf: a small figure blacker than pitch, down in the earth among roots, only eyes and a glint of metal showing."
+  },
+  "ljosalfar": {
+   "kind": "person",
+   "subject": "A light-elf: a slender figure fairer than the sun, light coming from it, high in the sky."
+  },
+  "einherjar": {
+   "kind": "person",
+   "subject": "One of the einherjar: a fallen warrior alive again in a hall roofed with shields, laughing, an ale-horn in one hand and his helmet under the arm."
+  },
+  "vanir": {
+   "kind": "person",
+   "subject": "One of the Vanir: a peaceful god of sea and harvest, ears of barley (not maize, not corn cobs) in one hand, the other on a great vat."
+  },
+  "muspell-sons": {
+   "kind": "person",
+   "subject": "A rider of Múspell: a horseman of fire on a burning horse, crossing a bridge that breaks under him.",
+   "length": "whole"
+  },
+  "daughters-of-aegir": {
+   "kind": "person",
+   "subject": "A daughter of Ægir: a young woman who is a wave, hair of white foam, rising from the sea."
+  },
+  "gjukungar": {
+   "kind": "person",
+   "subject": "One of the Gjúkungar: a prince of the Rhine in a red cloak with a gold arm-ring, a hawk on his wrist."
+  },
+  "niflungar": {
+   "kind": "person",
+   "subject": "One of the Niflungar: a dark-cloaked prince letting gold fall from his hands into a great river."
+  },
+  "granmarssynir": {
+   "kind": "person",
+   "subject": "A son of Granmarr: an armed prince sitting on a cliff, looking out at a fleet below."
+  },
+  "goths": {
+   "kind": "person",
+   "subject": "A Goth: a warrior of an old king's hall in a helmet and scale coat, on a heavy horse.",
+   "length": "three-quarter"
+  },
+  "skjoldungs": {
+   "kind": "person",
+   "subject": "A Skjöldung: a Danish king with a great round shield bearing no device, a gold ring on his arm."
+  },
+  "andvaranaut": {
+   "kind": "thing",
+   "subject": "Andvaranaut: one gold ring lying on a wet rock by a waterfall, a dark gleam on it."
+  },
+  "brisingamen": {
+   "kind": "thing",
+   "subject": "Brísingamen: a great necklace of gold and amber."
+  },
+  "draupnir": {
+   "kind": "thing",
+   "subject": "Draupnir: a gold arm-ring from which eight equal rings drip like drops."
+  },
+  "gleipnir": {
+   "kind": "thing",
+   "subject": "Gleipnir: a fetter as thin and smooth as a silk ribbon, lying in a loop on a stone."
+  },
+  "grotti": {
+   "kind": "thing",
+   "subject": "Grotti: a hand-mill of two huge millstones, gold dust pouring from between them."
+  },
+  "hlidskjalf": {
+   "kind": "thing",
+   "subject": "Hliðskjálf: an empty high seat on a height, all the worlds small below it."
+  },
+  "hringhorni": {
+   "kind": "thing",
+   "subject": "Hringhorni: a great ship with a ring-curled prow on rollers at the shore, a pyre built on its deck."
+  },
+  "naglfar": {
+   "kind": "thing",
+   "subject": "Naglfar: a huge pale ship made of dead men's nails, afloat on a dark flood."
+  },
+  "skidbladnir": {
+   "kind": "thing",
+   "subject": "Skíðblaðnir: a fine ship under full sail in a fair wind; beside it, the same ship folded small like a cloth."
+  },
+  "gramr": {
+   "kind": "thing",
+   "subject": "Gramr: a sword standing in a split anvil."
+  },
+  "hrotti": {
+   "kind": "thing",
+   "subject": "Hrotti: a sword lying on a heap of gold beside a helmet."
+  },
+  "gridarvolr": {
+   "kind": "thing",
+   "subject": "Gríðarvölr: a stout staff standing upright in a rushing river."
+  },
+  "rati": {
+   "kind": "thing",
+   "subject": "Rati: a long iron auger lying against a rock face into which it has bored a small hole, stone dust beside it. No hand, no person."
+  },
+  "ridill": {
+   "kind": "thing",
+   "subject": "Riðill: a short sword with dark blood on the blade."
+  },
+  "gjalp": {
+   "kind": "person",
+   "subject": "One of the giant Geirröðr's two daughters.",
+   "pair": "greip",
+   "differs": "Gjálp: standing with a foot on each bank of a river in flood."
+  },
+  "greip": {
+   "kind": "person",
+   "subject": "One of the giant Geirröðr's two daughters.",
+   "pair_of": "gjalp",
+   "differs": "Greip: crouched, arms up, heaving a heavy chair toward the rafters."
+  },
+  "droma": {
+   "kind": "thing",
+   "subject": "One of the two iron fetters the gods made for the wolf, lying burst on the ground.",
+   "pair": "laedingr",
+   "differs": "Drómi: the heavier one, links twice as thick, in many pieces."
+  },
+  "laedingr": {
+   "kind": "thing",
+   "subject": "One of the two iron fetters the gods made for the wolf, lying burst on the ground.",
+   "pair_of": "droma",
+   "differs": "Læðingr: the lighter one, broken in a single place."
+  },
+  "urdr": {
+   "kind": "person",
+   "subject": "One of the three norns, seated by a well under a great ash; one thread passes from each to the next.",
+   "set": "norns3",
+   "differs": "Urðr: the old one, holding the ball of spun thread."
+  },
+  "verdandi": {
+   "kind": "person",
+   "subject": "One of the three norns, seated by a well under a great ash; one thread passes from each to the next.",
+   "set": "norns3",
+   "differs": "Verðandi: a grown woman, the thread running through her hands."
+  },
+  "skuld": {
+   "kind": "person",
+   "subject": "One of the three norns, seated by a well under a great ash; one thread passes from each to the next.",
+   "set": "norns3",
+   "differs": "Skuld: the young one, holding shears and the loose end; a helmet beside her, since she also rides as a valkyrie."
+  },
+  "hugi": {
+   "kind": "person",
+   "subject": "One of the three who beat Þórr's party in the giant king's hall, each not what it seems.",
+   "set": "utgard-tricks",
+   "differs": "Hugi: a young runner so fast that he is half a blur."
+  },
+  "logi": {
+   "kind": "person",
+   "subject": "One of the three who beat Þórr's party in the giant king's hall, each not what it seems.",
+   "set": "utgard-tricks",
+   "differs": "Logi: an eater at a long meat trough, his body made of flame."
+  },
+  "elli": {
+   "kind": "person",
+   "subject": "One of the three who beat Þórr's party in the giant king's hall, each not what it seems.",
+   "set": "utgard-tricks",
+   "differs": "Elli: a very old woman standing firm in a wrestler's stance."
+  },
+  "odrerir": {
+   "kind": "thing",
+   "subject": "One of the three vessels of the mead of poetry, full of dark mead, in a cave.",
+   "set": "mead-vessels",
+   "differs": "Óðrerir: the kettle, round, with a handle."
+  },
+  "bodn": {
+   "kind": "thing",
+   "subject": "One of the three vessels of the mead of poetry, full of dark mead, in a cave.",
+   "set": "mead-vessels",
+   "differs": "Boðn: a tall vat."
+  },
+  "son": {
+   "kind": "thing",
+   "subject": "One of the three vessels of the mead of poetry, full of dark mead, in a cave.",
+   "set": "mead-vessels",
+   "differs": "Són: a smaller vat."
+  },
+  "alfheimr": {
+   "kind": "place",
+   "subject": "Álfheimr: a bright land high in the sky, slender shining figures small among birch trees, light brighter than the sun."
+  },
+  "asgard": {
+   "kind": "place",
+   "subject": "Ásgarðr: the gods' stronghold on a height in the middle of the world, a great wall round halls with gold roofs, a rainbow bridge leading up."
+  },
+  "gimle": {
+   "kind": "place",
+   "subject": "Gimlé: a hall roofed with gold, brighter than the sun, standing alone at the southern end of heaven above the clouds."
+  },
+  "ginnungagap": {
+   "kind": "place",
+   "subject": "Ginnungagap: an empty gulf; on the left ice and rime, on the right sparks and glowing fire, mild mist where they meet in the middle."
+  },
+  "gnipahellir": {
+   "kind": "place",
+   "subject": "Gnipahellir: the dark mouth of a cave in a cliff, a heavy chain running from a ring in the rock into the dark."
+  },
+  "hvergelmir": {
+   "kind": "place",
+   "subject": "Hvergelmir: a seething spring in a cold misty land, many rivers running out of it, a serpent in the water."
+  },
+  "idavollr": {
+   "kind": "place",
+   "subject": "Iðavöllr: a green field inside the gods' stronghold; in the grass, golden gaming pieces."
+  },
+  "jarnvidr": {
+   "kind": "place",
+   "subject": "Járnviðr: a forest of iron-grey trees, the eyes of wolves between the trunks."
+  },
+  "jotunheim": {
+   "kind": "place",
+   "subject": "Jötunheimar: a land of huge mountains and ice beyond a wide grey sea, a giant's hall small on a far slope."
+  },
+  "midgard": {
+   "kind": "place",
+   "subject": "Miðgarðr: the inner earth of fields and farms ringed by a great fence like a line of eyebrow hair, the sea outside it."
+  },
+  "mimisbrunnr": {
+   "kind": "place",
+   "subject": "Mímisbrunnr: a deep still well under a giant tree root, a drinking horn on its rim, an eye shining in the water."
+  },
+  "muspelheim": {
+   "kind": "place",
+   "subject": "Múspellsheimr: a bright burning land in the south, flames for hills, the air glowing."
+  },
+  "niflheim": {
+   "kind": "place",
+   "subject": "Niflheimr: a world of mist, frost and dark, icy rivers running out of it."
+  },
+  "noatun": {
+   "kind": "place",
+   "subject": "Nóatún: a hall by a harbour with ships drawn up, gulls crying above."
+  },
+  "sokkvabekkr": {
+   "kind": "place",
+   "subject": "Søkkvabekkr: a hall under water, cool waves rolling over its roof; two golden cups on a table inside the door."
+  },
+  "svartalfaheimr": {
+   "kind": "place",
+   "subject": "Svartálfaheimr: a cavern under the earth lit by a forge, anvils and gold, small dark smiths."
+  },
+  "thrudvangr": {
+   "kind": "place",
+   "subject": "Þrúðvangar: a wide plain under storm cloud with one enormous hall on it."
+  },
+  "thrymheimr": {
+   "kind": "place",
+   "subject": "Þrymheimr: a hall high among snowy mountains, ski tracks leading to it, a wolf on a ridge."
+  },
+  "urdarbrunnr": {
+   "kind": "place",
+   "subject": "Urðarbrunnr: a holy well under a great ash root, white clay on the root, two swans on the water."
+  },
+  "vanaheimr": {
+   "kind": "place",
+   "subject": "Vanaheimr: a mild green land of fields, orchards and sea shore."
+  },
+  "vigridr": {
+   "kind": "place",
+   "subject": "Vígríðr: an endless flat plain under a red split sky, two armies as far lines at its edges."
+  },
+  "hnitbjorg": {
+   "kind": "place",
+   "subject": "Hnitbjörg: a sheer rock mountain with one small bored hole in its face."
+  },
+  "gnitaheidi": {
+   "kind": "place",
+   "subject": "Gnitaheiðr: a bare heath with a track worn by a serpent leading down to water; a pit dug in the track."
+  },
+  "folkvangr": {
+   "kind": "place",
+   "subject": "Fólkvangr: a wide field in heaven with a great fair hall, many seats inside its open door."
+  },
+  "thrudheimr": {
+   "kind": "place",
+   "subject": "Þrúðheimr: a holy land near gods and elves, a strong hall under thunder cloud."
+  },
+  "hlesey": {
+   "kind": "place",
+   "subject": "Hlésey: a low island in the sea, a hall on it lit from inside by gold."
+  },
+  "andvarafors": {
+   "kind": "place",
+   "subject": "Andvarafors: a waterfall dropping into a dark pool, a pike in the pool."
+  },
+  "laeradr": {
+   "kind": "place",
+   "subject": "Læraðr: a great tree beside a hall roof; on the roof a goat and a hart biting its branches."
+  },
+  "vidblainn": {
+   "kind": "place",
+   "subject": "Víðbláinn: a wide blue heaven above the sky we see, a golden hall small in it."
+  },
+  "nidafjoll": {
+   "kind": "place",
+   "subject": "Niðafjöll: dark fells under a waning moon, a dragon rising from behind them."
+  },
+  "utgardar": {
+   "kind": "place",
+   "subject": "Útgarðr: a stronghold so high that travellers must bend their heads back to see its top, a barred gate at its foot."
+  },
+  "hindarfjall": {
+   "kind": "place",
+   "subject": "Hindarfjall: a mountain top with a ring of fire and a wall of shields, a banner above."
+  },
+  "fjoturlundr": {
+   "kind": "place",
+   "subject": "Fjöturlundr: a dark grove, a spear standing in the ground among the trees."
+  },
+  "grjottunagardar": {
+   "kind": "place",
+   "subject": "Grjótúnagarðar: a stony border field under lightning, an enormous clay figure standing in it."
+  },
+  "nastrond": {
+   "kind": "place",
+   "subject": "Náströnd: a hall far from the sun, its doors to the north, its walls woven of serpents' backs, venom running out of the door."
+  },
+  "niflhel": {
+   "kind": "place",
+   "subject": "Niflhel: the lowest mist under the underworld, steps going down into dark."
+  },
+  "hoddmimis-holt": {
+   "kind": "place",
+   "subject": "Hoddmímis holt: a wood left green in a burnt land; two people hidden in a hollow trunk, dew on the leaves."
+  },
+  "valland": {
+   "kind": "place",
+   "subject": "Valland: a foreign southern land of walled towns, armies' banners on the road."
+  },
+  "frekasteinn": {
+   "kind": "place",
+   "subject": "Frekasteinn: a great rock above a shore crowded with warships, wolves on the rock."
+  },
+  "bilskirnir": {
+   "kind": "place",
+   "subject": "Bilskirnir: the biggest of all houses, a hall with hundreds of doors, lightning over its roof."
+  },
+  "breidablik": {
+   "kind": "place",
+   "subject": "Breiðablik: a wide shining hall in a clean bright land, far view on all sides."
+  },
+  "gladsheimr": {
+   "kind": "place",
+   "subject": "Glaðsheimr: a hall all of gold; inside its open doors twelve seats and one high seat."
+  },
+  "glitnir": {
+   "kind": "place",
+   "subject": "Glitnir: a hall with walls and pillars of red gold and a roof of silver."
+  },
+  "himinbjorg": {
+   "kind": "place",
+   "subject": "Himinbjörg: a watch hall on a cliff at the edge of heaven where the rainbow bridge arrives."
+  },
+  "valhalla": {
+   "kind": "place",
+   "subject": "Valhöll: a vast hall with spear shafts for rafters and a roof of shields, a wolf hanging over the west door and an eagle above it."
+  },
+  "vingolf": {
+   "kind": "place",
+   "subject": "Vingólf: a very fair hall of the goddesses on a green field."
+  },
+  "sessrumnir": {
+   "kind": "place",
+   "subject": "Sessrúmnir: a great fair hall with many seats, two cats at the door."
+  },
+  "valaskjalf": {
+   "kind": "place",
+   "subject": "Valaskjálf: a hall roofed with pure silver, a single high seat seen on a tower."
+  },
+  "elivagar": {
+   "kind": "place",
+   "subject": "Élivágar: icy rivers running through a gulf, their venom hardening into rime and ice."
+  },
+  "vimur": {
+   "kind": "place",
+   "subject": "Vimur: a great river in flood between rocky banks, a rowan tree leaning over it."
+  },
+  "rhine": {
+   "kind": "place",
+   "subject": "The Rhine: a broad green river between wooded banks, gold glinting under the water."
+  },
+  "zealand": {
+   "kind": "place",
+   "subject": "Zealand: an island being torn out of the land by a plough drawn by four huge oxen, the sea running into the gap behind."
+  },
+  "hjadningavig": {
+   "kind": "place",
+   "subject": "The battle of the Hjaðnings: two armies on an island at night, the fallen rising again; a woman walking among them."
+  },
+  "gjoll": {
+   "kind": "place",
+   "subject": "The road to Hel at its border river, dark valleys behind.",
+   "pair": "gjallarbru",
+   "differs": "Gjöll: the river itself, wide, cold and loud, seen along its length."
+  },
+  "gjallarbru": {
+   "kind": "place",
+   "subject": "The road to Hel at its border river, dark valleys behind.",
+   "pair_of": "gjoll",
+   "differs": "Gjallarbrú: the bridge over it, roofed with bright gold, a maiden guard at its end."
+  },
+  "borghild": {
+   "kind": "person",
+   "subject": "Borghildr: a queen holding out a drinking horn with a cold look."
+  },
+  "budli": {
+   "kind": "person",
+   "subject": "Buðli: an old king on his high seat, a son and a daughter as shadows behind him."
+  },
+  "etzel": {
+   "kind": "person",
+   "subject": "Atli: a powerful dark-bearded king in rich eastern dress at a feast table, a gold cup in his hand, suspicious eyes."
+  },
+  "gjuki": {
+   "kind": "person",
+   "subject": "Gjúki: an old king of the Rhine in a red cloak, a gold ring on his arm."
+  },
+  "grimhildr": {
+   "kind": "person",
+   "subject": "Grímhildr: an older queen mixing a drink in a horn carved with signs, watching sideways."
+  },
+  "gudrun": {
+   "kind": "person",
+   "subject": "Guðrún: a queen in mourning, tearless, a sword hidden in the folds of her dress; fire behind her."
+  },
+  "gunnar": {
+   "kind": "person",
+   "subject": "Gunnarr: a king bound in a pit of snakes, playing a harp with his toes.",
+   "length": "whole"
+  },
+  "hogni": {
+   "kind": "person",
+   "subject": "Högni: a warrior bound, head thrown back, laughing in the face of the knife."
+  },
+  "helgi-hjorvardsson": {
+   "kind": "person",
+   "subject": "Helgi Hjörvarðsson: a tall silent young man sitting on a burial mound, a sword with a ring in the hilt across his knees.",
+   "length": "three-quarter"
+  },
+  "helgi-hundingsbani": {
+   "kind": "person",
+   "subject": "Helgi Hundingsbani: a young sea-king of fifteen in mail at the prow of a warship, eagles above."
+  },
+  "hjordis": {
+   "kind": "person",
+   "subject": "Hjördís: a young queen on a battlefield shore holding the two pieces of a broken sword."
+  },
+  "hreidmarr": {
+   "kind": "person",
+   "subject": "Hreiðmarr: a hard old farmer skilled in magic, an otter skin spread before him being covered with gold."
+  },
+  "jormunrekkr": {
+   "kind": "person",
+   "subject": "Jörmunrekkr: an old mighty king of the Goths, white hair, a gold cup in his hand, a hawk plucked of its feathers on the table before him."
+  },
+  "oddrun": {
+   "kind": "person",
+   "subject": "Oddrún: a woman standing at the water's edge at night, listening across the sound, her hand at her ear."
+  },
+  "otr": {
+   "kind": "animal",
+   "subject": "Otr: an otter on a river bank eating a salmon with its eyes shut."
+  },
+  "sigmund": {
+   "kind": "person",
+   "subject": "Sigmundr: an old warrior king drinking from a horn, unharmed, a sword at his side."
+  },
+  "sigurdr": {
+   "kind": "person",
+   "subject": "Sigurðr: a young hero licking his thumb beside a fire where a heart roasts on a spit, birds in the branch above him; a sword at his side."
+  },
+  "sinfjotli": {
+   "kind": "person",
+   "subject": "Sinfjötli: a sharp-tongued young warrior at a ship's rail, hand cupped to his mouth, shouting insults across the water."
+  },
+  "skirnir": {
+   "kind": "person",
+   "subject": "Skírnir: a messenger on a horse riding through a wall of flickering flame, a sword in one hand and golden apples in the other.",
+   "length": "whole"
+  },
+  "svanhildr": {
+   "kind": "person",
+   "subject": "Svanhildr: a young woman brighter than the sun, sitting on the ground washing her hair, looking up with bright eyes; horses' legs behind her."
+  },
+  "wayland-the-smith": {
+   "kind": "person",
+   "subject": "Völundr: a master smith with cut hamstrings at his anvil, a pair of wings he has made hanging behind him.",
+   "length": "three-quarter"
+  },
+  "frodi": {
+   "kind": "person",
+   "subject": "Fróði: a Danish king of peace, hands open; a gold ring lying untouched on the heath before him."
+  },
+  "jonakr": {
+   "kind": "person",
+   "subject": "Jónakr: a king on a shore lifting a half-drowned woman out of the surf."
+  },
+  "mysingr": {
+   "kind": "person",
+   "subject": "Mýsingr: a sea-king on a ship at night, a hand-mill on the deck pouring out salt."
+  },
+  "mundilfari": {
+   "kind": "person",
+   "subject": "Mundilfari: a proud father holding a small son and daughter by the hand, one child lit silver, the other gold."
+  },
+  "hjalprekr": {
+   "kind": "person",
+   "subject": "Hjálprekr: a kindly king showing a herd of horses by a river."
+  },
+  "eylimi": {
+   "kind": "person",
+   "subject": "Eylimi: an old king in mail, fallen on one knee on a battlefield, still holding his shield."
+  },
+  "guthormr": {
+   "kind": "person",
+   "subject": "Gotþormr: a young man with a wild look creeping forward with a drawn sword."
+  },
+  "atli-idmundarson": {
+   "kind": "person",
+   "subject": "Atli Iðmundarson: a watchman at a ship's prow at dawn, pointing at the rising sun."
+  },
+  "dagr-hognason": {
+   "kind": "person",
+   "subject": "Dagr Högnason: a young man holding a spear that is too great for him, his head bowed."
+  },
+  "hogni-sigrunar": {
+   "kind": "person",
+   "subject": "King Högni, Sigrún's father: an old king in mail, stern, a hand raised in refusal."
+  },
+  "nidudr": {
+   "kind": "person",
+   "subject": "Níðuðr: a cold king wearing a fine sword that is not his own, a gold ring on his finger."
+  },
+  "embla": {
+   "kind": "person",
+   "subject": "Embla: the first woman, just made from a tree on the shore, bark still on one arm, opening her eyes.",
+   "length": "three-quarter"
+  },
+  "ottar": {
+   "kind": "person",
+   "subject": "Óttarr: a young man kneeling before an altar of piled stones that shine like glass; a golden boar beside him.",
+   "length": "three-quarter"
+  },
+  "randver": {
+   "kind": "person",
+   "subject": "Randvér: a young prince holding a hawk whose feathers he has plucked."
+  },
+  "bikki": {
+   "kind": "person",
+   "subject": "Bikki: a smooth earl whispering behind his hand."
+  },
+  "nari": {
+   "kind": "person",
+   "subject": "Nari: a boy with his father's sharp face, frightened, backing away."
+  },
+  "vali-2": {
+   "kind": "person",
+   "subject": "Váli, Loki's son: a boy half changed into a wolf."
+  },
+  "helblindi": {
+   "kind": "person",
+   "subject": "Helblindi: a tall grey figure with a band over his eyes."
+  },
+  "hundingr": {
+   "kind": "person",
+   "subject": "Hundingr: a warlike king in a helmet with a hound's head on the crest, a hound at his side."
+  },
+  "lyngvi-hundingsson": {
+   "kind": "person",
+   "subject": "Lyngvi: a prince in mail falling in battle, his shield split."
+  },
+  "bodvildr": {
+   "kind": "person",
+   "subject": "Böðvildr: a king's daughter holding a broken gold ring in her palm, afraid."
+  },
+  "heimir": {
+   "kind": "person",
+   "subject": "Heimir: an old foster-father in a quiet dale, a small girl with a harp beside him."
+  },
+  "gripir": {
+   "kind": "person",
+   "subject": "Grípir: a far-seeing king in his hall, eyes half shut, one hand raised as he foretells."
+  },
+  "hjorvardr": {
+   "kind": "person",
+   "subject": "Hjörvarðr: a king looking out from a hill towards a far country, a messenger bird flying to him."
+  },
+  "sigrlinn": {
+   "kind": "person",
+   "subject": "Sigrlinn: the fairest of women at a window, a bird in a tree outside speaking to her."
+  },
+  "hodbroddr": {
+   "kind": "person",
+   "subject": "Höðbroddr: a proud king in a gilded helmet, arms folded, slighted."
+  },
+  "volsung": {
+   "kind": "person",
+   "subject": "Völsungr: an old king of a great house standing in a hall built round the trunk of a living tree."
+  },
+  "groa": {
+   "kind": "person",
+   "subject": "Gróa: a seeress chanting, both hands raised over a piece of whetstone."
+  },
+  "fjolnir": {
+   "kind": "person",
+   "subject": "Fjölnir: a king of Sweden at a feast, pointing out two very tall, strong women."
+  },
+  "svipdagr": {
+   "kind": "person",
+   "subject": "Svipdagr: a young traveller at a gate ringed with flame, cloak blown by a cold wind, calling up to the wall."
+  },
+  "king-geirrod": {
+   "kind": "person",
+   "subject": "King Geirröðr: a king on his high seat, a sword half drawn on his knees; before him two fires with a cloaked man sitting between them."
+  },
+  "glaumvor": {
+   "kind": "person",
+   "subject": "Glaumvör: a queen waking from a dream in fear, a spear and a gallows faint in the dark behind her."
+  },
+  "svafnir": {
+   "kind": "person",
+   "subject": "Sváfnir: an old king before a burning land, his daughter's cloak in his hand."
+  },
+  "hagall": {
+   "kind": "person",
+   "subject": "Hagall: a farmer foster-father standing in front of a hand-mill at which a tall slave-girl with a warrior's eyes is grinding."
+  },
+  "kostbera": {
+   "kind": "person",
+   "subject": "Kostbera: a wise woman reading a rune stick by firelight, frowning (the marks only strokes)."
+  },
+  "konr": {
+   "kind": "person",
+   "subject": "Konr the young: a king's youngest son with a bow, listening to a crow on a branch."
+  },
+  "hlodver": {
+   "kind": "person",
+   "subject": "Hlöðvér: a king with two daughters behind him who wear cloaks of swan feathers."
+  },
+  "hjalmgunnarr": {
+   "kind": "person",
+   "subject": "Hjálmgunnarr: an old king in a great helmet, struck down in battle."
+  },
+  "erpr": {
+   "kind": "person",
+   "subject": "Erpr: a raven-haired young man on the road, one foot forward, a hand held out as if to help."
+  },
+  "edda-rigsthula": {
+   "kind": "person",
+   "subject": "Edda: an old woman in old-fashioned dress by the hearth of a poor house, a heavy coarse loaf and a bowl of broth before her."
+  },
+  "hamdir": {
+   "kind": "person",
+   "subject": "One of two brothers in mail that no iron bites, riding to avenge their sister.",
+   "pair": "sorli",
+   "differs": "Hamðir: fierce, sword high, shouting."
+  },
+  "sorli": {
+   "kind": "person",
+   "subject": "One of two brothers in mail that no iron bites, riding to avenge their sister.",
+   "pair_of": "hamdir",
+   "differs": "Sörli: the wiser one, catching himself with one hand on the ground as he slips."
+  },
+  "thjalfi": {
+   "kind": "person",
+   "subject": "One of the farmer's two children who became Þórr's servants, on the road with a bundle.",
+   "pair": "roskva",
+   "differs": "Þjálfi: a boy, the fastest of runners, in mid stride, a cracked marrow bone in his hand."
+  },
+  "roskva": {
+   "kind": "person",
+   "subject": "One of the farmer's two children who became Þórr's servants, on the road with a bundle.",
+   "pair_of": "thjalfi",
+   "differs": "Röskva: a girl, steady, carrying the provision bag."
+  },
+  "byggvir": {
+   "kind": "person",
+   "subject": "One of Freyr's two servants at the sea-giant's feast.",
+   "pair": "beyla",
+   "differs": "Byggvir: a small man with barley ears in his hair, fists up, boasting."
+  },
+  "beyla": {
+   "kind": "person",
+   "subject": "One of Freyr's two servants at the sea-giant's feast.",
+   "pair_of": "byggvir",
+   "differs": "Beyla: a small woman with a milk pail, one hand to her ear, hearing the mountains shake."
+  },
+  "fimafeng": {
+   "kind": "person",
+   "subject": "One of the sea-giant's two serving-men in a hall lit by gold.",
+   "pair": "eldir",
+   "differs": "Fimafengr: quick, carrying ale, proud of the praise."
+  },
+  "eldir": {
+   "kind": "person",
+   "subject": "One of the sea-giant's two serving-men in a hall lit by gold.",
+   "pair_of": "fimafeng",
+   "differs": "Eldir: the fire-keeper, barring the door with his arm."
+  },
+  "hogni-hildar": {
+   "kind": "person",
+   "subject": "One of two kings who fight each other every day on an island until the end of the world.",
+   "pair": "hedin-hjarrandason",
+   "differs": "Högni: older, a drawn sword that deals wounds which never heal."
+  },
+  "hedin-hjarrandason": {
+   "kind": "person",
+   "subject": "One of two kings who fight each other every day on an island until the end of the world.",
+   "pair_of": "hogni-hildar",
+   "differs": "Heðinn: younger, holding out a gold necklace as an offer of peace."
+  },
+  "afi": {
+   "kind": "person",
+   "subject": "One of the couple of the middle house, free farmers, sitting at their work.",
+   "pair": "amma",
+   "differs": "Afi: beard trimmed, shirt close, shaping wood for a loom."
+  },
+  "amma": {
+   "kind": "person",
+   "subject": "One of the couple of the middle house, free farmers, sitting at their work.",
+   "pair_of": "afi",
+   "differs": "Amma: a band on her head and clasps on her shoulders, spinning at her distaff."
+  },
+  "fadir": {
+   "kind": "person",
+   "subject": "One of the couple of the richest house.",
+   "pair": "modir",
+   "differs": "Faðir: twisting a bowstring, a bow of elm and arrows beside him."
+  },
+  "modir": {
+   "kind": "person",
+   "subject": "One of the couple of the richest house.",
+   "pair_of": "fadir",
+   "differs": "Móðir: in a blue dress, spreading an embroidered white linen cloth, silver dishes on it."
+  },
+  "slagfidr": {
+   "kind": "person",
+   "subject": "One of three brothers, sons of a king of the Finns, hunters on skis by a lake, each married to a swan-maiden who flew away.",
+   "set": "wayland-brothers",
+   "differs": "Slagfiðr: setting off south, looking at the sky."
+  },
+  "egill": {
+   "kind": "person",
+   "subject": "One of three brothers, sons of a king of the Finns, hunters on skis by a lake, each married to a swan-maiden who flew away.",
+   "set": "wayland-brothers",
+   "differs": "Egill: an archer, setting off east on skis."
+  }
+ },
+ "sets": {
+  "sky-dwarves": [
+   "austri",
+   "sudri",
+   "vestri",
+   "nordri"
+  ],
+  "helgi-brides": [
+   "svafa",
+   "sigrun",
+   "kara"
+  ],
+  "norns3": [
+   "urdr",
+   "verdandi",
+   "skuld"
+  ],
+  "utgard-tricks": [
+   "hugi",
+   "logi",
+   "elli"
+  ],
+  "mead-vessels": [
+   "odrerir",
+   "bodn",
+   "son"
+  ],
+  "wayland-brothers": [
+   "slagfidr",
+   "egill"
+  ]
+ },
+ "lights": {
+  "dusk": "dusk just after sunset: soft fading light, a muted sky of dusty rose, mauve and grey, low contrast, the colours a little dimmer and cooler than by day; no strong orange, no glowing sun",
+  "night": "night: moonlight, deep blue darkness, the subject lit softly and coolly by the moon (by a small fire only where the subject has one), a few stars in the sky"
+ },
+ "relight": "Edit the attached picture. Keep everything exactly as it is: the composition and framing, the subject, its pose, face, clothing and objects, every outline, the carving and the printing style. Change only the light and the time of day, to {light}. The same picture, as the same artist would print it for that hour. No text, no border, no frame."
+}
