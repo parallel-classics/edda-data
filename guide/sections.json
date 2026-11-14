@@ -1,14 +1,16 @@
 {
-  "_note": "Mímir sections (task 34): the order of /mimir/who/. 'plate' = the picture plate (P1..P18; 'worlds' = the world map). 'refs' = rows behind the intro. Draft by Claude, not reviewed. 'more' = shorter cards for figures linked from the main ones (shown under the section's main cards, smaller).",
+  "_note": "Mímir sections (task 34): the order of /mimir/who/. 'plate' = the picture plate (P1..P18; 'worlds' = the world map). 'refs' = rows behind the intro. Draft by Claude, not reviewed. 'more' = shorter cards for figures linked from the main ones (shown under the section's main cards, smaller). Icelandic ('is'): an AI translation of the English by Claude (Anthropic), 2026-11-14; a draft, not reviewed by a person (drög, gervigreind, þarf yfirlestur).",
   "sections": [
     {
       "id": "aesir",
       "order": 1,
       "title": {
-        "en": "The Æsir"
+        "en": "The Æsir",
+        "is": "Æsir"
       },
       "intro": {
-        "en": "The main family of gods, led by Óðinn, living in Ásgarðr."
+        "en": "The main family of gods, led by Óðinn, living in Ásgarðr.",
+        "is": "Helsta goðaættin, undir forystu Óðins, sem býr í Ásgarði."
       },
       "plate": "P1",
       "entities": [
@@ -32,10 +34,12 @@
       "id": "aesir-more",
       "order": 2,
       "title": {
-        "en": "More of the Æsir"
+        "en": "More of the Æsir",
+        "is": "Fleiri æsir"
       },
       "intro": {
-        "en": "Gods who appear less often but each have their own story."
+        "en": "Gods who appear less often but each have their own story.",
+        "is": "Goð sem koma sjaldnar fyrir en eiga hvert sína sögu."
       },
       "plate": "P2",
       "entities": [
@@ -69,10 +73,12 @@
       "id": "asynjur",
       "order": 3,
       "title": {
-        "en": "The goddesses"
+        "en": "The goddesses",
+        "is": "Gyðjurnar"
       },
       "intro": {
-        "en": "The Ásynjur: Frigg, her companions, and the wives of the gods."
+        "en": "The Ásynjur: Frigg, her companions, and the wives of the gods.",
+        "is": "Ásynjurnar: Frigg, fylgdarkonur hennar og eiginkonur goðanna."
       },
       "plate": "P3",
       "entities": [
@@ -104,10 +110,12 @@
       "id": "vanir",
       "order": 4,
       "title": {
-        "en": "The Vanir"
+        "en": "The Vanir",
+        "is": "Vanir"
       },
       "intro": {
-        "en": "A second family of gods, once at war with the Æsir, then joined with them through hostages."
+        "en": "A second family of gods, once at war with the Æsir, then joined with them through hostages.",
+        "is": "Önnur goðaætt sem átti eitt sinn í stríði við æsi en sameinaðist þeim síðan með gíslaskiptum."
       },
       "plate": "P4",
       "entities": [
@@ -133,10 +141,12 @@
       "id": "lokis-children",
       "order": 5,
       "title": {
-        "en": "Loki's children"
+        "en": "Loki's children",
+        "is": "Börn Loka"
       },
       "intro": {
-        "en": "Three children born to Loki and a giantess, each bound or banished by the gods — and Sleipnir."
+        "en": "Three children born to Loki and a giantess, each bound or banished by the gods — and Sleipnir.",
+        "is": "Þrjú börn Loka og gýgjar, sem goðin ýmist bundu eða ráku burt, og svo Sleipnir."
       },
       "plate": "P5",
       "entities": [
@@ -162,10 +172,12 @@
       "id": "mounts",
       "order": 6,
       "title": {
-        "en": "The gods' animals and other beasts"
+        "en": "The gods' animals and other beasts",
+        "is": "Dýr goðanna og aðrar skepnur"
       },
       "intro": {
-        "en": "Horses, goats, boars, wolves and ravens that belong to the gods, and the hound Garmr."
+        "en": "Horses, goats, boars, wolves and ravens that belong to the gods, and the hound Garmr.",
+        "is": "Hestar, hafrar, geltir, úlfar og hrafnar sem goðin eiga, og hundurinn Garmur."
       },
       "plate": "P6",
       "entities": [
@@ -197,10 +209,12 @@
       "id": "sky",
       "order": 7,
       "title": {
-        "en": "Sun, moon, day and night"
+        "en": "Sun, moon, day and night",
+        "is": "Sól, máni, dagur og nótt"
       },
       "intro": {
-        "en": "How the sky is driven, and the wolves that chase it."
+        "en": "How the sky is driven, and the wolves that chase it.",
+        "is": "Hvernig himintunglunum er ekið og úlfarnir sem elta þau."
       },
       "plate": "P7",
       "entities": [
@@ -231,10 +245,12 @@
       "id": "first-giants",
       "order": 8,
       "title": {
-        "en": "Giants of the beginning and the end"
+        "en": "Giants of the beginning and the end",
+        "is": "Jötnar upphafs og endaloka"
       },
       "intro": {
-        "en": "The first beings, and the giants who will come at Ragnarök."
+        "en": "The first beings, and the giants who will come at Ragnarök.",
+        "is": "Fyrstu verurnar og jötnarnir sem koma í ragnarökum."
       },
       "plate": "P8",
       "entities": [
@@ -275,10 +291,12 @@
       "id": "thors-giants",
       "order": 9,
       "title": {
-        "en": "Þórr's giants"
+        "en": "Þórr's giants",
+        "is": "Jötnar Þórs"
       },
       "intro": {
-        "en": "The giants Þórr visits, fools or kills."
+        "en": "The giants Þórr visits, fools or kills.",
+        "is": "Jötnarnir sem Þór heimsækir, leikur á eða drepur."
       },
       "plate": "P9",
       "entities": [
@@ -307,10 +325,12 @@
       "id": "sea-and-giantesses",
       "order": 10,
       "title": {
-        "en": "The sea and the giantesses"
+        "en": "The sea and the giantesses",
+        "is": "Hafið og gýgjarnar"
       },
       "intro": {
-        "en": "Ægir and Rán, the mead's guardian, the mill-maids."
+        "en": "Ægir and Rán, the mead's guardian, the mill-maids.",
+        "is": "Ægir og Rán, sú sem gætir mjaðarins, kvarnarmeyjarnar."
       },
       "plate": "P10",
       "entities": [
@@ -340,10 +360,12 @@
       "id": "dwarves",
       "order": 11,
       "title": {
-        "en": "Dwarves"
+        "en": "Dwarves",
+        "is": "Dvergar"
       },
       "intro": {
-        "en": "Makers of the gods' treasures, born in the earth."
+        "en": "Makers of the gods' treasures, born in the earth.",
+        "is": "Smiðir dýrgripa goðanna, kviknaðir í jörðu."
       },
       "plate": "P11",
       "entities": [
@@ -374,10 +396,12 @@
       "id": "elves",
       "order": 12,
       "title": {
-        "en": "Elves"
+        "en": "Elves",
+        "is": "Álfar"
       },
       "intro": {
-        "en": "The light elves and the dark elves, and Völundr."
+        "en": "The light elves and the dark elves, and Völundr.",
+        "is": "Ljósálfar og dökkálfar, og Völundur."
       },
       "plate": "P12",
       "entities": [
@@ -397,10 +421,12 @@
       "id": "norns-valkyries",
       "order": 13,
       "title": {
-        "en": "Norns and valkyries"
+        "en": "Norns and valkyries",
+        "is": "Nornir og valkyrjur"
       },
       "intro": {
-        "en": "The women who shape fate and choose the slain."
+        "en": "The women who shape fate and choose the slain.",
+        "is": "Konurnar sem skapa örlög og kjósa val."
       },
       "plate": "P13",
       "entities": [
@@ -432,10 +458,12 @@
       "id": "treasures",
       "order": 14,
       "title": {
-        "en": "The gods' treasures"
+        "en": "The gods' treasures",
+        "is": "Gersemar goðanna"
       },
       "intro": {
-        "en": "Weapons, rings, ships and fetters, and who made them."
+        "en": "Weapons, rings, ships and fetters, and who made them.",
+        "is": "Vopn, hringar, skip og fjötrar, og hverjir smíðuðu þau."
       },
       "plate": "P14",
       "entities": [
@@ -475,10 +503,12 @@
       "id": "valhalla",
       "order": 15,
       "title": {
-        "en": "Valhöll and the slain"
+        "en": "Valhöll and the slain",
+        "is": "Valhöll og valurinn"
       },
       "intro": {
-        "en": "Where Óðinn's chosen warriors fight and feast."
+        "en": "Where Óðinn's chosen warriors fight and feast.",
+        "is": "Þar sem útvaldir kappar Óðins berjast og sitja að veislu."
       },
       "plate": "P15",
       "entities": [
@@ -500,10 +530,12 @@
       "id": "places",
       "order": 16,
       "title": {
-        "en": "The worlds and their places"
+        "en": "The worlds and their places",
+        "is": "Heimarnir og staðir þeirra"
       },
       "intro": {
-        "en": "The tree, the wells, the halls and the realms. See also the map of the worlds."
+        "en": "The tree, the wells, the halls and the realms. See also the map of the worlds.",
+        "is": "Tréð, brunnarnir, salirnir og ríkin. Sjá einnig kortið af heimunum."
       },
       "plate": "worlds",
       "entities": [
@@ -573,10 +605,12 @@
       "id": "heroes",
       "order": 17,
       "title": {
-        "en": "Heroes of the cursed gold"
+        "en": "Heroes of the cursed gold",
+        "is": "Hetjur gullsins bölvaða"
       },
       "intro": {
-        "en": "The Völsungs and the Gjúkungs: Sigurðr, Brynhildr, Guðrún and the gold of Andvari."
+        "en": "The Völsungs and the Gjúkungs: Sigurðr, Brynhildr, Guðrún and the gold of Andvari.",
+        "is": "Völsungar og Gjúkungar: Sigurður, Brynhildur, Guðrún og gull Andvara."
       },
       "plate": "P18",
       "entities": [
@@ -665,10 +699,12 @@
       "id": "helgi",
       "order": 18,
       "title": {
-        "en": "The Helgi poems"
+        "en": "The Helgi poems",
+        "is": "Helgakviðurnar"
       },
       "intro": {
-        "en": "Two heroes named Helgi and the valkyries who loved them."
+        "en": "Two heroes named Helgi and the valkyries who loved them.",
+        "is": "Tvær hetjur að nafni Helgi og valkyrjurnar sem unnu þeim."
       },
       "plate": "",
       "entities": [

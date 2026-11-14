@@ -4,6 +4,12 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 ## Unreleased
 
+- Icelandic for Mímir and the Names summaries (2026-11-14): every English string in `guide/` (cards, stories,
+  myths, outside, sections, paths, ages; 4,796 values) and the 587 summaries in `entities/summaries.json` now has an
+  `is` value beside `en`: an AI translation by Claude, a draft, not reviewed by a person. Names are in their modern
+  Icelandic forms. Where the English quotes a line of the Eddas the Icelandic is a translation of the sense or a
+  wording recalled by the translator, not yet checked against the Icelandic text of this edition.
+
 - Mímir pictures (task 34): Grigory Sapunov's plates P1-P4 and the Mímir picture (© 2026, CC BY 4.0) with their
   anchors; web sizes, a crop per figure and the social card from edda-site `pipeline/make_plates.py`. The validator
   checks the anchors (picture present, entities exist, boxes inside, part_of, stories).
