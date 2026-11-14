@@ -204,17 +204,21 @@ A pair is drawn as two halves of one picture. Rules:
 | `fjalar` / `galar` (the dwarves who killed Kvasir) | Fjalar: with the knife | Galar: with the vat |
 | `magni` / `modi` (Þórr's sons) | Magni: a child of huge strength | Móði: older, fierce |
 
-The pairs above are in `briefs.json`. Sets to be drawn the same way, one panel each in one sheet (briefs
-to be written after the style is chosen):
+The pairs above are in `briefs.json`, with further pairs from the legends (Ægir / Rán, Göndul / Skögul,
+Hrist / Mist, Gjálp / Greip, Hamðir / Sörli, Þjálfi / Röskva, Byggvir / Beyla, Afi / Amma, Faðir / Móðir,
+Högni / Heðinn and others).
+
+Sets are drawn the same way, a panel for each member in one sheet (`sets` in `briefs.json`):
 
 - The three norns `urdr`, `verdandi`, `skuld`: old, grown, young; the thread passed from one to the next
-  (Urðr holds the spun ball, Verðandi the thread running through her hands, Skuld the shears or the loose
-  end; Skuld also armed, since she rides as a valkyrie).
-- The four dwarves under the sky `austri`, `vestri`, `nordri`, `sudri`: the same dwarf holding up the edge
-  of the sky, in dawn, dusk, night and noon light.
-- `hugi`, `logi`, `elli` (Útgarða-Loki's three tricks): a runner who is only a blur, an eater who is
-  flame, an old woman wrestler.
-- `vili`, `ve` (Óðinn's brothers), with Óðinn's portrait as the reference for the family likeness.
+  (Urðr holds the spun ball, Verðandi the thread running through her hands, Skuld the shears and the loose
+  end; a helmet beside Skuld, since she rides as a valkyrie).
+- The four dwarves under the sky `austri`, `sudri`, `vestri`, `nordri`: the same dwarf holding up the edge
+  of the sky, in dawn, noon, dusk and night light.
+- `hugi`, `logi`, `elli` (Útgarða-Loki's three tricks): a runner who is half a blur, an eater who is flame,
+  an old woman in a wrestler's stance.
+- `svafa`, `sigrun`, `kara`: Helgi's valkyrie born three times, the same face.
+- The three vessels of the mead `odrerir`, `bodn`, `son`; the brothers `slagfidr` and `egill`.
 
 ## 7. Creatures, places and things in the test set and after
 
@@ -236,7 +240,9 @@ to be written after the style is chosen):
 2. Choice of style.
 3. The 28 plate figures (section 5): these replace the cut-outs from the plates first.
 4. Pairs and sets (section 6), then the creatures, places and things (section 7).
-5. Everyone else who has a card (333 cards in all); briefs for these are written after the choice.
+5. Everyone else who has a card. All 333 cards have a subject line in `briefs.json` (the wording of
+   sections 5-7 for the first seventy; the rest only there). Pairs and sets share a sheet, so the full set
+   in one style is 296 sheets.
 
 ## 9. How it runs
 
