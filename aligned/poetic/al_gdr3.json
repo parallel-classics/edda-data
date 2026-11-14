@@ -41,6 +41,12 @@
        "t": "p",
        "s": "Atli had a serving-woman named Herkia, who had been his concubine. She informed Atli that she had seen Thiodrek and Gudrun together; whereat Atli was much afflicted. Then Gudrun said:"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Herkja was the name of a serving-woman of Atli's; she had been his concubine. She told Atli that she had seen Thjothrek and Guthrun together. Atli was very angry at this. Then Guthrun said:"
+      }
      ]
     },
     {
@@ -100,6 +106,18 @@
       {
        "t": "p",
        "s": "What ails thee ever, Atli! Budli's son! Hast thou sorrow in thy heart? Why never laughest thou? To thy jarls it would seem more desirable, that thou with men wouldst talk, and on me wouldst look."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"What is your sorrow, Atli, | Buthli's son?",
+        "Is your heart heavy? | Why do you never laugh?",
+        "It would suit | the warrior far better",
+        "to speak with men, | and to look at me.\""
+       ]
       }
      ]
     },
@@ -177,6 +195,19 @@
        "t": "p",
        "s": "It grieves me, Gudrun! Giuki's daughter! that in my palace here, Herkia has said, that thou and Thiodrek have under one covering slept, and wantonly been in the linen wrapt."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Atli said:",
+        "\"It troubles me, Guthrun, | Gjuki's daughter,",
+        "what Herkja has told me | here in the hall,",
+        "that you lie | in bed with Thjothrek,",
+        "beneath the linen, | as lovers do.\""
+       ]
+      }
      ]
     },
     {
@@ -253,6 +284,19 @@
        "t": "p",
        "s": "For all this charge I will give my oaths by the white sacred stone, that with me and Thiodrek nothing has passed, which to man and wife only belongs;"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Guthrun said:",
+        "\"This I shall | now swear with oaths,",
+        "swear by the sacred | stone so white,",
+        "that there was nothing | with Thjothmar's son",
+        "that man or woman | may not know."
+       ]
+      }
      ]
     },
     {
@@ -312,6 +356,18 @@
       {
        "t": "p",
        "s": "Save that I embraced the prince of armies, the honoured king, a single time. Other were our cogitations, when sorrowful we two sat to converse."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "\"Not even once | did my arms embrace",
+        "the brave hero, | the leader of hosts;",
+        "our meeting | was of another kind,",
+        "when we told | our sorrows in secret."
+       ]
       }
      ]
     },
@@ -373,6 +429,18 @@
        "t": "p",
        "s": "Hither came Thiodrek, with thirty warriors; now there lives not one of those thirty men. Surround me with thy brothers, and with mailed warriors; surround me with all thy noblest kinsmen."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "\"With thirty warriors | Thjothrek came,",
+        "and of all his men | not one remains;",
+        "you have murdered my brothers | and mail-clad men,",
+        "you have murdered all | the men of my race."
+       ]
+      }
      ]
     },
     {
@@ -419,7 +487,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Gunnar does not come, | I do not greet Hogni,",
+        "I no longer see | my dear brothers;",
+        "Hogni would avenge | my sorrow with the sword,",
+        "now I myself | must win payment for my wrongs."
+       ]
+      }
+     ]
     },
     {
      "id": "gdr3-s7",
@@ -474,6 +554,18 @@
       {
        "t": "p",
        "s": "Seven hundred men entered the hall, ere in the cauldron the queen dipt her hand."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Summon Saxi, | the southerners' king,",
+        "for he can hallow | the boiling cauldron.\"",
+        "Seven hundred | were there in the hall,",
+        "before the queen thrust | her hand into the cauldron."
+       ]
       }
      ]
     },
@@ -545,6 +637,18 @@
       {
        "t": "p",
        "s": "\"Now Gunnar comes not, nor call I Hogni: I shall not see again my loved brothers: with his sword would Hogni such wrong avenge: now I must myself purify from crime.\""
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "She reached to the bottom | with her bright hand,",
+        "and brought out | the flashing stones:",
+        "\"See, you warriors, | I am fully cleared",
+        "of sin by the cauldron's | sacred boiling.\""
+       ]
       }
      ]
     },
@@ -668,6 +772,18 @@
        "t": "p",
        "s": "Laughed then Atli's heart within his breast, when he unscathed beheld the hand of Gudrun. \"Now must Herkia to the cauldron go, she who Gudrun had hoped to injure.\" No one has misery seen who saw not that, how the hand there of Herkia was burnt. They then the woman led to a foul slough. So were Gudrun's wrongs avenged."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Then Atli's heart | laughed with happiness,",
+        "when he saw | Guthrun's hand unhurt;",
+        "\"Now Herkja shall come | to try the cauldron,",
+        "she who planned | grief for Guthrun.\""
+       ]
+      }
      ]
     },
     {
@@ -722,7 +838,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "No man ever saw | a sadder sight than this,",
+        "how Herkja's hands | were burned then;",
+        "they threw the maid | into a foul bog,",
+        "and so Guthrun's | grief was repaid."
+       ]
+      }
+     ]
     }
    ],
    "notes": [

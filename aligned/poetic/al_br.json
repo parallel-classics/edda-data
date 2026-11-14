@@ -129,7 +129,29 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "The fire raged, | the earth shook,",
+        "the flames leapt high | to heaven itself;",
+        "few were the bold | heroes who would dare",
+        "to ride or leap | the raging flames."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Sigurth then urged Grani | on with his sword,",
+        "the fire slackened | before the hero,",
+        "the flames sank low | for the one greedy for fame,",
+        "the armour flashed | that Regin had made."
+       ]
+      }
+     ]
     },
     {
      "id": "br-s3",
@@ -193,7 +215,19 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Sigurth killed | the dragon, and that",
+        "men will recall | while the world lasts;",
+        "but your brother | had little boldness",
+        "to ride or leap | the raging flames."
+       ]
+      }
+     ]
     },
     {
      "id": "br-s4",
@@ -247,7 +281,19 @@
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "Out went Sigurth, | and sought no talk,",
+        "the friend of heroes, | with his head bowed;",
+        "such was his grief | that his mail-coat,",
+        "all wrought of iron, | burst apart."
+       ]
+      }
+     ]
     },
     {
      "id": "br-s5",
@@ -312,6 +358,17 @@
       {
        "t": "p",
        "s": "\"Why art thou, Brynhild! Budli's daughter! absorbed in evil and murderous thoughts? What injury has Sigurd done thee, that thou the hero wilt of life bereave?\""
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Hogni said:",
+        "\"(What evil deed | has Sigurth) done,",
+        "that you wish to have | the hero's life?\""
+       ]
       }
      ]
     },
@@ -389,6 +446,19 @@
        "t": "p",
        "s": "\"Sigurd to me oaths has sworn, oaths sworn, all falsehoods. He at a time deceived me when he should have been of all oaths most observant.\""
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Gunnar said:",
+        "\"Sigurth has sworn | oaths to me,",
+        "sworn oaths, | and broken them all;",
+        "he betrayed me there | where, I think,",
+        "he ought most truly | to have kept all his oaths.\""
+       ]
+      }
      ]
     },
     {
@@ -465,6 +535,19 @@
        "t": "p",
        "s": "\"Thee Brynhild has in anger instigated evil to perpetrate, harm to execute. She grudges Gudrun her happy marriage, and thee, possession of herself.\" * * *"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Hogni said:",
+        "\"Brynhild has whetted | your heart to hate,",
+        "to work evil | and win harm;",
+        "she grudges the honour | that Guthrun has,",
+        "and that you still | have the joy of her.\""
+       ]
+      }
      ]
     },
     {
@@ -525,6 +608,18 @@
        "t": "p",
        "s": "Some a wolf roasted, some a snake cut up, some to Guthorm served the wolf, before they might, eager for crime, on the mighty man lay their hands."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "They cooked a wolf, | they cut up a snake,",
+        "they gave Gotthorm | the greedy one's flesh,",
+        "before the men, | with murder in mind,",
+        "laid their hands | on the bold hero."
+       ]
+      }
      ]
     },
     {
@@ -579,7 +674,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Sigurth was killed | south of the Rhine;",
+        "from a branch a raven | called very loudly:",
+        "\"Your blood shall redden | Atli's blade,",
+        "and your oaths shall bind | you both in chains.\""
+       ]
+      }
+     ]
     },
     {
      "id": "br-s10",
@@ -639,6 +746,18 @@
        "t": "p",
        "s": "Without stood Gudrun, Giuki's daughter, and these words first of all uttered: \"Where is now Sigurd, lord of warriors, seeing that my kinsmen foremost ride?\""
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Outside stood Guthrun, | Gjuki's daughter;",
+        "hear now the words | that she spoke first:",
+        "\"Where is Sigurth now, | the noble king,",
+        "that my kinsmen come | riding ahead of him?\""
+       ]
+      }
      ]
     },
     {
@@ -693,6 +812,17 @@
       {
        "t": "p",
        "s": "Hogni alone to her answer gave: \"Asunder have we Sigurd hewed with our swords; his grey steed bends o'er the dead chief.\""
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Only this | did Hogni answer:",
+        "\"We have killed | Sigurth with our swords;",
+        "the grey horse mourns | by his dead master.\""
+       ]
       }
      ]
     },
@@ -754,6 +884,18 @@
        "t": "p",
        "s": "Then said Brynhild, Budli's daughter: \"Well shall ye now enjoy arms and lands. Sigurd would alone over all have ruled, had he a little longer life retained."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Then Brynhild spoke, | the daughter of Buthli:",
+        "\"Well may you enjoy | weapons and lands;",
+        "Sigurth alone | would have been lord of all,",
+        "if his life had lasted | a little longer."
+       ]
+      }
      ]
     },
     {
@@ -813,6 +955,18 @@
       {
        "t": "p",
        "s": "Unseemly it had been that he should so have ruled over Giuki's heritage and the Goths' people, when he five sons, for the fall of hosts, eager for warfare, had begotten.\""
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"It would not be right | that he should so rule",
+        "over Gjuki's wealth | and the race of the Goths;",
+        "five are the sons, | fit to rule the people",
+        "and greedy for battle, | that he has fathered.\""
+       ]
       }
      ]
     },
@@ -874,6 +1028,18 @@
        "t": "p",
        "s": "Then laughed Brynhild—the whole burgh resounded—once only from her whole heart: \"Well shall ye enjoy lands and subjects, now the daring king ye have caused to fall.\""
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Then Brynhild laughed, | and the building echoed,",
+        "only once, | with all her heart;",
+        "\"Long may you enjoy | lands and men,",
+        "now that you have killed | the noble hero.\""
+       ]
+      }
      ]
     },
     {
@@ -933,6 +1099,18 @@
       {
        "t": "p",
        "s": "Then said Gudrun, Giuki's daughter: \"Much thou speakest, things most atrocious: may fiends have Gunnar, Sigurd's murderer! Souls malevolent vengeance awaits.\""
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Then Guthrun spoke, | the daughter of Gjuki:",
+        "\"You say much | in evil speech;",
+        "cursed be Gunnar, | Sigurth's killer;",
+        "vengeance shall come | for his cruel heart.\""
+       ]
       }
      ]
     },
@@ -998,6 +1176,18 @@
        "t": "p",
        "s": "Evening was advanced, much was drunken, then did pleasant talk of all kinds pass: all sank in sleep, when to rest they went. Gunnar alone was wakeful longer than all:"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Evening came early, | and ale was drunk,",
+        "and long and loud | they talked among themselves;",
+        "they all slept | when they went to their beds,",
+        "but Gunnar alone | was long awake."
+       ]
+      }
      ]
     },
     {
@@ -1057,6 +1247,18 @@
       {
        "t": "p",
        "s": "He began his foot to move, and much with himself to speak; the warlike chief in his mind pondered, what during the conflict the raven and the eagle were ever saying, as they rode home."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "His feet were restless, | he talked to himself,",
+        "and the slayer of hosts | began to heed",
+        "what the two in the tree | had told him then,",
+        "the raven and the eagle, | as they rode home."
+       ]
       }
      ]
     },
@@ -1118,6 +1320,18 @@
        "t": "p",
        "s": "Brynhild awoke, Budli's daughter, daughter of Skioldungs, a little ere day: \"Urge me or stay me—the mischief is perpetrated—my sorrow to pour forth, or to suppress it.\""
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Brynhild awoke, | the daughter of Buthli,",
+        "the warrior's daughter, | before the dawn of day:",
+        "\"Love me or hate me, | the harm is done,",
+        "and my grief cries out, | or else I die.\""
+       ]
+      }
      ]
     },
     {
@@ -1177,6 +1391,18 @@
       {
        "t": "p",
        "s": "All were silent at these words; few understood the lady's conduct, that weeping she should begin to speak of what she laughing had desired."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "All were silent | who heard her speak,",
+        "and they knew nothing | of the queen's heart,",
+        "who wept such tears | to tell of the thing",
+        "that once, laughing, | she had won from the men."
+       ]
       }
      ]
     },
@@ -1258,6 +1484,29 @@
        "t": "p",
        "s": "\"In my dream, Gunnar! all seemed so horrid, in the chamber all was dead; my bed was cold; and thou, king! wast riding of joy bereft, with fetters loaded, to a hostile host. So will ye all, race of Niflungs! be of power deprived, perjurers as ye are!"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Brynhild said:",
+        "\"Gunnar, I dreamed | a very grim dream:",
+        "in the hall were corpses; | my bed was cold;",
+        "and you, ruler, | rode joyless,",
+        "bound with fetters | in the throng of your foes."
+       ]
+      },
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"..............",
+        "..............",
+        "Now your Niflung race | shall die,",
+        "all of it, utterly; | you have broken your oaths."
+       ]
+      }
      ]
     },
     {
@@ -1317,6 +1566,18 @@
       {
        "t": "p",
        "s": "Ill Gunnar! didst thou remember, when blood ye in your footsteps both let flow; now hast thou him ill for all that requited, because he would prove himself foremost."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"You have forgotten, | Gunnar, the deed,",
+        "when you both mingled | blood in your footprints;",
+        "you have repaid | all with evil to him",
+        "who wished to make you | the foremost of kings."
+       ]
       }
      ]
     },
@@ -1378,6 +1639,18 @@
        "t": "p",
        "s": "Then was it proved, when the hero had ridden to see me, to woo me, how the warlike chief whilom held sacred his oath towards the youthful prince."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"He proved well, | when he rode proudly",
+        "to win me then | to be your wife,",
+        "how truly the host-slayer | had always kept",
+        "the oaths he had made | with the young king."
+       ]
+      }
      ]
     },
     {
@@ -1438,6 +1711,18 @@
        "t": "p",
        "s": "Laid his sword, with gold adorned, the illustrious king between us both: outward its edges were with fire wrought, but with venom drops tempered within.\""
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "\"Then the wound-staff, | all wound with gold,",
+        "the hero let | lie between us;",
+        "its edge was forged | very keen with fire,",
+        "and the blade was damp | with drops of poison.\""
+       ]
+      }
      ]
     },
     {
@@ -1477,6 +1762,12 @@
       {
        "t": "p",
        "s": "From this lay, in which the death of Sigurd is related, it appears that he was slain without doors, while some relate that he was slain sleeping in his bed: but the Germans say he was slain out in the forest; and it is told in the \"Gudrunarkvida hin Forna,\" that Sigurd and the sons of Giuki had ridden to the public assembly (thing) when he was slain. But it is said by all, without exception, that they broke faith with him, and attacked him while lying down and unprepared."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "This poem tells of the death of Sigurth, and here the story is that they killed him out of doors; but some say that they killed him in the house, in his bed while he was asleep. But Germans say that they killed him out of doors in the forest; and the old Guthrun lay likewise says that Sigurth and Gjuki's sons had ridden to the council-place, and that he was killed there. But on this they all agree: that they betrayed his trust in them, and attacked him when he was lying down and unprepared."
       }
      ]
     }

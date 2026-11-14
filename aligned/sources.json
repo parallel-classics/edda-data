@@ -52,10 +52,10 @@
   },
   "oe-modern-brodeur": {
    "kind": "ai",
-   "label": "Open Edda, modernised Brodeur",
+   "label": "Open Edda, modernised English",
    "lang": "en",
    "licence": "CC BY 4.0",
-   "title": "Open Edda's modernisation of A. G. Brodeur's translation (1916): AI draft, reviewed row by row in review mode; CC BY 4.0"
+   "title": "Open Edda's modernisation of the public-domain English translations (A. G. Brodeur 1916 for Snorri's Edda; H. A. Bellows 1923 and B. Thorpe 1866 for the poems): AI draft, reviewed row by row in review mode; CC BY 4.0"
   },
   "anderson-1880": {
    "kind": "published",
@@ -69,7 +69,8 @@
   "p": {
    "on": "gudni-1954",
    "is": "modernizer",
-   "en": "brodeur-1916"
+   "en": "brodeur-1916",
+   "en-modern": "oe-modern-brodeur"
   },
   "g": {
    "on": "gudni-1954",
@@ -81,7 +82,8 @@
   "s": {
    "on": "gudni-1954",
    "is": "modernizer",
-   "en": "brodeur-1916"
+   "en": "brodeur-1916",
+   "en-modern": "oe-modern-brodeur"
   },
   "h": {
    "on": "gudni-1954",
@@ -92,6 +94,7 @@
    "on": "gudni-1949",
    "is": "modernizer",
    "en": "bellows-1923",
+   "en-modern": "oe-modern-brodeur",
    "en-thorpe": "thorpe-1866"
   }
  },

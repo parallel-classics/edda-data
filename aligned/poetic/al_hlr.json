@@ -41,6 +41,12 @@
        "t": "p",
        "s": "After Brynhild's death, two piles were made, one for Sigurd, which was the first burnt; but Brynhild was burnt afterwards, and she was in a chariot, which was hung with precious tapestry; so that it was said that Brynhild drove in a chariot on the way to Hel, and passed through a place in which a giantess dwelt. The giantess said:"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "After the death of Brynhild two funeral pyres were made, one for Sigurth, and that burned first, and on the other Brynhild was burned, and she was on a wagon covered with a rich cloth. It is said that Brynhild went in the wagon along the road to Hel, and passed by a house where a certain giantess lived. The giantess said:"
+      }
      ]
     },
     {
@@ -101,6 +107,18 @@
        "t": "p",
        "s": "\"Thou shalt not pass through my stone-supported dwelling place. Better had it beseemed thee to work broidery, than to seek after another's husband."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"You shall go | no further forward",
+        "across my dwelling | ribbed with rocks;",
+        "it would be more fitting | to stay at your weaving",
+        "than to follow here | another's husband."
+       ]
+      }
      ]
     },
     {
@@ -160,6 +178,18 @@
       {
        "t": "p",
        "s": "Why dost thou, vagrant woman! from Valland, my dwelling visit? Thou hast, golden dame! if thou desirest to know, gentle one! from thy hands washed human blood.\""
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "\"What do you want | from Valland here,",
+        "fickle of heart, | in this house of mine?",
+        "Gold-goddess, now, | if you want to know,",
+        "you have washed heroes' blood | from your hands.\""
+       ]
       }
      ]
     },
@@ -237,6 +267,19 @@
        "t": "p",
        "s": "\"Upbraid me not, woman of the rock! although I have in warfare been. Of us, I trow, I shall the better seem, wherever men our conditions know.\""
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Brynhild said:",
+        "\"Do not scold me, woman | from the rocky walls,",
+        "though once I used | to go to battle;",
+        "I shall seem | better than you",
+        "when men truly | know the two of us.\""
+       ]
+      }
      ]
     },
     {
@@ -312,6 +355,19 @@
       {
        "t": "p",
        "s": "\"Thou, Brynhild! Budli's daughter! wast in evil hour born in the world; thou hast been the bane of Giuki's children, and their happy house subverted.\""
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "The giantess said:",
+        "\"Brynhild, you were, | Buthli's daughter,",
+        "born into the world | for the worst of evils;",
+        "you have given to death | Gjuki's children,",
+        "and brought their lofty | house down low.\""
+       ]
       }
      ]
     },
@@ -393,6 +449,19 @@
        "t": "p",
        "s": "The bold-hearted king caused the garbs of us eight sisters under an oak to be borne. Twelve years old was I, if thou desirest to know, when to the youthful king oaths I gave."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Brynhild said:",
+        "\"From the wagon here | I tell you the truth,",
+        "witless one, | if you want to know",
+        "how the heirs of Gjuki | made me",
+        "joyless for ever, | a breaker of oaths."
+       ]
+      }
      ]
     },
     {
@@ -444,6 +513,18 @@
       {
        "t": "p",
        "s": "By all in Hlymdalir I was called Hild with the helm, by all who knew me."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "\"Hild the helmeted | in Hlymdalir",
+        "they called me of old, | all who knew me.",
+        "..............",
+        ".............."
+       ]
       }
      ]
     },
@@ -543,7 +624,19 @@
      ],
      "en_cont": false,
      "is_cont": false,
-     "quoted_in": []
+     "quoted_in": [],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"The bold monarch | carried the swan-robes",
+        "of the eight sisters | beneath an oak;",
+        "I was twelve winters old, | if you want to know,",
+        "when I gave my oaths | to the young king."
+       ]
+      }
+     ]
     },
     {
      "id": "hlr-s9",
@@ -602,6 +695,18 @@
       {
        "t": "p",
        "s": "Then caused I next, in the Gothic realm, the old Hialmgunnar to Hel to journey: I gave victory to the youthful brother of Oda, whereat Odin became hostile to me."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "\"Next I let | the leader of the Goths,",
+        "Hjalmgunnar the old, | go down to hell,",
+        "and brought victory | to Autha's brother;",
+        "for this Othin's | anger was mighty."
+       ]
       }
      ]
     },
@@ -663,6 +768,18 @@
        "t": "p",
        "s": "He with shields encompassed me, red and white, in Skatalund; their surfaces enclosed me; him he ordained my sleep to break, who in no place could be made to fear."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "\"He ringed me with shields | in Skatalund,",
+        "red and white, | their rims overlapping;",
+        "he ordered that my sleep | should be broken",
+        "by him who had | nowhere found fear."
+       ]
+      }
      ]
     },
     {
@@ -722,6 +839,18 @@
       {
        "t": "p",
        "s": "He made around my hall, towards the south, towering burn the destroyer of all wood: then bade that man only over it to ride, who me the gold should bring, that under Fafnir lay."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "\"Round my hall, | that looked to the south,",
+        "he let the branches' foe | burn leaping high;",
+        "across it he told | the hero to come",
+        "who brought me the gold | that Fafnir guarded."
+       ]
       }
      ]
     },
@@ -783,6 +912,18 @@
        "t": "p",
        "s": "On Grani rode the chief, the gold-disperser, to where my foster-father ruled o'er the dwellings. He alone seemed there to all superior, the Danish warrior, of the court."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"On Grani rode | the giver of gold,",
+        "where my foster-father | ruled his people;",
+        "he seemed to be | the best of all,",
+        "the prince of the Danes, | when the people met."
+       ]
+      }
      ]
     },
     {
@@ -842,6 +983,18 @@
       {
        "t": "p",
        "s": "We slept and were content in the same bed, as if he had my born brother been; neither of us might on the other, for eight nights, lay a hand."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "\"Happy we slept, | we had one bed,",
+        "as if he had been | born my brother;",
+        "for eight nights | neither of us there",
+        "laid a loving hand | on the other."
+       ]
       }
      ]
     },
@@ -903,6 +1056,18 @@
        "t": "p",
        "s": "Reproached me Gudrun, Giuki's daughter, that I had slept in Sigurd's arms; then was I made aware of what I fain would not,—that they had deceived me, when a mate I took."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "\"Yet Guthrun reproached me, | Gjuki's daughter,",
+        "that I had slept | in Sigurth's arms;",
+        "then I heard | what I wish had been hidden,",
+        "that they had betrayed me | in taking a mate."
+       ]
+      }
      ]
     },
     {
@@ -962,6 +1127,18 @@
       {
        "t": "p",
        "s": "To calamities all too lasting men and women ever will be while living born. We two shall now, Sigurd and I pass our life together. Sink thou of giant-kind!\""
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "\"Ever with grief | and all too long",
+        "are men and women | born into the world;",
+        "but yet we shall live | our lives together,",
+        "Sigurth and I. | Sink down, Giantess!\""
+       ]
       }
      ]
     }

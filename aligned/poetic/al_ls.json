@@ -49,6 +49,16 @@
        "t": "p",
        "s": "Œgir had two servants, Fimafeng and Eldir. Bright gold was there used instead of fire-light. The beer served itself to the guests. The place was a great sanctuary. The guests greatly praised the excellence of Œgir's servants. This Loki could not hear with patience, and so slew Fimafeng; whereupon the Æsir shook their shields, exclaimed against Loki, chased him into the forest, and then returned to drink. Loki came again, and found Eldir standing without, whom he thus addressed:"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Ægir, who was also called Gymir, had prepared ale for the gods, after he had got the mighty cauldron, as has just been told. Othin and Frigg, his wife, came to this feast. Thor did not come, as he was on a journey in the East. Sif, Thor's wife, was there, and Bragi with Ithun, his wife. Tyr, who had only one hand, was there; the wolf Fenrir had bitten off his other hand when they had bound him. Njorth and Skathi his wife were there, Freyr and Freyja, and Vithar, the son of Othin. Loki was there, and Freyr's servants Byggvir and Beyla. Many of the gods and elves were there."
+      },
+      {
+       "t": "p",
+       "s": "Ægir had two servants, Fimafeng and Eldir. They had glittering gold in place of firelight; the ale came in of itself; and the peace was great. The guests greatly praised the ability of Ægir's servants. Loki could not bear that, and he killed Fimafeng. Then the gods shook their shields and howled at Loki and drove him away to the forest, and after that they set to drinking again. Loki turned back, and outside he met Eldir. Loki spoke to him:"
+      }
      ]
     },
     {
@@ -104,6 +114,18 @@
       {
        "t": "p",
        "s": "Tell me, Eldir! ere thou thy foot settest one step forward, on what converse the sons of the triumphant gods at their potation?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Speak now, Eldir, | for not one step",
+        "further shall you go;",
+        "what ale-talk do they have | in here,",
+        "the sons of the glorious gods?\""
+       ]
       }
      ]
     },
@@ -177,6 +199,19 @@
        "t": "p",
        "s": "Of their arms converse, and of their martial fame, the sons of the triumphant gods. Of the Æsir and the Alfar that are here within not one has a friendly word for thee."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Eldir said:",
+        "\"They talk of their weapons | and their might in war,",
+        "the sons of the glorious gods;",
+        "among the gods and elves | who are gathered here",
+        "you will find no friend in words.\""
+       ]
+      }
      ]
     },
     {
@@ -248,6 +283,19 @@
       {
        "t": "p",
        "s": "I will go into Œgir's halls, to see the compotation. Strife and hate to the Æsir's sons I bear, and will mix their mead with bale."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Loki said:",
+        "\"In I shall go, | into Ægir's hall,",
+        "for I would gladly see the feast;",
+        "harm and hatred | I bring to the gods,",
+        "and I mix their mead with poison.\""
+       ]
       }
      ]
     },
@@ -321,6 +369,19 @@
        "t": "p",
        "s": "Knowest thou not that if thou goest into Œgir's halls to see the compotation, but contumely and clamour pourest forth on the kindly powers, they will wipe it all off on thee?"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Eldir said:",
+        "\"If you go in | to Ægir's hall,",
+        "and would gladly see the feast,",
+        "and would sprinkle the gods | with slander and spite,",
+        "take care that they do not wipe it on you.\""
+       ]
+      }
      ]
     },
     {
@@ -393,6 +454,19 @@
        "t": "p",
        "s": "Knowest thou not, Eldir, that if we two with bitter words contend, I shall be rich in answers, if thou sayest too much?"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Loki said:",
+        "\"Remember, Eldir, | if you and I",
+        "are to quarrel with spiteful speech,",
+        "I grow richer | in ready words",
+        "if you say too much to me.\""
+       ]
+      }
      ]
     },
     {
@@ -424,6 +498,12 @@
       {
        "t": "p",
        "s": "Loki then went into the hall, but when those present saw who was come in, they all sat silent."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Then Loki went into the hall, but when those who were there saw who had come in, they all fell silent."
       }
      ]
     },
@@ -526,6 +606,29 @@
        "t": "p",
        "s": "Why gods! are ye so silent, so reserved, that ye cannot speak? A seat and place choose for me at your board, or bid me hie me hence."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Loki said:",
+        "\"Thirsty I come | into this hall of yours,",
+        "I, Lopt, from a long journey,",
+        "to ask the gods | that one of them give me",
+        "fine mead to drink."
+       ]
+      },
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "\"Why do you sit silent, | swollen with pride,",
+        "you gods, and give no answer?",
+        "Prepare me a place | and a seat at your feast,",
+        "or tell me to be gone.\""
+       ]
+      }
      ]
     },
     {
@@ -597,6 +700,19 @@
       {
        "t": "p",
        "s": "A seat and place will the Æsir never choose for thee at their board; for well the Æsir know for whom they ought to hold a joyous compotation."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Bragi said:",
+        "\"A place and a seat | the gods will prepare",
+        "no more among them for you;",
+        "for the gods know well | which men they wish",
+        "to find at their mighty feasts.\""
+       ]
       }
      ]
     },
@@ -670,6 +786,19 @@
        "t": "p",
        "s": "Odin! dost thou remember when we in early days blended our blood together? When to taste beer thou didst constantly refuse, unless to both 'twas offered?"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Loki said:",
+        "\"Remember, Othin, | that in the old days",
+        "we two mixed our blood together;",
+        "you promised then | to pour no ale",
+        "unless it was brought for us both.\""
+       ]
+      }
      ]
     },
     {
@@ -742,6 +871,19 @@
        "t": "p",
        "s": "Rise up, Vidar! and let the wolf's sire sit at our compotation; that Loki may not utter words of contumely in Œgir's hall."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Othin said:",
+        "\"Stand up then, Vithar, | and let the wolf's father",
+        "find a seat at our feast,",
+        "so that Loki does not | speak evil aloud",
+        "here within Ægir's hall.\""
+       ]
+      }
      ]
     },
     {
@@ -773,6 +915,12 @@
       {
        "t": "p",
        "s": "Vidar then rising, presented Loki with drink, who before drinking thus addressed the Æsir:"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Then Vithar got up and poured drink for Loki; but before he drank he spoke to the gods:"
       }
      ]
     },
@@ -829,6 +977,18 @@
       {
        "t": "p",
        "s": "Hail, Æsir! Hail, Asyniur! And ye, all-holy gods! all, save that one As, who sits within there, Bragi, on yonder bench."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "\"Hail to you, gods! | Hail, you goddesses!",
+        "Hail to the holy throng!",
+        "All but the god | who sits over there,",
+        "Bragi there on the bench.\""
+       ]
       }
      ]
     },
@@ -901,6 +1061,19 @@
       {
        "t": "p",
        "s": "A horse and falchion I from my stores will give thee, and also with a ring reward thee, if thou the Æsir wilt not requite with malice. Provoke not the gods against thee."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Bragi said:",
+        "\"A horse and a sword | I will give from my hoard,",
+        "and Bragi gives a ring as well,",
+        "so that you stir up no hatred | among the gods;",
+        "so do not rouse the great ones to anger.\""
+       ]
       }
      ]
     },
@@ -977,6 +1150,20 @@
        "t": "p",
        "s": "Of horse and rings wilt thou ever, Bragi! be in want. Of the Æsir and the Alfar, that are here present, in conflict thou art the most backward, and in the play of darts most timid."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Loki said:",
+        "\"In horses and rings | you will never be rich,",
+        "Bragi, but will lack them both;",
+        "of the gods and elves | who are met together here",
+        "you are the least brave in battle,",
+        "(and you shrink most from the shot.)\""
+       ]
+      }
      ]
     },
     {
@@ -1048,6 +1235,19 @@
       {
        "t": "p",
        "s": "I know that were I without, as I am now within, the hall of Œgir, I thy head would bear in my hand, and so for lying punish thee."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Bragi said:",
+        "\"If I were outside now | as I am inside,",
+        "here in Ægir's hall,",
+        "I would carry your head | away in my hands,",
+        "and pay you the price of your lies.\""
+       ]
       }
      ]
     },
@@ -1121,6 +1321,19 @@
        "t": "p",
        "s": "Valiant on thy seat art thou, Bragi! but so thou shouldst not be, Bragi, the bench's pride! Go and fight, if thou art angry; a brave man sits not considering."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Loki said:",
+        "\"You are bold in your seat, | but not in your deeds,",
+        "Bragi, adorner of benches!",
+        "Go out and fight | if you feel angry;",
+        "no hero takes such forethought.\""
+       ]
+      }
      ]
     },
     {
@@ -1192,6 +1405,19 @@
       {
        "t": "p",
        "s": "I pray thee, Bragi! let avail the bond of children, and of all adopted sons, and to Loki speak not in reproachful words, in Œgir's hall."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Ithun said:",
+        "\"Come, Bragi, I beg you, | weigh his kinship,",
+        "since he was chosen as wish-son;",
+        "and do not speak to Loki | such words of spite",
+        "here within Ægir's hall.\""
+       ]
       }
      ]
     },
@@ -1265,6 +1491,19 @@
        "t": "p",
        "s": "Be silent, Idun! of all women I declare thee most fond of men, since thou thy arms, carefully washed, didst twine round thy brother's murderer."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Loki said:",
+        "\"Be silent, Ithun! | You are, I say,",
+        "of all women the most lustful in love,",
+        "since you wound your washed-bright | arms",
+        "about your brother's killer.\""
+       ]
+      }
      ]
     },
     {
@@ -1336,6 +1575,19 @@
       {
        "t": "p",
        "s": "Loki I address not with opprobrious words, in Œgir's hall. Bragi I soothe, by beer excited. I desire not that angry ye fight."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Ithun said:",
+        "\"I do not speak to Loki | with spiteful words",
+        "here within Ægir's hall;",
+        "and I calm Bragi, | who is hot with beer,",
+        "for I do not wish them to fight in anger.\""
+       ]
       }
      ]
     },
@@ -1409,6 +1661,19 @@
        "t": "p",
        "s": "Why will ye, Æsir twain, here within, strive with reproachful words? Lopt perceives not that he is deluded, and is urged on by fate."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Gefjun said:",
+        "\"Why do you two gods, | with bitter tongues,",
+        "raise hatred among us here?",
+        "Loki is famed | for his foul mockery,",
+        "and he hates the dwellers in heaven.\""
+       ]
+      }
      ]
     },
     {
@@ -1480,6 +1745,19 @@
       {
        "t": "p",
        "s": "Be silent. Gefion! I will now just mention, how that fair youth thy mind corrupted, who thee a necklace gave, and around whom thou thy limbs didst twine?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Loki said:",
+        "\"Be silent, Gefjun! | For now I shall say",
+        "who led you into an evil life;",
+        "the boy so fair | gave a bright necklace,",
+        "and your leg was laid about him.\""
+       ]
       }
      ]
     },
@@ -1555,6 +1833,19 @@
        "t": "p",
        "s": "Thou art raving, Loki! and hast lost thy wits, in calling Gefion's anger on thee; for all men's destinies, I ween, she knows as thoroughly as I do."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Othin said:",
+        "\"You are mad, Loki, | and of little wit,",
+        "to rouse the anger of Gefjun;",
+        "for the fate that is set | for all she sees",
+        "as well as I do, I think.\""
+       ]
+      }
      ]
     },
     {
@@ -1626,6 +1917,19 @@
       {
        "t": "p",
        "s": "Be silent, Odin! Thou never couldst allot conflicts between men: oft hast thou given to those to whom thou oughtest not—victory to cowards."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Loki said:",
+        "\"Be silent, Othin! | You do not justly settle",
+        "the fate of the fight among men;",
+        "often you gave to him | who did not deserve the gift,",
+        "to the lesser man, the battle's prize.\""
+       ]
       }
      ]
     },
@@ -1705,6 +2009,21 @@
        "t": "p",
        "s": "Knowest thou that I gave to those I ought not—victory to cowards? Thou wast eight winters on the earth below, a milch cow and a woman, and didst there bear children. Now that, methinks, betokens a base nature."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Othin said:",
+        "\"Though I gave to him | who did not deserve the gift,",
+        "to the lesser man, the battle's prize,",
+        "eight winters | you were under the earth,",
+        "milking the cows as a maid,",
+        "(yes, and you bore babies;",
+        "your soul must seem unmanly.)\""
+       ]
+      }
      ]
     },
     {
@@ -1776,6 +2095,19 @@
       {
        "t": "p",
        "s": "But, it is said, thou wentest with tottering steps in Samso, and knocked at houses as a Vala. In likeness of a fortune teller, thou wentest among people. Now that, methinks, betokens a base nature."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Loki said:",
+        "\"They say that with spells | in Samsey once",
+        "you worked charms like witches;",
+        "and in a witch's guise | you went among men;",
+        "your soul must seem unmanly.\""
+       ]
       }
      ]
     },
@@ -1849,6 +2181,19 @@
        "t": "p",
        "s": "Your doings ye should never publish among men, what ye, Æsir twain, did in days of yore. Ever forgotten be men's former deeds!"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Frigg said:",
+        "\"Of the deeds you two | did long ago",
+        "you should not speak among men;",
+        "whatever you have done | in days gone by,",
+        "old tales should never be told.\""
+       ]
+      }
      ]
     },
     {
@@ -1920,6 +2265,19 @@
       {
        "t": "p",
        "s": "Be thou silent, Frigg! Thou art Fiorgyn's daughter, and ever hast been fond of men, since Ve and Vili, it is said, thou, Vidrir's wife, didst both to thy bosom take."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Loki said:",
+        "\"Be silent, Frigg! | You are Fjorgyn's wife,",
+        "but always lustful in love;",
+        "for Vili and Ve, | you wife of Vithrir,",
+        "have both lain in your embrace.\""
+       ]
       }
      ]
     },
@@ -1993,6 +2351,19 @@
        "t": "p",
        "s": "Know thou that if I had, in Œgir's halls, a son like Baldr, out thou shouldst not go from the Æsir's sons: thou should'st have been fiercely assailed."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Frigg said:",
+        "\"If a son like Baldr | were beside me now,",
+        "here within Ægir's hall,",
+        "you would not get away | from the sons of the gods",
+        "until your fierceness in fight had been tested.\""
+       ]
+      }
      ]
     },
     {
@@ -2064,6 +2435,19 @@
       {
        "t": "p",
        "s": "But wilt thou, Frigg! that of my wickedness I more recount? I am the cause that thou seest not Baldr riding to the halls."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Loki said:",
+        "\"You wish then, Frigg, | that I tell more",
+        "of the evil that I now know;",
+        "mine is the blame | that you no longer see",
+        "Baldr ride home to the hall.\""
+       ]
       }
      ]
     },
@@ -2139,6 +2523,19 @@
        "t": "p",
        "s": "Mad art thou, Loki! in recounting thy foul misdeeds. Frigg, I believe, knows all that happens, although she says it not."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Freyja said:",
+        "\"You are mad, Loki, | to make known",
+        "the wrong and shame you have done;",
+        "Frigg knows well | the fate of all,",
+        "though she does not say it herself.\""
+       ]
+      }
      ]
     },
     {
@@ -2210,6 +2607,19 @@
       {
        "t": "p",
        "s": "Be thou silent, Freyia! I know thee full well; thou art not free from vices: of the Æsir and the Alfar, that are herein, each has been thy paramour."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Loki said:",
+        "\"Be silent, Freyja! | For I know you fully,",
+        "you are not sinless yourself;",
+        "of the gods and elves | who are gathered here,",
+        "each one has lain as your lover.\""
+       ]
       }
      ]
     },
@@ -2283,6 +2693,19 @@
        "t": "p",
        "s": "False is thy tongue. Henceforth it will, I think, prate no good to thee. Wroth with thee are the Æsir, and the Asyniur. Sad shalt thou home depart."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Freyja said:",
+        "\"Your tongue is false, | and soon you will find",
+        "that it sings you an evil song;",
+        "the gods are angry, | and all the goddesses,",
+        "and in grief you will go home.\""
+       ]
+      }
      ]
     },
     {
@@ -2354,6 +2777,19 @@
       {
        "t": "p",
        "s": "Be silent, Freyia! Thou art a sorceress, and with much evil blended; since against thy brother thou the gentle powers excited. And then, Freyia! what didst thou do?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Loki said:",
+        "\"Be silent, Freyja! | You foulest witch,",
+        "and steeped very deep in sin;",
+        "in your brother's arms | the bright gods caught you",
+        "when Freyja broke wind.\""
+       ]
       }
      ]
     },
@@ -2427,6 +2863,19 @@
        "t": "p",
        "s": "It is no great wonder, if silk-clad dames get themselves husbands, lovers; but 'tis a wonder that a wretched As, that has borne children, should herein enter."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Njorth said:",
+        "\"It does little harm | if a woman has",
+        "a husband or a lover or both;",
+        "but it is a wonder | that this womanish god",
+        "comes here, though he has borne babies.\""
+       ]
+      }
      ]
     },
     {
@@ -2498,6 +2947,19 @@
       {
        "t": "p",
        "s": "Be silent, Niord! Thou wast sent eastward hence, a hostage from the gods. Hymir's daughters had thee for an utensil, and flowed into thy mouth."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Loki said:",
+        "\"Be silent, Njorth; | you were sent eastward,",
+        "given to the gods as a hostage;",
+        "and the daughters of Hymir | had their privy",
+        "when they made use of your mouth.\""
+       ]
       }
      ]
     },
@@ -2571,6 +3033,19 @@
        "t": "p",
        "s": "'Tis to me a solace, as I a long way hence was sent, a hostage from the gods, that I had a son, whom no one hates, and accounted is a chief among the Æsir."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Njorth said:",
+        "\"Great was my gain, | though I was long away,",
+        "given to the gods as a hostage;",
+        "I had the son | whom no man hates,",
+        "and who is found foremost of gods.\""
+       ]
+      }
      ]
     },
     {
@@ -2642,6 +3117,19 @@
       {
        "t": "p",
        "s": "Cease now, Niord! in bounds contain thyself; I will no longer keep it secret: it was with thy sister thou hadst such a son; hardly worse than thyself."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Loki said:",
+        "\"Take heed now, Njorth, | and do not boast too much,",
+        "I will hide it no longer;",
+        "with your sister you had | so fair a son,",
+        "so you had no worse a hope.\""
+       ]
       }
      ]
     },
@@ -2715,6 +3203,19 @@
        "t": "p",
        "s": "Frey is best of all the exalted gods in the Æsir's courts: no maid he makes to weep, no wife of man, and from bonds looses all."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Tyr said:",
+        "\"Of the brave heroes | Freyr is the best",
+        "here in the home of the gods;",
+        "he harms neither girls | nor the wives of men,",
+        "and frees the bound from their fetters.\""
+       ]
+      }
      ]
     },
     {
@@ -2786,6 +3287,19 @@
       {
        "t": "p",
        "s": "Be silent, Ty! Thou couldst never settle a strife 'twixt two; of thy right hand also I must mention make, which Fenrir from thee tore."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Loki said:",
+        "\"Be silent, Tyr! | For between two men",
+        "you could never make friendship;",
+        "I would gladly tell | how Fenrir once",
+        "tore your right hand from you.\""
+       ]
       }
      ]
     },
@@ -2859,6 +3373,19 @@
        "t": "p",
        "s": "I of a hand am wanting, but thou of honest fame; sad is the lack of either. Nor is the wolf at ease: he in bonds must bide, until the gods' destruction."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Tyr said:",
+        "\"I lack my hand, | but you lack Hrothvitnir,",
+        "and the loss brings longing to both;",
+        "it goes badly for the wolf, | who must forever await",
+        "in fetters the fall of the gods.\""
+       ]
+      }
      ]
     },
     {
@@ -2930,6 +3457,19 @@
       {
        "t": "p",
        "s": "Be silent, Ty; to thy wife it happened to have a son by me. Nor rag nor penny ever hadst thou, poor wretch! for this injury."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Loki said:",
+        "\"Be silent, Tyr! | For your wife once happened",
+        "to have a son by me;",
+        "not a penny, I think, | were you paid for the wrong,",
+        "nor given an inch of redress, poor wretch.\""
+       ]
       }
      ]
     },
@@ -3003,6 +3543,19 @@
        "t": "p",
        "s": "I the wolf see lying at the river's mouth, until the powers are swept away. So shalt thou be bound, if thou art not silent, thou framer of evil."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "Freyr said:",
+        "\"By the mouth of the river | the wolf remains",
+        "until the gods go to destruction;",
+        "you too will soon, | if your tongue is not stilled,",
+        "be fettered, you forger of evil.\""
+       ]
+      }
      ]
     },
     {
@@ -3074,6 +3627,19 @@
       {
        "t": "p",
        "s": "With gold thou boughtest Gymir's daughter, and so gavest away thy sword: but when Muspell's sons through the dark forest ride, thou, unhappy, wilt not have wherewith to fight."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "Loki said:",
+        "\"The daughter of Gymir | you bought with gold,",
+        "and sold your sword as well;",
+        "but when Muspell's sons | ride through Myrkwood,",
+        "you will wait weaponless, poor wretch.\""
+       ]
       }
      ]
     },
@@ -3147,6 +3713,19 @@
        "t": "p",
        "s": "Know that were I of noble race, like Ingun's Frey, and had so fair a dwelling, than marrow softer I would bray that ill-boding crow, and crush him limb by limb."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "Byggvir said:",
+        "\"If I had a birth as famous | as Ingunar-Freyr's,",
+        "and sat in so lofty a seat,",
+        "I would crush to marrow | this croaker of evil,",
+        "and beat his whole body to bits.\""
+       ]
+      }
      ]
     },
     {
@@ -3218,6 +3797,19 @@
       {
        "t": "p",
        "s": "What little thing is that I see wagging its tail, and snapping eagerly? At the ears of Frey thou shouldst ever be, and clatter under mills."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "Loki said:",
+        "\"What little creature | goes crawling there,",
+        "snuffling and snapping about?",
+        "At Freyr's ears | you will always be found,",
+        "or muttering hard at the mill.\""
+       ]
       }
      ]
     },
@@ -3291,6 +3883,19 @@
        "t": "p",
        "s": "Byggvir I am named, and am thought alert, by all gods and men; therefore am I joyful here, that all the sons of Hropt drink beer together."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "Byggvir said:",
+        "\"Byggvir is my name, | and I am nimble,",
+        "as gods and men grant;",
+        "and here I am proud | that the children of Hropt",
+        "all drink ale together.\""
+       ]
+      }
      ]
     },
     {
@@ -3362,6 +3967,19 @@
       {
        "t": "p",
        "s": "Be silent, Byggvir! Thou couldst never dole out food to men, when, lying in thy truckle bed, thou wast not to be found, while men were fighting."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "Loki said:",
+        "\"Be silent, Byggvir! | You could never set",
+        "men their shares of the food;",
+        "hidden in straw on the floor, | they did not find you",
+        "when heroes were eager to fight.\""
+       ]
       }
      ]
     },
@@ -3435,6 +4053,19 @@
        "t": "p",
        "s": "Loki, thou art drunk, and hast lost thy wits. Why dost thou not leave off, Loki? But drunkenness so rules every man, that he knows not of his garrulity."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "Heimdall said:",
+        "\"You are drunk, Loki, | and your deeds are mad;",
+        "why, Loki, do you not leave off?",
+        "For drink beyond measure | will lead all men",
+        "to take no thought of their tongues.\""
+       ]
+      }
      ]
     },
     {
@@ -3506,6 +4137,19 @@
       {
        "t": "p",
        "s": "Be silent, Heimdall! For thee in early days was that hateful life decreed: with a wet back thou must ever be, and keep watch as guardian of the gods."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "Loki said:",
+        "\"Be silent, Heimdall! | In days long past",
+        "an evil fate was fixed for you;",
+        "with back held stiff | you must always stand,",
+        "to watch as guardian of heaven.\""
+       ]
       }
      ]
     },
@@ -3579,6 +4223,19 @@
        "t": "p",
        "s": "Thou art merry, Loki! Not long wilt thou frisk with an unbound tail; for thee, on a rock's point, with the entrails of thy ice-cold son, the gods will bind."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "Skathi said:",
+        "\"You are light of heart, Loki, | but you may no longer",
+        "flourish your tail in freedom;",
+        "on the rocks the gods bind you | with bowels torn",
+        "out of your frost-cold son.\""
+       ]
+      }
      ]
     },
     {
@@ -3651,6 +4308,19 @@
        "t": "p",
        "s": "Know, if on a rock's point, with the entrails of my ice-cold son, the gods will bind me, that first and foremost I was at the slaying, when we assailed Thiassi."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "Loki said:",
+        "\"Though on rocks the gods bind me | with bowels torn",
+        "out of my frost-cold son,",
+        "I was first and last | at the deadly fight",
+        "where we caught Thjazi.\""
+       ]
+      }
      ]
     },
     {
@@ -3722,6 +4392,19 @@
       {
        "t": "p",
        "s": "Know, if first and foremost thou wast at the slaying, when ye assailed Thiassi, that from my dwellings and fields shall to thee ever cold counsels come."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "Skathi said:",
+        "\"If you were first and last | at the deadly fight",
+        "where Thjazi was caught,",
+        "from my dwellings and fields | there shall always come",
+        "cold counsel for you.\""
+       ]
       }
      ]
     },
@@ -3799,6 +4482,19 @@
        "t": "p",
        "s": "Then came Sif forth, and poured out mead for Loki in an icy cup, saying:"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "Loki said:",
+        "\"You spoke more lightly | with Laufey's son",
+        "when you invited me to your bed;",
+        "such things must be known | if we two now",
+        "are to seek to tell our sins.\""
+       ]
+      }
      ]
     },
     {
@@ -3864,6 +4560,18 @@
       {
        "t": "p",
        "s": "Hail to thee, Loki! and this cool cup receive, full of old mead: at least me alone, among the blameless Æsir race, leave stainless."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "\"Hail to you, Loki, | and take here",
+        "the crystal cup of old mead;",
+        "me at least, | alone among the gods,",
+        "you know to be blameless.\""
+       ]
       }
      ]
     },
@@ -3938,6 +4646,19 @@
        "t": "p",
        "s": "So alone shouldst thou be, hadst thou strict and prudent been towards thy mate; but one I know, and, I think, know him well, a favoured rival of Hlorridi, and that is the wily Loki."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "\"Alone you would be, | if you truly did",
+        "shun all men so shyly;",
+        "but I know one | very well, I think,",
+        "who had you from Hlorrithi's arms,",
+        "(Loki the crafty in lies.)\""
+       ]
+      }
      ]
     },
     {
@@ -4010,6 +4731,19 @@
        "t": "p",
        "s": "The fells all tremble: I think Hlorridi is from home journeying. He will bid be quiet him who here insults all gods and men."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "Beyla said:",
+        "\"The mountains shake, | and surely I think",
+        "Hlorrithi is coming now from his home;",
+        "he will silence the man | who is slandering here",
+        "both gods and men together.\""
+       ]
+      }
      ]
     },
     {
@@ -4081,6 +4815,19 @@
       {
        "t": "p",
        "s": "Be silent, Beyla! Thou art Byggvir's wife, and with much evil mingled: never came a greater monster among the Æsir's sons. Thou art a dirty strumpet."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 56,
+       "l": [
+        "Loki said:",
+        "\"Be silent, Beyla! | You are Byggvir's wife,",
+        "and you are steeped deep in sin;",
+        "a greater shame | never came to the gods,",
+        "you are befouled with your filth.\""
+       ]
       }
      ]
     },
@@ -4157,6 +4904,23 @@
        "t": "p",
        "s": "Silence, thou impure being! My mighty hammer, Miollnir, shall stop thy prating. I will thy head from thy neck strike; then will thy life be ended."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Then Thor came forward and said:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 57,
+       "l": [
+        "\"Stop, unmanly one, | or the mighty hammer,",
+        "Mjollnir, shall close your mouth;",
+        "your shoulder-cliff | I shall strike from your neck,",
+        "and so your life shall be lost.\""
+       ]
+      }
      ]
     },
     {
@@ -4228,6 +4992,19 @@
       {
        "t": "p",
        "s": "Now the son of earth is hither come. Why dost thou chafe so, Thor? Thou wilt not dare do so, when with the wolf thou hast to fight, and he the all-powerful father swallows whole."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 58,
+       "l": [
+        "Loki said:",
+        "\"Look, in has come | the son of Earth:",
+        "why do you threaten so loudly, Thor?",
+        "Less fiercely you will go | to fight with the wolf",
+        "when he swallows Sigfather up.\""
+       ]
       }
      ]
     },
@@ -4301,6 +5078,19 @@
        "t": "p",
        "s": "Silence, thou impure being! My mighty hammer, Miollnir, shall stop thy prating. Up I will hurl thee to the east region, and none shall see thee after."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 59,
+       "l": [
+        "Thor said:",
+        "\"Stop, unmanly one, | or the mighty hammer,",
+        "Mjollnir, shall close your mouth;",
+        "I shall hurl you up | and out into the East,",
+        "where men shall see you no more.\""
+       ]
+      }
      ]
     },
     {
@@ -4373,6 +5163,19 @@
        "t": "p",
        "s": "Of thy eastern travels thou shouldest never to people speak, since in a glove-thumb thou, Einheri! wast doubled up, and hardly thoughtest thou wast Thor."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 60,
+       "l": [
+        "Loki said:",
+        "\"That you have travelled | out on the East-road",
+        "you should tell men no more;",
+        "in the thumb of a glove | you hid, you great one,",
+        "and there forgot you were Thor.\""
+       ]
+      }
      ]
     },
     {
@@ -4444,6 +5247,19 @@
       {
        "t": "p",
        "s": "Silence, thou impure being! My mighty hammer, Miollnir, shall stop thy prating: with this right hand I, Hrungnir's bane, will smite thee, so that thy every bone be broken."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 61,
+       "l": [
+        "Thor said:",
+        "\"Stop, unmanly one, | or the mighty hammer,",
+        "Mjollnir, shall close your mouth;",
+        "my right hand shall strike you | with Hrungnir's slayer,",
+        "until all your bones are broken.\""
+       ]
       }
      ]
     },
@@ -4520,6 +5336,20 @@
        "t": "p",
        "s": "'Tis my intention a long life to live, though with thy hammer thou dost threaten me. Skrymir's thongs seemed to thee hard, when at the food thou couldst not get, when, in full health, of hunger dying."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 62,
+       "l": [
+        "Loki said:",
+        "\"I think to live | a long time yet,",
+        "though you threaten me so with your hammer;",
+        "the straps of Skrymir's bag | seemed tough",
+        "when you could not get at your food,",
+        "(and felt faint from hunger.)\""
+       ]
+      }
      ]
     },
     {
@@ -4591,6 +5421,19 @@
       {
        "t": "p",
        "s": "Silence, thou impure being! My mighty hammer, Miollnir, shall stop thy prating. Hrungnir's bane shall cast thee down to Hel, beneath the gratings of the dead."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 63,
+       "l": [
+        "Thor said:",
+        "\"Stop, unmanly one, | or the mighty hammer,",
+        "Mjollnir, shall close your mouth;",
+        "the slayer of Hrungnir | shall send you to hell,",
+        "and down to the gate of death.\""
+       ]
       }
      ]
     },
@@ -4664,6 +5507,19 @@
        "t": "p",
        "s": "I have said before the Æsir, I have said before the Æsir's sons, that which my mind suggested: but for thee alone will I go out; because I know that thou wilt fight."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 64,
+       "l": [
+        "Loki said:",
+        "\"I have said to the gods | and the sons of the gods",
+        "the things that whetted my thoughts;",
+        "but before you alone | I now go out,",
+        "for you fight well, I think."
+       ]
+      }
      ]
     },
     {
@@ -4723,6 +5579,19 @@
        "t": "p",
        "s": "Œgir! thou hast brewed beer; but thou never shalt henceforth a compotation hold. All thy possessions, which are herein, flame shall play over, and on thy back shall burn thee."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 65,
+       "l": [
+        "\"You have brewed ale, | but now, Ægir,",
+        "you shall make such feasts no more;",
+        "over all that you have | here within",
+        "the flickering flames shall play,",
+        "(and your back shall be burnt with fire.)\""
+       ]
+      }
      ]
     },
     {
@@ -4754,6 +5623,12 @@
       {
        "t": "p",
        "s": "After this Loki, in the likeness of a salmon, cast himself into the waterfall of Franangr, where the Æsir caught him, and bound him with the entrails of his son Nari; but his other son, Narfi, was changed into a wolf. Skadi took a venomous serpent, and fastened it up over Loki's face. The venom trickled down from it. Sigyn, Loki's wife, sat by, and held a basin under the venom; and when the basin was full, carried the venom out. Meanwhile the venom dropped on Loki, who shrank from it so violently that the whole earth trembled. This causes what are now called earthquakes."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "And after that Loki hid himself in Franang's waterfall in the shape of a salmon, and there the gods caught him. He was bound with the bowels of his son Vali, but his son Narfi was changed into a wolf. Skathi took a poisonous snake and fastened it up over Loki's face, and the poison dripped onto it. Sigyn, Loki's wife, sat there and held a shell under the poison, but when the shell was full she carried the poison away, and meanwhile the poison dripped on Loki. Then he struggled so hard that the whole earth shook with it; and that is now called an earthquake."
       }
      ]
     }

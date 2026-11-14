@@ -50,6 +50,16 @@
        "t": "p",
        "s": "Odin and Frigg were sitting in Hlidskiâlf, looking over all the world. Odin said, \"Seest thou Agnar, thy foster-son, where he is getting children with a giantess in a cave? while Geirröd, my foster-son, is a king residing in his country.\" Frigg answered, \"He is so inhospitable that he tortures his guests, if he thinks that too many come.\" Odin replied that that was the greatest falsehood; and they wagered thereupon. Frigg sent her waiting-maid Fulla to bid Geirröd be on his guard, lest the trollmann who was coming should do him harm, and also say that a token whereby he might be known was, that no dog, however fierce, would attack him. But that King Geirröd was not hospitable was mere idle talk. He, nevertheless, caused the man to be secured whom no dog would assail. He was clad in a blue cloak, and was named Grimnir, and would say no more concerning himself, although he was questioned. The king ordered him to be tortured to make him confess, and to be set between two fires; and there he sat for eight nights. King Geirröd had a son ten years old, whom he named Agnar, after his brother. Agnar went to Grimnir and gave him a full horn to drink from, saying that the king did wrong in causing him to be tortured, though innocent. Grimnir drank from it. The fire had then so approached him that his cloak was burnt; whereupon he said:—"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "King Hrauthung had two sons: one was called Agnar, and the other Geirröth. Agnar was ten winters old, and Geirröth eight. Once the two of them rowed out in a boat with their fishing tackle to catch small fish, and the wind drove them out to sea. In the darkness of the night they were wrecked on the shore; they went up and found a poor peasant, and stayed with him through the winter. The peasant's wife looked after Agnar, and the peasant looked after Geirröth and taught him wisdom. In the spring the peasant gave him a boat; and when the couple took them down to the shore, the peasant spoke privately with Geirröth. They had a fair wind and came to their father's landing-place. Geirröth was in the bow of the boat; he leapt ashore, but pushed the boat out and said, \"Go now where evil may take you!\" The boat drifted out to sea. Geirröth, however, went up to the house and was well received, but his father was dead. Then Geirröth was made king, and became a famous man."
+      },
+      {
+       "t": "p",
+       "s": "Othin and Frigg sat in Hlithskjolf and looked out over all the worlds. Othin said: \"Do you see Agnar, your foster-son, fathering children with a giantess in the cave? But Geirröth, my foster-son, is a king, and now rules over his land.\" Frigg said: \"He is so miserly that he tortures his guests if he thinks too many of them have come to him.\" Othin replied that this was the greatest of lies, and they made a wager on the matter. Frigg sent her maidservant, Fulla, to Geirröth. She told the king to beware of a magician who had come to his land, in case he should bewitch him, and gave this sign to know him by: that no dog was so fierce that it would leap at him. Now it was a very great slander that King Geirröth was not hospitable; but all the same he had his men seize the man whom the dogs would not attack. He wore a dark-blue cloak and called himself Grimnir, but said nothing more about himself, though he was questioned. The king had him tortured to make him speak, and set him between two fires, and he sat there for eight nights. King Geirröth had a son ten winters old, called Agnar after his father's brother. Agnar went to Grimnir, gave him a full horn to drink from, and said that the king did wrong to have him tormented without cause. Grimnir drank from the horn; the fire had come so close that the cloak was burning on Grimnir's back. He said:"
+      }
      ]
     },
     {
@@ -105,6 +115,18 @@
       {
        "t": "p",
        "s": "Fire! thou art hot, and much too great; flame! let us separate. My garment is singed, although I lift it up, my cloak is scorched before it."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "You are hot, fire! | Far too fierce;",
+        "be gone now, you flames!",
+        "The cloak is burnt, | though I hold it up high,",
+        "and the fire scorches the fur."
+       ]
       }
      ]
     },
@@ -166,6 +188,18 @@
        "t": "p",
        "s": "Eight nights have I sat between fires here, and to me no one food has offered, save only Agnar, the son of Geirröd, who alone shall rule over the land of Goths."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Between the fires now | eight nights I have sat,",
+        "and no man brought me food,",
+        "except Agnar alone, | and he alone shall rule,",
+        "Geirröth's son, over the Goths."
+       ]
+      }
      ]
     },
     {
@@ -222,6 +256,18 @@
        "t": "p",
        "s": "Be thou blessed, Agnar! as blessed as the god of men bids thee to be. For one draught thou never shalt get better recompense."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Hail to you, Agnar! | For you are hailed",
+        "by the voice of Veratyr;",
+        "for a single drink | you shall never receive",
+        "a greater gift as reward."
+       ]
+      }
      ]
     },
     {
@@ -277,6 +323,18 @@
       {
        "t": "p",
        "s": "Holy is the land, which I see lying to Æsir and Alfar near; but in Thrûdheim Thor shall dwell until the powers perish."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "The land is holy | that lies close by",
+        "the gods and the elves together;",
+        "and Thor shall always | live in Thruthheim,",
+        "till the gods go to destruction."
+       ]
       }
      ]
     },
@@ -336,6 +394,18 @@
        "t": "p",
        "s": "Ydalir it is called, where Ullr has himself a dwelling made. Alfheim the gods to Frey gave in days of yore for a tooth-gift."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Ydalir they call | the place where Ull",
+        "has set up a hall for himself;",
+        "and Alfheim the gods | once gave to Freyr",
+        "as a tooth-gift in ancient times."
+       ]
+      }
      ]
     },
     {
@@ -391,6 +461,18 @@
       {
        "t": "p",
        "s": "The third dwelling is, where the kind powers have with silver decked the hall; Valaskiâlf 'tis called, which for himself acquired the As in days of old."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "There is a third home, | thatched with silver",
+        "by the hands of the gracious gods:",
+        "Valaskjolf it is, | in days of old",
+        "set up by a god for himself."
+       ]
       }
      ]
     },
@@ -448,6 +530,18 @@
        "t": "p",
        "s": "Sökkvabekk the fourth is named o'er which the gelid waves resound; Odin and Saga there, joyful each day, from golden beakers quaff."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Sökkvabekk is the fourth, | where cool waves flow,",
+        "and amid their murmur it stands;",
+        "there daily Othin | and Saga drink",
+        "in gladness from cups of gold."
+       ]
+      }
      ]
     },
     {
@@ -503,6 +597,18 @@
       {
        "t": "p",
        "s": "Gladsheim the fifth is named, there the golden-bright Valhall stands spacious, there Hropt selects each day those men who die by weapons."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "The fifth is Glathsheim, | and there, gold-bright,",
+        "stands Valhall stretching wide;",
+        "and there Othin | chooses each day",
+        "the men who have fallen in battle."
+       ]
       }
      ]
     },
@@ -560,6 +666,18 @@
        "t": "p",
        "s": "Easily to be known is, by those who to Odin come, the mansion by its aspect. Its roof with spears is laid, its hall with shields is decked, with corslets are its benches strewed."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "It is easy to know | for one who comes",
+        "to Othin and sees the hall;",
+        "its rafters are spears, | it is roofed with shields,",
+        "on its benches breastplates are strewn."
+       ]
+      }
      ]
     },
     {
@@ -615,6 +733,18 @@
       {
        "t": "p",
        "s": "Easily to be known is, by those who to Odin come, the mansion by its aspect. A wolf hangs before the western door, over it an eagle hovers."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "It is easy to know | for one who comes",
+        "to Othin and sees the hall;",
+        "a wolf hangs there | by the western door,",
+        "and over it an eagle hovers."
+       ]
       }
      ]
     },
@@ -674,6 +804,18 @@
        "t": "p",
        "s": "Thrymheim the sixth is named, where Thiassi dwelt that all-powerful Jötun; but Skadi now inhabits, the bright bride of gods, her father's ancient home."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "The sixth is Thrymheim, | where Thjazi lived,",
+        "the giant of marvellous might;",
+        "now Skathi lives, | the god's fair bride,",
+        "in the home that her father had."
+       ]
+      }
      ]
     },
     {
@@ -731,6 +873,18 @@
       {
        "t": "p",
        "s": "Breidablik is the seventh, where Baldr has built for himself a hall, in that land, in which I know exists the fewest crimes."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "The seventh is Breithablik; | there Baldr has",
+        "set up a dwelling for himself,",
+        "in the land I know | that lies so fair,",
+        "and is free from evil fate."
+       ]
       }
      ]
     },
@@ -790,6 +944,18 @@
        "t": "p",
        "s": "Himinbiörg is the eighth, where Heimdall, it is said, rules o'er the holy fanes: there the gods' watchman, in his tranquil home, drinks joyful the good mead."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Himinbjorg is the eighth, | and Heimdall there",
+        "holds sway over men, it is said;",
+        "in his well-built house | the watchman of heaven",
+        "gladly drinks the good mead."
+       ]
+      }
      ]
     },
     {
@@ -847,6 +1013,18 @@
       {
        "t": "p",
        "s": "Fôlkvang is the ninth, there Freyia directs the sittings in the hall. She half the fallen chooses each day, but Odin th' other half."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "The ninth is Folkvang, | where Freyja decides",
+        "who shall have seats in the hall;",
+        "half of the dead | she chooses each day,",
+        "and half Othin has."
+       ]
       }
      ]
     },
@@ -906,6 +1084,18 @@
        "t": "p",
        "s": "Glitnir is the tenth; it is on gold sustained, and eke with silver decked. There Forseti dwells throughout all time, and every strife allays."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "The tenth is Glitnir; | its pillars are gold,",
+        "and its roof is set with silver;",
+        "there Forseti lives | most of his days,",
+        "and puts an end to all strife."
+       ]
+      }
      ]
     },
     {
@@ -962,6 +1152,18 @@
        "t": "p",
        "s": "Nôatûn is the eleventh, there Niörd has himself a dwelling made, prince of men; guiltless of sin, he rules o'er the high-built fane."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "The eleventh is Noatun; | there Njorth has",
+        "set up a dwelling for himself;",
+        "the sinless ruler | of men sits there",
+        "in his high-timbered temple."
+       ]
+      }
      ]
     },
     {
@@ -1017,6 +1219,18 @@
       {
        "t": "p",
        "s": "O'ergrown with branches and high grass is Vidar's spacious Landvîdi: There will the son descend, from the steed's back, bold to avenge his father."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Filled with growing trees | and high-standing grass",
+        "is Vithi, Vithar's land;",
+        "but there the son | leapt down from his steed,",
+        "when he wished to avenge his father."
+       ]
       }
      ]
     },
@@ -1076,6 +1290,18 @@
        "t": "p",
        "s": "Andhrimnir makes, in Eldhrimnir, Sæhrimnir to boil, of meats the best; but few know how many Einheriar it feeds."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "In Eldhrimnir | Andhrimnir cooks",
+        "Sæhrimnir's seething flesh,",
+        "the best of food, | but few men know",
+        "on what fare the warriors feast."
+       ]
+      }
      ]
     },
     {
@@ -1133,6 +1359,18 @@
       {
        "t": "p",
        "s": "Geri and Freki the war-wont sates, the triumphant sire of hosts; but on wine only the famed in arms, Odin, ever lives."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Freki and Geri | Heerfather feeds,",
+        "the far-famed fighter of old:",
+        "but on wine alone | the weapon-decked god,",
+        "Othin, lives for ever."
+       ]
       }
      ]
     },
@@ -1192,6 +1430,18 @@
        "t": "p",
        "s": "Hugin and Munin fly each day over the spacious earth. I fear for Hugin, that he come not back, yet more anxious am I for Munin."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Over Mithgarth Hugin | and Munin both",
+        "set out each day to fly;",
+        "for Hugin I fear | that he may not come home,",
+        "but I worry more for Munin."
+       ]
+      }
      ]
     },
     {
@@ -1248,6 +1498,18 @@
        "t": "p",
        "s": "Thund roars; joyful in Thiodvitnir's water lives the fish; the rapid river seems too great for the battle-steed to ford."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Loud roars Thund, | and Thjothvitnir's fish",
+        "swims joyfully in the flood;",
+        "hard it seems | to the host of the slain",
+        "to wade the wild torrent."
+       ]
+      }
      ]
     },
     {
@@ -1303,6 +1565,18 @@
       {
        "t": "p",
        "s": "Valgrind is the lattice called, in the plain that stands, holy before the holy gates: ancient is that lattice, but few only know how it is closed with lock."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "There Valgrind stands, | the sacred gate,",
+        "and behind are the holy doors;",
+        "the gate is old, | but there are few",
+        "who can tell how tightly it is locked."
+       ]
       }
      ]
     },
@@ -1362,6 +1636,18 @@
        "t": "p",
        "s": "Five hundred doors, and forty eke, I think, are in Valhall. Eight hundred Einheriar will at once from each door go when they issue with the wolf to fight."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Five hundred doors | and forty there are,",
+        "I think, in Valhall's walls;",
+        "eight hundred fighters | go through one door",
+        "when they go to war with the wolf."
+       ]
+      }
      ]
     },
     {
@@ -1420,6 +1706,18 @@
        "t": "p",
        "s": "Five hundred floors, and forty eke, I think, has Bilskirnir with its windings. Of all the roofed houses that I know, is my son's the greatest."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Five hundred rooms | and forty there are,",
+        "I think, built in Bilskirnir;",
+        "of all the homes | whose roofs I have seen,",
+        "my son's seemed to me the greatest."
+       ]
+      }
      ]
     },
     {
@@ -1476,6 +1774,18 @@
        "t": "p",
        "s": "Heidrûn the goat is called, that stands o'er Odin's hall, and bites from Lærâd's branches. He a bowl shall fill with the bright mead; that drink shall never fail."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Heithrun is the goat | who stands by Heerfather's hall,",
+        "and bites the branches of Lærath;",
+        "she fills the pitcher | with fair, clear mead,",
+        "the foaming drink never fails."
+       ]
+      }
      ]
     },
     {
@@ -1531,6 +1841,18 @@
       {
        "t": "p",
        "s": "Eikthyrnir the hart is called, that stands o'er Odin's hall, and bites from Lærâd's branches; from his horns fall drops into Hvergelmir, whence all waters rise:—"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Eikthyrnir is the stag | who stands by Heerfather's hall",
+        "and bites the branches of Lærath;",
+        "from his horns a stream | drops into Hvergelmir,",
+        "and from there all the rivers run."
+       ]
       }
      ]
     },
@@ -1600,6 +1922,21 @@
       {
        "t": "p",
        "s": "Sid and Vid, Sœkin and Eikin, Svöl and Gunnthrô, Fiörm and Fimbulthul, Rin and Rennandi, Gipul and Göpul, Gömul and Geirvimul: they round the gods' dwelling wind. Thyn and Vin, Thöll and Höll, Grâd and Gunnthorin."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Sith and Vith, | Sækin and Ækin,",
+        "Svol and Fimbulthul, | Gunnthro and Fjorm,",
+        "Rin and Rinnandi,",
+        "Gipul and Gopul, | Gomul and Geirvimul,",
+        "that flow through the fields of the gods;",
+        "Thyn and Vin, | Thol and Hol,",
+        "Groth and Gunnthorin."
+       ]
       }
      ]
     },
@@ -1672,6 +2009,21 @@
        "t": "p",
        "s": "Vina one is called, a second Vegsvin, a third Thiodnuma; Nyt and Nön and Hrön, Slid and Hrid, Sylg and Ylg, Vîd and Vân, Vönd and Strönd, Gioll and Leipt; these (two) fall near to men, but fall hence to Hel."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Vino is one, | Vegsvin another,",
+        "and Thjothnuma a third;",
+        "Nyt and Not, | Non and Hron,",
+        "Slith and Hrith, | Sylg and Ylg,",
+        "Vith and Von, | Vond and Strond,",
+        "Gjol and Leipt, | that go among men,",
+        "and from here they fall to Hel."
+       ]
+      }
      ]
     },
     {
@@ -1737,6 +2089,20 @@
       {
        "t": "p",
        "s": "Körmt and Ormt, and the Kerlaugs twain: these Thor must wade each day, when he to council goes at Yggdrasil's ash; for the As-bridge is all on fire, the holy waters boil."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Kormt and Ormt | and the two Kerlaugs",
+        "Thor shall wade through each day,",
+        "(when he goes out | to give judgements",
+        "at the ash-tree Yggdrasil;)",
+        "for heaven's bridge | burns all in flame,",
+        "and the sacred waters seethe."
+       ]
       }
      ]
     },
@@ -1804,6 +2170,20 @@
        "t": "p",
        "s": "Glad and Gyllir, Gler and Skeidbrimir, Sillfrintopp and Sinir, Gisl and Falhôfnir, Gulltopp and Lettfeti; on these steeds the Æsir each day ride, when they to council go, at Yggdrasil's ash."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Glath and Gyllir, | Gler and Skeithbrimir,",
+        "Silfrintopp and Sinir,",
+        "Gisl and Falhofnir, | Golltopp and Lettfeti,",
+        "on these steeds the gods shall go",
+        "when to give judgements | they ride each day",
+        "to the ash-tree Yggdrasil."
+       ]
+      }
      ]
     },
     {
@@ -1859,6 +2239,18 @@
       {
        "t": "p",
        "s": "Three roots stand on three ways under Yggdrasil's ash: Hel under one abides, under the second the Hrîmthursar, under the third mankind."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Three roots there are | that run three ways",
+        "beneath the ash-tree Yggdrasil;",
+        "beneath the first lives Hel, | beneath the second the frost giants,",
+        "beneath the last are the lands of men."
+       ]
       }
      ]
     },
@@ -1916,6 +2308,18 @@
        "t": "p",
        "s": "Ratatösk is the squirrel named, which has to run in Yggdrasil's ash; he from above the eagle's words must carry, and beneath to Nidhögg repeat."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Ratatosk is the squirrel | who shall run there",
+        "on the ash-tree Yggdrasil;",
+        "from above he carries | the eagle's words,",
+        "and tells them to Nithhogg below."
+       ]
+      }
      ]
     },
     {
@@ -1969,6 +2373,18 @@
       {
        "t": "p",
        "s": "Harts there are also four, which from its summits, arch-necked, gnaw. Dâin and Dvalin, Duneyr and Durathrôr."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Four stags there are, | that nibble the highest twigs",
+        "with necks bent back;",
+        "Dain and Dvalin, | ......",
+        "Duneyr and Dyrathror."
+       ]
       }
      ]
     },
@@ -2036,6 +2452,20 @@
        "t": "p",
        "s": "More serpents lie under Yggdrasil's ash, than any one would think of witless mortals: Gôin and Môin,—they are Grafvitnir's sons—Grâbak and Grafvöllud, Ofnir and Svafnir, will, I ween, the branches of that tree ever lacerate."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "More serpents there are | beneath the ash",
+        "than an unwise ape would think;",
+        "Goin and Moin, | Grafvitnir's sons,",
+        "Grabak and Grafvolluth,",
+        "Ofnir and Svafnir | shall always, I think,",
+        "gnaw at the twigs of the tree."
+       ]
+      }
      ]
     },
     {
@@ -2093,6 +2523,18 @@
       {
        "t": "p",
        "s": "Yggdrasil's ash hardship suffers greater than men know of; a hart bites it above, and in its side it rots, Nidhögg beneath tears it."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Yggdrasil's ash | suffers great evil,",
+        "far more than men know;",
+        "the stag bites its top, | its trunk is rotting,",
+        "and Nithhogg gnaws beneath."
+       ]
       }
      ]
     },
@@ -2160,6 +2602,20 @@
        "t": "p",
        "s": "Hrist and Mist the horn shall bear me Skeggöld and Skögul, Hlökk and Herfiotur, Hildi and Thrûdi, Göll and Geirölul, Randgríd and Râdgrîd, and Reginleif, these bear beer to the Einheriar."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Hrist and Mist | bring the horn at my will,",
+        "Skeggjold and Skogul;",
+        "Hild and Thruth, | Hlok and Herfjotur,",
+        "Gol and Geironul,",
+        "Randgrith and Rathgrith | and Reginleif",
+        "bring beer to the warriors."
+       ]
+      }
      ]
     },
     {
@@ -2215,6 +2671,18 @@
       {
        "t": "p",
        "s": "Arvakr and Alsvid, theirs 'tis up hence fasting the sun to draw: under their shoulder the gentle powers, the Æsir, have concealed an iron-coolness."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Arvak and Alsvith | shall drag up,",
+        "weary, the weight of the sun;",
+        "but a cooling iron | the kindly gods",
+        "set long ago under their yokes."
+       ]
       }
      ]
     },
@@ -2272,6 +2740,18 @@
        "t": "p",
        "s": "Svalin the shield is called, which stands before the sun, the refulgent deity; rocks and ocean must, I ween, be burnt, fell it from its place."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "In front of the sun | Svalin stands,",
+        "the shield for the shining god;",
+        "mountains and sea | would be set in flames",
+        "if it fell from before the sun."
+       ]
+      }
      ]
     },
     {
@@ -2327,6 +2807,18 @@
       {
        "t": "p",
        "s": "Sköll the wolf is named, that the fair-faced goddess to the ocean chases; another Hati hight, he is Hrôdvitnir's son; he the bright maid of heaven shall precede."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Skoll is the wolf | that to Ironwood",
+        "follows the glittering god,",
+        "and the son of Hrothvitnir, | Hati, awaits",
+        "the burning bride of heaven."
+       ]
       }
      ]
     },
@@ -2386,6 +2878,18 @@
        "t": "p",
        "s": "Of Ymir's flesh was earth created, of his blood the sea, of his bones the hills, of his hair trees and plants, of his skull the heaven;"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Out of Ymir's flesh | the earth was made,",
+        "and the ocean out of his blood;",
+        "from his bones the hills, | from his hair the trees,",
+        "from his skull the high heavens."
+       ]
+      }
      ]
     },
     {
@@ -2444,6 +2948,18 @@
        "t": "p",
        "s": "And of his brows the gentle powers formed Midgard for the sons of men; but of his brain the heavy clouds are all created."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "Mithgarth the gods | made from his eyebrows,",
+        "and set for the sons of men;",
+        "and out of his brain | the grim clouds",
+        "they made to move on high."
+       ]
+      }
      ]
     },
     {
@@ -2499,6 +3015,18 @@
       {
        "t": "p",
        "s": "Ullr's and all the gods' favour shall have, whoever first shall look to the fire; for open will the dwelling be, to the Æsir's sons, when the kettles are lifted off."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "His is the favour of Ull | and of all the gods",
+        "who first reaches into the flames;",
+        "for the house can be seen | by the sons of the gods",
+        "if the cauldron were cast aside."
+       ]
       }
      ]
     },
@@ -2557,6 +3085,18 @@
       {
        "t": "p",
        "s": "Ivaldi's sons went in days of old Skidbladnir to form, of ships the best, for the bright Frey, Niörd's benign son."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "In days of old | Ivaldi's sons",
+        "fashioned Skithblathnir fair,",
+        "the best of ships | for the bright god Freyr,",
+        "the noble son of Njorth."
+       ]
       }
      ]
     },
@@ -2624,6 +3164,20 @@
        "t": "p",
        "s": "Yggdrasil's ash is of all trees most excellent, and of all ships, Skidbladnir, of the Æsir, Odin, and of horses, Sleipnir, Bifröst of bridges, and of skallds, Bragi, Hâbrôk of hawks, and of dogs, Garm, [Brimir of swords.]"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "The best of trees | Yggdrasil must be,",
+        "Skithblathnir the best of boats;",
+        "of all the gods | Othin is the greatest,",
+        "and Sleipnir the best of steeds;",
+        "Bilrost of bridges, | Bragi of poets,",
+        "Hobrok of hawks, | and Garm of hounds."
+       ]
+      }
      ]
     },
     {
@@ -2683,6 +3237,19 @@
        "t": "p",
        "s": "Now I my face have raised to the gods' triumphant sons, at that will welcome help awake; from all the Æsir, that shall penetrate, to Œgir's bench, to Œgir's compotation."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "To the race of the gods | I have raised my face,",
+        "and I have woken the wished-for help;",
+        "for the message has gone | to all the gods",
+        "who sit in Ægir's seats,",
+        "who drink within Ægir's doors."
+       ]
+      }
      ]
     },
     {
@@ -2740,6 +3307,18 @@
       {
        "t": "p",
        "s": "I am called Grim, I am called Gangleri, Herian and Hiâlmberi, Thekk and Thridi, Thund and Ud, Helblindi and Hâr,"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "Grim is my name, | I am Gangleri,",
+        "Herjan and Hjalmberi,",
+        "Thekk and Thrithi, | Thuth and Uth,",
+        "Helblindi and Hor;"
+       ]
       }
      ]
     },
@@ -2801,6 +3380,18 @@
        "t": "p",
        "s": "Sad and Svipall, and Sanngetall, Herteit and Hnikar Bileyg, Bâleyg, Bölverk, Fiölnir, Grîm and Grimnir, Glapsvid and Fiölsvid,"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "Sath and Svipal | and Sanngetal,",
+        "Herteit and Hnikar,",
+        "Bileyg, Baleyg, | Bolverk, Fjolnir,",
+        "Grim and Grimnir, | Glapsvith, Fjolsvith."
+       ]
+      }
      ]
     },
     {
@@ -2860,6 +3451,18 @@
       {
        "t": "p",
        "s": "Sidhött, Sîdskegg Sigfödr, Hnikud, Alfodr, Valfödr, Atrid and Farmatyr; by one name I never have been called, since among men I have gone."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "Sithhott, Sithskegg, | Sigfather, Hnikuth,",
+        "Allfather, Valfather, | Atrith, Farmatyr:",
+        "a single name | I have never had",
+        "since first I travelled among men."
+       ]
       }
      ]
     },
@@ -2930,6 +3533,21 @@
        "t": "p",
        "s": "Grimnir I am called at Geirröd's, and at Asmund's Jâlk and Kialar, when a sledge I drew; Thrôr at the public meetings, Vidur in battles, Oski and Omi, Jafnhâr and Biflindi, Gôndlir and Harbard with the gods."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "Grimnir they call me | in Geirröth's hall,",
+        "with Asmund I am Jalk;",
+        "Kjalar I was | when I travelled in a sledge,",
+        "at the council I am called Thror,",
+        "as Vithur I go to the fight;",
+        "Oski, Biflindi, | Jafnhor and Omi,",
+        "Gondlir and Harbarth among the gods."
+       ]
+      }
      ]
     },
     {
@@ -2985,6 +3603,18 @@
       {
        "t": "p",
        "s": "Svidur and Svidrir I was at Sökkmimir's called, and beguiled that ancient Jötun, when of Midvitnir's renowned son I was the sole destroyer."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "I deceived the giant, | old Sokkmimir,",
+        "as Svithur and Svithrir long ago;",
+        "of Mithvitnir's son | I was the killer",
+        "when the famous one met his doom."
+       ]
       }
      ]
     },
@@ -3042,6 +3672,18 @@
        "t": "p",
        "s": "Drunken art thou, Geirröd, thou hast drunk too much, thou art greatly by mead beguiled. Much didst thou lose, when thou wast of my help bereft, of all the Einheriar's and Odin's favour."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "You are drunk, Geirröth, | you have drunk too much,",
+        "...............",
+        "you have lost much, | for you have no more help",
+        "from me or my heroes."
+       ]
+      }
      ]
     },
     {
@@ -3098,6 +3740,18 @@
        "t": "p",
        "s": "Many things I told thee, but thou hast few remembered: thy friends mislead thee. My friend's sword lying I see, with blood all dripping."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "You paid little heed | to all that I told,",
+        "and the words of your friends were false;",
+        "for now I see | the sword of my friend,",
+        "that waits all wet with blood."
+       ]
+      }
      ]
     },
     {
@@ -3153,6 +3807,18 @@
       {
        "t": "p",
        "s": "The fallen by the sword Ygg shall now have; thy life is now run out: Wroth with thee are the Dîsir: Odin thou now shalt see: draw near to me if thou canst."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "Your sword-pierced body | Ygg shall soon have,",
+        "for your life is ended at last;",
+        "the maids are hostile; | now look upon Othin!",
+        "Now come to me if you can!"
+       ]
       }
      ]
     },
@@ -3220,6 +3886,20 @@
        "t": "p",
        "s": "Odin I now am named, Ygg I was called before, before that, Thund, Vakr and Skilfing, Vâfudr and Hrôptatyr, with the gods, Gaut and Jâlk, Ofnir and Svafnir, all which I believe to be names of me alone."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "Now I am Othin, | Ygg I was once,",
+        "before that they called me Thund;",
+        "Vak and Skilfing, | Vofuth and Hroptatyr,",
+        "Gaut and Jalk among the gods;",
+        "Ofnir and Svafnir, | and all, I think,",
+        "are names for none but me."
+       ]
+      }
      ]
     },
     {
@@ -3251,6 +3931,12 @@
       {
        "t": "p",
        "s": "King Geirröd was sitting with his sword lying across his knees, half drawn from the scabbard, but on finding that it was Odin, he rose for the purpose of removing him from the fires, when the sword slipt from his hand with the hilt downwards; and the king having stumbled, the sword pierced him through and killed him. Odin then vanished, and Agnar was king for a long time after."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "King Geirröth sat with his sword on his knee, half drawn from its sheath. But when he heard that Othin had come there, he stood up and tried to take Othin from the fire. The sword slipped from his hand and fell hilt down. The king stumbled and fell forward, and the sword pierced him through and killed him. Then Othin vanished, but Agnar ruled there as king for a long time."
       }
      ]
     }

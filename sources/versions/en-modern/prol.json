@@ -1,0 +1,112 @@
+{
+ "_note": "Open Edda's modernisation of Arthur Gilchrist Brodeur's translation (1916, public domain), the Prologue (Formáli), under the rules of the Gylfaginning pilot (gylf_1-10.json). Written by an AI (Claude, Anthropic) on 2026-11-14 from Brodeur's text as aligned in aligned/al_prol.json; not reviewed. Brodeur's readings are kept where they differ from the Old Norse; evident transcription errors in the source are corrected. Licence CC BY 4.0.",
+ "text_id": "en-modern",
+ "text": {
+  "lang": "en",
+  "label": "English · modern",
+  "label_is": "Enska · nútímaleg",
+  "short": "modern (Open Edda)"
+ },
+ "source": {
+  "id": "oe-modern-brodeur",
+  "kind": "ai",
+  "label": "Open Edda, modernised English",
+  "lang": "en",
+  "licence": "CC BY 4.0",
+  "title": "Open Edda's modernisation of the public-domain English translations (A. G. Brodeur 1916 for Snorri's Edda; H. A. Bellows 1923 and B. Thorpe 1866 for the poems): AI draft, reviewed row by row in review mode; CC BY 4.0"
+ },
+ "based_on": "brodeur-1916",
+ "licence": "CC BY 4.0",
+ "made_by": "ai:claude",
+ "date": "2026-11-14",
+ "rows": {
+  "p-c1-1": [
+   {
+    "t": "p",
+    "s": "In the beginning God created heaven and earth and everything in them, and last of all two human beings, Adam and Eve, from whom the races of men are descended."
+   }
+  ],
+  "p-c1-2": [
+   {
+    "t": "p",
+    "s": "Their offspring multiplied and were scattered over the whole earth. But as time passed, the races of men grew unlike one another in nature. Some were good and held the right belief, but many more turned to the lusts of the world and disregarded God's command. For that reason God drowned the world in a flood of the sea, and every living thing with it, except those who were in the ark with Noah. After Noah's flood eight people were left alive, and they peopled the earth; the races are descended from them. And it was just as before: when the earth was full of people and widely settled, the whole multitude of mankind began to love greed, wealth and worldly honour, and neglected the worship of God. In the end things came to so bad a state that they would not name God; and who then could tell their sons of God's mighty wonders? So it came about that they lost the name of God, and in the whole wide world there was not a man to be found who could make out any trace of his Creator."
+   }
+  ],
+  "p-c1-3": [
+   {
+    "t": "p",
+    "s": "But God still gave them the gifts of the earth, wealth and happiness, to enjoy in the world. He also increased their wisdom, so that they understood all earthly things, and every aspect of whatever they could see in the air and on the earth."
+   },
+   {
+    "t": "p",
+    "s": "One thing they wondered at and thought over: what it could mean that the earth, the animals and the birds had the same nature in some ways, and yet were unlike in their manner of life. In this their nature was the same: the earth was cleft into high mountain peaks, and water sprang up in them, and there was no need to dig further for water there than in the deep valleys. So it is with animals and birds too: it is just as far to the blood in the head as in the feet. Another property of the earth is that every year grass and flowers grow on it, and in the same year all that growth falls away and withers. It is the same with animals and birds: hair and feathers grow and fall away every year. This is the third nature of the earth: when it is opened and dug up, grass at once grows on the soil that lies uppermost. Boulders and stones they compared to the teeth and bones of living creatures. From this they recognised that the earth was alive, and had life with some kind of nature of its own. They understood that she was wonderfully old in years and mighty in kind: she fed everything that lived, and she took to herself everything that died. So they gave her a name, and counted their generations back to her. They also learned the same thing from their old kinsmen: that many hundreds of years had been counted during which there had been the same earth, the same sun and the same stars of the heavens; but the courses of these were unequal, some having a longer course and some a shorter."
+   },
+   {
+    "t": "p",
+    "s": "From things like these the thought stirred in them that there might be some ruler of the stars of heaven, one who set their courses as he wished, and that he must be very strong and full of might. They also held this to be true: that if he governed the chief things of creation, he must have existed before the stars of heaven. And they saw that if he ruled the courses of the heavenly bodies, he must also govern the shining of the sun, the dews of the air and the fruits of the earth, whatever grows on it; and likewise the winds of the air and the storms of the sea. They did not yet know where his kingdom was; but this they believed: that he ruled all things on earth and in the sky, the great stars of the heaven too, and the winds of the sea."
+   }
+  ],
+  "p-c1-4": [
+   {
+    "t": "p",
+    "s": "And so, not only to speak of this fittingly but also to fix it in memory, they gave names of their own devising to all things. This belief of theirs has changed in many ways, as the peoples drifted apart and their languages became separate from one another. But they understood all things with the wisdom of the earth, for the understanding of the spirit was not given to them. This much they grasped: that all things were made of some substance."
+   }
+  ],
+  "p-c2-1": [
+   {
+    "t": "p",
+    "s": "The world was divided into three parts. From the south, stretching into the west and bordering on the Mediterranean Sea: all this part was called Africa, and its southern quarter is hot, so that it is scorched by the sun. The second part, from west to north and bordering on the ocean, is called Európá or Eneá; its northern part is so cold that no grass grows there and no one lives there. From the north, and all down over the eastern part right to the south, is called Asia. In that region of the world is all beauty and splendour, and the fruits of the earth's increase, gold and jewels. There too is the centre of the earth; and just as the land there is lovelier and better in every way than in other places, so the people there were also most favoured with every good gift: wisdom and strength of body, beauty and every kind of knowledge."
+   }
+  ],
+  "p-c3-1": [
+   {
+    "t": "p",
+    "s": "Near the centre of the earth was built the finest home and dwelling there has ever been, which is called Troy, the same that we call Turkland. This dwelling was made much more splendidly than others, and built with more skill and craftsmanship in many ways, both in its luxury and in the wealth that was there in plenty. There were twelve kingdoms and one High King, and many dominions belonged to each kingdom; in the stronghold there were twelve chieftains."
+   }
+  ],
+  "p-c3-2": [
+   {
+    "t": "p",
+    "s": "These chieftains were far above all other men who have ever been in the world, in every manly quality. One king among them was called Múnón or Mennón. He was married to the daughter of the High King Priam, who was called Tróán, and they had a child named Trór, whom we call Thor. He was fostered in Thrace by a duke called Lóríkus; but when he was ten years old he took up his father's weapons. When he came among other men he was as fine to look at as ivory inlaid in oak; his hair was fairer than gold. When he was twelve years old he had his full strength: he lifted ten bearskins clear of the ground all at once. Then he killed Duke Lóríkus, his foster-father, and with him his wife Lórá, or Glórá, and took into his own hands the kingdom of Thrace, which we call Thrúdheim. Then he travelled far and wide over the lands and explored every quarter of the earth, and single-handed he overcame all berserks and giants, and one dragon, the greatest of all dragons, and many beasts. In the northern half of his kingdom he found the prophetess called Síbil, whom we call Sif, and married her. I cannot tell the lineage of Sif; she was the most beautiful of all women, and her hair was like gold. Their son was Lóridi, who resembled his father; his son was Einridi, his son Vingethor, his son Vingener, his son Móda, his son Magi, his son Seskef, his son Bedvig, his son Athra (whom we call Annarr), his son Ítermann, his son Heremód, his son Skjaldun (whom we call Skjöld), his son Bjáf (whom we call Bjárr), his son Ját, his son Gudólfr, his son Finn, his son Fríallaf (whom we call Fridleifr). His son was the one named Vóden, whom we call Odin: he was a man famous far and wide for wisdom and every accomplishment. His wife was Frígídá, whom we call Frigg."
+   }
+  ],
+  "p-c4-1": [
+   {
+    "t": "p",
+    "s": "Odin had second sight, and so did his wife; and from their foreknowledge he learned that his name would be exalted in the northern part of the world and honoured above the fame of all other kings. So he made ready to travel out of Turkland, and a great multitude of people went with him, young and old, men and women; and they took with them many goods of great value. Wherever they went over the lands of the earth, many glorious things were said of them, so that they were thought more like gods than men. They did not stop their journey until they had come north into the land that is now called Saxland. There Odin stayed for a long time, and took the land into his own hands, far and wide."
+   },
+   {
+    "t": "p",
+    "s": "In that land Odin set three of his sons as guardians of the land. One was named Vegdeg: he was a mighty king and ruled over East Saxland. His son was Vitgils; his sons were Vitta, Heingistr's father, and Sigarr, father of Svebdeg, whom we call Svipdagr. Odin's second son was Beldeg, whom we call Baldr: he had the land that is now called Westphalia. His son was Brandr, his son Frjódigar (whom we call Fródi), his son Freóvin, his son Uvigg, his son Gevis (whom we call Gave). Odin's third son is named Sigi, his son Rerir. These forefathers ruled over what is now called Frankland, and from them is descended the house known as the Völsungs. From all of these many great houses have sprung."
+   }
+  ],
+  "p-c4-2": [
+   {
+    "t": "p",
+    "s": "Then Odin set out northwards, and came into the land that they called Reidgothland; and in that land he took possession of everything he wanted. He set over the land his son called Skjöldr, whose son was Fridleifr; and from them descends the house of the Skjöldungs: these are the kings of the Danes. And what was then called Reidgothland is now called Jutland."
+   }
+  ],
+  "p-c5-1": [
+   {
+    "t": "p",
+    "s": "After that he went northwards, to where the land is called Sweden; the king there was named Gylfi. When the king heard of the coming of those men of Asia, who were called Æsir, he went to meet them, and offered Odin as much power in his kingdom as he himself held. And such prosperity followed them wherever they went that in whatever lands they stayed there were good seasons and peace; and everyone believed that they were the cause of this, for the lords of the land saw that they were unlike any other men they had seen, both in beauty and in wisdom."
+   },
+   {
+    "t": "p",
+    "s": "The fields and the choice lands in that place seemed fair to Odin, and he chose for himself the site of a city, which is now called Sigtún. There he established chieftains in the way that had been the custom in Troy. He also appointed twelve chief men to be judges over the people and to judge the laws of the land; and he laid down all the laws as they had been before in Troy, according to the customs of the Turks. After that he went on into the north, until he was stopped by the sea, which people thought lay around all the lands of the earth; and there he set his son over the kingdom that is now called Norway."
+   }
+  ],
+  "p-c5-2": [
+   {
+    "t": "p",
+    "s": "This king was Sæmingr; the kings of Norway trace their descent from him, and so do the jarls and the other great men, as it says in the <i>Háleygjatal</i>. Odin had with him one of his sons, called Yngvi, who was king in Sweden after him; and from him come the houses that are called the Ynglings."
+   }
+  ],
+  "p-c5-3": [
+   {
+    "t": "p",
+    "s": "The Æsir took wives for themselves from that land, and some for their sons too; and these families grew so numerous that they spread throughout Saxland, and from there over the whole northern region, until their language, the speech of the men of Asia, was the native language in all these lands. So people think they can tell, from the names of their forefathers that are written down, that those names belonged to this language, and that the Æsir brought the language here into the northern region, into Norway and Sweden, into Denmark and Saxland. But in England there are ancient lists of the names of regions and places which may show that those names came from another language than this."
+   }
+  ]
+ }
+}
