@@ -1,24 +1,30 @@
 {
-  "_note": "Mímir (task 34) content, drafted by an AI model (Claude) from the aligned texts of Open Edda; every fact cites row ids. status draft = not reviewed. CC BY 4.0. Generated 2026-11-08.",
+  "_note": "Mímir (task 34) content, drafted by an AI model (Claude) from the aligned texts of Open Edda; every fact cites row ids. status draft = not reviewed. CC BY 4.0. Generated 2026-11-08. Icelandic ('is'): an AI translation of the English by Claude (Anthropic), 2026-11-14; a draft, not reviewed by a person (drög, gervigreind, þarf yfirlestur).",
   "outside": {
     "ynglinga-saga": {
       "title": {
-        "en": "Ynglinga saga"
+        "en": "Ynglinga saga",
+        "is": "Ynglinga saga"
       },
       "who": {
-        "en": "Snorri Sturluson"
+        "en": "Snorri Sturluson",
+        "is": "Snorri Sturluson"
       },
       "date": {
-        "en": "c. 1225"
+        "en": "c. 1225",
+        "is": "um 1225"
       },
       "what": {
-        "en": "The first saga of Snorri's history of the Norwegian kings, Heimskringla. It traces the Swedish Yngling kings back to Óðinn, Njǫrðr and Freyr, told as human rulers."
+        "en": "The first saga of Snorri's history of the Norwegian kings, Heimskringla. It traces the Swedish Yngling kings back to Óðinn, Njǫrðr and Freyr, told as human rulers.",
+        "is": "Fyrsta sagan í Heimskringlu, sögu Snorra af Noregskonungum. Hún rekur ætt sænsku Ynglingakonunganna til Óðins, Njarðar og Freys, sem þar er sagt frá sem mennskum höfðingjum."
       },
       "adds": {
-        "en": "It tells stories the Eddas only hint at: how the Æsir and Vanir made peace and swapped hostages, how Mímir was beheaded and Óðinn kept his head to give him counsel, and how Freyr ruled at Uppsala and was buried in a mound. Gefjun's ploughing out of Zealand appears in both works."
+        "en": "It tells stories the Eddas only hint at: how the Æsir and Vanir made peace and swapped hostages, how Mímir was beheaded and Óðinn kept his head to give him counsel, and how Freyr ruled at Uppsala and was buried in a mound. Gefjun's ploughing out of Zealand appears in both works.",
+        "is": "Hún segir sögur sem Eddurnar aðeins ýja að: hvernig æsir og vanir sömdu frið og skiptust á gíslum, hvernig Mímir var hálshöggvinn og Óðinn varðveitti höfuð hans til að þiggja af því ráð, og hvernig Freyr ríkti í Uppsölum og var heygður. Frásögnin af því er Gefjun plægði Sjáland út kemur fyrir í báðum verkunum."
       },
       "differs": {
-        "en": "The gods are mortal men from Ásaland near the river Tanais who are later worshipped as gods, much as in Snorri's Prologue."
+        "en": "The gods are mortal men from Ásaland near the river Tanais who are later worshipped as gods, much as in Snorri's Prologue.",
+        "is": "Goðin eru dauðlegir menn frá Ásalandi við fljótið Tanais sem síðar eru dýrkaðir sem goð, líkt og í formála Snorra-Eddu."
       },
       "kind": "source",
       "refs": [
@@ -36,22 +42,28 @@
     },
     "prologue-euhemerism": {
       "title": {
-        "en": "Snorri's Prologue"
+        "en": "Snorri's Prologue",
+        "is": "Formáli Snorra-Eddu"
       },
       "who": {
-        "en": "Snorri Sturluson"
+        "en": "Snorri Sturluson",
+        "is": "Snorri Sturluson"
       },
       "date": {
-        "en": "c. 1220"
+        "en": "c. 1220",
+        "is": "um 1220"
       },
       "what": {
-        "en": "The opening of Snorri's Edda, included in Open Edda. It begins with God's creation and Noah's flood and explains the Norse gods as people from Troy who moved north and were taken for gods."
+        "en": "The opening of Snorri's Edda, included in Open Edda. It begins with God's creation and Noah's flood and explains the Norse gods as people from Troy who moved north and were taken for gods.",
+        "is": "Upphafskafli Snorra-Eddu, sem er með í Open Edda. Hann hefst á sköpunarverki Guðs og Nóaflóði og skýrir norrænu goðin sem fólk frá Tróju sem fluttist norður og var talið vera goð."
       },
       "adds": {
-        "en": "It is the key to how a Christian author could write down heathen myth: Þórr is Trór, grandson of King Priam of Troy, and Óðinn leads his people from 'Asia' to Sweden, so the Æsir become 'men of Asia'. Gylfaginning carries the idea on, calling Ásgarðr Troy, and Skáldskaparmál warns Christians not to believe the tales except as the book's opening explains them."
+        "en": "It is the key to how a Christian author could write down heathen myth: Þórr is Trór, grandson of King Priam of Troy, and Óðinn leads his people from 'Asia' to Sweden, so the Æsir become 'men of Asia'. Gylfaginning carries the idea on, calling Ásgarðr Troy, and Skáldskaparmál warns Christians not to believe the tales except as the book's opening explains them.",
+        "is": "Hann er lykillinn að því hvernig kristinn höfundur gat fært heiðnar goðsögur í letur: Þór er Trór, dóttursonur Príamusar konungs í Tróju, og Óðinn leiðir þjóð sína frá „Asíu“ til Svíþjóðar, svo að æsir verða „Asíumenn“. Gylfaginning heldur hugmyndinni áfram og kallar Ásgarð Tróju, og Skáldskaparmál vara kristna menn við að trúa sögunum á annan hátt en upphaf bókarinnar skýrir þær."
       },
       "differs": {
-        "en": "Its gods are human kings and heroes, which contradicts the gods of the poems; scholars call this approach euhemerism."
+        "en": "Its gods are human kings and heroes, which contradicts the gods of the poems; scholars call this approach euhemerism.",
+        "is": "Goð hans eru mennskir konungar og hetjur, sem stangast á við goð kvæðanna; fræðimenn kalla þessa nálgun evhemerisma."
       },
       "kind": "source",
       "refs": [
@@ -68,22 +80,28 @@
     },
     "saxo": {
       "title": {
-        "en": "Gesta Danorum (Deeds of the Danes)"
+        "en": "Gesta Danorum (Deeds of the Danes)",
+        "is": "Gesta Danorum (Afrek Dana)"
       },
       "who": {
-        "en": "Saxo Grammaticus"
+        "en": "Saxo Grammaticus",
+        "is": "Saxo Grammaticus"
       },
       "date": {
-        "en": "finished after 1208"
+        "en": "finished after 1208",
+        "is": "lokið eftir 1208"
       },
       "what": {
-        "en": "A Latin history of Denmark in sixteen books, written for Archbishop Absalon. The first nine books retell legends of the gods and early kings."
+        "en": "A Latin history of Denmark in sixteen books, written for Archbishop Absalon. The first nine books retell legends of the gods and early kings.",
+        "is": "Saga Danmerkur á latínu í sextán bókum, rituð fyrir Absalon erkibiskup. Fyrstu níu bækurnar endursegja sagnir af goðum og fornkonungum."
       },
       "adds": {
-        "en": "It is an independent Danish witness to many Eddic figures: Balderus, Høtherus and Nanna, Othinus and Rinda, a journey to the giant Geruthus (Geirrøðr) and to a chained Utgarthilocus. It also has the story of Amleth, the source of Hamlet."
+        "en": "It is an independent Danish witness to many Eddic figures: Balderus, Høtherus and Nanna, Othinus and Rinda, a journey to the giant Geruthus (Geirrøðr) and to a chained Utgarthilocus. It also has the story of Amleth, the source of Hamlet.",
+        "is": "Hún er sjálfstæð dönsk heimild um margar persónur Eddanna: Balderus, Høtherus og Nanna, Othinus og Rinda, ferð til jötunsins Geruthus (Geirröðar) og til hins fjötraða Utgarthilocus. Þar er einnig sagan af Amleth, sem er fyrirmynd Hamlets."
       },
       "differs": {
-        "en": "The gods are powerful humans or demons. Baldr and Høðr are rivals for Nanna, a human woman, and Høðr mortally wounds Baldr in their feud; there is no mistletoe."
+        "en": "The gods are powerful humans or demons. Baldr and Høðr are rivals for Nanna, a human woman, and Høðr mortally wounds Baldr in their feud; there is no mistletoe.",
+        "is": "Goðin eru voldugir menn eða djöflar. Baldur og Höður keppa um Nönnu, mennska konu, og Höður særir Baldur til ólífis í deilu þeirra; þar er enginn mistilteinn."
       },
       "kind": "source",
       "refs": [
@@ -100,22 +118,28 @@
     },
     "skaldic-poetry": {
       "title": {
-        "en": "Skaldic poetry: Ragnarsdrápa, Haustlöng, Húsdrápa, Þórsdrápa"
+        "en": "Skaldic poetry: Ragnarsdrápa, Haustlöng, Húsdrápa, Þórsdrápa",
+        "is": "Dróttkvæði: Ragnarsdrápa, Haustlöng, Húsdrápa, Þórsdrápa"
       },
       "who": {
-        "en": "Bragi Boddason, Þjóðólfr of Hvinir, Úlfr Uggason, Eilífr Goðrúnarson"
+        "en": "Bragi Boddason, Þjóðólfr of Hvinir, Úlfr Uggason, Eilífr Goðrúnarson",
+        "is": "Bragi Boddason, Þjóðólfur úr Hvini, Úlfur Uggason, Eilífur Goðrúnarson"
       },
       "date": {
-        "en": "9th–10th centuries"
+        "en": "9th–10th centuries",
+        "is": "9.–10. öld"
       },
       "what": {
-        "en": "Court poems by named poets, several describing myth pictures on shields or the walls of a hall. They survive mostly because Snorri quotes them in his Edda."
+        "en": "Court poems by named poets, several describing myth pictures on shields or the walls of a hall. They survive mostly because Snorri quotes them in his Edda.",
+        "is": "Hirðkvæði eftir nafngreind skáld, og lýsa nokkur þeirra goðsagnamyndum á skjöldum eða veggjum skála. Þau hafa einkum varðveist vegna þess að Snorri vitnar í þau í Eddu sinni."
       },
       "adds": {
-        "en": "They are the oldest datable witnesses to the myths, mostly composed before Iceland's conversion. Snorri names his sources: Haustlöng for Þórr and Hrungnir and for Iðunn and Þjazi, Þórsdrápa for Þórr's trip to Geirrøðr, Húsdrápa for Baldr's funeral and for Heimdallr and Loki fighting over Brísingamen, and verses by Bragi the Old, many from his Ragnarsdrápa, for Gefjun, Þórr's fishing and the endless battle of the Hjaðningar."
+        "en": "They are the oldest datable witnesses to the myths, mostly composed before Iceland's conversion. Snorri names his sources: Haustlöng for Þórr and Hrungnir and for Iðunn and Þjazi, Þórsdrápa for Þórr's trip to Geirrøðr, Húsdrápa for Baldr's funeral and for Heimdallr and Loki fighting over Brísingamen, and verses by Bragi the Old, many from his Ragnarsdrápa, for Gefjun, Þórr's fishing and the endless battle of the Hjaðningar.",
+        "is": "Þau eru elstu heimildirnar um goðsögurnar sem hægt er að tímasetja, flest ort fyrir kristnitöku á Íslandi. Snorri nefnir heimildir sínar: Haustlöng um Þór og Hrungni og um Iðunni og Þjassa, Þórsdrápu um för Þórs til Geirröðar, Húsdrápu um bálför Baldurs og um bardaga Heimdallar og Loka um Brísingamen, og vísur eftir Braga gamla, margar úr Ragnarsdrápu hans, um Gefjun, veiðiför Þórs og hina endalausu orrustu Hjaðninga."
       },
       "differs": {
-        "en": "Each poem shows only a scene, in dense kennings; Snorri's prose fills in the story around them, and sometimes adds details they lack."
+        "en": "Each poem shows only a scene, in dense kennings; Snorri's prose fills in the story around them, and sometimes adds details they lack.",
+        "is": "Hvert kvæði sýnir aðeins eitt atriði, í þéttum kenningum; laust mál Snorra fyllir upp í söguna í kringum þau og bætir stundum við atriðum sem þar vantar."
       },
       "kind": "source",
       "refs": [
@@ -137,22 +161,28 @@
     },
     "volsunga-saga": {
       "title": {
-        "en": "Völsunga saga"
+        "en": "Völsunga saga",
+        "is": "Völsunga saga"
       },
       "who": {
-        "en": "anonymous Icelandic author"
+        "en": "anonymous Icelandic author",
+        "is": "ókunnur íslenskur höfundur"
       },
       "date": {
-        "en": "late 13th century (manuscript c. 1400)"
+        "en": "late 13th century (manuscript c. 1400)",
+        "is": "seint á 13. öld (handrit frá um 1400)"
       },
       "what": {
-        "en": "A prose saga of the Völsung family, from Sigi and Sigmundr to Sigurðr, the Gjúkungs and Guðrún's last revenge, built largely on the heroic poems of the Poetic Edda."
+        "en": "A prose saga of the Völsung family, from Sigi and Sigmundr to Sigurðr, the Gjúkungs and Guðrún's last revenge, built largely on the heroic poems of the Poetic Edda.",
+        "is": "Saga í lausu máli um ætt Völsunga, frá Siga og Sigmundi til Sigurðar, Gjúkunga og hinstu hefndar Guðrúnar, að miklu leyti byggð á hetjukvæðum Sæmundar-Eddu."
       },
       "adds": {
-        "en": "It tells the whole story in order, and it covers the part of Sigurðr's life lost with the missing leaves of the Codex Regius. Snorri gives a short version of the same story in Skáldskaparmál."
+        "en": "It tells the whole story in order, and it covers the part of Sigurðr's life lost with the missing leaves of the Codex Regius. Snorri gives a short version of the same story in Skáldskaparmál.",
+        "is": "Hún segir alla söguna í réttri röð og nær yfir þann hluta af ævi Sigurðar sem glataðist með blöðunum sem vantar í Konungsbók. Snorri segir sömu sögu í stuttu máli í Skáldskaparmálum."
       },
       "differs": {
-        "en": "It smooths the poems into one plot, so where the poems disagree with each other the saga picks one version or adds connecting scenes."
+        "en": "It smooths the poems into one plot, so where the poems disagree with each other the saga picks one version or adds connecting scenes.",
+        "is": "Hún fellir kvæðin saman í einn söguþráð, og þar sem kvæðunum ber ekki saman velur sagan eina gerð eða bætir við atriðum til tengingar."
       },
       "kind": "source",
       "refs": [
@@ -174,22 +204,28 @@
     },
     "sorla-thattr": {
       "title": {
-        "en": "Sörla þáttr (Heðins saga ok Högna)"
+        "en": "Sörla þáttr (Heðins saga ok Högna)",
+        "is": "Sörla þáttur (Heðins saga og Högna)"
       },
       "who": {
-        "en": "anonymous; copied by the priests Jón Þórðarson and Magnús Þórhallsson"
+        "en": "anonymous; copied by the priests Jón Þórðarson and Magnús Þórhallsson",
+        "is": "höfundur ókunnur; skrifaður upp af prestunum Jóni Þórðarsyni og Magnúsi Þórhallssyni"
       },
       "date": {
-        "en": "c. 1390 (Flateyjarbók)"
+        "en": "c. 1390 (Flateyjarbók)",
+        "is": "um 1390 (Flateyjarbók)"
       },
       "what": {
-        "en": "A short tale inside the long saga of King Óláfr Tryggvason in Flateyjarbók. It explains the endless battle of Heðinn and Högni."
+        "en": "A short tale inside the long saga of King Óláfr Tryggvason in Flateyjarbók. It explains the endless battle of Heðinn and Högni.",
+        "is": "Stuttur þáttur inni í hinni löngu sögu Ólafs konungs Tryggvasonar í Flateyjarbók. Hann skýrir hina endalausu orrustu Heðins og Högna."
       },
       "adds": {
-        "en": "It is the only source for Freyja buying Brísingamen with a night with each of four dwarves, and for Loki stealing it as a flea. It links that theft to the Hjaðningavíg, which Snorri and Bragi also describe."
+        "en": "It is the only source for Freyja buying Brísingamen with a night with each of four dwarves, and for Loki stealing it as a flea. It links that theft to the Hjaðningavíg, which Snorri and Bragi also describe.",
+        "is": "Hann er eina heimildin um að Freyja hafi keypt Brísingamen með því að eyða nótt með hverjum fjögurra dverga, og um að Loki hafi stolið því í flóarlíki. Hann tengir þann þjófnað við Hjaðningavíg, sem Snorri og Bragi lýsa einnig."
       },
       "differs": {
-        "en": "Óðinn is a king in Asia and Freyja his concubine, Heimdallr plays no part, and the coming of King Óláfr's man ends the curse."
+        "en": "Óðinn is a king in Asia and Freyja his concubine, Heimdallr plays no part, and the coming of King Óláfr's man ends the curse.",
+        "is": "Óðinn er konungur í Asíu og Freyja frilla hans, Heimdallur kemur hvergi við sögu og koma manns Ólafs konungs bindur enda á álögin."
       },
       "kind": "source",
       "refs": [
@@ -206,22 +242,28 @@
     },
     "tacitus-germania": {
       "title": {
-        "en": "Germania"
+        "en": "Germania",
+        "is": "Germania"
       },
       "who": {
-        "en": "Publius Cornelius Tacitus"
+        "en": "Publius Cornelius Tacitus",
+        "is": "Publius Cornelius Tacitus"
       },
       "date": {
-        "en": "AD 98"
+        "en": "AD 98",
+        "is": "98 e.Kr."
       },
       "what": {
-        "en": "A short Roman account of the Germanic peoples, written more than seven centuries before the Viking Age."
+        "en": "A short Roman account of the Germanic peoples, written more than seven centuries before the Viking Age.",
+        "is": "Stutt rómversk lýsing á germönskum þjóðum, rituð meira en sjö öldum fyrir víkingaöld."
       },
       "adds": {
-        "en": "It shows Germanic gods long before the Norse texts. Tacitus calls them by Roman names, Mercury (usually taken as Wodan/Óðinn), Hercules and Mars, and describes a goddess Nerthus, 'Mother Earth', carried in a covered wagon. Her name matches that of Njǫrðr, the Vanir god of wind and sea in the Eddas."
+        "en": "It shows Germanic gods long before the Norse texts. Tacitus calls them by Roman names, Mercury (usually taken as Wodan/Óðinn), Hercules and Mars, and describes a goddess Nerthus, 'Mother Earth', carried in a covered wagon. Her name matches that of Njǫrðr, the Vanir god of wind and sea in the Eddas.",
+        "is": "Hún sýnir germönsk goð löngu fyrir tíma norrænu textanna. Tacitus nefnir þau rómverskum nöfnum, Merkúríus (sem oftast er talinn vera Wodan/Óðinn), Herkúles og Mars, og lýsir gyðjunni Nerthus, „Móður Jörð“, sem ekið er um í tjölduðum vagni. Nafn hennar samsvarar nafni Njarðar, vanaguðs vinds og sjávar í Eddunum."
       },
       "differs": {
-        "en": "It is an outsider's view of continental tribes, not Norse myth; Nerthus is a goddess where Njǫrðr is a god."
+        "en": "It is an outsider's view of continental tribes, not Norse myth; Nerthus is a goddess where Njǫrðr is a god.",
+        "is": "Hún er sýn utanaðkomandi manns á ættbálka á meginlandinu, ekki norræn goðafræði; Nerthus er gyðja en Njörður er guð."
       },
       "kind": "source",
       "refs": [
@@ -236,22 +278,28 @@
     },
     "adam-of-bremen": {
       "title": {
-        "en": "Gesta Hammaburgensis ecclesiae pontificum (History of the Archbishops of Hamburg-Bremen)"
+        "en": "Gesta Hammaburgensis ecclesiae pontificum (History of the Archbishops of Hamburg-Bremen)",
+        "is": "Gesta Hammaburgensis ecclesiae pontificum (Saga erkibiskupanna í Hamborg og Brimum)"
       },
       "who": {
-        "en": "Adam of Bremen"
+        "en": "Adam of Bremen",
+        "is": "Adam frá Brimum"
       },
       "date": {
-        "en": "1073–1076"
+        "en": "1073–1076",
+        "is": "1073–1076"
       },
       "what": {
-        "en": "A Latin church history of the north German mission; its fourth book describes the lands and peoples of Scandinavia."
+        "en": "A Latin church history of the north German mission; its fourth book describes the lands and peoples of Scandinavia.",
+        "is": "Kirkjusaga á latínu um norðurþýska trúboðið; fjórða bók hennar lýsir löndum og þjóðum Norðurlanda."
       },
       "adds": {
-        "en": "It has the best-known near-contemporary description of a heathen temple, at Uppsala: images of Thor in the middle with Wodan and Fricco (Freyr) beside him, a great feast every nine years with nine days of sacrifices, and a sacred tree and well nearby. Adam says Wodan, 'that is, fury', wages war, and Fricco gives peace and pleasure; the Eddas, too, link Óðinn with the slain and Freyr with peace."
+        "en": "It has the best-known near-contemporary description of a heathen temple, at Uppsala: images of Thor in the middle with Wodan and Fricco (Freyr) beside him, a great feast every nine years with nine days of sacrifices, and a sacred tree and well nearby. Adam says Wodan, 'that is, fury', wages war, and Fricco gives peace and pleasure; the Eddas, too, link Óðinn with the slain and Freyr with peace.",
+        "is": "Þar er þekktasta lýsingin, nærri samtíma, á heiðnu hofi, í Uppsölum: líkneski af Þór í miðju með Wodan og Fricco (Frey) sér við hlið, mikil hátíð níunda hvert ár með blótum í níu daga, og helgt tré og brunnur í grenndinni. Adam segir að Wodan, „það er æði“, heyi stríð og að Fricco veiti frið og unað; Eddurnar tengja líka Óðin við valinn og Frey við frið."
       },
       "differs": {
-        "en": "It is a Christian cleric's hostile report from hearsay; it puts Thor, not Óðinn, at the head of the gods, and it tells no myths."
+        "en": "It is a Christian cleric's hostile report from hearsay; it puts Thor, not Óðinn, at the head of the gods, and it tells no myths.",
+        "is": "Hún er fjandsamleg frásögn kristins klerks, byggð á sögusögnum; hún setur Þór, ekki Óðin, fremstan goðanna og segir engar goðsögur."
       },
       "kind": "source",
       "refs": [
@@ -273,22 +321,28 @@
     },
     "picture-stones": {
       "title": {
-        "en": "Picture stones and carved monuments"
+        "en": "Picture stones and carved monuments",
+        "is": "Myndsteinar og úthöggnir minnisvarðar"
       },
       "who": {
-        "en": "unknown Viking-Age carvers in Gotland, Sweden, Denmark and northern England"
+        "en": "unknown Viking-Age carvers in Gotland, Sweden, Denmark and northern England",
+        "is": "ókunnir steinhöggvarar á víkingaöld á Gotlandi, í Svíþjóð, Danmörku og Norður-Englandi"
       },
       "date": {
-        "en": "c. 400–1100"
+        "en": "c. 400–1100",
+        "is": "um 400–1100"
       },
       "what": {
-        "en": "Carved stones that show scenes from myth and legend: the Gotland picture stones, the Altuna runestone and Ramsund carving in Sweden, the Hunnestad monument in Scania and the Gosforth Cross in Cumbria."
+        "en": "Carved stones that show scenes from myth and legend: the Gotland picture stones, the Altuna runestone and Ramsund carving in Sweden, the Hunnestad monument in Scania and the Gosforth Cross in Cumbria.",
+        "is": "Úthöggnir steinar sem sýna atriði úr goðsögum og hetjusögum: myndsteinarnir á Gotlandi, Altuna-rúnasteinninn og Ramsundsristan í Svíþjóð, Hunnestad-minnisvarðinn á Skáni og Gosforth-krossinn í Cumbria."
       },
       "adds": {
-        "en": "They prove that stories told by Snorri two centuries later were known in the Viking Age. Altuna (11th century) shows Þórr fishing for the serpent with his foot through the boat, as in Snorri; Gosforth (c. 920–950) shows Víðarr tearing the wolf's jaw and Loki bound with Sigyn beside him; Ramsund (c. 1030) shows Sigurðr, Fáfnir and Reginn; Gotland stones show an eight-legged horse; and a Hunnestad stone shows a woman riding a wolf, perhaps Hyrrokkin."
+        "en": "They prove that stories told by Snorri two centuries later were known in the Viking Age. Altuna (11th century) shows Þórr fishing for the serpent with his foot through the boat, as in Snorri; Gosforth (c. 920–950) shows Víðarr tearing the wolf's jaw and Loki bound with Sigyn beside him; Ramsund (c. 1030) shows Sigurðr, Fáfnir and Reginn; Gotland stones show an eight-legged horse; and a Hunnestad stone shows a woman riding a wolf, perhaps Hyrrokkin.",
+        "is": "Þeir sanna að sögur sem Snorri sagði tveimur öldum síðar voru þekktar á víkingaöld. Altuna (11. öld) sýnir Þór veiða orminn með fótinn niður úr bátnum, eins og hjá Snorra; Gosforth (um 920–950) sýnir Víðar rífa sundur kjaft úlfsins og Loka bundinn með Sigyn sér við hlið; Ramsund (um 1030) sýnir Sigurð, Fáfni og Regin; steinar á Gotlandi sýna áttfættan hest; og steinn frá Hunnestad sýnir konu ríða úlfi, ef til vill Hyrrokkin."
       },
       "differs": {
-        "en": "They have no captions, so identifications are interpretations; the Gosforth Cross mixes Norse scenes with the Crucifixion."
+        "en": "They have no captions, so identifications are interpretations; the Gosforth Cross mixes Norse scenes with the Crucifixion.",
+        "is": "Á þeim eru engir skýringartextar, svo að það er túlkunaratriði hvað myndirnar sýna; Gosforth-krossinn blandar norrænum atriðum saman við krossfestinguna."
       },
       "kind": "source",
       "refs": [
@@ -310,22 +364,28 @@
     },
     "place-names": {
       "title": {
-        "en": "Place-names"
+        "en": "Place-names",
+        "is": "Örnefni"
       },
       "who": {
-        "en": "the people of Scandinavia, over many centuries"
+        "en": "the people of Scandinavia, over many centuries",
+        "is": "íbúar Norðurlanda, á mörgum öldum"
       },
       "date": {
-        "en": "Iron Age and Viking Age"
+        "en": "Iron Age and Viking Age",
+        "is": "Járnöld og víkingaöld"
       },
       "what": {
-        "en": "Names of farms, towns and holy sites that contain a god's name, such as Odense in Denmark (Óðins vé, 'Óðinn's sanctuary', first recorded in 988) or Ullensvang and Ullevi ('Ullr's field', 'Ullr's sanctuary') in Norway and Sweden."
+        "en": "Names of farms, towns and holy sites that contain a god's name, such as Odense in Denmark (Óðins vé, 'Óðinn's sanctuary', first recorded in 988) or Ullensvang and Ullevi ('Ullr's field', 'Ullr's sanctuary') in Norway and Sweden.",
+        "is": "Nöfn bæja, borga og helgistaða sem geyma nafn goðs, svo sem Óðinsvé í Danmörku (Odense; Óðins vé, „helgistaður Óðins“, fyrst skráð árið 988) eða Ullensvang og Ullevi („vangur Ullar“, „vé Ullar“) í Noregi og Svíþjóð."
       },
       "adds": {
-        "en": "They show where gods were actually worshipped. Ullr, who gets only a few lines in the Eddas (a fine archer and skier, Sif's son, with a home at Ýdalir), is common in Norwegian and Swedish place-names, so he once mattered far more than the texts suggest."
+        "en": "They show where gods were actually worshipped. Ullr, who gets only a few lines in the Eddas (a fine archer and skier, Sif's son, with a home at Ýdalir), is common in Norwegian and Swedish place-names, so he once mattered far more than the texts suggest.",
+        "is": "Þau sýna hvar goðin voru í raun dýrkuð. Ullur, sem fær aðeins fáeinar línur í Eddunum (góður bogmaður og skíðamaður, sonur Sifjar, með bústað í Ýdölum), er algengur í norskum og sænskum örnefnum, svo að eitt sinn skipti hann miklu meira máli en textarnir gefa til kynna."
       },
       "differs": {
-        "en": "Names tell us of cult, not of stories."
+        "en": "Names tell us of cult, not of stories.",
+        "is": "Örnefni segja okkur frá dýrkun, ekki frá sögum."
       },
       "kind": "source",
       "refs": [
@@ -336,22 +396,28 @@
     },
     "romantic-art": {
       "title": {
-        "en": "Romantic art and illustration"
+        "en": "Romantic art and illustration",
+        "is": "Rómantísk myndlist og myndskreytingar"
       },
       "who": {
-        "en": "Lorenz Frølich, Carl Emil Doepler, W. G. Collingwood, Arthur Rackham and others"
+        "en": "Lorenz Frølich, Carl Emil Doepler, W. G. Collingwood, Arthur Rackham and others",
+        "is": "Lorenz Frølich, Carl Emil Doepler, W. G. Collingwood, Arthur Rackham og fleiri"
       },
       "date": {
-        "en": "19th – early 20th century"
+        "en": "19th – early 20th century",
+        "is": "19. öld og upphaf 20. aldar"
       },
       "what": {
-        "en": "Paintings, book illustrations and stage designs of the Norse gods made in the age of national romanticism. Frølich (1820–1908) illustrated Danish books on the northern gods and Gjellerup's Edda (1895); Doepler (1824–1905) designed the costumes for Wagner's Ring at Bayreuth in 1876; Collingwood (1854–1932) illustrated Olive Bray's Elder Edda (1908)."
+        "en": "Paintings, book illustrations and stage designs of the Norse gods made in the age of national romanticism. Frølich (1820–1908) illustrated Danish books on the northern gods and Gjellerup's Edda (1895); Doepler (1824–1905) designed the costumes for Wagner's Ring at Bayreuth in 1876; Collingwood (1854–1932) illustrated Olive Bray's Elder Edda (1908).",
+        "is": "Málverk, bókaskreytingar og sviðshönnun með norrænu goðunum frá tímum þjóðernisrómantíkur. Frølich (1820–1908) myndskreytti danskar bækur um norrænu goðin og Eddu Gjellerups (1895); Doepler (1824–1905) hannaði búningana fyrir Hring Wagners í Bayreuth árið 1876; Collingwood (1854–1932) myndskreytti Elder Edda eftir Olive Bray (1908)."
       },
       "adds": {
-        "en": "These images created the look most people now picture: winged and horned helmets, flowing beards and heroic poses. They show how the 19th century read the Eddas."
+        "en": "These images created the look most people now picture: winged and horned helmets, flowing beards and heroic poses. They show how the 19th century read the Eddas.",
+        "is": "Þessar myndir sköpuðu það útlit sem flestir sjá nú fyrir sér: vængjaða og hyrnda hjálma, sítt og flaksandi skegg og hetjulegar stellingar. Þær sýna hvernig 19. öldin las Eddurnar."
       },
       "differs": {
-        "en": "Many details, such as horns and wings, have no support in the Eddas or in Viking-Age finds."
+        "en": "Many details, such as horns and wings, have no support in the Eddas or in Viking-Age finds.",
+        "is": "Mörg atriði, svo sem horn og vængir, eiga sér enga stoð í Eddunum né í fornminjum frá víkingaöld."
       },
       "kind": "reception",
       "refs": [],
@@ -368,22 +434,28 @@
     },
     "wagner": {
       "title": {
-        "en": "Der Ring des Nibelungen"
+        "en": "Der Ring des Nibelungen",
+        "is": "Der Ring des Nibelungen"
       },
       "who": {
-        "en": "Richard Wagner"
+        "en": "Richard Wagner",
+        "is": "Richard Wagner"
       },
       "date": {
-        "en": "1848–1874; first full cycle Bayreuth, August 1876"
+        "en": "1848–1874; first full cycle Bayreuth, August 1876",
+        "is": "1848–1874; fyrsta heildaruppfærsla í Bayreuth í ágúst 1876"
       },
       "what": {
-        "en": "A cycle of four operas: Das Rheingold, Die Walküre, Siegfried and Götterdämmerung, built from the Eddas, Völsunga saga, Þiðreks saga and the German Nibelungenlied."
+        "en": "A cycle of four operas: Das Rheingold, Die Walküre, Siegfried and Götterdämmerung, built from the Eddas, Völsunga saga, Þiðreks saga and the German Nibelungenlied.",
+        "is": "Flokkur fjögurra ópera: Das Rheingold, Die Walküre, Siegfried og Götterdämmerung, byggður á Eddunum, Völsunga sögu, Þiðreks sögu og þýska kvæðinu Nibelungenlied."
       },
       "adds": {
-        "en": "It brought Óðinn (as Wotan), the valkyries, the cursed ring and the twilight of the gods to a world audience, and its staging fixed many popular images of the Norse world."
+        "en": "It brought Óðinn (as Wotan), the valkyries, the cursed ring and the twilight of the gods to a world audience, and its staging fixed many popular images of the Norse world.",
+        "is": "Hann kynnti Óðin (sem Wotan), valkyrjurnar, hringinn bölvaða og ragnarökkur fyrir áhorfendum um allan heim, og sviðsetning hans festi í sessi margar vinsælar myndir af hinum norræna heimi."
       },
       "differs": {
-        "en": "Wagner reshaped the material freely: Brünnhilde is Wotan's daughter, Hagen kills Siegfried, the ring is forged by Alberich from the Rhine gold, and the gods' world ends in fire without the Eddic renewal."
+        "en": "Wagner reshaped the material freely: Brünnhilde is Wotan's daughter, Hagen kills Siegfried, the ring is forged by Alberich from the Rhine gold, and the gods' world ends in fire without the Eddic renewal.",
+        "is": "Wagner endurmótaði efnið frjálslega: Brünnhilde er dóttir Wotans, Hagen drepur Siegfried, Alberich smíðar hringinn úr Rínargullinu og heimur goðanna ferst í eldi án þeirrar endurnýjunar sem Eddurnar lýsa."
       },
       "kind": "reception",
       "refs": [
@@ -401,22 +473,28 @@
     },
     "modern-pop": {
       "title": {
-        "en": "Comics, films, games and novels"
+        "en": "Comics, films, games and novels",
+        "is": "Myndasögur, kvikmyndir, leikir og skáldsögur"
       },
       "who": {
-        "en": "Marvel (Stan Lee, Larry Lieber, Jack Kirby), J. R. R. Tolkien, game and film studios"
+        "en": "Marvel (Stan Lee, Larry Lieber, Jack Kirby), J. R. R. Tolkien, game and film studios",
+        "is": "Marvel (Stan Lee, Larry Lieber, Jack Kirby), J. R. R. Tolkien, leikja- og kvikmyndaver"
       },
       "date": {
-        "en": "20th–21st centuries"
+        "en": "20th–21st centuries",
+        "is": "20.–21. öld"
       },
       "what": {
-        "en": "Modern retellings and inventions: Marvel's Thor (from Journey into Mystery #83, 1962) and its films, Tolkien's dwarves and Gandalf with names taken from Völuspá, and many video games."
+        "en": "Modern retellings and inventions: Marvel's Thor (from Journey into Mystery #83, 1962) and its films, Tolkien's dwarves and Gandalf with names taken from Völuspá, and many video games.",
+        "is": "Endursagnir og nýsmíði nútímans: Thor frá Marvel (frá og með Journey into Mystery #83, 1962) og kvikmyndirnar um hann, dvergar Tolkiens og Gandálfur með nöfn sótt í Völuspá, og fjöldi tölvuleikja."
       },
       "adds": {
-        "en": "They have made the names Óðinn, Þórr, Loki, Asgard and Ragnarök known worldwide, and they send many readers back to the Eddas."
+        "en": "They have made the names Óðinn, Þórr, Loki, Asgard and Ragnarök known worldwide, and they send many readers back to the Eddas.",
+        "is": "Þessi verk hafa gert nöfnin Óðinn, Þór, Loki, Ásgarður og ragnarök þekkt um allan heim og vísa mörgum lesendum aftur til Eddanna."
       },
       "differs": {
-        "en": "They often change families and powers: Loki as Thor's adopted brother, a hammer only the worthy can lift, a fixed map of nine worlds."
+        "en": "They often change families and powers: Loki as Thor's adopted brother, a hammer only the worthy can lift, a fixed map of nine worlds.",
+        "is": "Þau breyta oft ættartengslum og kröftum: Loki sem fósturbróðir Þórs, hamar sem aðeins hinir verðugu geta lyft, fastmótað kort af níu heimum."
       },
       "kind": "reception",
       "refs": [
@@ -426,22 +504,28 @@
     },
     "modern-paganism": {
       "title": {
-        "en": "Modern heathenry (Ásatrú)"
+        "en": "Modern heathenry (Ásatrú)",
+        "is": "Heiðni nútímans (ásatrú)"
       },
       "who": {
-        "en": "Ásatrúarfélagið in Iceland and similar groups elsewhere"
+        "en": "Ásatrúarfélagið in Iceland and similar groups elsewhere",
+        "is": "Ásatrúarfélagið á Íslandi og sambærilegir hópar annars staðar"
       },
       "date": {
-        "en": "founded 1972; recognised in Iceland 1973"
+        "en": "founded 1972; recognised in Iceland 1973",
+        "is": "stofnað 1972; viðurkennt á Íslandi 1973"
       },
       "what": {
-        "en": "Modern religious movements that honour the Norse gods. Iceland's Ásatrúarfélagið was founded in 1972 by the farmer-poet Sveinbjörn Beinteinsson and others and became a registered religion in 1973."
+        "en": "Modern religious movements that honour the Norse gods. Iceland's Ásatrúarfélagið was founded in 1972 by the farmer-poet Sveinbjörn Beinteinsson and others and became a registered religion in 1973.",
+        "is": "Trúarhreyfingar nútímans sem heiðra norrænu goðin. Ásatrúarfélagið á Íslandi stofnuðu skáldið og bóndinn Sveinbjörn Beinteinsson og fleiri árið 1972 og það varð skráð trúfélag árið 1973."
       },
       "adds": {
-        "en": "They use the Eddas as living cultural heritage: verses from the Poetic Edda are recited at their blót ceremonies, and they hold Edda evenings."
+        "en": "They use the Eddas as living cultural heritage: verses from the Poetic Edda are recited at their blót ceremonies, and they hold Edda evenings.",
+        "is": "Þær nota Eddurnar sem lifandi menningararf: farið er með erindi úr eddukvæðum við blót þeirra og þær halda Eddukvöld."
       },
       "differs": {
-        "en": "Ásatrúarfélagið has no fixed dogma, and modern heathen practice is a reconstruction, not an unbroken tradition from the Viking Age."
+        "en": "Ásatrúarfélagið has no fixed dogma, and modern heathen practice is a reconstruction, not an unbroken tradition from the Viking Age.",
+        "is": "Ásatrúarfélagið hefur enga fasta kennisetningu og heiðinn siður nútímans er endurgerð, ekki órofin hefð frá víkingaöld."
       },
       "kind": "reception",
       "refs": [],

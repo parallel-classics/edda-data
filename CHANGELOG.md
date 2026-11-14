@@ -4,6 +4,11 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 ## Unreleased
 
+- Icelandic for Mímir and the Names summaries (2026-11-14): every English string in `guide/` (cards, stories,
+  myths, outside, sections, paths, ages, relation notes; 4,876 values) and the 587 summaries in `entities/summaries.json` now has an
+  `is` value beside `en`: an AI translation by Claude, a draft, not reviewed by a person. Names are in their modern
+  Icelandic forms. Where the English quotes a line of the Eddas the Icelandic is a translation of the sense or a
+  wording recalled by the translator, not yet checked against the Icelandic text of this edition.
 - English · modern, complete where a public-domain English exists (task 31, 2026-11-14): Open Edda's AI modernisation
   now covers the Formáli (12 rows), Gylfaginning (340), Skáldskaparmál (843) and the poems (1,695), 2,890 rows in
   `sources/versions/en-modern/` (gylf_1-10, gylf_11-54, prol, skald, poems), placed as the version `en-modern`.

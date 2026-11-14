@@ -1,500 +1,574 @@
 {
-  "_note": "Mímir (task 34) content, drafted by an AI model (Claude) from the aligned texts of Open Edda; every fact cites row ids. status draft = not reviewed. CC BY 4.0. Generated 2026-11-08.",
+  "_note": "Mímir (task 34) content, drafted by an AI model (Claude) from the aligned texts of Open Edda; every fact cites row ids. status draft = not reviewed. CC BY 4.0. Generated 2026-11-08. Icelandic ('is'): an AI translation of the English by Claude (Anthropic), 2026-11-14; a draft, not reviewed by a person (drög, gervigreind, þarf yfirlestur).",
   "paths": {
     "gods-in-10-minutes": {
       "title": {
-        "en": "The gods in ten minutes"
+        "en": "The gods in ten minutes",
+        "is": "Goðin á tíu mínútum"
       },
       "intro": {
-        "en": "A short route through the main gods and the three stories that hold the whole mythology together: the binding of the wolf, the death of Baldr, and the end of the world."
+        "en": "A short route through the main gods and the three stories that hold the whole mythology together: the binding of the wolf, the death of Baldr, and the end of the world.",
+        "is": "Stutt leið um helstu goðin og sögurnar þrjár sem halda allri goðafræðinni saman: fjötrun úlfsins, dauða Baldurs og endalok heimsins."
       },
       "items": [
         {
           "kind": "story",
           "id": "ymir-and-the-making",
           "link": {
-            "en": "The world was built by the three sons of Borr; the first of them named is Óðinn."
+            "en": "The world was built by the three sons of Borr; the first of them named is Óðinn.",
+            "is": "Heiminn smíðuðu þrír synir Bors; sá þeirra sem fyrstur er nefndur er Óðinn."
           }
         },
         {
           "kind": "card",
           "id": "odin",
           "link": {
-            "en": "Óðinn's strongest son, and the gods' defender against giants, is Þórr."
+            "en": "Óðinn's strongest son, and the gods' defender against giants, is Þórr.",
+            "is": "Sterkasti sonur Óðins, og verjandi goðanna gegn jötnum, er Þór."
           }
         },
         {
           "kind": "card",
           "id": "thor",
           "link": {
-            "en": "Þórr's companion on several journeys, and the gods' most troublesome member, is Loki."
+            "en": "Þórr's companion on several journeys, and the gods' most troublesome member, is Loki.",
+            "is": "Förunautur Þórs í nokkrum ferðum, og sá úr hópi goðanna sem mestum vandræðum veldur, er Loki."
           }
         },
         {
           "kind": "card",
           "id": "loki",
           "link": {
-            "en": "The gods blamed Loki for the builder's bargain that put Freyja at risk; she is the next card."
+            "en": "The gods blamed Loki for the builder's bargain that put Freyja at risk; she is the next card.",
+            "is": "Goðin kenndu Loka um samninginn við smiðinn sem stofnaði Freyju í hættu; hún er næsta spjald."
           }
         },
         {
           "kind": "card",
           "id": "freyja",
           "link": {
-            "en": "Loki's own children were a danger too, and only one god dared feed the wolf: Týr."
+            "en": "Loki's own children were a danger too, and only one god dared feed the wolf: Týr.",
+            "is": "Börn Loka sjálfs voru líka hættuleg og aðeins eitt goð þorði að gefa úlfinum að éta: Týr."
           }
         },
         {
           "kind": "card",
           "id": "tyr",
           "link": {
-            "en": "Týr's courage is clearest in the binding of Fenrir."
+            "en": "Týr's courage is clearest in the binding of Fenrir.",
+            "is": "Hugrekki Týs sést best þegar Fenrisúlfur er bundinn."
           }
         },
         {
           "kind": "story",
           "id": "binding-of-fenrir",
           "link": {
-            "en": "Next comes the gods' worst loss: Óðinn's son Baldr."
+            "en": "Next comes the gods' worst loss: Óðinn's son Baldr.",
+            "is": "Næst kemur mesti missir goðanna: Baldur, sonur Óðins."
           }
         },
         {
           "kind": "card",
           "id": "baldur",
           "link": {
-            "en": "Snorri calls Baldr's death the greatest misfortune among gods and men."
+            "en": "Snorri calls Baldr's death the greatest misfortune among gods and men.",
+            "is": "Snorri kallar dauða Baldurs mesta óhapp sem orðið hefur með goðum og mönnum."
           }
         },
         {
           "kind": "story",
           "id": "death-of-baldr",
           "link": {
-            "en": "After Baldr, Loki is bound, and the next time all bonds break, it is the end."
+            "en": "After Baldr, Loki is bound, and the next time all bonds break, it is the end.",
+            "is": "Eftir dauða Baldurs er Loki bundinn, og næst þegar öll bönd bresta eru endalokin komin."
           }
         },
         {
           "kind": "story",
           "id": "ragnarok",
           "link": {
-            "en": "Ragnarök is not quite the end: read on to the world renewed if you have a minute more."
+            "en": "Ragnarök is not quite the end: read on to the world renewed if you have a minute more.",
+            "is": "Ragnarök eru ekki alveg endalokin: lestu áfram um endurnýjaðan heim ef þú hefur mínútu til viðbótar."
           }
         }
       ]
     },
     "creation-to-ragnarok": {
       "title": {
-        "en": "From creation to Ragnarök"
+        "en": "From creation to Ragnarök",
+        "is": "Frá sköpun til ragnaraka"
       },
       "intro": {
-        "en": "All the stories of the gods in one reading order, from the empty gap before the world to the green earth after the fire. Where the sources give an order, it is followed; elsewhere the order is a reading aid."
+        "en": "All the stories of the gods in one reading order, from the empty gap before the world to the green earth after the fire. Where the sources give an order, it is followed; elsewhere the order is a reading aid.",
+        "is": "Allar sögur goðanna í einni lestrarröð, frá tóma gapinu fyrir daga heimsins til grænnar jarðar eftir eldinn. Þar sem heimildirnar gefa röð er henni fylgt; annars er röðin til hægðarauka við lestur."
       },
       "items": [
         {
           "kind": "story",
           "id": "ymir-and-the-making",
           "link": {
-            "en": "With the world built, the gods make people from two trees."
+            "en": "With the world built, the gods make people from two trees.",
+            "is": "Þegar heimurinn er smíðaður gera goðin menn úr tveimur trjám."
           }
         },
         {
           "kind": "story",
           "id": "the-first-humans",
           "link": {
-            "en": "Next the gods' peace is broken by their first war, against the Vanir."
+            "en": "Next the gods' peace is broken by their first war, against the Vanir.",
+            "is": "Næst er friður goðanna rofinn í fyrsta stríði þeirra, gegn vönum."
           }
         },
         {
           "kind": "story",
           "id": "the-first-war",
           "link": {
-            "en": "Völuspá follows the war with broken oaths, which Snorri explains through the builder of the gods' wall."
+            "en": "Völuspá follows the war with broken oaths, which Snorri explains through the builder of the gods' wall.",
+            "is": "Í Völuspá koma rofnir eiðar á eftir stríðinu, og Snorri skýrir þá með sögunni af smiðnum sem reisti borgarvegg goðanna."
           }
         },
         {
           "kind": "story",
           "id": "the-wall-builder",
           "link": {
-            "en": "Þórr's hammer, used to pay the builder, is one of the treasures the dwarfs made for the gods."
+            "en": "Þórr's hammer, used to pay the builder, is one of the treasures the dwarfs made for the gods.",
+            "is": "Hamar Þórs, sem smiðnum var goldið með, er einn dýrgripanna sem dvergarnir smíðuðu handa goðunum."
           }
         },
         {
           "kind": "story",
           "id": "the-treasures",
           "link": {
-            "en": "Loki causes trouble again when he lures Iðunn and her apples out of Ásgarðr."
+            "en": "Loki causes trouble again when he lures Iðunn and her apples out of Ásgarðr.",
+            "is": "Loki veldur aftur vandræðum þegar hann lokkar Iðunni með epli sín út úr Ásgarði."
           }
         },
         {
           "kind": "story",
           "id": "idunn-and-thjazi",
           "link": {
-            "en": "Þjazi's daughter Skaði then comes to Ásgarðr for revenge."
+            "en": "Þjazi's daughter Skaði then comes to Ásgarðr for revenge.",
+            "is": "Skaði, dóttir Þjassa, kemur síðan til Ásgarðs til að hefna."
           }
         },
         {
           "kind": "story",
           "id": "skadi-chooses",
           "link": {
-            "en": "Snorri's next tale goes back to the peace with the Vanir, and the mead brewed from Kvasir's blood."
+            "en": "Snorri's next tale goes back to the peace with the Vanir, and the mead brewed from Kvasir's blood.",
+            "is": "Næsta saga Snorra hverfur aftur til friðarins við vani og mjaðarins sem bruggaður var úr blóði Kvasis."
           }
         },
         {
           "kind": "story",
           "id": "mead-of-poetry",
           "link": {
-            "en": "Another god longs for something in Jötunheimar: Freyr, who sees Gerðr."
+            "en": "Another god longs for something in Jötunheimar: Freyr, who sees Gerðr.",
+            "is": "Annað goð þráir nokkuð í Jötunheimum: Freyr, sem sér Gerði."
           }
         },
         {
           "kind": "story",
           "id": "freyr-and-gerdr",
           "link": {
-            "en": "The giants' lands are also where Þórr travels, most famously to Útgarða-Loki."
+            "en": "The giants' lands are also where Þórr travels, most famously to Útgarða-Loki.",
+            "is": "Lönd jötna eru líka þar sem Þór ferðast, og frægust er för hans til Útgarða-Loka."
           }
         },
         {
           "kind": "story",
           "id": "thor-and-utgarda-loki",
           "link": {
-            "en": "To make up for that journey, Þórr goes fishing for the serpent."
+            "en": "To make up for that journey, Þórr goes fishing for the serpent.",
+            "is": "Til að bæta fyrir þá för fer Þór að veiða orminn."
           }
         },
         {
           "kind": "story",
           "id": "thor-fishes",
           "link": {
-            "en": "Next Þórr fights his first duel, with the giant Hrungnir."
+            "en": "Next Þórr fights his first duel, with the giant Hrungnir.",
+            "is": "Næst háir Þór fyrsta einvígi sitt, við jötuninn Hrungni."
           }
         },
         {
           "kind": "story",
           "id": "thor-and-hrungnir",
           "link": {
-            "en": "Loki, caught by another giant, has to bring Þórr to Geirröðr without his hammer."
+            "en": "Loki, caught by another giant, has to bring Þórr to Geirröðr without his hammer.",
+            "is": "Loki, sem annar jötunn hefur handsamað, verður að koma Þór til Geirröðar án hamarsins."
           }
         },
         {
           "kind": "story",
           "id": "thor-and-geirrodr",
           "link": {
-            "en": "Once the hammer itself is stolen, and Þórr has to dress as a bride to get it back."
+            "en": "Once the hammer itself is stolen, and Þórr has to dress as a bride to get it back.",
+            "is": "Eitt sinn er sjálfum hamrinum stolið og Þór verður að klæðast sem brúður til að ná honum aftur."
           }
         },
         {
           "kind": "story",
           "id": "thrymr-steals-the-hammer",
           "link": {
-            "en": "The gods also bind Loki's son, the wolf Fenrir."
+            "en": "The gods also bind Loki's son, the wolf Fenrir.",
+            "is": "Goðin binda líka son Loka, úlfinn Fenri."
           }
         },
         {
           "kind": "story",
           "id": "binding-of-fenrir",
           "link": {
-            "en": "Then the worst thing happens: Baldr dies."
+            "en": "Then the worst thing happens: Baldr dies.",
+            "is": "Þá gerist hið versta: Baldur deyr."
           }
         },
         {
           "kind": "story",
           "id": "death-of-baldr",
           "link": {
-            "en": "At Ægir's feast Loki boasts of Baldr's death and insults every god."
+            "en": "At Ægir's feast Loki boasts of Baldr's death and insults every god.",
+            "is": "Í veislu Ægis stærir Loki sig af dauða Baldurs og smánar hvert goð."
           }
         },
         {
           "kind": "story",
           "id": "lokasenna",
           "link": {
-            "en": "After the feast the gods catch Loki and bind him."
+            "en": "After the feast the gods catch Loki and bind him.",
+            "is": "Eftir veisluna handsama goðin Loka og binda hann."
           }
         },
         {
           "kind": "story",
           "id": "loki-bound",
           "link": {
-            "en": "He lies bound until all bonds break at Ragnarök."
+            "en": "He lies bound until all bonds break at Ragnarök.",
+            "is": "Hann liggur bundinn uns öll bönd bresta í ragnarökum."
           }
         },
         {
           "kind": "story",
           "id": "ragnarok",
           "link": {
-            "en": "After the fire, the earth rises again."
+            "en": "After the fire, the earth rises again.",
+            "is": "Eftir eldinn rís jörðin á ný."
           }
         },
         {
           "kind": "story",
           "id": "the-world-renewed",
           "link": {
-            "en": "For the heroes' stories, which run alongside, start with Andvari's gold."
+            "en": "For the heroes' stories, which run alongside, start with Andvari's gold.",
+            "is": "Sögur hetjanna, sem gerast samhliða, er best að byrja á gulli Andvara."
           }
         }
       ]
     },
     "thors-journeys": {
       "title": {
-        "en": "Þórr's journeys"
+        "en": "Þórr's journeys",
+        "is": "Ferðir Þórs"
       },
       "intro": {
-        "en": "Þórr's stories in one reading order, from the forging of his hammer to his last fight. No source gives the order of his journeys; where Snorri links two of them, that link is followed."
+        "en": "Þórr's stories in one reading order, from the forging of his hammer to his last fight. No source gives the order of his journeys; where Snorri links two of them, that link is followed.",
+        "is": "Sögur Þórs í einni lestrarröð, frá smíði hamarsins til síðasta bardaga hans. Engin heimild gefur röð ferða hans; þar sem Snorri tengir tvær þeirra saman er þeirri tengingu fylgt."
       },
       "items": [
         {
           "kind": "card",
           "id": "thor",
           "link": {
-            "en": "Þórr's hammer was one of the treasures the dwarfs made after Loki cut off Sif's hair."
+            "en": "Þórr's hammer was one of the treasures the dwarfs made after Loki cut off Sif's hair.",
+            "is": "Hamar Þórs var einn dýrgripanna sem dvergarnir smíðuðu eftir að Loki skar hárið af Sif."
           }
         },
         {
           "kind": "story",
           "id": "the-treasures",
           "link": {
-            "en": "The gods judged the hammer the best of all the treasures, because it was their greatest defence against the frost-giants."
+            "en": "The gods judged the hammer the best of all the treasures, because it was their greatest defence against the frost-giants.",
+            "is": "Goðin dæmdu hamarinn bestan allra dýrgripanna því að hann var mesta vörn þeirra gegn hrímþursum."
           }
         },
         {
           "kind": "card",
           "id": "mjolnir",
           "link": {
-            "en": "On his journey east to Útgarða-Loki, Þórr used the hammer to bring his slaughtered goats back to life."
+            "en": "On his journey east to Útgarða-Loki, Þórr used the hammer to bring his slaughtered goats back to life.",
+            "is": "Á ferð sinni austur til Útgarða-Loka notaði Þór hamarinn til að vekja slátraða hafra sína aftur til lífs."
           }
         },
         {
           "kind": "story",
           "id": "thor-and-utgarda-loki",
           "link": {
-            "en": "On that journey a farmer's son who cracked a goat's bone for the marrow became Þórr's servant."
+            "en": "On that journey a farmer's son who cracked a goat's bone for the marrow became Þórr's servant.",
+            "is": "Í þeirri ferð varð bóndasonur, sem braut hafursbein til að ná mergnum, þjónn Þórs."
           }
         },
         {
           "kind": "card",
           "id": "thjalfi",
           "link": {
-            "en": "Snorri says Þórr went fishing for the Miðgarðr serpent soon after he came home from Útgarðr."
+            "en": "Snorri says Þórr went fishing for the Miðgarðr serpent soon after he came home from Útgarðr.",
+            "is": "Snorri segir að Þór hafi farið að veiða Miðgarðsorm skömmu eftir að hann kom heim frá Útgarði."
           }
         },
         {
           "kind": "story",
           "id": "thor-fishes",
           "link": {
-            "en": "Þjálfi is at Þórr's side again when the giant Hrungnir challenges Þórr to single combat."
+            "en": "Þjálfi is at Þórr's side again when the giant Hrungnir challenges Þórr to single combat.",
+            "is": "Þjálfi er aftur við hlið Þórs þegar jötunninn Hrungnir skorar Þór á hólm."
           }
         },
         {
           "kind": "story",
           "id": "thor-and-hrungnir",
           "link": {
-            "en": "Once Þórr had to face a giant without his hammer: Loki had promised Geirröðr to bring him unarmed."
+            "en": "Once Þórr had to face a giant without his hammer: Loki had promised Geirröðr to bring him unarmed.",
+            "is": "Eitt sinn varð Þór að mæta jötni hamarslaus: Loki hafði lofað Geirröði að koma með hann vopnlausan."
           }
         },
         {
           "kind": "story",
           "id": "thor-and-geirrodr",
           "link": {
-            "en": "In Þrymskviða the hammer itself is stolen, and Þórr has to dress as a bride to get it back."
+            "en": "In Þrymskviða the hammer itself is stolen, and Þórr has to dress as a bride to get it back.",
+            "is": "Í Þrymskviðu er sjálfum hamrinum stolið og Þór verður að klæðast sem brúður til að ná honum aftur."
           }
         },
         {
           "kind": "story",
           "id": "thrymr-steals-the-hammer",
           "link": {
-            "en": "Þórr's last fight is with the Miðgarðr serpent, at Ragnarök."
+            "en": "Þórr's last fight is with the Miðgarðr serpent, at Ragnarök.",
+            "is": "Síðasti bardagi Þórs er við Miðgarðsorm, í ragnarökum."
           }
         },
         {
           "kind": "story",
           "id": "ragnarok",
           "link": {
-            "en": "After the fire, says Vafþrúðnismál, Þórr's sons Móði and Magni will have Mjöllnir."
+            "en": "After the fire, says Vafþrúðnismál, Þórr's sons Móði and Magni will have Mjöllnir.",
+            "is": "Eftir eldinn, segir í Vafþrúðnismálum, munu synir Þórs, Móði og Magni, eiga Mjölni."
           }
         }
       ]
     },
     "the-cursed-gold": {
       "title": {
-        "en": "The cursed gold"
+        "en": "The cursed gold",
+        "is": "Bölvaða gullið"
       },
       "intro": {
-        "en": "Follow Andvari's gold and his cursed ring from an otter's ransom to the bottom of the Rhine, meeting everyone who held it on the way."
+        "en": "Follow Andvari's gold and his cursed ring from an otter's ransom to the bottom of the Rhine, meeting everyone who held it on the way.",
+        "is": "Fylgdu gulli Andvara og bölvuðum hring hans frá otursgjöldunum niður á botn Rínar og kynnstu á leiðinni öllum sem höfðu það undir höndum."
       },
       "items": [
         {
           "kind": "card",
           "id": "andvari",
           "link": {
-            "en": "Loki took all of Andvari's gold, ring and all, to pay for an otter that was a man's son."
+            "en": "Loki took all of Andvari's gold, ring and all, to pay for an otter that was a man's son.",
+            "is": "Loki tók allt gull Andvara, hringinn líka, til að bæta fyrir otur sem var sonur manns."
           }
         },
         {
           "kind": "story",
           "id": "andvaris-gold",
           "link": {
-            "en": "The ring Andvari cursed has its own name: Andvaranautr."
+            "en": "The ring Andvari cursed has its own name: Andvaranautr.",
+            "is": "Hringurinn sem Andvari lagði bölvun á ber sitt eigið nafn: Andvaranautur."
           }
         },
         {
           "kind": "card",
           "id": "andvaranaut",
           "link": {
-            "en": "The first to keep the gold was Hreiðmarr, the otter's father."
+            "en": "The first to keep the gold was Hreiðmarr, the otter's father.",
+            "is": "Fyrstur til að eiga gullið var Hreiðmar, faðir otursins."
           }
         },
         {
           "kind": "card",
           "id": "hreidmarr",
           "link": {
-            "en": "He would share none of it with his sons Fáfnir and Reginn, and they killed him for it."
+            "en": "He would share none of it with his sons Fáfnir and Reginn, and they killed him for it.",
+            "is": "Hann vildi engu af því deila með sonum sínum, Fáfni og Regin, og fyrir það drápu þeir hann."
           }
         },
         {
           "kind": "card",
           "id": "fafnir",
           "link": {
-            "en": "Fáfnir lay on the gold in the shape of a serpent; his brother Reginn fostered the boy who would kill him."
+            "en": "Fáfnir lay on the gold in the shape of a serpent; his brother Reginn fostered the boy who would kill him.",
+            "is": "Fáfnir lá á gullinu í ormslíki; Reginn bróðir hans fóstraði drenginn sem átti eftir að verða honum að bana."
           }
         },
         {
           "kind": "card",
           "id": "regin",
           "link": {
-            "en": "Reginn's foster-son was Sigurðr, son of Sigmundr."
+            "en": "Reginn's foster-son was Sigurðr, son of Sigmundr.",
+            "is": "Fóstursonur Regins var Sigurður, sonur Sigmundar."
           }
         },
         {
           "kind": "card",
           "id": "sigurdr",
           "link": {
-            "en": "Sigurðr killed Fáfnir from a pit and loaded the gold onto his horse Grani."
+            "en": "Sigurðr killed Fáfnir from a pit and loaded the gold onto his horse Grani.",
+            "is": "Sigurður vó Fáfni úr gröf og klyfjaði hest sinn Grana með gullinu."
           }
         },
         {
           "kind": "story",
           "id": "sigurdr-and-fafnir",
           "link": {
-            "en": "The birds also told Sigurðr of a valkyrie asleep on Hindarfjall."
+            "en": "The birds also told Sigurðr of a valkyrie asleep on Hindarfjall.",
+            "is": "Fuglarnir sögðu Sigurði einnig frá valkyrju sem svaf á Hindarfjalli."
           }
         },
         {
           "kind": "story",
           "id": "sigrdrifa-wakes",
           "link": {
-            "en": "Snorri calls the woman Sigurðr woke Brynhildr. Later she vowed to marry only the man who rode through the fire around her hall."
+            "en": "Snorri calls the woman Sigurðr woke Brynhildr. Later she vowed to marry only the man who rode through the fire around her hall.",
+            "is": "Snorri nefnir konuna sem Sigurður vakti Brynhildi. Síðar hét hún því að giftast þeim einum sem riði gegnum eldinn umhverfis sal hennar."
           }
         },
         {
           "kind": "card",
           "id": "brynhild",
           "link": {
-            "en": "Sigurðr gave Brynhildr Andvari's ring, and Guðrún later used that ring to show who had really ridden through the fire."
+            "en": "Sigurðr gave Brynhildr Andvari's ring, and Guðrún later used that ring to show who had really ridden through the fire.",
+            "is": "Sigurður gaf Brynhildi hring Andvara, og síðar notaði Guðrún þann hring til að sýna hver hefði í raun riðið gegnum eldinn."
           }
         },
         {
           "kind": "story",
           "id": "brynhildr-and-gudrun",
           "link": {
-            "en": "After Sigurðr's death his widow Guðrún was married to King Atli."
+            "en": "After Sigurðr's death his widow Guðrún was married to King Atli.",
+            "is": "Eftir dauða Sigurðar var Guðrún, ekkja hans, gift Atla konungi."
           }
         },
         {
           "kind": "card",
           "id": "gudrun",
           "link": {
-            "en": "Her brothers Gunnarr and Högni had taken the gold, and hid it in the Rhine before riding to Atli."
+            "en": "Her brothers Gunnarr and Högni had taken the gold, and hid it in the Rhine before riding to Atli.",
+            "is": "Bræður hennar, Gunnar og Högni, höfðu tekið gullið og földu það í Rín áður en þeir riðu til Atla."
           }
         },
         {
           "kind": "card",
           "id": "gunnar",
           "link": {
-            "en": "Högni rode with him, and laughed while his heart was cut out."
+            "en": "Högni rode with him, and laughed while his heart was cut out.",
+            "is": "Högni reið með honum og hló meðan hjartað var skorið úr honum."
           }
         },
         {
           "kind": "card",
           "id": "hogni",
           "link": {
-            "en": "Their deaths at Atli's court end the story of the gold."
+            "en": "Their deaths at Atli's court end the story of the gold.",
+            "is": "Með dauða þeirra við hirð Atla lýkur sögunni um gullið."
           }
         },
         {
           "kind": "story",
           "id": "the-fall-of-the-gjukungs",
           "link": {
-            "en": "The gold, says Snorri, has never been found."
+            "en": "The gold, says Snorri, has never been found.",
+            "is": "Gullið, segir Snorri, hefur aldrei fundist."
           }
         }
       ]
     },
     "monsters-and-the-end": {
       "title": {
-        "en": "Monsters and the end"
+        "en": "Monsters and the end",
+        "is": "Ófreskjurnar og endalokin"
       },
       "intro": {
-        "en": "Loki's three monstrous children, the gods' attempts to keep them down, and how everything breaks loose at the end of the world."
+        "en": "Loki's three monstrous children, the gods' attempts to keep them down, and how everything breaks loose at the end of the world.",
+        "is": "Þrjú ógnvænleg börn Loka, tilraunir goðanna til að halda þeim í skefjum og hvernig allt losnar úr böndum við endalok heimsins."
       },
       "items": [
         {
           "kind": "card",
           "id": "loki",
           "link": {
-            "en": "With the giantess Angrboða in Jötunheimar Loki had three children."
+            "en": "With the giantess Angrboða in Jötunheimar Loki had three children.",
+            "is": "Með tröllkonunni Angurboðu í Jötunheimum átti Loki þrjú börn."
           }
         },
         {
           "kind": "card",
           "id": "angrboda",
           "link": {
-            "en": "The first of them was the wolf Fenrir."
+            "en": "The first of them was the wolf Fenrir.",
+            "is": "Fyrst þeirra var úlfurinn Fenrir."
           }
         },
         {
           "kind": "card",
           "id": "fenrir",
           "link": {
-            "en": "The second was the serpent Jörmungandr, which Óðinn threw into the sea around all lands."
+            "en": "The second was the serpent Jörmungandr, which Óðinn threw into the sea around all lands.",
+            "is": "Annað var ormurinn Jörmungandur, sem Óðinn kastaði í sjóinn sem liggur umhverfis öll lönd."
           }
         },
         {
           "kind": "card",
           "id": "jormungandr",
           "link": {
-            "en": "The third was Hel, whom Óðinn threw into Niflheimr and gave power over those who die of sickness or old age."
+            "en": "The third was Hel, whom Óðinn threw into Niflheimr and gave power over those who die of sickness or old age.",
+            "is": "Þriðja var Hel, sem Óðinn kastaði í Niflheim og gaf vald yfir þeim sem deyja úr sótt eða elli."
           }
         },
         {
           "kind": "card",
           "id": "hel",
           "link": {
-            "en": "The wolf the gods kept at home, until they had to bind him."
+            "en": "The wolf the gods kept at home, until they had to bind him.",
+            "is": "Úlfinn höfðu goðin heima hjá sér, þar til þau urðu að fjötra hann."
           }
         },
         {
           "kind": "story",
           "id": "binding-of-fenrir",
           "link": {
-            "en": "Loki himself caused the death of Baldr."
+            "en": "Loki himself caused the death of Baldr.",
+            "is": "Loki sjálfur olli dauða Baldurs."
           }
         },
         {
           "kind": "story",
           "id": "death-of-baldr",
           "link": {
-            "en": "For Baldr's death the gods caught Loki and bound him in a cave."
+            "en": "For Baldr's death the gods caught Loki and bound him in a cave.",
+            "is": "Fyrir dauða Baldurs handsömuðu goðin Loka og bundu hann í helli."
           }
         },
         {
           "kind": "story",
           "id": "loki-bound",
           "link": {
-            "en": "Loki, like the wolf, lies bound until Ragnarök, when every fetter breaks."
+            "en": "Loki, like the wolf, lies bound until Ragnarök, when every fetter breaks.",
+            "is": "Loki liggur bundinn, líkt og úlfurinn, fram að ragnarökum, þegar allir fjötrar slitna."
           }
         },
         {
           "kind": "story",
           "id": "ragnarok",
           "link": {
-            "en": "Fenrir swallows Óðinn, Þórr kills the serpent and dies of its poison, and Loki and Heimdallr kill each other. After the fire, the earth rises again."
+            "en": "Fenrir swallows Óðinn, Þórr kills the serpent and dies of its poison, and Loki and Heimdallr kill each other. After the fire, the earth rises again.",
+            "is": "Fenrir gleypir Óðin, Þór drepur orminn og deyr af eitri hans, og Loki og Heimdallur verða hvor öðrum að bana. Eftir eldinn rís jörðin á ný."
           }
         }
       ]
