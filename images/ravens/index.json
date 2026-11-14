@@ -130,6 +130,110 @@
    "bytes": 574,
    "mirrored": true,
    "crop": "head and beak (0,150)-(940,1090) of the original"
+  },
+  "huginn-fb-day-128.jpg": {
+   "width": 128,
+   "height": 128,
+   "bytes": 5053,
+   "light": "day",
+   "crop": "round badge (the page clips it to a circle)"
+  },
+  "huginn-fb-day-128.webp": {
+   "width": 128,
+   "height": 128,
+   "bytes": 3172,
+   "light": "day",
+   "crop": "round badge (the page clips it to a circle)"
+  },
+  "huginn-fb-day-256.jpg": {
+   "width": 256,
+   "height": 256,
+   "bytes": 14663,
+   "light": "day",
+   "crop": "round badge (the page clips it to a circle)"
+  },
+  "huginn-fb-day-256.webp": {
+   "width": 256,
+   "height": 256,
+   "bytes": 8638,
+   "light": "day",
+   "crop": "round badge (the page clips it to a circle)"
+  },
+  "huginn-fb-dusk-128.jpg": {
+   "width": 128,
+   "height": 128,
+   "bytes": 4566,
+   "light": "dusk",
+   "crop": "round badge (the page clips it to a circle)"
+  },
+  "huginn-fb-dusk-128.webp": {
+   "width": 128,
+   "height": 128,
+   "bytes": 2770,
+   "light": "dusk",
+   "crop": "round badge (the page clips it to a circle)"
+  },
+  "huginn-fb-dusk-256.jpg": {
+   "width": 256,
+   "height": 256,
+   "bytes": 12989,
+   "light": "dusk",
+   "crop": "round badge (the page clips it to a circle)"
+  },
+  "huginn-fb-dusk-256.webp": {
+   "width": 256,
+   "height": 256,
+   "bytes": 7744,
+   "light": "dusk",
+   "crop": "round badge (the page clips it to a circle)"
+  },
+  "huginn-fb-night-128.jpg": {
+   "width": 128,
+   "height": 128,
+   "bytes": 4370,
+   "light": "night",
+   "crop": "round badge (the page clips it to a circle)"
+  },
+  "huginn-fb-night-128.webp": {
+   "width": 128,
+   "height": 128,
+   "bytes": 2568,
+   "light": "night",
+   "crop": "round badge (the page clips it to a circle)"
+  },
+  "huginn-fb-night-256.jpg": {
+   "width": 256,
+   "height": 256,
+   "bytes": 13666,
+   "light": "night",
+   "crop": "round badge (the page clips it to a circle)"
+  },
+  "huginn-fb-night-256.webp": {
+   "width": 256,
+   "height": 256,
+   "bytes": 7500,
+   "light": "night",
+   "crop": "round badge (the page clips it to a circle)"
   }
+ },
+ "feedback": {
+  "note": "Cropped from the Mímir portrait of Huginn (images/portraits/huginn.jpg and its @dusk and @night relights; see portraits/picks.json), head and neck, mirrored to face into the page.",
+  "sources": [
+   "images/portraits/huginn.jpg",
+   "images/portraits/huginn@dusk.jpg",
+   "images/portraits/huginn@night.jpg"
+  ],
+  "lights": [
+   "day",
+   "dusk",
+   "night"
+  ],
+  "sizes": [
+   128,
+   256
+  ],
+  "licence": "CC BY 4.0, as the plates and portraits",
+  "credit": "(c) 2026 Grigory Sapunov, CC BY 4.0",
+  "made_with": "gemini-nano-banana-2.1"
  }
 }
