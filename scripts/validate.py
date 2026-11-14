@@ -804,6 +804,13 @@ def check_portraits():
                 err(f"images/portraits/briefs.json: {eid} {a} {s[a]}, which does not name it back")
         if (s.get("pair") or s.get("pair_of")) and not s.get("differs"):
             err(f"images/portraits/briefs.json: {eid} is one of a pair and needs 'differs'")
+    for name, members in br.get("sets", {}).items():
+        for m in members:
+            if (subj.get(m) or {}).get("set") != name or not subj[m].get("differs"):
+                err(f"images/portraits/briefs.json: set {name}: {m} must carry set and differs")
+    for eid, s in subj.items():
+        if s.get("set") and eid not in br.get("sets", {}).get(s["set"], []):
+            err(f"images/portraits/briefs.json: {eid} names the set {s['set']}, which does not list it")
     for eid in br.get("test", []):
         if eid not in subj:
             err(f"images/portraits/briefs.json: test subject {eid} has no brief")
