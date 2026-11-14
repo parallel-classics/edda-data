@@ -1,5 +1,5 @@
 {
- "_note": "Briefs for the portraits of the Mímir cards (images/portraits/BRIEF.md explains them). Read by edda-site/tools/gen_portraits.py. subjects: kind (person, animal, place, thing), subject (what must be seen), ref (a cut-out in ref/<id>.jpg is the character reference), length (three-quarter or whole, where half-length would lose the attribute), pair / pair_of + differs (the two are drawn in one sheet, facing each other).",
+ "_note": "Briefs for the portraits of the Mímir cards (images/portraits/BRIEF.md explains them). Read by edda-site/tools/gen_portraits.py. subjects: kind (person, animal, place, thing), subject (what must be seen), ref (a cut-out in ref/<id>.jpg is the character reference), length (three-quarter or whole, where half-length would lose the attribute), pair / pair_of + differs (the two are drawn in one sheet, facing each other). lights + relight: the prompt that turns a chosen picture into its dusk and night versions (gen_portraits.py --relight).",
  "reference": "Use the attached picture only as the character reference: the same person, face, hair, clothing colours and objects. Redraw the figure alone. Do not copy the neighbours or the background.",
  "rules": "Plain quiet background, the same in every panel. No text, no letters, no runes, no labels, no border, no frame, no signature, no other people. No horned or winged helmets; clothing and gear of the Viking Age.",
  "format": {
@@ -55,6 +55,22 @@
   "E": {
    "name": "Book illustration, about 1900",
    "text": "Ink-and-watercolour book illustration in the Nordic manner of about 1900: confident pen line, large calm areas of muted colour, a low horizon or a single tree or wave as setting, an art-nouveau sense of design without ornament borders. Dignified, a little melancholy."
+  },
+  "B2": {
+   "name": "Linocut, winter",
+   "text": "Hand-printed linocut: bold outline and carved hatching, slight unevenness of ink as in a real print. Strong simple shapes, almost no background: a few carved lines for ground or sky. Three flat colours only: black, slate blue and a pale grey-blue, on cool white paper. A cold, quiet northern light."
+  },
+  "B3": {
+   "name": "Linocut, ochre and moss",
+   "text": "Hand-printed linocut: bold outline and carved hatching, slight unevenness of ink as in a real print. Strong simple shapes, almost no background: a few carved lines for ground or sky. Three flat colours only: black, yellow ochre and moss green, on cream paper. Warm, earthy, like late summer."
+  },
+  "B4": {
+   "name": "Linocut, indigo and gold",
+   "text": "Hand-printed linocut: bold outline and carved hatching, slight unevenness of ink as in a real print. Strong simple shapes, almost no background: a few carved lines for ground or sky. The key block in deep indigo instead of black; two more flat colours only: gold ochre and a soft brick red, on warm off-white paper."
+  },
+  "B5": {
+   "name": "Linocut, hand-coloured",
+   "text": "Hand-printed linocut: bold outline and carved hatching, slight unevenness of ink as in a real print. Strong simple shapes, almost no background: a few carved lines for ground or sky. The print in black only, then hand-tinted with thin, uneven watercolour washes in muted natural colours (any colours the subject needs), the paper showing through."
   }
  },
  "test": [
@@ -1621,5 +1637,10 @@
    "slagfidr",
    "egill"
   ]
- }
+ },
+ "lights": {
+  "dusk": "evening: low warm orange-red light from one side, long shadows, the sky glowing; colours deepen",
+  "night": "night: moonlight, deep blue darkness, the subject lit softly and coolly by the moon (by a small fire only where the subject has one), a few stars in the sky"
+ },
+ "relight": "Edit the attached picture. Keep everything exactly as it is: the composition and framing, the subject, its pose, face, clothing and objects, every outline, the carving and the printing style. Change only the light and the time of day, to {light}. The same picture, as the same artist would print it for that hour. No text, no border, no frame."
 }
