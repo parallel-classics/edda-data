@@ -5,7 +5,7 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 ## Unreleased
 
 - Icelandic for Mímir and the Names summaries (2026-11-14): every English string in `guide/` (cards, stories,
-  myths, outside, sections, paths, ages; 4,796 values) and the 587 summaries in `entities/summaries.json` now has an
+  myths, outside, sections, paths, ages, relation notes; 4,876 values) and the 587 summaries in `entities/summaries.json` now has an
   `is` value beside `en`: an AI translation by Claude, a draft, not reviewed by a person. Names are in their modern
   Icelandic forms. Where the English quotes a line of the Eddas the Icelandic is a translation of the sense or a
   wording recalled by the translator, not yet checked against the Icelandic text of this edition.

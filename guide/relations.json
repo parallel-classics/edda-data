@@ -1,5 +1,5 @@
 {
-  "_note": "Mímir (task 34) content, drafted by an AI model (Claude) from the aligned texts of Open Edda; every fact cites row ids. status draft = not reviewed. CC BY 4.0. Generated 2026-11-08. rel: from does rel to/of to.",
+  "_note": "Mímir (task 34) content, drafted by an AI model (Claude) from the aligned texts of Open Edda; every fact cites row ids. status draft = not reviewed. CC BY 4.0. Generated 2026-11-08. rel: from does rel to/of to. Icelandic ('is') notes: an AI translation of the English by Claude (Anthropic), 2026-11-14; a draft, not reviewed by a person (drög, gervigreind, þarf yfirlestur).",
   "relations": [
     {
       "from": "odin",
@@ -100,7 +100,8 @@
         "s-c43-4"
       ],
       "note": {
-        "en": "Brokkr gives it to Óðinn; Óðinn lays it on Baldr's pyre"
+        "en": "Brokkr gives it to Óðinn; Óðinn lays it on Baldr's pyre",
+        "is": "Brokkur gefur Óðni hann; Óðinn leggur hann á bál Baldurs"
       }
     },
     {
@@ -220,7 +221,8 @@
         "s-c43-2"
       ],
       "note": {
-        "en": "his brother Brokkr works the bellows and gives it to Þórr (s-c43-4)"
+        "en": "his brother Brokkr works the bellows and gives it to Þórr (s-c43-4)",
+        "is": "Brokkur bróðir hans blæs með smiðjubelgnum og gefur Þór hann (s-c43-4)"
       }
     },
     {
@@ -263,7 +265,8 @@
         "grm-s4"
       ],
       "note": {
-        "en": "Grímnismál's name for his land"
+        "en": "Grímnismál's name for his land",
+        "is": "heiti Grímnismála á landi hans"
       }
     },
     {
@@ -308,7 +311,8 @@
         "g-c51-5"
       ],
       "note": {
-        "en": "Þórr dies of the serpent's venom after nine steps"
+        "en": "Þórr dies of the serpent's venom after nine steps",
+        "is": "Þór deyr af eitri ormsins eftir níu skref"
       }
     },
     {
@@ -428,7 +432,8 @@
         "vsk-s11"
       ],
       "note": {
-        "en": "Loki, as a mare, is Sleipnir's mother"
+        "en": "Loki, as a mare, is Sleipnir's mother",
+        "is": "Loki er móðir Sleipnis, í merarlíki"
       }
     },
     {
@@ -449,7 +454,8 @@
         "s-c15-1"
       ],
       "note": {
-        "en": "for Brísingamen; again at Ragnarök"
+        "en": "for Brísingamen; again at Ragnarök",
+        "is": "um Brísingamen; aftur í ragnarökum"
       }
     },
     {
@@ -460,7 +466,8 @@
         "g-c51-5"
       ],
       "note": {
-        "en": "each kills the other"
+        "en": "each kills the other",
+        "is": "þeir verða hvor öðrum að bana"
       }
     },
     {
@@ -471,7 +478,8 @@
         "g-c51-5"
       ],
       "note": {
-        "en": "each kills the other"
+        "en": "each kills the other",
+        "is": "þeir verða hvor öðrum að bana"
       }
     },
     {
@@ -554,7 +562,8 @@
         "s-c20-1"
       ],
       "note": {
-        "en": "with the mistletoe, guided by Loki"
+        "en": "with the mistletoe, guided by Loki",
+        "is": "með mistilteininum, undir leiðsögn Loka"
       }
     },
     {
@@ -565,7 +574,8 @@
         "s-c15-1"
       ],
       "note": {
-        "en": "Snorri, kenning list"
+        "en": "Snorri, kenning list",
+        "is": "Snorri, upptalning kenninga"
       }
     },
     {
@@ -611,7 +621,8 @@
         "s-c17-1"
       ],
       "note": {
-        "en": "Snorri, kenning list"
+        "en": "Snorri, kenning list",
+        "is": "Snorri, upptalning kenninga"
       }
     },
     {
@@ -622,7 +633,8 @@
         "s-c20-1"
       ],
       "note": {
-        "en": "Snorri, kenning list"
+        "en": "Snorri, kenning list",
+        "is": "Snorri, upptalning kenninga"
       }
     },
     {
@@ -635,7 +647,8 @@
         "bdr-s11"
       ],
       "note": {
-        "en": "revenge for Baldr"
+        "en": "revenge for Baldr",
+        "is": "hefnd fyrir Baldur"
       }
     },
     {
@@ -667,7 +680,8 @@
         "vsp-s32"
       ],
       "note": {
-        "en": "half-brothers through Óðinn"
+        "en": "half-brothers through Óðinn",
+        "is": "hálfbræður, báðir synir Óðins"
       }
     },
     {
@@ -699,7 +713,8 @@
         "s-c18-1"
       ],
       "note": {
-        "en": "at Ragnarök"
+        "en": "at Ragnarök",
+        "is": "í ragnarökum"
       }
     },
     {
@@ -710,7 +725,8 @@
         "g-c53-2"
       ],
       "note": {
-        "en": "after Ragnarök"
+        "en": "after Ragnarök",
+        "is": "eftir ragnarök"
       }
     },
     {
@@ -721,7 +737,8 @@
         "g-c53-2"
       ],
       "note": {
-        "en": "after Ragnarök"
+        "en": "after Ragnarök",
+        "is": "eftir ragnarök"
       }
     },
     {
@@ -733,7 +750,8 @@
         "s-c29-1"
       ],
       "note": {
-        "en": "Þórr is his stepfather"
+        "en": "Þórr is his stepfather",
+        "is": "Þór er stjúpfaðir hans"
       }
     },
     {
@@ -795,7 +813,8 @@
         "g-c9-2"
       ],
       "note": {
-        "en": "Snorri: daughter of Fjörgynn/Fjörgvinn (masculine form; g-c9-2, s-c27-1). Þórr's mother is called Fjörgyn in Völuspá and Hárbarðsljóð (vsp-s56, hrbl-s56); Lokasenna also calls Frigg 'Fjörgyns mær' (ls-s26)."
+        "en": "Snorri: daughter of Fjörgynn/Fjörgvinn (masculine form; g-c9-2, s-c27-1). Þórr's mother is called Fjörgyn in Völuspá and Hárbarðsljóð (vsp-s56, hrbl-s56); Lokasenna also calls Frigg 'Fjörgyns mær' (ls-s26).",
+        "is": "Snorri: dóttir Fjörgyns/Fjörgvins (karlkynsmynd; g-c9-2, s-c27-1). Móðir Þórs heitir Fjörgyn í Völuspá og Hárbarðsljóðum (vsp-s56, hrbl-s56); í Lokasennu er Frigg einnig kölluð „Fjörgyns mær“ (ls-s26)."
       }
     },
     {
@@ -875,7 +894,8 @@
         "s-c3-5"
       ],
       "note": {
-        "en": "They part: Skaði leaves Njörðr (s-c13-3)"
+        "en": "They part: Skaði leaves Njörðr (s-c13-3)",
+        "is": "Þau skilja: Skaði fer frá Nirði (s-c13-3)"
       }
     },
     {
@@ -903,7 +923,8 @@
         "g-c1-1"
       ],
       "note": {
-        "en": "ploughed it out of Sweden"
+        "en": "ploughed it out of Sweden",
+        "is": "plægði landið út úr Svíþjóð"
       }
     },
     {
@@ -914,7 +935,8 @@
         "g-c33-1"
       ],
       "note": {
-        "en": "Nari or Narfi"
+        "en": "Nari or Narfi",
+        "is": "Nari eða Narfi"
       }
     },
     {
@@ -979,7 +1001,8 @@
         "s-c28-1"
       ],
       "note": {
-        "en": "her hall"
+        "en": "her hall",
+        "is": "salur hennar"
       }
     },
     {
@@ -1084,7 +1107,8 @@
         "g-c49-15"
       ],
       "note": {
-        "en": "drives a chariot drawn by the boar"
+        "en": "drives a chariot drawn by the boar",
+        "is": "ekur í kerru sem gölturinn dregur"
       }
     },
     {
@@ -1095,7 +1119,8 @@
         "grm-s5"
       ],
       "note": {
-        "en": "given to him as a tooth-gift"
+        "en": "given to him as a tooth-gift",
+        "is": "gefinn honum í tannfé"
       }
     },
     {
@@ -1180,7 +1205,8 @@
         "s-c1-1"
       ],
       "note": {
-        "en": "Snorri"
+        "en": "Snorri",
+        "is": "Snorri"
       }
     },
     {
@@ -1231,7 +1257,8 @@
         "s-c24-14"
       ],
       "note": {
-        "en": "Þórr's gift"
+        "en": "Þórr's gift",
+        "is": "gjöf Þórs"
       }
     },
     {
@@ -1243,7 +1270,8 @@
         "g-c53-2"
       ],
       "note": {
-        "en": "after Ragnarök, with Móði"
+        "en": "after Ragnarök, with Móði",
+        "is": "eftir ragnarök, ásamt Móða"
       }
     },
     {
@@ -1255,7 +1283,8 @@
         "g-c53-2"
       ],
       "note": {
-        "en": "after Ragnarök, with Magni"
+        "en": "after Ragnarök, with Magni",
+        "is": "eftir ragnarök, ásamt Magna"
       }
     },
     {
@@ -1284,7 +1313,8 @@
         "s-c32-1"
       ],
       "note": {
-        "en": "poets call the earth Óðinn's bride"
+        "en": "poets call the earth Óðinn's bride",
+        "is": "skáld kalla jörðina brúði Óðins"
       }
     },
     {
@@ -1296,7 +1326,8 @@
         "s-c32-1"
       ],
       "note": {
-        "en": "mother of his son Váli; named among his partners"
+        "en": "mother of his son Váli; named among his partners",
+        "is": "móðir Vála, sonar hans; talin meðal kvenna hans"
       }
     },
     {
@@ -1341,7 +1372,8 @@
         "g-c11-2"
       ],
       "note": {
-        "en": "she drives the horses of the sun's chariot"
+        "en": "she drives the horses of the sun's chariot",
+        "is": "hún ekur hestunum sem draga kerru sólarinnar"
       }
     },
     {
@@ -1352,7 +1384,8 @@
         "g-c11-2"
       ],
       "note": {
-        "en": "she drives the horses of the sun's chariot"
+        "en": "she drives the horses of the sun's chariot",
+        "is": "hún ekur hestunum sem draga kerru sólarinnar"
       }
     },
     {
@@ -1364,7 +1397,8 @@
         "g-c51-4"
       ],
       "note": {
-        "en": "Sköll runs after the sun and will take her; at Ragnarök Snorri's wolf that swallows the sun is unnamed"
+        "en": "Sköll runs after the sun and will take her; at Ragnarök Snorri's wolf that swallows the sun is unnamed",
+        "is": "Sköll hleypur á eftir sólinni og mun taka hana; hjá Snorra er úlfurinn sem gleypir sólina í ragnarökum ekki nafngreindur"
       }
     },
     {
@@ -1375,7 +1409,8 @@
         "g-c12-4"
       ],
       "note": {
-        "en": "Snorri: he runs before the sun, eager to seize the moon"
+        "en": "Snorri: he runs before the sun, eager to seize the moon",
+        "is": "Snorri: hann hleypur á undan sólinni og er ákafur í að grípa tunglið"
       }
     },
     {
@@ -1386,7 +1421,8 @@
         "g-c12-6"
       ],
       "note": {
-        "en": "Snorri: Mánagarmr swallows the moon"
+        "en": "Snorri: Mánagarmr swallows the moon",
+        "is": "Snorri: Mánagarmur gleypir tunglið"
       }
     },
     {
@@ -1466,7 +1502,8 @@
         "rth-s7"
       ],
       "note": {
-        "en": "implied: he sleeps between Ái and Edda; nine months later Edda bears Þræll"
+        "en": "implied: he sleeps between Ái and Edda; nine months later Edda bears Þræll",
+        "is": "gefið í skyn: hann sefur á milli Áa og Eddu; níu mánuðum síðar elur Edda Þræl"
       }
     },
     {
@@ -1478,7 +1515,8 @@
         "rth-s21"
       ],
       "note": {
-        "en": "implied: Amma bears Karl"
+        "en": "implied: Amma bears Karl",
+        "is": "gefið í skyn: Amma elur Karl"
       }
     },
     {
@@ -1490,7 +1528,8 @@
         "rth-s34"
       ],
       "note": {
-        "en": "implied: Móðir bears Jarl"
+        "en": "implied: Móðir bears Jarl",
+        "is": "gefið í skyn: Móðir elur Jarl"
       }
     },
     {
@@ -1559,7 +1598,8 @@
         "g-c25-2"
       ],
       "note": {
-        "en": "the gods bind the wolf with the fetter Gleipnir"
+        "en": "the gods bind the wolf with the fetter Gleipnir",
+        "is": "goðin binda úlfinn með fjötrinum Gleipni"
       }
     },
     {
@@ -1571,7 +1611,8 @@
         "g-c25-2"
       ],
       "note": {
-        "en": "bites off Týr's hand"
+        "en": "bites off Týr's hand",
+        "is": "bítur höndina af Tý"
       }
     },
     {
@@ -1616,7 +1657,8 @@
         "g-c50-4"
       ],
       "note": {
-        "en": "Snorri only; Lokasenna's prose has Narfi turned into a wolf and Loki bound with Váli's guts"
+        "en": "Snorri only; Lokasenna's prose has Narfi turned into a wolf and Loki bound with Váli's guts",
+        "is": "aðeins hjá Snorra; í lausamáli Lokasennu verður Narfi að úlfi og Loki er bundinn með þörmum Vála"
       }
     },
     {
@@ -1644,7 +1686,8 @@
         "vsp-s44"
       ],
       "note": {
-        "en": "bound before the cave"
+        "en": "bound before the cave",
+        "is": "bundinn fyrir framan hellinn"
       }
     },
     {
@@ -1735,7 +1778,8 @@
         "g-c7-2"
       ],
       "note": {
-        "en": "Snorri: the sons of Borr"
+        "en": "Snorri: the sons of Borr",
+        "is": "Snorri: synir Bors"
       }
     },
     {
@@ -1746,7 +1790,8 @@
         "g-c7-2"
       ],
       "note": {
-        "en": "Snorri: the sons of Borr"
+        "en": "Snorri: the sons of Borr",
+        "is": "Snorri: synir Bors"
       }
     },
     {
@@ -1790,7 +1835,8 @@
         "vm-s55"
       ],
       "note": {
-        "en": "A contest of wisdom, heads wagered"
+        "en": "A contest of wisdom, heads wagered",
+        "is": "Viskukeppni þar sem höfuðið er lagt að veði"
       }
     },
     {
@@ -1851,7 +1897,8 @@
         "hym-s5"
       ],
       "note": {
-        "en": "Hymiskviða; Snorri makes Týr Óðinn's son"
+        "en": "Hymiskviða; Snorri makes Týr Óðinn's son",
+        "is": "Hymiskviða; hjá Snorra er Týr sonur Óðins"
       }
     },
     {
@@ -1888,7 +1935,8 @@
         "g-c46-4"
       ],
       "note": {
-        "en": "Called from his household"
+        "en": "Called from his household",
+        "is": "Kallaður til úr hirð hans"
       }
     },
     {
@@ -1899,7 +1947,8 @@
         "g-c46-6"
       ],
       "note": {
-        "en": "Called from his household"
+        "en": "Called from his household",
+        "is": "Kallaður til úr hirð hans"
       }
     },
     {
@@ -1910,7 +1959,8 @@
         "g-c46-5"
       ],
       "note": {
-        "en": "Eating contest"
+        "en": "Eating contest",
+        "is": "Átkeppni"
       }
     },
     {
@@ -1921,7 +1971,8 @@
         "g-c46-6"
       ],
       "note": {
-        "en": "Running contest"
+        "en": "Running contest",
+        "is": "Kapphlaup"
       }
     },
     {
@@ -1965,7 +2016,8 @@
         "s-c11-30"
       ],
       "note": {
-        "en": "Broke her back"
+        "en": "Broke her back",
+        "is": "Braut hrygginn í henni"
       }
     },
     {
@@ -1976,7 +2028,8 @@
         "s-c26-8"
       ],
       "note": {
-        "en": "Broke her back"
+        "en": "Broke her back",
+        "is": "Braut hrygginn í henni"
       }
     },
     {
@@ -1987,7 +2040,8 @@
         "s-c26-1"
       ],
       "note": {
-        "en": "Caught and starved him"
+        "en": "Caught and starved him",
+        "is": "Tók hann höndum og svelti hann"
       }
     },
     {
@@ -2039,7 +2093,8 @@
         "s-c6-5"
       ],
       "note": {
-        "en": "The eagle chase"
+        "en": "The eagle chase",
+        "is": "Eltingarleikurinn í arnarham"
       }
     },
     {
@@ -2058,7 +2113,8 @@
         "s-c5-4"
       ],
       "note": {
-        "en": "With Galarr"
+        "en": "With Galarr",
+        "is": "Ásamt Galari"
       }
     },
     {
@@ -2134,7 +2190,8 @@
         "hhv-s30"
       ],
       "note": {
-        "en": "A flyting; she turns to stone at dawn"
+        "en": "A flyting; she turns to stone at dawn",
+        "is": "Senna; hún verður að steini í dögun"
       }
     },
     {
@@ -2154,7 +2211,8 @@
         "g-c47-4"
       ],
       "note": {
-        "en": "Útgarða-Loki says he met them in the forest"
+        "en": "Útgarða-Loki says he met them in the forest",
+        "is": "Útgarða-Loki segist hafa hitt þá í skóginum"
       }
     },
     {
@@ -2165,7 +2223,8 @@
         "g-c49-25"
       ],
       "note": {
-        "en": "Snorri: men guess so"
+        "en": "Snorri: men guess so",
+        "is": "Snorri: menn geta sér þess til"
       }
     },
     {
@@ -2184,7 +2243,8 @@
         "s-c43-2"
       ],
       "note": {
-        "en": "with Brokkr at the bellows"
+        "en": "with Brokkr at the bellows",
+        "is": "með Brokk við smiðjubelginn"
       }
     },
     {
@@ -2195,7 +2255,8 @@
         "fsl-s6"
       ],
       "note": {
-        "en": "only in the late poem Forspjallsljóð"
+        "en": "only in the late poem Forspjallsljóð",
+        "is": "aðeins í hinu unga kvæði Forspjallsljóð"
       }
     },
     {
@@ -2224,7 +2285,8 @@
         "s-c49-4"
       ],
       "note": {
-        "en": "Snorri"
+        "en": "Snorri",
+        "is": "Snorri"
       }
     },
     {
@@ -2244,7 +2306,8 @@
         "s-c5-4"
       ],
       "note": {
-        "en": "with Fjalarr"
+        "en": "with Fjalarr",
+        "is": "ásamt Fjalari"
       }
     },
     {
@@ -2296,7 +2359,8 @@
         "g-c17-5"
       ],
       "note": {
-        "en": "Snorri: 'we believe'"
+        "en": "Snorri: 'we believe'",
+        "is": "Snorri: „því trúum vér“"
       }
     },
     {
@@ -2372,7 +2436,8 @@
         "s-c15-1"
       ],
       "note": {
-        "en": "over Brísingamen, in Húsdrápa"
+        "en": "over Brísingamen, in Húsdrápa",
+        "is": "um Brísingamen, í Húsdrápu"
       }
     },
     {
@@ -2383,7 +2448,8 @@
         "g-c43-2"
       ],
       "note": {
-        "en": "Snorri: 'Múspell has it'"
+        "en": "Snorri: 'Múspell has it'",
+        "is": "Snorri: „Múspell á það“"
       }
     },
     {
@@ -2394,7 +2460,8 @@
         "g-c51-4"
       ],
       "note": {
-        "en": "Snorri: he steers it"
+        "en": "Snorri: he steers it",
+        "is": "Snorri: hann stýrir því"
       }
     },
     {
@@ -2413,7 +2480,8 @@
         "s-c52-6"
       ],
       "note": {
-        "en": "took it after killing Fróði"
+        "en": "took it after killing Fróði",
+        "is": "tók hann eftir að hafa drepið Fróða"
       }
     },
     {
@@ -2424,7 +2492,8 @@
         "g-c34-3"
       ],
       "note": {
-        "en": "He broke it at the first kick"
+        "en": "He broke it at the first kick",
+        "is": "Hann sleit hann um leið og hann spyrnti við í fyrsta sinn"
       }
     },
     {
@@ -2435,7 +2504,8 @@
         "g-c34-3"
       ],
       "note": {
-        "en": "He shook it to pieces"
+        "en": "He shook it to pieces",
+        "is": "Hann hristi hann sundur í mola"
       }
     },
     {
@@ -2542,7 +2612,8 @@
         "s-c47-1"
       ],
       "note": {
-        "en": "Snorri: with Reginn; Reginsmál: Fáfnir alone"
+        "en": "Snorri: with Reginn; Reginsmál: Fáfnir alone",
+        "is": "Snorri: ásamt Regin; Reginsmál: Fáfnir einn"
       }
     },
     {
@@ -2965,7 +3036,8 @@
         "hm-s15"
       ],
       "note": {
-        "en": "with Sörli"
+        "en": "with Sörli",
+        "is": "ásamt Sörla"
       }
     },
     {
@@ -2994,7 +3066,8 @@
         "hm-s15"
       ],
       "note": {
-        "en": "with Hamðir"
+        "en": "with Hamðir",
+        "is": "ásamt Hamði"
       }
     },
     {
@@ -3006,7 +3079,8 @@
         "ghv-p1"
       ],
       "note": {
-        "en": "had him hanged"
+        "en": "had him hanged",
+        "is": "lét hengja hann"
       }
     },
     {
@@ -3017,7 +3091,8 @@
         "grp-p1"
       ],
       "note": {
-        "en": "by poison"
+        "en": "by poison",
+        "is": "með eitri"
       }
     },
     {
@@ -3073,7 +3148,8 @@
         "vm-s39"
       ],
       "note": {
-        "en": "raised there; Vafþrúðnismál says he returns there at the world's end"
+        "en": "raised there; Vafþrúðnismál says he returns there at the world's end",
+        "is": "alinn þar upp; í Vafþrúðnismálum segir að hann snúi þangað aftur við endalok heimsins"
       }
     },
     {
@@ -3100,7 +3176,8 @@
         "s-c46-2"
       ],
       "note": {
-        "en": "with his sons"
+        "en": "with his sons",
+        "is": "ásamt sonum sínum"
       }
     },
     {
@@ -3111,7 +3188,8 @@
         "s-c46-2"
       ],
       "note": {
-        "en": "with his sons"
+        "en": "with his sons",
+        "is": "ásamt sonum sínum"
       }
     },
     {
@@ -3123,7 +3201,8 @@
         "hm-s25"
       ],
       "note": {
-        "en": "had them stoned"
+        "en": "had them stoned",
+        "is": "lét grýta þá"
       }
     },
     {
@@ -3135,7 +3214,8 @@
         "hm-s25"
       ],
       "note": {
-        "en": "had them stoned"
+        "en": "had them stoned",
+        "is": "lét grýta þá"
       }
     }
   ]
