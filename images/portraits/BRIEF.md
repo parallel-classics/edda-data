@@ -133,7 +133,7 @@ Subject line for each. "As on the plate" means: take it from the reference, do n
 
 Æsir (P1, P2)
 
-- `odin` Óðinn: an old man with one eye (the other closed or covered), grey beard, dark blue cloak and
+- `odin` Óðinn: an old man with one eye; the other an empty, closed, scarred socket, never a patch; grey beard, dark blue cloak and
   wide hat or hood; the spear Gungnir upright in his hand; a gold arm-ring. No ravens or wolves in this
   picture (they have their own).
 - `thor` Þórr: red beard, broad; the hammer Mjöllnir with its short handle raised to the chest in an iron
