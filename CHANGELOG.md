@@ -4,6 +4,14 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 
 ## Unreleased
 
+- English · modern, complete where a public-domain English exists (task 31, 2026-11-14): Open Edda's AI modernisation
+  now covers the Formáli (12 rows), Gylfaginning (340), Skáldskaparmál (843) and the poems (1,695), 2,890 rows in
+  `sources/versions/en-modern/` (gylf_1-10, gylf_11-54, prol, skald, poems), placed as the version `en-modern`.
+  From Brodeur 1916 for Snorri, Bellows 1923 and Thorpe 1866 for the poems; the translators' readings and name
+  spellings are kept, footnote markers dropped, evident transcription errors in the sources corrected; CC BY 4.0,
+  AI draft, not reviewed. Háttatal and the rows whose English is only an AI draft are not included. The source
+  `oe-modern-brodeur` keeps its id; its label now names all three translators.
+
 - Mímir pictures (task 34): Grigory Sapunov's plates P1-P4 and the Mímir picture (© 2026, CC BY 4.0) with their
   anchors; web sizes, a crop per figure and the social card from edda-site `pipeline/make_plates.py`. The validator
   checks the anchors (picture present, entities exist, boxes inside, part_of, stories).
