@@ -782,6 +782,45 @@ def check_tiles():
             err(f"images/tiles.json: {eid} has no tile in images/tiles/ (run edda-site/pipeline/make_plates.py)")
 
 
+def check_portraits():
+    """images/portraits/: every subject of briefs.json an entity with a known kind, pairs named from both sides, every
+    reference cut-out there; every portrait <id>.jpg and every pick an entity; every portrait has its web copies."""
+    pd = os.path.join(ROOT, "images", "portraits")
+    bp = os.path.join(pd, "briefs.json")
+    if not os.path.exists(bp):
+        return
+    ents = {e["id"] for e in load(os.path.join(ROOT, "entities", "entities.json")).get("entities", [])}
+    br = load(bp)
+    subj = br.get("subjects", {})
+    for eid, s in subj.items():
+        if eid not in ents:
+            err(f"images/portraits/briefs.json: {eid} is not an entity")
+        if s.get("kind") not in br.get("format", {}) or not s.get("subject"):
+            err(f"images/portraits/briefs.json: {eid} needs a kind ({', '.join(br.get('format', {}))}) and a subject")
+        if s.get("ref") and not os.path.exists(os.path.join(pd, "ref", f"{eid}.jpg")):
+            err(f"images/portraits/briefs.json: {eid} has no reference ref/{eid}.jpg")
+        for a, b in (("pair", "pair_of"), ("pair_of", "pair")):
+            if s.get(a) and (subj.get(s[a]) or {}).get(b) != eid:
+                err(f"images/portraits/briefs.json: {eid} {a} {s[a]}, which does not name it back")
+        if (s.get("pair") or s.get("pair_of")) and not s.get("differs"):
+            err(f"images/portraits/briefs.json: {eid} is one of a pair and needs 'differs'")
+    for eid in br.get("test", []):
+        if eid not in subj:
+            err(f"images/portraits/briefs.json: test subject {eid} has no brief")
+    wp = os.path.join(pd, "web", "index.json")
+    made = set(load(wp).get("portraits", {})) if os.path.exists(wp) else set()
+    for f in os.listdir(pd):
+        m = re.fullmatch(r"([a-z0-9-]+)\.(jpg|jpeg|png)", f)
+        if m and m.group(1) not in ents:
+            err(f"images/portraits/{f}: {m.group(1)} is not an entity")
+        elif m and m.group(1) not in made:
+            err(f"images/portraits/{f} has no web copies (run edda-site/pipeline/make_plates.py)")
+    kp = os.path.join(pd, "picks.json")
+    for eid in (load(kp).get("picks", {}) if os.path.exists(kp) else {}):
+        if not any(os.path.exists(os.path.join(pd, f"{eid}.{x}")) for x in ("jpg", "jpeg", "png")):
+            err(f"images/portraits/picks.json: {eid} is chosen but images/portraits/{eid}.jpg is not there")
+
+
 def check_pron():
     """guide/pron.json (Mímir pronunciation hints): every card id is a card, every hint has head, ipa and say, every
     section id is a section."""
@@ -1019,6 +1058,7 @@ def main():
     check_pictures()
     check_pron()
     check_tiles()
+    check_portraits()
     check_ravens(rows)
     check_intros(poem_prefixes_for_intros())
     print(f"aligned rows: {len(rows)} in {len(chapters)} parts; overlay files: {n_overlay_files}, "
