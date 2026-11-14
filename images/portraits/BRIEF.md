@@ -4,8 +4,11 @@ One picture per figure, made for the card, so that no tile has to be cut out of 
 Where a portrait exists the site uses it for the Who is who tile, the card and the small round picture;
 where it does not, the present picture stays.
 
-Status: style not chosen yet. Step 1 is the test set below (five styles, the same five subjects).
-Step 2, after the choice: the full set, in the order of the list at the end.
+Status: style B chosen (see the decisions in section 9); the full set is being generated.
+
+The same briefs in machine-readable form are in `briefs.json` (styles, poses, one entry per subject); the
+generator reads that file, so a change of wording is made there and this page explains it. How it runs is
+in section 9.
 
 ## 1. Format (every picture, every style)
 
@@ -37,6 +40,21 @@ the plate, with its own things). Give it to the model as the input image with ea
 > or the background.
 
 In style A the reference also carries the style. In styles B-E the reference carries only who the figure is.
+
+## 2a. Sheets: four options in one picture
+
+One request makes one sheet at 4K: a 2 x 2 grid of four separate 4:3 panels on a pure white ground with wide
+white gutters, so each panel is about 2K, more than a card needs. The generator cuts the sheet into its
+panels by finding the white gutters (it falls back to an even cut and says so), so no panel carries a
+neighbour.
+
+- One subject: the same figure in four poses (three-quarter view facing left; facing the viewer; in the
+  act the figure is known for; at rest, further back). Animals, places and things have their own four.
+- A pair: two rows, each row the two of them facing each other across the gutter (section 6).
+
+Every panel becomes a candidate; one is chosen per figure in the picker (section 9). The first pose is the
+common one, so a set chosen all from "top left" has everyone at the same angle; the others are there for
+the figures whose attribute shows better another way.
 
 ## 3. Styles to try
 
@@ -94,20 +112,19 @@ gods differ only by attribute; the hardest to keep readable.
 For: the most "portrait" of the five, real faces and mood. Against: closest to pictures people already
 know; the most variation from picture to picture.
 
-## 4. Test set (generate these five in each style: 25 pictures)
+## 4. Test set (five subjects in each of five styles: 25 sheets, 100 candidates)
 
 Chosen to show the hard cases: a god full of attributes, a goddess who must not look like the others,
 a pair, a monster, a place.
 
 1. Óðinn (`ref/odin.jpg`) - see 5.
 2. Freyja (`ref/freyja.jpg`) - see 5.
-3. Huginn and Muninn, two pictures - see 6.
+3. Huginn and Muninn, one sheet for the pair - see 6.
 4. Fenrir - see 7.
 5. Yggdrasill - see 7.
 
-Save as `test/<style letter>-<id>.jpg` (for example `test/B-odin.jpg`, `test/B-huginn.jpg`,
-`test/B-muninn.jpg`). The site can then show the five styles side by side as real tiles, at tile size
-and at chip size, before the choice.
+The picker shows the five styles one under another for each subject, every candidate at tile size with the
+small round picture beside it, next to the picture the site uses now.
 
 ## 5. The plate figures (28)
 
@@ -115,7 +132,7 @@ Subject line for each. "As on the plate" means: take it from the reference, do n
 
 Æsir (P1, P2)
 
-- `odin` Óðinn: an old man with one eye (the other closed or covered), grey beard, dark blue cloak and
+- `odin` Óðinn: an old man with one eye; the other an empty, closed, scarred socket, never a patch; grey beard, dark blue cloak and
   wide hat or hood; the spear Gungnir upright in his hand; a gold arm-ring. No ravens or wolves in this
   picture (they have their own).
 - `thor` Þórr: red beard, broad; the hammer Mjöllnir with its short handle raised to the chest in an iron
@@ -169,12 +186,11 @@ A pair is drawn as two halves of one picture. Rules:
   side on the page they face each other. The same size in the frame, the same background.
 - One difference in pose and one in appearance, both taken from the name or the story, and nothing else
   different. A reader should be able to say which is which without the label.
-- Generate the second with the first attached: "the companion of the attached picture: same style, same
-  size, mirrored, but ...".
+- Both are drawn in one sheet, left and right panel of a row, so the model sees them together.
 
 | Pair | First | Second |
 |---|---|---|
-| `huginn` / `muninn` (Óðinn's ravens; Thought and Memory) | Huginn: leaning forward, wings half open, about to take off, beak open, looking ahead; blue sheen on the black | Muninn: perched still, wings closed, head turned back over the shoulder, looking behind; warm bronze sheen on the black |
+| `huginn` / `munin` (Óðinn's ravens; Thought and Memory) | Huginn: leaning forward, wings half open, about to take off, beak open, looking ahead; blue sheen on the black | Muninn: perched still, wings closed, head turned back over the shoulder, looking behind; warm bronze sheen on the black |
 | `geri` / `freki` (Óðinn's wolves; both names mean greedy) | Geri: grey, lying over a bone, head low, eyes up | Freki: darker, standing, jaws open, tongue out |
 | `skoll` / `hati` (the wolves after sun and moon) | Sköll: running, rust-red lit from in front by warm gold light (the sun just out of frame) | Hati: running, grey-blue lit from in front by cold silver light (the moon just out of frame) |
 | `arvakr` / `alsvidr` (the sun's horses) | Árvakr, Early-Wake: head high, ears pricked, pale gold; bellows under the shoulder | Alsviðr, All-Swift: neck stretched in full gallop, deeper red-gold; bellows under the shoulder |
@@ -186,17 +202,22 @@ A pair is drawn as two halves of one picture. Rules:
 | `brokkr` / `sindri` (the dwarf smiths) | Brokkr: at the bellows, a fly on his eyelid | Sindri: at the anvil with tongs |
 | `fjalar` / `galar` (the dwarves who killed Kvasir) | Fjalar: with the knife | Galar: with the vat |
 | `magni` / `modi` (Þórr's sons) | Magni: a child of huge strength | Móði: older, fierce |
-| `ve` / `vili` (Óðinn's brothers) | Vili | Vé: as on the picture we have; told apart by cloak colour only |
 
-Sets drawn the same way, one picture each, the same frame:
+The pairs above are in `briefs.json`, with further pairs from the legends (Ægir / Rán, Göndul / Skögul,
+Hrist / Mist, Gjálp / Greip, Hamðir / Sörli, Þjálfi / Röskva, Byggvir / Beyla, Afi / Amma, Faðir / Móðir,
+Högni / Heðinn and others).
+
+Sets are drawn the same way, a panel for each member in one sheet (`sets` in `briefs.json`):
 
 - The three norns `urdr`, `verdandi`, `skuld`: old, grown, young; the thread passed from one to the next
-  (Urðr holds the spun ball, Verðandi the thread running through her hands, Skuld the shears or the loose
-  end; Skuld also armed, since she rides as a valkyrie).
-- The four dwarves under the sky `austri`, `vestri`, `nordri`, `sudri`: the same dwarf holding up the edge
-  of the sky, in dawn, dusk, night and noon light.
-- `hugi`, `logi`, `elli` (Útgarða-Loki's three tricks): a runner who is only a blur, an eater who is
-  flame, an old woman wrestler.
+  (Urðr holds the spun ball, Verðandi the thread running through her hands, Skuld the shears and the loose
+  end; a helmet beside Skuld, since she rides as a valkyrie).
+- The four dwarves under the sky `austri`, `sudri`, `vestri`, `nordri`: the same dwarf holding up the edge
+  of the sky, in dawn, noon, dusk and night light.
+- `hugi`, `logi`, `elli` (Útgarða-Loki's three tricks): a runner who is half a blur, an eater who is flame,
+  an old woman in a wrestler's stance.
+- `svafa`, `sigrun`, `kara`: Helgi's valkyrie born three times, the same face.
+- The three vessels of the mead `odrerir`, `bodn`, `son`; the brothers `slagfidr` and `egill`.
 
 ## 7. Creatures, places and things in the test set and after
 
@@ -212,13 +233,51 @@ Sets drawn the same way, one picture each, the same frame:
   head out of the ice; the bound hound before a cave; the dragon on its gold).
 - Things (`mjolnir`, `gungnir`, `gjallarhorn`, `mead-of-poetry`): the object alone, lying or hanging, no hand.
 
-## 8. Order of work and where the files go
+## 8. Order of work
 
-1. Test set (section 4) into `images/portraits/test/`.
+1. Test set (section 4).
 2. Choice of style.
-3. The 28 plate figures (section 5): these replace the blurred cut-outs first.
-4. Pairs and sets (section 6), then the creatures and places (section 7).
-5. Everyone else who has a card (333 cards in all); briefs for these are written after the choice.
+3. The 28 plate figures (section 5): these replace the cut-outs from the plates first.
+4. Pairs and sets (section 6), then the creatures, places and things (section 7).
+5. Everyone else who has a card. All 333 cards have a subject line in `briefs.json` (the wording of
+   sections 5-7 for the first seventy; the rest only there). Pairs and sets share a sheet, so the full set
+   in one style is 296 sheets.
 
-Final files: `images/portraits/<entity id>.jpg`, one per entity, the id as in `entities/entities.json`.
+## 9. How it runs
+
+Tools in `edda-site/tools/` (Pillow needed, so `/usr/bin/python3 -I`); the key is read from the environment
+variable `GEMINI_API_KEY` or the file `~/.config/edda/gemini_key`, never from a repository.
+
+```
+python -I tools/gen_portraits.py --dry-run --test      # the prompts and the number of requests, no key needed
+python -I tools/gen_portraits.py --check               # one small request: key, model and endpoint work
+python -I tools/gen_portraits.py --test                # 25 sheets -> candidates/<id>/<style>-<run>-<k>.jpg
+python -I tools/pick_portraits.py                      # http://127.0.0.1:8765/ : choose one per figure
+python -I tools/gen_portraits.py --style B --all       # after the choice: every subject in that style
+python -I tools/gen_portraits.py --style B --ids sif --runs 2    # more options for one figure
+python -I tools/gen_portraits.py --cut sheet.jpg --id sif --style B   # a sheet made by hand in the Gemini app
+python -I pipeline/make_plates.py                      # chosen portraits -> tiles and card pictures
+```
+
+- `candidates/` is not committed: only chosen pictures are published. The sheet and its prompt are kept
+  beside the candidates (`candidates/_sheets/`).
+- A choice copies the candidate to `images/portraits/<entity id>.jpg` and notes it in `picks.json` (file,
+  style, model, date). A second click takes it back.
+- `make_plates.py` writes `portraits/web/<id>-{1200,600}` for the card and replaces that figure's tile and
+  small square in `images/tiles/`. A figure without a portrait keeps its present picture.
+- Default model `gemini-nano-banana-2.1` at 4K (`--model`, `--size` change it).
+
+Decisions (2026-11-14): style B, the linocut in black, rust red and blue-green, for every card (the other
+colour schemes B2-B5 and styles A-E were tried; kept in `candidates/_rounds/`). Three hours per picture:
+day, dusk (soft, just after sunset: dusty rose and mauve, no orange) and night (moonlight). The dusk and night
+versions are the chosen picture sent back to the model with "change only the light" (`relight` and `lights`
+in `briefs.json`), so the composition stays the same and the site can swap them by the reader's clock:
+
+```
+python -I tools/gen_portraits.py --relight-picks --jobs 3   # every pick -> <id>@dusk.jpg, <id>@night.jpg
+```
+
+A new choice in the picker drops the old dusk and night versions; run `--relight-picks` again after changing
+choices.
+
 Credit as for the plates: (c) 2026 Grigory Sapunov, CC BY 4.0, with the model named in `made_with`.
