@@ -87,6 +87,18 @@
        "t": "p",
        "s": "For silence I pray all sacred children, great and small, sons of Heimdall, they will that I Valfather's deeds recount, men's ancient saws, those that I best remember."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "I ask for a hearing | from the holy races,",
+        "from Heimdall's sons, | both high and low;",
+        "you wish, Valfather, | that I tell well",
+        "the old tales I remember | of men long ago."
+       ]
+      }
      ]
     },
     {
@@ -163,6 +175,18 @@
       {
        "t": "p",
        "s": "The Jötuns I remember early born, those who me of old have reared. I nine worlds remember, nine trees, the great central tree, beneath the earth."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "I still remember | the giants of old,",
+        "who gave me bread | in days gone by;",
+        "nine worlds I knew, | the nine in the tree",
+        "with mighty roots | beneath the earth."
+       ]
       }
      ]
     },
@@ -243,6 +267,18 @@
        "t": "p",
        "s": "There was in times of old, where Ymir dwelt, nor sand nor sea, nor gelid waves; earth existed not, nor heaven above, 'twas a chaotic chasm, and grass nowhere."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Long ago was the age | when Ymir lived;",
+        "there was no sea, no cool waves, | and no sand;",
+        "earth did not exist, | nor heaven above,",
+        "only a yawning gap, | and no grass anywhere."
+       ]
+      }
      ]
     },
     {
@@ -319,6 +355,18 @@
       {
        "t": "p",
        "s": "Before Bur's sons raised up heaven's vault, they who the noble mid-earth shaped. The sun shone from the south over the structure's rocks: then was the earth begrown with herbage green."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Then Bur's sons lifted | the level land,",
+        "Mithgarth the mighty | they made there;",
+        "the sun from the south | warmed the stones of earth,",
+        "and the ground was green | with growing leeks."
+       ]
       }
      ]
     },
@@ -406,6 +454,19 @@
        "t": "p",
        "s": "The sun from the south, the moon's companion, her right hand cast about the heavenly horses. The sun knew not where she a dwelling had, the moon knew not what power he possessed, the stars knew not where they had a station."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "The sun, the sister | of the moon, from the south",
+        "cast her right hand | over heaven's rim;",
+        "she had no knowledge | of where her home should be,",
+        "the moon did not know | what power was his.",
+        "The stars did not know | where their stations were."
+       ]
+      }
      ]
     },
     {
@@ -490,6 +551,19 @@
        "t": "p",
        "s": "Then went the powers all to their judgment-seats, the all-holy gods, and thereon held council: to night and to the waning moon gave names; morn they named, and mid-day, afternoon and eve, whereby to reckon years."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Then the gods went | to their assembly-seats,",
+        "the holy ones, | and held council;",
+        "names they then gave | to noon and twilight,",
+        "morning they named, | and the waning moon,",
+        "night and evening, | to number the years."
+       ]
+      }
      ]
     },
     {
@@ -567,6 +641,18 @@
        "t": "p",
        "s": "The Æsir met on Ida's plain; they altar-steads and temples high constructed; their strength they proved, all things tried, furnaces established, precious things forged, formed tongs, and fabricated tools;"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "The mighty gods | met at Ithavoll,",
+        "shrines and temples | they built up high;",
+        "they set up forges | and worked the ore,",
+        "they forged tongs | and fashioned tools."
+       ]
+      }
      ]
     },
     {
@@ -643,6 +729,18 @@
       {
        "t": "p",
        "s": "At tables played at home; joyous they were; to them was naught the want of gold, until there came Thurs-maidens three, all powerful, from Jötunheim."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "At peace in their dwellings | they played at tables,",
+        "the gods then knew | no lack of gold,",
+        "until three giant-maids | came up there,",
+        "huge in might, | out of Jotunheim."
+       ]
       }
      ]
     },
@@ -724,6 +822,18 @@
        "t": "p",
        "s": "Then went all the powers to their judgment-seats, the all-holy gods, and thereon held council, who should of the dwarfs the race create, from the sea-giant's blood and livid bones."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Then the gods went | to their assembly-seats,",
+        "the holy ones, | and held council;",
+        "to find who should raise | the race of dwarfs",
+        "out of Brimir's blood | and the legs of Blain."
+       ]
+      }
      ]
     },
     {
@@ -802,6 +912,18 @@
       {
        "t": "p",
        "s": "Then was Môtsognir created greatest of all the dwarfs, and Durin second; there in man's likeness they created many dwarfs from earth, as Durin said."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "There Motsognir | was made the mightiest",
+        "of all the dwarfs, | and Durin next;",
+        "many likenesses | of men they made,",
+        "the dwarfs in the earth, | as Durin said."
+       ]
       }
      ]
     },
@@ -887,6 +1009,19 @@
        "t": "p",
        "s": "Nýi and Nidi, Nordri and Sudri, Austri and Vestri, Althiôf, Dvalin Nâr and Nâin, Niping, Dain, Bivör, Bavör, Bömbur, Nori, An and Anar, Ai, Miodvitnir,"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Nyi and Nithi, | Northri and Suthri,",
+        "Austri and Vestri, | Althjof, Dvalin,",
+        "Nar and Nain, | Niping, Dain,",
+        "Bifur, Bofur, | Bombur, Nori,",
+        "An and Onar, | Ai, Mjothvitnir."
+       ]
+      }
      ]
     },
     {
@@ -965,6 +1100,18 @@
       {
        "t": "p",
        "s": "Veig and Gandâlf, Vindâlf, Thrain, Thekk and Thorin, Thrôr, Vitr, and Litr, Nûr and Nýrâd, Regin and Râdsvid. Now of the dwarfs I have rightly told."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Vigg and Gandalf, | Vindalf, Thrain,",
+        "Thekk and Thorin, | Thror, Vit and Lit,",
+        "Nyr and Nyrath, | now I have told,",
+        "Regin and Rathsvith, | the list correctly."
+       ]
       }
      ]
     },
@@ -1049,6 +1196,18 @@
        "t": "p",
        "s": "Fili, Kili, Fundin, Nali, Hepti, Vili, Hanar, Svior, Billing, Bruni, Bild, Bûri, Frâr, Hornbori, Fræg and Lôni, Aurvang, Iari, Eikinskialdi."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Fili, Kili, Fundin, Nali,",
+        "Heptifili, Hannar, Sviur,",
+        "Frar, Hornbori, Fræg and Loni,",
+        "Aurvang, Jari, Eikinskjaldi."
+       ]
+      }
      ]
     },
     {
@@ -1125,6 +1284,18 @@
       {
        "t": "p",
        "s": "Time 'tis of the dwarfs in Dvalin's band, to the sons of men, to Lofar up to reckon, those who came forth from the world's rock, earth's foundation, to Iora's plains."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "The race of the dwarfs | in Dvalin's throng",
+        "down to Lofar | I must list;",
+        "they left the rocks, | and through wet lands",
+        "they sought a home | in the fields of sand."
+       ]
       }
      ]
     },
@@ -1203,6 +1374,18 @@
       {
        "t": "p",
        "s": "There were Draupnir, and Dôlgthrasir, Hâr, Haugspori, Hlævang, Glôi, Skirvir, Virvir, Skafid, Ai, Alf and Yngvi, Eikinskialdi,"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "There were Draupnir and Dolgthrasir,",
+        "Hor, Haugspori, Hlevang, Gloin,",
+        "Dori, Ori, | Duf, Andvari,",
+        "Skirfir, Virfir, | Skafith, Ai."
+       ]
       }
      ]
     },
@@ -1283,6 +1466,18 @@
        "t": "p",
        "s": "Fialar and Frosti, Finn and Ginnar, Heri, Höggstari, Hliôdôlf, Moin: that above shall, while mortals live, the progeny of Lofar, accounted be."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Alf and Yngvi, | Eikinskjaldi,",
+        "Fjalar and Frosti, | Fith and Ginnar;",
+        "so for all time | shall the tale be known,",
+        "the list of all | the forefathers of Lofar."
+       ]
+      }
      ]
     },
     {
@@ -1361,6 +1556,18 @@
        "t": "p",
        "s": "Until there came three mighty and benevolent Æsir to the world from their assembly. They found on earth, nearly powerless, Ask and Embla, void of destiny."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Then from the throng | three came forth,",
+        "from the home of the gods, | the mighty and gracious;",
+        "two without fate | they found on the land,",
+        "Ask and Embla, | empty of might."
+       ]
+      }
      ]
     },
     {
@@ -1437,6 +1644,18 @@
       {
        "t": "p",
        "s": "Spirit they possessed not, sense they had not, blood nor motive powers, nor goodly colour. Spirit gave Odin, sense gave Hœnir, blood gave Lodur, and goodly colour."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "They had no soul, | they had no sense,",
+        "no heat or motion, | no good colour;",
+        "Othin gave soul, | Hönir gave sense,",
+        "Lothur gave heat | and good colour."
+       ]
       }
      ]
     },
@@ -1516,6 +1735,18 @@
       {
        "t": "p",
        "s": "I know an ash standing Yggdrasil hight, a lofty tree, laved with limpid water: thence come the dews into the dales that fall; ever stands it green over Urd's fountain."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "An ash I know, | Yggdrasil its name,",
+        "the great tree is wet | with white water;",
+        "from there come the dews | that fall in the dales,",
+        "green by Urth's well | it grows for ever."
+       ]
       }
      ]
     },
@@ -1612,6 +1843,20 @@
        "t": "p",
        "s": "Alone she sat without, when came that ancient dread Æsir's prince; and in his eye she gazed."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "From there come the maidens | mighty in wisdom,",
+        "three from the dwelling | down beneath the tree;",
+        "Urth one is named, | Verthandi the next,",
+        "on the wood they carved, | and Skuld the third.",
+        "Laws they made there, | and allotted life",
+        "to the sons of men, | and set their fates."
+       ]
+      }
      ]
     },
     {
@@ -1697,6 +1942,19 @@
        "t": "p",
        "s": "She that war remembers, the first on earth, when Gullveig they with lances pierced, and in the high one's hall her burnt, thrice burnt, thrice brought her forth, oft not seldom; yet she still lives."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "I remember the war, | the first in the world,",
+        "when the gods with spears | had struck Gollveig,",
+        "and in the hall | of Hor had burned her,",
+        "three times burned, | and three times born,",
+        "again and again, | yet she lives for ever."
+       ]
+      }
      ]
     },
     {
@@ -1773,6 +2031,18 @@
       {
        "t": "p",
        "s": "Heidi they called her, whithersoe'r she came, the well-foreseeing Vala: wolves she tamed, magic arts she knew, magic arts practised; ever was she the joy of evil people."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Heith they named her | who came to their home,",
+        "the far-seeing witch, | wise in magic;",
+        "she bewitched the minds | that were moved by her magic,",
+        "to evil women | she was a joy."
+       ]
       }
      ]
     },
@@ -1851,6 +2121,18 @@
        "t": "p",
        "s": "Then went the powers all to their judgment-seats, the all-holy gods, and thereon held council, whether the Æsir should avenge the crime, or all the gods receive atonement."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Then the gods went | to their assembly-seats,",
+        "the holy ones, | and held council,",
+        "whether the gods | should give tribute,",
+        "or worship should belong | to all alike."
+       ]
+      }
      ]
     },
     {
@@ -1927,6 +2209,18 @@
       {
        "t": "p",
        "s": "Broken was the outer wall of the Æsir's burgh. The Vanir, foreseeing conflict, tramp o'er the plains. Odin cast [his spear], and mid the people hurled it: that was the first warfare in the world."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Othin hurled | his spear at the host,",
+        "then war first came | into the world;",
+        "the wall that ringed | the gods was broken,",
+        "and the field was trodden | by the warlike Wanes."
+       ]
       }
      ]
     },
@@ -2007,6 +2301,18 @@
        "t": "p",
        "s": "Then went the powers all to their judgment-seats, the all-holy gods, and thereon held council: who had all the air with evil mingled? or to the Jötun race Od's maid had given?"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Then the gods went | to their assembly-seats,",
+        "the holy ones, | and held council,",
+        "to find who had filled | the air with poison,",
+        "or had given Oth's bride | to the giants' brood."
+       ]
+      }
      ]
     },
     {
@@ -2086,6 +2392,18 @@
        "t": "p",
        "s": "There alone was Thor with anger swollen. He seldom sits, when of the like he hears. Oaths are not held sacred; nor words, nor swearing, nor binding compacts reciprocally made."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "In swelling rage | Thor then rose up,",
+        "seldom he sits | when he hears such things,",
+        "and the oaths were broken, | the words and bonds,",
+        "the mighty pledges | made between them."
+       ]
+      }
      ]
     },
     {
@@ -2163,6 +2481,18 @@
       {
        "t": "p",
        "s": "She knows that Heimdall's horn is hidden under the heaven-bright holy tree. A river she sees flow, with foamy fall, from Valfather's pledge. Understand ye yet, or what?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "I know of the horn | of Heimdall, hidden",
+        "under the high-reaching | holy tree;",
+        "on it there pours | from Valfather's pledge",
+        "a mighty stream: | would you know yet more?"
+       ]
       }
      ]
     },
@@ -2272,6 +2602,28 @@
        "t": "p",
        "s": "East sat the crone, in Iârnvidir, and there reared up Fenrir's progeny: of all shall be one especially the moon's devourer, in a troll's semblance."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Alone I sat | when the Old One sought me,",
+        "the terror of gods, | and gazed into my eyes:",
+        "\"What have you to ask? | Why do you come here?",
+        "Othin, I know | where your eye is hidden.\""
+       ]
+      },
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "I know where Othin's | eye is hidden,",
+        "deep in the far-famed | well of Mimir;",
+        "mead from the pledge | of Othin each morning",
+        "Mimir drinks: | would you know yet more?"
+       ]
+      }
      ]
     },
     {
@@ -2346,6 +2698,18 @@
       {
        "t": "p",
        "s": "There on a height sat, striking a harp, the giantess's watch, the joyous Egdir; by him crowed, in the bird-wood, the bright red cock, which Fialar hight."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "I had necklaces | and rings from Heerfather,",
+        "wise was my speech | and my magic wisdom;",
+        "..........",
+        "widely I saw | over all the worlds."
+       ]
       }
      ]
     },
@@ -2439,6 +2803,20 @@
        "t": "p",
        "s": "Crowed o'er the Æsir Gullinkambi, which wakens heroes with the sire of hosts; but another crows beneath the earth, a soot-red cock, in the halls of Hel."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "On all sides I saw | Valkyries assemble,",
+        "ready to ride | to the ranks of the gods;",
+        "Skuld bore the shield, | and Skogul rode next,",
+        "Guth, Hild, Gondul, | and Geirskogul.",
+        "Of Herjan's maidens | you have heard the list,",
+        "Valkyries ready | to ride over the earth."
+       ]
+      }
      ]
     },
     {
@@ -2516,6 +2894,18 @@
        "t": "p",
        "s": "I saw of Baldr, the blood-stained god, Odin's son, the hidden fate. There stood grown up, high on the plain, slender and passing fair, the mistletoe."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "I saw for Baldr, | the bleeding god,",
+        "the son of Othin, | his destiny set:",
+        "famous and fair | in the lofty fields,",
+        "full grown in strength | the mistletoe stood."
+       ]
+      }
      ]
     },
     {
@@ -2587,7 +2977,19 @@
        ]
       }
      ],
-     "is_nu_sim": 0.986
+     "is_nu_sim": 0.986,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "From the branch which seemed | so slender and fair",
+        "came a harmful shaft | that Hoth would hurl;",
+        "but the brother of Baldr | was born before long,",
+        "and one night old | Othin's son fought."
+       ]
+      }
+     ]
     },
     {
      "id": "vsp-s33",
@@ -2664,6 +3066,18 @@
        "t": "p",
        "s": "From that shrub was made, as to me it seemed, a deadly, noxious dart. Hödr shot it forth; but Frigg bewailed, in Fensalir, Valhall's calamity. Understand ye yet, or what?"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "He did not wash his hands, | he did not comb his hair,",
+        "till he carried to the blazing pyre | Baldr's foe.",
+        "But in Fensalir | Frigg wept bitterly",
+        "for Valhall's need: | would you know yet more?"
+       ]
+      }
      ]
     },
     {
@@ -2715,7 +3129,13 @@
        ]
       }
      ],
-     "is_nu_sim": 0.983
+     "is_nu_sim": 0.983,
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "[Not in Bellows’ main text: these lines come from the Hauksbók version. In his note to stanza 35 he translates the Hauksbók lines on Váli and Loki’s binding: “I know that Vali his brother gnawed, / With his bowels then was Loki bound.”]"
+      }
+     ]
     },
     {
      "id": "vsp-s35",
@@ -2796,6 +3216,18 @@
        "t": "p",
        "s": "Then the Vala knew the fatal bonds were twisting, most rigid, bonds from entrails made."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "One I saw | bound in the wet woods,",
+        "a lover of evil, | and like Loki;",
+        "by his side Sigyn | sits, and is not glad",
+        "to see her husband: | would you know yet more?"
+       ]
+      }
      ]
     },
     {
@@ -2861,6 +3293,18 @@
       {
        "t": "p",
        "s": "From the east a river falls, through venom dales, with mire and clods, Slîd is its name."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "From the east there | pours through poisoned valleys",
+        "with swords and daggers | the river Slith.",
+        "..................",
+        ".................."
+       ]
       }
      ]
     },
@@ -2938,6 +3382,18 @@
       {
        "t": "p",
        "s": "On the north there stood, on Nida-fells, a hall of gold, for Sindri's race; and another stood in Okôlnir, the Jötuns beer-hall which Brîmir hight."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Northward a hall | in Nithavellir",
+        "of gold rose up | for Sindri's race;",
+        "and in Okolnir | another stood,",
+        "where the giant Brimir | had his beer-hall."
+       ]
       }
      ]
     },
@@ -3017,6 +3473,18 @@
       {
        "t": "p",
        "s": "She saw a hall standing, far from the sun, in Nâströnd; its doors are northward turned, venom-drops fall in through its apertures: entwined is that hall with serpents' backs."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "A hall I saw, | far from the sun,",
+        "on Nastrond it stands, | and the doors face north;",
+        "poison drips | down through the smoke-vent,",
+        "for around the walls | serpents wind."
+       ]
       }
      ]
     },
@@ -3104,6 +3572,19 @@
        "t": "p",
        "s": "She there saw wading the sluggish streams bloodthirsty men and perjurers, and him who the ear beguiles of another's wife. There Nidhögg sucks the corpses of the dead; the wolf tears men. Understand ye yet, or what?"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "I saw there wading | through wild rivers",
+        "treacherous men | and murderers too,",
+        "and those who do wrong | with the wives of men;",
+        "there Nithhogg sucked | the blood of the slain,",
+        "and the wolf tore men; | would you know yet more?"
+       ]
+      }
      ]
     },
     {
@@ -3177,7 +3658,19 @@
        ]
       }
      ],
-     "is_nu_sim": 0.992
+     "is_nu_sim": 0.992,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "The old giantess | sat in Ironwood,",
+        "in the east, and bore | the brood of Fenrir;",
+        "among these one | in a monster's shape",
+        "was soon to steal | the sun from the sky."
+       ]
+      }
+     ]
     },
     {
      "id": "vsp-s41",
@@ -3250,7 +3743,19 @@
        ]
       }
      ],
-     "is_nu_sim": 0.992
+     "is_nu_sim": 0.992,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "There he feeds full | on the flesh of the dead,",
+        "and the home of the gods | he reddens with gore;",
+        "dark grows the sun, | and in summer soon",
+        "come mighty storms: | would you know yet more?"
+       ]
+      }
+     ]
     },
     {
      "id": "vsp-s42",
@@ -3321,7 +3826,19 @@
        ]
       }
      ],
-     "is_nu_sim": 0.97
+     "is_nu_sim": 0.97,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "On a hill there sat, | and struck his harp,",
+        "Eggther the joyful, | the giants' watchman;",
+        "above him the cock | in the bird-wood crowed,",
+        "fair and red | Fjalar stood."
+       ]
+      }
+     ]
     },
     {
      "id": "vsp-s43",
@@ -3392,7 +3909,19 @@
        ]
       }
      ],
-     "is_nu_sim": 0.969
+     "is_nu_sim": 0.969,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "Then to the gods | crowed Gollinkambi,",
+        "he wakes the heroes | in Othin's hall;",
+        "and beneath the earth | another crows,",
+        "the rust-red bird | at the bars of Hel."
+       ]
+      }
+     ]
     },
     {
      "id": "vsp-s44",
@@ -3469,6 +3998,18 @@
       {
        "t": "p",
        "s": "Further forward I see, much can I say of Ragnarök and the gods' conflict."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "Now Garm howls loud | before Gnipahellir,",
+        "the fetters will burst, | and the wolf run free;",
+        "much I know, | and more I can see",
+        "of the fate of the gods, | the mighty in battle."
+       ]
       }
      ]
     },
@@ -3567,6 +4108,20 @@
        "t": "p",
        "s": "Hard is it in the world, great whoredom, an axe age, a sword age, shields shall be cloven, a wind age, a wolf age, ere the world sinks."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "Brothers shall fight | and kill each other,",
+        "and sisters' sons | shall stain their kinship;",
+        "it is hard on earth, | with mighty whoredom;",
+        "axe-time, sword-time, | shields are split,",
+        "wind-time, wolf-time, | before the world falls;",
+        "nor shall men ever | spare each other."
+       ]
+      }
      ]
     },
     {
@@ -3646,6 +4201,18 @@
        "t": "p",
        "s": "Mim's sons dance, but the central tree takes fire at the resounding Giallar-horn. Loud blows Heimdall, his horn is raised; Odin speaks with Mim's head."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "Fast move the sons | of Mim, and fate",
+        "is heard in the note | of the Gjallarhorn;",
+        "loud blows Heimdall, | the horn is aloft,",
+        "in fear all quake | who are on the roads to Hel."
+       ]
+      }
      ]
     },
     {
@@ -3719,7 +4286,19 @@
        ]
       }
      ],
-     "is_nu_sim": 0.976
+     "is_nu_sim": 0.976,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "Yggdrasil shakes, | and on high shiver",
+        "the ancient limbs, | and the giant is loose;",
+        "to the head of Mim | Othin gives heed,",
+        "but the kinsman of Surt | shall kill him soon."
+       ]
+      }
+     ]
     },
     {
      "id": "vsp-s48",
@@ -3798,6 +4377,18 @@
        "t": "p",
        "s": "Trembles Yggdrasil's ash yet standing; groans that aged tree, and the jötun is loosed. Loud bays Garm before the Gnupa-cave, his bonds he rends asunder; and the wolf runs."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "How is it with the gods? | How is it with the elves?",
+        "All Jotunheim groans, | the gods are at council;",
+        "loud roar the dwarfs | by the doors of stone,",
+        "the masters of the rocks: | would you know yet more?"
+       ]
+      }
      ]
     },
     {
@@ -3869,7 +4460,19 @@
        ]
       }
      ],
-     "is_nu_sim": 0.962
+     "is_nu_sim": 0.962,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "Now Garm howls loud | before Gnipahellir,",
+        "the fetters will burst, | and the wolf run free;",
+        "much I know, | and more I can see",
+        "of the fate of the gods, | the mighty in battle."
+       ]
+      }
+     ]
     },
     {
      "id": "vsp-s50",
@@ -3947,6 +4550,18 @@
       {
        "t": "p",
        "s": "Hrym steers from the east, the waters rise, the mundane snake is coiled in jötun-rage. The worm beats the water, and the eagle screams: the pale of beak tears carcases; Naglfar is loosed."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "From the east comes Hrym | with shield held high;",
+        "in giant-rage | the serpent writhes;",
+        "over the waves he twists, | and the tawny eagle",
+        "gnaws corpses, screaming; | Naglfar is loose."
+       ]
       }
      ]
     },
@@ -4027,6 +4642,18 @@
        "t": "p",
        "s": "That ship fares from the east: come will Muspell's people o'er the sea, and Loki steers. The monster's kin goes all with the wolf; with them the brother is of Byleist on their course."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "Over the sea from the north | there sails a ship",
+        "with the people of Hel, | at the helm stands Loki;",
+        "after the wolf | wild men follow,",
+        "and with them goes | the brother of Byleist."
+       ]
+      }
      ]
     },
     {
@@ -4106,6 +4733,18 @@
       {
        "t": "p",
        "s": "Surt from the south comes with flickering flame; shines from his sword the Val-gods' sun. The stony hills are dashed together, the giantesses totter; men tread the path of Hel, and heaven is cloven."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "Surt comes from the south | with the scourge of branches,",
+        "the sun of the battle-gods | shone from his sword;",
+        "the crags break apart, | the giant-women sink,",
+        "the dead throng the road to Hel, | and heaven splits apart."
+       ]
       }
      ]
     },
@@ -4190,6 +4829,18 @@
        "t": "p",
        "s": "Then arises Hlîn's second grief, when Odin goes with the wolf to fight, and the bright slayer of Beli with Surt. Then will Frigg's beloved fall."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "Now comes to Hlin | yet another hurt,",
+        "when Othin goes | to fight with the wolf,",
+        "and Beli's fair slayer | seeks out Surt,",
+        "for there must fall | the joy of Frigg."
+       ]
+      }
      ]
     },
     {
@@ -4261,7 +4912,23 @@
        ]
       }
      ],
-     "is_nu_sim": 0.677
+     "is_nu_sim": 0.677,
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "[Refrain. Guðni Jónsson prints the refrain four times; Bellows prints it three times (his stanzas 44, 49 and 58), always in the same words:]"
+      },
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "Now Garm howls loud | before Gnipahellir,",
+        "the fetters will burst, | and the wolf run free;",
+        "much I know, | and more I can see",
+        "of the fate of the gods, | the mighty in battle."
+       ]
+      }
+     ]
     },
     {
      "id": "vsp-s55",
@@ -4339,6 +5006,18 @@
       {
        "t": "p",
        "s": "Then comes the great victor-sire's son, Vidar, to fight with the deadly beast. He with his hands will make his sword pierce to the heart of the giant's son: then avenges he his father."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "Then comes Sigfather's | mighty son,",
+        "Vithar, to fight | with the foaming wolf;",
+        "into the giant's son | he thrusts his sword",
+        "right to the heart: | his father is avenged."
+       ]
       }
      ]
     },
@@ -4456,6 +5135,28 @@
        "t": "p",
        "s": "Then comes the mighty son of Hlôdyn: (Odin's son goes with the monster to fight); Midgârd's Veor in his rage will slay the worm. Nine feet will go Fiörgyn's son, bowed by the serpent, who feared no foe. All men will their homes forsake."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "Here there comes | the son of Hlothyn,",
+        "the bright snake gapes | to heaven above;",
+        ".........",
+        "against the serpent | goes Othin's son."
+       ]
+      },
+      {
+       "t": "v",
+       "n": 56,
+       "l": [
+        "In anger strikes | the guardian of earth,",
+        "out from their homes | must all men flee;",
+        "nine paces goes | the son of Fjorgyn,",
+        "and, slain by the serpent, | fearless he sinks."
+       ]
+      }
      ]
     },
     {
@@ -4535,6 +5236,18 @@
        "t": "p",
        "s": "The sun darkens, earth in ocean sinks, fall from heaven the bright stars, fire's breath assails the all-nourishing tree, towering fire plays against heaven itself."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 57,
+       "l": [
+        "The sun turns black, | earth sinks in the sea,",
+        "the hot stars | are whirled down from heaven;",
+        "fierce grows the steam | and the life-feeding flame,",
+        "till fire leaps high | about heaven itself."
+       ]
+      }
      ]
     },
     {
@@ -4602,7 +5315,19 @@
        ]
       }
      ],
-     "is_nu_sim": 0.677
+     "is_nu_sim": 0.677,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 58,
+       "l": [
+        "Now Garm howls loud | before Gnipahellir,",
+        "the fetters will burst, | and the wolf run free;",
+        "much I know, | and more I can see",
+        "of the fate of the gods, | the mighty in battle."
+       ]
+      }
+     ]
     },
     {
      "id": "vsp-s59",
@@ -4679,6 +5404,18 @@
       {
        "t": "p",
        "s": "She sees arise, a second time, earth from ocean, beauteously green, waterfalls descending; the eagle flying over, which in the fell captures fish."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 59,
+       "l": [
+        "Now I see | the earth anew",
+        "rise all green | from the waves again;",
+        "the waterfalls pour, | and the eagle flies,",
+        "and he catches fish | beneath the cliffs."
+       ]
       }
      ]
     },
@@ -4757,6 +5494,18 @@
        "t": "p",
        "s": "The Æsir meet on Ida's plain, and of the mighty earth-encircler speak, and there to memory call their mighty deeds, and the supreme god's ancient lore."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 60,
+       "l": [
+        "The gods in Ithavoll | meet together,",
+        "of the terrible girdler | of earth they talk,",
+        "and they call to mind | the mighty past,",
+        "and the ancient runes | of the Ruler of Gods."
+       ]
+      }
      ]
     },
     {
@@ -4827,6 +5576,18 @@
       {
        "t": "p",
        "s": "There shall again the wondrous golden tables in the grass be found, which in days of old had possessed the ruler of the gods, and Fiölnir's race."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 61,
+       "l": [
+        "In wondrous beauty | once again",
+        "shall the golden tables | stand amid the grass,",
+        "which the gods had owned | in the days of old,",
+        ".................."
+       ]
       }
      ]
     },
@@ -4905,6 +5666,18 @@
        "t": "p",
        "s": "Unsown shall the fields bring forth, all evil be amended; Baldr shall come; Hödr and Baldr, the heavenly gods, Hropt's glorious dwellings shall inhabit. Understand ye yet, or what?"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 62,
+       "l": [
+        "Then fields unsown | bear ripened fruit,",
+        "all ills grow better, | and Baldr comes back;",
+        "Baldr and Hoth dwell | in Hropt's battle-hall,",
+        "and the mighty gods: | would you know yet more?"
+       ]
+      }
      ]
     },
     {
@@ -4975,6 +5748,18 @@
       {
        "t": "p",
        "s": "Then can Hoenir choose his lot, and the two brothers' sons inhabit the spacious Vindheim. Understand ye yet, or what?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 63,
+       "l": [
+        "Then Hönir wins | the prophetic wand,",
+        "..................",
+        "and the sons of the brothers | of Tveggi live",
+        "in Vindheim now: | would you know yet more?"
+       ]
       }
      ]
     },
@@ -5055,6 +5840,18 @@
        "t": "p",
        "s": "She a hall standing than the sun brighter, with gold bedecked, in Gimill: there shall be righteous people dwell, and for evermore happiness enjoy."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 64,
+       "l": [
+        "Fairer than the sun, | a hall I see,",
+        "roofed with gold, | on Gimle it stands;",
+        "there shall the righteous | rulers dwell,",
+        "and happiness ever | they shall have there."
+       ]
+      }
      ]
     },
     {
@@ -5119,6 +5916,18 @@
       {
        "t": "p",
        "s": "Then comes the mighty one to the great judgment, the powerful from above, who rules o'er all. He shall dooms pronounce, and strifes allay, holy peace establish, which shall ever be."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 65,
+       "l": [
+        "There comes on high, | to hold all power,",
+        "a mighty lord, | he rules all lands.",
+        "..................",
+        ".................."
+       ]
       }
      ]
     },
@@ -5196,6 +6005,18 @@
       {
        "t": "p",
        "s": "There comes the dark dragon flying from beneath the glistening serpent, from Nida-fels. On his wings bears Nidhögg, flying o'er the plain, a corpse. Now she will descend."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 66,
+       "l": [
+        "From below the dark | dragon comes forth,",
+        "Nithhogg flying | from Nithafjoll;",
+        "the bodies of men | he bears on his wings,",
+        "the bright serpent: | but now I must sink."
+       ]
       }
      ]
     }

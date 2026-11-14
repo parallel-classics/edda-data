@@ -1,0 +1,2130 @@
+{
+ "_note": "Open Edda's modernisation of Arthur Gilchrist Brodeur's translation (1916, public domain), Gylfaginning 11-54, continuing the pilot (gylf_1-10.json) under the same rules. Written by an AI (Claude, Anthropic) on 2026-11-14 from Brodeur's text as aligned in aligned/al_gylf.json; not reviewed. Faithful to Brodeur's meaning (his readings are kept where they differ from the Old Norse), present-day British English, verse keeps his half-lines; his footnote markers are dropped; evident transcription errors in the source are corrected (listed in CHANGELOG.md). Licence CC BY 4.0. Placed on the rows by edda-site/pipeline/fill_versions.py as the version en-modern.",
+ "text_id": "en-modern",
+ "text": {
+  "lang": "en",
+  "label": "English · modern",
+  "label_is": "Enska · nútímaleg",
+  "short": "modern (Open Edda)"
+ },
+ "source": {
+  "id": "oe-modern-brodeur",
+  "kind": "ai",
+  "label": "Open Edda, modernised English",
+  "lang": "en",
+  "licence": "CC BY 4.0",
+  "title": "Open Edda's modernisation of the public-domain English translations (A. G. Brodeur 1916 for Snorri's Edda; H. A. Bellows 1923 and B. Thorpe 1866 for the poems): AI draft, reviewed row by row in review mode; CC BY 4.0"
+ },
+ "based_on": "brodeur-1916",
+ "licence": "CC BY 4.0",
+ "made_by": "ai:claude",
+ "date": "2026-11-14",
+ "rows": {
+  "g-c11-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"How does he govern the course of the sun and the moon?\""
+   }
+  ],
+  "g-c11-2": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"There was a man called Mundilfari who had two children. They were so fair and handsome that he called his son Moon and his daughter Sun, and married her to a man called Glenr. But the gods were angered by this arrogance; they took the brother and sister and set them up in the sky. They made Sun drive the horses that drew the chariot of the sun, which the gods had made, to light the world, from the glowing matter that flew out of Múspellheim. The horses are called Early-Wake and All-Strong, and under their shoulders the gods placed two bellows to cool them, though in some accounts this is called 'iron-coolness'. Moon guides the course of the moon and governs its waxing and waning. He took two children from the earth, called Bil and Hjúki, as they were coming from the well called Byrgir, carrying on their shoulders the cask called Sægr and the pole Simul. Their father's name is Vidfinnr. These children follow Moon, as can be seen from the earth.\""
+   }
+  ],
+  "g-c12-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"The sun moves fast, almost as if she were afraid: she could not hurry any more if she feared for her life.\""
+   }
+  ],
+  "g-c12-2": [
+   {
+    "t": "p",
+    "s": "Then Hárr answered: \"It is no wonder that she rushes on so: the one who is after her comes close behind, and she has no escape except to run.\""
+   }
+  ],
+  "g-c12-3": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"Who is it that troubles her so?\""
+   }
+  ],
+  "g-c12-4": [
+   {
+    "t": "p",
+    "s": "Hárr replied: \"There are two wolves. The one that runs after her is called Skoll; she is afraid of him, and he will catch her. The one that runs ahead of her is called Hati Hródvitnisson. He is eager to seize the moon, and so it must be.\""
+   }
+  ],
+  "g-c12-5": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"What family do the wolves come from?\""
+   }
+  ],
+  "g-c12-6": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"A witch lives to the east of Midgard, in the forest called Ironwood. In that wood live the troll-women known as the Ironwood-Women. The old witch gives birth to many giants as her sons, all in the shape of wolves, and that is where these wolves come from. It is said that from this family will come one who will be the mightiest of all, called Moon-Hound. He will be filled with the flesh of all those who die, and he will swallow the moon and spatter the heavens and all the air with blood. Because of that the sun will lose her light, and in those days the winds will be restless and roar on every side. As it says in <i>Völuspá</i>:"
+   }
+  ],
+  "g-c12-7": [
+   {
+    "t": "v",
+    "l": [
+     "In the east lives the Old One, | in Ironwood,",
+     "and there gives birth | to Fenrir's brothers;",
+     "from them all will come | one in particular,",
+     "the snatcher of the moon | in the shape of a troll."
+    ]
+   }
+  ],
+  "g-c12-8": [
+   {
+    "t": "v",
+    "l": [
+     "He is filled with the flesh | of doomed men,",
+     "reddens the seats of the gods | with red blood;",
+     "the sunshine turns black | in the summers after,",
+     "and all the weather fickle. | Do you understand yet, or what?\""
+    ]
+   }
+  ],
+  "g-c13-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"What is the way from earth to heaven?\""
+   }
+  ],
+  "g-c13-2": [
+   {
+    "t": "p",
+    "s": "Then Hárr answered, laughing aloud: \"That is not a wise question. Have you not been told that the gods made a bridge from earth to heaven, called Bifröst? You must have seen it; perhaps you call it the rainbow. It has three colours and is very strong, and it was made with skill and with more magic art than any other piece of work. But strong as it is, it will break when the sons of Múspell go out to make war and ride over it, and swim their horses across great rivers; that is how they will go on their way.\""
+   }
+  ],
+  "g-c13-3": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"It seems to me the gods did not build the bridge in good faith, if it can be broken, when they could have made it just as they wished.\""
+   }
+  ],
+  "g-c13-4": [
+   {
+    "t": "p",
+    "s": "Then Hárr replied: \"The gods deserve no blame for this piece of work. Bifröst is a good bridge, but nothing in this world can be relied on when the sons of Múspell go to war.\""
+   }
+  ],
+  "g-c14-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"What did Allfather do then, when Ásgard was made?\""
+   }
+  ],
+  "g-c14-2": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"In the beginning he appointed rulers and told them to decide fates along with him and to advise on the planning of the stronghold. This was at the place called Ida-field, in the middle of the stronghold. Their first task was to build the court in which their twelve seats stand, and one more, the high seat that belongs to Allfather himself. That house is the best made and the largest on earth; outside and in, it is all like a single piece of gold. People call it Gladsheim. They also made a second hall: this was a shrine belonging to the goddesses, and it was a very beautiful house; people call it Vingólf. Next they built a house in which they set up a forge, and they also made a hammer, tongs and an anvil, and with these all their other tools. After that they worked metal, stone and wood, and they worked the metal called gold in such abundance that all their household goods and all their dishes were of gold. That time is called the Age of Gold, before it was spoiled by the coming of the Women, those who came from Jötunheim. After this the gods took their seats and held judgment, and they called to mind how the dwarves had come to life in the soil and down in the earth, like maggots in flesh. The dwarves had first taken shape and come to life in the flesh of Ymir, and were then maggots; but by the decree of the gods they had gained the understanding of men and had human shape. Even so, they live in the earth and in rocks. Módsognir was the first, and Durinn the second, as it says in <i>Völuspá</i>:"
+   }
+  ],
+  "g-c14-3": [
+   {
+    "t": "v",
+    "l": [
+     "Then all the mighty ones went | to the seats of judgment,",
+     "the most holy gods, | and took counsel together",
+     "on who should create | the peoples of the dwarves"
+    ]
+   }
+  ],
+  "g-c14-4": [
+   {
+    "t": "v",
+    "l": [
+     "from the bloody surf | and the bones of the Blue One. They made many in human likeness, dwarves in the earth, | as Durinn said."
+    ]
+   }
+  ],
+  "g-c14-5": [
+   {
+    "t": "p",
+    "s": "And these, the Sibyl says, are their names:"
+   }
+  ],
+  "g-c14-6": [
+   {
+    "t": "v",
+    "l": [
+     "Nýi and Nidi, | Nordri and Sudri,",
+     "Austri, Vestri, | Althjófr, Dvalinn;",
+     "Nár, Náinn, | Nípingr, Dáinn,",
+     "Bifurr, Báfurr, | Bömburr, Nóri,",
+     "Óri, Ónarr, | Óinn, Mjödvitnir,"
+    ]
+   }
+  ],
+  "g-c14-7": [
+   {
+    "t": "v",
+    "l": [
+     "Viggr and Gandálfr, | Vindálfr, Thorinn,",
+     "Fíli, Kíli, | Fundinn, Váli;",
+     "Thrór, Thróinn, | Thekkr, Litr and Vitr,",
+     "Nýr, Nýrádr, | Rekkr, Rádsvidr."
+    ]
+   }
+  ],
+  "g-c14-8": [
+   {
+    "t": "p",
+    "s": "And these too are dwarves and live in rocks, while the first ones live in soil:"
+   }
+  ],
+  "g-c14-9": [
+   {
+    "t": "v",
+    "l": [
+     "| Draupnir, Dólgthvari,",
+     "Hörr, Hugstari, | Hledjólfr, Glóinn;",
+     "Dóri, Óri, | Dúfr, Andvari,",
+     "Heptifíli, | Hárr, Svíarr."
+    ]
+   }
+  ],
+  "g-c14-10": [
+   {
+    "t": "p",
+    "s": "And these come from Svarinshaugr to Aurvangar on Jöruplain, and from there comes Lovarr; these are their names:"
+   }
+  ],
+  "g-c14-11": [
+   {
+    "t": "v",
+    "l": [
+     "Skirfir, Virfir, | Skáfidr, Ái,",
+     "Álfr, Yngvi, | Eikinskjaldi,",
+     "Falr, Frosti, | Fidr, Ginnarr.\""
+    ]
+   }
+  ],
+  "g-c15-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"Where is the chief place or holy place of the gods?\""
+   }
+  ],
+  "g-c15-2": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"It is at the Ash of Yggdrasill; there the gods must give judgment every day.\""
+   }
+  ],
+  "g-c15-3": [
+   {
+    "t": "p",
+    "s": "Then Gangleri asked: \"What is there to tell about that place?\""
+   }
+  ],
+  "g-c15-4": [
+   {
+    "t": "p",
+    "s": "Then Jafnhárr said: \"The Ash is the greatest and best of all trees. Its branches spread over the whole world and rise above heaven. Three roots hold the tree up and spread very wide: one is among the Æsir; another among the frost giants, where the Yawning Void once was; the third stands over Niflheim, and under that root is Hvergelmir, and Nídhöggr gnaws the root from below. But under the root that turns towards the frost giants is Mímir's Well, in which wisdom and understanding are stored; the one who keeps the well is called Mímir. He is full of ancient lore, because he drinks from the well out of the Gjallar-Horn. Allfather came there and asked for one drink from the well, but he did not get it until he had given his eye as a pledge. As <i>Völuspá</i> says:"
+   }
+  ],
+  "g-c15-5": [
+   {
+    "t": "v",
+    "l": [
+     "I know it all, Odin, | where you hid your eye:",
+     "in the far-famed | well of Mímir.",
+     "Mímir drinks mead | every morning",
+     "from Valfather's pledge. | Do you understand yet, or what?"
+    ]
+   }
+  ],
+  "g-c15-6": [
+   {
+    "t": "p",
+    "s": "The third root of the Ash stands in heaven, and under that root is a very holy well called the Well of Urdr; there the gods hold their court. Every day the Æsir ride up there over Bifröst, which is also called the Æsir's Bridge. These are the names of the Æsir's horses: Sleipnir is the best, and he belongs to Odin; he has eight legs. The second is Gladr, the third Gyllir, the fourth Glenr, the fifth Skeidbrimir, the sixth Silfrintoppr, the seventh Sinir, the eighth Gisl, the ninth Falhófnir, the tenth Gulltoppr, the eleventh Léttfeti. Baldr's horse was burnt with him; and Thor walks to the judgment, wading the rivers that are called:"
+   }
+  ],
+  "g-c15-7": [
+   {
+    "t": "v",
+    "l": [
+     "Körmt and Örmt | and the two Kerlaugs,",
+     "these Thor must wade",
+     "every day | when he goes to give judgment",
+     "at the Ash Yggdrasill;",
+     "for the Æsir's Bridge | is all ablaze with flame,",
+     "and the holy waters howl.\""
+    ]
+   }
+  ],
+  "g-c15-8": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"Does fire burn over Bifröst?\""
+   }
+  ],
+  "g-c15-9": [
+   {
+    "t": "p",
+    "s": "Hárr replied: \"The red you see in the bow is burning fire. The hill giants could go up to heaven if Bifröst were open to all who wanted to cross. There are many beautiful places in heaven, and a divine watch is kept over everything there. A beautiful hall stands there under the ash by the well, and out of that hall come three maidens called Urdr, Verdandi and Skuld. These maidens decide the length of people's lives; we call them Norns. But there are many norns: those who come to every child that is born, to settle its life. These are of the race of the gods, but others are of the Elf-people, and a third kind are of the family of the dwarves, as it says here:"
+   }
+  ],
+  "g-c15-10": [
+   {
+    "t": "v",
+    "l": [
+     "Of very different birth | I say the Norns are;",
+     "they share no common kin:",
+     "some are of the Æsir's kin, | some of the Elves' kin,",
+     "some are Dvalinn's daughters.\""
+    ]
+   }
+  ],
+  "g-c15-11": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"If the Norns decide the fates of men, they share things out very unequally: some have a pleasant and wealthy life, while others have little in the way of worldly goods or fame; some have a long life, others a short one.\""
+   }
+  ],
+  "g-c15-12": [
+   {
+    "t": "p",
+    "s": "Hárr said: \"Good norns of noble birth grant a good life; but those who suffer misfortune are ruled by evil norns.\""
+   }
+  ],
+  "g-c16-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"What other great wonders are there to tell about the Ash?\""
+   }
+  ],
+  "g-c16-2": [
+   {
+    "t": "p",
+    "s": "Hárr replied: \"There is much to tell. An eagle sits in the branches of the Ash, and he knows many things; and between his eyes sits the hawk called Vedrfölnir. The squirrel called Ratatöskr runs up and down the Ash, carrying envious words between the eagle and Nídhöggr. Four stags run in the branches of the Ash and bite the leaves; their names are Dáinn, Dvalinn, Duneyrr and Durathrór. And there are so many serpents in Hvergelmir with Nídhöggr that no tongue can count them, as it says here:"
+   }
+  ],
+  "g-c16-3": [
+   {
+    "t": "v",
+    "l": [
+     "The Ash Yggdrasill | suffers anguish,",
+     "more than people know:"
+    ]
+   },
+   {
+    "t": "v",
+    "l": [
+     "the stag bites it from above; | on its side it rots,",
+     "and Nídhöggr gnaws it from below."
+    ]
+   }
+  ],
+  "g-c16-4": [
+   {
+    "t": "p",
+    "s": "And it is also said:"
+   }
+  ],
+  "g-c16-5": [
+   {
+    "t": "v",
+    "l": [
+     "More serpents lie | under the trunk of Yggdrasill",
+     "than any foolish ape can imagine:",
+     "Góinn and Móinn | (they are Grafvitnir's sons),",
+     "Grábakr and Grafvölludr;",
+     "Ófnir and Sváfnir, | I think, will for ever",
+     "tear at the tree's twigs."
+    ]
+   }
+  ],
+  "g-c16-6": [
+   {
+    "t": "p",
+    "s": "It is also said that the Norns who live by the Well of Urdr take water from the well every day, and with it the clay that lies around the well, and sprinkle it over the Ash, so that its branches will not wither or rot. For that water is so holy that everything that goes into the well becomes as white as the film that lies inside an eggshell, as it says here:"
+   }
+  ],
+  "g-c16-7": [
+   {
+    "t": "v",
+    "l": [
+     "I know an Ash standing | called Yggdrasill,",
+     "a tall tree sprinkled | with snow-white clay;",
+     "from it come the dews | that fall in the dale;",
+     "it stands for ever green | over Urdr's Well."
+    ]
+   }
+  ],
+  "g-c16-8": [
+   {
+    "t": "p",
+    "s": "The dew that falls from it onto the earth is what people call honeydew, and bees feed on it. Two birds are fed in Urdr's Well: they are called Swans, and from them comes the kind of bird that has that name.\""
+   }
+  ],
+  "g-c17-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"You have a great deal to tell about heaven. What other chief places are there besides Urdr's Well?\""
+   }
+  ],
+  "g-c17-2": [
+   {
+    "t": "p",
+    "s": "Hárr said: \"There are many places there, and glorious ones. One is called Álfheimr, where the people called Light-Elves live; but the Dark-Elves live down in the earth, and they are unlike them in appearance, and far more unlike them in nature. The Light-Elves are fairer to look at than the sun, but the Dark-Elves are blacker than pitch. Then there is also the place called Breidablik, and there is no more beautiful dwelling in heaven. There too is the one called Glitnir, whose walls and all its posts and pillars are of red gold, and its roof of silver. There is also the place called Himinbjörg; it stands at the end of heaven by the head of the bridge, where Bifröst reaches heaven. There is another great dwelling there, called Valaskjálf, which belongs to Odin; the gods made it and roofed it with pure silver, and in this hall is Hlidskjálf, the high seat of that name. Whenever Allfather sits in that seat, he looks out over all lands. At the southern end of heaven is the hall that is the most beautiful of all, and brighter than the sun; it is called Gimlé. It will stand when both heaven and earth have passed away, and good and righteous people will live in it, as it says in <i>Völuspá</i>:"
+   }
+  ],
+  "g-c17-3": [
+   {
+    "t": "v",
+    "l": [
+     "I know a hall standing, | fairer than the sun,",
+     "roofed with gold, | in bright Gimlé;",
+     "there shall live | those who do what is right,",
+     "and for ever and ever | enjoy delight.\""
+    ]
+   }
+  ],
+  "g-c17-4": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"What will guard this place when the flame of Surtr burns up heaven and earth?\""
+   }
+  ],
+  "g-c17-5": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"It is said that there is another heaven to the south of this one and above it, called Andlangr; and a third heaven is above that again, called Vídbláinn, and we think this place is in that heaven. But we believe that only the Light-Elves live in these dwellings now.\""
+   }
+  ],
+  "g-c18-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"Where does the wind come from? It is so strong that it stirs great seas and fans fire; yet, strong as it is, no one can see it, for it is wonderfully made.\""
+   }
+  ],
+  "g-c18-2": [
+   {
+    "t": "p",
+    "s": "Then Hárr said: \"I can easily tell you that. At the northern end of heaven sits the giant called Hræsvelgr. He has the plumage of an eagle, and when he spreads his wings to fly, the wind rises from under them, as it says here:"
+   }
+  ],
+  "g-c18-3": [
+   {
+    "t": "v",
+    "l": [
+     "Hræsvelgr he is called | who sits at heaven's end,",
+     "a giant in eagle's plumage;",
+     "from his wings, they say, | the wind comes",
+     "over all mankind.\""
+    ]
+   }
+  ],
+  "g-c19-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"Why is there such a difference, that summer is hot and winter cold?\""
+   }
+  ],
+  "g-c19-2": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"A wise man would not ask that, since everyone can tell you this. But if you alone are so short of understanding that you have not heard it, I will allow that it is better for you to ask foolishly once than to be kept any longer in ignorance of something that everyone ought to know. The father of Summer is called Svásudr, and he is of such a pleasant nature that from his name anything pleasant is called 'sweet'."
+   },
+   {
+    "t": "p",
+    "s": "But the father of Winter is called either Vindljóni or Vindsvalr; he is the son of Vásadr, and that family was grim and cold-hearted, and Winter has their temper.\""
+   }
+  ],
+  "g-c20-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"Who are the Æsir that people ought to believe in?\""
+   }
+  ],
+  "g-c20-2": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"The divine Æsir are twelve.\""
+   }
+  ],
+  "g-c20-3": [
+   {
+    "t": "p",
+    "s": "Then Jafnhárr said: \"The Ásynjur, the goddesses, are no less holy, and their authority is no less.\""
+   }
+  ],
+  "g-c20-4": [
+   {
+    "t": "p",
+    "s": "Then Thridi said: \"Odin is the highest and oldest of the Æsir. He rules all things, and mighty as the other gods are, they all serve him as children obey a father. Frigg is his wife, and she knows all the fates of men, though she makes no prophecies, as it says here, when Odin himself spoke to the one of the Æsir whom people call Loki:"
+   }
+  ],
+  "g-c20-5": [
+   {
+    "t": "v",
+    "l": [
+     "You are mad now, | Loki, and out of your mind;",
+     "why, Loki, do you not stop?",
+     "Frigg, I think, | knows all fates,",
+     "though she herself does not tell them!"
+    ]
+   }
+  ],
+  "g-c20-6": [
+   {
+    "t": "p",
+    "s": "Odin is called Allfather because he is the father of all the gods. He is also called Father of the Slain, because all who fall in battle are his adopted sons; he assigns them Valhall and Vingólf, and they are then called Champions. He is also called God of the Hanged, God of Gods, God of Cargoes; and he has been called by many more names besides, after he had come to King Geirrödr:"
+   }
+  ],
+  "g-c20-7": [
+   {
+    "t": "v",
+    "l": [
+     "We were called Grímr | and Gangleri,",
+     "Herjann, Hjálmberi;",
+     "Thekkr, Thridi, | Thudr, Udr,",
+     "Helblindi, Hárr."
+    ]
+   }
+  ],
+  "g-c20-8": [
+   {
+    "t": "v",
+    "l": [
+     "Sadr, Svipall, | Sann-getall,",
+     "Herteitr, Hnikarr;",
+     "Bileygr, Báleygr, | Bölverkr, Fjölnir,",
+     "Grímnir, Glapsvidr, Fjölsvidr."
+    ]
+   },
+   {
+    "t": "v",
+    "l": [
+     "Sídhöttr, Sidskeggr, | Sigfödr, Hnikudr,",
+     "Alfödr, Atrídr, Farmatýr;",
+     "Óski, Ómi, | Jafnhárr, Biflindi,",
+     "Göndlir, Hárbardr."
+    ]
+   },
+   {
+    "t": "v",
+    "l": [
+     "Svidurr, Svidrir, | Jálkr, Kjalarr, Vidurr,",
+     "Thrór, Yggr, Thundr;",
+     "Vakr, Skilfingr, | Váfudr, Hroptatýr,",
+     "Gautr, Veratýr.\""
+    ]
+   }
+  ],
+  "g-c20-9": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"You have given him a great many names; and, by my faith, it must be a fine mind indeed that knows all the lore and the stories of what events gave rise to each of these names.\""
+   }
+  ],
+  "g-c20-10": [
+   {
+    "t": "p",
+    "s": "Then Hárr answered: \"It is indeed a vast amount of knowledge to gather together and set out properly. But the shortest answer is that most of his names were given him for this reason: since there are so many different languages in the world, every people thought it necessary to turn his name into their own tongue, so that they could better call on him and pray to him on their own behalf. But some of these names arose from things that happened on his travels, and those are recorded in stories. And you can never be called a wise man if you cannot tell of those great events.\""
+   }
+  ],
+  "g-c21-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"What are the names of the other Æsir? What do they do, and what famous deeds have they done?\""
+   }
+  ],
+  "g-c21-2": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"Thor is the foremost of them, the one called Thor of the Æsir, or Öku-Thor. He is the strongest of all gods and men. His kingdom is the place called Thrúdvangar, and his hall is called Bilskirnir; in that hall there are five hundred and forty rooms. It is the largest house that anyone knows of. As it says in Grímnismál:"
+   }
+  ],
+  "g-c21-3": [
+   {
+    "t": "v",
+    "l": [
+     "Five hundred floors | and forty more,",
+     "so I reckon Bilskirnir with its winding ways;",
+     "of all the houses | that I know to be roofed,",
+     "my son's, I know, is the greatest."
+    ]
+   }
+  ],
+  "g-c21-4": [
+   {
+    "t": "p",
+    "s": "Thor has two he-goats, called Tooth-Gnasher and Tooth-Gritter, and a chariot that he drives in, and the goats pull the chariot; that is why he is called Öku-Thor. He also has three precious possessions. One is the hammer Mjöllnir, which the frost giants and the hill giants recognise when it is raised aloft; and no wonder, for it has battered many a skull among their fathers or their kinsmen. His second treasure, the best of all, is the belt of strength: when he buckles it on, the divine strength in him grows by half. He has a third thing of great value, his iron gloves; he cannot do without them when he grips the shaft of his hammer. No one is wise enough to recount all his mighty deeds; but I can tell you so many stories about him that the hours would run out before I had told all I know.\""
+   }
+  ],
+  "g-c22-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"I would like to hear about more of the Æsir.\""
+   }
+  ],
+  "g-c22-2": [
+   {
+    "t": "p",
+    "s": "Hárr replied: \"Odin's second son is Baldr, and there are good things to tell of him. He is the best, and everyone praises him. He is so fair of face and so bright that light shines from him. There is a plant so white that it is compared to Baldr's brow; it is the whitest of all grasses, and from it you can judge how fair he is, in both hair and body. He is the wisest of the Æsir, the most fair-spoken and the most gracious; and it is his nature that no one can contradict his judgments. He lives in the place called Breidablik, which is in heaven. Nothing unclean may be in that place, as it says here:"
+   }
+  ],
+  "g-c22-3": [
+   {
+    "t": "v",
+    "l": [
+     "Breidablik it is called, | where Baldr has",
+     "made a hall for himself:",
+     "in that land | where I know there lie",
+     "the fewest evil runes."
+    ]
+   }
+  ],
+  "g-c23-1": [
+   {
+    "t": "p",
+    "s": "\"The third of the Æsir is the one called Njördr. He lives in heaven, in the place called Nóatún. He governs the course of the wind and calms sea and fire; people should call on him for voyages and for hunting. He is so prosperous and so rich that he can give them plenty of land or goods, and people should call on him for such things. Njördr is not of the family of the Æsir: he was brought up in the land of the Vanir, but the Vanir handed him over to the gods as a hostage and took in exchange the one called Hœnir; he became the settlement between the gods and the Vanir. Njördr's wife is called Skadi, the daughter of the giant Thjazi. Skadi wants to live in the home that was her father's, in the mountains, in the place called Thrymheimr; but Njördr wants to be near the sea. They agreed on these terms: they would spend nine nights in Thrymheimr and then the next nine at Nóatún. But when Njördr came back down from the mountain to Nóatún, he sang this:"
+   }
+  ],
+  "g-c23-2": [
+   {
+    "t": "v",
+    "l": [
+     "I hated the hills, | I was not long in them,",
+     "only nine nights;",
+     "the howling of wolves | sounded ugly to me",
+     "after the song of swans."
+    ]
+   }
+  ],
+  "g-c23-3": [
+   {
+    "t": "p",
+    "s": "Then Skadi sang this:"
+   }
+  ],
+  "g-c23-4": [
+   {
+    "t": "v",
+    "l": [
+     "I could never sleep | on the beds of the sea",
+     "for the crying of the waterfowl;",
+     "he wakes me, | coming in from the deep,",
+     "the seagull, every morning."
+    ]
+   }
+  ],
+  "g-c23-5": [
+   {
+    "t": "p",
+    "s": "Then Skadi went up onto the mountain and lived in Thrymheimr. She goes about for the most part on snowshoes, with a bow and arrows, and shoots wild animals; she is called the Snowshoe-Goddess or the Lady of the Snowshoes. As it is said:"
+   }
+  ],
+  "g-c23-6": [
+   {
+    "t": "v",
+    "l": [
+     "Thrymheimr it is called, | where Thjazi lived,",
+     "that hideous giant;",
+     "but now Skadi lives, | pure bride of the gods,",
+     "in her father's ancient freehold."
+    ]
+   }
+  ],
+  "g-c24-1": [
+   {
+    "t": "p",
+    "s": "\"Njördr in Nóatún afterwards had two children: the son was called Freyr and the daughter Freyja. They were fair of face and mighty. Freyr is the most renowned of the Æsir. He rules over the rain and the shining of the sun, and with them the fruits of the earth, and it is good to call on him for good harvests and peace. He also governs the prosperity of men. Freyja is the most renowned of the goddesses. She has a dwelling in heaven called Fólkvangr, and wherever she rides to battle she has half of the slain, and Odin the other half, as it says here:"
+   }
+  ],
+  "g-c24-2": [
+   {
+    "t": "v",
+    "l": [
+     "Fólkvangr it is called, | where Freyja decides",
+     "who sits where in the hall;",
+     "half of the slain | she keeps each day,",
+     "and Odin has the other half."
+    ]
+   }
+  ],
+  "g-c24-3": [
+   {
+    "t": "p",
+    "s": "Her hall, Sessrúmnir, is large and beautiful. When she travels, she drives her cats and sits in a chariot. She is the readiest to hear people's prayers, and from her name comes the title of honour, Frú, by which noblewomen are called. Love songs please her greatly; it is good to call on her for help in love.\""
+   }
+  ],
+  "g-c25-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"These Æsir seem to me great in power; and it is no wonder that great authority goes with you, who are said to understand the gods and to know which one people should call on for each thing they ask."
+   }
+  ],
+  "g-c25-2": [
+   {
+    "t": "p",
+    "s": "Or are there still more gods?\" Hárr said: \"There is also one of the Æsir called Týr. He is the boldest and the most stout-hearted, and he has great power over victory in battle; it is good for brave men to call on him. There is a saying that a man is Týr-valiant if he surpasses other men and does not waver. He is wise, so that it is also said that the wisest man is Týr-prudent. Here is one proof of his daring: when the Æsir coaxed Fenris-Wolf into letting the fetter Gleipnir be put on him, the wolf did not believe that they would set him free until they placed Týr's hand in his mouth as a pledge. But when the Æsir would not free him, he bit off the hand at the place now called 'the wolf's joint'; and Týr is one-handed, and is not called a peacemaker among men."
+   }
+  ],
+  "g-c26-1": [
+   {
+    "t": "p",
+    "s": "\"One is called Bragi. He is renowned for wisdom, and above all for fluency of speech and skill with words. He knows the most about poetry, and after him poetry is called <i>bragr</i>, and from his name a person is called a <i>bragr</i>-man or -woman who is more eloquent than others, whether woman or man. His wife is Idunn. She keeps in her ash-wood chest the apples that the gods must taste whenever they grow old; then they all become young again, and so it will be right up to the Doom of the Gods.\""
+   }
+  ],
+  "g-c26-2": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"It seems to me that the gods entrust a very great deal to Idunn's watchfulness and good faith.\""
+   }
+  ],
+  "g-c26-3": [
+   {
+    "t": "p",
+    "s": "Then Hárr said, laughing loudly: \"It once came close to disaster. I may be able to tell you about it, but first you shall hear more of the names of the Æsir."
+   }
+  ],
+  "g-c27-1": [
+   {
+    "t": "p",
+    "s": "\"One is called Heimdallr; he is known as the White God. He is great and holy; nine maidens, all sisters, bore him as their son. He is also called Hallinskídi and Gullintanni; his teeth were of gold, and his horse is called Gold-top. He lives in the place called Himinbjörg, close to Bifröst. He is the watchman of the gods, and sits there at the edge of heaven to guard the bridge against the hill giants. He needs less sleep than a bird; by night as well as by day he can see a hundred leagues, and he can hear the grass growing on the earth and the wool on sheep, and everything that makes more noise than that. He has the trumpet called Gjallar-Horn, and its blast is heard throughout all the worlds. Heimdallr's sword is called Head. It is said further:"
+   }
+  ],
+  "g-c27-2": [
+   {
+    "t": "v",
+    "l": [
+     "Himinbjörg it is called, | where Heimdallr, they say,",
+     "always has his home;",
+     "there the watchman of the gods | drinks in his snug hall,",
+     "gladly, the good mead."
+    ]
+   }
+  ],
+  "g-c27-3": [
+   {
+    "t": "p",
+    "s": "And besides, he himself says in <i>Heimdalar-galdr</i>:"
+   }
+  ],
+  "g-c27-4": [
+   {
+    "t": "v",
+    "l": [
+     "I am the child | of nine mothers,",
+     "of nine sisters | I am the son."
+    ]
+   }
+  ],
+  "g-c28-1": [
+   {
+    "t": "p",
+    "s": "\"One of the Æsir is called Hödr; he is blind. He is strong enough, but the gods would wish that there were never any need to name this god, for the work of his hands will long be remembered among gods and men."
+   }
+  ],
+  "g-c29-1": [
+   {
+    "t": "p",
+    "s": "\"One is called Vídarr, the silent god. He has a thick shoe. He is almost as strong as Thor, and the gods rely on him greatly in every struggle."
+   }
+  ],
+  "g-c30-1": [
+   {
+    "t": "p",
+    "s": "\"One is called Áli or Váli, the son of Odin and Rindr. He is bold in battle and a very lucky marksman."
+   }
+  ],
+  "g-c31-1": [
+   {
+    "t": "p",
+    "s": "\"One is called Ullr, the son of Sif and stepson of Thor. He is so good an archer and so fast on snowshoes that no one can compete with him. He is also handsome and has the skills of a warrior; it is good to call on him in single combat."
+   }
+  ],
+  "g-c32-1": [
+   {
+    "t": "p",
+    "s": "\"Forseti is the name of the son of Baldr and Nanna, the daughter of Nep. He has the hall in heaven called Glitnir. All who come to him with quarrels arising from lawsuits go away reconciled. That is the best place of judgment among gods and men, as it says here:"
+   }
+  ],
+  "g-c32-2": [
+   {
+    "t": "v",
+    "l": [
+     "There is a hall called Glitnir, | pillared with gold",
+     "and roofed with silver too;",
+     "there Forseti stays | the whole day long",
+     "and puts all lawsuits to sleep."
+    ]
+   }
+  ],
+  "g-c33-1": [
+   {
+    "t": "p",
+    "s": "\"Also counted among the Æsir is the one whom some call the mischief-maker of the Æsir, the first father of lies, and the disgrace of all gods and men. His name is Loki or Loptr, the son of the giant Fárbauti; his mother was Laufey or Nál; his brothers are Býleistr and Helblindi. Loki is handsome and good to look at, evil in character and very changeable in his ways. He surpassed other men in the kind of wisdom that is called 'cunning', and had tricks for every occasion. He was always getting the Æsir into great trouble and then getting them out again by crafty advice. His wife was called Sigyn, and their son Nari or Narfi."
+   }
+  ],
+  "g-c34-1": [
+   {
+    "t": "p",
+    "s": "Loki had still more children. There was a giantess in Jötunheim called Angrboda, and with her Loki had three children: the first was Fenris-Wolf, the second Jörmungandr, that is, the Midgard Serpent, and the third is Hel. When the gods learned that this brood was being brought up in Jötunheim, and when they found out by prophecy that great misfortune would come to them from this brood, and since it seemed to everyone that there was every prospect of harm, first from the mother's blood and still worse from the father's, Allfather sent gods there to take the children and bring them to him. When they came to him, he at once threw the serpent into the deep sea, where he lies around all the land; and this serpent grew so much that he lies in the middle of the ocean encircling all the land, and bites his own tail."
+   }
+  ],
+  "g-c34-2": [
+   {
+    "t": "p",
+    "s": "Hel he threw into Niflheim, and gave her power over nine worlds, to allot places to live among those who were sent to her: that is, people who die of sickness or of old age. She has great estates there; her walls are extremely high and her gates huge. Her hall is called Sleet-Cold; her dish, Hunger; her knife, Famine; her slave, Idler; her maidservant, Sloven; her threshold, where one enters, Pit of Stumbling; her bed, Disease; her bed-hangings, Gleaming Bale. She is half blue-black and half flesh-coloured, which makes her easy to recognise, and she looks very grim and fierce."
+   },
+   {
+    "t": "p",
+    "s": "The Æsir brought the Wolf up at home, and only Týr dared go up to him and give him food."
+   }
+  ],
+  "g-c34-3": [
+   {
+    "t": "p",
+    "s": "But when the gods saw how much he grew every day, and when all the prophecies declared that he was destined to destroy them, the Æsir settled on this plan: they made a very strong fetter, which they called Lædingr, brought it to the Wolf and asked him to try his strength against it. The Wolf thought it was not beyond him, and let them do with him as they liked. The first time the Wolf strained against it, the fetter broke; so he got loose from Lædingr. After this the Æsir made a second fetter, stronger by half, which they called Drómi, and asked the Wolf to try that one, saying he would become very famous for his strength if such a mighty piece of work could not hold him. The Wolf thought that this fetter was very strong; but he also considered that his strength had grown since he broke Lædingr, and it came into his mind that he would have to put himself in danger if he was to become famous. So he let the fetter be put on him. When the Æsir said they were ready, the Wolf shook himself, dashed the fetter against the ground, struggled hard against it, kicked out, and broke the fetter so that the pieces flew far and wide. So he dashed himself out of Drómi. Ever since, it has been a saying, 'to get loose from Lædingr' or 'to dash out of Drómi', when something is extremely hard."
+   }
+  ],
+  "g-c34-4": [
+   {
+    "t": "p",
+    "s": "\"After that the Æsir were afraid that they would never manage to bind the Wolf. Then Allfather sent the one called Skírnir, Freyr's messenger, down into the land of the Black Elves, to certain dwarves, and had the fetter called Gleipnir made. It was made of six things: the sound of a cat's footfall, the beard of a woman, the roots of a rock, the sinews of a bear, the breath of a fish and the spittle of a bird."
+   }
+  ],
+  "g-c34-5": [
+   {
+    "t": "p",
+    "s": "And though you may not have known these things before, you can now quickly find sure proof here that you are not being told a lie: you must have seen that a woman has no beard, that a cat's leap makes no sound, and that there are no roots under a rock. And on my word, everything I have told you is just as true, even though there are some things you cannot put to the test.\""
+   }
+  ],
+  "g-c34-6": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"I can certainly see that this is true. I can see the things you have taken as proof; but how was the fetter made?\""
+   }
+  ],
+  "g-c34-7": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"That I can easily tell you. The fetter was soft and smooth as a silk ribbon, but as sure and strong as you shall now hear. When the fetter was brought to the Æsir, they thanked the messenger warmly for carrying out his errand. Then the Æsir went out onto the lake called Ámsvartnir, to the island called Lyngvi, and called the Wolf to come with them. They showed him the silk ribbon and told him to break it, saying it was rather stronger than its thickness suggested. They passed it from one to another and tested it with the strength of their hands, and it did not snap; yet they said the Wolf could break it."
+   }
+  ],
+  "g-c34-8": [
+   {
+    "t": "p",
+    "s": "Then the Wolf answered: 'As for this ribbon, it seems to me that I shall win no glory from it, even if I snap so slender a band. But if it has been made with cunning and trickery, then, small as it looks, that band shall never come on my feet.'"
+   }
+  ],
+  "g-c34-9": [
+   {
+    "t": "p",
+    "s": "Then the Æsir answered that he could easily snap a thin silk band, he who had already broken great fetters of iron, 'but if you cannot break this band, you will not be able to frighten the gods, and then we will set you free.' The Wolf said: 'If you bind me so that I cannot get free again, you will act in such a way that I shall wait a long time for any help from you;"
+   }
+  ],
+  "g-c34-10": [
+   {
+    "t": "p",
+    "s": "I am unwilling to have this band put on me. But rather than have you question my courage, let one of you put his hand in my mouth as a pledge that this is done in good faith.'"
+   }
+  ],
+  "g-c34-11": [
+   {
+    "t": "p",
+    "s": "Each of the Æsir looked at his neighbour, and none was willing to part with his hand, until Týr held out his right hand and laid it in the Wolf's mouth. But when the Wolf strained against it, the fetter hardened, and the more he struggled, the tighter the band became. Then they all laughed except Týr: he lost his hand."
+   },
+   {
+    "t": "p",
+    "s": "\"When the Æsir saw that the Wolf was fully bound, they took the chain attached to the fetter, which is called Gelgja, passed it through a great rock called Gjöll, and fixed the rock deep in the earth. Then they took a great stone, called Thviti, drove it deeper still into the earth, and used it as an anchoring peg. The Wolf opened his jaws terribly wide, thrashed about and tried to bite them. They thrust a sword into his mouth: the guard caught in his lower jaw and the point in the upper; that is his gag. He howls horribly, and slaver runs from his mouth: that is the river called Ván. There he lies until the Doom of the Gods.\""
+   }
+  ],
+  "g-c34-12": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"Loki fathered terribly evil children, but all this brood are very powerful. Yet why did the Æsir not kill the Wolf, since they expected evil from him?\""
+   }
+  ],
+  "g-c34-13": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"The gods held their holy place and sanctuary in such respect that they would not stain it with the Wolf's blood, even though the prophecies say that he will be the death of Odin.\""
+   }
+  ],
+  "g-c35-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"Which are the Ásynjur?"
+   }
+  ],
+  "g-c35-2": [
+   {
+    "t": "p",
+    "s": "Hárr said: \"Frigg is the foremost. She has the estate called Fensalir, and it is most splendid."
+   }
+  ],
+  "g-c35-3": [
+   {
+    "t": "p",
+    "s": "The second is Sága. She lives at Søkkvabekkr, and that is a great dwelling."
+   }
+  ],
+  "g-c35-4": [
+   {
+    "t": "p",
+    "s": "The third is Eir. She is the best of physicians."
+   }
+  ],
+  "g-c35-5": [
+   {
+    "t": "p",
+    "s": "The fourth is Gefjun. She is a virgin, and women who die as maidens attend her."
+   }
+  ],
+  "g-c35-6": [
+   {
+    "t": "p",
+    "s": "The fifth is Fulla. She too is a maiden, and goes about with her hair loose and a golden band around her head. She carries Frigg's ash-wood casket, looks after her shoes, and knows her secrets."
+   }
+  ],
+  "g-c35-7": [
+   {
+    "t": "p",
+    "s": "Freyja is the most nobly born, together with Frigg. She is married to the man called Ódr. Their daughter is Hnoss; she is so beautiful that things which are beautiful and precious are called <i>hnossir</i>. Ódr went away on long journeys, and Freyja weeps for him, and her tears are red gold. Freyja has many names, and the reason is that she gave herself different names when she travelled among strange peoples looking for Ódr: she is called Mardöll and Hörn, Gefn, Sýr. Freyja owned the necklace Brísinga-men. She is also called Lady of the Vanir."
+   }
+  ],
+  "g-c35-8": [
+   {
+    "t": "p",
+    "s": "The seventh is Sjöfn. She works hard at turning people's thoughts to love, both women's and men's; and from her name love-longing is called <i>sjafni</i>."
+   }
+  ],
+  "g-c35-9": [
+   {
+    "t": "p",
+    "s": "The eighth is Lofn. She is so gracious and kind to those who call on her that she wins permission from Allfather or Frigg for people to come together in marriage, women and men, even if it was forbidden before or seems flatly refused. From her name such permission is called 'leave', and so too she is much 'loved' by people."
+   }
+  ],
+  "g-c35-10": [
+   {
+    "t": "p",
+    "s": "The ninth is Vár. She listens to the oaths and agreements made between men and women, which is why such agreements are called 'vows'."
+   }
+  ],
+  "g-c35-11": [
+   {
+    "t": "p",
+    "s": "She also takes vengeance on those who break their oaths."
+   }
+  ],
+  "g-c35-12": [
+   {
+    "t": "p",
+    "s": "The tenth is Vör. She is wise and inquiring, so that nothing can be hidden from her; there is a saying that a woman becomes 'aware' of what she finds out. The eleventh is Syn. She guards the door of the hall and shuts it against those who should not go in; she is also appointed at trials as a defence against the cases she wishes to refute. Hence the expression that <i>syn</i> is put forward when a man denies something. The twelfth is Hlín. She is appointed to watch over those whom Frigg wishes to keep from any danger; hence the saying that one who escapes 'leans'."
+   }
+  ],
+  "g-c35-13": [
+   {
+    "t": "p",
+    "s": "Snotra is the thirteenth. She is wise and gentle in manner; from her name a woman or a man who is moderate is called <i>snotr</i>."
+   }
+  ],
+  "g-c35-14": [
+   {
+    "t": "p",
+    "s": "The fourteenth is Gná. Frigg sends her to various lands on her errands; she has the horse that runs over sky and sea, called Hoof-Tosser."
+   }
+  ],
+  "g-c35-15": [
+   {
+    "t": "p",
+    "s": "Once, when she was riding, some of the Vanir saw her passing through the air; then one of them said:"
+   }
+  ],
+  "g-c35-16": [
+   {
+    "t": "v",
+    "l": [
+     "What flies there? | What travels there,",
+     "or glides through the air?"
+    ]
+   }
+  ],
+  "g-c35-17": [
+   {
+    "t": "p",
+    "s": "She answered:"
+   }
+  ],
+  "g-c35-18": [
+   {
+    "t": "v",
+    "l": [
+     "I do not fly, | though I travel",
+     "and glide through the air",
+     "on Hoof-Tosser, | whom Hamskerpir",
+     "fathered on Gardrofa."
+    ]
+   }
+  ],
+  "g-c35-19": [
+   {
+    "t": "p",
+    "s": "From Gná's name, whatever soars high is said to <i>gnæfa</i>."
+   }
+  ],
+  "g-c35-20": [
+   {
+    "t": "p",
+    "s": "Sól and Bil are counted among the Ásynjur, but their nature has been described already."
+   }
+  ],
+  "g-c36-1": [
+   {
+    "t": "p",
+    "s": "\"There are others too, whose task is to serve in Valhall, to bring the drink and look after the tableware and the ale-cups. They are named like this in <i>Grímnismál</i>:"
+   }
+  ],
+  "g-c36-2": [
+   {
+    "t": "v",
+    "l": [
+     "Hrist and Mist | I want to bring me the horn,",
+     "Skeggjöld and Skögull;",
+     "Hildr and Thrúdr, | Hlökk and Herfjötur,",
+     "Göll and Geirahöd,",
+     "Randgrídr and Rádgrídr | and Reginleif:",
+     "these bring the Einherjar ale."
+    ]
+   }
+  ],
+  "g-c36-3": [
+   {
+    "t": "p",
+    "s": "These are called Valkyrs. Odin sends them to every battle; they decide which men are doomed to die and award the victory. Gudr and Róta and the youngest Norn, who is called Skuld, always ride to take the slain and decide the fighting. Jörd, the mother of Thor, and Rindr, the mother of Váli, are counted among the Ásynjur."
+   }
+  ],
+  "g-c37-1": [
+   {
+    "t": "p",
+    "s": "\"There was a man called Gýmir, and his wife was Aurboda; she was of the family of the hill giants. Their daughter was Gerdr, the most beautiful of all women. One day Freyr had gone to Hlidskjálf and looked out over the whole world, and when he looked towards the north he saw on an estate a large and beautiful house. A woman was walking towards this house; when she raised her hands and opened the door in front of her, light shone from her hands over both sky and sea, and all the worlds were lit up by her. So his great pride in presuming to sit in that holy seat was avenged on him: he went away full of sorrow. When he came home he did not speak, he did not sleep, he did not drink; no one dared speak to him."
+   }
+  ],
+  "g-c37-2": [
+   {
+    "t": "p",
+    "s": "Then Njördr sent for Skírnir, Freyr's page, and told him to go to Freyr, ask him to speak, and find out on whose account he was so bitter that he would not talk to anyone. Skírnir said he would go, though unwillingly, and said that harsh answers were to be expected from Freyr."
+   },
+   {
+    "t": "p",
+    "s": "\"But when he came to Freyr, he asked at once why Freyr was so downcast and would not speak to anyone."
+   }
+  ],
+  "g-c37-3": [
+   {
+    "t": "p",
+    "s": "Then Freyr answered that he had seen a beautiful woman, and that for her sake he was so full of grief that he would not live long if he could not have her. 'And now you must go and ask for her hand on my behalf, and bring her here, whether her father is willing or not. I will reward you well for it.'"
+   }
+  ],
+  "g-c37-4": [
+   {
+    "t": "p",
+    "s": "Then Skírnir answered that he would go on this errand, but Freyr must give him his own sword, which is so good that it fights by itself. Freyr did not refuse, and gave him the sword. Then Skírnir set out and wooed the woman for him, and received her promise: nine nights later she was to come to the place called Barrey and go to her wedding with Freyr. But when Skírnir told Freyr his answer, Freyr sang this verse:"
+   }
+  ],
+  "g-c37-5": [
+   {
+    "t": "v",
+    "l": [
+     "Long is one night, | long is the second;",
+     "how can I wait through three?",
+     "Often a month | has seemed shorter to me",
+     "than this one night of waiting."
+    ]
+   }
+  ],
+  "g-c37-6": [
+   {
+    "t": "p",
+    "s": "This was why Freyr had no weapon when he fought with Beli and killed him with a stag's antler.\""
+   }
+  ],
+  "g-c37-7": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"It is very strange that a great chief like Freyr would give away his sword when he had no other as good. It was a great loss to him when he fought the one called Beli; by my faith, he must have regretted that gift.\""
+   }
+  ],
+  "g-c37-8": [
+   {
+    "t": "p",
+    "s": "Then Hárr answered: \"That mattered little when he and Beli met; Freyr could have killed him with his hand. But the time will come when Freyr thinks something worse has befallen him, when he misses his sword on the day the Sons of Múspell come to make war.\""
+   }
+  ],
+  "g-c38-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"You say that all the men who have fallen in battle since the beginning of the world have now come to Odin in Valhall. What does he have to give them to eat? I should think there must be a very great crowd there.\""
+   }
+  ],
+  "g-c38-2": [
+   {
+    "t": "p",
+    "s": "Then Hárr answered: \"What you say is true: there is a very great multitude there, and there will be many more, and yet it will seem all too few when the Wolf comes. But there is never so great a multitude in Valhall that the meat of the boar called Sæhrímnir runs out. He is boiled every day and is whole again by evening. As for the question you ask now, I think it likely that few are wise enough to answer it truthfully. The cook is called Andhrímnir, and the cauldron Eldhrímnir, as it says here:"
+   }
+  ],
+  "g-c38-3": [
+   {
+    "t": "v",
+    "l": [
+     "Andhrímnir | has in Eldhrímnir",
+     "Sæhrímnir boiled,",
+     "the best of hams; | yet how few know",
+     "what food the champions are fed.\""
+    ]
+   }
+  ],
+  "g-c38-4": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"Does Odin have the same food as the champions?\""
+   }
+  ],
+  "g-c38-5": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"The food that stands on his table he gives to two wolves he owns, called Geri and Freki. He needs no food himself; wine is both food and drink to him, as it says here:"
+   }
+  ],
+  "g-c38-6": [
+   {
+    "t": "v",
+    "l": [
+     "Geri and Freki | the war-mighty one feeds full,",
+     "the glorious God of Hosts;",
+     "but on wine alone, | glorious in arms,",
+     "Odin lives for ever."
+    ]
+   }
+  ],
+  "g-c38-7": [
+   {
+    "t": "p",
+    "s": "The ravens sit on his shoulders and speak into his ear all the news they see or hear. Their names are Huginn and Muninn. He sends them out at daybreak to fly over the whole world, and they come back at the time of the morning meal; in this way he learns much news. That is why people call him Raven-God, as it says:"
+   }
+  ],
+  "g-c38-8": [
+   {
+    "t": "v",
+    "l": [
+     "Huginn and Muninn fly each day",
+     "over the wide earth;",
+     "I fear for Huginn, that he may not come back,",
+     "yet I watch still more for Muninn.\""
+    ]
+   }
+  ],
+  "g-c39-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"What do the champions have to drink that is as plentiful for them as the food?"
+   }
+  ],
+  "g-c39-2": [
+   {
+    "t": "p",
+    "s": "Or do they drink water there?\" Then Hárr said: \"That is a strange question: as if Allfather would invite kings or earls or other powerful men to join him and then give them water to drink! By my faith, many a man comes to Valhall who would think he had paid dearly for a drink of water, if there were no better welcome to be had there, after suffering wounds and burning pain to the point of death. I can tell you something quite different. The she-goat called Heidrún stands up in Valhall and bites the needles from a branch of that very famous tree called Lærádr, and from her udders mead flows so freely that she fills a vat every day. That vat is so large that all the champions get quite drunk from it.\""
+   }
+  ],
+  "g-c39-3": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"That is a wonderfully useful goat for them; it must be an exceedingly good tree that she feeds on.\""
+   }
+  ],
+  "g-c39-4": [
+   {
+    "t": "p",
+    "s": "Then Hárr said: \"Even more remarkable is the stag Eikthyrni, which stands in Valhall and bites from the branches of the tree. From his antlers so much moisture drips that it runs down into Hvergelmir, and from there flow the rivers called Síd, Víd, Søkin, Eikin, Svöl, Gunnthrá, Fjörm, Fimbulthul, Gípul, Göpul, Gömul, Geirvimul. These flow around the homes of the Æsir. These are also named: Thyn, Vín, Thöll, Höll, Grád, Gunnthráin, Nyt, Nöt, Nönn, Hrönn, Vína, Vegsvinn, Thjódnuma.\""
+   }
+  ],
+  "g-c40-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"This is marvellous news you tell me. Valhall must be an enormous house, and there must often be a great crush at the doors.\""
+   }
+  ],
+  "g-c40-2": [
+   {
+    "t": "p",
+    "s": "Then Hárr answered: \"Why do you not ask how many doors there are in the hall, or how large they are? When you hear that, you will say it would be strange indeed if anyone who wished could not go out and in. In truth, it is no harder to find room inside than to get in. Here you may read in <i>Grímnismál</i>:"
+   }
+  ],
+  "g-c40-3": [
+   {
+    "t": "v",
+    "l": [
+     "Five hundred doors | and forty more",
+     "there are, I think, in Valhall;",
+     "eight hundred champions | go out through each door",
+     "when they go to fight the Wolf.\""
+    ]
+   }
+  ],
+  "g-c41-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"There is a very great multitude of men in Valhall, so that, by my faith, Odin is a very great chieftain, since he commands so large an army. Now what do the champions do for sport when they are not fighting?\""
+   }
+  ],
+  "g-c41-2": [
+   {
+    "t": "p",
+    "s": "Hárr replied: \"Every day, as soon as they are dressed, they put on their armour, go out into the courtyard and fight, and strike each other down. That is their sport. When it is nearly time for the morning meal, they ride home to Valhall and sit down to drink, as it says here:"
+   }
+  ],
+  "g-c41-3": [
+   {
+    "t": "v",
+    "l": [
+     "All the Einherjar | in Odin's court",
+     "deal out blows every day;",
+     "they choose the slain | and ride from the battle,",
+     "and afterwards sit together in friendship."
+    ]
+   }
+  ],
+  "g-c41-4": [
+   {
+    "t": "p",
+    "s": "But what you said is true: Odin is very mighty. There are many examples to prove it, as it says here in the words of the Æsir themselves:"
+   }
+  ],
+  "g-c41-5": [
+   {
+    "t": "v",
+    "l": [
+     "The trunk of the ash Yggdrasill | is foremost of trees,",
+     "and Skídbladnir of ships;",
+     "Odin of the Æsir, | Sleipnir of all horses,",
+     "Bifröst of bridges, | and Bragi of poets;",
+     "Hábrók of hawks, | and Garmr of hounds.\""
+    ]
+   }
+  ],
+  "g-c42-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"Who owns that horse Sleipnir, and what is there to tell about him?\""
+   }
+  ],
+  "g-c42-2": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"You know nothing of Sleipnir's qualities, and you do not know how he came to be born; but you will think it worth the telling. It was early on, when the gods first settled here, after they had established Midgard and built Valhall. A certain builder came and offered to build them a stronghold in three seasons, so good that it would be secure and proof against the hill giants and the frost giants, even if they got in over Midgard. As his wages he demanded Freyja for himself, and he wanted the sun and the moon as well. Then the Æsir conferred and took counsel together, and a bargain was made with the builder: he should have what he asked if he managed to finish the stronghold in one winter. But if any part of the stronghold was left unfinished on the first day of summer, he would lose his reward; and he was to receive help from no man in the work. When they told him these terms, he asked them to let him have the help of his stallion, which was called Svadilfari; Loki advised it, and so the builder's request was granted. He set to work on the first day of winter to build the stronghold, and by night he hauled stones with the stallion's help. The Æsir were amazed at what huge rocks that horse pulled, for the horse did half as much heavy work again as the builder. But there were strong witnesses to their bargain, and many oaths, since the giant did not think it safe to be among the Æsir without a truce if Thor should come home. But Thor had gone away to the east at that time to fight trolls."
+   },
+   {
+    "t": "p",
+    "s": "\"Now when winter was drawing to an end, the building of the stronghold was far advanced, and it was so high and strong that it could not be taken."
+   }
+  ],
+  "g-c42-3": [
+   {
+    "t": "p",
+    "s": "When there were three days left before summer, the work had almost reached the gate of the stronghold. Then the gods sat down in their judgment seats and looked for a way out, and asked one another who had advised giving Freyja away into Jötunheim, or ruining the air and the sky by taking the sun and the moon out of them and giving them to the giants. The gods agreed that this must have been the advice of the one who usually gives bad advice, Loki Laufeyarson, and they declared that he deserved an ugly death if he could not find a way to make the builder lose his wages; and they threatened Loki with violence. He was frightened, and swore oaths that he would arrange things so that the builder lost his wages, whatever it cost him."
+   }
+  ],
+  "g-c42-4": [
+   {
+    "t": "p",
+    "s": "\"That same evening, when the builder drove out for stone with the stallion Svadilfari, a mare ran out of a wood and whinnied to him. When the stallion realised what kind of horse this was, he went wild at once, snapped the traces and ran to the mare; she fled into the wood, and the builder went after them, trying to catch the stallion. The horses ran about all night, and the builder stopped there for the night; and the next day the work did not get done as it had before. When the builder saw that the work could not be finished, he flew into a giant's rage. Now that the Æsir knew for certain that it was a hill giant who had come there, they paid no heed to their oaths but called on Thor, who came at once. The next moment the hammer Mjöllnir was raised aloft. He paid the builder his wages, and not with the sun and the moon. Indeed, he would not even let him live in Jötunheim: he struck just one blow, the first, so that his skull was shattered into small fragments, and sent him down below under Niflhel."
+   }
+  ],
+  "g-c42-5": [
+   {
+    "t": "p",
+    "s": "But Loki had had such dealings with Svadilfari that some time later he gave birth to a foal. It was grey and had eight legs, and this horse is the best among gods and men. As it says in <i>Völuspá</i>:"
+   }
+  ],
+  "g-c42-6": [
+   {
+    "t": "v",
+    "l": [
+     "Then all the Powers went | to the seats of judgment,",
+     "the most holy gods | held council together:",
+     "who had poisoned | all the air with evil,",
+     "or given Ódr's maid | to the race of giants."
+    ]
+   }
+  ],
+  "g-c42-7": [
+   {
+    "t": "v",
+    "l": [
+     "Then oaths were broken, | bonds and vows,",
+     "all the sacred pledges | that had passed between them;",
+     "Thor alone struck there, | swollen with anger:",
+     "he seldom sits still | when he hears of such things.\""
+    ]
+   }
+  ],
+  "g-c43-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"What is there to tell about Skídbladnir, the best of ships? Is there no ship as large?\""
+   }
+  ],
+  "g-c43-2": [
+   {
+    "t": "p",
+    "s": "Hárr replied: \"Skídbladnir is the best of ships and the most skilfully made, but Naglfar is the largest ship; it belongs to Múspell. Certain dwarves, the sons of Ívaldi, made Skídbladnir and gave the ship to Freyr. It is so large that all the Æsir can man it with their weapons and armour, and it has a fair wind as soon as the sail is hoisted, wherever it is bound. But when there is no need to go to sea in it, it is made of so many parts and with such skill that it can be folded up like a napkin and kept in one's pouch.\""
+   }
+  ],
+  "g-c44-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"Skídbladnir is a good ship, but very powerful magic must have been used on it to make it like that. Has Thor never met with anything so mighty or so powerful that it got the better of him through the strength of its magic?\""
+   }
+  ],
+  "g-c44-2": [
+   {
+    "t": "p",
+    "s": "Then Hárr said: \"Few men, I think, can tell of that; yet many things have seemed hard for him to overcome. Even if there has been something so powerful or strong that Thor could not win the victory, there is no need to speak of it, because there are many examples to prove, and everyone is bound to believe, that Thor is the mightiest.\""
+   }
+  ],
+  "g-c44-3": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"It seems to me that I must have asked you about something that no one is able to tell."
+   }
+  ],
+  "g-c44-4": [
+   {
+    "t": "p",
+    "s": "Then Jafnhárr said: \"We have heard tell of some things that seem incredible to us, but sitting close by here is one who will know how to tell the truth about this. And you may be sure that he who has never lied before will not lie now for the first time.\""
+   }
+  ],
+  "g-c44-5": [
+   {
+    "t": "p",
+    "s": "Gangleri said: \"I will stand here and listen, to see whether any answer is given to this question; otherwise I declare you beaten, if you cannot tell me what I ask.\""
+   }
+  ],
+  "g-c44-6": [
+   {
+    "t": "p",
+    "s": "Then Thridi said: \"It is clear now that he is determined to know about this, though it does not seem to us a pleasant thing to tell."
+   }
+  ],
+  "g-c44-7": [
+   {
+    "t": "p",
+    "s": "This is the beginning of the tale: Öku-Thor set out with his goats and chariot, and with him went the Ás called Loki. In the evening they came to a farmer's house and were given lodging for the night. That evening Thor took his goats and slaughtered them both; then they were skinned and put in the cauldron. When they were cooked, Thor and his companion sat down to supper. Thor invited the farmer, his wife and their children to eat with him; the farmer's son was called Thjálfi and his daughter Röskva. Then Thor laid the goatskins further away from the fire, and told the farmer and his servants to throw the bones onto the goatskins. Thjálfi, the farmer's son, had hold of one of the goat's thigh bones; he split it with his knife and broke it open to get at the marrow."
+   },
+   {
+    "t": "p",
+    "s": "\"Thor stayed there overnight. In the hours before daybreak he got up and dressed, took the hammer Mjöllnir, raised it and hallowed the goatskins. At once the goats stood up, but one of them was lame in a hind leg. Thor noticed this and declared that the farmer or his household had not dealt sensibly with the goat's bones: he could tell that the thigh bone was broken. There is no need to make a long story of it: anyone can imagine how frightened the farmer must have been when he saw Thor let his brows sink down over his eyes; and when he looked at the eyes themselves, he thought he would fall down at their glance alone. Thor clenched his hands on the shaft of the hammer so hard that his knuckles turned white. The farmer and all his household did as might be expected: they cried out loudly, begged for mercy and offered everything they had in compensation. When he saw their terror, his fury left him and he calmed down, and as a settlement he took from them their children, Thjálfi and Röskva. They became his bond-servants, and they have followed him ever since."
+   }
+  ],
+  "g-c45-1": [
+   {
+    "t": "p",
+    "s": "\"He left his goats behind there and set off eastwards towards Jötunheim, all the way to the sea; then he crossed over that deep sea. When he reached land he went ashore, and Loki, Thjálfi and Röskva with him. When they had walked a little while, a great forest lay before them, and they walked all that day until dark. Thjálfi was the swiftest on foot of all men; he carried Thor's bag, but there was nothing good to eat."
+   }
+  ],
+  "g-c45-2": [
+   {
+    "t": "p",
+    "s": "As soon as it was dark they looked for shelter for the night and came upon a very large hall. It had a door at the end, as wide as the hall itself, and there they settled for the night. But about midnight there was a great earthquake: the ground rocked violently beneath them and the house shook. Thor got up and called to his companions. They explored further, found a side room on the right, in the middle of the hall, and went into it. Thor sat down in the doorway, while the others were further in behind him, and they were afraid; but Thor gripped the shaft of his hammer and meant to defend himself. Then they heard a great droning noise and a crashing."
+   }
+  ],
+  "g-c45-3": [
+   {
+    "t": "p",
+    "s": "\"When dawn was near, Thor went out and saw a man lying a little way off in the wood, and he was no small man; he was asleep and snoring loudly. Then Thor thought he understood what the noise was that they had heard in the night. He fastened on his belt of strength, and his divine power grew; and at that moment the man woke and quickly stood up. And then, it is said, for the first time Thor's heart failed him when it came to striking him with the hammer."
+   }
+  ],
+  "g-c45-4": [
+   {
+    "t": "p",
+    "s": "He asked him his name, and the man said he was called Skrýmir. 'But I have no need,' he said, 'to ask you your name; I know that you are Ása-Thor. But what is this? Have you dragged my glove away?'"
+   }
+  ],
+  "g-c45-5": [
+   {
+    "t": "p",
+    "s": "Then Skrýmir reached out and picked up the glove, and Thor saw at once that this was what he had taken for a hall during the night; and as for the side room, it was the thumb of the glove."
+   }
+  ],
+  "g-c45-6": [
+   {
+    "t": "p",
+    "s": "Skrýmir asked whether Thor would like his company, and Thor agreed. Then Skrýmir untied his food bag and got ready to eat his morning meal, and Thor and his companions did the same in another place. Skrýmir then suggested that they pool their provisions, and Thor agreed. So Skrýmir tied all the food up in one bag and put it on his own back. He went ahead during the day, taking very long strides, and late in the evening Skrýmir found them a place for the night under a great oak."
+   }
+  ],
+  "g-c45-7": [
+   {
+    "t": "p",
+    "s": "Then Skrýmir told Thor that he was going to lie down and sleep, 'and you take the food bag and get your supper ready.'"
+   }
+  ],
+  "g-c45-8": [
+   {
+    "t": "p",
+    "s": "\"Then Skrýmir fell asleep and snored loudly, and Thor took the food bag and set about untying it. But, incredible as it will seem, it must be told that he could not get a single knot undone or a single strap-end to move so that it was any looser than before. When he saw that his efforts were useless, he grew angry, gripped the hammer Mjöllnir in both hands, went with long strides to where Skrýmir lay and struck him on the head. Skrýmir woke and asked whether a leaf had fallen on his head, and whether they had eaten and were ready for bed."
+   }
+  ],
+  "g-c45-9": [
+   {
+    "t": "p",
+    "s": "Thor replied that they were just about to go to sleep; then they went under another oak. To tell you the truth, there was no sleeping without fear then."
+   }
+  ],
+  "g-c45-10": [
+   {
+    "t": "p",
+    "s": "At midnight Thor heard Skrýmir snoring, so sound asleep that the woods thundered with it. He got up and went over to him, swung his hammer swiftly and hard, and brought it down on the middle of his crown; he saw the face of the hammer sink deep into his head."
+   }
+  ],
+  "g-c45-11": [
+   {
+    "t": "p",
+    "s": "At that moment Skrýmir woke and said: 'What is it now? Did an acorn fall on my head? Or what is happening with you, Thor?'"
+   }
+  ],
+  "g-c45-12": [
+   {
+    "t": "p",
+    "s": "But Thor quickly went back and replied that he had only just woken up; he said that it was midnight, and there was still time to sleep."
+   },
+   {
+    "t": "p",
+    "s": "\"Thor thought that if he got the chance to strike him a third blow, the giant would never see himself again; he lay now and watched to see whether Skrýmir was sound asleep again. A little before daybreak, when he could tell that Skrýmir must have fallen asleep, he got up at once and rushed at him, swung his hammer with all his strength and struck the temple that was turned upwards."
+   }
+  ],
+  "g-c45-13": [
+   {
+    "t": "p",
+    "s": "But Skrýmir sat up, rubbed his cheek and said: 'There must be some birds sitting in the tree above me; when I woke, I fancied that some dirt from the twigs fell on my head. Are you awake, Thor? It must be time to get up and dress; but you have not far to go now to the castle called Útgardr. I have heard you whispering among yourselves that I am no small man; but you will see bigger men if you come to Útgardr. Now I will give you some good advice: do not behave boastfully, for Útgarda-Loki's men will not put up with big words from such babes in arms. Otherwise, turn back, and I think that would be the better course for you. But if you mean to go on, then head east. As for me, my way lies north, to those hills you can now see.'"
+   }
+  ],
+  "g-c45-14": [
+   {
+    "t": "p",
+    "s": "Skrýmir took the food bag, threw it on his back and turned away from them across the forest; and it is not recorded that the Æsir wished him a safe journey."
+   }
+  ],
+  "g-c46-1": [
+   {
+    "t": "p",
+    "s": "\"Thor went on his way with his companions, and walked on until midday. Then they saw a castle standing on a plain, and had to bend their heads right back before they could see over the top of it. They went up to the castle; there was a grating in front of the castle gate, and it was shut. Thor went up to the grating but could not get it open; but in their struggle to get inside they crept between the bars and got in that way. They saw a great hall and went towards it. The door was open, so they went in, and there they saw many men on two benches, and most of them were quite big enough."
+   }
+  ],
+  "g-c46-2": [
+   {
+    "t": "p",
+    "s": "Next they came before the king, Útgarda-Loki, and greeted him. He took his time before looking at them, then smiled scornfully, baring his teeth, and said: 'It is late to ask for news of a long journey. Or am I wrong in thinking that this little fellow is Öku-Thor? But you may be greater than you look to me. What kind of skills do you and your companions think you are ready to show? No one may stay here with us who does not have some craft or skill in which he surpasses most men.'"
+   }
+  ],
+  "g-c46-3": [
+   {
+    "t": "p",
+    "s": "\"Then the one who came last, who was called Loki, spoke: 'I know a feat that I am ready to try: there is no one in here who can eat his food faster than I can.'"
+   }
+  ],
+  "g-c46-4": [
+   {
+    "t": "p",
+    "s": "Then Útgarda-Loki answered: 'That is a feat, if you can do it, and so it shall be put to the test.' He called to the far end of the bench for the one called Logi to come out onto the floor and try his strength against Loki."
+   }
+  ],
+  "g-c46-5": [
+   {
+    "t": "p",
+    "s": "Then a trough was brought in, set on the floor of the hall and filled with meat. Loki sat down at one end and Logi at the other, and each ate as fast as he could, and they met in the middle of the trough. By then Loki had eaten all the meat off the bones, but Logi had eaten all the meat too, and the bones with it, and the trough as well; and now it seemed to everyone that Loki had lost the game."
+   }
+  ],
+  "g-c46-6": [
+   {
+    "t": "p",
+    "s": "\"Then Útgarda-Loki asked what that young man could do; and Thjálfi answered that he would try running a race against anyone Útgarda-Loki chose to put up. Útgarda-Loki said that this was a good skill, and that he would surely need to be very swift of foot if he was to perform that feat; but he would see to it at once that the matter was tested. Then Útgarda-Loki got up and went outside, where there was a good course for running over the level plain. He called over a lad named Hugi and told him to run a race against Thjálfi. They ran the first heat, and Hugi was so far ahead that he turned back to meet Thjálfi at the end of the course."
+   }
+  ],
+  "g-c46-7": [
+   {
+    "t": "p",
+    "s": "Then Útgarda-Loki said: 'You will need to push yourself harder, Thjálfi, if you are to win the game; but it is true all the same that no men have ever come here who seemed to me faster on their feet than this.'"
+   }
+  ],
+  "g-c46-8": [
+   {
+    "t": "p",
+    "s": "Then they ran a second heat; and when Hugi had reached the end of the course and was turning back, Thjálfi was still a long bowshot behind."
+   }
+  ],
+  "g-c46-9": [
+   {
+    "t": "p",
+    "s": "Then Útgarda-Loki said: 'Thjálfi seems to me to run this course well, but I no longer believe that he will win the game. We shall soon see, though, when they run the third heat.'"
+   }
+  ],
+  "g-c46-10": [
+   {
+    "t": "p",
+    "s": "Then they ran the heat; but when Hugi had reached the end of the course and turned back, Thjálfi had not yet reached the halfway mark. Then everyone said that this game had been settled."
+   }
+  ],
+  "g-c46-11": [
+   {
+    "t": "p",
+    "s": "\"Next, Útgarda-Loki asked Thor what feats he would like to show them, seeing what great stories people told of his mighty deeds. Thor answered that he would most like to compete with someone at drinking. Útgarda-Loki said that could easily be done. He went into the hall, called his serving boy and told him to bring the penalty horn that his retainers usually drank from. At once the serving boy came forward with the horn and put it in Thor's hand."
+   }
+  ],
+  "g-c46-12": [
+   {
+    "t": "p",
+    "s": "Then Útgarda-Loki said: 'This horn is considered well drained if it is emptied in one draught; some empty it in two; but no one is so poor a drinker that he cannot empty it in three.'"
+   }
+  ],
+  "g-c46-13": [
+   {
+    "t": "p",
+    "s": "Thor looked at the horn. It did not seem big to him, though it was rather long. But he was very thirsty; he began to drink, taking huge gulps, and thought he would not need to bend to the horn again. But when he ran out of breath, raised his head from the horn and looked to see how the drinking had gone, it seemed to him that the drink was only very slightly lower in the horn than before."
+   }
+  ],
+  "g-c46-14": [
+   {
+    "t": "p",
+    "s": "Then Útgarda-Loki said: 'Well drunk, and not too much. I would not have believed it, if I had been told, that Ása-Thor could not drink a bigger draught. But I know you will want to finish it off in a second draught.'"
+   }
+  ],
+  "g-c46-15": [
+   {
+    "t": "p",
+    "s": "Thor made no answer. He put the horn to his mouth, meaning now to drink a bigger draught, and struggled with it until his breath gave out; and still he saw that the tip of the horn would not tilt up as far as he would have liked. When he took the horn from his mouth and looked into it, it seemed to him that it had gone down less than the first time; but now the level in the horn was clearly lower."
+   }
+  ],
+  "g-c46-16": [
+   {
+    "t": "p",
+    "s": "Then Útgarda-Loki said: 'What now, Thor? Surely you will not shrink from one more drink than may be good for you? If you now drink a third draught from the horn, it seems to me that this one will have to be reckoned the greatest. But you cannot be called so great a man here among us as the Æsir call you, if you do not give a better account of yourself in the other games than it seems to me you will in this one.'"
+   }
+  ],
+  "g-c46-17": [
+   {
+    "t": "p",
+    "s": "Then Thor grew angry, put the horn to his mouth and drank with all his might, struggling with the drink as hard as he could; and when he looked into the horn, at least some difference had been made. Then he gave up the horn and would drink no more."
+   }
+  ],
+  "g-c46-18": [
+   {
+    "t": "p",
+    "s": "\"Then Útgarda-Loki said: 'Now it is plain that your strength is not as great as we thought. But will you try your hand at more games? It is easy to see that you are gaining nothing from this one.'"
+   }
+  ],
+  "g-c46-19": [
+   {
+    "t": "p",
+    "s": "Thor answered: 'I will try yet other games; but it would have seemed strange to me, when I was at home with the Æsir, if drinks like those had been called so small. But what game will you offer me now?'"
+   }
+  ],
+  "g-c46-20": [
+   {
+    "t": "p",
+    "s": "Then Útgarda-Loki said: 'The young lads here do something that is thought of little account: they lift my cat up off the ground. But I would not have been able to speak of such a thing to Ása-Thor if I had not seen that there is far less in you than I had thought.'"
+   }
+  ],
+  "g-c46-21": [
+   {
+    "t": "p",
+    "s": "Then a grey cat, and a very big one, leapt out onto the floor of the hall. Thor went up to it, put his hand under the middle of its belly and lifted. But the cat arched its back just as far as Thor stretched up his hands; and when Thor had reached up as high as he possibly could, the cat lifted one foot, and Thor could get no further with this game."
+   }
+  ],
+  "g-c46-22": [
+   {
+    "t": "p",
+    "s": "Then Útgarda-Loki said: 'This game went just as I expected. The cat is very big, whereas Thor is short and small beside the huge men we have here with us.'"
+   }
+  ],
+  "g-c46-23": [
+   {
+    "t": "p",
+    "s": "\"Then Thor said: 'Small as you call me, let anyone come up now and wrestle with me; now I am angry.' Then Útgarda-Loki looked around the benches and answered: 'I see no man in here who would not think it a disgrace to wrestle with you.' And yet he said: 'Let us see first. Have the old woman, my nurse Elli, called here, and let Thor wrestle with her if he wants to."
+   }
+  ],
+  "g-c46-25": [
+   {
+    "t": "p",
+    "s": "She has thrown men who seemed to me no less strong than Thor.'"
+   }
+  ],
+  "g-c46-26": [
+   {
+    "t": "p",
+    "s": "At once an old woman, well on in years, came into the hall. Útgarda-Loki said that she was to wrestle with Ása-Thor. There is no need to make a long story of it: the match went in such a way that the harder Thor strained in his grip, the more firmly she stood. Then the old woman tried a hold, and Thor became unsteady on his feet, and they tugged at each other very hard. Yet it was not long before Thor fell to one knee. Then Útgarda-Loki went up and told them to stop wrestling, saying that Thor need not challenge any more men of his bodyguard to wrestle. By then it was getting towards night. Útgarda-Loki showed Thor and his companions to a seat, and they spent the whole night there in good cheer."
+   }
+  ],
+  "g-c47-1": [
+   {
+    "t": "p",
+    "s": "\"But in the morning, as soon as it was light, Thor and his companions got up, dressed and were ready to leave. Then Útgarda-Loki came and had a table laid for them; there was no lack of good cheer, food and drink. As soon as they had eaten, he went out of the castle with them; and as they parted Útgarda-Loki spoke to Thor and asked how he thought his journey had turned out, and whether he had met any man mightier than himself."
+   }
+  ],
+  "g-c47-3": [
+   {
+    "t": "p",
+    "s": "Thor answered that he could not say he had not been greatly shamed in their dealings with each other. 'But I know that you will call me a man of little might, and I am not happy about that.'"
+   }
+  ],
+  "g-c47-4": [
+   {
+    "t": "p",
+    "s": "Then Útgarda-Loki said: 'Now I will tell you the truth, now that you are out of the castle; and if I live and have my way, you will never come into it again. And I know this, on my word: you would never have come into it at all if I had known beforehand that you had so much strength in you, and that you would come so close to bringing us into great danger. But I prepared illusions to deceive your eyes. I met you the first time in the wood, and when you tried to untie the provision bag, I had bound it with iron, and you could not find where to undo it. Next you struck me three blows with the hammer. The first was the lightest, and yet it was so heavy that it would have been enough to kill me if it had landed. Near my hall you saw a saddle-backed mountain, cut at the top into three square valleys, one of them the deepest: those were the marks of your hammer. I put the mountain in the way of the blow, but you did not see that. It was the same with the games in which you competed against my retainers. The first was the one Loki played: he was very hungry and ate eagerly, but the one called Logi was \"wild-fire\", and he burned the trough just as quickly as the meat. And when Thjálfi ran the race against the one called Hugi, that was my \"thought\", and Thjálfi could not be expected to match it for speed."
+   },
+   {
+    "t": "p",
+    "s": "\"Moreover, when you drank from the horn and it seemed to you to go slowly, then, on my word, that was a wonder I would not have believed possible: the other end of the horn was out in the sea, but you did not see it. But now, when you come to the sea, you will be able to see how much you have lowered it by your drinking: from now on that is called \"ebb-tides\".'"
+   }
+  ],
+  "g-c47-5": [
+   {
+    "t": "p",
+    "s": "\"And he said further: 'It seemed to me no less remarkable when you lifted the cat; and to tell you the truth, everyone who saw it was afraid when you lifted one of its feet clear of the ground. That cat was not what it seemed to you: it was the Midgard Serpent, which lies around all the land, and its length is barely enough to encircle the earth with head and tail. You stretched your arms up so high that it was then only a little way further to heaven. The wrestling match was a great marvel too, when you held out so long and fell no further than onto one knee as you wrestled with Elli; for there has never been anyone, and never will be, who, if he grows old enough to meet \"Old Age\", will not be brought down by her. And now the truth is that we must part, and it will be better for both sides if you never come looking for me again. Another time I will defend my castle with tricks like these or with others, so that you will get no power over me.'"
+   },
+   {
+    "t": "p",
+    "s": "\"When Thor heard these words, he gripped his hammer and swung it up; but when he was about to hurl it, Útgarda-Loki was nowhere to be seen."
+   }
+  ],
+  "g-c47-6": [
+   {
+    "t": "p",
+    "s": "Then he turned back towards the castle, meaning to smash it to pieces; and there he saw a wide and beautiful plain, but no castle. So he turned back and went on his way until he came home again to Thrúdvangar. But it is true to say that he then made up his mind to try to bring about a meeting between himself and the Midgard Serpent, as afterwards came to pass. Now I think no one can tell you more truly about this journey of Thor's.\""
+   }
+  ],
+  "g-c48-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"Útgarda-Loki is very mighty, and he deals a great deal in tricks and magic; and his might can be seen in the fact that he had retainers of such great strength. But did Thor ever take revenge for this?\""
+   }
+  ],
+  "g-c48-2": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"It is no secret, even to those who are not scholars, that Thor took satisfaction for the journey that has just been described. He did not stay at home long before he set off again, in such a hurry that he took no chariot, no he-goats and no followers. He went out across Midgard in the form of a young lad, and came one evening at dusk to the home of a giant called Hymir. Thor stayed there as a guest overnight; but at dawn Hymir got up, dressed and got ready to row out to sea to fish. Then Thor sprang up and was quickly ready, and asked Hymir to let him row out to sea with him."
+   }
+  ],
+  "g-c48-3": [
+   {
+    "t": "p",
+    "s": "But Hymir said that Thor would be little help to him, being so small and only a youth. 'And you will freeze, if I stay out as long and as far as I usually do.'"
+   }
+  ],
+  "g-c48-4": [
+   {
+    "t": "p",
+    "s": "But Thor said he would be able to row a long way out from land, since it was not certain that he would be the first to ask to row back. Thor grew so angry with the giant that he was ready to let his hammer crash down on him there and then; but he held himself back, because he meant to try his strength elsewhere. He asked Hymir what they should use for bait, but Hymir told him to get his own bait."
+   }
+  ],
+  "g-c48-5": [
+   {
+    "t": "p",
+    "s": "Then Thor went off to where he saw a herd of oxen that belonged to Hymir. He took the biggest ox, called Himinbrjotr, cut off its head and took it down to the sea. By then Hymir had pushed the boat out."
+   },
+   {
+    "t": "p",
+    "s": "\"Thor went aboard the boat and sat down in the stern seat, took two oars and rowed; and it seemed to Hymir that his rowing made them move fast. Hymir rowed forward in the bow, and the rowing went quickly. Then Hymir said that they had reached the fishing grounds where he usually anchored and fished for flatfish. But Thor said he wanted to row much further, and they put in a sharp spell of rowing. Then Hymir said they had come so far out that it was dangerous to stay any further out, because of the Midgard Serpent. Thor replied that they would row a while longer, and so he did; but Hymir was then very much afraid."
+   }
+  ],
+  "g-c48-6": [
+   {
+    "t": "p",
+    "s": "As soon as Thor had laid the oars aside, he got ready a very strong fishing line, and the hook was no less large and strong. Then Thor put the ox-head on the hook and threw it overboard, and the hook went to the bottom. And it is true to say that Thor then tricked the Midgard Serpent no less than Útgarda-Loki had mocked Thor when he lifted the Serpent up in his hand."
+   },
+   {
+    "t": "p",
+    "s": "\"The Midgard Serpent snapped at the ox-head, and the hook caught in its jaw. When the Serpent felt this, it pulled away so violently that both Thor's fists crashed against the gunwale. Then Thor grew angry and took on his divine strength. He braced his feet so hard that he drove both of them through the boat and planted them on the bottom; then he hauled the Serpent up to the gunwale. And it may be said that no one has seen a truly fearful sight who did not see this: how Thor flashed fiery looks at the Serpent, and the Serpent stared back up at him from below and blew poison. Then, it is said, the giant Hymir turned pale, went yellow and was very much afraid when he saw the Serpent, and how the sea rushed in and out of the boat. At the very moment when Thor gripped his hammer and raised it high, the giant fumbled for his fish knife and hacked through Thor's line at the gunwale, and the Serpent sank back into the sea. Thor hurled his hammer after it, and people say that he struck off its head against the bottom; but I think the truth to tell you is that the Midgard Serpent is still alive and lies in the encircling sea. But Thor swung his fist and struck Hymir on the ear, so that he plunged overboard, and Thor saw the soles of his feet. And Thor waded ashore.\""
+   }
+  ],
+  "g-c49-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"Have any more notable things happened among the Æsir? That was a very great feat of courage that Thor achieved on that journey.\""
+   }
+  ],
+  "g-c49-2": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"Now there are events to tell of that seemed of greater importance to the Æsir. The story begins like this: Baldr the Good had great and dangerous dreams about his life. When he told the Æsir these dreams, they took counsel together and decided to ask for Baldr's safety from every kind of danger. Frigg took oaths to this effect, that Baldr should be spared by fire and water, iron and every kind of metal, stones, earth, trees, sicknesses, beasts, birds, venom and serpents."
+   }
+  ],
+  "g-c49-3": [
+   {
+    "t": "p",
+    "s": "When that had been done and made known, it became a pastime for Baldr and the Æsir that he should stand up at the Thing while all the others shot at him, or struck at him, or threw stones at him. Whatever was done, it did him no harm at all, and everyone thought this a great honour to him."
+   }
+  ],
+  "g-c49-4": [
+   {
+    "t": "p",
+    "s": "\"But when Loki Laufeyarson saw this, he was displeased that Baldr came to no harm. He went to Frigg at Fensalir, in the shape of a woman. Frigg asked whether this woman knew what the Æsir were doing at the Thing. She said that they were all shooting at Baldr, and that he came to no harm."
+   }
+  ],
+  "g-c49-5": [
+   {
+    "t": "p",
+    "s": "Then Frigg said: 'Neither weapons nor trees can hurt Baldr: I have taken oaths from them all.'"
+   }
+  ],
+  "g-c49-6": [
+   {
+    "t": "p",
+    "s": "Then the woman asked: 'Have all things sworn oaths to spare Baldr?' And Frigg answered: 'There is a young shoot of a tree growing alone to the west of Valhall: it is called Mistletoe;"
+   }
+  ],
+  "g-c49-8": [
+   {
+    "t": "p",
+    "s": "I thought it too young to ask an oath of.' At once the woman went away; but Loki took Mistletoe, pulled it up and went to the Thing."
+   },
+   {
+    "t": "p",
+    "s": "\"Hödr was standing outside the ring of men, because he was blind."
+   }
+  ],
+  "g-c49-9": [
+   {
+    "t": "p",
+    "s": "Then Loki said to him: 'Why are you not shooting at Baldr?'"
+   }
+  ],
+  "g-c49-10": [
+   {
+    "t": "p",
+    "s": "He answered: 'Because I cannot see where Baldr is; and also because I have no weapon.'"
+   }
+  ],
+  "g-c49-11": [
+   {
+    "t": "p",
+    "s": "Then Loki said: 'Do as the other men are doing, and show Baldr honour as they do. I will show you where he is standing; shoot at him with this stick.'"
+   }
+  ],
+  "g-c49-12": [
+   {
+    "t": "p",
+    "s": "Hödr took Mistletoe and shot at Baldr, guided by Loki. The shaft flew through Baldr, and he fell dead to the ground; and that was the greatest misfortune that has ever happened among gods and men."
+   }
+  ],
+  "g-c49-13": [
+   {
+    "t": "p",
+    "s": "\"When Baldr had fallen, words failed all the Æsir, and so did their hands when they tried to take hold of him. Each looked at the other, and all were of one mind about who had done the deed, but no one could take vengeance, so sacred a sanctuary was that place. When the Æsir tried to speak, weeping broke out first, so that none of them could tell the others of his grief in words. But Odin took this loss the hardest, because he understood best how great a harm and loss the death of Baldr was to the Æsir."
+   }
+  ],
+  "g-c49-14": [
+   {
+    "t": "p",
+    "s": "\"When the gods had recovered themselves, Frigg spoke, and asked who among the Æsir wished to win all her love and favour: let him ride the road to Hel and see whether he could find Baldr, and offer Hel a ransom if she would let Baldr come home to Ásgard. The one who undertook that mission is called Hermódr the Bold, Odin's son. Then Sleipnir, Odin's horse, was fetched and led forward; Hermódr mounted him and galloped away."
+   }
+  ],
+  "g-c49-15": [
+   {
+    "t": "p",
+    "s": "\"The Æsir took Baldr's body and carried it to the sea. Baldr's ship was called Hringhorni, and it was the greatest of all ships. The gods wanted to launch it and build Baldr's pyre on it, but the ship would not move. Then word was sent to Jötunheim for the giantess who"
+   },
+   {
+    "t": "p",
+    "s": "{p.73}"
+   },
+   {
+    "t": "p",
+    "s": "is called Hyrrokkin. She came riding a wolf, with a viper for a bridle, and leaped down from her mount. Odin called four berserks to look after it, but they could not hold it until they had thrown it to the ground. Then Hyrrokkin went to the prow of the boat and launched it with the first push, so that fire burst from the rollers and all lands shook. Thor grew angry and gripped his hammer, and would have smashed her head there and then, if the gods had not begged for mercy for her."
+   },
+   {
+    "t": "p",
+    "s": "\"Then Baldr's body was carried out onto the ship. When his wife, Nanna the daughter of Nep, saw that, her heart burst with grief at once and she died; she was carried to the pyre, and the fire was lit. Thor stood by and hallowed the pyre with Mjöllnir. A dwarf called Litr ran in front of his feet; Thor kicked him and sent him into the fire, and he was burned. Many kinds of people came to this burning. First to be mentioned is Odin: Frigg and the Valkyries came with him, and his ravens. Freyr drove in his chariot with the boar called Gold-Mane, or Fearful-Tusk; Heimdallr rode the horse called Gold-Top, and Freyja drove her cats. A great crowd of frost giants and hill giants came too. Odin laid on the pyre the gold ring called Draupnir, which had this property, that every ninth night eight gold rings of the same weight dropped from it. Baldr's horse was led to the pyre in all its harness."
+   }
+  ],
+  "g-c49-16": [
+   {
+    "t": "p",
+    "s": "\"Now it must be told of Hermódr that he rode for nine nights through valleys so dark and deep that he could see nothing, until he came to the river Gjöll and rode onto the Gjöll-Bridge, which is roofed with glittering gold."
+   }
+  ],
+  "g-c49-17": [
+   {
+    "t": "p",
+    "s": "The maiden who guards the bridge is called Módgudr. She asked him his name and family, and said that the day before five companies of dead men had ridden over the bridge; 'but the bridge thunders no less under you alone, and you do not have the colour of the dead. Why are you riding here on the road to Hel?' He answered: 'I have been sent to ride to Hel to look for Baldr. Have you by any chance seen Baldr on the road to Hel?'"
+   }
+  ],
+  "g-c49-19": [
+   {
+    "t": "p",
+    "s": "She said that Baldr had ridden there over Gjöll's Bridge, 'but the road to Hel lies downwards and to the north.'"
+   }
+  ],
+  "g-c49-20": [
+   {
+    "t": "p",
+    "s": "\"Then Hermódr rode on until he came to the gates of Hel. He dismounted and tightened his girths, mounted again and dug in his spurs; and the horse leaped so powerfully over the gate that he came nowhere near it. Then Hermódr rode up to the hall, dismounted and went inside, and there he saw his brother Baldr sitting in the high seat; and Hermódr stayed there overnight. In the morning Hermódr begged Hel to let Baldr ride home with him, and told her how much weeping there was among the Æsir."
+   }
+  ],
+  "g-c49-21": [
+   {
+    "t": "p",
+    "s": "But Hel said that this was how it should be tested whether Baldr was as loved by all as had been said: 'If all things in the world, living and dead, weep for him, then he shall go back to the Æsir; but he shall stay with Hel if anyone objects or will not weep.'"
+   }
+  ],
+  "g-c49-22": [
+   {
+    "t": "p",
+    "s": "Then Hermódr stood up, and Baldr led him out of the hall. Baldr took the ring Draupnir and sent it to Odin as a keepsake, and Nanna sent Frigg a linen smock and other gifts besides, and to Fulla a gold finger-ring."
+   },
+   {
+    "t": "p",
+    "s": "\"Then Hermódr rode back the way he had come, arrived in Ásgard and told everything he had seen and heard. After that the Æsir sent messengers all over the world to ask that Baldr be wept out of Hel. Everyone did so: people and living creatures, the earth, the stones, the trees and all metals, just as you must have seen that these things weep when they come out of the frost and into the warmth."
+   }
+  ],
+  "g-c49-23": [
+   {
+    "t": "p",
+    "s": "When the messengers were on their way home, having carried out their errand well, they found a giantess sitting in a cave: she said her name was Thökk. They asked her to weep Baldr out of Hel; she answered:"
+   }
+  ],
+  "g-c49-24": [
+   {
+    "t": "v",
+    "l": [
+     "Thökk will weep | dry tears",
+     "for Baldr's funeral pyre;",
+     "living or dead, | I had no love for the churl's son;",
+     "let Hel keep what she has!"
+    ]
+   }
+  ],
+  "g-c49-25": [
+   {
+    "t": "p",
+    "s": "And people think that the giantess there was Loki Laufeyarson, who has done the most harm among the Æsir.\""
+   }
+  ],
+  "g-c50-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"Loki had certainly brought about a great deal, first by causing Baldr to be killed, and then by causing him not to be ransomed out of Hel. Was any vengeance taken on him for this?\""
+   }
+  ],
+  "g-c50-2": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"He was repaid for it in such a way that he will remember it for a long time. When the gods had become as angry with him as might be expected, he ran away and hid on a certain mountain. There he built a house with four doors, so that he could see out of it in every direction. Often during the day he turned himself into a salmon and hid in the place called Fránangr-Falls; then he would wonder what kind of trick the gods might devise to catch him in the waterfall. As he sat in the house, he took linen twine and knotted it into meshes, the way a net has been made ever since; and a fire was burning in front of him."
+   }
+  ],
+  "g-c50-3": [
+   {
+    "t": "p",
+    "s": "Then he saw that the Æsir were almost upon him; Odin had seen from Hlidskjálf where he was. He leaped up at once and out into the river, but threw the net into the fire."
+   },
+   {
+    "t": "p",
+    "s": "\"When the Æsir reached the house, the first to go in was the wisest of them all, who is called Kvasir. When he saw in the fire the white ash where the net had burned, he realised that this must be a device for catching fish, and told the Æsir so. They set to work at once and made themselves a net, copying the one they could see from the burnt-out ashes that Loki had made. When the net was ready, the Æsir went to the river and cast it into the waterfall. Thor held one end of the net and all the rest of the Æsir held the other, and they dragged it. But Loki darted ahead and lay down between two stones; they drew the net over him, and could tell that something living was in front of it. They went up to the waterfall a second time and cast the net, weighted with something so heavy that nothing could pass under it. Then Loki swam ahead of the net; but when he saw that it was only a short way to the sea, he jumped over the net-rope and made for the waterfall. This time the Æsir saw where he went. They went up to the waterfall again and split their company into two groups, while Thor waded down the middle of the river; and so they went out towards the sea. Now Loki saw that he had two choices: to dash out into the sea was deadly dangerous, and the other was to leap over the net again. That is what he did: he leaped as fast as he could over the net-rope. Thor snatched at him and caught hold of him, and he slipped through Thor's hand until the hand stopped at the tail; and that is why the salmon tapers towards the back."
+   }
+  ],
+  "g-c50-4": [
+   {
+    "t": "p",
+    "s": "\"Now Loki had been caught with no truce to protect him, and he was taken to a certain cave. There they took three flat stones, set them on edge and drilled a hole in each. Then Loki's sons were fetched, Váli and Nari or Narfi. The Æsir changed Váli into a wolf, and he tore his brother Narfi to pieces. The Æsir took Narfi's entrails and bound Loki with them over the three stones: one stands under his shoulders, the second under his loins, the third under the backs of his knees; and those bonds turned to iron. Then Skadi took a poisonous snake and fastened it above him, so that the venom would drip from the snake onto his face. But Sigyn, his wife, stands beside him and holds a basin under the drops of venom. When the basin is full she goes and pours the venom away, and meanwhile the venom drips onto his face. Then he jerks against it so violently that the whole earth shakes: you call that 'earthquakes'. There he lies in bonds until the Doom of the Gods.\""
+   }
+  ],
+  "g-c51-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"What is there to tell about the Doom of the Gods? I have never heard anything said of it before.\""
+   }
+  ],
+  "g-c51-2": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"There is great news to tell of it, and a great deal. The first is that a winter will come which is called the Awful Winter. Snow will drive from every direction; the frosts will be hard and the winds biting; the sun will do no good. Three such winters will follow one another with no summer in between. But before that there will be three other winters, during which there will be great battles all over the world. Brothers will kill each other out of greed, and no one will spare father or son in manslaughter and in incest. As it says in <i>Völuspá</i>:"
+   }
+  ],
+  "g-c51-3": [
+   {
+    "t": "v",
+    "l": [
+     "Brothers will fight | and kill each other;",
+     "sisters' own children | will sin together;",
+     "evil days among men, | and much adultery:",
+     "an axe-age, a sword-age, | shields will be split;",
+     "a wind-age, a wolf-age, | before the world totters."
+    ]
+   }
+  ],
+  "g-c51-4": [
+   {
+    "t": "p",
+    "s": "Then something will happen that will be thought great news: the Wolf will swallow the sun, and people will think this a great disaster. Then the other wolf will seize the moon, and he too will do great damage; the stars will vanish from the sky. Then this also will come about: the whole earth and the cliffs will shake so hard that trees are torn out of the ground and the cliffs come crashing down; and all fetters and bonds will be snapped and torn apart. Then Fenris-Wolf will get loose. The sea will surge up over the land, because the Midgard Serpent is writhing in giant rage and making its way onto the shore. Then this too will happen: Naglfar will be set loose, the ship of that name. (It is made of dead men's nails; so it is worth a warning that if a man dies with his nails uncut, he adds a great deal of material to the ship Naglfar, which gods and men would wish to see finished as late as possible.) But in this flood Naglfar will float. Hrymr is the name of the giant who steers Naglfar. Fenris-Wolf will advance with his mouth gaping, his lower jaw against the earth and his upper jaw against the sky; he would gape wider still if there were room. Fire blazes from his eyes and nostrils. The Midgard Serpent will blow out so much venom that it spatters all the air and the water; he is truly terrible, and he will be on one side of the Wolf. In this uproar the sky will split apart, and the Sons of Múspell will ride out of it. Surtr will ride first, with burning fire both before and behind him. His sword is a very fine one: the light that shines from it is brighter than the sun. When they ride over Bifröst, the bridge will break, as was said before. The Sons of Múspell will go forward to the field called Vígrídr; Fenris-Wolf and the Midgard Serpent will come there too. Loki and Hrymr will also come there, and with Hrymr all the frost giants. All the champions of Hel follow Loki. The Sons of Múspell will form a company by themselves, and it will be very bright. The field Vígrídr is a hundred leagues across in every direction."
+   }
+  ],
+  "g-c51-5": [
+   {
+    "t": "p",
+    "s": "\"When these things come to pass, Heimdallr will stand up and blow the Gjallar-Horn with all his might, and wake all the gods, and they will hold a council together. Then Odin will ride to Mímir's Well and ask Mímir's advice for himself and his army. Then the Ash of Yggdrasill will tremble, and nothing in heaven or on earth will be without fear. The Æsir will put on their armour, and so will all the Champions, and they will advance onto the field. Odin rides first, with his gold helmet, a fine coat of mail and his spear, which is called Gungnir. He will go against Fenris-Wolf, and Thor will advance at his side but will be unable to help him, because he will have his hands full fighting the Midgard Serpent. Freyr will fight Surtr, and it will be a hard struggle between them before Freyr falls: it will be his death that he does not have that good sword of his, which he gave to Skírnir. Then the dog Garmr, who is chained in front of Gnipa's Cave, will be loose: he is the greatest of monsters. He will do battle with Týr, and each will kill the other. Thor will kill the Midgard Serpent and walk nine paces away from the spot; then he will fall dead to the ground, because of the venom the Snake has blown on him. The Wolf will swallow Odin; that will be his end. But straight afterwards Vídarr will stride forward and set one foot on the Wolf's lower jaw. On that foot he wears the shoe for which the material has been gathered through all time. (It is the scraps of leather that people cut from their shoes at the toe or heel; so anyone who has it at heart to come to the help of the Æsir should throw those scraps away.) With one hand he will seize the Wolf's upper jaw and tear his throat apart; and that is the death of the Wolf. Loki will fight Heimdallr, and each will kill the other. Then straight away Surtr will fling fire over the earth and burn the whole world. As it says in <i>Völuspá</i>:"
+   }
+  ],
+  "g-c51-6": [
+   {
+    "t": "v",
+    "l": [
+     "Heimdallr blows loudly, | the horn is raised high;",
+     "Odin speaks | with Mimir's head;",
+     "the towering Ash | of Yggdrasill trembles;",
+     "the old tree groans | when the giant breaks loose."
+    ]
+   }
+  ],
+  "g-c51-7": [
+   {
+    "t": "v",
+    "l": [
+     "What of the Æsir? | What of the elves?",
+     "All Jötunheim echoes, | the Æsir are in council;",
+     "the dwarves are groaning | before their doors of stone,",
+     "those who know the rock walls; | do you know yet, or what?"
+    ]
+   }
+  ],
+  "g-c51-8": [
+   {
+    "t": "v",
+    "l": [
+     "Hrymr sails from the east, | the sea surges onward;",
+     "the monstrous Beast | twists in mighty rage;",
+     "the Snake beats the waves, | the Eagle is screaming;",
+     "the golden-beaked one tears corpses, | Naglfar breaks loose."
+    ]
+   }
+  ],
+  "g-c51-9": [
+   {
+    "t": "v",
+    "l": [
+     "From the east sails the ship; | Múspell's people are coming",
+     "over the waves of the sea, | and Loki steers;",
+     "there are the wizards, | all with the Wolf;",
+     "with them travels | the brother of Býleistr."
+    ]
+   }
+  ],
+  "g-c51-10": [
+   {
+    "t": "v",
+    "l": [
+     "Surtr comes from the south | with the flame that devours branches;",
+     "from his sword shines | the sun of the gods of war;",
+     "the rocks are falling, | and the fiends stagger,",
+     "men tread the road to Hel, | heaven splits apart."
+    ]
+   }
+  ],
+  "g-c51-11": [
+   {
+    "t": "v",
+    "l": [
+     "Then a second grief | comes to the Goddess,",
+     "when Odin goes | to fight with the Wolf,",
+     "and Beli's slayer, | the bright god, against Surtr;",
+     "there Frigg's beloved | must fall."
+    ]
+   }
+  ],
+  "g-c51-12": [
+   {
+    "t": "v",
+    "l": [
+     "Odin's son goes | to do battle with the Wolf:",
+     "Vídarr, hurrying | to meet the beast of slaughter;",
+     "with his hand he drives | the sword to the heart",
+     "of the fiend's offspring; his father is avenged."
+    ]
+   }
+  ],
+  "g-c51-13": [
+   {
+    "t": "v",
+    "l": [
+     "Now Hlödyn's | glorious son goes,",
+     "not fleeing from the Serpent, | heedless of fear;",
+     "all the children of earth | must leave their homesteads empty,",
+     "when Midgard's defender | strikes in fury."
+    ]
+   }
+  ],
+  "g-c51-14": [
+   {
+    "t": "v",
+    "l": [
+     "The sun will grow dark, | the earth sinks into the sea,",
+     "the glittering stars | slip from the sky;",
+     "reeking smoke rages | and reddening fire:",
+     "the high heat licks | against heaven itself."
+    ]
+   }
+  ],
+  "g-c51-15": [
+   {
+    "t": "p",
+    "s": "And here it says further:"
+   }
+  ],
+  "g-c51-16": [
+   {
+    "t": "v",
+    "l": [
+     "Vígrídr is the name of the field | where they will meet in battle,",
+     "Surtr and the beloved gods;",
+     "a hundred leagues | it measures on each side:",
+     "that field is fated for them.\""
+    ]
+   }
+  ],
+  "g-c52-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"What will happen afterwards, when the whole world is burned, and all the gods are dead, and all the champions and all mankind? Have you not said before that everyone will live in some world through all ages?\""
+   }
+  ],
+  "g-c52-2": [
+   {
+    "t": "p",
+    "s": "Then Thridi answered: \"At that time there will be many good places to live, and many bad ones. The best place to be then will be Gimlé in Heaven. There is also plenty of good drink, for those who take pleasure in that, in the hall called Brimir, which stands in Ókólnir. There is another good hall which stands in Nida Fells, made of red gold; its name is Sindri. In these halls good and pure-hearted people will live."
+   },
+   {
+    "t": "p",
+    "s": "\"On Nástrand there is a great and evil hall, and its doors face north. It is woven entirely of serpents' backs, like a house of wattle, and all the snakes' heads turn inwards and spit venom, so that rivers of venom run along the hall. Those who have broken oaths, and murderers, wade through those rivers, as it says here:"
+   }
+  ],
+  "g-c52-3": [
+   {
+    "t": "v",
+    "l": [
+     "I know a hall that stands | far from the sun,",
+     "in Nástrand; its doors | face towards the north;",
+     "drops of venom fall | down through the roof-holes;",
+     "that hall is bordered | with the backs of serpents."
+    ]
+   }
+  ],
+  "g-c52-4": [
+   {
+    "t": "v",
+    "l": [
+     "There are doomed to wade | the swirling streams",
+     "men who have sworn falsely, | and those who are murderers."
+    ]
+   }
+  ],
+  "g-c52-5": [
+   {
+    "t": "p",
+    "s": "But it is worst in Hvergelmir:"
+   }
+  ],
+  "g-c52-6": [
+   {
+    "t": "p",
+    "s": "There the cursed snake | tears the corpses of dead men.\""
+   }
+  ],
+  "g-c53-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri said: \"Will any of the gods be alive then? Will there be any earth or heaven?\""
+   }
+  ],
+  "g-c53-2": [
+   {
+    "t": "p",
+    "s": "Hárr answered: \"At that time the earth will rise out of the sea, and it will be green and beautiful; its crops will grow without being sown. Vídarr and Váli will be alive, since neither the sea nor the fire of Surtr will have harmed them, and they will live at Ida-Plain, where Ásgard was before. Then the sons of Thor, Módi and Magni, will come there, and they will have Mjöllnir with them. After that Baldr and Hödr will come there from Hel. Then they will all sit down together and talk with one another, and call to mind their secret wisdom, and speak of the things that happened before: of the Midgard Serpent and of Fenris-Wolf. Then they will find in the grass the golden chess pieces that had belonged to the Æsir. As it is said:"
+   }
+  ],
+  "g-c53-3": [
+   {
+    "t": "v",
+    "l": [
+     "In the shrines of the gods | Vídarr and Váli will live,",
+     "when the Fire of Surtr has died down;",
+     "Módi and Magni | will have Mjöllnir",
+     "when Thor's fighting is over."
+    ]
+   }
+  ],
+  "g-c53-4": [
+   {
+    "t": "p",
+    "s": "In the place called Hoddmímir's Holt two human beings, called Líf and Lífthrasir, will lie hidden during the Fire of Surtr, and for food they will have the morning dew. From these two will come so many descendants that the whole world will be peopled, as it says here:"
+   }
+  ],
+  "g-c53-5": [
+   {
+    "t": "v",
+    "l": [
+     "Líf and Lífthrasir | will lie hidden",
+     "in the Holt of Hoddmímir;",
+     "the morning dews | will be their food;",
+     "from them the generations are born."
+    ]
+   }
+  ],
+  "g-c53-6": [
+   {
+    "t": "p",
+    "s": "And it may seem strange to you that the sun will have borne a daughter no less beautiful than herself, and the daughter will then follow in her mother's footsteps, as it says here:"
+   }
+  ],
+  "g-c53-7": [
+   {
+    "t": "v",
+    "l": [
+     "The Elf-beam | will bear a daughter",
+     "before Fenris drags her away;",
+     "that girl will go, | when the great gods die,",
+     "riding her mother's road."
+    ]
+   }
+  ],
+  "g-c53-8": [
+   {
+    "t": "p",
+    "s": "But now, if you are able to ask any further, I do not know where your answer will come from, for I have never heard anyone tell the course of the world at greater length. Now make what use you can of what you have heard.\""
+   }
+  ],
+  "g-c54-1": [
+   {
+    "t": "p",
+    "s": "Then Gangleri heard great noises on every side of him; and when he had looked around him more, he found himself standing out of doors on a level plain, and he saw no hall there and no stronghold. Then he went on his way and came home to his kingdom, and told what he had seen and heard; and after him each person told these stories to the next."
+   },
+   {
+    "t": "p",
+    "s": "[<i>Here Wilken closes his edition; Jónsson admits the following: </i>"
+   }
+  ],
+  "g-c54-2": [
+   {
+    "t": "p",
+    "s": "But the Æsir sat down to talk together, took counsel and recalled all these stories that had been told to him. And they gave the same names that were mentioned before to the people and places that were there, so that when long ages had passed, no one would doubt that the Æsir who were spoken of just now, and those to whom the same names were then given, were all one and the same. Thor was so named there, and he is the old Ása-Thor."
+   },
+   {
+    "t": "p",
+    "s": "<i>All reject what follows: </i>"
+   },
+   {
+    "t": "p",
+    "s": "He is Öku-Thor, and to him are ascribed the mighty deeds that Hector performed in Troy. But people believe this: that the Turks told of Ulysses and called him Loki, for the Turks were his greatest enemies.]"
+   }
+  ]
+ }
+}

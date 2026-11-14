@@ -41,6 +41,12 @@
        "t": "p",
        "s": "Thor journeying from the eastern parts came to a strait or sound, on the other side of which was a ferryman with his boat. Thor cried out:—"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Thor was on his way back from a journey in the East, and came to a strait; on the other side of the strait was a ferryman with a boat. Thor called out:"
+      }
      ]
     },
     {
@@ -85,6 +91,15 @@
       {
        "t": "p",
        "s": "Who is the knave of knaves, that by the sound stands yonder?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "\"Who is that fellow over there, | on the far shore of the strait?\""
+       ]
       }
      ]
     },
@@ -146,6 +161,16 @@
       {
        "t": "p",
        "s": "Who is the churl of churls, that cries across the water?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "The ferryman said:",
+        "\"What kind of peasant is that, | calling across the bay?\""
+       ]
       }
      ]
     },
@@ -223,6 +248,19 @@
        "t": "p",
        "s": "Ferry me across the sound, to-morrow I'll regale thee. I have a basket on my back: there is no better food: at my ease I ate, before I quitted home, herrings and oats, with which I yet feel sated."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Thor said:",
+        "\"Ferry me over the strait; | I will feed you for it in the morning;",
+        "I have a basket on my back, | and food in it, none better;",
+        "I ate at leisure, | before I left the house,",
+        "herrings and porridge, | so I had plenty.\""
+       ]
+      }
      ]
     },
     {
@@ -291,6 +329,17 @@
        "t": "p",
        "s": "Thou art in haste to praise thy meal: thou surely hast no foreknowledge; for sad will be thy home: thy mother, I believe, is dead."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "The ferryman said:",
+        "\"You are proud of your morning feats, | but you do not wholly know the future;",
+        "your homecoming is sorrowful: | your mother, I think, is dead.\""
+       ]
+      }
      ]
     },
     {
@@ -356,6 +405,17 @@
       {
        "t": "p",
        "s": "Thou sayest now what seems to every one most unwelcome to know—that my mother is dead."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Thor said:",
+        "\"Now you have said | what must seem to everyone",
+        "the greatest grief, | that my mother is dead.\""
+       ]
       }
      ]
     },
@@ -426,6 +486,18 @@
        "t": "p",
        "s": "Thou dost not look like one who owns three country dwellings, bare-legged thou standest, and like a beggar clothed; thou hast not even breeches."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "The ferryman said:",
+        "\"Three good dwellings, | I think, you do not have;",
+        "you stand barefoot, | and wear a beggar's clothes;",
+        "you do not even have breeches.\""
+       ]
+      }
      ]
     },
     {
@@ -491,6 +563,17 @@
       {
        "t": "p",
        "s": "Steer hitherward thy boat; I will direct thee where to land. But who owns this skiff, which by the strand thou holdest?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Thor said:",
+        "\"Steer the boat over here; | I will show you the landing place;",
+        "but whose is the craft | that you keep on the shore?\""
+       ]
       }
      ]
     },
@@ -573,6 +656,20 @@
        "t": "p",
        "s": "Hildolf he is named who bade me hold it, a man in council wise, who dwells in Radso sound. Robbers he bade me not to ferry, or horse-stealers, but good men only, and those whom I well knew. Tell me then thy name, if thou wilt cross the sound."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "The ferryman said:",
+        "\"Hildolf is the one | who told me to keep it,",
+        "a wise hero; | his home is at Rathsey's strait.",
+        "He told me to ferry no robbers, | nor horse thieves,",
+        "but worthy men, | and those I know well.",
+        "Now say your name, | if you want to cross the strait.\""
+       ]
+      }
      ]
     },
     {
@@ -654,6 +751,20 @@
        "t": "p",
        "s": "I my name will tell, (although I am an outlaw) and all my kin: I am Odin's son, Meili's brother, and Magni's sire, the gods' mighty leader: With Thor thou here mayest speak. I will now ask how thou art called."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Thor said:",
+        "\"I will indeed tell my name, | though I am in danger,",
+        "and all my race; | I am Othin's son,",
+        "Meili's brother, | and Magni's father,",
+        "the strong one of the gods; | you can now have speech with Thor.",
+        "And now I would like to know | what your name is.\""
+       ]
+      }
      ]
     },
     {
@@ -715,6 +826,16 @@
        "t": "p",
        "s": "I am Harbard called; seldom I my name conceal."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "The ferryman said:",
+        "\"I am Harbarth, | and I seldom hide my name.\""
+       ]
+      }
      ]
     },
     {
@@ -775,6 +896,16 @@
       {
        "t": "p",
        "s": "Why shouldst thou thy name conceal, unless thou crime hast perpetrated?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Thor said:",
+        "\"Why should you hide your name, | if you have no quarrel?\""
+       ]
       }
      ]
     },
@@ -842,6 +973,18 @@
       {
        "t": "p",
        "s": "Yet, though I may crime have perpetrated, I will nathless guard my life against such as thou art; unless I death-doomed am."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Harbarth said:",
+        "\"And even if I had a quarrel, | from such as you",
+        "I would guard my life | none the less,",
+        "unless I am doomed to die.\""
+       ]
       }
      ]
     },
@@ -919,6 +1062,19 @@
        "t": "p",
        "s": "It seems to me a foul annoyance to wade across the strait to thee, and wet my garments: but I will pay thee, mannikin! for thy sharp speeches, if o'er the sound I come."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Thor said:",
+        "\"It would be great trouble, I think, | to come to you,",
+        "to wade across the waters, | and wet my middle;",
+        "weakling, I shall pay you well | for your mocking words,",
+        "if I come across the strait.\""
+       ]
+      }
      ]
     },
     {
@@ -984,6 +1140,17 @@
       {
        "t": "p",
        "s": "Here will I stand, and here await thee. Thou wilt have found no stouter one since Hrungnir's death."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Harbarth said:",
+        "\"Here I shall stand | and wait for you here;",
+        "since Hrungnir died you have found | no fiercer man.\""
+       ]
       }
      ]
     },
@@ -1058,6 +1225,19 @@
       {
        "t": "p",
        "s": "Thou now remindest me how I with Hrungnir fought, that stout-hearted Jotun, whose head was all of stone; yet I made him fall, and sink before me. What meanwhile didst thou, Harbard?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Thor said:",
+        "\"You are eager to tell | how I fought with Hrungnir,",
+        "the haughty giant, | whose head was made of stone;",
+        "and yet I felled him, | and laid him out before me.",
+        "What were you doing meanwhile, Harbarth?\""
+       ]
       }
      ]
     },
@@ -1135,6 +1315,19 @@
        "t": "p",
        "s": "I was with Fiolvari five winters through, in the isle which Algron hight. There we could fight, and slaughter make, many perils prove, indulge in love."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Harbarth said:",
+        "\"Five full winters | I was with Fjolvar,",
+        "and lived on the island | that is called Algrön;",
+        "there we could fight, | and cut down the slain,",
+        "we could try for much, | and master girls.\""
+       ]
+      }
      ]
     },
     {
@@ -1193,6 +1386,16 @@
       {
        "t": "p",
        "s": "How did your women prove towards you?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Thor said:",
+        "\"How did you succeed with your women?\""
+       ]
       }
      ]
     },
@@ -1284,6 +1487,23 @@
        "t": "p",
        "s": "Sprightly women we had, had they but been meek; shrewd ones we had, had they but been kind. Of sand a rope they twisted, and from the deep valley dug the earth: to them all I alone was superior in cunning. I rested with the sisters seven, and their love and pleasures shared. What meanwhile didst thou, Thor?"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Harbarth said:",
+        "\"Lively women we had, | if they were wise for us;",
+        "wise were the women we had, | if they were kind to us;",
+        "for they would try to wind | ropes of sand,",
+        "and to dig the bottom | out of the deepest valley.",
+        "I was wiser than all | in counsel,",
+        "and there I slept | by the seven sisters,",
+        "and I had great joy | from each of them.",
+        "What were you doing meanwhile, Thor?\""
+       ]
+      }
      ]
     },
     {
@@ -1364,6 +1584,21 @@
        "t": "p",
        "s": "I slew Thiassi, that stout-hearted Jotun: up I cast the eyes of Allvaldi's son into the heaven serene: they are signs the greatest of my deeds. What meanwhile didst thou, Harbard?"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Thor said:",
+        "\"I felled Thjazi, | the fierce giant,",
+        "and I hurled the eyes | of Alvaldi's son",
+        "to the hot heavens above;",
+        "these are the mightiest | marks of my deeds,",
+        "that all men since can see.",
+        "What were you doing meanwhile, Harbarth?\""
+       ]
+      }
      ]
     },
     {
@@ -1439,6 +1674,20 @@
        "t": "p",
        "s": "Great seductive arts I used against the riders of the night, when from their husbands I enticed them. A mighty Jotun I believed Hlebard to be: a magic wand he gave me, but from his wits I charmed him."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Harbarth said:",
+        "\"I worked much love-craft | with those who ride by night,",
+        "when I stole them by stealth from their husbands;",
+        "Hlebarth, I think, | was a hard giant:",
+        "he gave me his wand as a gift,",
+        "and I stole his wits away.\""
+       ]
+      }
      ]
     },
     {
@@ -1499,6 +1748,16 @@
       {
        "t": "p",
        "s": "With evil mind then thou didst good gifts requite."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Thor said:",
+        "\"You repaid good gifts with an evil mind.\""
+       ]
       }
      ]
     },
@@ -1566,6 +1825,18 @@
       {
        "t": "p",
        "s": "One tree gets that which is f rom another scraped: each one in such case is for self. What meanwhile didst thou, Thor?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Harbarth said:",
+        "\"The oak must have | what it shaves from another;",
+        "in such things it is each for himself.",
+        "What were you doing meanwhile, Thor?\""
+       ]
       }
      ]
     },
@@ -1646,6 +1917,20 @@
        "t": "p",
        "s": "In the east I was, and slew the Jotun brides, crafty in evil, as they to the mountain went. Great would have been the Jotun race, had they all lived; and not a man left in Midgard. What meanwhile didst thou, Harbard?"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Thor said:",
+        "\"I went eastward, | and of the giants I felled",
+        "their evil-working women | who went to the mountain;",
+        "the giants' throng would be large | if all were alive;",
+        "there would be no men | in Mithgarth any more.",
+        "What were you doing meanwhile, Harbarth?\""
+       ]
+      }
      ]
     },
     {
@@ -1720,6 +2005,19 @@
        "t": "p",
        "s": "I was in Valland, and followed warfare; princes I excited, but never reconciled. Odin has all the jarls that in conflict fall; but Thor the race of thralls."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Harbarth said:",
+        "\"I was in Valland, | and I stirred up wars,",
+        "I angered princes, | and never brought peace;",
+        "Othin has the nobles | who fall in the fight,",
+        "and Thor has the race of slaves.\""
+       ]
+      }
      ]
     },
     {
@@ -1783,6 +2081,17 @@
       {
        "t": "p",
        "s": "Unequally thou wouldst divide the folk among the Æsir, if thou but hadst the power."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Thor said:",
+        "\"You would give the gods | unequal gifts of men,",
+        "if you should have too much might.\""
+       ]
       }
      ]
     },
@@ -1863,6 +2172,20 @@
        "t": "p",
        "s": "Thor has strength overmuch, but courage none; from cowardice and fear, thou wast crammed into a glove, and hardly thoughtest thou wast Thor. Thou durst not then, through thy terror, either sneeze or cough, lest Fialar it might hear."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Harbarth said:",
+        "\"Thor has might enough, | but never a heart;",
+        "in cowardly fear | you were glad to crawl into a glove,",
+        "and there forgot you were Thor;",
+        "you were afraid there, | such was your fear,",
+        "to fart or sneeze | in case Fjalar should hear.\""
+       ]
+      }
      ]
     },
     {
@@ -1927,6 +2250,17 @@
        "t": "p",
        "s": "Harbard, thou wretch! I would strike thee dead, could I but stretch my arm across the sound."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Thor said:",
+        "\"You womanish Harbarth, | I would strike you straight to hell,",
+        "if my arm could reach across the strait.\""
+       ]
+      }
      ]
     },
     {
@@ -1990,6 +2324,17 @@
       {
        "t": "p",
        "s": "Why wouldst thou stretch thy arm across the sound, when there is altogether no offence? But what didst thou, Thor?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Harbarth said:",
+        "\"Why reach across the strait, | since there is no strife between us?",
+        "What did you do then, Thor?\""
+       ]
       }
      ]
     },
@@ -2070,6 +2415,20 @@
        "t": "p",
        "s": "In the east I was, and a river I defended, when the sons of Svarang me assailed, and with stones pelted me, though in their success they little joyed: they were the first to sue for peace. What meanwhile didst thou, Harbard?"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Thor said:",
+        "\"I was in the east, | and I guarded the river well,",
+        "where the sons of Svarang | sought me out;",
+        "they hurled stones; | they had small joy of winning;",
+        "they came before me there | to ask for peace.",
+        "What were you doing meanwhile, Harbarth?\""
+       ]
+      }
      ]
     },
     {
@@ -2141,6 +2500,18 @@
        "t": "p",
        "s": "I was in the east, and with a certain lass held converse; with that fair I dallied, and long meetings had. I that gold-bright one delighted; the game amused her."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Harbarth said:",
+        "\"I was in the east, | and spoke with a certain one,",
+        "I played with the linen-white girl, | and met her in secret;",
+        "I gladdened the gold-decked one, | and she granted me joy.\""
+       ]
+      }
      ]
     },
     {
@@ -2199,6 +2570,16 @@
       {
        "t": "p",
        "s": "Then you had kind damsels there?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Thor said:",
+        "\"Your woman-finding was fair indeed.\""
+       ]
       }
      ]
     },
@@ -2263,6 +2644,16 @@
        "t": "p",
        "s": "Of thy aid I had need, Thor! in retaining that maiden lily-fair."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Harbarth said:",
+        "\"I needed your help then, Thor, | to hold the white girl fast.\""
+       ]
+      }
      ]
     },
     {
@@ -2323,6 +2714,16 @@
       {
        "t": "p",
        "s": "I would have given it thee, if I had had the opportunity."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Thor said:",
+        "\"Gladly, had I been there, | I would have given you my help.\""
+       ]
       }
      ]
     },
@@ -2385,6 +2786,16 @@
        "t": "p",
        "s": "I would have trusted thee, my confidence if thou hadst not betrayed it."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Harbarth said:",
+        "\"I might have trusted you then, | if you were not one to betray your pledge.\""
+       ]
+      }
      ]
     },
     {
@@ -2446,6 +2857,16 @@
        "t": "p",
        "s": "I am not such a heel-chafer as an old leather shoe in spring."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Thor said:",
+        "\"I am no heel-biter, truly, | like an old leather shoe in spring.\""
+       ]
+      }
      ]
     },
     {
@@ -2504,6 +2925,16 @@
       {
        "t": "p",
        "s": "What meanwhile didst thou, Thor?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Harbarth said:",
+        "\"What were you doing meanwhile, Thor?\""
+       ]
       }
      ]
     },
@@ -2571,6 +3002,17 @@
        "t": "p",
        "s": "The Berserkers' brides I on Læsso cudgeled; they the worst had perpetrated, the whole people had seduced."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Thor said:",
+        "\"In Hlesey I killed | the brides of the Berserkers;",
+        "they were most evil, | and they betrayed everyone.\""
+       ]
+      }
      ]
     },
     {
@@ -2631,6 +3073,16 @@
       {
        "t": "p",
        "s": "Dastardly didst thou act, Thor! when thou didst cudgel women."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Harbarth said:",
+        "\"You won shame, | killing women, Thor.\""
+       ]
       }
      ]
     },
@@ -2706,6 +3158,19 @@
        "t": "p",
        "s": "She-wolves they were, and scarcely women. They crushed my ship, which with props I had secured, with iron clubs threatened me, and drove away Thialfi. What meanwhile didst thou, Harbard?"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Thor said:",
+        "\"They were like she-wolves, | and little like women;",
+        "they shook my ship, | which I had trimmed well;",
+        "they threatened with iron clubs, | and drove Thjalfi off.",
+        "What were you doing meanwhile, Harbarth?\""
+       ]
+      }
      ]
     },
     {
@@ -2772,6 +3237,17 @@
        "t": "p",
        "s": "I in the army was, which was hither sent, war-banners to raise, lances to redden."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Harbarth said:",
+        "\"I was in the host | that came this way,",
+        "to raise the banners, | and to redden the spear.\""
+       ]
+      }
      ]
     },
     {
@@ -2832,6 +3308,16 @@
       {
        "t": "p",
        "s": "Of that thou now wilt speak, as thou wentest forth us hard terms to offer."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "Thor said:",
+        "\"Will you now say | that you sought to bring us hatred?\""
+       ]
       }
      ]
     },
@@ -2899,6 +3385,17 @@
        "t": "p",
        "s": "That shall be indemnified by a hand-ring, such as arbitrators give, who wish to reconcile us."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "Harbarth said:",
+        "\"A ring for your hand | shall make all right for you,",
+        "as the judge decides | who makes peace between us two.\""
+       ]
+      }
      ]
     },
     {
@@ -2965,6 +3462,17 @@
        "t": "p",
        "s": "Where didst thou learn words than which I never heard more irritating?"
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "Thor said:",
+        "\"Where did you find | so foul and scornful a speech?",
+        "A fouler speech | I have never heard before.\""
+       ]
+      }
      ]
     },
     {
@@ -3029,6 +3537,17 @@
        "t": "p",
        "s": "From men I learned them, from ancient men, whose home is in the woods."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "Harbarth said:",
+        "\"I learned it from men, | the men so old,",
+        "who live in the hills of home.\""
+       ]
+      }
      ]
     },
     {
@@ -3091,6 +3610,17 @@
        "t": "p",
        "s": "Thou givest certainly a good name to grave-mounds, when thou callest them homes in the woods."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "Thor said:",
+        "\"You give a very good name | to heaps of stones",
+        "when you call them hills of home.\""
+       ]
+      }
      ]
     },
     {
@@ -3149,6 +3679,16 @@
       {
        "t": "p",
        "s": "So speak I of such a subject."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "Harbarth said:",
+        "\"That is how I speak of such things.\""
+       ]
       }
      ]
     },
@@ -3222,6 +3762,19 @@
        "t": "p",
        "s": "Thy shrewd words will bring thee evil, if I resolve the sound to ford. Louder than a wolf thou wilt howl, I trow, if of my hammer thou gettest a touch."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "Thor said:",
+        "\"Your sharpness of tongue | will bring you ill,",
+        "if I choose to wade the water;",
+        "louder, I think, | than a wolf you will cry,",
+        "if you get a blow of my hammer.\""
+       ]
+      }
      ]
     },
     {
@@ -3287,6 +3840,17 @@
       {
        "t": "p",
        "s": "Sif has a gallant at home; thou wilt anxious be to find him: thou shalt that arduous work perform; it will beseem thee better."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "Harbarth said:",
+        "\"Sif has a lover at home, | and you should meet him;",
+        "it would be more fitting | to use your strength on him.\""
+       ]
       }
      ]
     },
@@ -3354,6 +3918,17 @@
        "t": "p",
        "s": "Thou utterest what comes upmost, so that to me it be most annoying, thou dastardly varlet! I believe thou art lying."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "Thor said:",
+        "\"Your tongue still makes you say | what seems worst to me,",
+        "you witless man! You are lying, I think.\""
+       ]
+      }
      ]
     },
     {
@@ -3420,6 +3995,17 @@
        "t": "p",
        "s": "I believe I am telling truth. Thou art travelling slowly; thou wouldst have long since arrived, hadst thou assumed another form."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "Harbarth said:",
+        "\"I speak the truth, | but you are slow on your way;",
+        "you would have gone far | if you had now travelled in the boat.\""
+       ]
+      }
      ]
     },
     {
@@ -3480,6 +4066,16 @@
       {
        "t": "p",
        "s": "Harbard! thou wretch! rather is it thou who hast detained me."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "Thor said:",
+        "\"You womanish Harbarth! | you have held me here too long.\""
+       ]
       }
      ]
     },
@@ -3544,6 +4140,17 @@
       {
        "t": "p",
        "s": "I never thought that a ferryman could the course of Asa-Thor retard."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "Harbarth said:",
+        "\"I never thought | that Asathor would be hindered",
+        "from his journey like this by a ferryman.\""
+       ]
       }
      ]
     },
@@ -3611,6 +4218,17 @@
        "t": "p",
        "s": "One advice I now will give thee: row hither with thy boat; let us cease from threats; approach the sire of Magni."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "Thor said:",
+        "\"One piece of advice I give you now: | row your boat over here;",
+        "no more mockery; | take Magni's father across.\""
+       ]
+      }
      ]
     },
     {
@@ -3672,6 +4290,16 @@
        "t": "p",
        "s": "Go farther from the sound, the passage is refused thee."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "Harbarth said:",
+        "\"Go away from the strait; | the passage is not yours.\""
+       ]
+      }
      ]
     },
     {
@@ -3732,6 +4360,16 @@
       {
        "t": "p",
        "s": "Show me then the way, if thou wilt not ferry me across the water."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "Thor said:",
+        "\"Then show me the way, | since you will not take me over the water.\""
+       ]
       }
      ]
     },
@@ -3814,6 +4452,20 @@
        "t": "p",
        "s": "That's too little to refuse. 'Tis far to go; 'tis to the stock an hour, and to the stone another; then keep the left hand way, until thou reachest Verland; there will Fiorgyn find her son Thor, and point out to him his kinsmen's ways to Odin's land."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 56,
+       "l": [
+        "Harbarth said:",
+        "\"To refuse it is little, | to travel it is long;",
+        "a while to the stock, | and a while to the stone;",
+        "then the road to your left, | till you reach Verland;",
+        "and there Fjorgyn | shall find her son Thor,",
+        "and she will show him the road of her children | to Othin's realm.\""
+       ]
+      }
      ]
     },
     {
@@ -3872,6 +4524,16 @@
       {
        "t": "p",
        "s": "Can I get there to-day?"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 57,
+       "l": [
+        "Thor said:",
+        "\"Can I get that far in a day?\""
+       ]
       }
      ]
     },
@@ -3936,6 +4598,17 @@
       {
        "t": "p",
        "s": "With pain and toil thou mayest get there, while the sun is up, which, I believe, is now nigh."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 58,
+       "l": [
+        "Harbarth said:",
+        "\"With toil and trouble, perhaps,",
+        "while the sun still shines, | or so I think.\""
+       ]
       }
      ]
     },
@@ -4003,6 +4676,17 @@
        "t": "p",
        "s": "Our talk shall now be short, as thou answerest with scoffing only. For refusing to ferry me I will reward thee, if another time we meet."
       }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 59,
+       "l": [
+        "Thor said:",
+        "\"Our talk shall now be short, | for you speak only in mockery;",
+        "I shall pay you for the passage you refused me | if ever we meet.\""
+       ]
+      }
      ]
     },
     {
@@ -4063,6 +4747,16 @@
       {
        "t": "p",
        "s": "Just go to where all the powers of evil may have thee."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 60,
+       "l": [
+        "Harbarth said:",
+        "\"Be off to where every evil thing shall have you!\""
+       ]
       }
      ]
     }
