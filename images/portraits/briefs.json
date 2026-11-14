@@ -25,7 +25,7 @@
    "seen from the front, whole",
    "seen from slightly below, whole",
    "closer, on the most telling part",
-   "whole, in evening light"
+   "whole, from a little further away"
   ],
   "thing": [
    "seen from the front",
@@ -235,7 +235,7 @@
   },
   "sleipnir": {
    "kind": "animal",
-   "subject": "Sleipnir: a grey horse, the eight legs clearly countable."
+   "subject": "Sleipnir: Óðinn's grey horse with EIGHT legs: four pairs of legs, each pair side by side, all eight hooves clearly visible and countable, in side view. No rider."
   },
   "nidhoggr": {
    "kind": "animal",
@@ -738,7 +738,7 @@
   },
   "narfi": {
    "kind": "person",
-   "subject": "Narfi: a dark giant under a black sky, his skin and hair black as night."
+   "subject": "Narfi: a giant of the dark, his cloak and long hair the night sky itself, with stars in them; his face pale and grey in the starlight; not a human skin colour."
   },
   "rindr": {
    "kind": "person",
@@ -751,7 +751,7 @@
   },
   "surtr": {
    "kind": "person",
-   "subject": "Surtr: a black fire giant at the border of a burning land, a flaming sword brighter than the sun held up.",
+   "subject": "Surtr: a towering fire giant whose body is black, charred rock with glowing cracks of ember, like cooling lava, holding up a flaming sword brighter than the sun; not a human skin colour, a being of fire and soot.",
    "length": "three-quarter"
   },
   "suttungr": {
@@ -869,7 +869,7 @@
   },
   "vanir": {
    "kind": "person",
-   "subject": "One of the Vanir: a peaceful god of sea and harvest, ears of corn in one hand, the other on a great vat."
+   "subject": "One of the Vanir: a peaceful god of sea and harvest, ears of barley (not maize, not corn cobs) in one hand, the other on a great vat."
   },
   "muspell-sons": {
    "kind": "person",
@@ -951,7 +951,7 @@
   },
   "rati": {
    "kind": "thing",
-   "subject": "Rati: a long auger boring into a rock face, stone dust flying."
+   "subject": "Rati: a long iron auger lying against a rock face into which it has bored a small hole, stone dust beside it. No hand, no person."
   },
   "ridill": {
    "kind": "thing",
