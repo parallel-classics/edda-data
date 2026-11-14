@@ -18,9 +18,10 @@
    "label_is": "Enska · nútímaleg",
    "short": "modern (Open Edda)",
    "source": "oe-modern-brodeur",
-   "rows": 54,
+   "rows": 352,
    "parts": [
-    "g"
+    "g",
+    "p"
    ]
   },
   "en-thorpe": {
