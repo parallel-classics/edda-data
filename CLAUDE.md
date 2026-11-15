@@ -49,6 +49,12 @@ docs/STATUS.md        current status table + known issues;  docs/ROADMAP.md  pha
 - Overlay files are grouped per part and origin, e.g. `overlays/en/hattatal-ai-draft.json`,
   `overlays/is/skaldskaparmal.json`. One record per (row, cell) edit; verse lines separated by `\n`.
 - Commit messages name the row ids touched when there are few, the part and count when there are many.
+- Being found (edda-site `docs/specs/SEO.md`): the text a reader sees first is also what a search result and an
+  assistant (ChatGPT, Claude) quote. The first sentence of an entity summary, a guide card's hook, a story's hook or
+  an intro says who or what in plain words and stands on its own; the English form of a name (`names.en`) and the
+  Wikidata id of an entity go into the page's title and JSON-LD, so keep them filled and right.
+- Entity, card, story and tour ids are parts of URLs (`/names/<id>/`, `/mimir/<id>/`): renaming or removing one
+  needs a redirect in edda-site, so say so in the PR.
 
 ## Commands
 
