@@ -2257,6 +2257,58 @@
     }
    }
   },
+  "hjuki": {
+   "plate": "p7",
+   "kind": "figure",
+   "files": {
+    "hjuki-600.jpg": {
+     "width": 600,
+     "height": 1234,
+     "bytes": 91894
+    },
+    "hjuki-600.webp": {
+     "width": 600,
+     "height": 1234,
+     "bytes": 45898
+    },
+    "hjuki-300.jpg": {
+     "width": 300,
+     "height": 617,
+     "bytes": 35555
+    },
+    "hjuki-300.webp": {
+     "width": 300,
+     "height": 617,
+     "bytes": 21272
+    }
+   }
+  },
+  "bil": {
+   "plate": "p7",
+   "kind": "figure",
+   "files": {
+    "bil-600.jpg": {
+     "width": 600,
+     "height": 1230,
+     "bytes": 94370
+    },
+    "bil-600.webp": {
+     "width": 600,
+     "height": 1230,
+     "bytes": 47380
+    },
+    "bil-300.jpg": {
+     "width": 300,
+     "height": 615,
+     "bytes": 36454
+    },
+    "bil-300.webp": {
+     "width": 300,
+     "height": 615,
+     "bytes": 22048
+    }
+   }
+  },
   "nott": {
    "plate": "p7",
    "kind": "figure",
@@ -3845,7 +3897,7 @@
   },
   "geri": {
    "plate": "p15",
-   "kind": "attribute",
+   "kind": "figure",
    "files": {
     "geri-600.jpg": {
      "width": 600,

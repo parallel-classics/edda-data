@@ -8,8 +8,12 @@
   "credit": "© 2026 Grigory Sapunov",
   "licence": "CC BY 4.0",
   "section": "first-giants",
-  "stories": ["ymir-and-the-making"],
-  "ages": ["2"],
+  "stories": [
+    "ymir-and-the-making"
+  ],
+  "ages": [
+    "2"
+  ],
   "caption_box": [
     160,
     2550,
@@ -67,23 +71,95 @@
     },
     {
       "entity": "nordri",
-      "kind": "attribute",
+      "kind": "figure",
       "bbox": [
         172,
         963,
         430,
         550
       ],
+      "label": [
+        387,
+        2760
+      ],
       "shows": [
         {
-          "en": "four dwarves hold up the sky at its corners",
+          "en": "one of the four dwarves who hold up the sky at its corners; which corner is which, the sources do not say",
           "refs": [
             "g-c8-4",
             "s-c31-1"
           ]
         }
+      ]
+    },
+    {
+      "entity": "sudri",
+      "kind": "figure",
+      "bbox": [
+        1650,
+        880,
+        300,
+        450
       ],
-      "part_of": "ymir"
+      "label": [
+        1800,
+        2760
+      ],
+      "shows": [
+        {
+          "en": "one of the four dwarves who hold up the sky at its corners; which corner is which, the sources do not say",
+          "refs": [
+            "g-c8-4",
+            "s-c31-1"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "austri",
+      "kind": "figure",
+      "bbox": [
+        3520,
+        840,
+        330,
+        470
+      ],
+      "label": [
+        3685,
+        2760
+      ],
+      "shows": [
+        {
+          "en": "one of the four dwarves who hold up the sky at its corners; which corner is which, the sources do not say",
+          "refs": [
+            "g-c8-4",
+            "s-c31-1"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "vestri",
+      "kind": "figure",
+      "bbox": [
+        4920,
+        960,
+        370,
+        540
+      ],
+      "label": [
+        5105,
+        2760
+      ],
+      "shows": [
+        {
+          "en": "one of the four dwarves who hold up the sky at its corners; which corner is which, the sources do not say",
+          "refs": [
+            "g-c8-4",
+            "s-c31-1"
+          ]
+        }
+      ]
     }
   ],
   "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box by the cloud session where noted (provenance only)"
