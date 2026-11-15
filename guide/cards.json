@@ -28176,11 +28176,15 @@
             "is": "Þekkt fyrir"
           },
           "value": {
-            "en": "The world is made from his body: earth from flesh, sea from blood, rocks from bones, sky from skull, clouds from brain, the wall of Miðgarðr from his brows.",
-            "is": "Heimurinn er gerður úr líkama hans: jörðin úr holdinu, sjórinn úr blóðinu, björgin úr beinunum, himinninn úr hausnum, skýin úr heilanum og garðurinn um Miðgarð úr brám hans."
+            "en": "The world is made from his body: earth from flesh, sea from blood, rocks from bones, sky from skull, clouds from brain, the wall of Miðgarðr from his brows. The sky made from his skull is held up at its four corners by four dwarves: Austri, Vestri, Norðri and Suðri.",
+            "is": "Heimurinn er gerður úr líkama hans: jörðin úr holdinu, sjórinn úr blóðinu, björgin úr beinunum, himinninn úr hausnum, skýin úr heilanum og garðurinn um Miðgarð úr brám hans. Himinninn úr hauskúpu hans halda fjórir dvergar uppi á hornunum fjórum: Austri, Vestri, Norðri og Suðri."
           },
           "ids": [
-            "midgard"
+            "midgard",
+            "austri",
+            "vestri",
+            "nordri",
+            "sudri"
           ],
           "refs": [
             "g-c8-2",

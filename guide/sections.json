@@ -242,8 +242,36 @@
       "more": []
     },
     {
-      "id": "first-giants",
+      "id": "world-from-ymir",
       "order": 8,
+      "title": {
+        "en": "The world made from Ymir",
+        "is": "Heimurinn úr Ymi"
+      },
+      "intro": {
+        "en": "The sons of Borr made the world from the first giant's body: earth from his flesh, sea from his blood, the sky from his skull, held up by four dwarves, and Miðgarðr walled with his brows.",
+        "is": "Synir Bors gerðu heiminn úr líkama fyrsta jötunsins: jörð úr holdi hans, sæ úr blóði, himin úr hauskúpunni, sem fjórir dvergar halda uppi, og Miðgarð girtan brám hans."
+      },
+      "plate": "P17",
+      "entities": [
+        "ymir",
+        "midgard",
+        "austri",
+        "vestri",
+        "nordri",
+        "sudri"
+      ],
+      "refs": [
+        "g-c8-2",
+        "g-c8-4",
+        "g-c8-8"
+      ],
+      "status": "draft",
+      "by": "claude"
+    },
+    {
+      "id": "first-giants",
+      "order": 9,
       "title": {
         "en": "Giants of the beginning and the end",
         "is": "Jötnar upphafs og endaloka"
@@ -256,12 +284,13 @@
       "entities": [
         "ymir",
         "audumbla",
-        "borr",
         "bergelmir",
         "vafthrudnir",
-        "narfi",
+        "jarnvidr",
         "hyrrokkin",
         "surtr",
+        "borr",
+        "narfi",
         "hrym",
         "beli",
         "fjolsvidr"
@@ -289,7 +318,7 @@
     },
     {
       "id": "thors-giants",
-      "order": 9,
+      "order": 10,
       "title": {
         "en": "Þórr's giants",
         "is": "Jötnar Þórs"
@@ -323,7 +352,7 @@
     },
     {
       "id": "sea-and-giantesses",
-      "order": 10,
+      "order": 11,
       "title": {
         "en": "The sea and the giantesses",
         "is": "Hafið og gýgjarnar"
@@ -358,7 +387,7 @@
     },
     {
       "id": "dwarves",
-      "order": 11,
+      "order": 12,
       "title": {
         "en": "Dwarves",
         "is": "Dvergar"
@@ -394,7 +423,7 @@
     },
     {
       "id": "elves",
-      "order": 12,
+      "order": 13,
       "title": {
         "en": "Elves",
         "is": "Álfar"
@@ -419,7 +448,7 @@
     },
     {
       "id": "norns-valkyries",
-      "order": 13,
+      "order": 14,
       "title": {
         "en": "Norns and valkyries",
         "is": "Nornir og valkyrjur"
@@ -456,7 +485,7 @@
     },
     {
       "id": "treasures",
-      "order": 14,
+      "order": 15,
       "title": {
         "en": "The gods' treasures",
         "is": "Gersemar goðanna"
@@ -501,7 +530,7 @@
     },
     {
       "id": "valhalla",
-      "order": 15,
+      "order": 16,
       "title": {
         "en": "Valhöll and the slain",
         "is": "Valhöll og valurinn"
@@ -528,7 +557,7 @@
     },
     {
       "id": "places",
-      "order": 16,
+      "order": 17,
       "title": {
         "en": "The worlds and their places",
         "is": "Heimarnir og staðir þeirra"
@@ -603,7 +632,7 @@
     },
     {
       "id": "heroes",
-      "order": 17,
+      "order": 18,
       "title": {
         "en": "Heroes of the cursed gold",
         "is": "Hetjur gullsins bölvaða"
@@ -697,7 +726,7 @@
     },
     {
       "id": "helgi",
-      "order": 18,
+      "order": 19,
       "title": {
         "en": "The Helgi poems",
         "is": "Helgakviðurnar"

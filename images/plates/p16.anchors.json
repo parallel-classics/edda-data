@@ -8,8 +8,12 @@
   "credit": "© 2026 Grigory Sapunov",
   "licence": "CC BY 4.0",
   "section": null,
-  "stories": ["ragnarok"],
-  "ages": ["7"],
+  "stories": [
+    "ragnarok"
+  ],
+  "ages": [
+    "7"
+  ],
   "caption_box": [
     80,
     2723,
@@ -309,7 +313,10 @@
       "label": [
         5109,
         2910
-      ]
+      ],
+      "caption": {
+        "name": "Hati"
+      }
     },
     {
       "entity": "heimdall",
