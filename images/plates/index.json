@@ -54,82 +54,82 @@
     "p1@dusk-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 461517
+     "bytes": 457525
     },
     "p1@dusk-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 239236
+     "bytes": 238712
     },
     "p1@dusk-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 243858
+     "bytes": 241496
     },
     "p1@dusk-1600.webp": {
      "width": 1600,
      "height": 893,
-     "bytes": 144986
+     "bytes": 144648
     },
     "p1@dusk-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 111348
+     "bytes": 109820
     },
     "p1@dusk-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 72198
+     "bytes": 71108
     },
     "p1@dusk-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 44286
+     "bytes": 43634
     },
     "p1@dusk-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 30040
+     "bytes": 29866
     },
     "p1@night-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 431300
+     "bytes": 431551
     },
     "p1@night-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 217742
+     "bytes": 218368
     },
     "p1@night-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 226504
+     "bytes": 225945
     },
     "p1@night-1600.webp": {
      "width": 1600,
      "height": 893,
-     "bytes": 131300
+     "bytes": 131624
     },
     "p1@night-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 103690
+     "bytes": 102553
     },
     "p1@night-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 64318
+     "bytes": 64498
     },
     "p1@night-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 41690
+     "bytes": 41185
     },
     "p1@night-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 27152
+     "bytes": 27308
     }
    },
    "lights": [
@@ -322,82 +322,82 @@
     "p3@dusk-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 498342
+     "bytes": 495305
     },
     "p3@dusk-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 300334
+     "bytes": 296426
     },
     "p3@dusk-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 271028
+     "bytes": 269978
     },
     "p3@dusk-1600.webp": {
      "width": 1600,
      "height": 893,
-     "bytes": 176576
+     "bytes": 176026
     },
     "p3@dusk-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 122901
+     "bytes": 121834
     },
     "p3@dusk-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 86782
+     "bytes": 86032
     },
     "p3@dusk-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 48910
+     "bytes": 48479
     },
     "p3@dusk-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 36698
+     "bytes": 36094
     },
     "p3@night-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 456977
+     "bytes": 453527
     },
     "p3@night-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 254522
+     "bytes": 252862
     },
     "p3@night-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 250391
+     "bytes": 249258
     },
     "p3@night-1600.webp": {
      "width": 1600,
      "height": 893,
-     "bytes": 154078
+     "bytes": 153240
     },
     "p3@night-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 114713
+     "bytes": 113249
     },
     "p3@night-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 77798
+     "bytes": 77924
     },
     "p3@night-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 46868
+     "bytes": 46183
     },
     "p3@night-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 33544
+     "bytes": 33868
     }
    },
    "lights": [
@@ -590,82 +590,82 @@
     "p5@dusk-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 419689
+     "bytes": 418059
     },
     "p5@dusk-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 214254
+     "bytes": 212706
     },
     "p5@dusk-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 222058
+     "bytes": 221043
     },
     "p5@dusk-1600.webp": {
      "width": 1600,
      "height": 893,
-     "bytes": 127304
+     "bytes": 126594
     },
     "p5@dusk-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 99596
+     "bytes": 99431
     },
     "p5@dusk-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 61206
+     "bytes": 60886
     },
     "p5@dusk-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 39085
+     "bytes": 38818
     },
     "p5@dusk-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 24838
+     "bytes": 24688
     },
     "p5@night-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 434778
+     "bytes": 433269
     },
     "p5@night-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 228580
+     "bytes": 227962
     },
     "p5@night-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 229636
+     "bytes": 227862
     },
     "p5@night-1600.webp": {
      "width": 1600,
      "height": 893,
-     "bytes": 137204
+     "bytes": 136210
     },
     "p5@night-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 104605
+     "bytes": 103494
     },
     "p5@night-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 67022
+     "bytes": 66114
     },
     "p5@night-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 41617
+     "bytes": 40919
     },
     "p5@night-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 27462
+     "bytes": 27536
     }
    },
    "lights": [
@@ -724,82 +724,82 @@
     "p6@dusk-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 379389
+     "bytes": 379858
     },
     "p6@dusk-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 173816
+     "bytes": 173282
     },
     "p6@dusk-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 191410
+     "bytes": 191286
     },
     "p6@dusk-1600.webp": {
      "width": 1600,
      "height": 893,
-     "bytes": 98462
+     "bytes": 98310
     },
     "p6@dusk-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 85556
+     "bytes": 85070
     },
     "p6@dusk-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 47872
+     "bytes": 47750
     },
     "p6@dusk-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 34297
+     "bytes": 34192
     },
     "p6@dusk-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 20784
+     "bytes": 20708
     },
     "p6@night-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 347854
+     "bytes": 347912
     },
     "p6@night-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 156212
+     "bytes": 155828
     },
     "p6@night-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 180642
+     "bytes": 179625
     },
     "p6@night-1600.webp": {
      "width": 1600,
      "height": 893,
-     "bytes": 90548
+     "bytes": 90292
     },
     "p6@night-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 81420
+     "bytes": 81220
     },
     "p6@night-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 44494
+     "bytes": 44402
     },
     "p6@night-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 33281
+     "bytes": 33071
     },
     "p6@night-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 19598
+     "bytes": 19504
     }
    },
    "lights": [
@@ -858,82 +858,82 @@
     "p7@dusk-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 467701
+     "bytes": 465348
     },
     "p7@dusk-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 256764
+     "bytes": 255658
     },
     "p7@dusk-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 240495
+     "bytes": 239988
     },
     "p7@dusk-1600.webp": {
      "width": 1600,
      "height": 893,
-     "bytes": 145912
+     "bytes": 145256
     },
     "p7@dusk-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 106363
+     "bytes": 106062
     },
     "p7@dusk-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 69580
+     "bytes": 69300
     },
     "p7@dusk-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 41611
+     "bytes": 41657
     },
     "p7@dusk-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 28640
+     "bytes": 28502
     },
     "p7@night-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 433269
+     "bytes": 430394
     },
     "p7@night-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 233182
+     "bytes": 232930
     },
     "p7@night-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 223922
+     "bytes": 221834
     },
     "p7@night-1600.webp": {
      "width": 1600,
      "height": 893,
-     "bytes": 133824
+     "bytes": 133008
     },
     "p7@night-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 99958
+     "bytes": 98703
     },
     "p7@night-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 63110
+     "bytes": 63574
     },
     "p7@night-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 39326
+     "bytes": 39088
     },
     "p7@night-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 26426
+     "bytes": 26134
     }
    },
    "lights": [
@@ -1126,17 +1126,17 @@
     "p9@dusk-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 478727
+     "bytes": 477558
     },
     "p9@dusk-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 261268
+     "bytes": 260854
     },
     "p9@dusk-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 248898
+     "bytes": 249287
     },
     "p9@dusk-1600.webp": {
      "width": 1600,
@@ -1146,62 +1146,62 @@
     "p9@dusk-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 113328
+     "bytes": 113260
     },
     "p9@dusk-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 75554
+     "bytes": 75748
     },
     "p9@dusk-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 47246
+     "bytes": 47183
     },
     "p9@dusk-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 32286
+     "bytes": 32280
     },
     "p9@night-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 412540
+     "bytes": 412749
     },
     "p9@night-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 211686
+     "bytes": 211716
     },
     "p9@night-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 215074
+     "bytes": 215749
     },
     "p9@night-1600.webp": {
      "width": 1600,
      "height": 893,
-     "bytes": 124284
+     "bytes": 124418
     },
     "p9@night-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 97983
+     "bytes": 98271
     },
     "p9@night-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 62516
+     "bytes": 62612
     },
     "p9@night-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 41092
+     "bytes": 41312
     },
     "p9@night-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 26550
+     "bytes": 26650
     }
    },
    "lights": [
@@ -2332,82 +2332,82 @@
     "p18@dusk-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 482350
+     "bytes": 480963
     },
     "p18@dusk-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 278242
+     "bytes": 281042
     },
     "p18@dusk-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 249474
+     "bytes": 248768
     },
     "p18@dusk-1600.webp": {
      "width": 1600,
      "height": 893,
-     "bytes": 156642
+     "bytes": 156270
     },
     "p18@dusk-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 111727
+     "bytes": 111379
     },
     "p18@dusk-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 74552
+     "bytes": 74362
     },
     "p18@dusk-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 43410
+     "bytes": 43307
     },
     "p18@dusk-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 30194
+     "bytes": 30222
     },
     "p18@night-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 470305
+     "bytes": 469451
     },
     "p18@night-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 276546
+     "bytes": 279378
     },
     "p18@night-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 244159
+     "bytes": 243810
     },
     "p18@night-1600.webp": {
      "width": 1600,
      "height": 893,
-     "bytes": 155710
+     "bytes": 155740
     },
     "p18@night-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 109757
+     "bytes": 109217
     },
     "p18@night-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 73606
+     "bytes": 73602
     },
     "p18@night-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 42812
+     "bytes": 42580
     },
     "p18@night-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 29792
+     "bytes": 29862
     }
    },
    "lights": [
