@@ -1,0 +1,90 @@
+{
+  "_note": "Figure anchors for picture plate P17 (Mímir, task 34), pixels of the 5504x3072 master edda-data/images/plates/p17.jpg (from Grigory's p17-v1.jpg (as generated, own border and caption area)). Same format as p1-p12. Drafted from a 1600 px view: check at full size. 2026-11-15.",
+  "image": "p17.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "first-giants",
+  "stories": ["ymir-and-the-making"],
+  "ages": ["2"],
+  "caption_box": [
+    160,
+    2550,
+    5184,
+    420
+  ],
+  "figures": [
+    {
+      "entity": "ymir",
+      "kind": "figure",
+      "bbox": [
+        275,
+        1135,
+        5091,
+        1410
+      ],
+      "shows": [
+        {
+          "en": "the world made from his body: earth from flesh, sea from blood, mountains from bones, sky from skull",
+          "refs": [
+            "g-c7-2",
+            "g-c8-2",
+            "g-c8-4",
+            "g-c8-8"
+          ]
+        }
+      ],
+      "label": [
+        2820,
+        2760
+      ]
+    },
+    {
+      "entity": "midgard",
+      "kind": "figure",
+      "bbox": [
+        1995,
+        1273,
+        1445,
+        654
+      ],
+      "shows": [
+        {
+          "en": "ringed by a wall made from Ymir's brows",
+          "refs": [
+            "g-c8-8",
+            "grm-s41"
+          ]
+        }
+      ],
+      "label": [
+        2717,
+        2760
+      ]
+    },
+    {
+      "entity": "nordri",
+      "kind": "attribute",
+      "bbox": [
+        172,
+        963,
+        430,
+        550
+      ],
+      "shows": [
+        {
+          "en": "four dwarves hold up the sky at its corners",
+          "refs": [
+            "g-c8-4",
+            "s-c31-1"
+          ]
+        }
+      ],
+      "part_of": "ymir"
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box by the cloud session where noted (provenance only)"
+}

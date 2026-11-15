@@ -1,5 +1,11 @@
 {
- "_note": "Where the Mímir tiles look (task 34): per entity a focus in the picture the tile is cut from (the plate crop images/plates/crops/<id>-600.jpg, else entities/img/<file>), as fractions of its width and height. head = [x, y, h]: the centre of the face and the head's height; the tile shows head and shoulders with the face in the middle. region = [x0, y0, x1, y1]: the part that must show (an animal's head, a scene, a place); the tile is the smallest box of the tile's shape around it. pad = the whole picture on a plain ground. to (plate figures): how far down the tile reaches, as a fraction of the figure's crop, to show what tells the figure apart (Iðunn's apples, Fulla's box, Mjöllnir); by default a little below the shoulders. The plate's other figures are blurred. edda-site/pipeline/make_plates.py writes images/tiles/. Set by eye by Claude Code, 2026-11-09.",
+ "_note": "Where the Mímir tiles look (task 34): per entity a focus in the picture the tile is cut from (the plate crop images/plates/crops/<id>-600.jpg, else entities/img/<file>), as fractions of its width and height. head = [x, y, h]: the centre of the face and the head's height; the tile shows head and shoulders with the face in the middle. region = [x0, y0, x1, y1]: the part that must show (an animal's head, a scene, a place); the tile is the smallest box of the tile's shape around it. pad = the whole picture on a plain ground. to (plate figures): how far down the tile reaches, as a fraction of the figure's crop, to show what tells the figure apart (Iðunn's apples, Fulla's box, Mjöllnir); by default a little below the shoulders. The plate's other figures are blurred. edda-site/pipeline/make_plates.py writes images/tiles/. Set by eye by Claude Code, 2026-11-09. plates: the plates the focus points were set on; a figure's crop from any other plate is not used for its tile (its Names picture is).",
+ "plates": [
+  "p1",
+  "p2",
+  "p3",
+  "p4"
+ ],
  "tiles": {
   "odin": {
    "head": [

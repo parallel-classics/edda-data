@@ -1,0 +1,304 @@
+{
+  "_note": "Figure anchors for picture plate P7 (Mímir, task 34), in pixels of the 5504x3072 master edda-data/images/plates/p7.jpg (from Grigory's p7-v1.jpg). Same format as p1-p4: bbox [x,y,w,h], label [x,y] inside the caption box, kind figure|attribute|place, part_of, shows [{en, refs}]. Drafted from a 1600 px view, boxes approximate: check at full size. 2026-11-14.",
+  "image": "p7.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "sky",
+  "caption_box": [
+    110,
+    2430,
+    5300,
+    555
+  ],
+  "figures": [
+    {
+      "entity": "sol",
+      "kind": "figure",
+      "bbox": [
+        585,
+        378,
+        722,
+        826
+      ],
+      "shows": [
+        {
+          "en": "drives the horses that draw the sun",
+          "refs": [
+            "g-c11-2",
+            "grm-s37",
+            "g-c12-2",
+            "g-c12-4"
+          ]
+        }
+      ],
+      "label": [
+        946,
+        2735
+      ]
+    },
+    {
+      "entity": "skoll",
+      "kind": "figure",
+      "bbox": [
+        172,
+        482,
+        791,
+        1445
+      ],
+      "shows": [
+        {
+          "en": "the wolf that chases the sun",
+          "refs": [
+            "g-c12-2",
+            "g-c12-4",
+            "grm-s39",
+            "g-c51-4"
+          ]
+        }
+      ],
+      "label": [
+        567,
+        2735
+      ]
+    },
+    {
+      "entity": "arvakr",
+      "kind": "figure",
+      "bbox": [
+        1135,
+        1015,
+        654,
+        808
+      ],
+      "shows": [
+        {
+          "en": "one of the sun's horses",
+          "refs": [
+            "g-c11-2",
+            "grm-s37",
+            "s-c72-9"
+          ]
+        }
+      ],
+      "label": [
+        1462,
+        2735
+      ]
+    },
+    {
+      "entity": "alsvidr",
+      "kind": "figure",
+      "bbox": [
+        1617,
+        1015,
+        688,
+        808
+      ],
+      "shows": [
+        {
+          "en": "the other sun-horse",
+          "refs": [
+            "g-c11-2",
+            "grm-s37",
+            "s-c72-9"
+          ]
+        }
+      ],
+      "label": [
+        1961,
+        2735
+      ]
+    },
+    {
+      "entity": "hati",
+      "kind": "figure",
+      "bbox": [
+        1772,
+        516,
+        791,
+        619
+      ],
+      "shows": [
+        {
+          "en": "the wolf that runs before, after the moon",
+          "refs": [
+            "g-c12-4",
+            "g-c12-6",
+            "vsp-s40",
+            "grm-s39"
+          ]
+        }
+      ],
+      "label": [
+        2167,
+        2735
+      ]
+    },
+    {
+      "entity": "mani",
+      "kind": "figure",
+      "bbox": [
+        2374,
+        585,
+        757,
+        654
+      ],
+      "shows": [
+        {
+          "en": "guides the moon; took Bil and Hjúki from the earth",
+          "refs": [
+            "g-c11-2",
+            "g-c12-4",
+            "g-c12-6",
+            "g-c51-4"
+          ]
+        }
+      ],
+      "label": [
+        2752,
+        2735
+      ]
+    },
+    {
+      "entity": "mani",
+      "kind": "attribute",
+      "bbox": [
+        2374,
+        1273,
+        585,
+        602
+      ],
+      "shows": [
+        {
+          "en": "Bil and Hjúki with the pail on its pole",
+          "refs": [
+            "g-c11-2"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "nott",
+      "kind": "figure",
+      "bbox": [
+        3027,
+        826,
+        550,
+        1118
+      ],
+      "shows": [
+        {
+          "en": "Night rides first",
+          "refs": [
+            "g-c10-1",
+            "vm-s14",
+            "alv-s30"
+          ]
+        }
+      ],
+      "label": [
+        3302,
+        2735
+      ]
+    },
+    {
+      "entity": "hrimfaxi",
+      "kind": "figure",
+      "bbox": [
+        2993,
+        1032,
+        998,
+        894
+      ],
+      "shows": [
+        {
+          "en": "foam from his bit falls as dew",
+          "refs": [
+            "g-c10-1",
+            "vm-s14"
+          ]
+        }
+      ],
+      "label": [
+        3492,
+        2735
+      ]
+    },
+    {
+      "entity": "dagr",
+      "kind": "figure",
+      "bbox": [
+        3956,
+        705,
+        413,
+        808
+      ],
+      "shows": [
+        {
+          "en": "Day rides after Night",
+          "refs": [
+            "g-c10-1",
+            "vm-s12"
+          ]
+        }
+      ],
+      "label": [
+        4162,
+        2735
+      ]
+    },
+    {
+      "entity": "skinfaxi",
+      "kind": "figure",
+      "bbox": [
+        3922,
+        843,
+        722,
+        877
+      ],
+      "shows": [
+        {
+          "en": "his shining mane lights sky and earth",
+          "refs": [
+            "g-c10-1",
+            "vm-s12"
+          ]
+        }
+      ],
+      "label": [
+        4283,
+        2735
+      ]
+    },
+    {
+      "entity": "hraesvelgr",
+      "kind": "figure",
+      "bbox": [
+        4231,
+        327,
+        1135,
+        1049
+      ],
+      "shows": [
+        {
+          "en": "giant in eagle's shape whose wings make the wind",
+          "refs": [
+            "vm-s37",
+            "g-c18-2",
+            "g-c16-2",
+            "vm-s36"
+          ]
+        }
+      ],
+      "label": [
+        4798,
+        2735
+      ]
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box redrawn by the cloud session where noted (provenance only)"
+}

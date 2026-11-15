@@ -1,0 +1,124 @@
+{
+  "_note": "Figure anchors for picture plate P5 (Mímir, task 34), in pixels of the 5504x3072 master edda-data/images/plates/p5.jpg (from Grigory's p5-v2.jpg (frame and caption box added by the cloud session)). Same format as p1-p4: bbox [x,y,w,h], label [x,y] inside the caption box, kind figure|attribute|place, part_of, shows [{en, refs}]. Drafted from a 1600 px view, boxes approximate: check at full size. 2026-11-14.",
+  "image": "p5.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "lokis-children",
+  "caption_box": [
+    80,
+    2640,
+    5344,
+    370
+  ],
+  "figures": [
+    {
+      "entity": "angrboda",
+      "kind": "figure",
+      "bbox": [
+        275,
+        292,
+        826,
+        2150
+      ],
+      "shows": [
+        {
+          "en": "giantess, mother of Fenrir, the serpent and Hel",
+          "refs": [
+            "g-c34-1",
+            "vsk-s11"
+          ]
+        }
+      ],
+      "label": [
+        688,
+        2830
+      ]
+    },
+    {
+      "entity": "fenrir",
+      "kind": "figure",
+      "bbox": [
+        1290,
+        654,
+        1324,
+        1273
+      ],
+      "shows": [
+        {
+          "en": "bound with the thin fetter Gleipnir",
+          "refs": [
+            "g-c34-3",
+            "g-c34-4",
+            "g-c34-11",
+            "g-c34-10"
+          ]
+        },
+        {
+          "en": "sword wedged in his jaws; his slaver runs as the river Ván",
+          "refs": [
+            "s-c23-1",
+            "g-c34-11",
+            "ls-s39",
+            "g-c51-4"
+          ]
+        }
+      ],
+      "label": [
+        1952,
+        2830
+      ]
+    },
+    {
+      "entity": "jormungandr",
+      "kind": "figure",
+      "bbox": [
+        2821,
+        722,
+        1582,
+        1376
+      ],
+      "shows": [
+        {
+          "en": "lies round the whole earth in the sea, biting its own tail",
+          "refs": [
+            "g-c34-1",
+            "g-c51-4",
+            "g-c51-5",
+            "vsp-s56"
+          ]
+        }
+      ],
+      "label": [
+        3612,
+        2830
+      ]
+    },
+    {
+      "entity": "hel",
+      "kind": "figure",
+      "bbox": [
+        4541,
+        619,
+        757,
+        1806
+      ],
+      "shows": [
+        {
+          "en": "half blue-black, half flesh-coloured",
+          "refs": [
+            "g-c34-2"
+          ]
+        }
+      ],
+      "label": [
+        4919,
+        2830
+      ]
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box redrawn by the cloud session where noted (provenance only)"
+}

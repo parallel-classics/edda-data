@@ -1,0 +1,201 @@
+{
+  "_note": "Figure anchors for picture plate P8 (Mímir, task 34), in pixels of the 5504x3072 master edda-data/images/plates/p8.jpg (from Grigory's p8-v2.jpg (picture moved up; frame and caption box added by the cloud session)). Same format as p1-p4: bbox [x,y,w,h], label [x,y] inside the caption box, kind figure|attribute|place, part_of, shows [{en, refs}]. Drafted from a 1600 px view, boxes approximate: check at full size. 2026-11-14.",
+  "image": "p8.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "first-giants",
+  "caption_box": [
+    80,
+    2152,
+    5344,
+    370
+  ],
+  "figures": [
+    {
+      "entity": "ymir",
+      "kind": "figure",
+      "bbox": [
+        69,
+        869,
+        998,
+        980
+      ],
+      "shows": [
+        {
+          "en": "the first giant, fed by four rivers of milk",
+          "refs": [
+            "g-c6-2"
+          ]
+        }
+      ],
+      "label": [
+        568,
+        2340
+      ]
+    },
+    {
+      "entity": "audumbla",
+      "kind": "figure",
+      "bbox": [
+        327,
+        697,
+        585,
+        757
+      ],
+      "shows": [
+        {
+          "en": "the cow from whose udders ran four rivers of milk",
+          "refs": [
+            "g-c6-2"
+          ]
+        }
+      ],
+      "label": [
+        619,
+        2340
+      ]
+    },
+    {
+      "entity": "audumbla",
+      "kind": "attribute",
+      "bbox": [
+        929,
+        972,
+        585,
+        550
+      ],
+      "shows": [
+        {
+          "en": "licks the salty ice-blocks; a man comes out (Búri)",
+          "refs": [
+            "g-c6-4"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "bergelmir",
+      "kind": "figure",
+      "bbox": [
+        1806,
+        1007,
+        774,
+        722
+      ],
+      "shows": [
+        {
+          "en": "escaped Ymir's flood of blood in a boat with his wife",
+          "refs": [
+            "g-c7-2",
+            "vm-s35"
+          ]
+        }
+      ],
+      "label": [
+        2193,
+        2340
+      ]
+    },
+    {
+      "entity": "vafthrudnir",
+      "kind": "figure",
+      "bbox": [
+        2821,
+        663,
+        533,
+        791
+      ],
+      "shows": [
+        {
+          "en": "the all-wise giant in his hall",
+          "refs": [
+            "vm-s1",
+            "vm-s2",
+            "vm-s54",
+            "vm-s55"
+          ]
+        }
+      ],
+      "label": [
+        3087,
+        2340
+      ]
+    },
+    {
+      "entity": "jarnvidr",
+      "kind": "figure",
+      "bbox": [
+        3492,
+        852,
+        464,
+        963
+      ],
+      "shows": [
+        {
+          "en": "the old giantess of Járnviðr who bears wolves",
+          "refs": [
+            "g-c12-6",
+            "vsp-s40",
+            "g-c12-4"
+          ]
+        }
+      ],
+      "label": [
+        3724,
+        2340
+      ]
+    },
+    {
+      "entity": "hyrrokkin",
+      "kind": "figure",
+      "bbox": [
+        3956,
+        594,
+        963,
+        1342
+      ],
+      "shows": [
+        {
+          "en": "rides a wolf with vipers for reins",
+          "refs": [
+            "g-c49-15"
+          ]
+        }
+      ],
+      "label": [
+        4437,
+        2340
+      ]
+    },
+    {
+      "entity": "surtr",
+      "kind": "figure",
+      "bbox": [
+        4782,
+        388,
+        688,
+        1479
+      ],
+      "shows": [
+        {
+          "en": "comes from Múspell with a flaming sword",
+          "refs": [
+            "g-c4-5",
+            "vsp-s52",
+            "g-c51-4",
+            "g-c51-5"
+          ]
+        }
+      ],
+      "label": [
+        5126,
+        2340
+      ]
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box redrawn by the cloud session where noted (provenance only)"
+}

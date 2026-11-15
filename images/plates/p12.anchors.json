@@ -1,0 +1,120 @@
+{
+  "_note": "Figure anchors for picture plate P12 (Mímir, task 34), pixels of the 5504x3072 master edda-data/images/plates/p12.jpg (from Grigory's p12-v2.jpg (picture moved up); frame and caption box added by the cloud session). Same format as p1-p8. Drafted from a 1600 px view: check at full size. 2026-11-15.",
+  "image": "p12.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "elves",
+  "caption_box": [
+    80,
+    2649,
+    5344,
+    370
+  ],
+  "figures": [
+    {
+      "entity": "ljosalfar",
+      "kind": "figure",
+      "bbox": [
+        516,
+        155,
+        4816,
+        1307
+      ],
+      "shows": [
+        {
+          "en": "light elves, fairer than the sun",
+          "refs": [
+            "g-c17-2",
+            "g-c17-5",
+            "thrk-s7",
+            "vsp-s48"
+          ]
+        }
+      ],
+      "label": [
+        2924,
+        2835
+      ]
+    },
+    {
+      "entity": "freyr",
+      "kind": "figure",
+      "bbox": [
+        2408,
+        568,
+        1170,
+        826
+      ],
+      "shows": [
+        {
+          "en": "lord of Álfheimr; the boar Gullinbursti",
+          "refs": [
+            "grm-s5",
+            "g-c43-2",
+            "grm-s43",
+            "s-c43-4"
+          ]
+        }
+      ],
+      "label": [
+        2993,
+        2835
+      ]
+    },
+    {
+      "entity": "dokkalfar",
+      "kind": "figure",
+      "bbox": [
+        206,
+        1531,
+        3922,
+        1066
+      ],
+      "shows": [
+        {
+          "en": "dark elves, blacker than pitch, living in the earth",
+          "refs": [
+            "g-c17-2",
+            "g-c14-2",
+            "s-c46-3",
+            "g-c34-4"
+          ]
+        }
+      ],
+      "label": [
+        2167,
+        2835
+      ]
+    },
+    {
+      "entity": "wayland-the-smith",
+      "kind": "figure",
+      "bbox": [
+        4162,
+        1806,
+        929,
+        757
+      ],
+      "shows": [
+        {
+          "en": "the smith who made himself wings",
+          "refs": [
+            "vkv-p1",
+            "vkv-s3",
+            "vkv-s29",
+            "vkv-s38"
+          ]
+        }
+      ],
+      "label": [
+        4626,
+        2835
+      ]
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box by the cloud session (provenance only)"
+}

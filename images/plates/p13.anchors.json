@@ -1,0 +1,181 @@
+{
+  "_note": "Figure anchors for picture plate P13 (Mímir, task 34), pixels of the 5504x3072 master edda-data/images/plates/p13.jpg (from Grigory's p13-v1.jpg (frame and caption box added)). Same format as p1-p12. Drafted from a 1600 px view: check at full size. 2026-11-15.",
+  "image": "p13.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "norns-valkyries",
+  "caption_box": [
+    80,
+    2618,
+    5344,
+    370
+  ],
+  "figures": [
+    {
+      "entity": "urdr",
+      "kind": "figure",
+      "bbox": [
+        206,
+        1256,
+        757,
+        1066
+      ],
+      "shows": [
+        {
+          "en": "one of the three norns, pouring water and white clay from the well over the ash",
+          "refs": [
+            "g-c16-6",
+            "vsp-s20"
+          ]
+        }
+      ],
+      "label": [
+        584,
+        2805
+      ]
+    },
+    {
+      "entity": "verdandi",
+      "kind": "figure",
+      "bbox": [
+        1548,
+        1187,
+        722,
+        1066
+      ],
+      "shows": [
+        {
+          "en": "one of the three norns",
+          "refs": [
+            "vsp-s20",
+            "g-c15-9",
+            "g-c15-12"
+          ]
+        }
+      ],
+      "label": [
+        1909,
+        2805
+      ]
+    },
+    {
+      "entity": "skuld",
+      "kind": "figure",
+      "bbox": [
+        2133,
+        1015,
+        413,
+        1170
+      ],
+      "shows": [
+        {
+          "en": "the third norn",
+          "refs": [
+            "vsp-s20",
+            "g-c15-9",
+            "g-c36-3"
+          ]
+        }
+      ],
+      "label": [
+        2339,
+        2805
+      ]
+    },
+    {
+      "entity": "urdarbrunnr",
+      "kind": "place",
+      "bbox": [
+        757,
+        1737,
+        1135,
+        757
+      ],
+      "shows": [
+        {
+          "en": "the well under the ash; two swans feed on it",
+          "refs": [
+            "g-c15-6",
+            "g-c15-9",
+            "vsp-s20",
+            "g-c16-8"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "hrist",
+      "kind": "figure",
+      "bbox": [
+        2993,
+        1152,
+        482,
+        1273
+      ],
+      "shows": [
+        {
+          "en": "valkyrie who bears the horn in Valhöll",
+          "refs": [
+            "g-c36-1"
+          ]
+        }
+      ],
+      "label": [
+        3234,
+        2805
+      ]
+    },
+    {
+      "entity": "mist",
+      "kind": "figure",
+      "bbox": [
+        3474,
+        1152,
+        482,
+        1273
+      ],
+      "shows": [
+        {
+          "en": "valkyrie who bears the horn in Valhöll",
+          "refs": [
+            "grm-s36",
+            "g-c36-2",
+            "g-c36-1"
+          ]
+        }
+      ],
+      "label": [
+        3715,
+        2805
+      ]
+    },
+    {
+      "entity": "skogul",
+      "kind": "figure",
+      "bbox": [
+        4059,
+        533,
+        1307,
+        1479
+      ],
+      "shows": [
+        {
+          "en": "valkyries riding out to choose the slain",
+          "refs": [
+            "g-c36-1",
+            "vsp-s30"
+          ]
+        }
+      ],
+      "label": [
+        4713,
+        2805
+      ]
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box by the cloud session where noted (provenance only)"
+}

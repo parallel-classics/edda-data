@@ -1,0 +1,217 @@
+{
+  "_note": "Figure anchors for picture plate P6 (Mímir, task 34), in pixels of the 5504x3072 master edda-data/images/plates/p6.jpg (from Grigory's p6-v2.jpg (frame and caption box added by the cloud session)). Same format as p1-p4: bbox [x,y,w,h], label [x,y] inside the caption box, kind figure|attribute|place, part_of, shows [{en, refs}]. Drafted from a 1600 px view, boxes approximate: check at full size. 2026-11-14.",
+  "image": "p6.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "mounts",
+  "caption_box": [
+    80,
+    2412,
+    5344,
+    370
+  ],
+  "figures": [
+    {
+      "entity": "sleipnir",
+      "kind": "figure",
+      "bbox": [
+        189,
+        946,
+        980,
+        1066
+      ],
+      "shows": [
+        {
+          "en": "grey, eight-legged; Óðinn's horse",
+          "refs": [
+            "g-c15-6",
+            "g-c42-5",
+            "grm-s44",
+            "g-c41-5"
+          ]
+        }
+      ],
+      "label": [
+        679,
+        2600
+      ]
+    },
+    {
+      "entity": "tanngnjostr",
+      "kind": "figure",
+      "bbox": [
+        1084,
+        1221,
+        361,
+        826
+      ],
+      "shows": [
+        {
+          "en": "one of Þórr's two goats that draw his chariot",
+          "refs": [
+            "g-c21-4",
+            "g-c44-7",
+            "hym-s38"
+          ]
+        }
+      ],
+      "label": [
+        1264,
+        2600
+      ]
+    },
+    {
+      "entity": "tanngrisnir",
+      "kind": "figure",
+      "bbox": [
+        1307,
+        1221,
+        757,
+        826
+      ],
+      "shows": [
+        {
+          "en": "the other goat, with the chariot",
+          "refs": [
+            "g-c21-4",
+            "g-c44-7",
+            "hym-s37"
+          ]
+        }
+      ],
+      "label": [
+        1685,
+        2600
+      ]
+    },
+    {
+      "entity": "gullinbursti",
+      "kind": "figure",
+      "bbox": [
+        2064,
+        1376,
+        619,
+        740
+      ],
+      "shows": [
+        {
+          "en": "golden bristles that light up the dark",
+          "refs": [
+            "s-c43-4",
+            "hdl-s7"
+          ]
+        }
+      ],
+      "label": [
+        2373,
+        2600
+      ]
+    },
+    {
+      "entity": "freyja",
+      "kind": "attribute",
+      "bbox": [
+        2700,
+        1428,
+        740,
+        688
+      ],
+      "shows": [
+        {
+          "en": "Freyja's wagon drawn by two cats",
+          "refs": [
+            "g-c24-3",
+            "g-c49-15",
+            "hdl-s6",
+            "hdl-s7"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "freyja",
+      "kind": "attribute",
+      "bbox": [
+        3371,
+        1359,
+        688,
+        705
+      ],
+      "shows": [
+        {
+          "en": "the battle-boar Hildisvíni (Hyndluljóð 7)",
+          "refs": [
+            "g-c24-3",
+            "g-c49-15",
+            "hdl-s6",
+            "hdl-s7"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "gulltoppr",
+      "kind": "figure",
+      "bbox": [
+        4025,
+        946,
+        568,
+        1066
+      ],
+      "shows": [
+        {
+          "en": "Heimdallr's horse, 'gold-top'",
+          "refs": [
+            "g-c27-1",
+            "s-c15-1",
+            "g-c49-15"
+          ]
+        }
+      ],
+      "label": [
+        4309,
+        2600
+      ]
+    },
+    {
+      "entity": "bifrost",
+      "kind": "place",
+      "bbox": [
+        3474,
+        172,
+        1101,
+        1273
+      ],
+      "shows": [],
+      "part_of": "gulltoppr"
+    },
+    {
+      "entity": "hofvarpnir",
+      "kind": "figure",
+      "bbox": [
+        4541,
+        998,
+        757,
+        740
+      ],
+      "shows": [
+        {
+          "en": "Gná's horse, runs over sky and sea",
+          "refs": [
+            "g-c35-15",
+            "g-c35-18"
+          ]
+        }
+      ],
+      "label": [
+        4919,
+        2600
+      ]
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box redrawn by the cloud session where noted (provenance only)"
+}

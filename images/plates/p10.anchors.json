@@ -1,0 +1,191 @@
+{
+  "_note": "Figure anchors for picture plate P10 (Mímir, task 34), pixels of the 5504x3072 master edda-data/images/plates/p10.jpg (from Grigory's p10-v4.jpg (picture moved up; frame and caption box added)). Same format as p1-p18. Drafted from a 1600 px view: check at full size. 2026-11-15.",
+  "image": "p10.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "sea-and-giantesses",
+  "caption_box": [
+    80,
+    2314,
+    5344,
+    370
+  ],
+  "figures": [
+    {
+      "entity": "aegir",
+      "kind": "figure",
+      "bbox": [
+        69,
+        630,
+        722,
+        1307
+      ],
+      "shows": [
+        {
+          "en": "his hall is lit by gold instead of fire",
+          "refs": [
+            "hym-s2",
+            "hym-s3",
+            "hym-s39",
+            "ls-p1"
+          ]
+        }
+      ],
+      "label": [
+        430,
+        2500
+      ]
+    },
+    {
+      "entity": "ran",
+      "kind": "figure",
+      "bbox": [
+        757,
+        630,
+        585,
+        1376
+      ],
+      "shows": [
+        {
+          "en": "catches drowned men in her net",
+          "refs": [
+            "s-c41-1",
+            "rm-p1"
+          ]
+        }
+      ],
+      "label": [
+        1049,
+        2500
+      ]
+    },
+    {
+      "entity": "daughters-of-aegir",
+      "kind": "figure",
+      "bbox": [
+        1273,
+        492,
+        1204,
+        1686
+      ],
+      "shows": [
+        {
+          "en": "the nine waves, daughters of Ægir and Rán",
+          "refs": [
+            "s-c41-1",
+            "s-c33-1",
+            "s-c41-2",
+            "s-c33-6"
+          ]
+        }
+      ],
+      "label": [
+        1875,
+        2500
+      ]
+    },
+    {
+      "entity": "gerdr",
+      "kind": "figure",
+      "bbox": [
+        2511,
+        354,
+        757,
+        1548
+      ],
+      "shows": [
+        {
+          "en": "light shone from her arms over sky and sea",
+          "refs": [
+            "g-c37-1",
+            "skm-s6"
+          ]
+        }
+      ],
+      "label": [
+        2889,
+        2500
+      ]
+    },
+    {
+      "entity": "gunnlod",
+      "kind": "figure",
+      "bbox": [
+        3371,
+        802,
+        860,
+        1342
+      ],
+      "shows": [
+        {
+          "en": "guards the mead inside the mountain",
+          "refs": [
+            "s-c5-5",
+            "hav-s105",
+            "hav-s108",
+            "hav-s110"
+          ]
+        }
+      ],
+      "label": [
+        3801,
+        2500
+      ]
+    },
+    {
+      "entity": "fenja",
+      "kind": "figure",
+      "bbox": [
+        4266,
+        802,
+        550,
+        1307
+      ],
+      "shows": [
+        {
+          "en": "turns the mill Grótti for King Fróði",
+          "refs": [
+            "s-c52-2",
+            "s-c52-3",
+            "s-c52-4",
+            "s-c52-6"
+          ]
+        }
+      ],
+      "label": [
+        4541,
+        2500
+      ]
+    },
+    {
+      "entity": "menja",
+      "kind": "figure",
+      "bbox": [
+        4816,
+        784,
+        550,
+        1324
+      ],
+      "shows": [
+        {
+          "en": "turns the mill Grótti with Fenja",
+          "refs": [
+            "s-c52-2",
+            "grt-s4",
+            "grt-s5",
+            "grt-s6"
+          ]
+        }
+      ],
+      "label": [
+        5091,
+        2500
+      ]
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box by the cloud session (provenance only)"
+}

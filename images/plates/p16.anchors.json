@@ -1,0 +1,365 @@
+{
+  "_note": "Figure anchors for picture plate P16 (Mímir, task 34), pixels of the 5504x3072 master edda-data/images/plates/p16.jpg (from Grigory's p16-v1.jpg (frame and caption box added)). Same format as p1-p12. Drafted from a 1600 px view: check at full size. 2026-11-15.",
+  "image": "p16.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": null,
+  "stories": ["ragnarok"],
+  "ages": ["7"],
+  "caption_box": [
+    80,
+    2723,
+    5344,
+    370
+  ],
+  "figures": [
+    {
+      "entity": "odin",
+      "kind": "figure",
+      "bbox": [
+        103,
+        1514,
+        1101,
+        1135
+      ],
+      "shows": [
+        {
+          "en": "fights the wolf and is swallowed",
+          "refs": [
+            "g-c51-5",
+            "g-c34-13",
+            "vsp-s55"
+          ]
+        }
+      ],
+      "label": [
+        653,
+        2910
+      ]
+    },
+    {
+      "entity": "fenrir",
+      "kind": "figure",
+      "bbox": [
+        1135,
+        1617,
+        1479,
+        963
+      ],
+      "shows": [
+        {
+          "en": "swallows Óðinn; Víðarr tears his jaws",
+          "refs": [
+            "g-c51-4",
+            "g-c51-5",
+            "vm-s53",
+            "vsp-s55"
+          ]
+        }
+      ],
+      "label": [
+        1874,
+        2910
+      ]
+    },
+    {
+      "entity": "vidarr",
+      "kind": "figure",
+      "bbox": [
+        1617,
+        1273,
+        585,
+        1342
+      ],
+      "shows": [
+        {
+          "en": "his thick shoe in the wolf's jaw",
+          "refs": [
+            "g-c29-1",
+            "g-c51-5",
+            "s-c18-1",
+            "vsp-s55"
+          ]
+        }
+      ],
+      "label": [
+        1909,
+        2910
+      ]
+    },
+    {
+      "entity": "thor",
+      "kind": "figure",
+      "bbox": [
+        826,
+        722,
+        585,
+        860
+      ],
+      "shows": [
+        {
+          "en": "kills the serpent, walks nine steps and dies",
+          "refs": [
+            "g-c51-5",
+            "vsp-s56",
+            "g-c53-2"
+          ]
+        }
+      ],
+      "label": [
+        1118,
+        2910
+      ]
+    },
+    {
+      "entity": "jormungandr",
+      "kind": "figure",
+      "bbox": [
+        138,
+        516,
+        1410,
+        963
+      ],
+      "shows": [
+        {
+          "en": "spits poison at Þórr",
+          "refs": [
+            "g-c47-5",
+            "s-c11-1",
+            "g-c48-6",
+            "hym-s22"
+          ]
+        }
+      ],
+      "label": [
+        843,
+        2910
+      ]
+    },
+    {
+      "entity": "freyr",
+      "kind": "figure",
+      "bbox": [
+        1617,
+        413,
+        447,
+        791
+      ],
+      "shows": [
+        {
+          "en": "fights Surtr with an antler",
+          "refs": [
+            "g-c37-4",
+            "skm-s9",
+            "g-c37-6",
+            "g-c51-5"
+          ]
+        }
+      ],
+      "label": [
+        1840,
+        2910
+      ]
+    },
+    {
+      "entity": "surtr",
+      "kind": "figure",
+      "bbox": [
+        1995,
+        69,
+        550,
+        1135
+      ],
+      "shows": [
+        {
+          "en": "flaming sword; burns the world",
+          "refs": [
+            "g-c4-5",
+            "vsp-s52",
+            "g-c51-4",
+            "g-c51-5"
+          ]
+        }
+      ],
+      "label": [
+        2270,
+        2910
+      ]
+    },
+    {
+      "entity": "tyr",
+      "kind": "figure",
+      "bbox": [
+        3096,
+        378,
+        447,
+        860
+      ],
+      "shows": [
+        {
+          "en": "one-handed, fights the hound Garmr",
+          "refs": [
+            "g-c34-11",
+            "g-c25-2",
+            "g-c51-5"
+          ]
+        }
+      ],
+      "label": [
+        3319,
+        2910
+      ]
+    },
+    {
+      "entity": "garmr",
+      "kind": "figure",
+      "bbox": [
+        3440,
+        516,
+        860,
+        791
+      ],
+      "shows": [
+        {
+          "en": "the hound; he and Týr kill each other",
+          "refs": [
+            "grm-s44",
+            "g-c41-5",
+            "g-c51-5",
+            "bdr-s2"
+          ]
+        }
+      ],
+      "label": [
+        3870,
+        2910
+      ]
+    },
+    {
+      "entity": "naglfar",
+      "kind": "figure",
+      "bbox": [
+        4506,
+        619,
+        791,
+        722
+      ],
+      "shows": [
+        {
+          "en": "the ship made of dead men's nails",
+          "refs": [
+            "g-c51-4"
+          ]
+        }
+      ],
+      "label": [
+        4901,
+        2910
+      ]
+    },
+    {
+      "entity": "skoll",
+      "kind": "figure",
+      "bbox": [
+        3922,
+        138,
+        860,
+        447
+      ],
+      "shows": [
+        {
+          "en": "swallows the sun",
+          "refs": [
+            "g-c12-2",
+            "g-c12-4",
+            "grm-s39",
+            "g-c51-4"
+          ]
+        }
+      ],
+      "label": [
+        4352,
+        2910
+      ]
+    },
+    {
+      "entity": "hati",
+      "kind": "figure",
+      "bbox": [
+        4782,
+        206,
+        654,
+        482
+      ],
+      "shows": [
+        {
+          "en": "takes the moon",
+          "refs": [
+            "g-c12-4",
+            "g-c12-6",
+            "vsp-s40",
+            "grm-s39"
+          ]
+        }
+      ],
+      "label": [
+        5109,
+        2910
+      ]
+    },
+    {
+      "entity": "heimdall",
+      "kind": "figure",
+      "bbox": [
+        3406,
+        1342,
+        860,
+        1170
+      ],
+      "shows": [
+        {
+          "en": "horn at his side; he and Loki kill each other",
+          "refs": [
+            "g-c27-1",
+            "g-c51-5",
+            "vsp-s46"
+          ]
+        }
+      ],
+      "label": [
+        3836,
+        2910
+      ]
+    },
+    {
+      "entity": "loki",
+      "kind": "figure",
+      "bbox": [
+        4266,
+        1410,
+        654,
+        1170
+      ],
+      "shows": [
+        {
+          "en": "fights Heimdallr",
+          "refs": [
+            "g-c50-2",
+            "g-c50-4",
+            "ls-p4",
+            "g-c51-5"
+          ]
+        }
+      ],
+      "label": [
+        4593,
+        2910
+      ]
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box by the cloud session where noted (provenance only)"
+}
