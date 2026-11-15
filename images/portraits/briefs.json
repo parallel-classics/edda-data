@@ -94,7 +94,10 @@
   "baldur": {
    "kind": "person",
    "subject": "Baldr: young, fair, light coming from him (a pale glow on hair and skin, not a halo disc); a sprig of mistletoe near him.",
-   "ref": true
+   "ref": true,
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "tyr": {
    "kind": "person",
@@ -168,7 +171,7 @@
    "subject": "Sif: very long hair of real metallic gold, the main thing in the picture; not blond. No scissors or shears (Loki cut her hair, not she).",
    "ref": true,
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -192,7 +195,7 @@
    "subject": "Sága: lifting a gold cup; a second gold cup beside her; water behind.",
    "ref": true,
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -223,7 +226,7 @@
    "subject": "Freyja: the great necklace Brísingamen on her breast; a cloak of falcon feathers on her shoulders; a tear of red gold on her cheek; one cat at her side.",
    "ref": true,
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -232,7 +235,7 @@
    "subject": "Gullveig: a woman standing unharmed in flames, spear shafts through her; nothing in her hands (the gold is only in her name).",
    "ref": true,
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale. Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -273,7 +276,7 @@
    "kind": "animal",
    "subject": "Gullinbursti: a boar with bristles of shining gold.",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -281,7 +284,7 @@
    "kind": "animal",
    "subject": "Gulltoppr: a horse with a forelock of gold.",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -297,7 +300,7 @@
    "kind": "animal",
    "subject": "Fáfnir: a huge wingless serpent-dragon, long-bodied, coiled on a heap of gold (the Eddas call him a serpent; no wings).",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -307,7 +310,10 @@
   },
   "bifrost": {
    "kind": "place",
-   "subject": "Bifröst: the whole arc of the bridge from the earth to the gods' gate: a rainbow of three colours, its red band burning with fire."
+   "subject": "Bifröst: the whole arc of the bridge from the earth to the gods' gate: a rainbow of three colours, its red band burning with fire.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "mjolnir": {
    "kind": "thing",
@@ -437,13 +443,19 @@
    "kind": "person",
    "subject": "A dwarf smith at the forge.",
    "pair": "sindri",
-   "differs": "Brokkr: working the bellows, a fly on his eyelid."
+   "differs": "Brokkr: working the bellows, a fly on his eyelid.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "sindri": {
    "kind": "person",
    "subject": "A dwarf smith at the forge.",
    "pair_of": "brokkr",
-   "differs": "Sindri: at the anvil with tongs."
+   "differs": "Sindri: at the anvil with tongs.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "fjalar": {
    "kind": "person",
@@ -506,7 +518,10 @@
   },
   "lodurr": {
    "kind": "person",
-   "subject": "Lóðurr: a god breathing warmth into his cupped hands, a red glow between them lighting his face."
+   "subject": "Lóðurr: a god breathing warmth into his cupped hands, a red glow between them lighting his face.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "glenr": {
    "kind": "person",
@@ -526,7 +541,11 @@
   },
   "hel": {
    "kind": "person",
-   "subject": "Hel: a woman whose body is divided down the middle, one half dark blue-black, the other the colour of living flesh; stern, downcast, seated in a dim hall."
+   "subject": "Hel: a woman whose body is divided down the middle, one half dark blue-black, the other the colour of living flesh; stern, downcast, seated in a dim hall.",
+   "light_extra": {
+    "dusk": "Keep her face and body clearly divided down the middle: one half dark blue-black, the other the colour of living flesh, as by day.",
+    "night": "Keep her face and body clearly divided down the middle: one half dark blue-black, the other the colour of living flesh, as by day."
+   }
   },
   "hnoss": {
    "kind": "person",
@@ -550,11 +569,17 @@
   },
   "menglodr": {
    "kind": "person",
-   "subject": "Menglöð: a maiden with a great necklace, seated in a hall ringed by flickering flame, waiting, looking towards the door."
+   "subject": "Menglöð: a maiden with a great necklace, seated in a hall ringed by flickering flame, waiting, looking towards the door.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "brynhild": {
    "kind": "person",
-   "subject": "Brynhildr: a valkyrie in a mail-coat and helmet, standing inside a ring of fire, a sword point down before her."
+   "subject": "Brynhildr: a valkyrie in a mail-coat and helmet, standing inside a ring of fire, a sword point down before her.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "sigrdrifa": {
    "kind": "person",
@@ -580,7 +605,7 @@
    "kind": "person",
    "subject": "Andvari: a dwarf crouching on a rock under a waterfall, clutching one gold ring to his chest; a pike in the pool below.",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -626,7 +651,7 @@
    "pair": "ran",
    "differs": "Ægir: a big sea-giant host with a beard like foam, holding a brimming ale-horn; a hall lit by gold behind him.",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -725,15 +750,24 @@
   },
   "farbauti": {
    "kind": "person",
-   "subject": "Fárbauti: a giant striking fire, a bolt of lightning in his raised fist."
+   "subject": "Fárbauti: a giant striking fire, a bolt of lightning in his raised fist.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "fjolsvidr": {
    "kind": "person",
-   "subject": "Fjölsviðr: a surly gatekeeper before a barred gate ringed with flame, two hounds at his side."
+   "subject": "Fjölsviðr: a surly gatekeeper before a barred gate ringed with flame, two hounds at his side.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "geirrodr": {
    "kind": "person",
-   "subject": "Geirröðr: a crafty giant holding a glowing lump of iron in tongs, about to throw it."
+   "subject": "Geirröðr: a crafty giant holding a glowing lump of iron in tongs, about to throw it.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "gunnlod": {
    "kind": "person",
@@ -741,7 +775,10 @@
   },
   "gymir": {
    "kind": "person",
-   "subject": "Gymir: a rich giant before his courts; fierce dogs chained at the gate, a ring of flickering fire round the hall."
+   "subject": "Gymir: a rich giant before his courts; fierce dogs chained at the gate, a ring of flickering fire round the hall.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "hrimgerdr": {
    "kind": "person",
@@ -792,7 +829,10 @@
   "surtr": {
    "kind": "person",
    "subject": "Surtr: a towering fire giant whose body is black, charred rock with glowing cracks of ember, like cooling lava, holding up a flaming sword brighter than the sun; not a human skin colour, a being of fire and soot.",
-   "length": "three-quarter"
+   "length": "three-quarter",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "suttungr": {
    "kind": "person",
@@ -800,7 +840,10 @@
   },
   "thjazi": {
    "kind": "animal",
-   "subject": "Þjazi: a giant in the shape of a huge eagle in flight, the tips of his feathers on fire."
+   "subject": "Þjazi: a giant in the shape of a huge eagle in flight, the tips of his feathers on fire.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "thokk": {
    "kind": "person",
@@ -822,7 +865,10 @@
   "ymir": {
    "kind": "person",
    "subject": "Ymir: the first giant, vast and pale, asleep on the rime between ice and fire.",
-   "length": "whole"
+   "length": "whole",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "bestla": {
    "kind": "person",
@@ -841,7 +887,7 @@
    "kind": "person",
    "subject": "Iði: a giant with his mouth full of gold, gold pieces between his fingers.",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -851,7 +897,10 @@
   },
   "byleistr": {
    "kind": "person",
-   "subject": "Býleistr: a storm-coloured giant, lightning in the cloud behind him."
+   "subject": "Býleistr: a storm-coloured giant, lightning in the cloud behind him.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "gridr": {
    "kind": "person",
@@ -899,7 +948,7 @@
    "kind": "animal",
    "subject": "Gullfaxi: a galloping horse with a mane of gold.",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -926,7 +975,10 @@
   "muspell-sons": {
    "kind": "person",
    "subject": "A rider of Múspell: a horseman of fire on a burning horse, crossing a bridge that breaks under him.",
-   "length": "whole"
+   "length": "whole",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "daughters-of-aegir": {
    "kind": "person",
@@ -940,7 +992,7 @@
    "kind": "person",
    "subject": "One of the Niflungar: a dark-cloaked prince letting gold fall from his hands into a great river.",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -961,7 +1013,7 @@
    "kind": "thing",
    "subject": "Andvaranaut: one gold ring lying on a wet rock by a waterfall, a dark gleam on it.",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -969,7 +1021,7 @@
    "kind": "thing",
    "subject": "Brísingamen: a great necklace of gold and amber.",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -977,7 +1029,7 @@
    "kind": "thing",
    "subject": "Draupnir: a heavy closed gold arm-ring, and eight more gold rings exactly like it, the same size and as heavy (Snorri: every ninth night eight rings of equal weight drip from it), dripping from it one after another like drops. Not small rings.",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -1009,7 +1061,7 @@
    "kind": "thing",
    "subject": "Gramr: a sword standing in a split anvil.",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -1017,7 +1069,7 @@
    "kind": "thing",
    "subject": "Hrotti: a sword lying on a heap of gold beside a helmet.",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -1085,7 +1137,10 @@
    "kind": "person",
    "subject": "One of the three who beat Þórr's party in the giant king's hall, each not what it seems.",
    "set": "utgard-tricks",
-   "differs": "Logi: an eater at a long meat trough, his body made of flame."
+   "differs": "Logi: an eater at a long meat trough, his body made of flame.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "elli": {
    "kind": "person",
@@ -1127,13 +1182,16 @@
    "kind": "place",
    "subject": "Gimlé: a hall roofed with gold, brighter than the sun, standing alone at the southern end of heaven above the clouds.",
    "light_extra": {
-    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door. The gold catches the last light and gleams.",
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door. The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door. The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
   "ginnungagap": {
    "kind": "place",
-   "subject": "Ginnungagap: an empty gulf; on the left ice and rime, on the right sparks and glowing fire, mild mist where they meet in the middle."
+   "subject": "Ginnungagap: an empty gulf; on the left ice and rime, on the right sparks and glowing fire, mild mist where they meet in the middle.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "gnipahellir": {
    "kind": "place",
@@ -1173,7 +1231,10 @@
   },
   "muspelheim": {
    "kind": "place",
-   "subject": "Múspellsheimr: a bright burning land in the south, flames for hills, the air glowing."
+   "subject": "Múspellsheimr: a bright burning land in the south, flames for hills, the air glowing.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "niflheim": {
    "kind": "place",
@@ -1197,7 +1258,10 @@
   },
   "svartalfaheimr": {
    "kind": "place",
-   "subject": "Svartálfaheimr: a cavern under the earth lit by a forge, anvils and gold, small dark smiths."
+   "subject": "Svartálfaheimr: a cavern under the earth lit by a forge, anvils and gold, small dark smiths.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "thrudvangr": {
    "kind": "place",
@@ -1297,7 +1361,10 @@
   },
   "hindarfjall": {
    "kind": "place",
-   "subject": "Hindarfjall: a mountain top with a ring of fire and a wall of shields, a banner above."
+   "subject": "Hindarfjall: a mountain top with a ring of fire and a wall of shields, a banner above.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "fjoturlundr": {
    "kind": "place",
@@ -1305,11 +1372,15 @@
   },
   "grjottunagardar": {
    "kind": "place",
-   "subject": "Grjótúnagarðar: a stony border field under lightning, an enormous clay figure standing in it."
+   "subject": "Grjótúnagarðar: a stony border field under lightning, an enormous clay figure standing in it.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "nastrond": {
    "kind": "place",
-   "subject": "Náströnd: a hall far from the sun, its doors to the north, its walls woven of serpents' backs; thin dark greenish venom dripping and running out of the door (poison, not fire or lava)."
+   "subject": "Náströnd: a hall far from the sun, its doors to the north, its walls woven of serpents' backs; thin dark greenish venom dripping and running out of the door (poison, not fire or lava).",
+   "light_extra": {}
   },
   "niflhel": {
    "kind": "place",
@@ -1331,7 +1402,7 @@
    "kind": "place",
    "subject": "Bilskirnir: the biggest of all houses, a hall with hundreds of doors, lightning over its roof.",
    "light_extra": {
-    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door. Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them.",
     "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
    }
   },
@@ -1347,7 +1418,7 @@
    "kind": "place",
    "subject": "Glaðsheimr: a hall all of gold; inside its open doors twelve seats and one high seat.",
    "light_extra": {
-    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door. The gold catches the last light and gleams.",
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door. The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door. The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -1355,7 +1426,7 @@
    "kind": "place",
    "subject": "Glitnir: a hall with walls and pillars of red gold and a roof of silver.",
    "light_extra": {
-    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door. The gold catches the last light and gleams.",
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door. The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door. The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -1371,7 +1442,7 @@
    "kind": "place",
    "subject": "Valhöll: a vast hall with spear shafts for rafters and a roof of shields, a wolf hanging over the west door and an eagle above it.",
    "light_extra": {
-    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door. The gold catches the last light and gleams.",
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door. The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door. The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -1411,7 +1482,7 @@
    "kind": "place",
    "subject": "The Rhine: a broad green river between wooded banks, gold glinting under the water.",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -1435,7 +1506,7 @@
    "pair_of": "gjoll",
    "differs": "Gjallarbrú: the bridge over it, roofed with bright gold, a maiden guard at its end.",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -1461,7 +1532,10 @@
   },
   "gudrun": {
    "kind": "person",
-   "subject": "Guðrún: a queen in mourning, tearless, a sword hidden in the folds of her dress; fire behind her."
+   "subject": "Guðrún: a queen in mourning, tearless, a sword hidden in the folds of her dress; fire behind her.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "gunnar": {
    "kind": "person",
@@ -1489,7 +1563,7 @@
    "kind": "person",
    "subject": "Hreiðmarr: a hard old farmer skilled in magic, an otter skin spread before him being covered with gold.",
    "light_extra": {
-    "dusk": "The gold catches the last light and gleams.",
+    "dusk": "The gold keeps its full warm yellow colour and gleams in the low light; it does not turn grey or pale.",
     "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
    }
   },
@@ -1511,7 +1585,10 @@
   },
   "sigurdr": {
    "kind": "person",
-   "subject": "Sigurðr: a young hero licking his thumb beside a fire where a heart roasts on a spit, birds in the branch above him; a sword at his side."
+   "subject": "Sigurðr: a young hero licking his thumb beside a fire where a heart roasts on a spit, birds in the branch above him; a sword at his side.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "sinfjotli": {
    "kind": "person",
@@ -1520,7 +1597,10 @@
   "skirnir": {
    "kind": "person",
    "subject": "Skírnir: a messenger on a horse riding through a wall of flickering flame, a sword in one hand and golden apples in the other.",
-   "length": "whole"
+   "length": "whole",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "svanhildr": {
    "kind": "person",
@@ -1651,7 +1731,10 @@
   },
   "svipdagr": {
    "kind": "person",
-   "subject": "Svipdagr: a young traveller at a gate ringed with flame, cloak blown by a cold wind, calling up to the wall."
+   "subject": "Svipdagr: a young traveller at a gate ringed with flame, cloak blown by a cold wind, calling up to the wall.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "king-geirrod": {
    "kind": "person",
@@ -1663,7 +1746,10 @@
   },
   "svafnir": {
    "kind": "person",
-   "subject": "Sváfnir: an old king before a burning land, his daughter's cloak in his hand."
+   "subject": "Sváfnir: an old king before a burning land, his daughter's cloak in his hand.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "hagall": {
    "kind": "person",
@@ -1691,7 +1777,10 @@
   },
   "edda-rigsthula": {
    "kind": "person",
-   "subject": "Edda: an old woman in old-fashioned dress by the hearth of a poor house, a heavy coarse loaf and a bowl of broth before her."
+   "subject": "Edda: an old woman in old-fashioned dress by the hearth of a poor house, a heavy coarse loaf and a bowl of broth before her.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "hamdir": {
    "kind": "person",
@@ -1739,7 +1828,10 @@
    "kind": "person",
    "subject": "One of the sea-giant's two serving-men in a hall lit by gold.",
    "pair_of": "fimafeng",
-   "differs": "Eldir: the fire-keeper, barring the door with his arm."
+   "differs": "Eldir: the fire-keeper, barring the door with his arm.",
+   "light_extra": {
+    "dusk": "Fires, torches, sparks, embers and glowing light keep their full bright warm colours; the dusk light does not dim them."
+   }
   },
   "hogni-hildar": {
    "kind": "person",
