@@ -1,0 +1,20 @@
+{
+ "model": "gemini-nano-banana-2.1",
+ "date": "2026-11-14 (day), 2026-11-15 (dusk, night)",
+ "huginn-letter.jpg": {
+  "reference": "images/portraits/huginn.jpg",
+  "prompt": "A small round emblem picture of Huginn, Odin's raven of thought, in the same hand as the attached linocut: hand-printed linocut, bold black outline and carved hatching in the feathers, slight unevenness of ink as in a real print, flat colours only (black, a muted slate blue-green for the sheen of the feathers, a little warm grey) on cream paper. A common raven seen from the side, facing LEFT, head, neck and shoulders large in the frame (from the beak to the folded wing), bright attentive eye with a small white highlight, shaggy throat feathers, heavy curved beak holding a small rolled parchment letter tied with a red thread. Square picture, the bird centred so that it reads whole inside a circle cut from the square: nothing that matters near the corners or edges. Behind the bird plain cream paper with three or four carved lines of sky. Strong simple shapes that still read as a raven when the picture is the size of a thumbnail. No text, no letters, no runes, no border, no frame, no circle drawn.",
+  "note": "the second of two runs (letter-2)"
+ },
+ "huginn-letter@dusk.jpg": {
+  "reference": "huginn-letter.jpg",
+  "prompt": "Edit the attached picture, a linocut print of a raven holding a small rolled letter. Keep everything exactly as it is: the composition and framing, the raven's pose, head, beak, eye and every feather, the scroll and its red thread, every carved line and the printing style. Change only the light and the time of day. Low evening sun from the left. A thin band of amber and rose light along the top of the beak, the crown and the leading edge of the wing; the rest of the bird in cool shadow, keeping its blue-green sheen. The paper behind becomes a graded sky, warm rose-amber at the bottom fading to dusky violet at the top, printed in the same linocut manner. The red thread catches the light. The same print, as the same artist would print it for that hour. No text, no border, no frame.",
+  "note": "the second of two runs"
+ },
+ "huginn-letter@night.jpg": {
+  "reference": "huginn-letter.jpg",
+  "prompt": "Edit the attached picture, a linocut print of a raven holding a small rolled letter. Keep everything exactly as it is: the composition and framing, the raven's pose, head, beak, eye and every feather, the scroll and its red thread, every carved line and the printing style. Change only the light and the time of day. Moonlight from the upper right. The paper behind becomes deep indigo-blue ink, slightly lighter around the head. The bird stays dark but its outline is picked out by thin cold silver highlights on the beak, the eye, the crown and the wing feathers; a small bright catchlight in the eye. The scroll is pale moonlit cream so it still reads. No stars, no moon in the picture. The same print, as the same artist would print it for that hour. No text, no border, no frame.",
+  "note": "the second of two runs"
+ },
+ "size": "generated at 2K square, kept here at 1024 px"
+}

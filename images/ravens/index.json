@@ -134,94 +134,94 @@
   "huginn-fb-day-128.jpg": {
    "width": 128,
    "height": 128,
-   "bytes": 5053,
+   "bytes": 4938,
    "light": "day",
    "crop": "round badge (the page clips it to a circle)"
   },
   "huginn-fb-day-128.webp": {
    "width": 128,
    "height": 128,
-   "bytes": 3172,
+   "bytes": 3208,
    "light": "day",
    "crop": "round badge (the page clips it to a circle)"
   },
   "huginn-fb-day-256.jpg": {
    "width": 256,
    "height": 256,
-   "bytes": 14663,
+   "bytes": 14753,
    "light": "day",
    "crop": "round badge (the page clips it to a circle)"
   },
   "huginn-fb-day-256.webp": {
    "width": 256,
    "height": 256,
-   "bytes": 8638,
+   "bytes": 9642,
    "light": "day",
    "crop": "round badge (the page clips it to a circle)"
   },
   "huginn-fb-dusk-128.jpg": {
    "width": 128,
    "height": 128,
-   "bytes": 4566,
+   "bytes": 4658,
    "light": "dusk",
    "crop": "round badge (the page clips it to a circle)"
   },
   "huginn-fb-dusk-128.webp": {
    "width": 128,
    "height": 128,
-   "bytes": 2770,
+   "bytes": 2916,
    "light": "dusk",
    "crop": "round badge (the page clips it to a circle)"
   },
   "huginn-fb-dusk-256.jpg": {
    "width": 256,
    "height": 256,
-   "bytes": 12989,
+   "bytes": 15406,
    "light": "dusk",
    "crop": "round badge (the page clips it to a circle)"
   },
   "huginn-fb-dusk-256.webp": {
    "width": 256,
    "height": 256,
-   "bytes": 7744,
+   "bytes": 9290,
    "light": "dusk",
    "crop": "round badge (the page clips it to a circle)"
   },
   "huginn-fb-night-128.jpg": {
    "width": 128,
    "height": 128,
-   "bytes": 4370,
+   "bytes": 4168,
    "light": "night",
    "crop": "round badge (the page clips it to a circle)"
   },
   "huginn-fb-night-128.webp": {
    "width": 128,
    "height": 128,
-   "bytes": 2568,
+   "bytes": 2400,
    "light": "night",
    "crop": "round badge (the page clips it to a circle)"
   },
   "huginn-fb-night-256.jpg": {
    "width": 256,
    "height": 256,
-   "bytes": 13666,
+   "bytes": 13497,
    "light": "night",
    "crop": "round badge (the page clips it to a circle)"
   },
   "huginn-fb-night-256.webp": {
    "width": 256,
    "height": 256,
-   "bytes": 7500,
+   "bytes": 7776,
    "light": "night",
    "crop": "round badge (the page clips it to a circle)"
   }
  },
  "feedback": {
-  "note": "Cropped from the Mímir portrait of Huginn (images/portraits/huginn.jpg and its @dusk and @night relights; see portraits/picks.json), head and neck, mirrored to face into the page.",
+  "note": "Huginn with a rolled letter (gemini-nano-banana-2.1, the Mímir portrait huginn.jpg as the style reference), relit for dusk and night from the day picture with a light prompt per hour; prompts in sources/prompts.json.",
   "sources": [
-   "images/portraits/huginn.jpg",
-   "images/portraits/huginn@dusk.jpg",
-   "images/portraits/huginn@night.jpg"
+   "sources/huginn-letter.jpg",
+   "sources/huginn-letter@dusk.jpg",
+   "sources/huginn-letter@night.jpg"
   ],
   "lights": [
    "day",
