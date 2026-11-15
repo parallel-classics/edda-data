@@ -22,32 +22,32 @@
     "aegir@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 64311
+     "bytes": 68261
     },
     "aegir@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 19154
+     "bytes": 20398
     },
     "aegir@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8228
+     "bytes": 8772
     },
     "aegir@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 69222
+     "bytes": 63524
     },
     "aegir@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 20274
+     "bytes": 18897
     },
     "aegir@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8896
+     "bytes": 8355
     }
    },
    "lights": [
@@ -61,47 +61,47 @@
     "alviss-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 77703
+     "bytes": 85628
     },
     "alviss-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 23696
+     "bytes": 26107
     },
     "alviss-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 10953
+     "bytes": 11242
     },
     "alviss@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 59998
+     "bytes": 68220
     },
     "alviss@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 18237
+     "bytes": 20810
     },
     "alviss@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8710
+     "bytes": 8879
     },
     "alviss@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 57320
+     "bytes": 64245
     },
     "alviss@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 17228
+     "bytes": 19529
     },
     "alviss@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8367
+     "bytes": 8683
     }
    },
    "lights": [
@@ -130,32 +130,32 @@
     "andvari@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 45090
+     "bytes": 45976
     },
     "andvari@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16346
+     "bytes": 16287
     },
     "andvari@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7658
+     "bytes": 7914
     },
     "andvari@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 46324
+     "bytes": 51115
     },
     "andvari@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 15612
+     "bytes": 17669
     },
     "andvari@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7366
+     "bytes": 7461
     }
    },
    "lights": [
@@ -655,47 +655,47 @@
     "fafnir-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 87114
+     "bytes": 90279
     },
     "fafnir-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 27047
+     "bytes": 27914
     },
     "fafnir-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 11523
+     "bytes": 11871
     },
     "fafnir@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 71520
+     "bytes": 70130
     },
     "fafnir@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 21632
+     "bytes": 21543
     },
     "fafnir@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 9217
+     "bytes": 9284
     },
     "fafnir@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 63199
+     "bytes": 71479
     },
     "fafnir@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 18949
+     "bytes": 21667
     },
     "fafnir@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8245
+     "bytes": 9390
     }
    },
    "lights": [
@@ -940,32 +940,32 @@
     "freyja@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 43818
+     "bytes": 45029
     },
     "freyja@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13714
+     "bytes": 14058
     },
     "freyja@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7422
+     "bytes": 7632
     },
     "freyja@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 37529
+     "bytes": 38273
     },
     "freyja@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 11571
+     "bytes": 11983
     },
     "freyja@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6592
+     "bytes": 7082
     }
    },
    "lights": [
@@ -1372,32 +1372,32 @@
     "glitnir@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 49868
+     "bytes": 45817
     },
     "glitnir@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 15260
+     "bytes": 14202
     },
     "glitnir@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6771
+     "bytes": 6698
     },
     "glitnir@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 48612
+     "bytes": 48426
     },
     "glitnir@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 14516
+     "bytes": 14433
     },
     "glitnir@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6643
+     "bytes": 6678
     }
    },
    "lights": [
@@ -1588,32 +1588,32 @@
     "gullinbursti@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 55692
+     "bytes": 49617
     },
     "gullinbursti@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 17548
+     "bytes": 15646
     },
     "gullinbursti@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8779
+     "bytes": 7829
     },
     "gullinbursti@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 55030
+     "bytes": 49564
     },
     "gullinbursti@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16741
+     "bytes": 15441
     },
     "gullinbursti@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8184
+     "bytes": 7828
     }
    },
    "lights": [
@@ -1642,32 +1642,32 @@
     "gulltoppr@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 40230
+     "bytes": 40378
     },
     "gulltoppr@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13524
+     "bytes": 13441
     },
     "gulltoppr@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7167
+     "bytes": 6749
     },
     "gulltoppr@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 35890
+     "bytes": 37532
     },
     "gulltoppr@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 11792
+     "bytes": 11444
     },
     "gulltoppr@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6187
+     "bytes": 5912
     }
    },
    "lights": [
@@ -1696,32 +1696,32 @@
     "gullveig@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 57493
+     "bytes": 58464
     },
     "gullveig@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 18758
+     "bytes": 19222
     },
     "gullveig@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7961
+     "bytes": 8156
     },
     "gullveig@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 53520
+     "bytes": 58795
     },
     "gullveig@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 17145
+     "bytes": 18750
     },
     "gullveig@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8088
+     "bytes": 8511
     }
    },
    "lights": [
@@ -2722,32 +2722,32 @@
     "laeradr@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 76636
+     "bytes": 79394
     },
     "laeradr@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 22281
+     "bytes": 22913
     },
     "laeradr@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 9122
+     "bytes": 9389
     },
     "laeradr@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 77884
+     "bytes": 69656
     },
     "laeradr@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 21985
+     "bytes": 19834
     },
     "laeradr@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8867
+     "bytes": 8288
     }
    },
    "lights": [
@@ -2923,47 +2923,47 @@
     "midgard-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 70956
+     "bytes": 73347
     },
     "midgard-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 20889
+     "bytes": 21682
     },
     "midgard-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8924
+     "bytes": 9102
     },
     "midgard@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 56566
+     "bytes": 58845
     },
     "midgard@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16525
+     "bytes": 17218
     },
     "midgard@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7147
+     "bytes": 7241
     },
     "midgard@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 57304
+     "bytes": 56101
     },
     "midgard@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16373
+     "bytes": 16006
     },
     "midgard@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7063
+     "bytes": 6836
     }
    },
    "lights": [
@@ -3586,32 +3586,32 @@
     "saga@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 48939
+     "bytes": 47854
     },
     "saga@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16879
+     "bytes": 16592
     },
     "saga@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7143
+     "bytes": 7042
     },
     "saga@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 50622
+     "bytes": 48666
     },
     "saga@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16668
+     "bytes": 16264
     },
     "saga@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7440
+     "bytes": 7203
     }
    },
    "lights": [
@@ -3640,32 +3640,32 @@
     "sif@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 42458
+     "bytes": 41812
     },
     "sif@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13525
+     "bytes": 13355
     },
     "sif@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7842
+     "bytes": 7695
     },
     "sif@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 40234
+     "bytes": 34789
     },
     "sif@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13097
+     "bytes": 11070
     },
     "sif@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7738
+     "bytes": 6719
     }
    },
    "lights": [
@@ -4882,32 +4882,32 @@
     "valhalla@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 64391
+     "bytes": 69944
     },
     "valhalla@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 19323
+     "bytes": 21015
     },
     "valhalla@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8542
+     "bytes": 9241
     },
     "valhalla@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 56136
+     "bytes": 60928
     },
     "valhalla@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16608
+     "bytes": 17736
     },
     "valhalla@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7374
+     "bytes": 7899
     }
    },
    "lights": [
@@ -5584,32 +5584,32 @@
     "andvaranaut@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 68702
+     "bytes": 63375
     },
     "andvaranaut@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 22338
+     "bytes": 20757
     },
     "andvaranaut@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 9649
+     "bytes": 9032
     },
     "andvaranaut@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 62973
+     "bytes": 56721
     },
     "andvaranaut@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 20239
+     "bytes": 18416
     },
     "andvaranaut@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8730
+     "bytes": 8158
     }
    },
    "lights": [
@@ -5800,32 +5800,32 @@
     "asgard@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 54111
+     "bytes": 55767
     },
     "asgard@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16498
+     "bytes": 16953
     },
     "asgard@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7369
+     "bytes": 7579
     },
     "asgard@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 46155
+     "bytes": 51659
     },
     "asgard@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 14017
+     "bytes": 15713
     },
     "asgard@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6449
+     "bytes": 7259
     }
    },
    "lights": [
@@ -6340,32 +6340,32 @@
     "bilskirnir@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 55256
+     "bytes": 51540
     },
     "bilskirnir@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16719
+     "bytes": 15424
     },
     "bilskirnir@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7398
+     "bytes": 6963
     },
     "bilskirnir@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 64077
+     "bytes": 47756
     },
     "bilskirnir@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 19870
+     "bytes": 13944
     },
     "bilskirnir@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8305
+     "bytes": 6591
     }
    },
    "lights": [
@@ -6664,32 +6664,32 @@
     "breidablik@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 53452
+     "bytes": 49952
     },
     "breidablik@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16922
+     "bytes": 16737
     },
     "breidablik@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7589
+     "bytes": 7670
     },
     "breidablik@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 46045
+     "bytes": 43628
     },
     "breidablik@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 14991
+     "bytes": 13798
     },
     "breidablik@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6842
+     "bytes": 6469
     }
    },
    "lights": [
@@ -6718,32 +6718,32 @@
     "brimir@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 60074
+     "bytes": 63465
     },
     "brimir@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 18435
+     "bytes": 19606
     },
     "brimir@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7922
+     "bytes": 8443
     },
     "brimir@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 61041
+     "bytes": 56169
     },
     "brimir@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 18452
+     "bytes": 17150
     },
     "brimir@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8071
+     "bytes": 7498
     }
    },
    "lights": [
@@ -6772,32 +6772,32 @@
     "brisingamen@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 50270
+     "bytes": 50752
     },
     "brisingamen@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 15345
+     "bytes": 15561
     },
     "brisingamen@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7654
+     "bytes": 7808
     },
     "brisingamen@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 44391
+     "bytes": 45154
     },
     "brisingamen@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 12671
+     "bytes": 13194
     },
     "brisingamen@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6256
+     "bytes": 6407
     }
    },
    "lights": [
@@ -7258,32 +7258,32 @@
     "draupnir@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 33772
+     "bytes": 35177
     },
     "draupnir@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 10593
+     "bytes": 11134
     },
     "draupnir@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 5626
+     "bytes": 5938
     },
     "draupnir@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 32852
+     "bytes": 33959
     },
     "draupnir@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 10508
+     "bytes": 10932
     },
     "draupnir@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 5552
+     "bytes": 5745
     }
    },
    "lights": [
@@ -8176,32 +8176,32 @@
     "fensalir@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 65807
+     "bytes": 69098
     },
     "fensalir@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 19816
+     "bytes": 20774
     },
     "fensalir@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8253
+     "bytes": 8636
     },
     "fensalir@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 63091
+     "bytes": 61325
     },
     "fensalir@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 18456
+     "bytes": 18106
     },
     "fensalir@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7734
+     "bytes": 7695
     }
    },
    "lights": [
@@ -8500,32 +8500,32 @@
     "folkvangr@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 45079
+     "bytes": 46265
     },
     "folkvangr@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 14680
+     "bytes": 15181
     },
     "folkvangr@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6586
+     "bytes": 6854
     },
     "folkvangr@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 43595
+     "bytes": 38896
     },
     "folkvangr@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13700
+     "bytes": 12250
     },
     "folkvangr@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6298
+     "bytes": 5730
     }
    },
    "lights": [
@@ -8755,47 +8755,47 @@
     "geri-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 70847
+     "bytes": 75056
     },
     "geri-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 21570
+     "bytes": 22777
     },
     "geri-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 9096
+     "bytes": 9409
     },
     "geri@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 51667
+     "bytes": 55818
     },
     "geri@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 15688
+     "bytes": 17029
     },
     "geri@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6765
+     "bytes": 7110
     },
     "geri@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 52065
+     "bytes": 54851
     },
     "geri@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 14876
+     "bytes": 15564
     },
     "geri@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6247
+     "bytes": 6353
     }
    },
    "lights": [
@@ -8863,47 +8863,47 @@
     "gimle-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 64418
+     "bytes": 65414
     },
     "gimle-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 20019
+     "bytes": 20328
     },
     "gimle-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 9006
+     "bytes": 9167
     },
     "gimle@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 57158
+     "bytes": 53288
     },
     "gimle@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 17752
+     "bytes": 16671
     },
     "gimle@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7984
+     "bytes": 7616
     },
     "gimle@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 62109
+     "bytes": 59033
     },
     "gimle@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 19021
+     "bytes": 17995
     },
     "gimle@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7966
+     "bytes": 8000
     }
    },
    "lights": [
@@ -8986,32 +8986,32 @@
     "gjallarbru@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 73287
+     "bytes": 73444
     },
     "gjallarbru@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 22728
+     "bytes": 22611
     },
     "gjallarbru@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 9517
+     "bytes": 9473
     },
     "gjallarbru@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 68479
+     "bytes": 75809
     },
     "gjallarbru@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 21361
+     "bytes": 23449
     },
     "gjallarbru@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8967
+     "bytes": 10047
     }
    },
    "lights": [
@@ -9256,32 +9256,32 @@
     "gladsheimr@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 62829
+     "bytes": 65940
     },
     "gladsheimr@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 18899
+     "bytes": 19624
     },
     "gladsheimr@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7620
+     "bytes": 8118
     },
     "gladsheimr@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 53920
+     "bytes": 61344
     },
     "gladsheimr@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16128
+     "bytes": 18373
     },
     "gladsheimr@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6642
+     "bytes": 7777
     }
    },
    "lights": [
@@ -9688,32 +9688,32 @@
     "gramr@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 39717
+     "bytes": 37621
     },
     "gramr@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13166
+     "bytes": 12915
     },
     "gramr@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6167
+     "bytes": 6079
     },
     "gramr@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 38678
+     "bytes": 30679
     },
     "gramr@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 12284
+     "bytes": 10311
     },
     "gramr@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 5899
+     "bytes": 4905
     }
    },
    "lights": [
@@ -10228,32 +10228,32 @@
     "gullfaxi@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 58856
+     "bytes": 60296
     },
     "gullfaxi@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 18511
+     "bytes": 18978
     },
     "gullfaxi@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8345
+     "bytes": 8488
     },
     "gullfaxi@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 53873
+     "bytes": 56476
     },
     "gullfaxi@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 17009
+     "bytes": 17730
     },
     "gullfaxi@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7743
+     "bytes": 8196
     }
    },
    "lights": [
@@ -10984,32 +10984,32 @@
     "himinbjorg@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 53855
+     "bytes": 56322
     },
     "himinbjorg@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 17360
+     "bytes": 18258
     },
     "himinbjorg@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7782
+     "bytes": 8080
     },
     "himinbjorg@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 47873
+     "bytes": 47726
     },
     "himinbjorg@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 15299
+     "bytes": 15309
     },
     "himinbjorg@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6910
+     "bytes": 6747
     }
    },
    "lights": [
@@ -11362,32 +11362,32 @@
     "hlesey@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 41576
+     "bytes": 44216
     },
     "hlesey@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13432
+     "bytes": 14617
     },
     "hlesey@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6127
+     "bytes": 6543
     },
     "hlesey@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 41971
+     "bytes": 33179
     },
     "hlesey@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 14117
+     "bytes": 11070
     },
     "hlesey@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6344
+     "bytes": 5129
     }
    },
    "lights": [
@@ -11995,47 +11995,47 @@
     "hreidmarr-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 67731
+     "bytes": 68097
     },
     "hreidmarr-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 20660
+     "bytes": 20739
     },
     "hreidmarr-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 9692
+     "bytes": 9742
     },
     "hreidmarr@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 56061
+     "bytes": 54723
     },
     "hreidmarr@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 17168
+     "bytes": 16528
     },
     "hreidmarr@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7968
+     "bytes": 7782
     },
     "hreidmarr@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 47632
+     "bytes": 49042
     },
     "hreidmarr@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 14348
+     "bytes": 15018
     },
     "hreidmarr@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6893
+     "bytes": 7253
     }
    },
    "lights": [
@@ -12280,32 +12280,32 @@
     "hrotti@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 45816
+     "bytes": 47108
     },
     "hrotti@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 14971
+     "bytes": 15285
     },
     "hrotti@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7158
+     "bytes": 7267
     },
     "hrotti@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 42376
+     "bytes": 44919
     },
     "hrotti@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13150
+     "bytes": 14432
     },
     "hrotti@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6262
+     "bytes": 7197
     }
    },
    "lights": [
@@ -12550,32 +12550,32 @@
     "idavollr@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 70575
+     "bytes": 73306
     },
     "idavollr@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 21991
+     "bytes": 22659
     },
     "idavollr@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8767
+     "bytes": 9017
     },
     "idavollr@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 59800
+     "bytes": 69368
     },
     "idavollr@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 18383
+     "bytes": 21218
     },
     "idavollr@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7314
+     "bytes": 8564
     }
    },
    "lights": [
@@ -12604,32 +12604,32 @@
     "idi@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 53204
+     "bytes": 53546
     },
     "idi@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16557
+     "bytes": 16598
     },
     "idi@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8530
+     "bytes": 8356
     },
     "idi@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 46848
+     "bytes": 42625
     },
     "idi@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 14128
+     "bytes": 13305
     },
     "idi@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7919
+     "bytes": 6957
     }
    },
    "lights": [
@@ -14656,32 +14656,32 @@
     "niflungar@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 37540
+     "bytes": 39515
     },
     "niflungar@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 12850
+     "bytes": 13302
     },
     "niflungar@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6168
+     "bytes": 6482
     },
     "niflungar@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 42254
+     "bytes": 40868
     },
     "niflungar@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13726
+     "bytes": 13266
     },
     "niflungar@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6760
+     "bytes": 6486
     }
    },
    "lights": [
@@ -14710,32 +14710,32 @@
     "noatun@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 53806
+     "bytes": 51421
     },
     "noatun@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 17708
+     "bytes": 16703
     },
     "noatun@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7866
+     "bytes": 7409
     },
     "noatun@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 48200
+     "bytes": 48835
     },
     "noatun@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 15653
+     "bytes": 15753
     },
     "noatun@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7177
+     "bytes": 7092
     }
    },
    "lights": [
@@ -15343,47 +15343,47 @@
     "rhine-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 79026
+     "bytes": 83789
     },
     "rhine-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 23936
+     "bytes": 25059
     },
     "rhine-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 9878
+     "bytes": 10143
     },
     "rhine@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 68023
+     "bytes": 69897
     },
     "rhine@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 20506
+     "bytes": 20821
     },
     "rhine@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8456
+     "bytes": 8350
     },
     "rhine@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 62297
+     "bytes": 61284
     },
     "rhine@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 18851
+     "bytes": 17785
     },
     "rhine@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8011
+     "bytes": 7466
     }
    },
    "lights": [
@@ -15682,32 +15682,32 @@
     "sessrumnir@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 51456
+     "bytes": 61560
     },
     "sessrumnir@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 15085
+     "bytes": 18092
     },
     "sessrumnir@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6638
+     "bytes": 7701
     },
     "sessrumnir@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 51936
+     "bytes": 53584
     },
     "sessrumnir@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 15040
+     "bytes": 15964
     },
     "sessrumnir@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6762
+     "bytes": 7105
     }
    },
    "lights": [
@@ -16330,32 +16330,32 @@
     "sokkvabekkr@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 65428
+     "bytes": 63721
     },
     "sokkvabekkr@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 20084
+     "bytes": 19640
     },
     "sokkvabekkr@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8728
+     "bytes": 8598
     },
     "sokkvabekkr@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 56343
+     "bytes": 56867
     },
     "sokkvabekkr@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 17087
+     "bytes": 17516
     },
     "sokkvabekkr@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7511
+     "bytes": 7682
     }
    },
    "lights": [
@@ -16978,32 +16978,32 @@
     "thrudheimr@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 80965
+     "bytes": 81205
     },
     "thrudheimr@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 22851
+     "bytes": 22923
     },
     "thrudheimr@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8699
+     "bytes": 8790
     },
     "thrudheimr@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 72843
+     "bytes": 78024
     },
     "thrudheimr@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 20631
+     "bytes": 21704
     },
     "thrudheimr@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8286
+     "bytes": 8745
     }
    },
    "lights": [
@@ -17032,32 +17032,32 @@
     "thrudvangr@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 51524
+     "bytes": 52505
     },
     "thrudvangr@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 17547
+     "bytes": 17474
     },
     "thrudvangr@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7580
+     "bytes": 7583
     },
     "thrudvangr@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 50126
+     "bytes": 53154
     },
     "thrudvangr@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 15763
+     "bytes": 16577
     },
     "thrudvangr@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6834
+     "bytes": 7063
     }
    },
    "lights": [
@@ -17086,32 +17086,32 @@
     "thrymheimr@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 51721
+     "bytes": 48854
     },
     "thrymheimr@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 17070
+     "bytes": 16406
     },
     "thrymheimr@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7166
+     "bytes": 6919
     },
     "thrymheimr@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 53504
+     "bytes": 56888
     },
     "thrymheimr@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16771
+     "bytes": 17891
     },
     "thrymheimr@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7186
+     "bytes": 7604
     }
    },
    "lights": [
@@ -17248,32 +17248,32 @@
     "utgardar@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 55761
+     "bytes": 57900
     },
     "utgardar@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 17302
+     "bytes": 17827
     },
     "utgardar@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7593
+     "bytes": 7727
     },
     "utgardar@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 45246
+     "bytes": 54104
     },
     "utgardar@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13727
+     "bytes": 16657
     },
     "utgardar@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6044
+     "bytes": 7333
     }
    },
    "lights": [
@@ -17302,32 +17302,32 @@
     "valaskjalf@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 37376
+     "bytes": 40703
     },
     "valaskjalf@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 12349
+     "bytes": 13471
     },
     "valaskjalf@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 5996
+     "bytes": 6750
     },
     "valaskjalf@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 42608
+     "bytes": 52592
     },
     "valaskjalf@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13020
+     "bytes": 15524
     },
     "valaskjalf@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6275
+     "bytes": 6869
     }
    },
    "lights": [
@@ -17449,47 +17449,47 @@
     "vanaheimr-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 86890
+     "bytes": 95871
     },
     "vanaheimr-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 25242
+     "bytes": 28769
     },
     "vanaheimr-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 9627
+     "bytes": 10962
     },
     "vanaheimr@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 74620
+     "bytes": 79860
     },
     "vanaheimr@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 21632
+     "bytes": 23660
     },
     "vanaheimr@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8283
+     "bytes": 9046
     },
     "vanaheimr@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 74935
+     "bytes": 74864
     },
     "vanaheimr@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 21549
+     "bytes": 22266
     },
     "vanaheimr@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8469
+     "bytes": 8559
     }
    },
    "lights": [
@@ -17680,32 +17680,32 @@
     "vidblainn@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 85201
+     "bytes": 84871
     },
     "vidblainn@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 25467
+     "bytes": 25597
     },
     "vidblainn@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 10331
+     "bytes": 10531
     },
     "vidblainn@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 68194
+     "bytes": 70261
     },
     "vidblainn@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 20795
+     "bytes": 21147
     },
     "vidblainn@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8612
+     "bytes": 8886
     }
    },
    "lights": [
@@ -17788,32 +17788,32 @@
     "vingolf@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 47107
+     "bytes": 50073
     },
     "vingolf@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 14033
+     "bytes": 15005
     },
     "vingolf@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6313
+     "bytes": 6742
     },
     "vingolf@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 44786
+     "bytes": 41725
     },
     "vingolf@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13373
+     "bytes": 12272
     },
     "vingolf@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6062
+     "bytes": 5668
     }
    },
    "lights": [

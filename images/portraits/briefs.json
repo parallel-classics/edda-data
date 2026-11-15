@@ -1,5 +1,5 @@
 {
- "_note": "Briefs for the portraits of the Mímir cards (images/portraits/BRIEF.md explains them). Read by edda-site/tools/gen_portraits.py. subjects: kind (person, animal, place, thing), subject (what must be seen), ref (a cut-out in ref/<id>.jpg is the character reference), length (three-quarter or whole, where half-length would lose the attribute), pair / pair_of + differs (the two are drawn in one sheet, facing each other). lights + relight: the prompt that turns a chosen picture into its dusk and night versions (gen_portraits.py --relight).",
+ "_note": "Briefs for the portraits of the Mímir cards (images/portraits/BRIEF.md explains them). Read by edda-site/tools/gen_portraits.py. subjects: kind (person, animal, place, thing), subject (what must be seen), ref (a cut-out in ref/<id>.jpg is the character reference), length (three-quarter or whole, where half-length would lose the attribute), pair / pair_of + differs (the two are drawn in one sheet, facing each other). lights + relight: the prompt that turns a chosen picture into its dusk and night versions (gen_portraits.py --relight). light_extra (per subject) and plates (per plate): an extra line for the dusk or night prompt (a hall's lit windows, gold that gleams).",
  "reference": "Use the attached picture only as the character reference: the same person, face, hair, clothing colours and objects. Redraw the figure alone. Do not copy the neighbours or the background.",
  "rules": "Plain quiet background, the same in every panel. No text, no letters, no runes, no labels, no border, no frame, no signature, no other people. No horned or winged helmets; clothing and gear of the Viking Age.",
  "format": {
@@ -166,7 +166,11 @@
   "sif": {
    "kind": "person",
    "subject": "Sif: very long hair of real metallic gold, the main thing in the picture; not blond. No scissors or shears (Loki cut her hair, not she).",
-   "ref": true
+   "ref": true,
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "idunn": {
    "kind": "person",
@@ -186,7 +190,11 @@
   "saga": {
    "kind": "person",
    "subject": "Sága: lifting a gold cup; a second gold cup beside her; water behind.",
-   "ref": true
+   "ref": true,
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "gna": {
    "kind": "person",
@@ -213,12 +221,20 @@
   "freyja": {
    "kind": "person",
    "subject": "Freyja: the great necklace Brísingamen on her breast; a cloak of falcon feathers on her shoulders; a tear of red gold on her cheek; one cat at her side.",
-   "ref": true
+   "ref": true,
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "gullveig": {
    "kind": "person",
    "subject": "Gullveig: a woman standing unharmed in flames, spear shafts through her; nothing in her hands (the gold is only in her name).",
-   "ref": true
+   "ref": true,
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "kvasir": {
    "kind": "person",
@@ -255,11 +271,19 @@
   },
   "gullinbursti": {
    "kind": "animal",
-   "subject": "Gullinbursti: a boar with bristles of shining gold."
+   "subject": "Gullinbursti: a boar with bristles of shining gold.",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "gulltoppr": {
    "kind": "animal",
-   "subject": "Gulltoppr: a horse with a forelock of gold."
+   "subject": "Gulltoppr: a horse with a forelock of gold.",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "audumbla": {
    "kind": "animal",
@@ -271,7 +295,11 @@
   },
   "fafnir": {
    "kind": "animal",
-   "subject": "Fáfnir: a huge wingless serpent-dragon, long-bodied, coiled on a heap of gold (the Eddas call him a serpent; no wings)."
+   "subject": "Fáfnir: a huge wingless serpent-dragon, long-bodied, coiled on a heap of gold (the Eddas call him a serpent; no wings).",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "yggdrasil": {
    "kind": "place",
@@ -486,7 +514,11 @@
   },
   "fensalir": {
    "kind": "place",
-   "subject": "Fensalir: a great timber hall standing in fenland among water and reeds, mist round it."
+   "subject": "Fensalir: a great timber hall standing in fenland among water and reeds, mist round it.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "gerdr": {
    "kind": "person",
@@ -546,7 +578,11 @@
   },
   "andvari": {
    "kind": "person",
-   "subject": "Andvari: a dwarf crouching on a rock under a waterfall, clutching one gold ring to his chest; a pike in the pool below."
+   "subject": "Andvari: a dwarf crouching on a rock under a waterfall, clutching one gold ring to his chest; a pike in the pool below.",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "durinn": {
    "kind": "person",
@@ -588,7 +624,11 @@
    "kind": "person",
    "subject": "One of the couple who rule the sea, standing waist-deep in the waves.",
    "pair": "ran",
-   "differs": "Ægir: a big sea-giant host with a beard like foam, holding a brimming ale-horn; a hall lit by gold behind him."
+   "differs": "Ægir: a big sea-giant host with a beard like foam, holding a brimming ale-horn; a hall lit by gold behind him.",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "ran": {
    "kind": "person",
@@ -799,7 +839,11 @@
   },
   "idi": {
    "kind": "person",
-   "subject": "Iði: a giant with his mouth full of gold, gold pieces between his fingers."
+   "subject": "Iði: a giant with his mouth full of gold, gold pieces between his fingers.",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "bolthorn": {
    "kind": "person",
@@ -832,7 +876,11 @@
   },
   "brimir": {
    "kind": "place",
-   "subject": "Brimir: a warm beer-hall standing in a land that never freezes, light in the door."
+   "subject": "Brimir: a warm beer-hall standing in a land that never freezes, light in the door.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "norns": {
    "kind": "person",
@@ -849,7 +897,11 @@
   },
   "gullfaxi": {
    "kind": "animal",
-   "subject": "Gullfaxi: a galloping horse with a mane of gold."
+   "subject": "Gullfaxi: a galloping horse with a mane of gold.",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "hofvarpnir": {
    "kind": "animal",
@@ -886,7 +938,11 @@
   },
   "niflungar": {
    "kind": "person",
-   "subject": "One of the Niflungar: a dark-cloaked prince letting gold fall from his hands into a great river."
+   "subject": "One of the Niflungar: a dark-cloaked prince letting gold fall from his hands into a great river.",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "granmarssynir": {
    "kind": "person",
@@ -903,15 +959,27 @@
   },
   "andvaranaut": {
    "kind": "thing",
-   "subject": "Andvaranaut: one gold ring lying on a wet rock by a waterfall, a dark gleam on it."
+   "subject": "Andvaranaut: one gold ring lying on a wet rock by a waterfall, a dark gleam on it.",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "brisingamen": {
    "kind": "thing",
-   "subject": "Brísingamen: a great necklace of gold and amber."
+   "subject": "Brísingamen: a great necklace of gold and amber.",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "draupnir": {
    "kind": "thing",
-   "subject": "Draupnir: a heavy closed gold arm-ring, and eight more gold rings exactly like it, the same size and as heavy (Snorri: every ninth night eight rings of equal weight drip from it), dripping from it one after another like drops. Not small rings."
+   "subject": "Draupnir: a heavy closed gold arm-ring, and eight more gold rings exactly like it, the same size and as heavy (Snorri: every ninth night eight rings of equal weight drip from it), dripping from it one after another like drops. Not small rings.",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "gleipnir": {
    "kind": "thing",
@@ -939,11 +1007,19 @@
   },
   "gramr": {
    "kind": "thing",
-   "subject": "Gramr: a sword standing in a split anvil."
+   "subject": "Gramr: a sword standing in a split anvil.",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "hrotti": {
    "kind": "thing",
-   "subject": "Hrotti: a sword lying on a heap of gold beside a helmet."
+   "subject": "Hrotti: a sword lying on a heap of gold beside a helmet.",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "gridarvolr": {
    "kind": "thing",
@@ -1041,11 +1117,19 @@
   },
   "asgard": {
    "kind": "place",
-   "subject": "Ásgarðr: the gods' stronghold on a height in the middle of the world, a great wall round halls with gold roofs, a rainbow bridge leading up."
+   "subject": "Ásgarðr: the gods' stronghold on a height in the middle of the world, a great wall round halls with gold roofs, a rainbow bridge leading up.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "gimle": {
    "kind": "place",
-   "subject": "Gimlé: a hall roofed with gold, brighter than the sun, standing alone at the southern end of heaven above the clouds."
+   "subject": "Gimlé: a hall roofed with gold, brighter than the sun, standing alone at the southern end of heaven above the clouds.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door. The gold catches the last light and gleams.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door. The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "ginnungagap": {
    "kind": "place",
@@ -1061,7 +1145,11 @@
   },
   "idavollr": {
    "kind": "place",
-   "subject": "Iðavöllr: a green field inside the gods' stronghold; in the grass, golden gaming pieces."
+   "subject": "Iðavöllr: a green field inside the gods' stronghold; in the grass, golden gaming pieces.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "jarnvidr": {
    "kind": "place",
@@ -1073,7 +1161,11 @@
   },
   "midgard": {
    "kind": "place",
-   "subject": "Miðgarðr: the inner earth of fields and farms ringed by a great fence like a line of eyebrow hair, the sea outside it with the coils of the World Serpent in it, and the rainbow bridge rising from the land to the sky."
+   "subject": "Miðgarðr: the inner earth of fields and farms ringed by a great fence like a line of eyebrow hair, the sea outside it with the coils of the World Serpent in it, and the rainbow bridge rising from the land to the sky.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "mimisbrunnr": {
    "kind": "place",
@@ -1089,11 +1181,19 @@
   },
   "noatun": {
    "kind": "place",
-   "subject": "Nóatún: a hall by a harbour with ships drawn up, gulls crying above."
+   "subject": "Nóatún: a hall by a harbour with ships drawn up, gulls crying above.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "sokkvabekkr": {
    "kind": "place",
-   "subject": "Søkkvabekkr: a hall under water, cool waves rolling over its roof; two golden cups on a table inside the door."
+   "subject": "Søkkvabekkr: a hall under water, cool waves rolling over its roof; two golden cups on a table inside the door.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "svartalfaheimr": {
    "kind": "place",
@@ -1101,11 +1201,19 @@
   },
   "thrudvangr": {
    "kind": "place",
-   "subject": "Þrúðvangar: a wide plain under storm cloud with one enormous hall on it."
+   "subject": "Þrúðvangar: a wide plain under storm cloud with one enormous hall on it.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "thrymheimr": {
    "kind": "place",
-   "subject": "Þrymheimr: a hall high among snowy mountains, ski tracks leading to it, a wolf on a ridge."
+   "subject": "Þrymheimr: a hall high among snowy mountains, ski tracks leading to it, a wolf on a ridge.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "urdarbrunnr": {
    "kind": "place",
@@ -1113,7 +1221,11 @@
   },
   "vanaheimr": {
    "kind": "place",
-   "subject": "Vanaheimr: a mild green land of fields, orchards and sea shore."
+   "subject": "Vanaheimr: a mild green land of fields, orchards and sea shore.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "vigridr": {
    "kind": "place",
@@ -1129,15 +1241,27 @@
   },
   "folkvangr": {
    "kind": "place",
-   "subject": "Fólkvangr: a wide field in heaven with a great fair hall, many seats inside its open door."
+   "subject": "Fólkvangr: a wide field in heaven with a great fair hall, many seats inside its open door.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "thrudheimr": {
    "kind": "place",
-   "subject": "Þrúðheimr: a holy land near gods and elves, a strong hall under thunder cloud."
+   "subject": "Þrúðheimr: a holy land near gods and elves, a strong hall under thunder cloud.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "hlesey": {
    "kind": "place",
-   "subject": "Hlésey: a low island in the sea, a hall on it lit from inside by gold."
+   "subject": "Hlésey: a low island in the sea, a hall on it lit from inside by gold.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "andvarafors": {
    "kind": "place",
@@ -1145,11 +1269,19 @@
   },
   "laeradr": {
    "kind": "place",
-   "subject": "Læraðr: a great tree beside a hall roof; on the roof a goat and a hart biting its branches."
+   "subject": "Læraðr: a great tree beside a hall roof; on the roof a goat and a hart biting its branches.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "vidblainn": {
    "kind": "place",
-   "subject": "Víðbláinn: a wide blue heaven above the sky we see, a golden hall small in it."
+   "subject": "Víðbláinn: a wide blue heaven above the sky we see, a golden hall small in it.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "nidafjoll": {
    "kind": "place",
@@ -1157,7 +1289,11 @@
   },
   "utgardar": {
    "kind": "place",
-   "subject": "Útgarðr: a stronghold so high that travellers must bend their heads back to see its top, a barred gate at its foot."
+   "subject": "Útgarðr: a stronghold so high that travellers must bend their heads back to see its top, a barred gate at its foot.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "hindarfjall": {
    "kind": "place",
@@ -1193,39 +1329,75 @@
   },
   "bilskirnir": {
    "kind": "place",
-   "subject": "Bilskirnir: the biggest of all houses, a hall with hundreds of doors, lightning over its roof."
+   "subject": "Bilskirnir: the biggest of all houses, a hall with hundreds of doors, lightning over its roof.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "breidablik": {
    "kind": "place",
-   "subject": "Breiðablik: a wide shining hall in a clean bright land, far view on all sides."
+   "subject": "Breiðablik: a wide shining hall in a clean bright land, far view on all sides.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "gladsheimr": {
    "kind": "place",
-   "subject": "Glaðsheimr: a hall all of gold; inside its open doors twelve seats and one high seat."
+   "subject": "Glaðsheimr: a hall all of gold; inside its open doors twelve seats and one high seat.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door. The gold catches the last light and gleams.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door. The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "glitnir": {
    "kind": "place",
-   "subject": "Glitnir: a hall with walls and pillars of red gold and a roof of silver."
+   "subject": "Glitnir: a hall with walls and pillars of red gold and a roof of silver.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door. The gold catches the last light and gleams.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door. The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "himinbjorg": {
    "kind": "place",
-   "subject": "Himinbjörg: a watch hall on a cliff at the edge of heaven where the rainbow bridge arrives."
+   "subject": "Himinbjörg: a watch hall on a cliff at the edge of heaven where the rainbow bridge arrives.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "valhalla": {
    "kind": "place",
-   "subject": "Valhöll: a vast hall with spear shafts for rafters and a roof of shields, a wolf hanging over the west door and an eagle above it."
+   "subject": "Valhöll: a vast hall with spear shafts for rafters and a roof of shields, a wolf hanging over the west door and an eagle above it.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door. The gold catches the last light and gleams.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door. The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "vingolf": {
    "kind": "place",
-   "subject": "Vingólf: a very fair hall of the goddesses on a green field."
+   "subject": "Vingólf: a very fair hall of the goddesses on a green field.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "sessrumnir": {
    "kind": "place",
-   "subject": "Sessrúmnir: a great fair hall with many seats, two cats at the door."
+   "subject": "Sessrúmnir: a great fair hall with many seats, two cats at the door.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "valaskjalf": {
    "kind": "place",
-   "subject": "Valaskjálf: a hall roofed with pure silver, a single high seat seen on a tower."
+   "subject": "Valaskjálf: a hall roofed with pure silver, a single high seat seen on a tower.",
+   "light_extra": {
+    "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+    "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+   }
   },
   "elivagar": {
    "kind": "place",
@@ -1237,7 +1409,11 @@
   },
   "rhine": {
    "kind": "place",
-   "subject": "The Rhine: a broad green river between wooded banks, gold glinting under the water."
+   "subject": "The Rhine: a broad green river between wooded banks, gold glinting under the water.",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "zealand": {
    "kind": "place",
@@ -1257,7 +1433,11 @@
    "kind": "place",
    "subject": "The road to Hel at its border river, dark valleys behind.",
    "pair_of": "gjoll",
-   "differs": "Gjallarbrú: the bridge over it, roofed with bright gold, a maiden guard at its end."
+   "differs": "Gjallarbrú: the bridge over it, roofed with bright gold, a maiden guard at its end.",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "borghild": {
    "kind": "person",
@@ -1307,7 +1487,11 @@
   },
   "hreidmarr": {
    "kind": "person",
-   "subject": "Hreiðmarr: a hard old farmer skilled in magic, an otter skin spread before him being covered with gold."
+   "subject": "Hreiðmarr: a hard old farmer skilled in magic, an otter skin spread before him being covered with gold.",
+   "light_extra": {
+    "dusk": "The gold catches the last light and gleams.",
+    "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+   }
   },
   "jormunrekkr": {
    "kind": "person",
@@ -1642,5 +1826,39 @@
   "dusk": "dusk just after sunset: soft fading light, a muted sky of dusty rose, mauve and grey, low contrast, the colours a little dimmer and cooler than by day; no strong orange, no glowing sun",
   "night": "night: moonlight, deep blue darkness, the subject lit softly and coolly by the moon (by a small fire only where the subject has one), a few stars in the sky"
  },
- "relight": "Edit the attached picture. Keep everything exactly as it is: the composition and framing, the subject, its pose, face, clothing and objects, every outline, the carving and the printing style. Change only the light and the time of day, to {light}. The same picture, as the same artist would print it for that hour. Gold stays recognisably gold, only dimmer: do not turn gold into silver, blue or brown. No text, no border, no frame."
+ "relight": "Edit the attached picture. Keep everything exactly as it is: the composition and framing, the subject, its pose, face, clothing and objects, every outline, the carving and the printing style. Change only the light and the time of day, to {light}. The same picture, as the same artist would print it for that hour. Gold stays recognisably gold, only dimmer: do not turn gold into silver, blue or brown. No text, no border, no frame.",
+ "plates": {
+  "p2": {
+   "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+   "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+  },
+  "p5": {
+   "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+   "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+  },
+  "p8": {
+   "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+   "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+  },
+  "p10": {
+   "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+   "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+  },
+  "p15": {
+   "dusk": "The first lamps are lit inside: a little warm light shows in the windows and the open door.",
+   "night": "Warm firelight glows from inside, through the windows, the gaps in the walls and the open door."
+  },
+  "p14": {
+   "dusk": "The gold catches the last light and gleams.",
+   "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+  },
+  "p4": {
+   "dusk": "The gold catches the last light and gleams.",
+   "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+  },
+  "p18": {
+   "dusk": "The gold catches the last light and gleams.",
+   "night": "The gold catches the moonlight and gleams brightly, clearly gold against the dark."
+  }
+ }
 }

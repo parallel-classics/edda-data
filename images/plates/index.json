@@ -50,8 +50,92 @@
      "width": 600,
      "height": 335,
      "bytes": 44174
+    },
+    "p1@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 492757
+    },
+    "p1@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 252346
+    },
+    "p1@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 259660
+    },
+    "p1@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 152080
+    },
+    "p1@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 117693
+    },
+    "p1@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 74648
+    },
+    "p1@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 46890
+    },
+    "p1@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 31870
+    },
+    "p1@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 461235
+    },
+    "p1@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 227772
+    },
+    "p1@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 242628
+    },
+    "p1@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 136644
+    },
+    "p1@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 108425
+    },
+    "p1@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 66924
+    },
+    "p1@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 43802
+    },
+    "p1@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 28522
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p2": {
    "image": "p2.jpg",
@@ -100,8 +184,92 @@
      "width": 600,
      "height": 335,
      "bytes": 46814
+    },
+    "p2@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 539033
+    },
+    "p2@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 308906
+    },
+    "p2@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 287034
+    },
+    "p2@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 182844
+    },
+    "p2@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 129746
+    },
+    "p2@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 91854
+    },
+    "p2@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 51789
+    },
+    "p2@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 38802
+    },
+    "p2@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 466175
+    },
+    "p2@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 251120
+    },
+    "p2@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 248373
+    },
+    "p2@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 151040
+    },
+    "p2@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 112154
+    },
+    "p2@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 74174
+    },
+    "p2@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 45261
+    },
+    "p2@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 31506
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p3": {
    "image": "p3.jpg",
@@ -150,8 +318,92 @@
      "width": 600,
      "height": 335,
      "bytes": 48044
+    },
+    "p3@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 525446
+    },
+    "p3@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 312012
+    },
+    "p3@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 282357
+    },
+    "p3@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 182938
+    },
+    "p3@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 127493
+    },
+    "p3@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 89512
+    },
+    "p3@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 50750
+    },
+    "p3@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 37780
+    },
+    "p3@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 480297
+    },
+    "p3@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 261762
+    },
+    "p3@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 259804
+    },
+    "p3@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 158846
+    },
+    "p3@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 118552
+    },
+    "p3@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 80092
+    },
+    "p3@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 48191
+    },
+    "p3@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 34992
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p4": {
    "image": "p4.jpg",
@@ -200,8 +452,92 @@
      "width": 600,
      "height": 335,
      "bytes": 42064
+    },
+    "p4@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 485932
+    },
+    "p4@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 282224
+    },
+    "p4@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 257521
+    },
+    "p4@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 165506
+    },
+    "p4@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 118169
+    },
+    "p4@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 81330
+    },
+    "p4@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 47684
+    },
+    "p4@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 34172
+    },
+    "p4@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 467793
+    },
+    "p4@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 269092
+    },
+    "p4@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 250494
+    },
+    "p4@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 159046
+    },
+    "p4@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 115871
+    },
+    "p4@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 79418
+    },
+    "p4@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 47480
+    },
+    "p4@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 33916
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p5": {
    "image": "p5.jpg",
@@ -250,8 +586,92 @@
      "width": 600,
      "height": 335,
      "bytes": 32024
+    },
+    "p5@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 442421
+    },
+    "p5@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 223772
+    },
+    "p5@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 232590
+    },
+    "p5@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 130912
+    },
+    "p5@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 104140
+    },
+    "p5@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 63904
+    },
+    "p5@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 40797
+    },
+    "p5@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 26106
+    },
+    "p5@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 451507
+    },
+    "p5@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 237860
+    },
+    "p5@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 238366
+    },
+    "p5@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 141864
+    },
+    "p5@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 107755
+    },
+    "p5@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 68700
+    },
+    "p5@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 42869
+    },
+    "p5@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 28640
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p6": {
    "image": "p6.jpg",
@@ -300,8 +720,92 @@
      "width": 600,
      "height": 335,
      "bytes": 26806
+    },
+    "p6@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 389507
+    },
+    "p6@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 176870
+    },
+    "p6@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 196828
+    },
+    "p6@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 100144
+    },
+    "p6@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 88559
+    },
+    "p6@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 48270
+    },
+    "p6@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 35713
+    },
+    "p6@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 20922
+    },
+    "p6@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 352384
+    },
+    "p6@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 158680
+    },
+    "p6@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 183239
+    },
+    "p6@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 91036
+    },
+    "p6@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 83432
+    },
+    "p6@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 44826
+    },
+    "p6@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 34377
+    },
+    "p6@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 19712
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p7": {
    "image": "p7.jpg",
@@ -350,8 +854,92 @@
      "width": 600,
      "height": 335,
      "bytes": 37524
+    },
+    "p7@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 502636
+    },
+    "p7@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 270600
+    },
+    "p7@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 254585
+    },
+    "p7@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 152080
+    },
+    "p7@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 111902
+    },
+    "p7@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 72614
+    },
+    "p7@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 43585
+    },
+    "p7@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 29878
+    },
+    "p7@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 453344
+    },
+    "p7@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 240912
+    },
+    "p7@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 232785
+    },
+    "p7@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 138392
+    },
+    "p7@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 103637
+    },
+    "p7@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 65518
+    },
+    "p7@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 40790
+    },
+    "p7@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 27122
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p8": {
    "image": "p8.jpg",
@@ -400,8 +988,92 @@
      "width": 600,
      "height": 335,
      "bytes": 33324
+    },
+    "p8@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 450654
+    },
+    "p8@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 235580
+    },
+    "p8@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 227663
+    },
+    "p8@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 132498
+    },
+    "p8@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 101656
+    },
+    "p8@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 64860
+    },
+    "p8@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 40223
+    },
+    "p8@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 27294
+    },
+    "p8@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 416811
+    },
+    "p8@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 216216
+    },
+    "p8@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 213018
+    },
+    "p8@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 123420
+    },
+    "p8@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 95969
+    },
+    "p8@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 59814
+    },
+    "p8@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 38732
+    },
+    "p8@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 25828
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p9": {
    "image": "p9.jpg",
@@ -450,8 +1122,92 @@
      "width": 600,
      "height": 335,
      "bytes": 40486
+    },
+    "p9@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 500968
+    },
+    "p9@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 264104
+    },
+    "p9@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 257654
+    },
+    "p9@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 154472
+    },
+    "p9@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 116953
+    },
+    "p9@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 76752
+    },
+    "p9@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 48620
+    },
+    "p9@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 33212
+    },
+    "p9@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 430941
+    },
+    "p9@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 214168
+    },
+    "p9@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 222618
+    },
+    "p9@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 125166
+    },
+    "p9@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 101527
+    },
+    "p9@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 62740
+    },
+    "p9@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 42647
+    },
+    "p9@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 27022
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p10": {
    "image": "p10.jpg",
@@ -500,8 +1256,92 @@
      "width": 600,
      "height": 335,
      "bytes": 37228
+    },
+    "p10@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 450961
+    },
+    "p10@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 242024
+    },
+    "p10@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 233558
+    },
+    "p10@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 140232
+    },
+    "p10@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 105298
+    },
+    "p10@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 68428
+    },
+    "p10@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 41227
+    },
+    "p10@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 27734
+    },
+    "p10@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 438876
+    },
+    "p10@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 234878
+    },
+    "p10@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 228765
+    },
+    "p10@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 138606
+    },
+    "p10@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 103942
+    },
+    "p10@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 66652
+    },
+    "p10@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 41346
+    },
+    "p10@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 27950
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p11": {
    "image": "p11.jpg",
@@ -550,8 +1390,92 @@
      "width": 600,
      "height": 335,
      "bytes": 38886
+    },
+    "p11@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 514156
+    },
+    "p11@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 270118
+    },
+    "p11@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 260083
+    },
+    "p11@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 152916
+    },
+    "p11@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 114721
+    },
+    "p11@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 72772
+    },
+    "p11@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 45539
+    },
+    "p11@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 30352
+    },
+    "p11@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 459767
+    },
+    "p11@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 245172
+    },
+    "p11@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 238794
+    },
+    "p11@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 139742
+    },
+    "p11@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 108028
+    },
+    "p11@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 68780
+    },
+    "p11@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 43910
+    },
+    "p11@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 28908
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p12": {
    "image": "p12.jpg",
@@ -600,8 +1524,92 @@
      "width": 600,
      "height": 335,
      "bytes": 46238
+    },
+    "p12@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 547546
+    },
+    "p12@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 303532
+    },
+    "p12@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 285255
+    },
+    "p12@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 177882
+    },
+    "p12@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 130219
+    },
+    "p12@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 89010
+    },
+    "p12@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 51926
+    },
+    "p12@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 37990
+    },
+    "p12@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 485812
+    },
+    "p12@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 258936
+    },
+    "p12@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 257459
+    },
+    "p12@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 154764
+    },
+    "p12@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 118627
+    },
+    "p12@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 78820
+    },
+    "p12@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 47935
+    },
+    "p12@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 33712
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p13": {
    "image": "p13.jpg",
@@ -650,8 +1658,92 @@
      "width": 600,
      "height": 335,
      "bytes": 38816
+    },
+    "p13@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 496868
+    },
+    "p13@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 257138
+    },
+    "p13@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 255274
+    },
+    "p13@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 148676
+    },
+    "p13@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 115938
+    },
+    "p13@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 73708
+    },
+    "p13@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 47055
+    },
+    "p13@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 31464
+    },
+    "p13@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 428527
+    },
+    "p13@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 212852
+    },
+    "p13@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 225138
+    },
+    "p13@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 125580
+    },
+    "p13@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 103210
+    },
+    "p13@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 63242
+    },
+    "p13@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 42630
+    },
+    "p13@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 27476
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p14": {
    "image": "p14.jpg",
@@ -700,8 +1792,92 @@
      "width": 600,
      "height": 335,
      "bytes": 33008
+    },
+    "p14@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 449050
+    },
+    "p14@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 241124
+    },
+    "p14@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 224116
+    },
+    "p14@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 130640
+    },
+    "p14@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 100475
+    },
+    "p14@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 62010
+    },
+    "p14@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 42809
+    },
+    "p14@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 26572
+    },
+    "p14@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 373655
+    },
+    "p14@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 195862
+    },
+    "p14@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 190224
+    },
+    "p14@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 108032
+    },
+    "p14@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 86573
+    },
+    "p14@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 52276
+    },
+    "p14@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 37015
+    },
+    "p14@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 22598
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p15": {
    "image": "p15.jpg",
@@ -750,8 +1926,92 @@
      "width": 600,
      "height": 335,
      "bytes": 48274
+    },
+    "p15@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 630901
+    },
+    "p15@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 394614
+    },
+    "p15@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 318506
+    },
+    "p15@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 215782
+    },
+    "p15@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 137318
+    },
+    "p15@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 98846
+    },
+    "p15@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 51816
+    },
+    "p15@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 38518
+    },
+    "p15@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 575019
+    },
+    "p15@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 344000
+    },
+    "p15@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 293119
+    },
+    "p15@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 192622
+    },
+    "p15@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 126965
+    },
+    "p15@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 88878
+    },
+    "p15@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 48235
+    },
+    "p15@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 35322
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p16": {
    "image": "p16.jpg",
@@ -800,8 +2060,92 @@
      "width": 600,
      "height": 335,
      "bytes": 47150
+    },
+    "p16@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 512130
+    },
+    "p16@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 279004
+    },
+    "p16@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 270631
+    },
+    "p16@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 165580
+    },
+    "p16@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 125078
+    },
+    "p16@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 83524
+    },
+    "p16@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 51076
+    },
+    "p16@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 35920
+    },
+    "p16@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 491682
+    },
+    "p16@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 269674
+    },
+    "p16@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 259746
+    },
+    "p16@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 157838
+    },
+    "p16@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 120623
+    },
+    "p16@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 81192
+    },
+    "p16@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 49720
+    },
+    "p16@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 35380
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p17": {
    "image": "p17.jpg",
@@ -809,7 +2153,7 @@
     5504,
     3072
    ],
-   "section": "first-giants",
+   "section": "world-from-ymir",
    "files": {
     "p17-2400.jpg": {
      "width": 2400,
@@ -850,8 +2194,92 @@
      "width": 600,
      "height": 335,
      "bytes": 41388
+    },
+    "p17@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 520850
+    },
+    "p17@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 288896
+    },
+    "p17@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 266725
+    },
+    "p17@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 166096
+    },
+    "p17@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 118693
+    },
+    "p17@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 80138
+    },
+    "p17@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 45937
+    },
+    "p17@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 32792
+    },
+    "p17@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 471432
+    },
+    "p17@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 253646
+    },
+    "p17@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 245729
+    },
+    "p17@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 151180
+    },
+    "p17@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 111856
+    },
+    "p17@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 74302
+    },
+    "p17@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 44254
+    },
+    "p17@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 30902
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   },
   "p18": {
    "image": "p18.jpg",
@@ -900,8 +2328,92 @@
      "width": 600,
      "height": 335,
      "bytes": 42216
+    },
+    "p18@dusk-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 504677
+    },
+    "p18@dusk-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 287854
+    },
+    "p18@dusk-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 260177
+    },
+    "p18@dusk-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 161894
+    },
+    "p18@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 116855
+    },
+    "p18@dusk-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 76824
+    },
+    "p18@dusk-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 45271
+    },
+    "p18@dusk-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 31516
+    },
+    "p18@night-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 485917
+    },
+    "p18@night-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 282264
+    },
+    "p18@night-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 251826
+    },
+    "p18@night-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 159424
+    },
+    "p18@night-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 113707
+    },
+    "p18@night-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 75556
+    },
+    "p18@night-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 44288
+    },
+    "p18@night-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 30864
     }
-   }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
   }
  },
  "crops": {
