@@ -911,7 +911,7 @@
   },
   "draupnir": {
    "kind": "thing",
-   "subject": "Draupnir: a heavy closed gold arm-ring lying on a cloth, and eight smaller gold rings, all alike, falling from it like drops. Gold, not copper."
+   "subject": "Draupnir: a heavy closed gold arm-ring, and eight more gold rings exactly like it, the same size and as heavy (Snorri: every ninth night eight rings of equal weight drip from it), dripping from it one after another like drops. Not small rings."
   },
   "gleipnir": {
    "kind": "thing",
@@ -1642,5 +1642,5 @@
   "dusk": "dusk just after sunset: soft fading light, a muted sky of dusty rose, mauve and grey, low contrast, the colours a little dimmer and cooler than by day; no strong orange, no glowing sun",
   "night": "night: moonlight, deep blue darkness, the subject lit softly and coolly by the moon (by a small fire only where the subject has one), a few stars in the sky"
  },
- "relight": "Edit the attached picture. Keep everything exactly as it is: the composition and framing, the subject, its pose, face, clothing and objects, every outline, the carving and the printing style. Change only the light and the time of day, to {light}. The same picture, as the same artist would print it for that hour. No text, no border, no frame."
+ "relight": "Edit the attached picture. Keep everything exactly as it is: the composition and framing, the subject, its pose, face, clothing and objects, every outline, the carving and the printing style. Change only the light and the time of day, to {light}. The same picture, as the same artist would print it for that hour. Gold stays recognisably gold, only dimmer: do not turn gold into silver, blue or brown. No text, no border, no frame."
 }
