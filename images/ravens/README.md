@@ -16,6 +16,9 @@ here; the Commons page is the source). Credit lines: "John Gerrard Keulemans, 18
 
 `huginn-fb-{day,dusk,night}-{128,256}.{jpg,webp}`: Huginn's round badge for the feedback button in the corner of every
 page, one picture per light (the page picks it by the sun in the reader's time zone). Made by edda-site
-`tools/make_feedback_raven.py`; the record is `feedback` in index.json. For now cropped from the Mímir portrait of
-Huginn (images/portraits/huginn.jpg and its @dusk and @night relights), head and neck, mirrored to face into the page.
+`tools/make_feedback_raven.py --from sources/huginn-letter.jpg sources/huginn-letter@dusk.jpg sources/huginn-letter@night.jpg`;
+the record is `feedback` in index.json. Huginn holding a rolled letter tied with red thread ("send a message"), drawn in
+the hand of the Mímir portrait (images/portraits/huginn.jpg as the reference); dusk and night are relights of the day
+picture with a light written for each hour (a generic "change the light" only tinted the paper). Sources at 1024 px and
+the prompts: `sources/` (2026-11-15; until then a crop of the Mímir portrait).
 Credit as for the plates and portraits: (c) 2026 Grigory Sapunov, CC BY 4.0 (made with gemini-nano-banana-2.1).
