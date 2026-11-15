@@ -1,5 +1,5 @@
 {
-  "_note": "Figure anchors for picture plate P14 (Mímir, task 34), pixels of the 5504x3072 master edda-data/images/plates/p14.jpg (from Grigory's p14-v2.jpg (as generated; each object has its own label slot)). Same format as p1-p12. Drafted from a 1600 px view: check at full size. 2026-11-15.",
+  "_note": "Figure anchors for P14 (Mímir), pixels of edda-data/images/plates/p14.jpg (from Grigory's p14-v4.jpg, 2026-11-15: Draupnir with eight equal rings dripping from it, and Gjallarhorn back). Catalogue sheet; each object has its own label slot, except Draupnir, whose label sits just under its falling rings. Replaces the 1315 p14 anchors.",
   "image": "p14.jpg",
   "size": [
     5504,
@@ -16,7 +16,7 @@
       "bbox": [
         378,
         241,
-        757,
+        826,
         1032
       ],
       "shows": [
@@ -30,16 +30,16 @@
       ],
       "label": [
         757,
-        1479
+        1404
       ]
     },
     {
       "entity": "gungnir",
       "kind": "figure",
       "bbox": [
-        1376,
+        1342,
         241,
-        826,
+        894,
         1032
       ],
       "shows": [
@@ -54,22 +54,22 @@
         }
       ],
       "label": [
-        1789,
-        1479
+        1754,
+        1404
       ]
     },
     {
       "entity": "draupnir",
       "kind": "figure",
       "bbox": [
-        2374,
-        344,
+        2408,
+        241,
         791,
-        877
+        1651
       ],
       "shows": [
         {
-          "en": "eight rings drop from it every ninth night",
+          "en": "every ninth night eight rings as heavy as itself drip from it",
           "refs": [
             "s-c43-4",
             "g-c49-15",
@@ -78,8 +78,8 @@
         }
       ],
       "label": [
-        2769,
-        1479
+        2786,
+        1961
       ]
     },
     {
@@ -93,7 +93,7 @@
       ],
       "shows": [
         {
-          "en": "folds like a cloth",
+          "en": "sails, then folds like a cloth",
           "refs": [
             "g-c43-2",
             "s-c43-3"
@@ -101,19 +101,18 @@
         }
       ],
       "label": [
-        3801,
-        1479
+        3784,
+        1404
       ]
     },
     {
       "entity": "sif",
-      "caption": {"name": "Sif's hair", "gloss": "gold, made by dwarves"},
       "kind": "attribute",
       "bbox": [
         4403,
         241,
-        826,
-        963
+        860,
+        998
       ],
       "shows": [
         {
@@ -126,11 +125,15 @@
           ]
         }
       ],
+      "part_of": "sif",
       "label": [
-        4816,
-        1479
+        4782,
+        1404
       ],
-      "part_of": "sif"
+      "caption": {
+        "name": "Sif's hair",
+        "gloss": "gold, made by dwarves"
+      }
     },
     {
       "entity": "gleipnir",
@@ -139,7 +142,7 @@
         241,
         1617,
         1066,
-        998
+        1032
       ],
       "shows": [
         {
@@ -153,7 +156,7 @@
       ],
       "label": [
         774,
-        2855
+        2769
       ]
     },
     {
@@ -162,7 +165,7 @@
       "bbox": [
         1376,
         1617,
-        860,
+        894,
         1032
       ],
       "shows": [
@@ -178,17 +181,17 @@
       ],
       "label": [
         1806,
-        2855
+        2769
       ]
     },
     {
       "entity": "gjallarhorn",
       "kind": "figure",
       "bbox": [
-        2339,
-        1617,
-        894,
-        1032
+        2236,
+        1995,
+        1015,
+        671
       ],
       "shows": [
         {
@@ -203,18 +206,17 @@
       ],
       "label": [
         2786,
-        2855
+        2769
       ]
     },
     {
       "entity": "thor",
-      "caption": {"name": "Megingjörð, Járngreipr", "gloss": "Þórr's belt and iron gloves"},
       "kind": "attribute",
       "bbox": [
         3268,
-        1617,
-        1135,
-        1032
+        1720,
+        1170,
+        929
       ],
       "shows": [
         {
@@ -226,20 +228,24 @@
           ]
         }
       ],
+      "part_of": "thor",
       "label": [
-        3836,
-        2855
+        3801,
+        2769
       ],
-      "part_of": "thor"
+      "caption": {
+        "name": "Megingjörð, Járngreipr",
+        "gloss": "Þórr's belt and iron gloves"
+      }
     },
     {
       "entity": "andvaranaut",
       "kind": "figure",
       "bbox": [
         4541,
-        1858,
+        1926,
         516,
-        550
+        482
       ],
       "shows": [
         {
@@ -254,9 +260,9 @@
       ],
       "label": [
         4799,
-        2855
+        2769
       ]
     }
   ],
-  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box by the cloud session where noted (provenance only)"
+  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes (provenance only)"
 }

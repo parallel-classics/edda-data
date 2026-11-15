@@ -61,47 +61,47 @@
     "alviss-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 85628
+     "bytes": 77703
     },
     "alviss-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 26107
+     "bytes": 23696
     },
     "alviss-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 11242
+     "bytes": 10953
     },
     "alviss@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 68220
+     "bytes": 59998
     },
     "alviss@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 20810
+     "bytes": 18237
     },
     "alviss@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8879
+     "bytes": 8710
     },
     "alviss@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 64245
+     "bytes": 57320
     },
     "alviss@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 19529
+     "bytes": 17228
     },
     "alviss@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8683
+     "bytes": 8367
     }
    },
    "lights": [
@@ -709,47 +709,47 @@
     "fenrir-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 57309
+     "bytes": 55241
     },
     "fenrir-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 17917
+     "bytes": 17360
     },
     "fenrir-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8565
+     "bytes": 8487
     },
     "fenrir@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 46449
+     "bytes": 48428
     },
     "fenrir@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 14691
+     "bytes": 14974
     },
     "fenrir@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7072
+     "bytes": 7128
     },
     "fenrir@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 40173
+     "bytes": 44663
     },
     "fenrir@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 12415
+     "bytes": 12995
     },
     "fenrir@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 5882
+     "bytes": 6165
     }
    },
    "lights": [
@@ -2923,47 +2923,47 @@
     "midgard-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 95770
+     "bytes": 70956
     },
     "midgard-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 27934
+     "bytes": 20889
     },
     "midgard-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 11323
+     "bytes": 8924
     },
     "midgard@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 76118
+     "bytes": 56566
     },
     "midgard@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 22091
+     "bytes": 16525
     },
     "midgard@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8960
+     "bytes": 7147
     },
     "midgard@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 72698
+     "bytes": 57304
     },
     "midgard@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 21133
+     "bytes": 16373
     },
     "midgard@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8695
+     "bytes": 7063
     }
    },
    "lights": [
@@ -4111,47 +4111,47 @@
     "sleipnir-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 47355
+     "bytes": 46238
     },
     "sleipnir-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16352
+     "bytes": 16081
     },
     "sleipnir-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8744
+     "bytes": 8646
     },
     "sleipnir@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 37905
+     "bytes": 38056
     },
     "sleipnir@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13084
+     "bytes": 13235
     },
     "sleipnir@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7080
+     "bytes": 6988
     },
     "sleipnir@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 44698
+     "bytes": 34648
     },
     "sleipnir@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13818
+     "bytes": 11531
     },
     "sleipnir@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6806
+     "bytes": 6242
     }
    },
    "lights": [
@@ -5569,47 +5569,47 @@
     "andvaranaut-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 83749
+     "bytes": 83430
     },
     "andvaranaut-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 26238
+     "bytes": 26610
     },
     "andvaranaut-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 11117
+     "bytes": 11411
     },
     "andvaranaut@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 58169
+     "bytes": 68702
     },
     "andvaranaut@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 19055
+     "bytes": 22338
     },
     "andvaranaut@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8339
+     "bytes": 9649
     },
     "andvaranaut@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 60319
+     "bytes": 62973
     },
     "andvaranaut@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 19245
+     "bytes": 20239
     },
     "andvaranaut@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8336
+     "bytes": 8730
     }
    },
    "lights": [
@@ -6811,47 +6811,47 @@
     "budli-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 76586
+     "bytes": 75981
     },
     "budli-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 22581
+     "bytes": 22215
     },
     "budli-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 10720
+     "bytes": 10656
     },
     "budli@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 66132
+     "bytes": 61503
     },
     "budli@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 19368
+     "bytes": 17884
     },
     "budli@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 9385
+     "bytes": 8701
     },
     "budli@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 56378
+     "bytes": 55643
     },
     "budli@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16253
+     "bytes": 16224
     },
     "budli@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8440
+     "bytes": 8246
     }
    },
    "lights": [
@@ -9133,47 +9133,47 @@
     "gjuki-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 49989
+     "bytes": 49293
     },
     "gjuki-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 15730
+     "bytes": 15563
     },
     "gjuki-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8695
+     "bytes": 8621
     },
     "gjuki@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 41820
+     "bytes": 35669
     },
     "gjuki@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13261
+     "bytes": 11482
     },
     "gjuki@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7311
+     "bytes": 6434
     },
     "gjuki@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 42077
+     "bytes": 42738
     },
     "gjuki@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 13418
+     "bytes": 12874
     },
     "gjuki@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7069
+     "bytes": 6801
     }
    },
    "lights": [
@@ -9349,47 +9349,47 @@
     "gleipnir-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 56662
+     "bytes": 48474
     },
     "gleipnir-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 17629
+     "bytes": 16403
     },
     "gleipnir-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7896
+     "bytes": 7963
     },
     "gleipnir@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 47090
+     "bytes": 39669
     },
     "gleipnir@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 14724
+     "bytes": 13396
     },
     "gleipnir@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6606
+     "bytes": 6404
     },
     "gleipnir@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 38084
+     "bytes": 38954
     },
     "gleipnir@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 11736
+     "bytes": 13248
     },
     "gleipnir@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 5203
+     "bytes": 6366
     }
    },
    "lights": [
@@ -10267,47 +10267,47 @@
     "gunnar-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 81131
+     "bytes": 81850
     },
     "gunnar-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 26850
+     "bytes": 26754
     },
     "gunnar-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 10198
+     "bytes": 10197
     },
     "gunnar@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 65340
+     "bytes": 61752
     },
     "gunnar@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 21098
+     "bytes": 20035
     },
     "gunnar@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 8286
+     "bytes": 7810
     },
     "gunnar@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 51249
+     "bytes": 57706
     },
     "gunnar@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 16357
+     "bytes": 17829
     },
     "gunnar@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7530
+     "bytes": 7518
     }
    },
    "lights": [
@@ -11293,47 +11293,47 @@
     "hjorvardr-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 59079
+     "bytes": 58837
     },
     "hjorvardr-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 18877
+     "bytes": 18791
     },
     "hjorvardr-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7651
+     "bytes": 7570
     },
     "hjorvardr@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 48504
+     "bytes": 48878
     },
     "hjorvardr@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 15360
+     "bytes": 15660
     },
     "hjorvardr@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 6340
+     "bytes": 6376
     },
     "hjorvardr@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 41330
+     "bytes": 41555
     },
     "hjorvardr@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 12932
+     "bytes": 13153
     },
     "hjorvardr@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 5697
+     "bytes": 5586
     }
    },
    "lights": [
@@ -16099,47 +16099,47 @@
     "skjoldungs-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 59061
+     "bytes": 59249
     },
     "skjoldungs-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 18334
+     "bytes": 18266
     },
     "skjoldungs-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 9070
+     "bytes": 8930
     },
     "skjoldungs@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 51426
+     "bytes": 44731
     },
     "skjoldungs@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 15895
+     "bytes": 13895
     },
     "skjoldungs@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7457
+     "bytes": 6744
     },
     "skjoldungs@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 50469
+     "bytes": 41648
     },
     "skjoldungs@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 15241
+     "bytes": 12751
     },
     "skjoldungs@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7819
+     "bytes": 6896
     }
    },
    "lights": [
