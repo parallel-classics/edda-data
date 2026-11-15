@@ -1,0 +1,253 @@
+{
+  "_note": "Figure anchors for picture plate P9 (Mímir, task 34), pixels of the 5504x3072 master edda-data/images/plates/p9.jpg (from Grigory's p9-v2.jpg; frame and caption box added by the cloud session). Same format as p1-p8. Drafted from a 1600 px view: check at full size. 2026-11-15.",
+  "image": "p9.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "thors-giants",
+  "caption_box": [
+    80,
+    2657,
+    5344,
+    370
+  ],
+  "figures": [
+    {
+      "entity": "hrungnir",
+      "kind": "figure",
+      "bbox": [
+        172,
+        808,
+        740,
+        1686
+      ],
+      "shows": [
+        {
+          "en": "head and three-cornered heart of stone, stone shield, whetstone",
+          "refs": [
+            "s-c24-6",
+            "s-c24-8",
+            "s-c24-10",
+            "s-c24-11"
+          ]
+        }
+      ],
+      "label": [
+        542,
+        2845
+      ]
+    },
+    {
+      "entity": "mokkurkalfi",
+      "kind": "figure",
+      "bbox": [
+        550,
+        292,
+        722,
+        2081
+      ],
+      "shows": [
+        {
+          "en": "the clay giant made to stand by Hrungnir",
+          "refs": [
+            "s-c24-7"
+          ]
+        }
+      ],
+      "label": [
+        911,
+        2845
+      ]
+    },
+    {
+      "entity": "geirrodr",
+      "kind": "figure",
+      "bbox": [
+        1307,
+        963,
+        791,
+        826
+      ],
+      "shows": [
+        {
+          "en": "hurls glowing iron at Þórr",
+          "refs": [
+            "s-c26-9"
+          ]
+        }
+      ],
+      "label": [
+        1702,
+        2845
+      ]
+    },
+    {
+      "entity": "gjalp",
+      "kind": "figure",
+      "bbox": [
+        1410,
+        1686,
+        447,
+        619
+      ],
+      "shows": [
+        {
+          "en": "Geirröðr's daughter, makes the river rise",
+          "refs": [
+            "s-c26-5",
+            "s-c26-8",
+            "s-c26-3",
+            "s-c26-6"
+          ]
+        }
+      ],
+      "label": [
+        1633,
+        2845
+      ]
+    },
+    {
+      "entity": "greip",
+      "kind": "figure",
+      "bbox": [
+        1737,
+        1342,
+        344,
+        688
+      ],
+      "shows": [
+        {
+          "en": "Geirröðr's other daughter",
+          "refs": [
+            "s-c26-8"
+          ]
+        }
+      ],
+      "label": [
+        1909,
+        2845
+      ]
+    },
+    {
+      "entity": "hymir",
+      "kind": "figure",
+      "bbox": [
+        2064,
+        980,
+        550,
+        1445
+      ],
+      "shows": [
+        {
+          "en": "frozen beard; owns the great kettle",
+          "refs": [
+            "hym-s5",
+            "hym-s34",
+            "hym-s39"
+          ]
+        }
+      ],
+      "label": [
+        2339,
+        2845
+      ]
+    },
+    {
+      "entity": "thrymr",
+      "kind": "figure",
+      "bbox": [
+        2855,
+        1376,
+        464,
+        1015
+      ],
+      "shows": [
+        {
+          "en": "on his mound plaiting gold collars for his dogs",
+          "refs": [
+            "thrk-s6"
+          ]
+        }
+      ],
+      "label": [
+        3087,
+        2845
+      ]
+    },
+    {
+      "entity": "skrymir",
+      "kind": "figure",
+      "bbox": [
+        3440,
+        1772,
+        1479,
+        705
+      ],
+      "shows": [
+        {
+          "en": "sleeps; his glove is as big as a hall",
+          "refs": [
+            "g-c45-5"
+          ]
+        }
+      ],
+      "label": [
+        4179,
+        2845
+      ]
+    },
+    {
+      "entity": "utgarda-loki",
+      "kind": "figure",
+      "bbox": [
+        4162,
+        929,
+        550,
+        860
+      ],
+      "shows": [
+        {
+          "en": "king of Útgarðr who tricks Þórr",
+          "refs": [
+            "g-c45-13",
+            "g-c46-2",
+            "g-c46-3",
+            "g-c47-4"
+          ]
+        }
+      ],
+      "label": [
+        4437,
+        2845
+      ]
+    },
+    {
+      "entity": "thjazi",
+      "kind": "figure",
+      "bbox": [
+        4816,
+        688,
+        550,
+        963
+      ],
+      "shows": [
+        {
+          "en": "takes the shape of an eagle",
+          "refs": [
+            "s-c2-2",
+            "s-c2-5",
+            "s-c2-6"
+          ]
+        }
+      ],
+      "label": [
+        5091,
+        2845
+      ]
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box by the cloud session (provenance only)"
+}

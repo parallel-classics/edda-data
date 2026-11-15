@@ -1,0 +1,262 @@
+{
+  "_note": "Figure anchors for picture plate P14 (Mímir, task 34), pixels of the 5504x3072 master edda-data/images/plates/p14.jpg (from Grigory's p14-v2.jpg (as generated; each object has its own label slot)). Same format as p1-p12. Drafted from a 1600 px view: check at full size. 2026-11-15.",
+  "image": "p14.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "treasures",
+  "caption_box": null,
+  "figures": [
+    {
+      "entity": "mjolnir",
+      "kind": "figure",
+      "bbox": [
+        378,
+        241,
+        757,
+        1032
+      ],
+      "shows": [
+        {
+          "en": "short handle",
+          "refs": [
+            "s-c43-4",
+            "g-c21-4"
+          ]
+        }
+      ],
+      "label": [
+        757,
+        1479
+      ]
+    },
+    {
+      "entity": "gungnir",
+      "kind": "figure",
+      "bbox": [
+        1376,
+        241,
+        826,
+        1032
+      ],
+      "shows": [
+        {
+          "en": "Óðinn's spear",
+          "refs": [
+            "s-c43-3",
+            "g-c51-5",
+            "sd-s17",
+            "s-c9-41"
+          ]
+        }
+      ],
+      "label": [
+        1789,
+        1479
+      ]
+    },
+    {
+      "entity": "draupnir",
+      "kind": "figure",
+      "bbox": [
+        2374,
+        344,
+        791,
+        877
+      ],
+      "shows": [
+        {
+          "en": "eight rings drop from it every ninth night",
+          "refs": [
+            "s-c43-4",
+            "g-c49-15",
+            "skm-s21"
+          ]
+        }
+      ],
+      "label": [
+        2769,
+        1479
+      ]
+    },
+    {
+      "entity": "skidbladnir",
+      "kind": "figure",
+      "bbox": [
+        3337,
+        275,
+        929,
+        998
+      ],
+      "shows": [
+        {
+          "en": "folds like a cloth",
+          "refs": [
+            "g-c43-2",
+            "s-c43-3"
+          ]
+        }
+      ],
+      "label": [
+        3801,
+        1479
+      ]
+    },
+    {
+      "entity": "sif",
+      "caption": {"name": "Sif's hair", "gloss": "gold, made by dwarves"},
+      "kind": "attribute",
+      "bbox": [
+        4403,
+        241,
+        826,
+        963
+      ],
+      "shows": [
+        {
+          "en": "hair made of gold",
+          "refs": [
+            "s-c43-1",
+            "s-c43-3",
+            "s-c40-1",
+            "s-c29-1"
+          ]
+        }
+      ],
+      "label": [
+        4816,
+        1479
+      ],
+      "part_of": "sif"
+    },
+    {
+      "entity": "gleipnir",
+      "kind": "figure",
+      "bbox": [
+        241,
+        1617,
+        1066,
+        998
+      ],
+      "shows": [
+        {
+          "en": "made of six things that do not exist",
+          "refs": [
+            "g-c34-4",
+            "ebr-v9",
+            "g-c34-5"
+          ]
+        }
+      ],
+      "label": [
+        774,
+        2855
+      ]
+    },
+    {
+      "entity": "brisingamen",
+      "kind": "figure",
+      "bbox": [
+        1376,
+        1617,
+        860,
+        1032
+      ],
+      "shows": [
+        {
+          "en": "Freyja's necklace",
+          "refs": [
+            "g-c35-7",
+            "thrk-s12",
+            "thrk-s13",
+            "thrk-s15"
+          ]
+        }
+      ],
+      "label": [
+        1806,
+        2855
+      ]
+    },
+    {
+      "entity": "gjallarhorn",
+      "kind": "figure",
+      "bbox": [
+        2339,
+        1617,
+        894,
+        1032
+      ],
+      "shows": [
+        {
+          "en": "Heimdallr's horn",
+          "refs": [
+            "g-c27-1",
+            "g-c51-5",
+            "vsp-s46",
+            "g-c15-4"
+          ]
+        }
+      ],
+      "label": [
+        2786,
+        2855
+      ]
+    },
+    {
+      "entity": "thor",
+      "caption": {"name": "Megingjörð, Járngreipr", "gloss": "Þórr's belt and iron gloves"},
+      "kind": "attribute",
+      "bbox": [
+        3268,
+        1617,
+        1135,
+        1032
+      ],
+      "shows": [
+        {
+          "en": "belt of strength and iron gloves",
+          "refs": [
+            "g-c21-4",
+            "s-c43-2",
+            "s-c43-4"
+          ]
+        }
+      ],
+      "label": [
+        3836,
+        2855
+      ],
+      "part_of": "thor"
+    },
+    {
+      "entity": "andvaranaut",
+      "kind": "figure",
+      "bbox": [
+        4541,
+        1858,
+        516,
+        550
+      ],
+      "shows": [
+        {
+          "en": "Andvari's cursed ring",
+          "refs": [
+            "s-c46-3",
+            "rm-p2",
+            "s-c49-4",
+            "s-c46-5"
+          ]
+        }
+      ],
+      "label": [
+        4799,
+        2855
+      ]
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box by the cloud session where noted (provenance only)"
+}

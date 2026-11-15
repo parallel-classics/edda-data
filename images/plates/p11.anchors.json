@@ -1,0 +1,277 @@
+{
+  "_note": "Figure anchors for picture plate P11 (Mímir, task 34), pixels of the 5504x3072 master edda-data/images/plates/p11.jpg (from Grigory's p11-v2.jpg; frame and caption box added by the cloud session). Same format as p1-p8. Drafted from a 1600 px view: check at full size. 2026-11-15.",
+  "image": "p11.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "dwarves",
+  "caption_box": [
+    80,
+    2560,
+    5344,
+    370
+  ],
+  "figures": [
+    {
+      "entity": "nordri",
+      "kind": "figure",
+      "bbox": [
+        292,
+        292,
+        550,
+        808
+      ],
+      "shows": [
+        {
+          "en": "one of four dwarves under the corners of the sky",
+          "refs": [
+            "g-c8-4",
+            "s-c31-1"
+          ]
+        }
+      ],
+      "label": [
+        567,
+        2745
+      ]
+    },
+    {
+      "entity": "sudri",
+      "kind": "figure",
+      "bbox": [
+        791,
+        310,
+        585,
+        791
+      ],
+      "shows": [
+        {
+          "en": "one of the four corner dwarves",
+          "refs": [
+            "g-c8-4",
+            "s-c31-1"
+          ]
+        }
+      ],
+      "label": [
+        1083,
+        2745
+      ]
+    },
+    {
+      "entity": "austri",
+      "kind": "figure",
+      "bbox": [
+        4197,
+        310,
+        619,
+        826
+      ],
+      "shows": [
+        {
+          "en": "one of the four corner dwarves",
+          "refs": [
+            "g-c8-4",
+            "s-c31-1",
+            "s-c31-4"
+          ]
+        }
+      ],
+      "label": [
+        4506,
+        2745
+      ]
+    },
+    {
+      "entity": "vestri",
+      "kind": "figure",
+      "bbox": [
+        4678,
+        292,
+        585,
+        774
+      ],
+      "shows": [
+        {
+          "en": "one of the four corner dwarves",
+          "refs": [
+            "g-c8-4",
+            "s-c31-1"
+          ]
+        }
+      ],
+      "label": [
+        4970,
+        2745
+      ]
+    },
+    {
+      "entity": "brokkr",
+      "kind": "figure",
+      "bbox": [
+        430,
+        1359,
+        533,
+        843
+      ],
+      "shows": [
+        {
+          "en": "works the bellows though a fly stings him",
+          "refs": [
+            "s-c43-2",
+            "s-c43-4"
+          ]
+        }
+      ],
+      "label": [
+        696,
+        2745
+      ]
+    },
+    {
+      "entity": "sindri",
+      "kind": "figure",
+      "bbox": [
+        998,
+        1342,
+        533,
+        929
+      ],
+      "shows": [
+        {
+          "en": "the smith at the forge",
+          "refs": [
+            "s-c43-2"
+          ]
+        }
+      ],
+      "label": [
+        1264,
+        2745
+      ]
+    },
+    {
+      "entity": "ivaldi",
+      "kind": "figure",
+      "bbox": [
+        1565,
+        1204,
+        1221,
+        1032
+      ],
+      "shows": [
+        {
+          "en": "his sons made Sif's hair, Skíðblaðnir and Gungnir",
+          "refs": [
+            "g-c43-2",
+            "s-c43-1",
+            "grm-s43"
+          ]
+        }
+      ],
+      "label": [
+        2175,
+        2745
+      ]
+    },
+    {
+      "entity": "fjalar",
+      "kind": "figure",
+      "bbox": [
+        2855,
+        1428,
+        413,
+        705
+      ],
+      "shows": [
+        {
+          "en": "killed Kvasir and mixed his blood with honey",
+          "refs": [
+            "s-c5-3",
+            "s-c5-5"
+          ]
+        }
+      ],
+      "label": [
+        3061,
+        2745
+      ]
+    },
+    {
+      "entity": "galar",
+      "kind": "figure",
+      "bbox": [
+        3268,
+        1445,
+        447,
+        722
+      ],
+      "shows": [
+        {
+          "en": "Fjalarr's brother in the killing of Kvasir",
+          "refs": [
+            "s-c5-4",
+            "s-c5-3"
+          ]
+        }
+      ],
+      "label": [
+        3491,
+        2745
+      ]
+    },
+    {
+      "entity": "andvari",
+      "kind": "figure",
+      "bbox": [
+        4059,
+        1651,
+        550,
+        550
+      ],
+      "shows": [
+        {
+          "en": "lives as a pike in a waterfall, owns the ring",
+          "refs": [
+            "rm-p1",
+            "s-c46-3",
+            "rm-p2",
+            "rm-s5"
+          ]
+        }
+      ],
+      "label": [
+        4334,
+        2745
+      ]
+    },
+    {
+      "entity": "alviss",
+      "kind": "figure",
+      "bbox": [
+        4644,
+        1324,
+        619,
+        963
+      ],
+      "shows": [
+        {
+          "en": "talks until the day catches him",
+          "refs": [
+            "alv-s9",
+            "alv-s16",
+            "alv-s35"
+          ]
+        }
+      ],
+      "label": [
+        4953,
+        2745
+      ]
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box by the cloud session (provenance only)"
+}

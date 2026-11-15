@@ -1,0 +1,179 @@
+{
+  "_note": "Figure anchors for picture plate P15 (Mímir, task 34), pixels of the 5504x3072 master edda-data/images/plates/p15.jpg (from Grigory's p15-v1.jpg (frame and caption box added)). Same format as p1-p18. Drafted from a 1600 px view: check at full size. 2026-11-15.",
+  "image": "p15.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "valhalla",
+  "caption_box": [
+    80,
+    2527,
+    5344,
+    370
+  ],
+  "figures": [
+    {
+      "entity": "valhalla",
+      "kind": "place",
+      "bbox": [
+        791,
+        69,
+        4678,
+        2408
+      ],
+      "shows": [
+        {
+          "en": "roof of shields, rafters of spears",
+          "refs": [
+            "grm-s8",
+            "grm-s9",
+            "g-c2-1"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "eikthyrnir",
+      "kind": "figure",
+      "bbox": [
+        1858,
+        138,
+        654,
+        860
+      ],
+      "shows": [
+        {
+          "en": "stag on the roof; rivers flow from his antlers",
+          "refs": [
+            "g-c39-4",
+            "grm-s26",
+            "grm-s27",
+            "grm-s28"
+          ]
+        }
+      ],
+      "label": [
+        2185,
+        2715
+      ]
+    },
+    {
+      "entity": "heidrun",
+      "kind": "figure",
+      "bbox": [
+        2786,
+        275,
+        447,
+        413
+      ],
+      "shows": [
+        {
+          "en": "goat on the roof whose udders give mead",
+          "refs": [
+            "g-c39-2",
+            "grm-s25"
+          ]
+        }
+      ],
+      "label": [
+        3009,
+        2715
+      ]
+    },
+    {
+      "entity": "saehrimnir",
+      "kind": "figure",
+      "bbox": [
+        2511,
+        1789,
+        585,
+        619
+      ],
+      "shows": [
+        {
+          "en": "the boar boiled every day, whole again by evening",
+          "refs": [
+            "g-c38-2"
+          ]
+        }
+      ],
+      "label": [
+        2803,
+        2715
+      ]
+    },
+    {
+      "entity": "einherjar",
+      "kind": "figure",
+      "bbox": [
+        34,
+        1376,
+        1238,
+        1066
+      ],
+      "shows": [
+        {
+          "en": "they fight each day and feast each night",
+          "refs": [
+            "g-c41-2",
+            "g-c41-3",
+            "vm-s41",
+            "g-c38-2"
+          ]
+        }
+      ],
+      "label": [
+        653,
+        2715
+      ]
+    },
+    {
+      "entity": "odin",
+      "kind": "figure",
+      "bbox": [
+        4747,
+        1273,
+        619,
+        929
+      ],
+      "shows": [
+        {
+          "en": "gives his meat to his two wolves",
+          "refs": []
+        }
+      ],
+      "label": [
+        5056,
+        2715
+      ]
+    },
+    {
+      "entity": "geri",
+      "kind": "attribute",
+      "bbox": [
+        4369,
+        1892,
+        447,
+        413
+      ],
+      "shows": [],
+      "part_of": "odin"
+    },
+    {
+      "entity": "freki",
+      "kind": "attribute",
+      "bbox": [
+        4816,
+        1961,
+        516,
+        482
+      ],
+      "shows": [],
+      "part_of": "odin"
+    }
+  ],
+  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box by the cloud session (provenance only)"
+}

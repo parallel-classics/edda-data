@@ -1,0 +1,239 @@
+{
+  "_note": "Figure anchors for picture plate P18 (Mímir, task 34), pixels of the 5504x3072 master edda-data/images/plates/p18.jpg (from Grigory's p18-v5.jpg, 2026-11-15). Replaces all earlier p18 anchors. Drafted from a 1600 px view.",
+  "image": "p18.jpg",
+  "size": [
+    5504,
+    3072
+  ],
+  "credit": "© 2026 Grigory Sapunov",
+  "licence": "CC BY 4.0",
+  "section": "heroes",
+  "caption_box": [
+    110,
+    2615,
+    5280,
+    350
+  ],
+  "figures": [
+    {
+      "entity": "sigurdr",
+      "kind": "figure",
+      "bbox": [
+        206,
+        103,
+        1049,
+        2202
+      ],
+      "shows": [
+        {
+          "en": "slayer of Fáfnir, on Grani",
+          "refs": [
+            "rm-p1",
+            "s-c48-4",
+            "s-c47-5",
+            "fm-p5"
+          ]
+        }
+      ],
+      "label": [
+        730,
+        2800
+      ]
+    },
+    {
+      "entity": "grani",
+      "kind": "attribute",
+      "bbox": [
+        241,
+        688,
+        1015,
+        1617
+      ],
+      "shows": [],
+      "part_of": "sigurdr"
+    },
+    {
+      "entity": "fafnir",
+      "kind": "figure",
+      "bbox": [
+        963,
+        516,
+        963,
+        1582
+      ],
+      "shows": [
+        {
+          "en": "serpent on the gold, with the helm of terror",
+          "refs": [
+            "s-c47-1",
+            "rm-p4",
+            "s-c47-2",
+            "fm-s16"
+          ]
+        }
+      ],
+      "label": [
+        1444,
+        2800
+      ]
+    },
+    {
+      "entity": "regin",
+      "kind": "figure",
+      "bbox": [
+        1772,
+        1084,
+        533,
+        1152
+      ],
+      "shows": [
+        {
+          "en": "smith who forged Gramr",
+          "refs": [
+            "s-c47-2",
+            "rm-p1",
+            "s-c47-4",
+            "rm-p7"
+          ]
+        }
+      ],
+      "label": [
+        2038,
+        2800
+      ]
+    },
+    {
+      "entity": "brynhild",
+      "kind": "figure",
+      "bbox": [
+        2477,
+        791,
+        568,
+        1410
+      ],
+      "shows": [
+        {
+          "en": "the shield-maiden behind the fire",
+          "refs": [
+            "s-c48-3",
+            "s-c48-4",
+            "sg-s4"
+          ]
+        }
+      ],
+      "label": [
+        2761,
+        2800
+      ]
+    },
+    {
+      "entity": "gudrun",
+      "kind": "figure",
+      "bbox": [
+        3079,
+        860,
+        378,
+        1307
+      ],
+      "shows": [
+        {
+          "en": "Sigurðr's wife",
+          "refs": [
+            "s-c48-2",
+            "gdr2-s21",
+            "s-c50-1",
+            "s-c50-3"
+          ]
+        }
+      ],
+      "label": [
+        3268,
+        2800
+      ]
+    },
+    {
+      "entity": "gunnar",
+      "kind": "figure",
+      "bbox": [
+        3406,
+        1445,
+        929,
+        998
+      ],
+      "shows": [
+        {
+          "en": "hands bound, plays the harp with his toes in the snake pit",
+          "refs": [
+            "s-c50-1",
+            "am-s66",
+            "akv-s31",
+            "od-s32"
+          ]
+        }
+      ],
+      "label": [
+        3870,
+        2800
+      ]
+    },
+    {
+      "entity": "hogni",
+      "kind": "figure",
+      "bbox": [
+        4231,
+        791,
+        413,
+        1342
+      ],
+      "shows": [
+        {
+          "en": "laughed as his heart was cut out",
+          "refs": [
+            "s-c50-1",
+            "akv-s24",
+            "am-s65",
+            "akv-s22"
+          ]
+        }
+      ],
+      "label": [
+        4437,
+        2800
+      ]
+    },
+    {
+      "entity": "etzel",
+      "kind": "figure",
+      "bbox": [
+        4610,
+        998,
+        722,
+        1238
+      ],
+      "shows": [
+        {
+          "en": "Atli, who killed the Gjúkungs",
+          "refs": [
+            "s-c50-2",
+            "am-s89",
+            "akv-s41",
+            "akv-s42"
+          ]
+        }
+      ],
+      "label": [
+        4971,
+        2800
+      ]
+    }
+  ],
+  "about": {
+    "en": "Gunnarr plays the harp with his toes because his hands are bound, as in Snorri and Atlamál; in Atlakviða he strikes it with his hand.",
+    "refs": [
+      "s-c50-1",
+      "am-s66",
+      "akv-s31"
+    ]
+  },
+  "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes (provenance only)"
+}

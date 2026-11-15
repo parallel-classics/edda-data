@@ -889,6 +889,13 @@ def check_pictures():
                     err(f"{where}: {f['entity']} part_of {f['part_of']!r} is not on this plate")
                 if f.get("story") and stories and f["story"] not in stories:
                     err(f"{where}: story {f['story']!r} is not in guide/stories.json")
+            for x in a.get("stories") or []:
+                if stories and x not in stories:
+                    err(f"{where}: stories: {x!r} is not in guide/stories.json")
+            ap = os.path.join(ROOT, "guide", "ages.json")
+            for x in a.get("ages") or []:
+                if os.path.exists(ap) and x not in load(ap).get("ages", {}):
+                    err(f"{where}: ages: {x!r} is not in guide/ages.json")
     return n
 
 

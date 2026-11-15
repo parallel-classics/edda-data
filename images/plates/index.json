@@ -202,6 +202,706 @@
      "bytes": 42064
     }
    }
+  },
+  "p5": {
+   "image": "p5.jpg",
+   "size": [
+    5504,
+    3072
+   ],
+   "section": "lokis-children",
+   "files": {
+    "p5-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 538129
+    },
+    "p5-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 301710
+    },
+    "p5-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 278935
+    },
+    "p5-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 175150
+    },
+    "p5-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 125062
+    },
+    "p5-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 84550
+    },
+    "p5-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 50093
+    },
+    "p5-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 34978
+    }
+   }
+  },
+  "p6": {
+   "image": "p6.jpg",
+   "size": [
+    5504,
+    3072
+   ],
+   "section": "mounts",
+   "files": {
+    "p6-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 471663
+    },
+    "p6-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 240794
+    },
+    "p6-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 235701
+    },
+    "p6-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 133500
+    },
+    "p6-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 104245
+    },
+    "p6-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 63920
+    },
+    "p6-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 41518
+    },
+    "p6-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 26806
+    }
+   }
+  },
+  "p7": {
+   "image": "p7.jpg",
+   "size": [
+    5504,
+    3072
+   ],
+   "section": "sky",
+   "files": {
+    "p7-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 592245
+    },
+    "p7-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 369110
+    },
+    "p7-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 298751
+    },
+    "p7-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 198616
+    },
+    "p7-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 131056
+    },
+    "p7-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 91642
+    },
+    "p7-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 51263
+    },
+    "p7-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 37524
+    }
+   }
+  },
+  "p8": {
+   "image": "p8.jpg",
+   "size": [
+    5504,
+    3072
+   ],
+   "section": "first-giants",
+   "files": {
+    "p8-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 545202
+    },
+    "p8-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 312084
+    },
+    "p8-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 268863
+    },
+    "p8-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 172184
+    },
+    "p8-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 117600
+    },
+    "p8-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 81008
+    },
+    "p8-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 46274
+    },
+    "p8-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 33324
+    }
+   }
+  },
+  "p9": {
+   "image": "p9.jpg",
+   "size": [
+    5504,
+    3072
+   ],
+   "section": "thors-giants",
+   "files": {
+    "p9-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 618617
+    },
+    "p9-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 374022
+    },
+    "p9-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 310118
+    },
+    "p9-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 203268
+    },
+    "p9-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 137233
+    },
+    "p9-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 97458
+    },
+    "p9-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 56062
+    },
+    "p9-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 40486
+    }
+   }
+  },
+  "p10": {
+   "image": "p10.jpg",
+   "size": [
+    5504,
+    3072
+   ],
+   "section": "sea-and-giantesses",
+   "files": {
+    "p10-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 571539
+    },
+    "p10-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 338846
+    },
+    "p10-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 290603
+    },
+    "p10-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 192650
+    },
+    "p10-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 129032
+    },
+    "p10-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 91164
+    },
+    "p10-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 50020
+    },
+    "p10-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 37228
+    }
+   }
+  },
+  "p11": {
+   "image": "p11.jpg",
+   "size": [
+    5504,
+    3072
+   ],
+   "section": "dwarves",
+   "files": {
+    "p11-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 620607
+    },
+    "p11-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 387532
+    },
+    "p11-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 311940
+    },
+    "p11-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 206802
+    },
+    "p11-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 137314
+    },
+    "p11-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 95486
+    },
+    "p11-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 53940
+    },
+    "p11-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 38886
+    }
+   }
+  },
+  "p12": {
+   "image": "p12.jpg",
+   "size": [
+    5504,
+    3072
+   ],
+   "section": "elves",
+   "files": {
+    "p12-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 648897
+    },
+    "p12-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 406460
+    },
+    "p12-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 334063
+    },
+    "p12-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 228674
+    },
+    "p12-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 150994
+    },
+    "p12-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 110056
+    },
+    "p12-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 59749
+    },
+    "p12-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 46238
+    }
+   }
+  },
+  "p13": {
+   "image": "p13.jpg",
+   "size": [
+    5504,
+    3072
+   ],
+   "section": "norns-valkyries",
+   "files": {
+    "p13-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 604417
+    },
+    "p13-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 361594
+    },
+    "p13-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 302342
+    },
+    "p13-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 196124
+    },
+    "p13-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 134125
+    },
+    "p13-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 92536
+    },
+    "p13-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 53630
+    },
+    "p13-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 38816
+    }
+   }
+  },
+  "p14": {
+   "image": "p14.jpg",
+   "size": [
+    5504,
+    3072
+   ],
+   "section": "treasures",
+   "files": {
+    "p14-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 507759
+    },
+    "p14-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 315020
+    },
+    "p14-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 254736
+    },
+    "p14-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 167786
+    },
+    "p14-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 114501
+    },
+    "p14-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 77768
+    },
+    "p14-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 48207
+    },
+    "p14-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 32828
+    }
+   }
+  },
+  "p15": {
+   "image": "p15.jpg",
+   "size": [
+    5504,
+    3072
+   ],
+   "section": "valhalla",
+   "files": {
+    "p15-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 764055
+    },
+    "p15-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 541402
+    },
+    "p15-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 379885
+    },
+    "p15-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 287090
+    },
+    "p15-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 160785
+    },
+    "p15-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 124936
+    },
+    "p15-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 60281
+    },
+    "p15-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 48274
+    }
+   }
+  },
+  "p16": {
+   "image": "p16.jpg",
+   "size": [
+    5504,
+    3072
+   ],
+   "section": null,
+   "files": {
+    "p16-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 632145
+    },
+    "p16-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 391374
+    },
+    "p16-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 331852
+    },
+    "p16-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 224414
+    },
+    "p16-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 152483
+    },
+    "p16-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 110436
+    },
+    "p16-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 61640
+    },
+    "p16-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 47150
+    }
+   }
+  },
+  "p17": {
+   "image": "p17.jpg",
+   "size": [
+    5504,
+    3072
+   ],
+   "section": "first-giants",
+   "files": {
+    "p17-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 609667
+    },
+    "p17-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 375730
+    },
+    "p17-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 312701
+    },
+    "p17-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 210830
+    },
+    "p17-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 138384
+    },
+    "p17-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 101834
+    },
+    "p17-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 53376
+    },
+    "p17-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 41388
+    }
+   }
+  },
+  "p18": {
+   "image": "p18.jpg",
+   "size": [
+    5504,
+    3072
+   ],
+   "section": "heroes",
+   "files": {
+    "p18-2400.jpg": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 650130
+    },
+    "p18-2400.webp": {
+     "width": 2400,
+     "height": 1340,
+     "bytes": 441776
+    },
+    "p18-1600.jpg": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 329162
+    },
+    "p18-1600.webp": {
+     "width": 1600,
+     "height": 893,
+     "bytes": 237302
+    },
+    "p18-1000.jpg": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 144741
+    },
+    "p18-1000.webp": {
+     "width": 1000,
+     "height": 558,
+     "bytes": 107124
+    },
+    "p18-600.jpg": {
+     "width": 600,
+     "height": 335,
+     "bytes": 55602
+    },
+    "p18-600.webp": {
+     "width": 600,
+     "height": 335,
+     "bytes": 42216
+    }
+   }
   }
  },
  "crops": {
@@ -1138,6 +1838,2346 @@
      "width": 300,
      "height": 574,
      "bytes": 26534
+    }
+   }
+  },
+  "angrboda": {
+   "plate": "p5",
+   "kind": "figure",
+   "files": {
+    "angrboda-600.jpg": {
+     "width": 600,
+     "height": 1562,
+     "bytes": 147379
+    },
+    "angrboda-600.webp": {
+     "width": 600,
+     "height": 1562,
+     "bytes": 82062
+    },
+    "angrboda-300.jpg": {
+     "width": 300,
+     "height": 781,
+     "bytes": 52313
+    },
+    "angrboda-300.webp": {
+     "width": 300,
+     "height": 781,
+     "bytes": 37188
+    }
+   }
+  },
+  "fenrir": {
+   "plate": "p5",
+   "kind": "figure",
+   "files": {
+    "fenrir-600.jpg": {
+     "width": 600,
+     "height": 577,
+     "bytes": 71592
+    },
+    "fenrir-600.webp": {
+     "width": 600,
+     "height": 577,
+     "bytes": 49752
+    },
+    "fenrir-300.jpg": {
+     "width": 300,
+     "height": 288,
+     "bytes": 23083
+    },
+    "fenrir-300.webp": {
+     "width": 300,
+     "height": 288,
+     "bytes": 17580
+    }
+   }
+  },
+  "jormungandr": {
+   "plate": "p5",
+   "kind": "figure",
+   "files": {
+    "jormungandr-600.jpg": {
+     "width": 600,
+     "height": 522,
+     "bytes": 87216
+    },
+    "jormungandr-600.webp": {
+     "width": 600,
+     "height": 522,
+     "bytes": 66844
+    },
+    "jormungandr-300.jpg": {
+     "width": 300,
+     "height": 261,
+     "bytes": 27500
+    },
+    "jormungandr-300.webp": {
+     "width": 300,
+     "height": 261,
+     "bytes": 23172
+    }
+   }
+  },
+  "hel": {
+   "plate": "p5",
+   "kind": "figure",
+   "files": {
+    "hel-600.jpg": {
+     "width": 600,
+     "height": 1432,
+     "bytes": 126095
+    },
+    "hel-600.webp": {
+     "width": 600,
+     "height": 1432,
+     "bytes": 63990
+    },
+    "hel-300.jpg": {
+     "width": 300,
+     "height": 716,
+     "bytes": 44890
+    },
+    "hel-300.webp": {
+     "width": 300,
+     "height": 716,
+     "bytes": 29764
+    }
+   }
+  },
+  "sleipnir": {
+   "plate": "p6",
+   "kind": "figure",
+   "files": {
+    "sleipnir-600.jpg": {
+     "width": 600,
+     "height": 653,
+     "bytes": 81417
+    },
+    "sleipnir-600.webp": {
+     "width": 600,
+     "height": 653,
+     "bytes": 51218
+    },
+    "sleipnir-300.jpg": {
+     "width": 300,
+     "height": 327,
+     "bytes": 27474
+    },
+    "sleipnir-300.webp": {
+     "width": 300,
+     "height": 327,
+     "bytes": 19920
+    }
+   }
+  },
+  "tanngnjostr": {
+   "plate": "p6",
+   "kind": "figure",
+   "files": {
+    "tanngnjostr-600.jpg": {
+     "width": 600,
+     "height": 1376,
+     "bytes": 117587
+    },
+    "tanngnjostr-600.webp": {
+     "width": 600,
+     "height": 1376,
+     "bytes": 62498
+    },
+    "tanngnjostr-300.jpg": {
+     "width": 300,
+     "height": 688,
+     "bytes": 45132
+    },
+    "tanngnjostr-300.webp": {
+     "width": 300,
+     "height": 688,
+     "bytes": 29672
+    }
+   }
+  },
+  "tanngrisnir": {
+   "plate": "p6",
+   "kind": "figure",
+   "files": {
+    "tanngrisnir-600.jpg": {
+     "width": 600,
+     "height": 655,
+     "bytes": 86841
+    },
+    "tanngrisnir-600.webp": {
+     "width": 600,
+     "height": 655,
+     "bytes": 58684
+    },
+    "tanngrisnir-300.jpg": {
+     "width": 300,
+     "height": 328,
+     "bytes": 30721
+    },
+    "tanngrisnir-300.webp": {
+     "width": 300,
+     "height": 328,
+     "bytes": 25180
+    }
+   }
+  },
+  "gulltoppr": {
+   "plate": "p6",
+   "kind": "figure",
+   "files": {
+    "gulltoppr-600.jpg": {
+     "width": 600,
+     "height": 1126,
+     "bytes": 99181
+    },
+    "gulltoppr-600.webp": {
+     "width": 600,
+     "height": 1126,
+     "bytes": 51936
+    },
+    "gulltoppr-300.jpg": {
+     "width": 300,
+     "height": 563,
+     "bytes": 36755
+    },
+    "gulltoppr-300.webp": {
+     "width": 300,
+     "height": 563,
+     "bytes": 24650
+    }
+   }
+  },
+  "bifrost": {
+   "plate": "p6",
+   "kind": "place",
+   "files": {
+    "bifrost-600.jpg": {
+     "width": 600,
+     "height": 694,
+     "bytes": 48378
+    },
+    "bifrost-600.webp": {
+     "width": 600,
+     "height": 694,
+     "bytes": 21844
+    },
+    "bifrost-300.jpg": {
+     "width": 300,
+     "height": 347,
+     "bytes": 15209
+    },
+    "bifrost-300.webp": {
+     "width": 300,
+     "height": 347,
+     "bytes": 7858
+    }
+   }
+  },
+  "hofvarpnir": {
+   "plate": "p6",
+   "kind": "figure",
+   "files": {
+    "hofvarpnir-600.jpg": {
+     "width": 600,
+     "height": 588,
+     "bytes": 57269
+    },
+    "hofvarpnir-600.webp": {
+     "width": 600,
+     "height": 588,
+     "bytes": 31114
+    },
+    "hofvarpnir-300.jpg": {
+     "width": 300,
+     "height": 294,
+     "bytes": 20668
+    },
+    "hofvarpnir-300.webp": {
+     "width": 300,
+     "height": 294,
+     "bytes": 13510
+    }
+   }
+  },
+  "sol": {
+   "plate": "p7",
+   "kind": "figure",
+   "files": {
+    "sol-600.jpg": {
+     "width": 600,
+     "height": 686,
+     "bytes": 93770
+    },
+    "sol-600.webp": {
+     "width": 600,
+     "height": 686,
+     "bytes": 62950
+    },
+    "sol-300.jpg": {
+     "width": 300,
+     "height": 343,
+     "bytes": 32456
+    },
+    "sol-300.webp": {
+     "width": 300,
+     "height": 343,
+     "bytes": 25976
+    }
+   }
+  },
+  "skoll": {
+   "plate": "p7",
+   "kind": "figure",
+   "files": {
+    "skoll-600.jpg": {
+     "width": 600,
+     "height": 1095,
+     "bytes": 145512
+    },
+    "skoll-600.webp": {
+     "width": 600,
+     "height": 1095,
+     "bytes": 98562
+    },
+    "skoll-300.jpg": {
+     "width": 300,
+     "height": 548,
+     "bytes": 47436
+    },
+    "skoll-300.webp": {
+     "width": 300,
+     "height": 548,
+     "bytes": 36290
+    }
+   }
+  },
+  "arvakr": {
+   "plate": "p7",
+   "kind": "figure",
+   "files": {
+    "arvakr-600.jpg": {
+     "width": 600,
+     "height": 741,
+     "bytes": 96162
+    },
+    "arvakr-600.webp": {
+     "width": 600,
+     "height": 741,
+     "bytes": 62650
+    },
+    "arvakr-300.jpg": {
+     "width": 300,
+     "height": 371,
+     "bytes": 32901
+    },
+    "arvakr-300.webp": {
+     "width": 300,
+     "height": 371,
+     "bytes": 25790
+    }
+   }
+  },
+  "alsvidr": {
+   "plate": "p7",
+   "kind": "figure",
+   "files": {
+    "alsvidr-600.jpg": {
+     "width": 600,
+     "height": 703,
+     "bytes": 87625
+    },
+    "alsvidr-600.webp": {
+     "width": 600,
+     "height": 703,
+     "bytes": 55138
+    },
+    "alsvidr-300.jpg": {
+     "width": 300,
+     "height": 352,
+     "bytes": 29682
+    },
+    "alsvidr-300.webp": {
+     "width": 300,
+     "height": 352,
+     "bytes": 22524
+    }
+   }
+  },
+  "hati": {
+   "plate": "p7",
+   "kind": "figure",
+   "files": {
+    "hati-600.jpg": {
+     "width": 600,
+     "height": 469,
+     "bytes": 56213
+    },
+    "hati-600.webp": {
+     "width": 600,
+     "height": 469,
+     "bytes": 36112
+    },
+    "hati-300.jpg": {
+     "width": 300,
+     "height": 235,
+     "bytes": 18828
+    },
+    "hati-300.webp": {
+     "width": 300,
+     "height": 235,
+     "bytes": 13522
+    }
+   }
+  },
+  "mani": {
+   "plate": "p7",
+   "kind": "figure",
+   "files": {
+    "mani-600.jpg": {
+     "width": 600,
+     "height": 518,
+     "bytes": 52780
+    },
+    "mani-600.webp": {
+     "width": 600,
+     "height": 518,
+     "bytes": 31354
+    },
+    "mani-300.jpg": {
+     "width": 300,
+     "height": 259,
+     "bytes": 18673
+    },
+    "mani-300.webp": {
+     "width": 300,
+     "height": 259,
+     "bytes": 12838
+    }
+   }
+  },
+  "nott": {
+   "plate": "p7",
+   "kind": "figure",
+   "files": {
+    "nott-600.jpg": {
+     "width": 600,
+     "height": 1220,
+     "bytes": 112430
+    },
+    "nott-600.webp": {
+     "width": 600,
+     "height": 1220,
+     "bytes": 57760
+    },
+    "nott-300.jpg": {
+     "width": 300,
+     "height": 610,
+     "bytes": 40070
+    },
+    "nott-300.webp": {
+     "width": 300,
+     "height": 610,
+     "bytes": 26088
+    }
+   }
+  },
+  "hrimfaxi": {
+   "plate": "p7",
+   "kind": "figure",
+   "files": {
+    "hrimfaxi-600.jpg": {
+     "width": 600,
+     "height": 538,
+     "bytes": 70864
+    },
+    "hrimfaxi-600.webp": {
+     "width": 600,
+     "height": 538,
+     "bytes": 46976
+    },
+    "hrimfaxi-300.jpg": {
+     "width": 300,
+     "height": 269,
+     "bytes": 24245
+    },
+    "hrimfaxi-300.webp": {
+     "width": 300,
+     "height": 269,
+     "bytes": 17740
+    }
+   }
+  },
+  "dagr": {
+   "plate": "p7",
+   "kind": "figure",
+   "files": {
+    "dagr-600.jpg": {
+     "width": 600,
+     "height": 1170,
+     "bytes": 111156
+    },
+    "dagr-600.webp": {
+     "width": 600,
+     "height": 1170,
+     "bytes": 61744
+    },
+    "dagr-300.jpg": {
+     "width": 300,
+     "height": 585,
+     "bytes": 42726
+    },
+    "dagr-300.webp": {
+     "width": 300,
+     "height": 585,
+     "bytes": 29628
+    }
+   }
+  },
+  "skinfaxi": {
+   "plate": "p7",
+   "kind": "figure",
+   "files": {
+    "skinfaxi-600.jpg": {
+     "width": 600,
+     "height": 728,
+     "bytes": 92798
+    },
+    "skinfaxi-600.webp": {
+     "width": 600,
+     "height": 728,
+     "bytes": 58810
+    },
+    "skinfaxi-300.jpg": {
+     "width": 300,
+     "height": 364,
+     "bytes": 33144
+    },
+    "skinfaxi-300.webp": {
+     "width": 300,
+     "height": 364,
+     "bytes": 25362
+    }
+   }
+  },
+  "hraesvelgr": {
+   "plate": "p7",
+   "kind": "figure",
+   "files": {
+    "hraesvelgr-600.jpg": {
+     "width": 600,
+     "height": 555,
+     "bytes": 88121
+    },
+    "hraesvelgr-600.webp": {
+     "width": 600,
+     "height": 555,
+     "bytes": 61864
+    },
+    "hraesvelgr-300.jpg": {
+     "width": 300,
+     "height": 277,
+     "bytes": 27546
+    },
+    "hraesvelgr-300.webp": {
+     "width": 300,
+     "height": 277,
+     "bytes": 21924
+    }
+   }
+  },
+  "ymir": {
+   "plate": "p8",
+   "kind": "figure",
+   "files": {
+    "ymir-600.jpg": {
+     "width": 600,
+     "height": 589,
+     "bytes": 86707
+    },
+    "ymir-600.webp": {
+     "width": 600,
+     "height": 589,
+     "bytes": 59472
+    },
+    "ymir-300.jpg": {
+     "width": 300,
+     "height": 294,
+     "bytes": 29071
+    },
+    "ymir-300.webp": {
+     "width": 300,
+     "height": 294,
+     "bytes": 22722
+    }
+   }
+  },
+  "audumbla": {
+   "plate": "p8",
+   "kind": "figure",
+   "files": {
+    "audumbla-600.jpg": {
+     "width": 600,
+     "height": 777,
+     "bytes": 84951
+    },
+    "audumbla-600.webp": {
+     "width": 600,
+     "height": 777,
+     "bytes": 48170
+    },
+    "audumbla-300.jpg": {
+     "width": 300,
+     "height": 388,
+     "bytes": 30863
+    },
+    "audumbla-300.webp": {
+     "width": 300,
+     "height": 388,
+     "bytes": 21526
+    }
+   }
+  },
+  "bergelmir": {
+   "plate": "p8",
+   "kind": "figure",
+   "files": {
+    "bergelmir-600.jpg": {
+     "width": 600,
+     "height": 560,
+     "bytes": 77040
+    },
+    "bergelmir-600.webp": {
+     "width": 600,
+     "height": 560,
+     "bytes": 50658
+    },
+    "bergelmir-300.jpg": {
+     "width": 300,
+     "height": 280,
+     "bytes": 27113
+    },
+    "bergelmir-300.webp": {
+     "width": 300,
+     "height": 280,
+     "bytes": 21060
+    }
+   }
+  },
+  "vafthrudnir": {
+   "plate": "p8",
+   "kind": "figure",
+   "files": {
+    "vafthrudnir-600.jpg": {
+     "width": 600,
+     "height": 892,
+     "bytes": 110528
+    },
+    "vafthrudnir-600.webp": {
+     "width": 600,
+     "height": 892,
+     "bytes": 68804
+    },
+    "vafthrudnir-300.jpg": {
+     "width": 300,
+     "height": 446,
+     "bytes": 39266
+    },
+    "vafthrudnir-300.webp": {
+     "width": 300,
+     "height": 446,
+     "bytes": 31778
+    }
+   }
+  },
+  "jarnvidr": {
+   "plate": "p8",
+   "kind": "figure",
+   "files": {
+    "jarnvidr-600.jpg": {
+     "width": 600,
+     "height": 1244,
+     "bytes": 108675
+    },
+    "jarnvidr-600.webp": {
+     "width": 600,
+     "height": 1244,
+     "bytes": 54604
+    },
+    "jarnvidr-300.jpg": {
+     "width": 300,
+     "height": 622,
+     "bytes": 40017
+    },
+    "jarnvidr-300.webp": {
+     "width": 300,
+     "height": 622,
+     "bytes": 25628
+    }
+   }
+  },
+  "hyrrokkin": {
+   "plate": "p8",
+   "kind": "figure",
+   "files": {
+    "hyrrokkin-600.jpg": {
+     "width": 600,
+     "height": 836,
+     "bytes": 109454
+    },
+    "hyrrokkin-600.webp": {
+     "width": 600,
+     "height": 836,
+     "bytes": 72564
+    },
+    "hyrrokkin-300.jpg": {
+     "width": 300,
+     "height": 418,
+     "bytes": 37401
+    },
+    "hyrrokkin-300.webp": {
+     "width": 300,
+     "height": 418,
+     "bytes": 30172
+    }
+   }
+  },
+  "surtr": {
+   "plate": "p8",
+   "kind": "figure",
+   "files": {
+    "surtr-600.jpg": {
+     "width": 600,
+     "height": 1288,
+     "bytes": 128667
+    },
+    "surtr-600.webp": {
+     "width": 600,
+     "height": 1288,
+     "bytes": 70782
+    },
+    "surtr-300.jpg": {
+     "width": 300,
+     "height": 644,
+     "bytes": 45807
+    },
+    "surtr-300.webp": {
+     "width": 300,
+     "height": 644,
+     "bytes": 32130
+    }
+   }
+  },
+  "hrungnir": {
+   "plate": "p9",
+   "kind": "figure",
+   "files": {
+    "hrungnir-600.jpg": {
+     "width": 600,
+     "height": 1365,
+     "bytes": 165514
+    },
+    "hrungnir-600.webp": {
+     "width": 600,
+     "height": 1365,
+     "bytes": 99730
+    },
+    "hrungnir-300.jpg": {
+     "width": 300,
+     "height": 682,
+     "bytes": 57491
+    },
+    "hrungnir-300.webp": {
+     "width": 300,
+     "height": 682,
+     "bytes": 42486
+    }
+   }
+  },
+  "mokkurkalfi": {
+   "plate": "p9",
+   "kind": "figure",
+   "files": {
+    "mokkurkalfi-600.jpg": {
+     "width": 600,
+     "height": 1728,
+     "bytes": 180932
+    },
+    "mokkurkalfi-600.webp": {
+     "width": 600,
+     "height": 1728,
+     "bytes": 100266
+    },
+    "mokkurkalfi-300.jpg": {
+     "width": 300,
+     "height": 864,
+     "bytes": 62247
+    },
+    "mokkurkalfi-300.webp": {
+     "width": 300,
+     "height": 864,
+     "bytes": 43778
+    }
+   }
+  },
+  "geirrodr": {
+   "plate": "p9",
+   "kind": "figure",
+   "files": {
+    "geirrodr-600.jpg": {
+     "width": 600,
+     "height": 626,
+     "bytes": 85012
+    },
+    "geirrodr-600.webp": {
+     "width": 600,
+     "height": 626,
+     "bytes": 57238
+    },
+    "geirrodr-300.jpg": {
+     "width": 300,
+     "height": 313,
+     "bytes": 30008
+    },
+    "geirrodr-300.webp": {
+     "width": 300,
+     "height": 313,
+     "bytes": 23566
+    }
+   }
+  },
+  "gjalp": {
+   "plate": "p9",
+   "kind": "figure",
+   "files": {
+    "gjalp-600.jpg": {
+     "width": 600,
+     "height": 831,
+     "bytes": 96631
+    },
+    "gjalp-600.webp": {
+     "width": 600,
+     "height": 831,
+     "bytes": 55266
+    },
+    "gjalp-300.jpg": {
+     "width": 300,
+     "height": 416,
+     "bytes": 37754
+    },
+    "gjalp-300.webp": {
+     "width": 300,
+     "height": 416,
+     "bytes": 27250
+    }
+   }
+  },
+  "greip": {
+   "plate": "p9",
+   "kind": "figure",
+   "files": {
+    "greip-600.jpg": {
+     "width": 600,
+     "height": 1200,
+     "bytes": 104135
+    },
+    "greip-600.webp": {
+     "width": 600,
+     "height": 1200,
+     "bytes": 53300
+    },
+    "greip-300.jpg": {
+     "width": 300,
+     "height": 600,
+     "bytes": 41292
+    },
+    "greip-300.webp": {
+     "width": 300,
+     "height": 600,
+     "bytes": 26098
+    }
+   }
+  },
+  "hymir": {
+   "plate": "p9",
+   "kind": "figure",
+   "files": {
+    "hymir-600.jpg": {
+     "width": 600,
+     "height": 1577,
+     "bytes": 175819
+    },
+    "hymir-600.webp": {
+     "width": 600,
+     "height": 1577,
+     "bytes": 104736
+    },
+    "hymir-300.jpg": {
+     "width": 300,
+     "height": 788,
+     "bytes": 64216
+    },
+    "hymir-300.webp": {
+     "width": 300,
+     "height": 788,
+     "bytes": 48040
+    }
+   }
+  },
+  "thrymr": {
+   "plate": "p9",
+   "kind": "figure",
+   "files": {
+    "thrymr-600.jpg": {
+     "width": 600,
+     "height": 1311,
+     "bytes": 150778
+    },
+    "thrymr-600.webp": {
+     "width": 600,
+     "height": 1311,
+     "bytes": 88444
+    },
+    "thrymr-300.jpg": {
+     "width": 300,
+     "height": 656,
+     "bytes": 55208
+    },
+    "thrymr-300.webp": {
+     "width": 300,
+     "height": 656,
+     "bytes": 41700
+    }
+   }
+  },
+  "skrymir": {
+   "plate": "p9",
+   "kind": "figure",
+   "files": {
+    "skrymir-600.jpg": {
+     "width": 600,
+     "height": 286,
+     "bytes": 50072
+    },
+    "skrymir-600.webp": {
+     "width": 600,
+     "height": 286,
+     "bytes": 38428
+    },
+    "skrymir-300.jpg": {
+     "width": 300,
+     "height": 143,
+     "bytes": 15779
+    },
+    "skrymir-300.webp": {
+     "width": 300,
+     "height": 143,
+     "bytes": 13084
+    }
+   }
+  },
+  "utgarda-loki": {
+   "plate": "p9",
+   "kind": "figure",
+   "files": {
+    "utgarda-loki-600.jpg": {
+     "width": 600,
+     "height": 937,
+     "bytes": 116556
+    },
+    "utgarda-loki-600.webp": {
+     "width": 600,
+     "height": 937,
+     "bytes": 69266
+    },
+    "utgarda-loki-300.jpg": {
+     "width": 300,
+     "height": 469,
+     "bytes": 41324
+    },
+    "utgarda-loki-300.webp": {
+     "width": 300,
+     "height": 469,
+     "bytes": 31296
+    }
+   }
+  },
+  "thjazi": {
+   "plate": "p9",
+   "kind": "figure",
+   "files": {
+    "thjazi-600.jpg": {
+     "width": 600,
+     "height": 1052,
+     "bytes": 114468
+    },
+    "thjazi-600.webp": {
+     "width": 600,
+     "height": 1052,
+     "bytes": 61190
+    },
+    "thjazi-300.jpg": {
+     "width": 300,
+     "height": 526,
+     "bytes": 40681
+    },
+    "thjazi-300.webp": {
+     "width": 300,
+     "height": 526,
+     "bytes": 28008
+    }
+   }
+  },
+  "aegir": {
+   "plate": "p10",
+   "kind": "figure",
+   "files": {
+    "aegir-600.jpg": {
+     "width": 600,
+     "height": 1085,
+     "bytes": 145833
+    },
+    "aegir-600.webp": {
+     "width": 600,
+     "height": 1085,
+     "bytes": 93206
+    },
+    "aegir-300.jpg": {
+     "width": 300,
+     "height": 543,
+     "bytes": 50909
+    },
+    "aegir-300.webp": {
+     "width": 300,
+     "height": 543,
+     "bytes": 41904
+    }
+   }
+  },
+  "ran": {
+   "plate": "p10",
+   "kind": "figure",
+   "files": {
+    "ran-600.jpg": {
+     "width": 600,
+     "height": 1413,
+     "bytes": 162945
+    },
+    "ran-600.webp": {
+     "width": 600,
+     "height": 1413,
+     "bytes": 96462
+    },
+    "ran-300.jpg": {
+     "width": 300,
+     "height": 706,
+     "bytes": 60443
+    },
+    "ran-300.webp": {
+     "width": 300,
+     "height": 706,
+     "bytes": 46414
+    }
+   }
+  },
+  "daughters-of-aegir": {
+   "plate": "p10",
+   "kind": "figure",
+   "files": {
+    "daughters-of-aegir-600.jpg": {
+     "width": 600,
+     "height": 840,
+     "bytes": 141967
+    },
+    "daughters-of-aegir-600.webp": {
+     "width": 600,
+     "height": 840,
+     "bytes": 106798
+    },
+    "daughters-of-aegir-300.jpg": {
+     "width": 300,
+     "height": 420,
+     "bytes": 47175
+    },
+    "daughters-of-aegir-300.webp": {
+     "width": 300,
+     "height": 420,
+     "bytes": 38658
+    }
+   }
+  },
+  "gerdr": {
+   "plate": "p10",
+   "kind": "figure",
+   "files": {
+    "gerdr-600.jpg": {
+     "width": 600,
+     "height": 1228,
+     "bytes": 118817
+    },
+    "gerdr-600.webp": {
+     "width": 600,
+     "height": 1228,
+     "bytes": 64968
+    },
+    "gerdr-300.jpg": {
+     "width": 300,
+     "height": 614,
+     "bytes": 41995
+    },
+    "gerdr-300.webp": {
+     "width": 300,
+     "height": 614,
+     "bytes": 28710
+    }
+   }
+  },
+  "gunnlod": {
+   "plate": "p10",
+   "kind": "figure",
+   "files": {
+    "gunnlod-600.jpg": {
+     "width": 600,
+     "height": 938,
+     "bytes": 101319
+    },
+    "gunnlod-600.webp": {
+     "width": 600,
+     "height": 938,
+     "bytes": 61292
+    },
+    "gunnlod-300.jpg": {
+     "width": 300,
+     "height": 469,
+     "bytes": 35823
+    },
+    "gunnlod-300.webp": {
+     "width": 300,
+     "height": 469,
+     "bytes": 26890
+    }
+   }
+  },
+  "fenja": {
+   "plate": "p10",
+   "kind": "figure",
+   "files": {
+    "fenja-600.jpg": {
+     "width": 600,
+     "height": 1425,
+     "bytes": 129364
+    },
+    "fenja-600.webp": {
+     "width": 600,
+     "height": 1425,
+     "bytes": 64832
+    },
+    "fenja-300.jpg": {
+     "width": 300,
+     "height": 713,
+     "bytes": 48128
+    },
+    "fenja-300.webp": {
+     "width": 300,
+     "height": 713,
+     "bytes": 32512
+    }
+   }
+  },
+  "menja": {
+   "plate": "p10",
+   "kind": "figure",
+   "files": {
+    "menja-600.jpg": {
+     "width": 600,
+     "height": 1444,
+     "bytes": 135823
+    },
+    "menja-600.webp": {
+     "width": 600,
+     "height": 1444,
+     "bytes": 70052
+    },
+    "menja-300.jpg": {
+     "width": 300,
+     "height": 722,
+     "bytes": 49889
+    },
+    "menja-300.webp": {
+     "width": 300,
+     "height": 722,
+     "bytes": 34266
+    }
+   }
+  },
+  "nordri": {
+   "plate": "p11",
+   "kind": "figure",
+   "files": {
+    "nordri-600.jpg": {
+     "width": 600,
+     "height": 881,
+     "bytes": 100541
+    },
+    "nordri-600.webp": {
+     "width": 600,
+     "height": 881,
+     "bytes": 59644
+    },
+    "nordri-300.jpg": {
+     "width": 300,
+     "height": 440,
+     "bytes": 34197
+    },
+    "nordri-300.webp": {
+     "width": 300,
+     "height": 440,
+     "bytes": 25882
+    }
+   }
+  },
+  "sudri": {
+   "plate": "p11",
+   "kind": "figure",
+   "files": {
+    "sudri-600.jpg": {
+     "width": 600,
+     "height": 813,
+     "bytes": 90105
+    },
+    "sudri-600.webp": {
+     "width": 600,
+     "height": 813,
+     "bytes": 54066
+    },
+    "sudri-300.jpg": {
+     "width": 300,
+     "height": 406,
+     "bytes": 30256
+    },
+    "sudri-300.webp": {
+     "width": 300,
+     "height": 406,
+     "bytes": 22610
+    }
+   }
+  },
+  "austri": {
+   "plate": "p11",
+   "kind": "figure",
+   "files": {
+    "austri-600.jpg": {
+     "width": 600,
+     "height": 800,
+     "bytes": 81772
+    },
+    "austri-600.webp": {
+     "width": 600,
+     "height": 800,
+     "bytes": 46240
+    },
+    "austri-300.jpg": {
+     "width": 300,
+     "height": 400,
+     "bytes": 28718
+    },
+    "austri-300.webp": {
+     "width": 300,
+     "height": 400,
+     "bytes": 20772
+    }
+   }
+  },
+  "vestri": {
+   "plate": "p11",
+   "kind": "figure",
+   "files": {
+    "vestri-600.jpg": {
+     "width": 600,
+     "height": 795,
+     "bytes": 89359
+    },
+    "vestri-600.webp": {
+     "width": 600,
+     "height": 795,
+     "bytes": 53086
+    },
+    "vestri-300.jpg": {
+     "width": 300,
+     "height": 397,
+     "bytes": 31515
+    },
+    "vestri-300.webp": {
+     "width": 300,
+     "height": 397,
+     "bytes": 24268
+    }
+   }
+  },
+  "brokkr": {
+   "plate": "p11",
+   "kind": "figure",
+   "files": {
+    "brokkr-600.jpg": {
+     "width": 600,
+     "height": 951,
+     "bytes": 102678
+    },
+    "brokkr-600.webp": {
+     "width": 600,
+     "height": 951,
+     "bytes": 59606
+    },
+    "brokkr-300.jpg": {
+     "width": 300,
+     "height": 475,
+     "bytes": 38236
+    },
+    "brokkr-300.webp": {
+     "width": 300,
+     "height": 475,
+     "bytes": 28422
+    }
+   }
+  },
+  "sindri": {
+   "plate": "p11",
+   "kind": "figure",
+   "files": {
+    "sindri-600.jpg": {
+     "width": 600,
+     "height": 1047,
+     "bytes": 107484
+    },
+    "sindri-600.webp": {
+     "width": 600,
+     "height": 1047,
+     "bytes": 59288
+    },
+    "sindri-300.jpg": {
+     "width": 300,
+     "height": 523,
+     "bytes": 39904
+    },
+    "sindri-300.webp": {
+     "width": 300,
+     "height": 523,
+     "bytes": 28310
+    }
+   }
+  },
+  "ivaldi": {
+   "plate": "p11",
+   "kind": "figure",
+   "files": {
+    "ivaldi-600.jpg": {
+     "width": 600,
+     "height": 507,
+     "bytes": 82018
+    },
+    "ivaldi-600.webp": {
+     "width": 600,
+     "height": 507,
+     "bytes": 63072
+    },
+    "ivaldi-300.jpg": {
+     "width": 300,
+     "height": 253,
+     "bytes": 25756
+    },
+    "ivaldi-300.webp": {
+     "width": 300,
+     "height": 253,
+     "bytes": 21728
+    }
+   }
+  },
+  "fjalar": {
+   "plate": "p11",
+   "kind": "figure",
+   "files": {
+    "fjalar-600.jpg": {
+     "width": 600,
+     "height": 1021,
+     "bytes": 88845
+    },
+    "fjalar-600.webp": {
+     "width": 600,
+     "height": 1021,
+     "bytes": 44392
+    },
+    "fjalar-300.jpg": {
+     "width": 300,
+     "height": 511,
+     "bytes": 32581
+    },
+    "fjalar-300.webp": {
+     "width": 300,
+     "height": 511,
+     "bytes": 20764
+    }
+   }
+  },
+  "galar": {
+   "plate": "p11",
+   "kind": "figure",
+   "files": {
+    "galar-600.jpg": {
+     "width": 600,
+     "height": 969,
+     "bytes": 84652
+    },
+    "galar-600.webp": {
+     "width": 600,
+     "height": 969,
+     "bytes": 43426
+    },
+    "galar-300.jpg": {
+     "width": 300,
+     "height": 484,
+     "bytes": 30830
+    },
+    "galar-300.webp": {
+     "width": 300,
+     "height": 484,
+     "bytes": 20288
+    }
+   }
+  },
+  "andvari": {
+   "plate": "p11",
+   "kind": "figure",
+   "files": {
+    "andvari-600.jpg": {
+     "width": 600,
+     "height": 600,
+     "bytes": 69706
+    },
+    "andvari-600.webp": {
+     "width": 600,
+     "height": 600,
+     "bytes": 39866
+    },
+    "andvari-300.jpg": {
+     "width": 300,
+     "height": 300,
+     "bytes": 27413
+    },
+    "andvari-300.webp": {
+     "width": 300,
+     "height": 300,
+     "bytes": 19646
+    }
+   }
+  },
+  "alviss": {
+   "plate": "p11",
+   "kind": "figure",
+   "files": {
+    "alviss-600.jpg": {
+     "width": 600,
+     "height": 934,
+     "bytes": 100965
+    },
+    "alviss-600.webp": {
+     "width": 600,
+     "height": 934,
+     "bytes": 59216
+    },
+    "alviss-300.jpg": {
+     "width": 300,
+     "height": 467,
+     "bytes": 36636
+    },
+    "alviss-300.webp": {
+     "width": 300,
+     "height": 467,
+     "bytes": 26346
+    }
+   }
+  },
+  "ljosalfar": {
+   "plate": "p12",
+   "kind": "figure",
+   "files": {
+    "ljosalfar-600.jpg": {
+     "width": 600,
+     "height": 163,
+     "bytes": 34186
+    },
+    "ljosalfar-600.webp": {
+     "width": 600,
+     "height": 163,
+     "bytes": 29158
+    },
+    "ljosalfar-300.jpg": {
+     "width": 300,
+     "height": 82,
+     "bytes": 9491
+    },
+    "ljosalfar-300.webp": {
+     "width": 300,
+     "height": 82,
+     "bytes": 8090
+    }
+   }
+  },
+  "dokkalfar": {
+   "plate": "p12",
+   "kind": "figure",
+   "files": {
+    "dokkalfar-600.jpg": {
+     "width": 600,
+     "height": 163,
+     "bytes": 30253
+    },
+    "dokkalfar-600.webp": {
+     "width": 600,
+     "height": 163,
+     "bytes": 23368
+    },
+    "dokkalfar-300.jpg": {
+     "width": 300,
+     "height": 82,
+     "bytes": 8765
+    },
+    "dokkalfar-300.webp": {
+     "width": 300,
+     "height": 82,
+     "bytes": 7084
+    }
+   }
+  },
+  "wayland-the-smith": {
+   "plate": "p12",
+   "kind": "figure",
+   "files": {
+    "wayland-the-smith-600.jpg": {
+     "width": 600,
+     "height": 489,
+     "bytes": 72770
+    },
+    "wayland-the-smith-600.webp": {
+     "width": 600,
+     "height": 489,
+     "bytes": 50032
+    },
+    "wayland-the-smith-300.jpg": {
+     "width": 300,
+     "height": 244,
+     "bytes": 24408
+    },
+    "wayland-the-smith-300.webp": {
+     "width": 300,
+     "height": 244,
+     "bytes": 19708
+    }
+   }
+  },
+  "urdr": {
+   "plate": "p13",
+   "kind": "figure",
+   "files": {
+    "urdr-600.jpg": {
+     "width": 600,
+     "height": 846,
+     "bytes": 118317
+    },
+    "urdr-600.webp": {
+     "width": 600,
+     "height": 846,
+     "bytes": 79164
+    },
+    "urdr-300.jpg": {
+     "width": 300,
+     "height": 423,
+     "bytes": 40621
+    },
+    "urdr-300.webp": {
+     "width": 300,
+     "height": 423,
+     "bytes": 32458
+    }
+   }
+  },
+  "verdandi": {
+   "plate": "p13",
+   "kind": "figure",
+   "files": {
+    "verdandi-600.jpg": {
+     "width": 600,
+     "height": 886,
+     "bytes": 105110
+    },
+    "verdandi-600.webp": {
+     "width": 600,
+     "height": 886,
+     "bytes": 64330
+    },
+    "verdandi-300.jpg": {
+     "width": 300,
+     "height": 443,
+     "bytes": 37017
+    },
+    "verdandi-300.webp": {
+     "width": 300,
+     "height": 443,
+     "bytes": 27162
+    }
+   }
+  },
+  "skuld": {
+   "plate": "p13",
+   "kind": "figure",
+   "files": {
+    "skuld-600.jpg": {
+     "width": 600,
+     "height": 1697,
+     "bytes": 134180
+    },
+    "skuld-600.webp": {
+     "width": 600,
+     "height": 1697,
+     "bytes": 63646
+    },
+    "skuld-300.jpg": {
+     "width": 300,
+     "height": 848,
+     "bytes": 48845
+    },
+    "skuld-300.webp": {
+     "width": 300,
+     "height": 848,
+     "bytes": 29194
+    }
+   }
+  },
+  "urdarbrunnr": {
+   "plate": "p13",
+   "kind": "place",
+   "files": {
+    "urdarbrunnr-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 64409
+    },
+    "urdarbrunnr-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 45874
+    },
+    "urdarbrunnr-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 21434
+    },
+    "urdarbrunnr-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 17250
+    }
+   }
+  },
+  "hrist": {
+   "plate": "p13",
+   "kind": "figure",
+   "files": {
+    "hrist-600.jpg": {
+     "width": 600,
+     "height": 1587,
+     "bytes": 145615
+    },
+    "hrist-600.webp": {
+     "width": 600,
+     "height": 1587,
+     "bytes": 73698
+    },
+    "hrist-300.jpg": {
+     "width": 300,
+     "height": 793,
+     "bytes": 54469
+    },
+    "hrist-300.webp": {
+     "width": 300,
+     "height": 793,
+     "bytes": 37034
+    }
+   }
+  },
+  "mist": {
+   "plate": "p13",
+   "kind": "figure",
+   "files": {
+    "mist-600.jpg": {
+     "width": 600,
+     "height": 1587,
+     "bytes": 148521
+    },
+    "mist-600.webp": {
+     "width": 600,
+     "height": 1587,
+     "bytes": 78750
+    },
+    "mist-300.jpg": {
+     "width": 300,
+     "height": 793,
+     "bytes": 54743
+    },
+    "mist-300.webp": {
+     "width": 300,
+     "height": 793,
+     "bytes": 38466
+    }
+   }
+  },
+  "skogul": {
+   "plate": "p13",
+   "kind": "figure",
+   "files": {
+    "skogul-600.jpg": {
+     "width": 600,
+     "height": 679,
+     "bytes": 91844
+    },
+    "skogul-600.webp": {
+     "width": 600,
+     "height": 679,
+     "bytes": 63388
+    },
+    "skogul-300.jpg": {
+     "width": 300,
+     "height": 340,
+     "bytes": 29119
+    },
+    "skogul-300.webp": {
+     "width": 300,
+     "height": 340,
+     "bytes": 21648
+    }
+   }
+  },
+  "gungnir": {
+   "plate": "p14",
+   "kind": "figure",
+   "files": {
+    "gungnir-600.jpg": {
+     "width": 600,
+     "height": 749,
+     "bytes": 54493
+    },
+    "gungnir-600.webp": {
+     "width": 600,
+     "height": 749,
+     "bytes": 28144
+    },
+    "gungnir-300.jpg": {
+     "width": 300,
+     "height": 375,
+     "bytes": 16797
+    },
+    "gungnir-300.webp": {
+     "width": 300,
+     "height": 375,
+     "bytes": 10458
+    }
+   }
+  },
+  "draupnir": {
+   "plate": "p14",
+   "kind": "figure",
+   "files": {
+    "draupnir-600.jpg": {
+     "width": 600,
+     "height": 665,
+     "bytes": 74768
+    },
+    "draupnir-600.webp": {
+     "width": 600,
+     "height": 665,
+     "bytes": 46098
+    },
+    "draupnir-300.jpg": {
+     "width": 300,
+     "height": 332,
+     "bytes": 24901
+    },
+    "draupnir-300.webp": {
+     "width": 300,
+     "height": 332,
+     "bytes": 18636
+    }
+   }
+  },
+  "skidbladnir": {
+   "plate": "p14",
+   "kind": "figure",
+   "files": {
+    "skidbladnir-600.jpg": {
+     "width": 600,
+     "height": 645,
+     "bytes": 61275
+    },
+    "skidbladnir-600.webp": {
+     "width": 600,
+     "height": 645,
+     "bytes": 36428
+    },
+    "skidbladnir-300.jpg": {
+     "width": 300,
+     "height": 322,
+     "bytes": 19624
+    },
+    "skidbladnir-300.webp": {
+     "width": 300,
+     "height": 322,
+     "bytes": 13552
+    }
+   }
+  },
+  "gleipnir": {
+   "plate": "p14",
+   "kind": "figure",
+   "files": {
+    "gleipnir-600.jpg": {
+     "width": 600,
+     "height": 561,
+     "bytes": 70737
+    },
+    "gleipnir-600.webp": {
+     "width": 600,
+     "height": 561,
+     "bytes": 45760
+    },
+    "gleipnir-300.jpg": {
+     "width": 300,
+     "height": 281,
+     "bytes": 23900
+    },
+    "gleipnir-300.webp": {
+     "width": 300,
+     "height": 281,
+     "bytes": 16614
+    }
+   }
+  },
+  "brisingamen": {
+   "plate": "p14",
+   "kind": "figure",
+   "files": {
+    "brisingamen-600.jpg": {
+     "width": 600,
+     "height": 720,
+     "bytes": 81706
+    },
+    "brisingamen-600.webp": {
+     "width": 600,
+     "height": 720,
+     "bytes": 58916
+    },
+    "brisingamen-300.jpg": {
+     "width": 300,
+     "height": 360,
+     "bytes": 26829
+    },
+    "brisingamen-300.webp": {
+     "width": 300,
+     "height": 360,
+     "bytes": 21886
+    }
+   }
+  },
+  "andvaranaut": {
+   "plate": "p14",
+   "kind": "figure",
+   "files": {
+    "andvaranaut-600.jpg": {
+     "width": 600,
+     "height": 639,
+     "bytes": 48675
+    },
+    "andvaranaut-600.webp": {
+     "width": 600,
+     "height": 639,
+     "bytes": 23064
+    },
+    "andvaranaut-300.jpg": {
+     "width": 300,
+     "height": 319,
+     "bytes": 17066
+    },
+    "andvaranaut-300.webp": {
+     "width": 300,
+     "height": 319,
+     "bytes": 10176
+    }
+   }
+  },
+  "valhalla": {
+   "plate": "p15",
+   "kind": "place",
+   "files": {
+    "valhalla-600.jpg": {
+     "width": 600,
+     "height": 315,
+     "bytes": 67611
+    },
+    "valhalla-600.webp": {
+     "width": 600,
+     "height": 315,
+     "bytes": 57616
+    },
+    "valhalla-300.jpg": {
+     "width": 300,
+     "height": 158,
+     "bytes": 17701
+    },
+    "valhalla-300.webp": {
+     "width": 300,
+     "height": 158,
+     "bytes": 15566
+    }
+   }
+  },
+  "eikthyrnir": {
+   "plate": "p15",
+   "kind": "figure",
+   "files": {
+    "eikthyrnir-600.jpg": {
+     "width": 600,
+     "height": 789,
+     "bytes": 106247
+    },
+    "eikthyrnir-600.webp": {
+     "width": 600,
+     "height": 789,
+     "bytes": 71454
+    },
+    "eikthyrnir-300.jpg": {
+     "width": 300,
+     "height": 394,
+     "bytes": 38019
+    },
+    "eikthyrnir-300.webp": {
+     "width": 300,
+     "height": 394,
+     "bytes": 30524
+    }
+   }
+  },
+  "heidrun": {
+   "plate": "p15",
+   "kind": "figure",
+   "files": {
+    "heidrun-600.jpg": {
+     "width": 600,
+     "height": 555,
+     "bytes": 62057
+    },
+    "heidrun-600.webp": {
+     "width": 600,
+     "height": 555,
+     "bytes": 37516
+    },
+    "heidrun-300.jpg": {
+     "width": 300,
+     "height": 278,
+     "bytes": 24056
+    },
+    "heidrun-300.webp": {
+     "width": 300,
+     "height": 278,
+     "bytes": 18566
+    }
+   }
+  },
+  "saehrimnir": {
+   "plate": "p15",
+   "kind": "figure",
+   "files": {
+    "saehrimnir-600.jpg": {
+     "width": 600,
+     "height": 636,
+     "bytes": 89099
+    },
+    "saehrimnir-600.webp": {
+     "width": 600,
+     "height": 636,
+     "bytes": 60928
+    },
+    "saehrimnir-300.jpg": {
+     "width": 300,
+     "height": 318,
+     "bytes": 31315
+    },
+    "saehrimnir-300.webp": {
+     "width": 300,
+     "height": 318,
+     "bytes": 26366
+    }
+   }
+  },
+  "einherjar": {
+   "plate": "p15",
+   "kind": "figure",
+   "files": {
+    "einherjar-600.jpg": {
+     "width": 600,
+     "height": 523,
+     "bytes": 92622
+    },
+    "einherjar-600.webp": {
+     "width": 600,
+     "height": 523,
+     "bytes": 69938
+    },
+    "einherjar-300.jpg": {
+     "width": 300,
+     "height": 261,
+     "bytes": 28906
+    },
+    "einherjar-300.webp": {
+     "width": 300,
+     "height": 261,
+     "bytes": 23460
+    }
+   }
+  },
+  "geri": {
+   "plate": "p15",
+   "kind": "attribute",
+   "files": {
+    "geri-600.jpg": {
+     "width": 600,
+     "height": 555,
+     "bytes": 66842
+    },
+    "geri-600.webp": {
+     "width": 600,
+     "height": 555,
+     "bytes": 42798
+    },
+    "geri-300.jpg": {
+     "width": 300,
+     "height": 278,
+     "bytes": 24409
+    },
+    "geri-300.webp": {
+     "width": 300,
+     "height": 278,
+     "bytes": 19776
+    }
+   }
+  },
+  "garmr": {
+   "plate": "p16",
+   "kind": "figure",
+   "files": {
+    "garmr-600.jpg": {
+     "width": 600,
+     "height": 553,
+     "bytes": 56541
+    },
+    "garmr-600.webp": {
+     "width": 600,
+     "height": 553,
+     "bytes": 33166
+    },
+    "garmr-300.jpg": {
+     "width": 300,
+     "height": 276,
+     "bytes": 20654
+    },
+    "garmr-300.webp": {
+     "width": 300,
+     "height": 276,
+     "bytes": 14326
+    }
+   }
+  },
+  "naglfar": {
+   "plate": "p16",
+   "kind": "figure",
+   "files": {
+    "naglfar-600.jpg": {
+     "width": 600,
+     "height": 547,
+     "bytes": 65858
+    },
+    "naglfar-600.webp": {
+     "width": 600,
+     "height": 547,
+     "bytes": 41968
+    },
+    "naglfar-300.jpg": {
+     "width": 300,
+     "height": 274,
+     "bytes": 23214
+    },
+    "naglfar-300.webp": {
+     "width": 300,
+     "height": 274,
+     "bytes": 18024
+    }
+   }
+  },
+  "midgard": {
+   "plate": "p17",
+   "kind": "figure",
+   "files": {
+    "midgard-600.jpg": {
+     "width": 600,
+     "height": 271,
+     "bytes": 52940
+    },
+    "midgard-600.webp": {
+     "width": 600,
+     "height": 271,
+     "bytes": 45672
+    },
+    "midgard-300.jpg": {
+     "width": 300,
+     "height": 136,
+     "bytes": 15965
+    },
+    "midgard-300.webp": {
+     "width": 300,
+     "height": 136,
+     "bytes": 14510
+    }
+   }
+  },
+  "sigurdr": {
+   "plate": "p18",
+   "kind": "figure",
+   "files": {
+    "sigurdr-600.jpg": {
+     "width": 600,
+     "height": 1259,
+     "bytes": 172035
+    },
+    "sigurdr-600.webp": {
+     "width": 600,
+     "height": 1259,
+     "bytes": 122680
+    },
+    "sigurdr-300.jpg": {
+     "width": 300,
+     "height": 630,
+     "bytes": 55465
+    },
+    "sigurdr-300.webp": {
+     "width": 300,
+     "height": 630,
+     "bytes": 43900
+    }
+   }
+  },
+  "grani": {
+   "plate": "p18",
+   "kind": "attribute",
+   "files": {
+    "grani-600.jpg": {
+     "width": 600,
+     "height": 956,
+     "bytes": 150991
+    },
+    "grani-600.webp": {
+     "width": 600,
+     "height": 956,
+     "bytes": 114462
+    },
+    "grani-300.jpg": {
+     "width": 300,
+     "height": 478,
+     "bytes": 48881
+    },
+    "grani-300.webp": {
+     "width": 300,
+     "height": 478,
+     "bytes": 41748
+    }
+   }
+  },
+  "fafnir": {
+   "plate": "p18",
+   "kind": "figure",
+   "files": {
+    "fafnir-600.jpg": {
+     "width": 600,
+     "height": 984,
+     "bytes": 155726
+    },
+    "fafnir-600.webp": {
+     "width": 600,
+     "height": 984,
+     "bytes": 119166
+    },
+    "fafnir-300.jpg": {
+     "width": 300,
+     "height": 492,
+     "bytes": 51135
+    },
+    "fafnir-300.webp": {
+     "width": 300,
+     "height": 492,
+     "bytes": 44448
+    }
+   }
+  },
+  "regin": {
+   "plate": "p18",
+   "kind": "figure",
+   "files": {
+    "regin-600.jpg": {
+     "width": 600,
+     "height": 1298,
+     "bytes": 138827
+    },
+    "regin-600.webp": {
+     "width": 600,
+     "height": 1298,
+     "bytes": 78310
+    },
+    "regin-300.jpg": {
+     "width": 300,
+     "height": 649,
+     "bytes": 51885
+    },
+    "regin-300.webp": {
+     "width": 300,
+     "height": 649,
+     "bytes": 37938
+    }
+   }
+  },
+  "brynhild": {
+   "plate": "p18",
+   "kind": "figure",
+   "files": {
+    "brynhild-600.jpg": {
+     "width": 600,
+     "height": 1487,
+     "bytes": 169159
+    },
+    "brynhild-600.webp": {
+     "width": 600,
+     "height": 1487,
+     "bytes": 105424
+    },
+    "brynhild-300.jpg": {
+     "width": 300,
+     "height": 744,
+     "bytes": 63187
+    },
+    "brynhild-300.webp": {
+     "width": 300,
+     "height": 744,
+     "bytes": 49822
+    }
+   }
+  },
+  "gudrun": {
+   "plate": "p18",
+   "kind": "figure",
+   "files": {
+    "gudrun-600.jpg": {
+     "width": 600,
+     "height": 2075,
+     "bytes": 165294
+    },
+    "gudrun-600.webp": {
+     "width": 600,
+     "height": 2075,
+     "bytes": 77640
+    },
+    "gudrun-300.jpg": {
+     "width": 300,
+     "height": 1038,
+     "bytes": 62923
+    },
+    "gudrun-300.webp": {
+     "width": 300,
+     "height": 1038,
+     "bytes": 37836
+    }
+   }
+  },
+  "gunnar": {
+   "plate": "p18",
+   "kind": "figure",
+   "files": {
+    "gunnar-600.jpg": {
+     "width": 600,
+     "height": 645,
+     "bytes": 104597
+    },
+    "gunnar-600.webp": {
+     "width": 600,
+     "height": 645,
+     "bytes": 80522
+    },
+    "gunnar-300.jpg": {
+     "width": 300,
+     "height": 322,
+     "bytes": 35422
+    },
+    "gunnar-300.webp": {
+     "width": 300,
+     "height": 322,
+     "bytes": 30958
+    }
+   }
+  },
+  "hogni": {
+   "plate": "p18",
+   "kind": "figure",
+   "files": {
+    "hogni-600.jpg": {
+     "width": 600,
+     "height": 1946,
+     "bytes": 213328
+    },
+    "hogni-600.webp": {
+     "width": 600,
+     "height": 1946,
+     "bytes": 130582
+    },
+    "hogni-300.jpg": {
+     "width": 300,
+     "height": 973,
+     "bytes": 81494
+    },
+    "hogni-300.webp": {
+     "width": 300,
+     "height": 973,
+     "bytes": 65302
+    }
+   }
+  },
+  "etzel": {
+   "plate": "p18",
+   "kind": "figure",
+   "files": {
+    "etzel-600.jpg": {
+     "width": 600,
+     "height": 1029,
+     "bytes": 140645
+    },
+    "etzel-600.webp": {
+     "width": 600,
+     "height": 1029,
+     "bytes": 97392
+    },
+    "etzel-300.jpg": {
+     "width": 300,
+     "height": 515,
+     "bytes": 48459
+    },
+    "etzel-300.webp": {
+     "width": 300,
+     "height": 515,
+     "bytes": 39792
     }
    }
   }
