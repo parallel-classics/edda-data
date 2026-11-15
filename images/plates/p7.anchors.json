@@ -164,17 +164,43 @@
       ]
     },
     {
-      "entity": "mani",
-      "kind": "attribute",
+      "entity": "hjuki",
+      "kind": "figure",
       "bbox": [
         2374,
         1273,
-        585,
+        292,
         602
+      ],
+      "label": [
+        2520,
+        2735
       ],
       "shows": [
         {
-          "en": "Bil and Hjúki with the pail on its pole",
+          "en": "the boy Máni took from the earth, carrying the pail Sægr on the pole Simul",
+          "refs": [
+            "g-c11-2"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "bil",
+      "kind": "figure",
+      "bbox": [
+        2666,
+        1273,
+        293,
+        602
+      ],
+      "label": [
+        2812,
+        2735
+      ],
+      "shows": [
+        {
+          "en": "the girl who went with him",
           "refs": [
             "g-c11-2"
           ]

@@ -152,27 +152,99 @@
     },
     {
       "entity": "geri",
-      "kind": "attribute",
+      "kind": "figure",
       "bbox": [
         4369,
         1892,
         447,
         413
       ],
-      "shows": [],
-      "part_of": "odin"
+      "shows": [
+        {
+          "en": "one of Óðinn's two wolves, fed from his table",
+          "refs": []
+        }
+      ],
+      "part_of": "odin",
+      "label": [
+        4592,
+        2715
+      ]
     },
     {
       "entity": "freki",
-      "kind": "attribute",
+      "kind": "figure",
       "bbox": [
         4816,
         1961,
         516,
         482
       ],
-      "shows": [],
-      "part_of": "odin"
+      "shows": [
+        {
+          "en": "one of Óðinn's two wolves, fed from his table",
+          "refs": []
+        }
+      ],
+      "part_of": "odin",
+      "label": [
+        5074,
+        2715
+      ]
+    },
+    {
+      "entity": "valhalla",
+      "kind": "attribute",
+      "part_of": "valhalla",
+      "bbox": [
+        1300,
+        900,
+        230,
+        250
+      ],
+      "label": [
+        1415,
+        2715
+      ],
+      "caption": {
+        "name": "Eagle",
+        "gloss": "over the door"
+      },
+      "shows": [
+        {
+          "en": "an eagle hovers over the hall's west door",
+          "refs": [
+            "grm-s10"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "valhalla",
+      "kind": "attribute",
+      "part_of": "valhalla",
+      "bbox": [
+        1320,
+        1880,
+        320,
+        300
+      ],
+      "label": [
+        1480,
+        2715
+      ],
+      "caption": {
+        "name": "Wolf",
+        "gloss": "west of the door"
+      },
+      "shows": [
+        {
+          "en": "a wolf hangs west of the door",
+          "refs": [
+            "grm-s10"
+          ]
+        }
+      ]
     }
   ],
   "made_with": "Google Gemini image generation (Nano Banana Pro), edit passes; frame/caption box by the cloud session (provenance only)"

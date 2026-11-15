@@ -130,6 +130,14 @@
             "hdl-s7"
           ]
         }
+      ],
+      "caption": {
+        "name": "Freyja's cats",
+        "gloss": "her wagon"
+      },
+      "label": [
+        3070,
+        2600
       ]
     },
     {
@@ -151,6 +159,14 @@
             "hdl-s7"
           ]
         }
+      ],
+      "caption": {
+        "name": "Hildisvíni",
+        "gloss": "Freyja's boar"
+      },
+      "label": [
+        3715,
+        2600
       ]
     },
     {
