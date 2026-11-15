@@ -214,42 +214,42 @@
     "p5-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 538129
+     "bytes": 489920
     },
     "p5-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 301710
+     "bytes": 267720
     },
     "p5-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 278935
+     "bytes": 259576
     },
     "p5-1600.webp": {
      "width": 1600,
      "height": 893,
-     "bytes": 175150
+     "bytes": 159064
     },
     "p5-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 125062
+     "bytes": 117566
     },
     "p5-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 84550
+     "bytes": 77356
     },
     "p5-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 50093
+     "bytes": 46434
     },
     "p5-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 34978
+     "bytes": 32024
     }
    }
   },
@@ -664,42 +664,42 @@
     "p14-2400.jpg": {
      "width": 2400,
      "height": 1340,
-     "bytes": 507759
+     "bytes": 511370
     },
     "p14-2400.webp": {
      "width": 2400,
      "height": 1340,
-     "bytes": 315020
+     "bytes": 315098
     },
     "p14-1600.jpg": {
      "width": 1600,
      "height": 893,
-     "bytes": 254736
+     "bytes": 256511
     },
     "p14-1600.webp": {
      "width": 1600,
      "height": 893,
-     "bytes": 167786
+     "bytes": 168448
     },
     "p14-1000.jpg": {
      "width": 1000,
      "height": 558,
-     "bytes": 114501
+     "bytes": 115438
     },
     "p14-1000.webp": {
      "width": 1000,
      "height": 558,
-     "bytes": 77768
+     "bytes": 78000
     },
     "p14-600.jpg": {
      "width": 600,
      "height": 335,
-     "bytes": 48207
+     "bytes": 48567
     },
     "p14-600.webp": {
      "width": 600,
      "height": 335,
-     "bytes": 32828
+     "bytes": 33008
     }
    }
   },
@@ -1847,23 +1847,23 @@
    "files": {
     "angrboda-600.jpg": {
      "width": 600,
-     "height": 1562,
-     "bytes": 147379
+     "height": 1454,
+     "bytes": 127796
     },
     "angrboda-600.webp": {
      "width": 600,
-     "height": 1562,
-     "bytes": 82062
+     "height": 1454,
+     "bytes": 71706
     },
     "angrboda-300.jpg": {
      "width": 300,
-     "height": 781,
-     "bytes": 52313
+     "height": 727,
+     "bytes": 45384
     },
     "angrboda-300.webp": {
      "width": 300,
-     "height": 781,
-     "bytes": 37188
+     "height": 727,
+     "bytes": 31180
     }
    }
   },
@@ -1873,23 +1873,23 @@
    "files": {
     "fenrir-600.jpg": {
      "width": 600,
-     "height": 577,
-     "bytes": 71592
+     "height": 546,
+     "bytes": 64189
     },
     "fenrir-600.webp": {
      "width": 600,
-     "height": 577,
-     "bytes": 49752
+     "height": 546,
+     "bytes": 42518
     },
     "fenrir-300.jpg": {
      "width": 300,
-     "height": 288,
-     "bytes": 23083
+     "height": 273,
+     "bytes": 21102
     },
     "fenrir-300.webp": {
      "width": 300,
-     "height": 288,
-     "bytes": 17580
+     "height": 273,
+     "bytes": 15516
     }
    }
   },
@@ -1899,23 +1899,23 @@
    "files": {
     "jormungandr-600.jpg": {
      "width": 600,
-     "height": 522,
-     "bytes": 87216
+     "height": 498,
+     "bytes": 75431
     },
     "jormungandr-600.webp": {
      "width": 600,
-     "height": 522,
-     "bytes": 66844
+     "height": 498,
+     "bytes": 54370
     },
     "jormungandr-300.jpg": {
      "width": 300,
-     "height": 261,
-     "bytes": 27500
+     "height": 249,
+     "bytes": 23628
     },
     "jormungandr-300.webp": {
      "width": 300,
-     "height": 261,
-     "bytes": 23172
+     "height": 249,
+     "bytes": 18810
     }
    }
   },
@@ -1925,23 +1925,23 @@
    "files": {
     "hel-600.jpg": {
      "width": 600,
-     "height": 1432,
-     "bytes": 126095
+     "height": 1324,
+     "bytes": 111873
     },
     "hel-600.webp": {
      "width": 600,
-     "height": 1432,
-     "bytes": 63990
+     "height": 1324,
+     "bytes": 57652
     },
     "hel-300.jpg": {
      "width": 300,
-     "height": 716,
-     "bytes": 44890
+     "height": 662,
+     "bytes": 39978
     },
     "hel-300.webp": {
      "width": 300,
-     "height": 716,
-     "bytes": 29764
+     "height": 662,
+     "bytes": 25898
     }
    }
   },
@@ -3615,23 +3615,23 @@
    "files": {
     "gungnir-600.jpg": {
      "width": 600,
-     "height": 749,
-     "bytes": 54493
+     "height": 692,
+     "bytes": 51007
     },
     "gungnir-600.webp": {
      "width": 600,
-     "height": 749,
-     "bytes": 28144
+     "height": 692,
+     "bytes": 26712
     },
     "gungnir-300.jpg": {
      "width": 300,
-     "height": 375,
-     "bytes": 16797
+     "height": 346,
+     "bytes": 15736
     },
     "gungnir-300.webp": {
      "width": 300,
-     "height": 375,
-     "bytes": 10458
+     "height": 346,
+     "bytes": 9690
     }
    }
   },
@@ -3641,23 +3641,23 @@
    "files": {
     "draupnir-600.jpg": {
      "width": 600,
-     "height": 665,
-     "bytes": 74768
+     "height": 1251,
+     "bytes": 112681
     },
     "draupnir-600.webp": {
      "width": 600,
-     "height": 665,
-     "bytes": 46098
+     "height": 1251,
+     "bytes": 66400
     },
     "draupnir-300.jpg": {
      "width": 300,
-     "height": 332,
-     "bytes": 24901
+     "height": 626,
+     "bytes": 36211
     },
     "draupnir-300.webp": {
      "width": 300,
-     "height": 332,
-     "bytes": 18636
+     "height": 626,
+     "bytes": 25526
     }
    }
   },
@@ -3668,22 +3668,22 @@
     "skidbladnir-600.jpg": {
      "width": 600,
      "height": 645,
-     "bytes": 61275
+     "bytes": 60231
     },
     "skidbladnir-600.webp": {
      "width": 600,
      "height": 645,
-     "bytes": 36428
+     "bytes": 34594
     },
     "skidbladnir-300.jpg": {
      "width": 300,
      "height": 322,
-     "bytes": 19624
+     "bytes": 19550
     },
     "skidbladnir-300.webp": {
      "width": 300,
      "height": 322,
-     "bytes": 13552
+     "bytes": 13186
     }
    }
   },
@@ -3693,23 +3693,23 @@
    "files": {
     "gleipnir-600.jpg": {
      "width": 600,
-     "height": 561,
-     "bytes": 70737
+     "height": 580,
+     "bytes": 72000
     },
     "gleipnir-600.webp": {
      "width": 600,
-     "height": 561,
-     "bytes": 45760
+     "height": 580,
+     "bytes": 46492
     },
     "gleipnir-300.jpg": {
      "width": 300,
-     "height": 281,
-     "bytes": 23900
+     "height": 290,
+     "bytes": 24200
     },
     "gleipnir-300.webp": {
      "width": 300,
-     "height": 281,
-     "bytes": 16614
+     "height": 290,
+     "bytes": 16808
     }
    }
   },
@@ -3719,23 +3719,23 @@
    "files": {
     "brisingamen-600.jpg": {
      "width": 600,
-     "height": 720,
-     "bytes": 81706
+     "height": 692,
+     "bytes": 79102
     },
     "brisingamen-600.webp": {
      "width": 600,
-     "height": 720,
-     "bytes": 58916
+     "height": 692,
+     "bytes": 57554
     },
     "brisingamen-300.jpg": {
      "width": 300,
-     "height": 360,
-     "bytes": 26829
+     "height": 346,
+     "bytes": 25648
     },
     "brisingamen-300.webp": {
      "width": 300,
-     "height": 360,
-     "bytes": 21886
+     "height": 346,
+     "bytes": 20664
     }
    }
   },
@@ -3745,23 +3745,23 @@
    "files": {
     "andvaranaut-600.jpg": {
      "width": 600,
-     "height": 639,
-     "bytes": 48675
+     "height": 559,
+     "bytes": 45470
     },
     "andvaranaut-600.webp": {
      "width": 600,
-     "height": 639,
-     "bytes": 23064
+     "height": 559,
+     "bytes": 21948
     },
     "andvaranaut-300.jpg": {
      "width": 300,
-     "height": 319,
-     "bytes": 17066
+     "height": 280,
+     "bytes": 16253
     },
     "andvaranaut-300.webp": {
      "width": 300,
-     "height": 319,
-     "bytes": 10176
+     "height": 280,
+     "bytes": 9868
     }
    }
   },
