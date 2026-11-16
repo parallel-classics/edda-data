@@ -17,7 +17,7 @@
    "kind": "published",
    "label": "Netútgáfan 1997",
    "lang": "is",
-   "title": "Snorra-Edda: Gylfaginning in modern spelling, Netútgáfan (Snerpa), June 1997"
+   "title": "Snorra-Edda: Gylfaginning, and Hávamál, Völuspá, Þrymskviða, Völundarkviða and Helgakviða Hundingsbana II, in modern spelling, Netútgáfan (Snerpa), 1996–1997"
   },
   "brodeur-1916": {
    "kind": "published",
@@ -101,7 +101,8 @@
  "row_flags": {
   "en_draft": "ai-draft",
   "en_from": "brodeur-1916",
-  "en_thorpe": "thorpe-1866"
+  "en_thorpe": "thorpe-1866",
+  "is_netutgafan": "netutgafan-1997"
  },
  "checks": {
   "edition": [

@@ -38,11 +38,11 @@
         "Hljóðs bið eg allar",
         "helgar kindir,",
         "meiri og minni",
-        "mögu Heimdallar;",
-        "viltu að eg, Valföður,",
+        "mögu Heimdallar.",
+        "Viltu að eg, Valföður,",
         "vel fyr telja",
-        "forn spjöll firra,",
-        "þau er fremst of man."
+        "forn spjöll fira,",
+        "þau er fremst um man."
        ]
       }
      ],
@@ -65,23 +65,6 @@
      "is_cont": false,
      "quoted_in": [],
      "head": "The making of the world",
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 1,
-       "l": [
-        "Hljóðs bið eg allar",
-        "helgar kindir,",
-        "meiri og minni",
-        "mögu Heimdallar.",
-        "Viltu að eg, Valföður,",
-        "vel fyr telja",
-        "forn spjöll fira,",
-        "þau er fremst um man."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.982,
      "en-thorpe": [
       {
        "t": "p",
@@ -99,7 +82,24 @@
         "the old tales I remember | of men long ago."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Hljóðs bið eg allar",
+        "helgar kindir,",
+        "meiri og minni",
+        "mögu Heimdallar;",
+        "viltu að eg, Valföður,",
+        "vel fyr telja",
+        "forn spjöll firra,",
+        "þau er fremst of man."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s2",
@@ -126,11 +126,11 @@
        "n": 2,
        "l": [
         "Eg man jötna",
-        "ár of borna,",
+        "ár um borna,",
         "þá er forðum mig",
-        "fædda höfðu;",
-        "níu man eg heima,",
-        "níu íviðjur,",
+        "fædda höfðu.",
+        "Níu man eg heima,",
+        "níu íviði,",
         "mjötvið mæran",
         "fyr mold neðan."
        ]
@@ -154,23 +154,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 2,
-       "l": [
-        "Eg man jötna",
-        "ár um borna,",
-        "þá er forðum mig",
-        "fædda höfðu.",
-        "Níu man eg heima,",
-        "níu íviði,",
-        "mjötvið mæran",
-        "fyr mold neðan."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.964,
      "en-thorpe": [
       {
        "t": "p",
@@ -188,7 +171,24 @@
         "with mighty roots | beneath the earth."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Eg man jötna",
+        "ár of borna,",
+        "þá er forðum mig",
+        "fædda höfðu;",
+        "níu man eg heima,",
+        "níu íviðjur,",
+        "mjötvið mæran",
+        "fyr mold neðan."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s3",
@@ -221,7 +221,7 @@
         "jörð fannst æva",
         "né upphiminn,",
         "gap var ginnunga",
-        "en gras hvergi."
+        "en gras hvergi,"
        ]
       }
      ],
@@ -245,23 +245,6 @@
      "quoted_in": [
       "g-c4-3"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 3,
-       "l": [
-        "Ár var alda,",
-        "það er ekki var,",
-        "var-a sandur né sær",
-        "né svalar unnir;",
-        "jörð fannst æva",
-        "né upphiminn,",
-        "gap var ginnunga",
-        "en gras hvergi,"
-       ]
-      }
-     ],
-     "is_nu_sim": 1.0,
      "en-thorpe": [
       {
        "t": "p",
@@ -279,7 +262,24 @@
         "only a yawning gap, | and no grass anywhere."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Ár var alda,",
+        "það er ekki var,",
+        "var-a sandur né sær",
+        "né svalar unnir;",
+        "jörð fannst æva",
+        "né upphiminn,",
+        "gap var ginnunga",
+        "en gras hvergi."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s4",
@@ -305,8 +305,8 @@
        "t": "v",
        "n": 4,
        "l": [
-        "Áður Burs synir",
-        "bjöðum of yppðu,",
+        "áður Burs synir",
+        "bjöðum um ypptu,",
         "þeir er Miðgarð",
         "mæran skópu;",
         "sól skein sunnan",
@@ -334,23 +334,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 4,
-       "l": [
-        "áður Burs synir",
-        "bjöðum um ypptu,",
-        "þeir er Miðgarð",
-        "mæran skópu;",
-        "sól skein sunnan",
-        "á salar steina,",
-        "þá var grund gróin",
-        "grænum lauki."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.976,
      "en-thorpe": [
       {
        "t": "p",
@@ -368,7 +351,24 @@
         "and the ground was green | with growing leeks."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Áður Burs synir",
+        "bjöðum of yppðu,",
+        "þeir er Miðgarð",
+        "mæran skópu;",
+        "sól skein sunnan",
+        "á salar steina,",
+        "þá var grund gróin",
+        "grænum lauki."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s5",
@@ -400,12 +400,12 @@
         "sinni mána,",
         "hendi inni hægri",
         "um himinjöður;",
-        "sól það né vissi,",
+        "sól það né vissi",
         "hvar hún sali átti,",
-        "máni það né vissi,",
-        "hvað hann megins átti,",
         "stjörnur það né vissu",
-        "hvar þær staði áttu."
+        "hvar þær staði áttu,",
+        "máni það né vissi",
+        "hvað hann megins átti."
        ]
       }
      ],
@@ -430,25 +430,6 @@
      "quoted_in": [
       "g-c8-5"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 5,
-       "l": [
-        "Sól varp sunnan,",
-        "sinni mána,",
-        "hendi inni hægri",
-        "um himinjöður;",
-        "sól það né vissi",
-        "hvar hún sali átti,",
-        "stjörnur það né vissu",
-        "hvar þær staði áttu,",
-        "máni það né vissi",
-        "hvað hann megins átti."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.771,
      "en-thorpe": [
       {
        "t": "p",
@@ -467,7 +448,26 @@
         "The stars did not know | where their stations were."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "Sól varp sunnan,",
+        "sinni mána,",
+        "hendi inni hægri",
+        "um himinjöður;",
+        "sól það né vissi,",
+        "hvar hún sali átti,",
+        "máni það né vissi,",
+        "hvað hann megins átti,",
+        "stjörnur það né vissu",
+        "hvar þær staði áttu."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s6",
@@ -497,10 +497,10 @@
        "l": [
         "Þá gengu regin öll",
         "á rökstóla,",
-        "ginnheilug guð,",
+        "ginnheilög goð,",
         "og um það gættust;",
         "nótt og niðjum",
-        "nöfn of gáfu,",
+        "nöfn um gáfu,",
         "morgun hétu",
         "og miðjan dag,",
         "undorn og aftan,",
@@ -527,25 +527,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 6,
-       "l": [
-        "Þá gengu regin öll",
-        "á rökstóla,",
-        "ginnheilög goð,",
-        "og um það gættust;",
-        "nótt og niðjum",
-        "nöfn um gáfu,",
-        "morgun hétu",
-        "og miðjan dag,",
-        "undorn og aftan,",
-        "árum að telja."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.973,
      "en-thorpe": [
       {
        "t": "p",
@@ -564,7 +545,26 @@
         "night and evening, | to number the years."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Þá gengu regin öll",
+        "á rökstóla,",
+        "ginnheilug guð,",
+        "og um það gættust;",
+        "nótt og niðjum",
+        "nöfn of gáfu,",
+        "morgun hétu",
+        "og miðjan dag,",
+        "undorn og aftan,",
+        "árum að telja."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s7",
@@ -619,23 +619,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 7,
-       "l": [
-        "Hittust æsir",
-        "á Iðavelli,",
-        "þeir er hörg og hof",
-        "hátimbruðu;",
-        "afla lögðu,",
-        "auð smíðuðu,",
-        "tangir skópu",
-        "og tól gerðu."
-       ]
-      }
-     ],
-     "is_nu_sim": 1.0,
      "en-thorpe": [
       {
        "t": "p",
@@ -653,7 +636,24 @@
         "they forged tongs | and fashioned tools."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Hittust æsir",
+        "á Iðavelli,",
+        "þeir er hörg og hof",
+        "hátimbruðu;",
+        "afla lögðu,",
+        "auð smíðuðu,",
+        "tangir skópu",
+        "og tól gerðu."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s8",
@@ -680,10 +680,10 @@
        "n": 8,
        "l": [
         "Tefldu í túni,",
-        "teitir voru,",
+        "teitir vóru,",
         "var þeim vettergis",
         "vant úr gulli,",
-        "uns þrjár kvámu",
+        "uns þrjár kómu",
         "þursa meyjar",
         "ámáttkar mjög",
         "úr Jötunheimum."
@@ -708,23 +708,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 8,
-       "l": [
-        "Tefldu í túni,",
-        "teitir vóru,",
-        "var þeim vettergis",
-        "vant úr gulli,",
-        "uns þrjár kómu",
-        "þursa meyjar",
-        "ámáttkar mjög",
-        "úr Jötunheimum."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.987,
      "en-thorpe": [
       {
        "t": "p",
@@ -742,7 +725,24 @@
         "huge in might, | out of Jotunheim."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Tefldu í túni,",
+        "teitir voru,",
+        "var þeim vettergis",
+        "vant úr gulli,",
+        "uns þrjár kvámu",
+        "þursa meyjar",
+        "ámáttkar mjög",
+        "úr Jötunheimum."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s9",
@@ -770,9 +770,9 @@
        "l": [
         "Þá gengu regin öll",
         "á rökstóla,",
-        "ginnheilug guð,",
+        "ginnheilög goð,",
         "og um það gættust,",
-        "hverjir skyldi dverga",
+        "hver skyldi dverga",
         "dróttir skepja",
         "úr Brimis blóði",
         "og úr Bláins leggjum."
@@ -800,23 +800,6 @@
       "g-c14-3"
      ],
      "head": "The dwarfs",
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 9,
-       "l": [
-        "Þá gengu regin öll",
-        "á rökstóla,",
-        "ginnheilög goð,",
-        "og um það gættust,",
-        "hver skyldi dverga",
-        "dróttir skepja",
-        "úr Brimis blóði",
-        "og úr Bláins leggjum."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.974,
      "en-thorpe": [
       {
        "t": "p",
@@ -834,7 +817,24 @@
         "out of Brimir's blood | and the legs of Blain."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Þá gengu regin öll",
+        "á rökstóla,",
+        "ginnheilug guð,",
+        "og um það gættust,",
+        "hverjir skyldi dverga",
+        "dróttir skepja",
+        "úr Brimis blóði",
+        "og úr Bláins leggjum."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s10",
@@ -860,13 +860,13 @@
        "t": "v",
        "n": 10,
        "l": [
-        "Þar var Móðsognir",
-        "mæstur of orðinn",
+        "Þar var Mótsognir",
+        "mæstur um orðinn",
         "dverga allra,",
         "en Durinn annar;",
         "þeir mannlíkun",
-        "mörg of gerðu",
-        "dvergar í jörðu,",
+        "mörg um gerðu",
+        "dvergar úr jörðu,",
         "sem Durinn sagði."
        ]
       }
@@ -891,23 +891,6 @@
      "quoted_in": [
       "g-c14-4"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 10,
-       "l": [
-        "Þar var Mótsognir",
-        "mæstur um orðinn",
-        "dverga allra,",
-        "en Durinn annar;",
-        "þeir mannlíkun",
-        "mörg um gerðu",
-        "dvergar úr jörðu,",
-        "sem Durinn sagði."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.948,
      "en-thorpe": [
       {
        "t": "p",
@@ -925,7 +908,24 @@
         "the dwarfs in the earth, | as Durin said."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Þar var Móðsognir",
+        "mæstur of orðinn",
+        "dverga allra,",
+        "en Durinn annar;",
+        "þeir mannlíkun",
+        "mörg of gerðu",
+        "dvergar í jörðu,",
+        "sem Durinn sagði."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s11",
@@ -953,16 +953,14 @@
        "t": "v",
        "n": 11,
        "l": [
-        "Nýi, Niði,",
-        "Norðri, Suðri,",
-        "Austri, Vestri,",
+        "Nýi og Niði,",
+        "Norðri og Suðri,",
+        "Austri og Vestri,",
         "Alþjófur, Dvalinn,",
-        "Nár og Náinn",
-        "Nipingur, Dáinn",
-        "Bívur, Bávur,",
-        "Bömbur, Nori,",
-        "Ánn og Annar,",
-        "Óðinn, Mjöðvitnir."
+        "Bívör, Bávör,",
+        "Bömbur, Nóri,",
+        "Án og Ánar,",
+        "Ái, Mjöðvitnir."
        ]
       }
      ],
@@ -987,23 +985,6 @@
      "quoted_in": [
       "g-c14-6"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 11,
-       "l": [
-        "Nýi og Niði,",
-        "Norðri og Suðri,",
-        "Austri og Vestri,",
-        "Alþjófur, Dvalinn,",
-        "Bívör, Bávör,",
-        "Bömbur, Nóri,",
-        "Án og Ánar,",
-        "Ái, Mjöðvitnir."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.803,
      "en-thorpe": [
       {
        "t": "p",
@@ -1022,7 +1003,26 @@
         "An and Onar, | Ai, Mjothvitnir."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Nýi, Niði,",
+        "Norðri, Suðri,",
+        "Austri, Vestri,",
+        "Alþjófur, Dvalinn,",
+        "Nár og Náinn",
+        "Nipingur, Dáinn",
+        "Bívur, Bávur,",
+        "Bömbur, Nori,",
+        "Ánn og Annar,",
+        "Óðinn, Mjöðvitnir."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s12",
@@ -1048,14 +1048,14 @@
        "t": "v",
        "n": 12,
        "l": [
-        "Veggur og Gandálfur,",
-        "Vindálfur, Þorinn,",
-        "Þrár og Þráinn,",
-        "Þekkur, Litur og Vitur,",
-        "Nýr og Nýráður,",
-        "nú hef eg dverga,",
-        "Reginn og Ráðsvinnur,",
-        "rétt of talða."
+        "Veigur og Gandálfur,",
+        "Vindálfur, Þráinn,",
+        "Þekkur og Þorinn,",
+        "Þrár, Vitur og Litur,",
+        "Nár og Nýráður,",
+        "nú hefi eg dverga,",
+        "- Reginn og Ráðsviður, -",
+        "rétt um talda."
        ]
       }
      ],
@@ -1079,23 +1079,6 @@
      "quoted_in": [
       "g-c14-7"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 12,
-       "l": [
-        "Veigur og Gandálfur,",
-        "Vindálfur, Þráinn,",
-        "Þekkur og Þorinn,",
-        "Þrár, Vitur og Litur,",
-        "Nár og Nýráður,",
-        "nú hefi eg dverga,",
-        "- Reginn og Ráðsviður, -",
-        "rétt um talda."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.823,
      "en-thorpe": [
       {
        "t": "p",
@@ -1113,7 +1096,24 @@
         "Regin and Rathsvith, | the list correctly."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 12,
+       "l": [
+        "Veggur og Gandálfur,",
+        "Vindálfur, Þorinn,",
+        "Þrár og Þráinn,",
+        "Þekkur, Litur og Vitur,",
+        "Nýr og Nýráður,",
+        "nú hef eg dverga,",
+        "Reginn og Ráðsvinnur,",
+        "rétt of talða."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s13",
@@ -1141,12 +1141,10 @@
        "t": "v",
        "n": 13,
        "l": [
-        "Fili, Kili,",
+        "Fíli, Kíli,",
         "Fundinn, Náli,",
         "Hefti, Víli,",
         "Hannar, Svíur,",
-        "Billingur, Brúni,",
-        "Bíldur og Buri,",
         "Frár, Hornbori,",
         "Frægur og Lóni,",
         "Aurvangur, Jari,",
@@ -1174,23 +1172,6 @@
      "quoted_in": [
       "g-c14-7"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 13,
-       "l": [
-        "Fíli, Kíli,",
-        "Fundinn, Náli,",
-        "Hefti, Víli,",
-        "Hannar, Svíur,",
-        "Frár, Hornbori,",
-        "Frægur og Lóni,",
-        "Aurvangur, Jari,",
-        "Eikinskjaldi."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.869,
      "en-thorpe": [
       {
        "t": "p",
@@ -1208,7 +1189,26 @@
         "Aurvang, Jari, Eikinskjaldi."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Fili, Kili,",
+        "Fundinn, Náli,",
+        "Hefti, Víli,",
+        "Hannar, Svíur,",
+        "Billingur, Brúni,",
+        "Bíldur og Buri,",
+        "Frár, Hornbori,",
+        "Frægur og Lóni,",
+        "Aurvangur, Jari,",
+        "Eikinskjaldi."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s14",
@@ -1263,23 +1263,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 14,
-       "l": [
-        "Mál er dverga",
-        "í Dvalins liði",
-        "ljóna kindum",
-        "til Lofars telja,",
-        "þeir er sóttu",
-        "frá salar steini",
-        "Aurvanga sjöt",
-        "til Jöruvalla."
-       ]
-      }
-     ],
-     "is_nu_sim": 1.0,
      "en-thorpe": [
       {
        "t": "p",
@@ -1297,7 +1280,24 @@
         "they sought a home | in the fields of sand."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 14,
+       "l": [
+        "Mál er dverga",
+        "í Dvalins liði",
+        "ljóna kindum",
+        "til Lofars telja,",
+        "þeir er sóttu",
+        "frá salar steini",
+        "Aurvanga sjöt",
+        "til Jöruvalla."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s15",
@@ -1324,13 +1324,11 @@
        "n": 15,
        "l": [
         "Þar var Draupnir",
-        "og Dolgþrasir,",
+        "og Dólgþrasir,",
         "Hár, Haugspori,",
-        "Hlévangur, Glóinn,",
-        "Dór, Óri",
-        "Dúfur, Andvari",
-        "Skirfir, Virfir,",
-        "Skafiður, Ái."
+        "Hlévangur, Glói,",
+        "Skirvir, Virvir,",
+        "Skáfiður, Ái."
        ]
       }
      ],
@@ -1355,21 +1353,6 @@
       "g-c14-9",
       "g-c14-11"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 15,
-       "l": [
-        "Þar var Draupnir",
-        "og Dólgþrasir,",
-        "Hár, Haugspori,",
-        "Hlévangur, Glói,",
-        "Skirvir, Virvir,",
-        "Skáfiður, Ái."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.857,
      "en-thorpe": [
       {
        "t": "p",
@@ -1387,7 +1370,24 @@
         "Skirfir, Virfir, | Skafith, Ai."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "Þar var Draupnir",
+        "og Dolgþrasir,",
+        "Hár, Haugspori,",
+        "Hlévangur, Glóinn,",
+        "Dór, Óri",
+        "Dúfur, Andvari",
+        "Skirfir, Virfir,",
+        "Skafiður, Ái."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s16",
@@ -1413,11 +1413,11 @@
        "t": "v",
        "n": 16,
        "l": [
-        "Álfur og Ingi,",
+        "Álfur og Yngvi,",
         "Eikinskjaldi,",
         "Fjalar og Frosti,",
         "Finnur og Ginnar;",
-        "það mun æ uppi",
+        "það mun upp",
         "meðan öld lifir,",
         "langniðja tal",
         "Lofars hafað."
@@ -1444,23 +1444,6 @@
      "quoted_in": [
       "g-c14-11"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 16,
-       "l": [
-        "Álfur og Yngvi,",
-        "Eikinskjaldi,",
-        "Fjalar og Frosti,",
-        "Finnur og Ginnar;",
-        "það mun upp",
-        "meðan öld lifir,",
-        "langniðja tal",
-        "Lofars hafað."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.974,
      "en-thorpe": [
       {
        "t": "p",
@@ -1478,7 +1461,24 @@
         "the list of all | the forefathers of Lofar."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Álfur og Ingi,",
+        "Eikinskjaldi,",
+        "Fjalar og Frosti,",
+        "Finnur og Ginnar;",
+        "það mun æ uppi",
+        "meðan öld lifir,",
+        "langniðja tal",
+        "Lofars hafað."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s17",
@@ -1504,7 +1504,7 @@
        "t": "v",
        "n": 17,
        "l": [
-        "Uns þrír kvámu",
+        "Uns þrír kómu",
         "úr því liði",
         "öflgir og ástkir",
         "æsir að húsi,",
@@ -1534,23 +1534,6 @@
      "is_cont": false,
      "quoted_in": [],
      "head": "Askr and Embla, the world-tree, the Norns",
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 17,
-       "l": [
-        "Uns þrír kómu",
-        "úr því liði",
-        "öflgir og ástkir",
-        "æsir að húsi,",
-        "fundu á landi",
-        "lítt megandi",
-        "Ask og Emblu",
-        "örlöglausa."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.986,
      "en-thorpe": [
       {
        "t": "p",
@@ -1568,7 +1551,24 @@
         "Ask and Embla, | empty of might."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "Uns þrír kvámu",
+        "úr því liði",
+        "öflgir og ástkir",
+        "æsir að húsi,",
+        "fundu á landi",
+        "lítt megandi",
+        "Ask og Emblu",
+        "örlöglausa."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s18",
@@ -1597,11 +1597,11 @@
         "Önd þau né áttu,",
         "óð þau né höfðu,",
         "lá né læti",
-        "né lita góða;",
+        "né litu góða;",
         "önd gaf Óðinn,",
         "óð gaf Hænir,",
         "lá gaf Lóður",
-        "og lita góða."
+        "og litu góða."
        ]
       }
      ],
@@ -1623,23 +1623,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 18,
-       "l": [
-        "Önd þau né áttu,",
-        "óð þau né höfðu,",
-        "lá né læti",
-        "né litu góða;",
-        "önd gaf Óðinn,",
-        "óð gaf Hænir,",
-        "lá gaf Lóður",
-        "og litu góða."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.981,
      "en-thorpe": [
       {
        "t": "p",
@@ -1657,7 +1640,24 @@
         "Lothur gave heat | and good colour."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "Önd þau né áttu,",
+        "óð þau né höfðu,",
+        "lá né læti",
+        "né lita góða;",
+        "önd gaf Óðinn,",
+        "óð gaf Hænir,",
+        "lá gaf Lóður",
+        "og lita góða."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s19",
@@ -1687,8 +1687,8 @@
         "heitir Yggdrasill,",
         "hár baðmur, ausinn",
         "hvíta auri;",
-        "þaðan koma döggvar,",
-        "þærs í dala falla,",
+        "þaðan koma döggvar",
+        "þær er í dala falla,",
         "stendur æ yfir grænn",
         "Urðarbrunni."
        ]
@@ -1714,23 +1714,6 @@
      "quoted_in": [
       "g-c16-7"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 19,
-       "l": [
-        "Ask veit eg standa,",
-        "heitir Yggdrasill,",
-        "hár baðmur, ausinn",
-        "hvíta auri;",
-        "þaðan koma döggvar",
-        "þær er í dala falla,",
-        "stendur æ yfir grænn",
-        "Urðarbrunni."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.985,
      "en-thorpe": [
       {
        "t": "p",
@@ -1748,7 +1731,24 @@
         "green by Urth's well | it grows for ever."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "Ask veit eg standa,",
+        "heitir Yggdrasill,",
+        "hár baðmur, ausinn",
+        "hvíta auri;",
+        "þaðan koma döggvar,",
+        "þærs í dala falla,",
+        "stendur æ yfir grænn",
+        "Urðarbrunni."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s20",
@@ -1784,9 +1784,9 @@
         "er und þolli stendur;",
         "Urð hétu eina,",
         "aðra Verðandi,",
-        "- skoru á skíði, -",
-        "Skuld hina þriðju;",
-        "þær lög lögðu,",
+        "skáru á skíði,",
+        "Skuld ina þriðju.",
+        "Þær lög lögðu,",
         "þær líf kuru",
         "alda börnum,",
         "örlög seggja."
@@ -1813,27 +1813,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 20,
-       "l": [
-        "Þaðan koma meyjar",
-        "margs vitandi",
-        "þrjár úr þeim sæ,",
-        "er und þolli stendur;",
-        "Urð hétu eina,",
-        "aðra Verðandi,",
-        "skáru á skíði,",
-        "Skuld ina þriðju.",
-        "Þær lög lögðu,",
-        "þær líf kuru",
-        "alda börnum,",
-        "örlög seggja."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.986,
      "en-thorpe": [
       {
        "t": "p",
@@ -1857,7 +1836,28 @@
         "to the sons of men, | and set their fates."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Þaðan koma meyjar",
+        "margs vitandi",
+        "þrjár úr þeim sæ,",
+        "er und þolli stendur;",
+        "Urð hétu eina,",
+        "aðra Verðandi,",
+        "- skoru á skíði, -",
+        "Skuld hina þriðju;",
+        "þær lög lögðu,",
+        "þær líf kuru",
+        "alda börnum,",
+        "örlög seggja."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s21",
@@ -1885,7 +1885,7 @@
        "t": "v",
        "n": 21,
        "l": [
-        "Það man hún folkvíg",
+        "Það man hún fólkvíg",
         "fyrst í heimi,",
         "er Gullveigu",
         "geirum studdu",
@@ -1893,7 +1893,7 @@
         "hana brenndu,",
         "þrisvar brenndu,",
         "þrisvar borna,",
-        "oft, ósjaldan,",
+        "oft, ósjaldan;",
         "þó hún enn lifir."
        ]
       }
@@ -1918,25 +1918,6 @@
      "is_cont": false,
      "quoted_in": [],
      "head": "The first war",
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 21,
-       "l": [
-        "Það man hún fólkvíg",
-        "fyrst í heimi,",
-        "er Gullveigu",
-        "geirum studdu",
-        "og í höll Hárs",
-        "hana brenndu,",
-        "þrisvar brenndu,",
-        "þrisvar borna,",
-        "oft, ósjaldan;",
-        "þó hún enn lifir."
-       ]
-      }
-     ],
-     "is_nu_sim": 1.0,
      "en-thorpe": [
       {
        "t": "p",
@@ -1955,7 +1936,26 @@
         "again and again, | yet she lives for ever."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Það man hún folkvíg",
+        "fyrst í heimi,",
+        "er Gullveigu",
+        "geirum studdu",
+        "og í höll Hárs",
+        "hana brenndu,",
+        "þrisvar brenndu,",
+        "þrisvar borna,",
+        "oft, ósjaldan,",
+        "þó hún enn lifir."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s22",
@@ -1982,11 +1982,11 @@
        "n": 22,
        "l": [
         "Heiði hana hétu",
-        "hvars til húsa kom,",
+        "hvar er til húsa kom,",
         "völu velspáa,",
         "vitti hún ganda;",
-        "seið hún, hvars hún kunni,",
-        "seið hún hug leikinn,",
+        "seið hún hvar er hún kunni,",
+        "seið hún hugleikin,",
         "æ var hún angan",
         "illrar brúðar."
        ]
@@ -2010,23 +2010,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 22,
-       "l": [
-        "Heiði hana hétu",
-        "hvar er til húsa kom,",
-        "völu velspáa,",
-        "vitti hún ganda;",
-        "seið hún hvar er hún kunni,",
-        "seið hún hugleikin,",
-        "æ var hún angan",
-        "illrar brúðar."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.964,
      "en-thorpe": [
       {
        "t": "p",
@@ -2044,7 +2027,24 @@
         "to evil women | she was a joy."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "Heiði hana hétu",
+        "hvars til húsa kom,",
+        "völu velspáa,",
+        "vitti hún ganda;",
+        "seið hún, hvars hún kunni,",
+        "seið hún hug leikinn,",
+        "æ var hún angan",
+        "illrar brúðar."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s23",
@@ -2072,8 +2072,8 @@
        "l": [
         "Þá gengu regin öll",
         "á rökstóla,",
-        "ginnheilug guð,",
-        "og um það gættust,",
+        "ginnheilög goð,",
+        "og um það gættust",
         "hvort skyldu æsir",
         "afráð gjalda",
         "eða skyldu goðin öll",
@@ -2099,23 +2099,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 23,
-       "l": [
-        "Þá gengu regin öll",
-        "á rökstóla,",
-        "ginnheilög goð,",
-        "og um það gættust",
-        "hvort skyldu æsir",
-        "afráð gjalda",
-        "eða skyldu goðin öll",
-        "gildi eiga."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.984,
      "en-thorpe": [
       {
        "t": "p",
@@ -2133,7 +2116,24 @@
         "or worship should belong | to all alike."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Þá gengu regin öll",
+        "á rökstóla,",
+        "ginnheilug guð,",
+        "og um það gættust,",
+        "hvort skyldu æsir",
+        "afráð gjalda",
+        "eða skyldu goðin öll",
+        "gildi eiga."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s24",
@@ -2160,8 +2160,8 @@
        "n": 24,
        "l": [
         "Fleygði Óðinn",
-        "og í folk of skaut,",
-        "það var enn folkvíg",
+        "og í fólk um skaut,",
+        "það var enn fólkvíg",
         "fyrst í heimi;",
         "brotinn var borðveggur",
         "borgar ása,",
@@ -2188,23 +2188,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 24,
-       "l": [
-        "Fleygði Óðinn",
-        "og í fólk um skaut,",
-        "það var enn fólkvíg",
-        "fyrst í heimi;",
-        "brotinn var borðveggur",
-        "borgar ása,",
-        "knáttu vanir vígspá",
-        "völlu sporna."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.985,
      "en-thorpe": [
       {
        "t": "p",
@@ -2222,7 +2205,24 @@
         "and the field was trodden | by the warlike Wanes."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Fleygði Óðinn",
+        "og í folk of skaut,",
+        "það var enn folkvíg",
+        "fyrst í heimi;",
+        "brotinn var borðveggur",
+        "borgar ása,",
+        "knáttu vanir vígspá",
+        "völlu sporna."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s25",
@@ -2250,8 +2250,8 @@
        "l": [
         "Þá gengu regin öll",
         "á rökstóla,",
-        "ginnheilug guð,",
-        "og um það gættust,",
+        "ginnheilög goð,",
+        "og um það gættust",
         "hverjir hefði loft allt",
         "lævi blandið",
         "eða ætt jötuns",
@@ -2279,23 +2279,6 @@
      "quoted_in": [
       "g-c42-6"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 25,
-       "l": [
-        "Þá gengu regin öll",
-        "á rökstóla,",
-        "ginnheilög goð,",
-        "og um það gættust",
-        "hverjir hefði loft allt",
-        "lævi blandið",
-        "eða ætt jötuns",
-        "Óðs mey gefna."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.984,
      "en-thorpe": [
       {
        "t": "p",
@@ -2313,7 +2296,24 @@
         "or had given Oth's bride | to the giants' brood."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "Þá gengu regin öll",
+        "á rökstóla,",
+        "ginnheilug guð,",
+        "og um það gættust,",
+        "hverjir hefði loft allt",
+        "lævi blandið",
+        "eða ætt jötuns",
+        "Óðs mey gefna."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s26",
@@ -2339,13 +2339,13 @@
        "t": "v",
        "n": 26,
        "l": [
-        "Þór einn þar vá",
-        "þrungin móði,",
-        "- hann sjaldan situr -",
-        "er hann slíkt of fregn -:",
-        "á gengust eiðar,",
+        "Þór einn þar vó",
+        "þrunginn móði,",
+        "hann sjaldan situr",
+        "er hann slíkt um fregn.",
+        "Á gengust eiðar,",
         "orð og særi,",
-        "mál öll meginleg,",
+        "mál öll meginleg",
         "er á meðal fóru."
        ]
       }
@@ -2370,23 +2370,6 @@
      "quoted_in": [
       "g-c42-7"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 26,
-       "l": [
-        "Þór einn þar vó",
-        "þrunginn móði,",
-        "hann sjaldan situr",
-        "er hann slíkt um fregn.",
-        "Á gengust eiðar,",
-        "orð og særi,",
-        "mál öll meginleg",
-        "er á meðal fóru."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.962,
      "en-thorpe": [
       {
        "t": "p",
@@ -2404,7 +2387,24 @@
         "the mighty pledges | made between them."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Þór einn þar vá",
+        "þrungin móði,",
+        "- hann sjaldan situr -",
+        "er hann slíkt of fregn -:",
+        "á gengust eiðar,",
+        "orð og særi,",
+        "mál öll meginleg,",
+        "er á meðal fóru."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s27",
@@ -2431,13 +2431,13 @@
        "n": 27,
        "l": [
         "Veit hún Heimdallar",
-        "hljóð of folgið",
-        "und heiðvönum",
-        "helgum baðmi,",
+        "hljóð um fólgið",
+        "undir heiðvönum",
+        "helgum baðmi;",
         "á sér hún ausast",
-        "aurgum forsi",
+        "aurgum fossi",
         "af veði Valföðurs.",
-        "Vituð þér enn - eða hvað?"
+        "Vituð ér enn eða hvað?"
        ]
       }
      ],
@@ -2460,23 +2460,6 @@
      "is_cont": false,
      "quoted_in": [],
      "head": "Óðinn’s pledge and the seeress",
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 27,
-       "l": [
-        "Veit hún Heimdallar",
-        "hljóð um fólgið",
-        "undir heiðvönum",
-        "helgum baðmi;",
-        "á sér hún ausast",
-        "aurgum fossi",
-        "af veði Valföðurs.",
-        "Vituð ér enn eða hvað?"
-       ]
-      }
-     ],
-     "is_nu_sim": 0.963,
      "en-thorpe": [
       {
        "t": "p",
@@ -2494,7 +2477,24 @@
         "a mighty stream: | would you know yet more?"
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "Veit hún Heimdallar",
+        "hljóð of folgið",
+        "und heiðvönum",
+        "helgum baðmi,",
+        "á sér hún ausast",
+        "aurgum forsi",
+        "af veði Valföðurs.",
+        "Vituð þér enn - eða hvað?"
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s28",
@@ -2526,20 +2526,20 @@
        "t": "v",
        "n": 28,
        "l": [
-        "Ein sat hún úti,",
-        "þá er hinn aldni kom",
+        "Ein sat hún úti",
+        "þá er inn aldni kom",
         "yggjungur ása",
-        "og í augu leit.",
+        "og í augu leit:",
         "Hvers fregnið mig?",
         "Hví freistið mín?",
         "Allt veit eg, Óðinn,",
         "hvar þú auga falt,",
-        "í hinum mæra",
+        "í inum mæra",
         "Mímisbrunni.",
-        "drekkur mjöð Mímir",
+        "Drekkur mjöð Mímir",
         "morgun hverjan",
         "af veði Valföðurs.",
-        "Vituð þér enn - eða hvað?"
+        "Vituð ér enn eða hvað?"
        ]
       }
      ],
@@ -2574,29 +2574,6 @@
      "quoted_in": [
       "g-c15-5"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 28,
-       "l": [
-        "Ein sat hún úti",
-        "þá er inn aldni kom",
-        "yggjungur ása",
-        "og í augu leit:",
-        "Hvers fregnið mig?",
-        "Hví freistið mín?",
-        "Allt veit eg, Óðinn,",
-        "hvar þú auga falt,",
-        "í inum mæra",
-        "Mímisbrunni.",
-        "Drekkur mjöð Mímir",
-        "morgun hverjan",
-        "af veði Valföðurs.",
-        "Vituð ér enn eða hvað?"
-       ]
-      }
-     ],
-     "is_nu_sim": 0.992,
      "en-thorpe": [
       {
        "t": "p",
@@ -2624,7 +2601,30 @@
         "Mimir drinks: | would you know yet more?"
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Ein sat hún úti,",
+        "þá er hinn aldni kom",
+        "yggjungur ása",
+        "og í augu leit.",
+        "Hvers fregnið mig?",
+        "Hví freistið mín?",
+        "Allt veit eg, Óðinn,",
+        "hvar þú auga falt,",
+        "í hinum mæra",
+        "Mímisbrunni.",
+        "drekkur mjöð Mímir",
+        "morgun hverjan",
+        "af veði Valföðurs.",
+        "Vituð þér enn - eða hvað?"
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s29",
@@ -2652,8 +2652,8 @@
         "hringa og men,",
         "fékk spjöll spakleg",
         "og spá ganda,",
-        "sá hún vítt og of vítt",
-        "of veröld hverja."
+        "sá hún vítt og um vítt",
+        "um veröld hverja."
        ]
       }
      ],
@@ -2675,21 +2675,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 29,
-       "l": [
-        "Valdi henni Herföður",
-        "hringa og men,",
-        "fékk spjöll spakleg",
-        "og spá ganda,",
-        "sá hún vítt og um vítt",
-        "um veröld hverja."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.963,
      "en-thorpe": [
       {
        "t": "p",
@@ -2711,7 +2696,22 @@
         "widely I saw | over all the worlds."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "Valdi henni Herföður",
+        "hringa og men,",
+        "fékk spjöll spakleg",
+        "og spá ganda,",
+        "sá hún vítt og of vítt",
+        "of veröld hverja."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s30",
@@ -2742,7 +2742,7 @@
        "n": 30,
        "l": [
         "Sá hún valkyrjur",
-        "vítt of komnar,",
+        "vítt um komnar,",
         "görvar að ríða",
         "til Goðþjóðar;",
         "Skuld hélt skildi,",
@@ -2777,27 +2777,6 @@
      "is_cont": false,
      "quoted_in": [],
      "head": "The valkyries, Baldr’s death, Loki bound",
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 30,
-       "l": [
-        "Sá hún valkyrjur",
-        "vítt um komnar,",
-        "görvar að ríða",
-        "til Goðþjóðar;",
-        "Skuld hélt skildi,",
-        "en Skögul önnur,",
-        "Gunnur, Hildur, Göndul",
-        "og Geirskögul.",
-        "Nú eru taldar",
-        "nönnur Herjans,",
-        "görvar að ríða",
-        "grund valkyrjur."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.989,
      "en-thorpe": [
       {
        "t": "p",
@@ -2817,7 +2796,28 @@
         "Valkyries ready | to ride over the earth."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Sá hún valkyrjur",
+        "vítt of komnar,",
+        "görvar að ríða",
+        "til Goðþjóðar;",
+        "Skuld hélt skildi,",
+        "en Skögul önnur,",
+        "Gunnur, Hildur, Göndul",
+        "og Geirskögul.",
+        "Nú eru taldar",
+        "nönnur Herjans,",
+        "görvar að ríða",
+        "grund valkyrjur."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s31",
@@ -2846,9 +2846,9 @@
         "Eg sá Baldri,",
         "blóðgum tívur,",
         "Óðins barni,",
-        "örlög folgin;",
-        "stóð of vaxinn",
-        "völlum hæri",
+        "örlög fólgin;",
+        "stóð um vaxinn",
+        "völlum hærri",
         "mjór og mjög fagur",
         "mistilteinn."
        ]
@@ -2872,23 +2872,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 31,
-       "l": [
-        "Eg sá Baldri,",
-        "blóðgum tívur,",
-        "Óðins barni,",
-        "örlög fólgin;",
-        "stóð um vaxinn",
-        "völlum hærri",
-        "mjór og mjög fagur",
-        "mistilteinn."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.977,
      "en-thorpe": [
       {
        "t": "p",
@@ -2906,7 +2889,24 @@
         "full grown in strength | the mistletoe stood."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "Eg sá Baldri,",
+        "blóðgum tívur,",
+        "Óðins barni,",
+        "örlög folgin;",
+        "stóð of vaxinn",
+        "völlum hæri",
+        "mjór og mjög fagur",
+        "mistilteinn."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s32",
@@ -2935,9 +2935,9 @@
         "Varð af þeim meiði,",
         "er mær sýndist,",
         "harmflaug hættleg,",
-        "Höður nam skjóta;",
+        "Höður nam skjóta.",
         "Baldurs bróðir var",
-        "of borinn snemma,",
+        "um borinn snemma,",
         "sá nam Óðins sonur",
         "einnættur vega."
        ]
@@ -2961,23 +2961,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 32,
-       "l": [
-        "Varð af þeim meiði,",
-        "er mær sýndist,",
-        "harmflaug hættleg,",
-        "Höður nam skjóta.",
-        "Baldurs bróðir var",
-        "um borinn snemma,",
-        "sá nam Óðins sonur",
-        "einnættur vega."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.986,
      "en-modern": [
       {
        "t": "v",
@@ -2989,7 +2972,24 @@
         "and one night old | Othin's son fought."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Varð af þeim meiði,",
+        "er mær sýndist,",
+        "harmflaug hættleg,",
+        "Höður nam skjóta;",
+        "Baldurs bróðir var",
+        "of borinn snemma,",
+        "sá nam Óðins sonur",
+        "einnættur vega."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s33",
@@ -3016,13 +3016,13 @@
        "n": 33,
        "l": [
         "Þó hann æva hendur",
-        "né höfuð kembði,",
-        "áður á bál of bar",
+        "né höfuð kembdi,",
+        "áður á bál um bar",
         "Baldurs andskota;",
-        "en Frigg of grét",
+        "en Frigg um grét",
         "í Fensölum",
         "vá Valhallar.",
-        "Vituð þér enn - eða hvað?"
+        "Vituð ér enn eða hvað?"
        ]
       }
      ],
@@ -3044,23 +3044,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 33,
-       "l": [
-        "Þó hann æva hendur",
-        "né höfuð kembdi,",
-        "áður á bál um bar",
-        "Baldurs andskota;",
-        "en Frigg um grét",
-        "í Fensölum",
-        "vá Valhallar.",
-        "Vituð ér enn eða hvað?"
-       ]
-      }
-     ],
-     "is_nu_sim": 0.955,
      "en-thorpe": [
       {
        "t": "p",
@@ -3078,7 +3061,24 @@
         "for Valhall's need: | would you know yet more?"
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "Þó hann æva hendur",
+        "né höfuð kembði,",
+        "áður á bál of bar",
+        "Baldurs andskota;",
+        "en Frigg of grét",
+        "í Fensölum",
+        "vá Valhallar.",
+        "Vituð þér enn - eða hvað?"
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s34",
@@ -3102,7 +3102,7 @@
        "l": [
         "Þá kná Váli",
         "vígbönd snúa,",
-        "heldur voru harðgör",
+        "heldur voru harðger",
         "höft úr þörmum."
        ]
       }
@@ -3117,25 +3117,25 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "[Not in Bellows’ main text: these lines come from the Hauksbók version. In his note to stanza 35 he translates the Hauksbók lines on Váli and Loki’s binding: “I know that Vali his brother gnawed, / With his bowels then was Loki bound.”]"
+      }
+     ],
+     "is_auto": [
       {
        "t": "v",
        "n": 34,
        "l": [
         "Þá kná Váli",
         "vígbönd snúa,",
-        "heldur voru harðger",
+        "heldur voru harðgör",
         "höft úr þörmum."
        ]
       }
      ],
-     "is_nu_sim": 0.983,
-     "en-modern": [
-      {
-       "t": "p",
-       "s": "[Not in Bellows’ main text: these lines come from the Hauksbók version. In his note to stanza 35 he translates the Hauksbók lines on Váli and Loki’s binding: “I know that Vali his brother gnawed, / With his bowels then was Loki bound.”]"
-      }
-     ]
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s35",
@@ -3162,13 +3162,13 @@
        "n": 35,
        "l": [
         "Haft sá hún liggja",
-        "und Hveralundi,",
+        "undir Hveralundi,",
         "lægjarns líki",
-        "Loka áþekkjan;",
-        "þar situr Sigyn",
-        "þeygi of sínum",
+        "Loka áþekkjan.",
+        "Þar situr Sigyn",
+        "þeygi um sínum",
         "ver vel glýjuð.",
-        "Vituð þér enn - eða hvað?"
+        "Vituð ér enn eða hvað?"
        ]
       }
      ],
@@ -3190,23 +3190,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 35,
-       "l": [
-        "Haft sá hún liggja",
-        "undir Hveralundi,",
-        "lægjarns líki",
-        "Loka áþekkjan.",
-        "Þar situr Sigyn",
-        "þeygi um sínum",
-        "ver vel glýjuð.",
-        "Vituð ér enn eða hvað?"
-       ]
-      }
-     ],
-     "is_nu_sim": 0.969,
      "en-thorpe": [
       {
        "t": "p",
@@ -3228,7 +3211,24 @@
         "to see her husband: | would you know yet more?"
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 35,
+       "l": [
+        "Haft sá hún liggja",
+        "und Hveralundi,",
+        "lægjarns líki",
+        "Loka áþekkjan;",
+        "þar situr Sigyn",
+        "þeygi of sínum",
+        "ver vel glýjuð.",
+        "Vituð þér enn - eða hvað?"
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s36",
@@ -3251,7 +3251,7 @@
        "n": 36,
        "l": [
         "Á fellur austan",
-        "um eitrdala",
+        "um eiturdala",
         "söxum og sverðum,",
         "Slíður heitir sú."
        ]
@@ -3276,19 +3276,6 @@
      "is_cont": false,
      "quoted_in": [],
      "head": "The homes of the enemies; the cocks crow",
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 36,
-       "l": [
-        "Á fellur austan",
-        "um eiturdala",
-        "söxum og sverðum,",
-        "Slíður heitir sú."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.992,
      "en-thorpe": [
       {
        "t": "p",
@@ -3306,7 +3293,20 @@
         ".................."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Á fellur austan",
+        "um eitrdala",
+        "söxum og sverðum,",
+        "Slíður heitir sú."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s37",
@@ -3361,23 +3361,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 37,
-       "l": [
-        "Stóð fyr norðan",
-        "á Niðavöllum",
-        "salur úr gulli",
-        "Sindra ættar;",
-        "en annar stóð",
-        "á Ókólni",
-        "bjórsalur jötuns,",
-        "en sá Brimir heitir."
-       ]
-      }
-     ],
-     "is_nu_sim": 1.0,
      "en-thorpe": [
       {
        "t": "p",
@@ -3395,7 +3378,24 @@
         "where the giant Brimir | had his beer-hall."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "Stóð fyr norðan",
+        "á Niðavöllum",
+        "salur úr gulli",
+        "Sindra ættar;",
+        "en annar stóð",
+        "á Ókólni",
+        "bjórsalur jötuns,",
+        "en sá Brimir heitir."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s38",
@@ -3424,9 +3424,9 @@
         "Sal sá hún standa",
         "sólu fjarri",
         "Náströndu á,",
-        "norður horfa dyr;",
-        "falla eiturdropar",
-        "hinn um ljóra,",
+        "norður horfa dyr.",
+        "Féllu eiturdropar",
+        "inn um ljóra,",
         "sá er undinn salur",
         "orma hryggjum."
        ]
@@ -3452,23 +3452,6 @@
      "quoted_in": [
       "g-c52-3"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 38,
-       "l": [
-        "Sal sá hún standa",
-        "sólu fjarri",
-        "Náströndu á,",
-        "norður horfa dyr.",
-        "Féllu eiturdropar",
-        "inn um ljóra,",
-        "sá er undinn salur",
-        "orma hryggjum."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.98,
      "en-thorpe": [
       {
        "t": "p",
@@ -3486,7 +3469,24 @@
         "for around the walls | serpents wind."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Sal sá hún standa",
+        "sólu fjarri",
+        "Náströndu á,",
+        "norður horfa dyr;",
+        "falla eiturdropar",
+        "hinn um ljóra,",
+        "sá er undinn salur",
+        "orma hryggjum."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s39",
@@ -3519,11 +3519,11 @@
         "menn meinsvara",
         "og morðvarga",
         "og þann er annars glepur",
-        "eyrarúnu;",
-        "þar saug Niðhöggur",
+        "eyrarúnu.",
+        "Þar saug Niðhöggur",
         "nái framgengna,",
         "sleit vargur vera.",
-        "Vituð þér enn - eða hvað?"
+        "Vituð ér enn eða hvað?"
        ]
       }
      ],
@@ -3548,25 +3548,6 @@
      "quoted_in": [
       "g-c52-4"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 39,
-       "l": [
-        "Sá hún þar vaða",
-        "þunga strauma",
-        "menn meinsvara",
-        "og morðvarga",
-        "og þann er annars glepur",
-        "eyrarúnu.",
-        "Þar saug Niðhöggur",
-        "nái framgengna,",
-        "sleit vargur vera.",
-        "Vituð ér enn eða hvað?"
-       ]
-      }
-     ],
-     "is_nu_sim": 0.994,
      "en-thorpe": [
       {
        "t": "p",
@@ -3585,7 +3566,26 @@
         "and the wolf tore men; | would you know yet more?"
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "Sá hún þar vaða",
+        "þunga strauma",
+        "menn meinsvara",
+        "og morðvarga",
+        "og þann er annars glepur",
+        "eyrarúnu;",
+        "þar saug Niðhöggur",
+        "nái framgengna,",
+        "sleit vargur vera.",
+        "Vituð þér enn - eða hvað?"
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s40",
@@ -3611,12 +3611,12 @@
        "t": "v",
        "n": 40,
        "l": [
-        "Austur sat hin aldna",
+        "Austur sat in aldna",
         "í Járnviði",
         "og fæddi þar",
-        "Fenris kindir;",
-        "verður af þeim öllum",
-        "einn nokkur",
+        "Fenris kindir.",
+        "Verður af þeim öllum",
+        "einna nokkur",
         "tungls tjúgari",
         "í trölls hami."
        ]
@@ -3642,23 +3642,6 @@
      "quoted_in": [
       "g-c12-7"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 40,
-       "l": [
-        "Austur sat in aldna",
-        "í Járnviði",
-        "og fæddi þar",
-        "Fenris kindir.",
-        "Verður af þeim öllum",
-        "einna nokkur",
-        "tungls tjúgari",
-        "í trölls hami."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.992,
      "en-modern": [
       {
        "t": "v",
@@ -3670,7 +3653,24 @@
         "was soon to steal | the sun from the sky."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Austur sat hin aldna",
+        "í Járnviði",
+        "og fæddi þar",
+        "Fenris kindir;",
+        "verður af þeim öllum",
+        "einn nokkur",
+        "tungls tjúgari",
+        "í trölls hami."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s41",
@@ -3699,11 +3699,11 @@
         "Fyllist fjörvi",
         "feigra manna,",
         "rýður ragna sjöt",
-        "rauðum dreyra;",
-        "svört verða sólskin",
+        "rauðum dreyra.",
+        "Svört verða sólskin",
         "um sumur eftir,",
         "veður öll válynd.",
-        "Vituð þér enn - eða hvað?"
+        "Vituð ér enn eða hvað?"
        ]
       }
      ],
@@ -3727,23 +3727,6 @@
      "quoted_in": [
       "g-c12-8"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 41,
-       "l": [
-        "Fyllist fjörvi",
-        "feigra manna,",
-        "rýður ragna sjöt",
-        "rauðum dreyra.",
-        "Svört verða sólskin",
-        "um sumur eftir,",
-        "veður öll válynd.",
-        "Vituð ér enn eða hvað?"
-       ]
-      }
-     ],
-     "is_nu_sim": 0.992,
      "en-modern": [
       {
        "t": "v",
@@ -3755,7 +3738,24 @@
         "come mighty storms: | would you know yet more?"
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "Fyllist fjörvi",
+        "feigra manna,",
+        "rýður ragna sjöt",
+        "rauðum dreyra;",
+        "svört verða sólskin",
+        "um sumur eftir,",
+        "veður öll válynd.",
+        "Vituð þér enn - eða hvað?"
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s42",
@@ -3785,9 +3785,9 @@
         "og sló hörpu",
         "gýgjar hirðir,",
         "glaður Eggþér;",
-        "gól of hánum",
+        "gól um honum",
         "í galgviði",
-        "fagrrauður hani,",
+        "fagurrauður hani,",
         "sá er Fjalar heitir."
        ]
       }
@@ -3810,23 +3810,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 42,
-       "l": [
-        "Sat þar á haugi",
-        "og sló hörpu",
-        "gýgjar hirðir,",
-        "glaður Eggþér;",
-        "gól um honum",
-        "í galgviði",
-        "fagurrauður hani,",
-        "sá er Fjalar heitir."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.97,
      "en-modern": [
       {
        "t": "v",
@@ -3838,7 +3821,24 @@
         "fair and red | Fjalar stood."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 42,
+       "l": [
+        "Sat þar á haugi",
+        "og sló hörpu",
+        "gýgjar hirðir,",
+        "glaður Eggþér;",
+        "gól of hánum",
+        "í galgviði",
+        "fagrrauður hani,",
+        "sá er Fjalar heitir."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s43",
@@ -3864,10 +3864,10 @@
        "t": "v",
        "n": 43,
        "l": [
-        "Gól of ásum",
+        "Gól um ásum",
         "Gullinkambi,",
-        "sá vekur hölða",
-        "að Herjaföðrs;",
+        "sá vekur hölda",
+        "að Herjaföðurs;",
         "en annar gelur",
         "fyr jörð neðan",
         "sótrauður hani",
@@ -3893,23 +3893,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 43,
-       "l": [
-        "Gól um ásum",
-        "Gullinkambi,",
-        "sá vekur hölda",
-        "að Herjaföðurs;",
-        "en annar gelur",
-        "fyr jörð neðan",
-        "sótrauður hani",
-        "að sölum Heljar."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.969,
      "en-modern": [
       {
        "t": "v",
@@ -3921,7 +3904,24 @@
         "the rust-red bird | at the bars of Hel."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "Gól of ásum",
+        "Gullinkambi,",
+        "sá vekur hölða",
+        "að Herjaföðrs;",
+        "en annar gelur",
+        "fyr jörð neðan",
+        "sótrauður hani",
+        "að sölum Heljar."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s44",
@@ -3947,13 +3947,13 @@
        "t": "v",
        "n": 44,
        "l": [
-        "Geyr nú Garmur mjög",
+        "Geyr Garmur mjög",
         "fyr Gnipahelli,",
-        "festur mun slitna,",
-        "en freki renna;",
-        "fjölð veit eg fræða,",
+        "festur mun slitna",
+        "en freki renna.",
+        "Fjöld veit hún fræða,",
         "fram sé eg lengra",
-        "um ragna rög",
+        "um ragnarök",
         "römm sigtíva."
        ]
       }
@@ -3977,23 +3977,6 @@
      "is_cont": false,
      "quoted_in": [],
      "head": "Ragnarök",
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 44,
-       "l": [
-        "Geyr Garmur mjög",
-        "fyr Gnipahelli,",
-        "festur mun slitna",
-        "en freki renna.",
-        "Fjöld veit hún fræða,",
-        "fram sé eg lengra",
-        "um ragnarök",
-        "römm sigtíva."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.95,
      "en-thorpe": [
       {
        "t": "p",
@@ -4011,7 +3994,24 @@
         "of the fate of the gods, | the mighty in battle."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 44,
+       "l": [
+        "Geyr nú Garmur mjög",
+        "fyr Gnipahelli,",
+        "festur mun slitna,",
+        "en freki renna;",
+        "fjölð veit eg fræða,",
+        "fram sé eg lengra",
+        "um ragna rög",
+        "römm sigtíva."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s45",
@@ -4041,17 +4041,17 @@
        "t": "v",
        "n": 45,
        "l": [
-        "bræður munu berjast",
+        "Bræður munu berjast",
         "og að bönum verðast,",
         "munu systrungar",
         "sifjum spilla;",
         "hart er í heimi,",
         "hórdómur mikill,",
         "skeggöld, skálmöld,",
-        "skildir ro klofnir,",
+        "skildir eru klofnir,",
         "vindöld, vargöld,",
-        "áður veröld steypist;",
-        "mun enginn maður",
+        "áður veröld steypist,",
+        "mun engi maður",
         "öðrum þyrma."
        ]
       }
@@ -4078,27 +4078,6 @@
      "quoted_in": [
       "g-c51-3"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 45,
-       "l": [
-        "Bræður munu berjast",
-        "og að bönum verðast,",
-        "munu systrungar",
-        "sifjum spilla;",
-        "hart er í heimi,",
-        "hórdómur mikill,",
-        "skeggöld, skálmöld,",
-        "skildir eru klofnir,",
-        "vindöld, vargöld,",
-        "áður veröld steypist,",
-        "mun engi maður",
-        "öðrum þyrma."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.988,
      "en-thorpe": [
       {
        "t": "p",
@@ -4122,7 +4101,28 @@
         "nor shall men ever | spare each other."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 45,
+       "l": [
+        "bræður munu berjast",
+        "og að bönum verðast,",
+        "munu systrungar",
+        "sifjum spilla;",
+        "hart er í heimi,",
+        "hórdómur mikill,",
+        "skeggöld, skálmöld,",
+        "skildir ro klofnir,",
+        "vindöld, vargöld,",
+        "áður veröld steypist;",
+        "mun enginn maður",
+        "öðrum þyrma."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s46",
@@ -4148,14 +4148,14 @@
        "t": "v",
        "n": 46,
        "l": [
-        "Leika Mímis synir,",
+        "Leika Míms synir,",
         "en mjötuður kyndist",
-        "að hinu galla",
-        "Gjallarhorni;",
-        "hátt blæs Heimdallur,",
+        "að inu galla",
+        "Gjallarhorni.",
+        "Hátt blæs Heimdallur,",
         "horn er á lofti,",
         "mælir Óðinn",
-        "við Mímis höfuð."
+        "við Míms höfuð."
        ]
       }
      ],
@@ -4179,23 +4179,6 @@
      "quoted_in": [
       "g-c51-6"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 46,
-       "l": [
-        "Leika Míms synir,",
-        "en mjötuður kyndist",
-        "að inu galla",
-        "Gjallarhorni.",
-        "Hátt blæs Heimdallur,",
-        "horn er á lofti,",
-        "mælir Óðinn",
-        "við Míms höfuð."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.988,
      "en-thorpe": [
       {
        "t": "p",
@@ -4213,7 +4196,24 @@
         "in fear all quake | who are on the roads to Hel."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 46,
+       "l": [
+        "Leika Mímis synir,",
+        "en mjötuður kyndist",
+        "að hinu galla",
+        "Gjallarhorni;",
+        "hátt blæs Heimdallur,",
+        "horn er á lofti,",
+        "mælir Óðinn",
+        "við Mímis höfuð."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s47",
@@ -4241,12 +4241,12 @@
        "l": [
         "Skelfur Yggdrasils",
         "askur standandi,",
-        "Ymur it aldna tré,",
-        "en jötunn losnar;",
-        "hræðast allir",
+        "ymur ið aldna tré,",
+        "en jötunn losnar.",
+        "Hræðast allir",
         "á helvegum",
         "áður Surtar þann",
-        "sefi of gleypir."
+        "sefi um gleypir."
        ]
       }
      ],
@@ -4270,23 +4270,6 @@
      "quoted_in": [
       "g-c51-6"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 47,
-       "l": [
-        "Skelfur Yggdrasils",
-        "askur standandi,",
-        "ymur ið aldna tré,",
-        "en jötunn losnar.",
-        "Hræðast allir",
-        "á helvegum",
-        "áður Surtar þann",
-        "sefi um gleypir."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.976,
      "en-modern": [
       {
        "t": "v",
@@ -4298,7 +4281,24 @@
         "but the kinsman of Surt | shall kill him soon."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 47,
+       "l": [
+        "Skelfur Yggdrasils",
+        "askur standandi,",
+        "Ymur it aldna tré,",
+        "en jötunn losnar;",
+        "hræðast allir",
+        "á helvegum",
+        "áður Surtar þann",
+        "sefi of gleypir."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s48",
@@ -4327,11 +4327,11 @@
         "Hvað er með ásum?",
         "Hvað er með álfum?",
         "Gnýr allur Jötunheimur,",
-        "æsir ro á þingi,",
-        "Stynja dvergar",
+        "æsir eru á þingi,",
+        "stynja dvergar",
         "fyr steindurum,",
         "veggbergs vísir.",
-        "Vituð þér enn - eða hvað?"
+        "Vituð ér enn eða hvað?"
        ]
       }
      ],
@@ -4355,23 +4355,6 @@
      "quoted_in": [
       "g-c51-7"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 48,
-       "l": [
-        "Hvað er með ásum?",
-        "Hvað er með álfum?",
-        "Gnýr allur Jötunheimur,",
-        "æsir eru á þingi,",
-        "stynja dvergar",
-        "fyr steindurum,",
-        "veggbergs vísir.",
-        "Vituð ér enn eða hvað?"
-       ]
-      }
-     ],
-     "is_nu_sim": 0.982,
      "en-thorpe": [
       {
        "t": "p",
@@ -4389,7 +4372,24 @@
         "the masters of the rocks: | would you know yet more?"
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 48,
+       "l": [
+        "Hvað er með ásum?",
+        "Hvað er með álfum?",
+        "Gnýr allur Jötunheimur,",
+        "æsir ro á þingi,",
+        "Stynja dvergar",
+        "fyr steindurum,",
+        "veggbergs vísir.",
+        "Vituð þér enn - eða hvað?"
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s49",
@@ -4418,10 +4418,10 @@
         "Geyr nú Garmur mjög",
         "fyr Gnipahelli,",
         "festur mun slitna",
-        "en freki renna;",
-        "fjölð veit eg fræða,",
+        "en freki renna,",
+        "fjöld veit hún fræða,",
         "fram sé eg lengra",
-        "um ragna rög",
+        "um ragnarök",
         "römm sigtíva."
        ]
       }
@@ -4444,23 +4444,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 49,
-       "l": [
-        "Geyr nú Garmur mjög",
-        "fyr Gnipahelli,",
-        "festur mun slitna",
-        "en freki renna,",
-        "fjöld veit hún fræða,",
-        "fram sé eg lengra",
-        "um ragnarök",
-        "römm sigtíva."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.962,
      "en-modern": [
       {
        "t": "v",
@@ -4472,7 +4455,24 @@
         "of the fate of the gods, | the mighty in battle."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 49,
+       "l": [
+        "Geyr nú Garmur mjög",
+        "fyr Gnipahelli,",
+        "festur mun slitna",
+        "en freki renna;",
+        "fjölð veit eg fræða,",
+        "fram sé eg lengra",
+        "um ragna rög",
+        "römm sigtíva."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s50",
@@ -4501,8 +4501,8 @@
         "Hrymur ekur austan,",
         "hefist lind fyrir,",
         "snýst Jörmungandur",
-        "í jötunmóði;",
-        "ormur knýr unnir,",
+        "í jötunmóði.",
+        "Ormur knýr unnir,",
         "en ari hlakkar,",
         "slítur nái Niðfölur,",
         "Naglfar losnar."
@@ -4529,23 +4529,6 @@
      "quoted_in": [
       "g-c51-8"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 50,
-       "l": [
-        "Hrymur ekur austan,",
-        "hefist lind fyrir,",
-        "snýst Jörmungandur",
-        "í jötunmóði.",
-        "Ormur knýr unnir,",
-        "en ari hlakkar,",
-        "slítur nái Niðfölur,",
-        "Naglfar losnar."
-       ]
-      }
-     ],
-     "is_nu_sim": 1.0,
      "en-thorpe": [
       {
        "t": "p",
@@ -4563,7 +4546,24 @@
         "gnaws corpses, screaming; | Naglfar is loose."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "Hrymur ekur austan,",
+        "hefist lind fyrir,",
+        "snýst Jörmungandur",
+        "í jötunmóði;",
+        "ormur knýr unnir,",
+        "en ari hlakkar,",
+        "slítur nái Niðfölur,",
+        "Naglfar losnar."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s51",
@@ -4591,9 +4591,9 @@
        "l": [
         "Kjóll fer austan,",
         "koma munu Múspells",
-        "of lög lýðir,",
-        "en Loki stýrir;",
-        "fara fíflmegir",
+        "um lög lýðir,",
+        "en Loki stýrir.",
+        "Fara fíflmegir",
         "með freka allir,",
         "þeim er bróðir",
         "Býleists í för."
@@ -4620,23 +4620,6 @@
      "quoted_in": [
       "g-c51-9"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 51,
-       "l": [
-        "Kjóll fer austan,",
-        "koma munu Múspells",
-        "um lög lýðir,",
-        "en Loki stýrir.",
-        "Fara fíflmegir",
-        "með freka allir,",
-        "þeim er bróðir",
-        "Býleists í för."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.984,
      "en-thorpe": [
       {
        "t": "p",
@@ -4654,7 +4637,24 @@
         "and with them goes | the brother of Byleist."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 51,
+       "l": [
+        "Kjóll fer austan,",
+        "koma munu Múspells",
+        "of lög lýðir,",
+        "en Loki stýrir;",
+        "fara fíflmegir",
+        "með freka allir,",
+        "þeim er bróðir",
+        "Býleists í för."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s52",
@@ -4681,12 +4681,12 @@
        "n": 52,
        "l": [
         "Surtur fer sunnan",
-        "með svigalævi lævi,",
+        "með sviga lævi,",
         "skín af sverði",
-        "sól valtíva;",
-        "grjótbjörg gnata,",
+        "sól valtíva.",
+        "Grjótbjörg gnata,",
         "en gífur rata,",
-        "troða halir helveg,",
+        "troða halir helveg",
         "en himinn klofnar."
        ]
       }
@@ -4712,23 +4712,6 @@
       "g-c4-6",
       "g-c51-10"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 52,
-       "l": [
-        "Surtur fer sunnan",
-        "með sviga lævi,",
-        "skín af sverði",
-        "sól valtíva.",
-        "Grjótbjörg gnata,",
-        "en gífur rata,",
-        "troða halir helveg",
-        "en himinn klofnar."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.984,
      "en-thorpe": [
       {
        "t": "p",
@@ -4746,7 +4729,24 @@
         "the dead throng the road to Hel, | and heaven splits apart."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 52,
+       "l": [
+        "Surtur fer sunnan",
+        "með svigalævi lævi,",
+        "skín af sverði",
+        "sól valtíva;",
+        "grjótbjörg gnata,",
+        "en gífur rata,",
+        "troða halir helveg,",
+        "en himinn klofnar."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s53",
@@ -4803,23 +4803,6 @@
      "quoted_in": [
       "g-c51-11"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 53,
-       "l": [
-        "Þá kemur Hlínar",
-        "harmur annar fram,",
-        "er Óðinn fer",
-        "við úlf vega,",
-        "en bani Belja",
-        "bjartur að Surti;",
-        "þá mun Friggjar",
-        "falla angan."
-       ]
-      }
-     ],
-     "is_nu_sim": 1.0,
      "en-thorpe": [
       {
        "t": "p",
@@ -4841,7 +4824,24 @@
         "for there must fall | the joy of Frigg."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 53,
+       "l": [
+        "Þá kemur Hlínar",
+        "harmur annar fram,",
+        "er Óðinn fer",
+        "við úlf vega,",
+        "en bani Belja",
+        "bjartur að Surti;",
+        "þá mun Friggjar",
+        "falla angan."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s54",
@@ -4870,11 +4870,7 @@
         "Geyr nú Garmur mjög",
         "fyr Gnipahelli,",
         "festur mun slitna,",
-        "en freki renna;",
-        "fjölð veit eg fræða,",
-        "fram sé eg lengra",
-        "um ragna rög",
-        "römm sigtíva."
+        "en freki renna."
        ]
       }
      ],
@@ -4900,19 +4896,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 54,
-       "l": [
-        "Geyr nú Garmur mjög",
-        "fyr Gnipahelli,",
-        "festur mun slitna,",
-        "en freki renna."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.677,
      "en-modern": [
       {
        "t": "p",
@@ -4928,7 +4911,24 @@
         "of the fate of the gods, | the mighty in battle."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 54,
+       "l": [
+        "Geyr nú Garmur mjög",
+        "fyr Gnipahelli,",
+        "festur mun slitna,",
+        "en freki renna;",
+        "fjölð veit eg fræða,",
+        "fram sé eg lengra",
+        "um ragna rög",
+        "römm sigtíva."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s55",
@@ -4954,7 +4954,7 @@
        "t": "v",
        "n": 55,
        "l": [
-        "Þá kemur hinn mikli",
+        "Þá kemur inn mikli",
         "mögur Sigföður,",
         "Víðar, vega",
         "að valdýri.",
@@ -4985,23 +4985,6 @@
      "quoted_in": [
       "g-c51-12"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 55,
-       "l": [
-        "Þá kemur inn mikli",
-        "mögur Sigföður,",
-        "Víðar, vega",
-        "að valdýri.",
-        "Lætur hann megi Hveðrungs",
-        "mundum standa",
-        "hjör til hjarta,",
-        "þá er hefnt föður."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.996,
      "en-thorpe": [
       {
        "t": "p",
@@ -5019,7 +5002,24 @@
         "right to the heart: | his father is avenged."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 55,
+       "l": [
+        "Þá kemur hinn mikli",
+        "mögur Sigföður,",
+        "Víðar, vega",
+        "að valdýri.",
+        "Lætur hann megi Hveðrungs",
+        "mundum standa",
+        "hjör til hjarta,",
+        "þá er hefnt föður."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s56",
@@ -5049,18 +5049,32 @@
        "t": "v",
        "n": 56,
        "l": [
-        "Þá kemur hinn mæri",
+        "Gín loft yfir",
+        "lindi jarðar.",
+        "Gapa ýgs kjaftar",
+        "orms í hæðum.",
+        "Mun Óðins son",
+        "eitri mæta",
+        "vargs að dauða",
+        "Víðars niðja."
+       ]
+      },
+      {
+       "t": "v",
+       "n": 56,
+       "l": [
+        "Þá kemur inn mæri",
         "mögur Hlóðynjar,",
         "gengur Óðins sonur",
         "við orm vega,",
-        "drepur af móði",
+        "drepur hann af móði",
         "Miðgarðs véur,",
         "munu halir allir",
         "heimstöð ryðja;",
         "gengur fet níu",
         "Fjörgynjar bur",
         "neppur frá naðri",
-        "níðs ókvíðnum."
+        "níðs ókvíðinn."
        ]
       }
      ],
@@ -5095,41 +5109,6 @@
      "quoted_in": [
       "g-c51-13"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 56,
-       "l": [
-        "Gín loft yfir",
-        "lindi jarðar.",
-        "Gapa ýgs kjaftar",
-        "orms í hæðum.",
-        "Mun Óðins son",
-        "eitri mæta",
-        "vargs að dauða",
-        "Víðars niðja."
-       ]
-      },
-      {
-       "t": "v",
-       "n": 56,
-       "l": [
-        "Þá kemur inn mæri",
-        "mögur Hlóðynjar,",
-        "gengur Óðins sonur",
-        "við orm vega,",
-        "drepur hann af móði",
-        "Miðgarðs véur,",
-        "munu halir allir",
-        "heimstöð ryðja;",
-        "gengur fet níu",
-        "Fjörgynjar bur",
-        "neppur frá naðri",
-        "níðs ókvíðinn."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.755,
      "en-thorpe": [
       {
        "t": "p",
@@ -5157,7 +5136,28 @@
         "and, slain by the serpent, | fearless he sinks."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 56,
+       "l": [
+        "Þá kemur hinn mæri",
+        "mögur Hlóðynjar,",
+        "gengur Óðins sonur",
+        "við orm vega,",
+        "drepur af móði",
+        "Miðgarðs véur,",
+        "munu halir allir",
+        "heimstöð ryðja;",
+        "gengur fet níu",
+        "Fjörgynjar bur",
+        "neppur frá naðri",
+        "níðs ókvíðnum."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s57",
@@ -5186,9 +5186,9 @@
         "Sól tér sortna,",
         "sígur fold í mar,",
         "hverfa af himni",
-        "heiðar stjörnur;",
+        "heiðar stjörnur.",
         "Geisar eimi",
-        "og aldurnari,",
+        "við aldurnara,",
         "leikur hár hiti",
         "við himin sjálfan."
        ]
@@ -5214,23 +5214,6 @@
      "quoted_in": [
       "g-c51-14"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 57,
-       "l": [
-        "Sól tér sortna,",
-        "sígur fold í mar,",
-        "hverfa af himni",
-        "heiðar stjörnur.",
-        "Geisar eimi",
-        "við aldurnara,",
-        "leikur hár hiti",
-        "við himin sjálfan."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.971,
      "en-thorpe": [
       {
        "t": "p",
@@ -5248,7 +5231,24 @@
         "till fire leaps high | about heaven itself."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 57,
+       "l": [
+        "Sól tér sortna,",
+        "sígur fold í mar,",
+        "hverfa af himni",
+        "heiðar stjörnur;",
+        "Geisar eimi",
+        "og aldurnari,",
+        "leikur hár hiti",
+        "við himin sjálfan."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s58",
@@ -5277,11 +5277,7 @@
         "Geyr nú Garmur mjög",
         "fyr Gnipahelli,",
         "festur mun slitna",
-        "en freki renna;",
-        "fjölð veit eg fræða",
-        "fram sé eg lengra",
-        "um ragna rög",
-        "römm sigtíva."
+        "en freki renna."
        ]
       }
      ],
@@ -5303,19 +5299,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 58,
-       "l": [
-        "Geyr nú Garmur mjög",
-        "fyr Gnipahelli,",
-        "festur mun slitna",
-        "en freki renna."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.677,
      "en-modern": [
       {
        "t": "v",
@@ -5327,7 +5310,24 @@
         "of the fate of the gods, | the mighty in battle."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 58,
+       "l": [
+        "Geyr nú Garmur mjög",
+        "fyr Gnipahelli,",
+        "festur mun slitna",
+        "en freki renna;",
+        "fjölð veit eg fræða",
+        "fram sé eg lengra",
+        "um ragna rög",
+        "römm sigtíva."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s59",
@@ -5356,8 +5356,8 @@
         "Sér hún upp koma",
         "öðru sinni",
         "jörð úr ægi",
-        "iðjagræna;",
-        "falla forsar,",
+        "iðjagræna.",
+        "Falla fossar,",
         "flýgur örn yfir,",
         "sá er á fjalli",
         "fiska veiðir."
@@ -5383,23 +5383,6 @@
      "is_cont": false,
      "quoted_in": [],
      "head": "The world rises again",
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 59,
-       "l": [
-        "Sér hún upp koma",
-        "öðru sinni",
-        "jörð úr ægi",
-        "iðjagræna.",
-        "Falla fossar,",
-        "flýgur örn yfir,",
-        "sá er á fjalli",
-        "fiska veiðir."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.991,
      "en-thorpe": [
       {
        "t": "p",
@@ -5417,7 +5400,24 @@
         "and he catches fish | beneath the cliffs."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 59,
+       "l": [
+        "Sér hún upp koma",
+        "öðru sinni",
+        "jörð úr ægi",
+        "iðjagræna;",
+        "falla forsar,",
+        "flýgur örn yfir,",
+        "sá er á fjalli",
+        "fiska veiðir."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s60",
@@ -5450,7 +5450,7 @@
         "og minnast þar",
         "á megindóma",
         "og á Fimbultýs",
-        "fornar rúnir."
+        "fornar rúnar."
        ]
       }
      ],
@@ -5472,23 +5472,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 60,
-       "l": [
-        "Finnast æsir",
-        "á Iðavelli",
-        "og um moldþinur",
-        "máttkan dæma",
-        "og minnast þar",
-        "á megindóma",
-        "og á Fimbultýs",
-        "fornar rúnar."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.991,
      "en-thorpe": [
       {
        "t": "p",
@@ -5506,7 +5489,24 @@
         "and the ancient runes | of the Ruler of Gods."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 60,
+       "l": [
+        "Finnast æsir",
+        "á Iðavelli",
+        "og um moldþinur",
+        "máttkan dæma",
+        "og minnast þar",
+        "á megindóma",
+        "og á Fimbultýs",
+        "fornar rúnir."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s61",
@@ -5531,10 +5531,10 @@
        "n": 61,
        "l": [
         "Þar munu eftir",
-        "undrsamligar",
+        "undursamlegar",
         "gullnar töflur",
         "í grasi finnast,",
-        "þærs í árdaga",
+        "þær er í árdaga",
         "áttar höfðu."
        ]
       }
@@ -5557,21 +5557,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 61,
-       "l": [
-        "Þar munu eftir",
-        "undursamlegar",
-        "gullnar töflur",
-        "í grasi finnast,",
-        "þær er í árdaga",
-        "áttar höfðu."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.959,
      "en-thorpe": [
       {
        "t": "p",
@@ -5589,7 +5574,22 @@
         ".................."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 61,
+       "l": [
+        "Þar munu eftir",
+        "undrsamligar",
+        "gullnar töflur",
+        "í grasi finnast,",
+        "þærs í árdaga",
+        "áttar höfðu."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s62",
@@ -5618,11 +5618,11 @@
         "Munu ósánir",
         "akrar vaxa,",
         "böls mun alls batna,",
-        "Baldur mun koma;",
-        "búa þeir Höður og Baldur",
-        "Hrofts sigtoftir,",
-        "vé valtíva.",
-        "Vituð þér enn - eða hvað?"
+        "Baldur mun koma.",
+        "Búa þeir Höður og Baldur",
+        "Hrofts sigtóftir",
+        "vel valtívar.",
+        "Vituð ér enn eða hvað?"
        ]
       }
      ],
@@ -5644,23 +5644,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 62,
-       "l": [
-        "Munu ósánir",
-        "akrar vaxa,",
-        "böls mun alls batna,",
-        "Baldur mun koma.",
-        "Búa þeir Höður og Baldur",
-        "Hrofts sigtóftir",
-        "vel valtívar.",
-        "Vituð ér enn eða hvað?"
-       ]
-      }
-     ],
-     "is_nu_sim": 0.985,
      "en-thorpe": [
       {
        "t": "p",
@@ -5678,7 +5661,24 @@
         "and the mighty gods: | would you know yet more?"
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 62,
+       "l": [
+        "Munu ósánir",
+        "akrar vaxa,",
+        "böls mun alls batna,",
+        "Baldur mun koma;",
+        "búa þeir Höður og Baldur",
+        "Hrofts sigtoftir,",
+        "vé valtíva.",
+        "Vituð þér enn - eða hvað?"
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s63",
@@ -5707,7 +5707,7 @@
         "og burir byggja",
         "bræðra tveggja",
         "vindheim víðan.",
-        "Vituð þér enn - eða hvað?"
+        "Vituð ér enn eða hvað?"
        ]
       }
      ],
@@ -5729,21 +5729,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 63,
-       "l": [
-        "Þá kná Hænir",
-        "hlautvið kjósa",
-        "og burir byggja",
-        "bræðra tveggja",
-        "vindheim víðan.",
-        "Vituð ér enn eða hvað?"
-       ]
-      }
-     ],
-     "is_nu_sim": 0.99,
      "en-thorpe": [
       {
        "t": "p",
@@ -5761,7 +5746,22 @@
         "in Vindheim now: | would you know yet more?"
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 63,
+       "l": [
+        "Þá kná Hænir",
+        "hlautvið kjósa",
+        "og burir byggja",
+        "bræðra tveggja",
+        "vindheim víðan.",
+        "Vituð þér enn - eða hvað?"
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s64",
@@ -5789,9 +5789,9 @@
        "l": [
         "Sal sér hún standa",
         "sólu fegra,",
-        "gulli þakðan",
-        "á Gimléi;",
-        "þar skulu dyggvar",
+        "gulli þaktan",
+        "á Gimlé.",
+        "Þar skulu dyggvar",
         "dróttir byggja",
         "og um aldurdaga",
         "yndis njóta."
@@ -5818,23 +5818,6 @@
      "quoted_in": [
       "g-c17-3"
      ],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 64,
-       "l": [
-        "Sal sér hún standa",
-        "sólu fegra,",
-        "gulli þaktan",
-        "á Gimlé.",
-        "Þar skulu dyggvar",
-        "dróttir byggja",
-        "og um aldurdaga",
-        "yndis njóta."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.987,
      "en-thorpe": [
       {
        "t": "p",
@@ -5852,7 +5835,24 @@
         "and happiness ever | they shall have there."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 64,
+       "l": [
+        "Sal sér hún standa",
+        "sólu fegra,",
+        "gulli þakðan",
+        "á Gimléi;",
+        "þar skulu dyggvar",
+        "dróttir byggja",
+        "og um aldurdaga",
+        "yndis njóta."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s65",
@@ -5874,10 +5874,10 @@
        "t": "v",
        "n": 65,
        "l": [
-        "Þá kemur hinn ríki",
+        "(Þá kemur inn ríki",
         "að regindómi",
         "öflugur ofan,",
-        "sá er öllu ræður."
+        "sá er öllu ræður.)"
        ]
       }
      ],
@@ -5899,19 +5899,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 65,
-       "l": [
-        "(Þá kemur inn ríki",
-        "að regindómi",
-        "öflugur ofan,",
-        "sá er öllu ræður.)"
-       ]
-      }
-     ],
-     "is_nu_sim": 0.992,
      "en-thorpe": [
       {
        "t": "p",
@@ -5929,7 +5916,20 @@
         ".................."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 65,
+       "l": [
+        "Þá kemur hinn ríki",
+        "að regindómi",
+        "öflugur ofan,",
+        "sá er öllu ræður."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vsp-s66",
@@ -5955,12 +5955,12 @@
        "t": "v",
        "n": 66,
        "l": [
-        "Þar kemur hinn dimmi",
+        "Þar kemur inn dimmi",
         "dreki fljúgandi,",
         "naður fránn, neðan",
         "frá Niðafjöllum;",
         "ber sér í fjöðrum,",
-        "- flýgur völl yfir, -",
+        "flýgur völl yfir,",
         "Niðhöggur nái.",
         "Nú mun hún sökkvast."
        ]
@@ -5984,23 +5984,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 66,
-       "l": [
-        "Þar kemur inn dimmi",
-        "dreki fljúgandi,",
-        "naður fránn, neðan",
-        "frá Niðafjöllum;",
-        "ber sér í fjöðrum,",
-        "flýgur völl yfir,",
-        "Niðhöggur nái.",
-        "Nú mun hún sökkvast."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.989,
      "en-thorpe": [
       {
        "t": "p",
@@ -6018,7 +6001,24 @@
         "the bright serpent: | but now I must sink."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 66,
+       "l": [
+        "Þar kemur hinn dimmi",
+        "dreki fljúgandi,",
+        "naður fránn, neðan",
+        "frá Niðafjöllum;",
+        "ber sér í fjöðrum,",
+        "- flýgur völl yfir, -",
+        "Niðhöggur nái.",
+        "Nú mun hún sökkvast."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     }
    ],
    "notes": [
@@ -6283,7 +6283,8 @@
  ],
  "sources": {
   "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Völuspá)",
-  "is": "automatic modernisation of the Old Norse",
-  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Voluspo"
+  "is": "Netútgáfan, January 1997, modern spelling, via netutgafan.snerpa.is; automatic modernisation where the page has no counterpart",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Voluspo",
+  "is_url": "https://netutgafan.snerpa.is/kvaedi/volospa.htm"
  }
 }
