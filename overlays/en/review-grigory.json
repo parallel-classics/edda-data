@@ -36,7 +36,8 @@
    "date": "2026-11-07",
    "reason": "review mode: alignment ok",
    "replaces": null,
-   "source": "brodeur-1916"
+   "source": "brodeur-1916",
+   "withdrawn": "cleared in review mode, 2026-11-16"
   },
   {
    "row": "g-c2-10",
@@ -287,6 +288,65 @@
    "author": "user:grigory",
    "date": "2026-11-07",
    "reason": "review mode: alignment ok",
+   "replaces": null,
+   "source": "brodeur-1916"
+  },
+  {
+   "row": "g-c4-1",
+   "cell": "en-anderson",
+   "text": "Said Ganglere: How came the world into existence, or how did it rise? What was before?",
+   "origin": "published",
+   "check": "aligned-checked",
+   "author": "user:grigory",
+   "date": "2026-11-16",
+   "reason": "review mode: right",
+   "replaces": null,
+   "source": "anderson-1880"
+  },
+  {
+   "row": "g-c2-2",
+   "cell": "en-modern",
+   "text": "On their backs they let shine, | badly battered by stones,\nthe shingles of Odin's hall, | those shrewd seafarers.",
+   "origin": "ai",
+   "check": "reviewed",
+   "author": "user:grigory",
+   "date": "2026-11-16",
+   "reason": "review mode: right",
+   "replaces": null
+  },
+  {
+   "row": "g-c2-2",
+   "cell": "en",
+   "text": "On their backs they let beam, | sore battered with stones,\nOdin's hall-shingles, | the shrewd sea-farers.",
+   "origin": "published",
+   "check": "aligned-checked",
+   "author": "user:grigory",
+   "date": "2026-11-16",
+   "reason": "review mode: right",
+   "replaces": null,
+   "source": "brodeur-1916"
+  },
+  {
+   "row": "g-c4-4",
+   "cell": "en",
+   "text": "Then said Jafnhárr: \"It was many ages before the earth was shaped that the Mist-World was made; and midmost within it lies the well that is called Hvergelmir, from which spring the rivers called Svöl, Gunnthrá, Fjörm, Fimbulthul, Slídr and Hríd, Sylgr and Ylgr, Víd, Leiptr; Gjöll is hard by Hel-gates.\"",
+   "origin": "published",
+   "check": "aligned-checked",
+   "author": "user:grigory",
+   "date": "2026-11-16",
+   "reason": "review mode: text moved to g-c4-5",
+   "replaces": null,
+   "source": "brodeur-1916"
+  },
+  {
+   "row": "g-c4-5",
+   "cell": "en",
+   "text": "And Thridi said: \"Yet first was the world in the southern region, which was named Múspell; it is light and hot; that region is glowing and burning, and impassable to such as are outlanders and have not their holdings there. He who sits there at the land's-end, to defend the land, is called Surtr; he brandishes a flaming sword, and at the end of the world he shall go forth and harry, and overcome all the gods, and burn all the world with fire; thus is said in <i>Völuspá</i>:",
+   "origin": "published",
+   "check": "aligned-checked",
+   "author": "user:grigory",
+   "date": "2026-11-16",
+   "reason": "review mode: text moved from g-c4-4",
    "replaces": null,
    "source": "brodeur-1916"
   }
