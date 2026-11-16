@@ -2653,47 +2653,47 @@
     "kvasir-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 43929
+     "bytes": 44340
     },
     "kvasir-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 14567
+     "bytes": 14601
     },
     "kvasir-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7267
+     "bytes": 7350
     },
     "kvasir@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 36024
+     "bytes": 36523
     },
     "kvasir@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 11938
+     "bytes": 11998
     },
     "kvasir@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 5957
+     "bytes": 5999
     },
     "kvasir@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 32991
+     "bytes": 32990
     },
     "kvasir@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 10865
+     "bytes": 10712
     },
     "kvasir@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 5667
+     "bytes": 5771
     }
    },
    "lights": [
@@ -2791,17 +2791,17 @@
     "lodurr@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 57277
+     "bytes": 36830
     },
     "lodurr@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 17366
+     "bytes": 11382
     },
     "lodurr@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 7329
+     "bytes": 5829
     }
    },
    "lights": [
@@ -14803,47 +14803,47 @@
     "norns-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 89203
+     "bytes": 94423
     },
     "norns-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 26509
+     "bytes": 28066
     },
     "norns-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 11887
+     "bytes": 11637
     },
     "norns@dusk-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 71369
+     "bytes": 76146
     },
     "norns@dusk-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 21576
+     "bytes": 22957
     },
     "norns@dusk-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 9768
+     "bytes": 9550
     },
     "norns@night-600.jpg": {
      "width": 600,
      "height": 450,
-     "bytes": 76050
+     "bytes": 80174
     },
     "norns@night-300.jpg": {
      "width": 300,
      "height": 225,
-     "bytes": 22713
+     "bytes": 23878
     },
     "norns@night-sq.jpg": {
      "width": 160,
      "height": 160,
-     "bytes": 10379
+     "bytes": 9983
     }
    },
    "lights": [
