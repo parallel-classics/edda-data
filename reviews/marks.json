@@ -1609,6 +1609,250 @@
    "build_sha": "62e6e47eed6c",
    "ts": "2026-11-07T18:31:27.181Z",
    "id": "MNwu2X4mzvzipCWjT13z"
+  },
+  "iU3COT8JzJ5kkvAF8ONw": {
+   "target": {
+    "kind": "entity",
+    "entity": "fimbultul"
+   },
+   "verdict": "edit",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "a70bdda4a4f0",
+   "fix": "place_myth,river",
+   "ts": "2026-11-07T21:40:02.134Z",
+   "id": "iU3COT8JzJ5kkvAF8ONw"
+  },
+  "mR80niZx3zf9rwsj74R9": {
+   "target": {
+    "kind": "cell",
+    "row": "g-c4-4",
+    "cell": "en",
+    "form": "And Thridi said: \"Yet first was the world in the southern region, which was named Múspell; it is light and hot; that region is glowing and burning, and impassable to such as are outlanders and have not their holdings there."
+   },
+   "verdict": "move",
+   "problem_kind": "to_next",
+   "new_entity": "g-c4-5",
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "a70bdda4a4f0",
+   "ts": "2026-11-07T21:48:46.453Z",
+   "id": "mR80niZx3zf9rwsj74R9"
+  },
+  "cIPmjpDQFxiXAL3DKmy2": {
+   "target": {
+    "kind": "cell",
+    "row": "g-c4-2",
+    "cell": "em"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "00682a88b063",
+   "ts": "2026-11-07T23:30:41.739Z",
+   "id": "cIPmjpDQFxiXAL3DKmy2"
+  },
+  "8kZ8ROQZZSIIjna3IcKj": {
+   "target": {
+    "kind": "cell",
+    "row": "g-c4-1",
+    "cell": "en-anderson"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "c90747920cfa",
+   "ts": "2026-11-08T01:11:18.686Z",
+   "id": "8kZ8ROQZZSIIjna3IcKj"
+  },
+  "JESpF2WEmopcKpBophQm": {
+   "target": {
+    "kind": "picture",
+    "row": "g-c4-5",
+    "entity": "surtr",
+    "image": "img/names/surtr.jpg"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "c90747920cfa",
+   "ts": "2026-11-08T01:11:38.657Z",
+   "id": "JESpF2WEmopcKpBophQm"
+  },
+  "7S4CKwbND7REo1f5w0Ed": {
+   "target": {
+    "kind": "picture",
+    "row": "g-c4-5",
+    "entity": "surtr",
+    "image": "img/names/surtr.jpg"
+   },
+   "verdict": "clear",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "c90747920cfa",
+   "ts": "2026-11-08T01:11:41.458Z",
+   "id": "7S4CKwbND7REo1f5w0Ed"
+  },
+  "tgKkpwzoKB4yVD5rQzT4": {
+   "target": {
+    "kind": "picture",
+    "row": "g-c4-5",
+    "entity": "surtr",
+    "image": "img/names/surtr.jpg"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "c90747920cfa",
+   "ts": "2026-11-08T01:11:42.125Z",
+   "id": "tgKkpwzoKB4yVD5rQzT4"
+  },
+  "vk1O1hbcw4ywFTeNUtWb": {
+   "target": {
+    "kind": "picture",
+    "row": "g-c16-2",
+    "entity": "ratatoskr",
+    "image": "img/names/ratatoskr.jpg"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "f27e7f821784",
+   "ts": "2026-11-08T13:29:25.706Z",
+   "id": "vk1O1hbcw4ywFTeNUtWb"
+  },
+  "cFDpm7wb5cH3siHbei6J": {
+   "target": {
+    "kind": "picture",
+    "row": "p-c3-2",
+    "entity": "odin",
+    "image": "img/names/odin.jpg"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "f27e7f821784",
+   "ts": "2026-11-08T13:36:19.744Z",
+   "id": "cFDpm7wb5cH3siHbei6J"
+  },
+  "JGk44pIMGV4D59RKhjIU": {
+   "target": {
+    "kind": "cell",
+    "row": "g-c2-2",
+    "cell": "en-modern"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "940d5449341d",
+   "ts": "2026-11-15T00:26:36.255Z",
+   "id": "JGk44pIMGV4D59RKhjIU"
+  },
+  "vF3gsbdxQ5kKOgpbdSHG": {
+   "target": {
+    "kind": "cell",
+    "row": "g-c2-2",
+    "cell": "en"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "940d5449341d",
+   "ts": "2026-11-15T00:26:37.646Z",
+   "id": "vF3gsbdxQ5kKOgpbdSHG"
+  },
+  "UPp1b6ioOiRFklg8vh9g": {
+   "target": {
+    "kind": "cell",
+    "row": "g-c2-2",
+    "cell": "is"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "940d5449341d",
+   "ts": "2026-11-15T00:26:38.688Z",
+   "id": "UPp1b6ioOiRFklg8vh9g"
+  },
+  "wlzxp4FgpqIGtEIRzZtK": {
+   "target": {
+    "kind": "row",
+    "row": "g-c2-11"
+   },
+   "verdict": "clear",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "3310e26f1167",
+   "ts": "2026-11-15T00:54:08.528Z",
+   "id": "wlzxp4FgpqIGtEIRzZtK"
+  },
+  "68WaDCucflv1FzpdQbdo": {
+   "target": {
+    "kind": "row",
+    "row": "g-c2-11"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "3310e26f1167",
+   "ts": "2026-11-15T00:54:09.501Z",
+   "id": "68WaDCucflv1FzpdQbdo"
+  },
+  "YTz0SX8CWwCLJL6SQUHW": {
+   "target": {
+    "kind": "cell",
+    "row": "g-c2-11",
+    "cell": "en-modern"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "3310e26f1167",
+   "ts": "2026-11-15T00:54:12.436Z",
+   "id": "YTz0SX8CWwCLJL6SQUHW"
+  },
+  "wBztJt2ZN3MQ9LxarcEF": {
+   "target": {
+    "kind": "cell",
+    "row": "g-c2-11",
+    "cell": "en-modern"
+   },
+   "verdict": "clear",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "uid": "KHo8Nlow9Db2kdrADSh2E66Ecrw2",
+   "build_sha": "3310e26f1167",
+   "ts": "2026-11-15T00:54:57.502Z",
+   "id": "wBztJt2ZN3MQ9LxarcEF"
   }
  }
 }

@@ -27,6 +27,33 @@
    "note": null,
    "by": "grigory",
    "date": "2026-11-07"
+  },
+  {
+   "image": "img/names/surtr.jpg",
+   "entity": "surtr",
+   "row": "g-c4-5",
+   "verdict": "ok",
+   "note": null,
+   "by": "grigory",
+   "date": "2026-11-16"
+  },
+  {
+   "image": "img/names/ratatoskr.jpg",
+   "entity": "ratatoskr",
+   "row": "g-c16-2",
+   "verdict": "ok",
+   "note": null,
+   "by": "grigory",
+   "date": "2026-11-16"
+  },
+  {
+   "image": "img/names/odin.jpg",
+   "entity": "odin",
+   "row": "p-c3-2",
+   "verdict": "ok",
+   "note": null,
+   "by": "grigory",
+   "date": "2026-11-16"
   }
  ]
 }

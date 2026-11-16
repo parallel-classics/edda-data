@@ -277,6 +277,18 @@
    "reason": "review mode: alignment ok",
    "replaces": null,
    "source": "netutgafan-1997"
+  },
+  {
+   "row": "g-c2-2",
+   "cell": "is",
+   "text": "Á baki létu blíkja,\nbarðir voru grjóti,\nSváfnis salnæfrar\nseggir hyggjandi.",
+   "origin": "published",
+   "check": "aligned-checked",
+   "author": "user:grigory",
+   "date": "2026-11-16",
+   "reason": "review mode: right",
+   "replaces": null,
+   "source": "netutgafan-1997"
   }
  ]
 }
