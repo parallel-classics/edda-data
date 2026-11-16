@@ -102,8 +102,10 @@ Machine-readable citation: `CITATION.cff`. Please also credit the source edition
 
 - The medieval texts and the two English translations are in the public domain; the rights in Guðni
   Jónsson's normalised editions and in Netútgáfan's text are being confirmed (`LICENSE`, section 1).
-- New contributions (overlays, image records, documentation) are licensed **CC BY 4.0** (`LICENSE`).
-  An open decision remains whether to switch to CC0; contributors are asked to accept either.
+- Everything Open Edda adds (the alignment, the automatic modern spelling, the AI-draft and modern English, the
+  names index, the Mímir guide, introductions, review and overlay records, the plates, portraits and map) is
+  licensed **CC BY 4.0** (`LICENSE`, section 2; decision 2026-11-16). Credit "Open Edda, openedda.is" and the
+  contributor where a record names one. The licence covers only what Open Edda added.
 - Contributors are credited per row (the `author` field of each overlay record) and on a contributors page.
 - Code in this repository (`scripts/`) is MIT, like edda-site.
 
