@@ -75,10 +75,10 @@
        "l": [
         "Meyjar flugu sunnan",
         "myrkvið í gögnum,",
-        "Alvitur unga,",
-        "örlög drýgja;",
-        "þær á sævarströnd",
-        "settust að hvílast",
+        "alvitur ungar",
+        "örlög drýgja.",
+        "Þær á sævarströnd",
+        "settust að hvílast,",
         "drósir suðrænar,",
         "dýrt lín spunnu."
        ]
@@ -112,23 +112,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 1,
-       "l": [
-        "Meyjar flugu sunnan",
-        "myrkvið í gögnum,",
-        "alvitur ungar",
-        "örlög drýgja.",
-        "Þær á sævarströnd",
-        "settust að hvílast,",
-        "drósir suðrænar,",
-        "dýrt lín spunnu."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.996,
      "en-thorpe": [
       {
        "t": "p",
@@ -155,7 +138,24 @@
         "and Olrun the Wise | was Kjar's daughter."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 1,
+       "l": [
+        "Meyjar flugu sunnan",
+        "myrkvið í gögnum,",
+        "Alvitur unga,",
+        "örlög drýgja;",
+        "þær á sævarströnd",
+        "settust að hvílast",
+        "drósir suðrænar,",
+        "dýrt lín spunnu."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s2",
@@ -185,14 +185,14 @@
        "l": [
         "Ein nam þeirra",
         "Egil að verja,",
-        "fögur mær firra,",
-        "faðmi ljósum;",
-        "önnur var Svanhvít,",
+        "fögur mær fira,",
+        "faðmi ljósum.",
+        "Önnur var Svanhvít,",
         "svanfjaðrar dró,",
-        "en hin þriðja",
+        "en in þriðja",
         "þeirra systir",
         "varði hvítan",
-        "hals Völundar."
+        "háls Völundar."
        ]
       }
      ],
@@ -224,25 +224,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 2,
-       "l": [
-        "Ein nam þeirra",
-        "Egil að verja,",
-        "fögur mær fira,",
-        "faðmi ljósum.",
-        "Önnur var Svanhvít,",
-        "svanfjaðrar dró,",
-        "en in þriðja",
-        "þeirra systir",
-        "varði hvítan",
-        "háls Völundar."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.993,
      "en-thorpe": [
       {
        "t": "p",
@@ -269,7 +250,26 @@
         "next round Völund's | neck so white."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 2,
+       "l": [
+        "Ein nam þeirra",
+        "Egil að verja,",
+        "fögur mær firra,",
+        "faðmi ljósum;",
+        "önnur var Svanhvít,",
+        "svanfjaðrar dró,",
+        "en hin þriðja",
+        "þeirra systir",
+        "varði hvítan",
+        "hals Völundar."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s3",
@@ -298,14 +298,14 @@
        "n": 3,
        "l": [
         "Sátu síðan",
-        "sjö vetur að það,",
-        "en hinn átta",
-        "allan þráðu,",
-        "en hinn níunda",
-        "nauður of skildi;",
-        "meyjar fýstust",
+        "sjö vetur að það",
+        "en inn átta",
+        "allan þráðu",
+        "en inn níunda",
+        "nauður um skildi.",
+        "Meyjar fýstust",
         "á myrkvan við,",
-        "Alvitur unga,",
+        "alvitur ungar,",
         "örlög drýgja."
        ]
       }
@@ -329,25 +329,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 3,
-       "l": [
-        "Sátu síðan",
-        "sjö vetur að það",
-        "en inn átta",
-        "allan þráðu",
-        "en inn níunda",
-        "nauður um skildi.",
-        "Meyjar fýstust",
-        "á myrkvan við,",
-        "alvitur ungar,",
-        "örlög drýgja."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.975,
      "en-thorpe": [
       {
        "t": "p",
@@ -366,7 +347,26 @@
         "the fair young maids, | to follow their fate."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 3,
+       "l": [
+        "Sátu síðan",
+        "sjö vetur að það,",
+        "en hinn átta",
+        "allan þráðu,",
+        "en hinn níunda",
+        "nauður of skildi;",
+        "meyjar fýstust",
+        "á myrkvan við,",
+        "Alvitur unga,",
+        "örlög drýgja."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s4",
@@ -397,17 +397,23 @@
        "n": 4,
        "l": [
         "Kom þar af veiði",
-        "veðreygur skyti,",
-        "[Völundur, líðandi",
-        "um langan veg],",
-        "Slagfiður og Egill,",
+        "veðureygur skyti,",
+        "Slagfiður og Egill",
         "sali fundu auða,",
-        "gengu út og hinn",
-        "og um sáust;",
-        "austur skreið Egill",
-        "að Ölrúnu,",
+        "gengu út og inn",
+        "og um sáust."
+       ]
+      },
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Austur skreið Egill",
+        "að Ölrúnu",
         "en suður Slagfiður",
-        "að Svanhvítu."
+        "að Svanhvítu,",
+        "en einn Völundur",
+        "sat í Úlfdölum."
        ]
       }
      ],
@@ -429,33 +435,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 4,
-       "l": [
-        "Kom þar af veiði",
-        "veðureygur skyti,",
-        "Slagfiður og Egill",
-        "sali fundu auða,",
-        "gengu út og inn",
-        "og um sáust."
-       ]
-      },
-      {
-       "t": "v",
-       "n": 4,
-       "l": [
-        "Austur skreið Egill",
-        "að Ölrúnu",
-        "en suður Slagfiður",
-        "að Svanhvítu,",
-        "en einn Völundur",
-        "sat í Úlfdölum."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.828,
      "en-thorpe": [
       {
        "t": "p",
@@ -473,7 +452,28 @@
         "out and in they went, | searching everywhere."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 4,
+       "l": [
+        "Kom þar af veiði",
+        "veðreygur skyti,",
+        "[Völundur, líðandi",
+        "um langan veg],",
+        "Slagfiður og Egill,",
+        "sali fundu auða,",
+        "gengu út og hinn",
+        "og um sáust;",
+        "austur skreið Egill",
+        "að Ölrúnu,",
+        "en suður Slagfiður",
+        "að Svanhvítu."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s5",
@@ -501,15 +501,13 @@
        "t": "v",
        "n": 5,
        "l": [
-        "En einn Völundur",
-        "sat í Ulfdölum,",
-        "hann sló gull rautt",
-        "við gim fastan,",
-        "lukði hann alla",
-        "lind baugum vel;",
-        "svo beið hann",
+        "Hann slá gull rautt",
+        "við gim fástan,",
+        "lukti hann alla",
+        "lind baugum vel.",
+        "Svo beið hann",
         "sinnar ljóssar",
-        "kvánar, ef hánum",
+        "kvonar ef honum",
         "koma gerði."
        ]
       }
@@ -543,23 +541,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 5,
-       "l": [
-        "Hann slá gull rautt",
-        "við gim fástan,",
-        "lukti hann alla",
-        "lind baugum vel.",
-        "Svo beið hann",
-        "sinnar ljóssar",
-        "kvonar ef honum",
-        "koma gerði."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.855,
      "en-thorpe": [
       {
        "t": "p",
@@ -587,7 +568,26 @@
         "in case the fair one | might come home to him."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 5,
+       "l": [
+        "En einn Völundur",
+        "sat í Ulfdölum,",
+        "hann sló gull rautt",
+        "við gim fastan,",
+        "lukði hann alla",
+        "lind baugum vel;",
+        "svo beið hann",
+        "sinnar ljóssar",
+        "kvánar, ef hánum",
+        "koma gerði."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s6",
@@ -614,13 +614,13 @@
        "n": 6,
        "l": [
         "Það spyr Níðuður,",
-        "Níára dróttinn,",
+        "Njára dróttinn,",
         "að einn Völundur",
-        "sat í Ulfdölum;",
-        "nóttum fóru seggir,",
-        "neglðar voru brynjur,",
+        "sat í Úlfdölum.",
+        "Nóttum fóru seggir,",
+        "negldar vóru brynjur,",
         "skildir bliku þeirra",
-        "við hinn skarða mána."
+        "við inn skarða mána."
        ]
       }
      ],
@@ -642,23 +642,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 6,
-       "l": [
-        "Það spyr Níðuður,",
-        "Njára dróttinn,",
-        "að einn Völundur",
-        "sat í Úlfdölum.",
-        "Nóttum fóru seggir,",
-        "negldar vóru brynjur,",
-        "skildir bliku þeirra",
-        "við inn skarða mána."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.983,
      "en-thorpe": [
       {
        "t": "p",
@@ -676,7 +659,24 @@
         "their shields shone | in the waning moonlight."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 6,
+       "l": [
+        "Það spyr Níðuður,",
+        "Níára dróttinn,",
+        "að einn Völundur",
+        "sat í Ulfdölum;",
+        "nóttum fóru seggir,",
+        "neglðar voru brynjur,",
+        "skildir bliku þeirra",
+        "við hinn skarða mána."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s7",
@@ -702,9 +702,9 @@
        "t": "v",
        "n": 7,
        "l": [
-        "Stígu úr söðlum",
+        "Stigu úr sölum",
         "að salar gafli,",
-        "gengu hinn þaðan",
+        "gengu inn þaðan",
         "endlangan sal;",
         "sáu þeir á bast",
         "bauga dregna,",
@@ -731,23 +731,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 7,
-       "l": [
-        "Stigu úr sölum",
-        "að salar gafli,",
-        "gengu inn þaðan",
-        "endlangan sal;",
-        "sáu þeir á bast",
-        "bauga dregna,",
-        "sjö hundruð allra,",
-        "er sá seggur átti."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.992,
      "en-thorpe": [
       {
        "t": "p",
@@ -765,7 +748,24 @@
         "seven hundred | the hero had."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 7,
+       "l": [
+        "Stígu úr söðlum",
+        "að salar gafli,",
+        "gengu hinn þaðan",
+        "endlangan sal;",
+        "sáu þeir á bast",
+        "bauga dregna,",
+        "sjö hundruð allra,",
+        "er sá seggur átti."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s8",
@@ -820,19 +820,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 8,
-       "l": [
-        "Og þeir af tóku",
-        "og þeir á létu,",
-        "fyr einn utan,",
-        "er þeir af létu."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.652,
      "en-thorpe": [
       {
        "t": "p",
@@ -848,6 +835,18 @@
         "except one alone, | which they carried away.",
         "..............",
         ".............."
+       ]
+      }
+     ],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "Og þeir af tóku",
+        "og þeir á létu,",
+        "fyr einn utan,",
+        "er þeir af létu."
        ]
       }
      ]
@@ -902,25 +901,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 9,
-       "l": [
-        "Kom þar af veiði",
-        "veðureygur skyti,",
-        "Völundur líðandi",
-        "um langan veg.",
-        "Gekk brúnnar",
-        "beru hold steikja,",
-        "ár brann hrísi",
-        "allþurr fura,",
-        "viður inn vindþurri,",
-        "fyrir Völundi."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.693,
      "en-thorpe": [
       {
        "t": "p",
@@ -937,6 +917,24 @@
         "he meant to roast | a brown bear's flesh on the fire;",
         "soon the wood, so dry, | was burning well,",
         "(the wind-dried wood | that was Völund's)."
+       ]
+      }
+     ],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 9,
+       "l": [
+        "Kom þar af veiði",
+        "veðureygur skyti,",
+        "Völundur líðandi",
+        "um langan veg.",
+        "Gekk brúnnar",
+        "beru hold steikja,",
+        "ár brann hrísi",
+        "allþurr fura,",
+        "viður inn vindþurri,",
+        "fyrir Völundi."
        ]
       }
      ]
@@ -967,11 +965,11 @@
        "l": [
         "Sat á berfjalli,",
         "bauga taldi,",
-        "alfa ljóði,",
+        "álfa ljóði,",
         "eins saknaði;",
-        "hugði hann, að hefði",
+        "hugði hann að hefði",
         "Hlöðvés dóttir,",
-        "Alvitur unga,",
+        "alvitur unga,",
         "væri hún aftur komin."
        ]
       }
@@ -994,23 +992,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 10,
-       "l": [
-        "Sat á berfjalli,",
-        "bauga taldi,",
-        "álfa ljóði,",
-        "eins saknaði;",
-        "hugði hann að hefði",
-        "Hlöðvés dóttir,",
-        "alvitur unga,",
-        "væri hún aftur komin."
-       ]
-      }
-     ],
-     "is_nu_sim": 1.0,
      "en-thorpe": [
       {
        "t": "p",
@@ -1028,7 +1009,24 @@
         "and the all-wise maid | had come back again."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 10,
+       "l": [
+        "Sat á berfjalli,",
+        "bauga taldi,",
+        "alfa ljóði,",
+        "eins saknaði;",
+        "hugði hann, að hefði",
+        "Hlöðvés dóttir,",
+        "Alvitur unga,",
+        "væri hún aftur komin."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s11",
@@ -1054,14 +1052,14 @@
        "t": "v",
        "n": 11,
        "l": [
-        "Sat hann svo lengi,",
-        "að hann sofnaði,",
+        "Sat hann svo lengi",
+        "að hann sofnaði;",
         "og hann vaknaði",
         "viljalaus;",
         "vissi sér á höndum",
-        "höfgar nauðir,",
+        "höfgar nauðir",
         "en á fótum",
-        "fjötur of spenntan."
+        "fjötur um spenntan."
        ]
       }
      ],
@@ -1083,23 +1081,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 11,
-       "l": [
-        "Sat hann svo lengi",
-        "að hann sofnaði;",
-        "og hann vaknaði",
-        "viljalaus;",
-        "vissi sér á höndum",
-        "höfgar nauðir",
-        "en á fótum",
-        "fjötur um spenntan."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.984,
      "en-thorpe": [
       {
        "t": "p",
@@ -1117,7 +1098,24 @@
         "and fetters bound | his feet together."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Sat hann svo lengi,",
+        "að hann sofnaði,",
+        "og hann vaknaði",
+        "viljalaus;",
+        "vissi sér á höndum",
+        "höfgar nauðir,",
+        "en á fótum",
+        "fjötur of spenntan."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s12",
@@ -1149,10 +1147,10 @@
        "t": "v",
        "n": 12,
        "l": [
-        "\"Hverjir ro jöfrar,",
+        "Hverjir eru jöfrar",
         "þeir er á lögðu",
-        "besti bör síma",
-        "og mig bundu?\""
+        "bestibyrsíma",
+        "og mig bundu?"
        ]
       }
      ],
@@ -1177,7 +1175,13 @@
      "is_cont": false,
      "quoted_in": [],
      "en_draft": true,
-     "is_nu": [
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "\"Who are the men that on the rings' possessor have laid bonds? and me have bound?\""
+      }
+     ],
+     "is_auto": [
       {
        "t": "p",
        "s": "Völundur kvað:",
@@ -1187,20 +1191,14 @@
        "t": "v",
        "n": 12,
        "l": [
-        "Hverjir eru jöfrar",
+        "\"Hverjir ro jöfrar,",
         "þeir er á lögðu",
-        "bestibyrsíma",
-        "og mig bundu?"
+        "besti bör síma",
+        "og mig bundu?\""
        ]
       }
      ],
-     "is_nu_sim": 0.953,
-     "en-thorpe": [
-      {
-       "t": "p",
-       "s": "\"Who are the men that on the rings' possessor have laid bonds? and me have bound?\""
-      }
-     ]
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s13",
@@ -1259,25 +1257,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 13,
-       "l": [
-        "Kallaði nú Níðuður",
-        "Njára dróttinn:",
-        "Hvar gastu, Völundur,",
-        "vísi álfa,",
-        "vora aura",
-        "í Úlfdölum?",
-        "Gull var þar eigi",
-        "á Grana leiðu,",
-        "fjarri hugða eg vort land",
-        "fjöllum Rínar."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.675,
      "en-thorpe": [
       {
        "t": "p",
@@ -1301,6 +1280,24 @@
         "Then Nithuth called, | the lord of the Njars:",
         "\"How did you get, Völund, | greatest of elves,",
         "these treasures of ours | in Ulfdalir?\""
+       ]
+      }
+     ],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 13,
+       "l": [
+        "Kallaði nú Níðuður",
+        "Njára dróttinn:",
+        "Hvar gastu, Völundur,",
+        "vísi álfa,",
+        "vora aura",
+        "í Úlfdölum?",
+        "Gull var þar eigi",
+        "á Grana leiðu,",
+        "fjarri hugða eg vort land",
+        "fjöllum Rínar."
        ]
       }
      ]
@@ -1432,6 +1429,12 @@
      "is_cont": false,
      "quoted_in": [],
      "en_draft": true,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Hladgud and Hervor were of Hlodver born; known was Olrun, Kiar's daughter, she entered into the house, stood on the floor, her voice moderated: Now is he not mirthful, who from the forest comes.\""
+      }
+     ],
      "is_nu": [
       {
        "t": "p",
@@ -1451,13 +1454,6 @@
         "kunn var Ölrún",
         "Kjárs dóttir."
        ]
-      }
-     ],
-     "is_nu_sim": 0.627,
-     "en-thorpe": [
-      {
-       "t": "p",
-       "s": "Hladgud and Hervor were of Hlodver born; known was Olrun, Kiar's daughter, she entered into the house, stood on the floor, her voice moderated: Now is he not mirthful, who from the forest comes.\""
       }
      ]
     },
@@ -1485,14 +1481,14 @@
        "t": "v",
        "n": 16,
        "l": [
-        "[Úti stóð kunnig",
-        "kvon Níðaðar],",
-        "hún hinn of gekk",
+        "(Úti stendur kunnig",
+        "kvon Níðaðar),",
+        "hún inn um gekk",
         "endlangan sal,",
-        "stóð á golfi,",
+        "stóð á gólfi,",
         "stillti röddu:",
-        "\"Er-a sá nú hýr,",
-        "er úr holti fer.\""
+        "Er-a sá nú hýr",
+        "er úr holti fer."
        ]
       }
      ],
@@ -1514,23 +1510,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 16,
-       "l": [
-        "(Úti stendur kunnig",
-        "kvon Níðaðar),",
-        "hún inn um gekk",
-        "endlangan sal,",
-        "stóð á gólfi,",
-        "stillti röddu:",
-        "Er-a sá nú hýr",
-        "er úr holti fer."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.949,
      "en-modern": [
       {
        "t": "v",
@@ -1542,7 +1521,24 @@
         "\"He does not look kind, | who comes from the wood.\""
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "[Úti stóð kunnig",
+        "kvon Níðaðar],",
+        "hún hinn of gekk",
+        "endlangan sal,",
+        "stóð á golfi,",
+        "stillti röddu:",
+        "\"Er-a sá nú hýr,",
+        "er úr holti fer.\""
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-p2",
@@ -1556,7 +1552,7 @@
      "is": [
       {
        "t": "p",
-       "s": "Níðuður konungur gaf dóttur sinni, Böðvildi gullhring þann, er hann tók af bastinu að Völundar, en hann sjálfur bar sverðið, er Völundur átti. En dróttning kvað:"
+       "s": "Níðuður konungur gaf dóttur sinni Böðvildi gullhring þann er hann tók af bastinu að Völundar, en hann sjálfur bar sverðið er Völundur átti. En drottning kvað:"
       }
      ],
      "en": [
@@ -1569,13 +1565,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "p",
-       "s": "Níðuður konungur gaf dóttur sinni Böðvildi gullhring þann er hann tók af bastinu að Völundar, en hann sjálfur bar sverðið er Völundur átti. En drottning kvað:"
-      }
-     ],
-     "is_nu_sim": 1.0,
      "en-thorpe": [
       {
        "t": "p",
@@ -1587,7 +1576,14 @@
        "t": "p",
        "s": "King Nithuth gave his daughter Bothvild the gold ring that he had taken from the bast rope in Völund's house, and he himself wore the sword that had been Völund's. The queen said:"
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "p",
+       "s": "Níðuður konungur gaf dóttur sinni, Böðvildi gullhring þann, er hann tók af bastinu að Völundar, en hann sjálfur bar sverðið, er Völundur átti. En dróttning kvað:"
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s17",
@@ -1615,16 +1611,16 @@
        "t": "v",
        "n": 17,
        "l": [
-        "\"Ámun eru augu",
-        "ormi þeim hinum frána,",
-        "tenn hánum teygjast,",
-        "er hánum er tét sverð",
+        "Tenn honum teygjast",
+        "er honum er téð sverð",
         "og hann Böðvildar",
-        "baug of þekir;",
-        "sníðið þér hann",
+        "baug um þekkir.",
+        "Ámun eru augu",
+        "ormi þeim inum frána.",
+        "Sníðið ér hann",
         "sina magni",
-        "og setið hann síðan",
-        "í Sævarstöð.\""
+        "og setjið hann síðan",
+        "í Sævarstöð."
        ]
       }
      ],
@@ -1647,25 +1643,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 17,
-       "l": [
-        "Tenn honum teygjast",
-        "er honum er téð sverð",
-        "og hann Böðvildar",
-        "baug um þekkir.",
-        "Ámun eru augu",
-        "ormi þeim inum frána.",
-        "Sníðið ér hann",
-        "sina magni",
-        "og setjið hann síðan",
-        "í Sævarstöð."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.75,
      "en-thorpe": [
       {
        "t": "p",
@@ -1684,7 +1661,26 @@
         "and then set him | in Sævarstath.\""
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 17,
+       "l": [
+        "\"Ámun eru augu",
+        "ormi þeim hinum frána,",
+        "tenn hánum teygjast,",
+        "er hánum er tét sverð",
+        "og hann Böðvildar",
+        "baug of þekir;",
+        "sníðið þér hann",
+        "sina magni",
+        "og setið hann síðan",
+        "í Sævarstöð.\""
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-p3",
@@ -1698,7 +1694,7 @@
      "is": [
       {
        "t": "p",
-       "s": "Svo var gert, að skornar voru sinar í knésfótum, og settur í hólm einn, er þar var fyrir landi, er hét Sævarstaður. Þar smíðaði hann konungi alls kyns görsimar. Enginn maður þorði að fara til hans nema konungur einn."
+       "s": "Svo var gert, að skornar vóru sinar í knésbótum og settur í hólm einn er þar var fyrir landi, er hét Sævarstaður. Þar smíðaði hann konungi alls kyns gersimar. Engi maður þorði að fara til hans nema konungur einn."
       }
      ],
      "en": [
@@ -1711,13 +1707,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "p",
-       "s": "Svo var gert, að skornar vóru sinar í knésbótum og settur í hólm einn er þar var fyrir landi, er hét Sævarstaður. Þar smíðaði hann konungi alls kyns gersimar. Engi maður þorði að fara til hans nema konungur einn."
-      }
-     ],
-     "is_nu_sim": 0.986,
      "en-thorpe": [
       {
        "t": "p",
@@ -1729,7 +1718,14 @@
        "t": "p",
        "s": "So it was done: the sinews in his knee-joints were cut, and he was put on an island near the mainland, called Sævarstath. There he forged all kinds of precious things for the king. No one dared to go to him except the king himself. Völund said:"
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "p",
+       "s": "Svo var gert, að skornar voru sinar í knésfótum, og settur í hólm einn, er þar var fyrir landi, er hét Sævarstaður. Þar smíðaði hann konungi alls kyns görsimar. Enginn maður þorði að fara til hans nema konungur einn."
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s18",
@@ -1753,45 +1749,6 @@
       }
      ],
      "is": [
-      {
-       "t": "v",
-       "n": 18,
-       "l": [
-        "\"Skín Níðaði",
-        "sverð á linda,",
-        "það er eg hvessta,",
-        "sem eg hagast kunna",
-        "og eg herðak,",
-        "sem mér hægst þótti;",
-        "sá er mér fránn mækir",
-        "æ fjarri borinn,",
-        "sékk-a eg þann Völundi",
-        "til smiðju borinn."
-       ]
-      }
-     ],
-     "en": [
-      {
-       "t": "v",
-       "n": 19,
-       "l": [
-        "\"At Nithuth's girdle | gleams the sword",
-        "That I sharpened keen | with cunningest craft,",
-        "(And hardened the steel | with highest skill;)",
-        "The bright blade far | forever is borne,",
-        "(Nor back shall I see it | borne to my smithy;)",
-        "Now Bothvild gets | the golden ring",
-        "(That was once my bride's,— | ne'er well shall it be.)\"⟦19⟧"
-       ]
-      }
-     ],
-     "en_stanzas": [
-      19
-     ],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": [],
-     "is_nu": [
       {
        "t": "p",
        "s": "Völundur kvað:",
@@ -1818,7 +1775,27 @@
        ]
       }
      ],
-     "is_nu_sim": 0.818,
+     "en": [
+      {
+       "t": "v",
+       "n": 19,
+       "l": [
+        "\"At Nithuth's girdle | gleams the sword",
+        "That I sharpened keen | with cunningest craft,",
+        "(And hardened the steel | with highest skill;)",
+        "The bright blade far | forever is borne,",
+        "(Nor back shall I see it | borne to my smithy;)",
+        "Now Bothvild gets | the golden ring",
+        "(That was once my bride's,— | ne'er well shall it be.)\"⟦19⟧"
+       ]
+      }
+     ],
+     "en_stanzas": [
+      19
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
      "en-thorpe": [
       {
        "t": "p",
@@ -1839,7 +1816,26 @@
         "(that was once my bride's, | it shall never be well.)\""
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 18,
+       "l": [
+        "\"Skín Níðaði",
+        "sverð á linda,",
+        "það er eg hvessta,",
+        "sem eg hagast kunna",
+        "og eg herðak,",
+        "sem mér hægst þótti;",
+        "sá er mér fránn mækir",
+        "æ fjarri borinn,",
+        "sékk-a eg þann Völundi",
+        "til smiðju borinn."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s19",
@@ -1903,7 +1899,7 @@
         "vél gerði hann heldur",
         "hvatt Níðaði.",
         "Drifu ungir tveir",
-        "á dýr séa",
+        "á dýr sjá,",
         "synir Níðaðar,",
         "í Sævarstöð."
        ]
@@ -1927,23 +1923,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 20,
-       "l": [
-        "Sat hann, né hann svaf, ávallt",
-        "og hann sló hamri;",
-        "vél gerði hann heldur",
-        "hvatt Níðaði.",
-        "Drifu ungir tveir",
-        "á dýr sjá,",
-        "synir Níðaðar,",
-        "í Sævarstöð."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.993,
      "en-thorpe": [
       {
        "t": "p",
@@ -1961,7 +1940,24 @@
         "Nithuth's sons, | into Sævarstath."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 20,
+       "l": [
+        "Sat hann, né hann svaf, ávallt",
+        "og hann sló hamri;",
+        "vél gerði hann heldur",
+        "hvatt Níðaði.",
+        "Drifu ungir tveir",
+        "á dýr séa",
+        "synir Níðaðar,",
+        "í Sævarstöð."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s21",
@@ -1987,14 +1983,14 @@
        "t": "v",
        "n": 21,
        "l": [
-        "Komu þeir til kistu,",
+        "Kómu þeir til kistu,",
         "kröfðu lukla,",
         "opin var illúð",
-        "er þeir í sáu;",
-        "fjölð var þar menja,",
+        "er þeir í sáu.",
+        "Fjöld var þar menja",
         "er þeim mögum sýndist",
         "að væri gull rautt",
-        "og görsimar."
+        "og gersimar."
        ]
       }
      ],
@@ -2016,23 +2012,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 21,
-       "l": [
-        "Kómu þeir til kistu,",
-        "kröfðu lukla,",
-        "opin var illúð",
-        "er þeir í sáu.",
-        "Fjöld var þar menja",
-        "er þeim mögum sýndist",
-        "að væri gull rautt",
-        "og gersimar."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.985,
      "en-thorpe": [
       {
        "t": "p",
@@ -2050,7 +2029,24 @@
         "gold in plenty | and precious stones."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 21,
+       "l": [
+        "Komu þeir til kistu,",
+        "kröfðu lukla,",
+        "opin var illúð",
+        "er þeir í sáu;",
+        "fjölð var þar menja,",
+        "er þeim mögum sýndist",
+        "að væri gull rautt",
+        "og görsimar."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s22",
@@ -2086,14 +2082,14 @@
        "t": "v",
        "n": 22,
        "l": [
-        "\"Komið einir tveir,",
+        "Komið einir tveir,",
         "komið annars dags;",
         "ykkur læt eg það gull",
-        "of gefið verða;",
-        "segið-a meyjum",
+        "um gefið verða.",
+        "Segið-a meyjum",
         "né salþjóðum,",
-        "manni engum,",
-        "að it mig fyndið.\""
+        "manni öngum,",
+        "að ið mig fyndið."
        ]
       }
      ],
@@ -2116,28 +2112,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "p",
-       "s": "Völundur kvað:",
-       "sp": true
-      },
-      {
-       "t": "v",
-       "n": 22,
-       "l": [
-        "Komið einir tveir,",
-        "komið annars dags;",
-        "ykkur læt eg það gull",
-        "um gefið verða.",
-        "Segið-a meyjum",
-        "né salþjóðum,",
-        "manni öngum,",
-        "að ið mig fyndið."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.972,
      "en-thorpe": [
       {
        "t": "p",
@@ -2156,7 +2130,29 @@
         "tell no one | that you have sought me.\""
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "p",
+       "s": "Völundur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Komið einir tveir,",
+        "komið annars dags;",
+        "ykkur læt eg það gull",
+        "of gefið verða;",
+        "segið-a meyjum",
+        "né salþjóðum,",
+        "manni engum,",
+        "að it mig fyndið.\""
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s23",
@@ -2183,13 +2179,19 @@
        "n": 23,
        "l": [
         "Snemma kallaði",
-        "seggur annan,",
+        "seggur [á] annan,",
         "bróðir á bróður:",
-        "\"Göngum baug séa!\"",
-        "Komu til kistu,",
+        "Göngum baug sjá!"
+       ]
+      },
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Kómu til kistu,",
         "kröfðu lukla,",
-        "opin var illúð,",
-        "er þeir í lita."
+        "opin var illúð",
+        "er þeir í litu."
        ]
       }
      ],
@@ -2221,29 +2223,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 23,
-       "l": [
-        "Snemma kallaði",
-        "seggur [á] annan,",
-        "bróðir á bróður:",
-        "Göngum baug sjá!"
-       ]
-      },
-      {
-       "t": "v",
-       "n": 23,
-       "l": [
-        "Kómu til kistu,",
-        "kröfðu lukla,",
-        "opin var illúð",
-        "er þeir í litu."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.975,
      "en-thorpe": [
       {
        "t": "p",
@@ -2274,7 +2253,24 @@
         "under the sooty | straps of the bellows."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 23,
+       "l": [
+        "Snemma kallaði",
+        "seggur annan,",
+        "bróðir á bróður:",
+        "\"Göngum baug séa!\"",
+        "Komu til kistu,",
+        "kröfðu lukla,",
+        "opin var illúð,",
+        "er þeir í lita."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s24",
@@ -2302,10 +2298,10 @@
        "l": [
         "Sneið af höfuð",
         "húna þeirra",
-        "og und fen fjöturs",
-        "fætur of lagði;",
+        "og undir fen fjöturs",
+        "fætur um lagði",
         "en þær skálar,",
-        "er und skörum voru,",
+        "er und skörum vóru,",
         "sveip hann utan silfri,",
         "seldi Níðaði."
        ]
@@ -2329,23 +2325,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 24,
-       "l": [
-        "Sneið af höfuð",
-        "húna þeirra",
-        "og undir fen fjöturs",
-        "fætur um lagði",
-        "en þær skálar,",
-        "er und skörum vóru,",
-        "sveip hann utan silfri,",
-        "seldi Níðaði."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.977,
      "en-thorpe": [
       {
        "t": "p",
@@ -2363,7 +2342,24 @@
         "to Nithuth's wife, | so wise, he gave them."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 24,
+       "l": [
+        "Sneið af höfuð",
+        "húna þeirra",
+        "og und fen fjöturs",
+        "fætur of lagði;",
+        "en þær skálar,",
+        "er und skörum voru,",
+        "sveip hann utan silfri,",
+        "seldi Níðaði."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s25",
@@ -2392,7 +2388,7 @@
         "En úr augum",
         "jarknasteina",
         "sendi hann kunnigri",
-        "konu Níðaðar,",
+        "kván Níðaðar,",
         "en úr tönnum",
         "tveggja þeirra",
         "sló hann brjóstkringlur",
@@ -2417,23 +2413,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 25,
-       "l": [
-        "En úr augum",
-        "jarknasteina",
-        "sendi hann kunnigri",
-        "kván Níðaðar,",
-        "en úr tönnum",
-        "tveggja þeirra",
-        "sló hann brjóstkringlur",
-        "sendi Böðvildi."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.984,
      "en-modern": [
       {
        "t": "v",
@@ -2444,7 +2423,24 @@
         ".............."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 25,
+       "l": [
+        "En úr augum",
+        "jarknasteina",
+        "sendi hann kunnigri",
+        "konu Níðaðar,",
+        "en úr tönnum",
+        "tveggja þeirra",
+        "sló hann brjóstkringlur",
+        "sendi Böðvildi."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s26",
@@ -2471,11 +2467,11 @@
        "l": [
         "Þá nam Böðvildur",
         "baugi að hrósa",
-        "-- -- --",
-        "[bar hann Völundi],",
+        "- - -",
+        "- - -",
         "er brotið hafði:",
-        "\"Þorig-a eg að segja",
-        "nema þér einum.\""
+        "Þorig-a eg að segja",
+        "nema þér einum."
        ]
       }
      ],
@@ -2497,22 +2493,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 26,
-       "l": [
-        "Þá nam Böðvildur",
-        "baugi að hrósa",
-        "- - -",
-        "- - -",
-        "er brotið hafði:",
-        "Þorig-a eg að segja",
-        "nema þér einum."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.926,
      "en-thorpe": [
       {
        "t": "p",
@@ -2530,7 +2510,23 @@
         "I dare not tell it | except to you.\""
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 26,
+       "l": [
+        "Þá nam Böðvildur",
+        "baugi að hrósa",
+        "-- -- --",
+        "[bar hann Völundi],",
+        "er brotið hafði:",
+        "\"Þorig-a eg að segja",
+        "nema þér einum.\""
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s27",
@@ -2566,14 +2562,14 @@
        "t": "v",
        "n": 27,
        "l": [
-        "\"Eg bæti svo",
+        "Eg bæti svo",
         "brest á gulli",
         "að feður þínum",
         "fegri þykir",
         "og mæður þinni",
         "miklu betri",
-        "og sjalfri þér",
-        "að sama hófi.\""
+        "og sjálfri þér",
+        "að sama hófi."
        ]
       }
      ],
@@ -2596,28 +2592,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "p",
-       "s": "Völundur kvað:",
-       "sp": true
-      },
-      {
-       "t": "v",
-       "n": 27,
-       "l": [
-        "Eg bæti svo",
-        "brest á gulli",
-        "að feður þínum",
-        "fegri þykir",
-        "og mæður þinni",
-        "miklu betri",
-        "og sjálfri þér",
-        "að sama hófi."
-       ]
-      }
-     ],
-     "is_nu_sim": 1.0,
      "en-thorpe": [
       {
        "t": "p",
@@ -2641,7 +2615,29 @@
         "and you no worse | than it ever was.\""
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "p",
+       "s": "Völundur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 27,
+       "l": [
+        "\"Eg bæti svo",
+        "brest á gulli",
+        "að feður þínum",
+        "fegri þykir",
+        "og mæður þinni",
+        "miklu betri",
+        "og sjalfri þér",
+        "að sama hófi.\""
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s28",
@@ -2667,14 +2663,14 @@
        "t": "v",
        "n": 28,
        "l": [
-        "Bar hann hana bjóri,",
+        "Bar hann hana bjóri",
         "því að hann betur kunni",
         "svo að hún í sessi",
-        "of sofnaði.",
-        "\"Nú hef eg hefnt",
+        "um sofnaði.",
+        "Nú hefi eg hefnt",
         "harma minna",
-        "allra nema einn",
-        "íviðgjarna.\""
+        "allra nema einna",
+        "íviðgjarna."
        ]
       }
      ],
@@ -2703,23 +2699,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 28,
-       "l": [
-        "Bar hann hana bjóri",
-        "því að hann betur kunni",
-        "svo að hún í sessi",
-        "um sofnaði.",
-        "Nú hefi eg hefnt",
-        "harma minna",
-        "allra nema einna",
-        "íviðgjarna."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.977,
      "en-thorpe": [
       {
        "t": "p",
@@ -2744,7 +2723,24 @@
         "except one alone, | on the evil woman.\""
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Bar hann hana bjóri,",
+        "því að hann betur kunni",
+        "svo að hún í sessi",
+        "of sofnaði.",
+        "\"Nú hef eg hefnt",
+        "harma minna",
+        "allra nema einn",
+        "íviðgjarna.\""
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s29",
@@ -2772,10 +2768,10 @@
        "t": "v",
        "n": 29,
        "l": [
-        "\"Vel eg,\" kvað Völundur,",
-        "\"verða eg á fitjum",
+        "Vel eg, kvað Völundur,",
+        "verða eg á fitjum",
         "þeim er mig Níðaðar",
-        "námu rekkar.\"",
+        "námu rekkar.",
         "Hlæjandi Völundur",
         "hófst að lofti,",
         "grátandi Böðvildur",
@@ -2813,25 +2809,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 29,
-       "l": [
-        "Vel eg, kvað Völundur,",
-        "verða eg á fitjum",
-        "þeim er mig Níðaðar",
-        "námu rekkar.",
-        "Hlæjandi Völundur",
-        "hófst að lofti,",
-        "grátandi Böðvildur",
-        "gekk úr eyju,",
-        "tregði för friðils",
-        "og föður reiði."
-       ]
-      }
-     ],
-     "is_nu_sim": 1.0,
      "en-thorpe": [
       {
        "t": "p",
@@ -2858,7 +2835,26 @@
         "for her lover's flight | and her father's anger."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 29,
+       "l": [
+        "\"Vel eg,\" kvað Völundur,",
+        "\"verða eg á fitjum",
+        "þeim er mig Níðaðar",
+        "námu rekkar.\"",
+        "Hlæjandi Völundur",
+        "hófst að lofti,",
+        "grátandi Böðvildur",
+        "gekk úr eyju,",
+        "tregði för friðils",
+        "og föður reiði."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s30",
@@ -2885,13 +2881,13 @@
        "n": 30,
        "l": [
         "Úti stendur kunnig",
-        "kvon Níðaðar,",
-        "og hún hinn of gekk",
-        "endlangan sal,",
-        "- en hann á salgarð",
-        "settist að hvílast -:",
-        "\"Vakir þú, Níðuður",
-        "Níara dróttinn?\""
+        "kvon Níðaðar",
+        "og hún inn um gekk",
+        "endlangan sal.",
+        "En hann á salgarð",
+        "settist að hvílast.",
+        "Vakir þú, Níðuður",
+        "Njára dróttinn?"
        ]
       }
      ],
@@ -2913,23 +2909,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 30,
-       "l": [
-        "Úti stendur kunnig",
-        "kvon Níðaðar",
-        "og hún inn um gekk",
-        "endlangan sal.",
-        "En hann á salgarð",
-        "settist að hvílast.",
-        "Vakir þú, Níðuður",
-        "Njára dróttinn?"
-       ]
-      }
-     ],
-     "is_nu_sim": 0.967,
      "en-thorpe": [
       {
        "t": "p",
@@ -2947,7 +2926,24 @@
         "\"Are you awake, Nithuth, | lord of the Njars?\""
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 30,
+       "l": [
+        "Úti stendur kunnig",
+        "kvon Níðaðar,",
+        "og hún hinn of gekk",
+        "endlangan sal,",
+        "- en hann á salgarð",
+        "settist að hvílast -:",
+        "\"Vakir þú, Níðuður",
+        "Níara dróttinn?\""
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s31",
@@ -2983,13 +2979,13 @@
        "t": "v",
        "n": 31,
        "l": [
-        "\"Vaki eg ávallt",
+        "Vaki eg ávallt",
         "viljalaus,",
         "sofna eg minnst",
-        "síz mína sonu dauða;",
+        "síst mína sonu dauða;",
         "kell mig í höfuð,",
         "köld eru mér ráð þín,",
-        "vilnumk eg þess nú,",
+        "vilnumk eg þess nú",
         "að eg við Völund dæma."
        ]
       }
@@ -3013,28 +3009,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "p",
-       "s": "Níðuður kvað:",
-       "sp": true
-      },
-      {
-       "t": "v",
-       "n": 31,
-       "l": [
-        "Vaki eg ávallt",
-        "viljalaus,",
-        "sofna eg minnst",
-        "síst mína sonu dauða;",
-        "kell mig í höfuð,",
-        "köld eru mér ráð þín,",
-        "vilnumk eg þess nú",
-        "að eg við Völund dæma."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.99,
      "en-thorpe": [
       {
        "t": "p",
@@ -3053,7 +3027,29 @@
         "one thing I wish: | to speak with Völund."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "p",
+       "s": "Níðuður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 31,
+       "l": [
+        "\"Vaki eg ávallt",
+        "viljalaus,",
+        "sofna eg minnst",
+        "síz mína sonu dauða;",
+        "kell mig í höfuð,",
+        "köld eru mér ráð þín,",
+        "vilnumk eg þess nú,",
+        "að eg við Völund dæma."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s32",
@@ -3076,9 +3072,9 @@
        "n": 32,
        "l": [
         "Seg þú mér það, Völundur,",
-        "vísi alfa,",
+        "vísi álfa,",
         "af heilum hvað varð",
-        "húnum mínum.\""
+        "húnum mínum."
        ]
       }
      ],
@@ -3099,19 +3095,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 32,
-       "l": [
-        "Seg þú mér það, Völundur,",
-        "vísi álfa,",
-        "af heilum hvað varð",
-        "húnum mínum."
-       ]
-      }
-     ],
-     "is_nu_sim": 1.0,
      "en-thorpe": [
       {
        "t": "p",
@@ -3128,7 +3111,20 @@
         "what happened to my boys, | who once were well?\""
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 32,
+       "l": [
+        "Seg þú mér það, Völundur,",
+        "vísi alfa,",
+        "af heilum hvað varð",
+        "húnum mínum.\""
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s33",
@@ -3170,12 +3166,12 @@
        "t": "v",
        "n": 33,
        "l": [
-        "\"Eiða skaltu mér áður",
+        "Eiða skaltu mér áður",
         "alla vinna,",
         "að skips borði",
         "og að skjaldar rönd,",
         "að mars bægi",
-        "og að mækis egg,",
+        "og að mækis egg",
         "að þú kvelj-at",
         "kvon Völundar",
         "né brúði minni",
@@ -3209,34 +3205,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "p",
-       "s": "Völundur kvað:",
-       "sp": true
-      },
-      {
-       "t": "v",
-       "n": 33,
-       "l": [
-        "Eiða skaltu mér áður",
-        "alla vinna,",
-        "að skips borði",
-        "og að skjaldar rönd,",
-        "að mars bægi",
-        "og að mækis egg",
-        "að þú kvelj-at",
-        "kvon Völundar",
-        "né brúði minni",
-        "að bana verðir,",
-        "þótt vér kvon eigim,",
-        "þá er þér kunnið,",
-        "eða jóð eigim",
-        "innan hallar."
-       ]
-      }
-     ],
-     "is_nu_sim": 1.0,
      "en-thorpe": [
       {
        "t": "p",
@@ -3258,7 +3226,35 @@
         "and I should have a child | within your hall."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "p",
+       "s": "Völundur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 33,
+       "l": [
+        "\"Eiða skaltu mér áður",
+        "alla vinna,",
+        "að skips borði",
+        "og að skjaldar rönd,",
+        "að mars bægi",
+        "og að mækis egg,",
+        "að þú kvelj-at",
+        "kvon Völundar",
+        "né brúði minni",
+        "að bana verðir,",
+        "þótt vér kvon eigim,",
+        "þá er þér kunnið,",
+        "eða jóð eigim",
+        "innan hallar."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s34",
@@ -3284,14 +3280,14 @@
        "t": "v",
        "n": 34,
        "l": [
-        "Gakk þú til smiðju,",
+        "Gakk þú til smiðju",
         "þeirrar er þú gerðir,",
-        "þar fiður þú belgi",
+        "þar finnur þú belgi",
         "blóði stokkna;",
         "sneið eg af höfuð",
-        "húna þinna,",
+        "húna þinna",
         "og und fen fjöturs",
-        "fætur of lagðak."
+        "fætur um lagðag."
        ]
       }
      ],
@@ -3313,23 +3309,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 34,
-       "l": [
-        "Gakk þú til smiðju",
-        "þeirrar er þú gerðir,",
-        "þar finnur þú belgi",
-        "blóði stokkna;",
-        "sneið eg af höfuð",
-        "húna þinna",
-        "og und fen fjöturs",
-        "fætur um lagðag."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.967,
      "en-thorpe": [
       {
        "t": "p",
@@ -3347,7 +3326,24 @@
         "and hid their feet | under the sooty straps."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 34,
+       "l": [
+        "Gakk þú til smiðju,",
+        "þeirrar er þú gerðir,",
+        "þar fiður þú belgi",
+        "blóði stokkna;",
+        "sneið eg af höfuð",
+        "húna þinna,",
+        "og und fen fjöturs",
+        "fætur of lagðak."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s35",
@@ -3402,6 +3398,24 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "But their skulls beneath the hair I in silver set, and to Nidud gave; and of their eyes precious stones I formed, which to Nidud's wily wife I sent."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Their skulls, once hidden | by their hair, I took,",
+        "set them in silver | and sent them to Nithuth;",
+        "from their eyes I made | gems most fair,",
+        "to Nithuth's wife, | so wise, I gave them."
+       ]
+      }
+     ],
      "is_nu": [
       {
        "t": "v",
@@ -3419,25 +3433,6 @@
         "tveggja þeirra",
         "sló eg brjóstkringlur,",
         "senda eg Böðvildi."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.78,
-     "en-thorpe": [
-      {
-       "t": "p",
-       "s": "But their skulls beneath the hair I in silver set, and to Nidud gave; and of their eyes precious stones I formed, which to Nidud's wily wife I sent."
-      }
-     ],
-     "en-modern": [
-      {
-       "t": "v",
-       "n": 37,
-       "l": [
-        "\"Their skulls, once hidden | by their hair, I took,",
-        "set them in silver | and sent them to Nithuth;",
-        "from their eyes I made | gems most fair,",
-        "to Nithuth's wife, | so wise, I gave them."
        ]
       }
      ]
@@ -3495,19 +3490,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 36,
-       "l": [
-        "Nú gengur Böðvildur",
-        "barni aukin,",
-        "einkadóttir",
-        "ykkur beggja."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.611,
      "en-thorpe": [
       {
        "t": "p",
@@ -3523,6 +3505,18 @@
         "a brooch for the breast, | and gave it to Bothvild;",
         "now Bothvild goes | big with child,",
         "the only daughter | you two ever had.\""
+       ]
+      }
+     ],
+     "is_nu": [
+      {
+       "t": "v",
+       "n": 36,
+       "l": [
+        "Nú gengur Böðvildur",
+        "barni aukin,",
+        "einkadóttir",
+        "ykkur beggja."
        ]
       }
      ]
@@ -3563,16 +3557,16 @@
        "t": "v",
        "n": 37,
        "l": [
-        "\"Mæltir-a þú það mál,",
-        "er mig meir tregi,",
+        "Mæltir-a þú það mál",
+        "er mig meir tregi",
         "né eg þig vilja, Völundur,",
-        "verr of níta;",
-        "er-at svo maður hár,",
-        "að þig af hesti taki,",
-        "né svo öflugur,",
-        "að þig neðan skjóti,",
+        "verr um níta.",
+        "Er-at svo maður hár",
+        "að þig af hesti taki",
+        "né svo öflugur",
+        "að þig neðan skjóti",
         "þar er þú skollir",
-        "við ský uppi.\""
+        "við ský uppi."
        ]
       }
      ],
@@ -3596,30 +3590,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "p",
-       "s": "Níðuður kvað:",
-       "sp": true
-      },
-      {
-       "t": "v",
-       "n": 37,
-       "l": [
-        "Mæltir-a þú það mál",
-        "er mig meir tregi",
-        "né eg þig vilja, Völundur,",
-        "verr um níta.",
-        "Er-at svo maður hár",
-        "að þig af hesti taki",
-        "né svo öflugur",
-        "að þig neðan skjóti",
-        "þar er þú skollir",
-        "við ský uppi."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.99,
      "en-thorpe": [
       {
        "t": "p",
@@ -3639,7 +3609,31 @@
         "while high in the clouds | you take your course.\""
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "p",
+       "s": "Níðuður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 37,
+       "l": [
+        "\"Mæltir-a þú það mál,",
+        "er mig meir tregi,",
+        "né eg þig vilja, Völundur,",
+        "verr of níta;",
+        "er-at svo maður hár,",
+        "að þig af hesti taki,",
+        "né svo öflugur,",
+        "að þig neðan skjóti,",
+        "þar er þú skollir",
+        "við ský uppi.\""
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s38",
@@ -3662,7 +3656,7 @@
        "n": 38,
        "l": [
         "Hlæjandi Völundur",
-        "hófst að lofti,",
+        "hófst að lofti",
         "en ókátur Níðuður",
         "sat þá eftir."
        ]
@@ -3685,19 +3679,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 38,
-       "l": [
-        "Hlæjandi Völundur",
-        "hófst að lofti",
-        "en ókátur Níðuður",
-        "sat þá eftir."
-       ]
-      }
-     ],
-     "is_nu_sim": 1.0,
      "en-thorpe": [
       {
        "t": "p",
@@ -3714,7 +3695,20 @@
         ".............."
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 38,
+       "l": [
+        "Hlæjandi Völundur",
+        "hófst að lofti,",
+        "en ókátur Níðuður",
+        "sat þá eftir."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s39",
@@ -3748,11 +3742,11 @@
        "t": "v",
        "n": 39,
        "l": [
-        "\"Upp rístu, Þakkráður,",
-        "þræll minn hinn bezti,",
+        "Upp rístu, Þakkráður,",
+        "þræll minn besti",
         "bið þú Böðvildi,",
         "meyna bráhvítu,",
-        "ganga fagrvarið",
+        "ganga fagurvarin",
         "við föður ræða."
        ]
       }
@@ -3775,26 +3769,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "p",
-       "s": "Níðuður kvað:",
-       "sp": true
-      },
-      {
-       "t": "v",
-       "n": 39,
-       "l": [
-        "Upp rístu, Þakkráður,",
-        "þræll minn besti",
-        "bið þú Böðvildi,",
-        "meyna bráhvítu,",
-        "ganga fagurvarin",
-        "við föður ræða."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.956,
      "en-thorpe": [
       {
        "t": "p",
@@ -3812,7 +3786,27 @@
         "so fairly adorned, | to speak with her father.\""
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "p",
+       "s": "Níðuður kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 39,
+       "l": [
+        "\"Upp rístu, Þakkráður,",
+        "þræll minn hinn bezti,",
+        "bið þú Böðvildi,",
+        "meyna bráhvítu,",
+        "ganga fagrvarið",
+        "við föður ræða."
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s40",
@@ -3835,9 +3829,9 @@
        "n": 40,
        "l": [
         "Er það satt, Böðvildur,",
-        "er sögðu mér:",
-        "Sátuð it Völundur",
-        "saman í holmi?\""
+        "er sögðu mér.",
+        "Sátuð ið Völundur",
+        "saman í hólmi?"
        ]
       }
      ],
@@ -3859,19 +3853,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "v",
-       "n": 40,
-       "l": [
-        "Er það satt, Böðvildur,",
-        "er sögðu mér.",
-        "Sátuð ið Völundur",
-        "saman í hólmi?"
-       ]
-      }
-     ],
-     "is_nu_sim": 0.985,
      "en-thorpe": [
       {
        "t": "p",
@@ -3889,7 +3870,20 @@
         "were you once on the island | with Völund?\""
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "v",
+       "n": 40,
+       "l": [
+        "Er það satt, Böðvildur,",
+        "er sögðu mér:",
+        "Sátuð it Völundur",
+        "saman í holmi?\""
+       ]
+      }
+     ],
+     "is_netutgafan": true
     },
     {
      "id": "vkv-s41",
@@ -3927,16 +3921,16 @@
        "t": "v",
        "n": 41,
        "l": [
-        "\"Satt er það, Níðuður,",
-        "er sagði þér:",
-        "Sátum vit Völundur",
-        "saman í holmi",
+        "Satt er það, Níðuður,",
+        "er sagði þér.",
+        "Sátum við Völundur",
+        "saman í hólmi",
         "eina ögurstund,",
-        "æva skyldi;",
-        "eg vætur hánum",
-        "vinna kunnak,",
-        "eg vætur hánum",
-        "vinna máttak.\""
+        "æva skyldi.",
+        "Eg vætur honum",
+        "vinna kunnag,",
+        "eg vætur honum",
+        "vinna máttag."
        ]
       }
      ],
@@ -3960,30 +3954,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "is_nu": [
-      {
-       "t": "p",
-       "s": "Böðvildur kvað:",
-       "sp": true
-      },
-      {
-       "t": "v",
-       "n": 41,
-       "l": [
-        "Satt er það, Níðuður,",
-        "er sagði þér.",
-        "Sátum við Völundur",
-        "saman í hólmi",
-        "eina ögurstund,",
-        "æva skyldi.",
-        "Eg vætur honum",
-        "vinna kunnag,",
-        "eg vætur honum",
-        "vinna máttag."
-       ]
-      }
-     ],
-     "is_nu_sim": 0.969,
      "en-thorpe": [
       {
        "t": "p",
@@ -4003,7 +3973,31 @@
         "nor could I save myself | from his strength.\""
        ]
       }
-     ]
+     ],
+     "is_auto": [
+      {
+       "t": "p",
+       "s": "Böðvildur kvað:",
+       "sp": true
+      },
+      {
+       "t": "v",
+       "n": 41,
+       "l": [
+        "\"Satt er það, Níðuður,",
+        "er sagði þér:",
+        "Sátum vit Völundur",
+        "saman í holmi",
+        "eina ögurstund,",
+        "æva skyldi;",
+        "eg vætur hánum",
+        "vinna kunnak,",
+        "eg vætur hánum",
+        "vinna máttak.\""
+       ]
+      }
+     ],
+     "is_netutgafan": true
     }
    ],
    "notes": [
@@ -4227,7 +4221,8 @@
  ],
  "sources": {
   "on": "Guðni Jónsson, Eddukvæði (1949), via heimskringla.no (Völundarkviða)",
-  "is": "automatic modernisation of the Old Norse",
-  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Völundarkvitha"
+  "is": "Netútgáfan, August 1996, modern spelling, via netutgafan.snerpa.is; automatic modernisation where the page has no counterpart",
+  "en": "H. A. Bellows, The Poetic Edda (1923), via Wikisource: Völundarkvitha",
+  "is_url": "https://netutgafan.snerpa.is/kvaedi/volund.htm"
  }
 }
