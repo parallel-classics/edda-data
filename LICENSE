@@ -20,14 +20,22 @@ Licensing summary
    - English: Henry Adams Bellows, The Poetic Edda (American-Scandinavian Foundation, 1923), via the
      Wikisource transcription. Public domain (Bellows died in 1939).
 
-   No new rights are claimed over these texts or over the automatic alignment and modernisation derived
-   from them (aligned/, auto/). Until the two open points above are settled, do not describe the whole
-   dataset as public domain.
+   The licence in section 2 covers only what Open Edda added. It claims no rights in these texts: the medieval
+   works stay free for everyone, and each edition and translation keeps its own status as stated here. Until
+   the two open points above are settled, do not describe the whole dataset as public domain.
 
-2. Contributions (CC BY 4.0)
+2. Open Edda's own material (CC BY 4.0)
 
-   Everything added by contributors — overlay records in overlays/, image records and captions in images/,
-   documentation — is licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0).
+   Everything Open Edda adds is licensed under the Creative Commons Attribution 4.0 International licence
+   (CC BY 4.0) (decision of 2026-11-16): the alignment of the texts into rows (aligned/, auto/), the automatic
+   modern-spelling Icelandic, the AI-draft translations and the modern English (en-modern), the names index
+   (entities/), the Mímir guide (guide/: cards, stories, tours, misconceptions, beyond the Eddas), the part
+   introductions and headnotes (intros/), pronunciation hints, the reading paths, the review records (reviews/),
+   overlay records contributed by readers and reviewers (overlays/), image records and captions, documentation,
+   and the plates, portraits and map of the worlds by Grigory Sapunov (images/; credited
+   "© 2026 Grigory Sapunov, CC BY 4.0").
+
+   Attribution: "Open Edda, openedda.is", and the contributor where a record names one (the author field).
 
    You are free to share and adapt this material for any purpose, including commercially, provided you give
    appropriate credit (name the project and the contributors listed in the records), link to the licence
@@ -36,9 +44,7 @@ Licensing summary
    Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
    Human-readable summary: https://creativecommons.org/licenses/by/4.0/
 
-   By contributing you agree that your contribution is licensed CC BY 4.0. The project is considering a
-   change to CC0 1.0 for contributions; contributors will be asked before any such change applies to their
-   work.
+   By contributing you agree that your contribution is licensed CC BY 4.0.
 
 3. Code (MIT)
 
