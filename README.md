@@ -10,14 +10,15 @@ rows; the 45 poems of Guðni Jónsson's *Eddukvæði* are aligned stanza by stan
 where Snorri quotes a poem are linked both ways.
 
 This repository is the thing to cite: the sources as fetched, the aligned rows, the human corrections
-(overlays), the image records and the licences. It contains no code beyond a validator. The pipeline that
+(overlays), further English versions, the names index, the Mímir guide, the pictures and the licences. It
+contains no code beyond a validator. The pipeline that
 produces the aligned rows and the website live in the sibling repository **edda-site**.
 
 ## Sources and provenance
 
 The medieval texts are in the public domain. Two of the modern editions used are not yet cleared: Guðni
 Jónsson's normalised Old Norse and Netútgáfan's modern-spelling Gylfaginning (see `LICENSE`, section 1).
-The English translations (Brodeur 1916, Bellows 1923) are in the public domain.
+The English translations (Brodeur 1916, Bellows 1923, Thorpe 1866, Anderson 1880) are in the public domain.
 
 | Column | Text | Edition | Where fetched from | Parts |
 | --- | --- | --- | --- | --- |
@@ -26,6 +27,17 @@ The English translations (Brodeur 1916, Bellows 1923) are in the public domain.
 | English (`en`) | *The Prose Edda* | Arthur Gilchrist Brodeur (American-Scandinavian Foundation, 1916) | sacred-texts.com transcription | Prologue, Gylfaginning, Skáldskaparmál (Brodeur omitted Háttatal) |
 | Old Norse (`on`), poems | *Eddukvæði* | Guðni Jónsson's normalised edition (Íslendingasagnaútgáfan, 1949) as published by heimskringla.no | heimskringla.no pages, fetched 2026-10-25 | all 45 poems |
 | English (`en`), poems | *The Poetic Edda* | Henry Adams Bellows (American-Scandinavian Foundation, 1923) | English Wikisource, *The Poetic Edda (tr. Bellows)*, MediaWiki API | 36 of the 45 poems (his 35 pages; Svipdagsmol and Hyndluljoth each cover two of Guðni Jónsson's poems, Fra Dautha Sinfjotla joins Grípisspá) |
+
+| Modern Icelandic (`is`), poems | Hávamál, Völuspá, Þrymskviða, Völundarkviða, Helgakviða Hundingsbana II | Netútgáfan, 1996–1997 | https://netutgafan.snerpa.is/kvaedi/, fetched 2026-11-01 | 359 rows of these five poems; the other poems carry an automatic modernisation |
+| English (`en`), poems | *Edda Sæmundar hinns Fróða* | Benjamin Thorpe (Trübner, 1866) | germanicmythology.com transcription | Sólarljóð and Hrafnagaldr Óðins (108 rows), which Bellows did not translate |
+
+Further English versions stand beside the default English column (`aligned/texts.json`, `sources/versions/`):
+
+| Version | Text | Where from | Rows |
+| --- | --- | --- | --- |
+| `en-anderson` | Rasmus B. Anderson, *The Younger Edda* (1880), public domain | English Wikisource, proofread transcription | 335, Gylfaginning |
+| `en-thorpe` | Benjamin Thorpe, *The Edda of Sæmund the Learned* (1866; the Norrœna reprint of 1907), public domain | English Wikisource, proofread transcription | 1,464, 33 poems |
+| `en-modern` | Open Edda's modernisation of the public-domain English (Brodeur, Bellows, Thorpe): an AI draft, not reviewed, CC BY 4.0 | made for this edition | 2,890, everything except Háttatal and the rows whose English is only an AI draft |
 
 Details per file, fetch dates and known defects: `sources/README.md`. The Wikisource proofread copy of
 Brodeur is the planned cleaner base for the English column (see `docs/ROADMAP.md`).
@@ -38,7 +50,7 @@ Brodeur is the planned cleaner base for the English column (see `docs/ROADMAP.md
 | Gylfaginning | 54 | 345 | Guðni Jónsson 1954 | Netútgáfan 1997 | Brodeur 1916 |
 | Skáldskaparmál | 89 | 854 | Guðni Jónsson 1954 | automatic modernisation | Brodeur 1916 (his 74 chapters mapped onto 89) |
 | Háttatal | 3 sections, 102 stanzas | 303 | Guðni Jónsson 1954 | automatic modernisation | AI draft, unreviewed |
-| *Poetic Edda* | 45 poems in 3 groups (17 mythological, 20 heroic, 8 other) | 1,952 (stanzas, prose passages, unnumbered verse) | Guðni Jónsson 1949 | automatic modernisation | Bellows 1923 for 36 poems; AI draft (marked) for the 9 others and the stanzas he left out |
+| *Poetic Edda* | 45 poems in 3 groups (17 mythological, 20 heroic, 8 other) | 1,952 (stanzas, prose passages, unnumbered verse) | Guðni Jónsson 1949 | Netútgáfan 1996–1997 for five poems (359 rows); automatic modernisation elsewhere | Bellows 1923 for 36 poems (1,585 rows); Thorpe 1866 for two (108); Brodeur for 2 stanzas Snorri quotes; AI draft (marked) for 251 rows: the seven poems neither translated and the stanzas Bellows left out |
 
 Total: 3,466 rows (Snorri 1,514, poems 1,952). Poem rows have ids `<poem>-s<stanza>` (`vsp-s19`) and
 `<poem>-p<k>` for prose passages and `<poem>-v<k>` for verse without a stanza number; Snorri's quotations of the poems are listed in `aligned/poetic/links.json`.
@@ -57,8 +69,16 @@ What is automatic, and how good it is:
 - **English for Háttatal** (303 rows) and for Skáldskaparmál row `s-c72-8` is an AI draft translation
   (status `draft`, author `ai:claude-2026-10`), unreviewed; `[?]` marks a line the draft was unsure of.
 
-Nothing automatic is presented as settled: every cell has a status (`auto`, `draft`, `reviewed`,
-`disputed`), see `docs/DATA_MODEL.md` and the current counts in `docs/STATUS.md`.
+- **English for the poems** without a public-domain translation (251 rows) is an AI draft of the same kind.
+- **English · modern** (`en-modern`, 2,890 rows) is an AI modernisation of the public-domain translations; it keeps
+  the translators' readings and name spellings and has not been reviewed.
+- **The names index** (`entities/`: 601 entities, 18,107 mentions) is detected automatically from a curated list;
+  the summaries are AI drafts. **The Mímir guide** (`guide/`: 333 cards, 40 stories) is an AI draft checked by AI
+  against the rows; its Icelandic is an AI translation. Neither has been reviewed by a person.
+
+Nothing automatic is presented as settled: every cell has an origin (`edition`, `published`, `machine`, `ai`,
+`contributor`) and a check state (`aligned-auto`, `aligned-checked`, `unreviewed`, `reviewed`, `disputed`), see
+`docs/DATA_MODEL.md` and the current counts in `docs/STATUS.md`.
 
 ## Layout
 
@@ -66,16 +86,24 @@ Nothing automatic is presented as settled: every cell has a status (`auto`, `dra
 sources/      the base texts as fetched (txt/html) and their parsed JSON — immutable
   on/         Guðni Jónsson: prologus.txt, gylfaginning.txt, skaaldskaparmaal.txt, haattatal.txtl; on_{prol,gylf,skald,hatt}.json
   on/eddukvaedi/  gj_eddukvaedi.json — the 45 poems as fetched from heimskringla.no (page text per poem)
-  is/         Netútgáfan: gylf_is.html; is_gylf.json
-  en/         Brodeur: brodeur_{prologue,gylf,skald}.html; en_{prol,gylf,skald}.json
-  en/bellows/ bellows_poetic_edda.json — Bellows' 35 Wikisource pages (stanzas, prose, notes, introductions)
+  is/         Netútgáfan: gylf_is.html, is_gylf.json; netutgafan/ — the five poems
+  en/         Brodeur: brodeur_{prologue,gylf,skald}.html, en_{prol,gylf,skald}.json; bellows/, thorpe/ (the two poems),
+              anderson/ and thorpe-ws/ (the Wikisource pages behind the versions)
+  versions/   the further versions as placed on the rows: en-anderson/, en-thorpe/, en-modern/
 aligned/      al_{prol,gylf,skald,hatt}.json — Snorri's rows; poetic/al_<poem>.json, index.json, links.json — the poems
-              and Snorri's quotations of them; titles.json — titles per language. GENERATED by edda-site, never hand-edited
-auto/         modernizer.json (learned tables), is_{prol,skald,hatt}_auto.json, en_draft.json (AI draft, as produced),
-              titles_en.json (AI draft English titles)
+              and Snorri's quotations of them; titles.json, sources.json (where each column comes from), texts.json
+              (the versions). GENERATED by edda-site, never hand-edited
+auto/         modernizer.json (learned tables), is_{prol,skald,hatt}_auto.json, en_draft.json and poetic_drafts/
+              (AI drafts, as produced), titles_en.json (AI draft English titles)
 overlays/     human (and labelled AI) changes keyed by row id and cell: overlays/{on,is,en}/*.json
-images/       scenes.json (42 illustration briefs), records.json (verified public-domain images), pd/ (files)
-scripts/      validate.py (checks everything, prints the status table), drafts_to_overlays.py
+reviews/      review-mode marks exported from the site: marks.json and the verdicts on names, mentions, pictures, titles
+entities/     the names index: entities.json, mentions.json, summaries.json, places, img/ (pictures at 480 px)
+guide/        the Mímir guide: cards, sections, stories, ages, relations, misconceptions, tours, pronunciation
+intros/       an introduction per part and a headnote per poem
+paths/        the reading paths of the Start here page
+images/       records.json and pd/ (public-domain illustrations per chapter), scenes.json (briefs); plates/, tiles/,
+              portraits/, mimir/, ravens/, worlds/ — Open Edda's own pictures (images/README.md)
+scripts/      validate.py (checks everything, prints the status table) and small generators
 docs/         DATA_MODEL.md, STATUS.md, ROADMAP.md
 ```
 
@@ -100,7 +128,7 @@ Machine-readable citation: `CITATION.cff`. Please also credit the source edition
 
 ## Licences
 
-- The medieval texts and the two English translations are in the public domain; the rights in Guðni
+- The medieval texts and the four English translations are in the public domain; the rights in Guðni
   Jónsson's normalised editions and in Netútgáfan's text are being confirmed (`LICENSE`, section 1).
 - Everything Open Edda adds (the alignment, the automatic modern spelling, the AI-draft and modern English, the
   names index, the Mímir guide, introductions, review and overlay records, the plates, portraits and map) is

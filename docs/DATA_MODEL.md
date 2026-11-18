@@ -34,6 +34,10 @@ blocks; `<code>_cont` marks "included in the previous row"; overlays address a c
 (`overlays/<code>/…`). A part shows the columns that have text in it. Titles of chapters and poems per
 language are in `aligned/titles.json`, with a status per language (`auto`, `draft`, `reviewed`).
 
+A language can have further versions beside its default: a cell `<lang>-<name>` (`en-anderson`, `en-thorpe`,
+`en-modern`) with the same block shape, listed in `aligned/texts.json` and stored in `sources/versions/`. Overlays
+address a version by the same cell name.
+
 ## Blocks
 
 A block is the smallest text unit: a prose paragraph `{"t": "p", "s": "…"}` or a stanza
@@ -133,7 +137,9 @@ verse block is a one-line verse.
 ## Images
 
 `images/scenes.json` (briefs per chapter) and `images/records.json` (verified public-domain images with
-`part`, `chapter`, `scene_rows`, credit and licence fields) — schema in `images/README.md`.
+`part`, `chapter`, `scene_rows`, credit and licence fields) — schema in `images/README.md`. Open Edda's own
+pictures (`images/plates/`, `tiles/`, `portraits/`, `mimir/`, `ravens/`, `worlds/`) each have an `index.json` with
+credit and licence, and anchors that tie a picture's figures to entity ids.
 
 ## Entities (names)
 

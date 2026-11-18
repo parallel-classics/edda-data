@@ -1,7 +1,7 @@
 # sources/ — the base texts as fetched
 
 Immutable. Nothing in this folder is edited by hand; corrections go to `overlays/`. The medieval texts are in
-the public domain and so are Brodeur's and Bellows' translations; the rights in Guðni Jónsson's normalised
+the public domain and so are the English translations (Brodeur, Bellows, Thorpe, Anderson); the rights in Guðni Jónsson's normalised
 editions and in Netútgáfan's text are not yet confirmed (`LICENSE`, section 1). Fetch date: **2026-10-23**
 for Snorri's Edda, **2026-10-25** for the Poetic Edda.
 
@@ -46,7 +46,7 @@ Block shape (`on_*.json`): `{"title", "chapters": [{"num", "title", "blocks": [.
 - heimskringla.no also carries Norwegian, Danish and Swedish translations of each poem (linked from the
   language table at the top of every page) — a source for future columns once their status is checked.
 
-## is/ — Modern Icelandic (Netútgáfan 1997), Gylfaginning only
+## is/ — Modern Icelandic (Netútgáfan 1996–1997): Gylfaginning and five poems
 
 | File | What | Produced by |
 | --- | --- | --- |
@@ -56,9 +56,9 @@ Block shape (`on_*.json`): `{"title", "chapters": [{"num", "title", "blocks": [.
 - Source: https://netutgafan.snerpa.is/snorri/gylf.htm — "Netútgáfan — júní 1997", modern spelling and
   light modernised morphology (*hefir* → *hefur*).
 - `netutgafan/`: five Eddic poems in modern spelling from the same site (Hávamál, Völuspá, Þrymskviða, Völundarkviða,
-  Helgakviða Hundingsbana II), fetched 2026-11-01; prepared on the rows as `is_nu`, switched on after the notification
-  email (`netutgafan/README.md`).
-- No free modern-spelling text of the other three parts is known; their Icelandic column is automatic
+  Helgakviða Hundingsbana II), fetched 2026-11-01; the Icelandic column of those poems since 2026-11-16 (359 rows,
+  flag `is_netutgafan`; `netutgafan/README.md`). Netútgáfan was notified in November 2026, as its terms ask.
+- No free modern-spelling text of the other three parts or the other poems is known; their Icelandic column is automatic
   (`auto/is_*_auto.json`). If one turns up it replaces the automatic column (see `docs/ROADMAP.md`).
 
 ## en/ — English (Brodeur 1916)
@@ -118,3 +118,27 @@ Block shape (`on_*.json`): `{"title", "chapters": [{"num", "title", "blocks": [.
   closing stanza 83 has no counterpart and is given as a note). `edda-site/pipeline/fill_thorpe.py` writes the rows
   (`en_thorpe: true`, source `thorpe-1866` in `aligned/sources.json`); the earlier AI drafts stay in
   `overlays/en/poetic-ai-draft.json` marked `withdrawn`.
+
+### en/anderson/ and en/thorpe-ws/ — the Wikisource pages behind the versions
+
+| Folder | What | Produced by |
+| --- | --- | --- |
+| `anderson/gylfe-1.html` … `gylfe-17.html` | Rasmus B. Anderson, *The Younger Edda* (1880), "The Fooling of Gylfe", the 17 pages of the proofread English Wikisource transcription | fetched (added 2026-11-07) |
+| `thorpe-ws/<poem>.html` | Benjamin Thorpe, *The Edda of Sæmund the Learned* (1866; the Norrœna Society reprint of 1907), 36 poem pages of the proofread English Wikisource transcription | fetched (added 2026-11-07) |
+
+- Both are in the public domain (Anderson died in 1936, Thorpe in 1870). They are not columns of their own
+  parse: they are placed on the rows as versions, see below.
+
+## versions/ — further versions of a language, as placed on the rows
+
+A language can have more than one text. The default keeps the bare code (`en`); a further version has an id
+`<lang>-<name>` and is a cell of that name in the row. `aligned/texts.json` lists the versions.
+
+| File | Version | What |
+| --- | --- | --- |
+| `en-anderson/gylf.json` | `en-anderson` | Anderson 1880 on 335 rows of Gylfaginning, placed automatically against Brodeur's English (`edda-site/pipeline/import_anderson.py`); his section numbers, headings and footnotes are not kept |
+| `en-thorpe/poems.json` | `en-thorpe` | Thorpe 1866 on 1,464 rows of 33 poems, placed automatically against the rows' English and stanza numbers (`import_thorpe.py`); his notes and headings are not kept. Sólarljóð and Hrafnagaldr Óðins are not here: Thorpe is already their default English |
+| `en-modern/{prol,gylf_1-10,gylf_11-54,skald,poems}.json` | `en-modern` | Open Edda's modernisation of the public-domain English shown in the default column (Brodeur for Snorri; Bellows, Thorpe and two Brodeur stanzas for the poems), 2,890 rows. Written by an AI (Claude) in November 2026, not reviewed; the translators' readings, name spellings and line division are kept, footnote markers dropped. CC BY 4.0. Háttatal and the rows whose English is only an AI draft are not included |
+
+Shape: `{"_note", "text_id", "text": {lang, label, label_is, short}, "source": {…}, "rows": {"<row id>": [blocks]}}`.
+`edda-site/pipeline/fill_versions.py` writes the cells into `aligned/` and regenerates `aligned/texts.json`.

@@ -18,11 +18,12 @@ Not stored: `grimnir.htm` is Jón Helgason's normalised Old Norse edition (in co
 Project Runeberg).
 
 Terms (netutgafan.snerpa.is/netutgaf.htm): private copying free; whoever puts the material on a website or publishes
-it is asked to tell Netútgáfan (netut@snerpa.is). Status 🟡; under the sources policy of
-2026-11-01 the text may be shown, labelled "Netútgáfan 1997 · placed automatically", after the notification email.
+it is asked to tell Netútgáfan (netut@snerpa.is); the notification was sent in November 2026. Under the sources
+policy of 2026-11-01 the text is shown labelled "Netútgáfan 1997 · placed automatically".
 
 Pipeline: `edda-site/pipeline/parse_netutgafan.py <htm> <json>` makes the units; `fill_netutgafan.py` places them
 on Guðni Jónsson's rows by similarity with the automatic Icelandic (`REPORT.md`: the rows without a counterpart and
 the weak pairs, mostly Völundarkviða's different stanza division). Prepared form: row key `is_nu` (+ `is_nu_sim`), not
 read by the page. `fill_netutgafan.py --switch` makes it the column (`is` -> `is_auto`, `is_nu` -> `is`,
-`is_netutgafan: true`); `--unswitch` reverses it (the takedown switch).
+`is_netutgafan: true`); `--unswitch` reverses it (the takedown switch). Switched on 2026-11-16: 359 rows carry
+Netútgáfan's text; the rows listed at the end of `REPORT.md` keep the automatic text.

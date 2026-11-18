@@ -7,6 +7,14 @@ All notable changes to the dataset. Versions are git tags; releases are archived
 Tag `0.1.0`. The repository was made public on this date. Everything below, down to the initial import, is part
 of this release.
 
+- After the tag (2026-11-18): README, `sources/README.md`, `aligned/README.md`, `docs/STATUS.md`, `LICENSE` §1 and
+  the other documents brought up to date with the data (versions, Netútgáfan's poems, names and guide counts);
+  `scripts/validate.py` now reads the row flags `is_netutgafan` and `en_thorpe`, so the status table counts the 359
+  Netútgáfan poem rows as published text, not as automatic spelling.
+- Versions of a language (2026-11-07): `aligned/texts.json`; `en-anderson` (Anderson 1880, Gylfaginning, 335 rows) and
+  `en-thorpe` (Thorpe 1866, 33 poems, 1,464 rows), both from the proofread Wikisource transcriptions and placed
+  automatically; `en-modern` replaces the pilot column `em`.
+
 - Icelandic for Mímir and the Names summaries (2026-11-14): every English string in `guide/` (cards, stories,
   myths, outside, sections, paths, ages, relation notes; 4,876 values) and the 587 summaries in `entities/summaries.json` now has an
   `is` value beside `en`: an AI translation by Claude, a draft, not reviewed by a person. Names are in their modern
@@ -55,7 +63,8 @@ of this release.
 - Icelandic of Hávamál, Völuspá, Þrymskviða, Völundarkviða and Helgakviða Hundingsbana II: Netútgáfan's modern-spelling
   text (`sources/is/netutgafan/`, 🟡 until the notification email) placed on Guðni Jónsson's rows as `is_nu` (prepared,
   not shown; 365 of 369 rows, four keep the automatic text); `fill_netutgafan.py --switch` turns it into the column.
-- Names (curator's answers of 2026-11-01, mailbox 2320): Old Norse headwords set with `names.on` where the label was
+  Switched on 2026-11-16: 359 rows show Netútgáfan's text (`is_netutgafan`), ten keep the automatic text.
+- Names (curator's answers of 2026-11-01): Old Norse headwords set with `names.on` where the label was
   inflected or modern (Þórr, Bölþorn, Niflheimr, Andvaranautr, Garðrofa, Niðafjöll, Svartálfaheimr, Þrúðheimr, Angrboða,
   Glaðsheimr, Gullveig, Hlóra, Náströnd, Ymir, Surtr, Suttungr, Iðavöllr); Ífingr added (river, Vafþrúðnismál 16);
   `thjodolfr-arnorsson` dropped (no mentions); `curated.txt` marked superseded by seed.json. Entities regenerated.

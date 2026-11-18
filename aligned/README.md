@@ -11,9 +11,11 @@ replaces these files wholesale, so anything typed into them is lost.
 | `al_gylf.json` | Gylfaginning | `gylfaginning` | `g` | 54 | 345 |
 | `al_skald.json` | Skáldskaparmál | `skaldskaparmal` | `s` | 89 | 854 |
 | `al_hatt.json` | Háttatal | `hattatal` | `h` | 3 sections | 303 |
-| `poetic/al_<poem>.json` | one per poem of the Poetic Edda (45) | `poetic` | the poem prefix (`vsp`, `hav`, `grm`, …) | 1 per file | 1,966 in all |
+| `poetic/al_<poem>.json` | one per poem of the Poetic Edda (45) | `poetic` | the poem prefix (`vsp`, `hav`, `grm`, …) | 1 per file | 1,952 in all |
 | `poetic/index.json` | poem order, prefixes, titles, groups (`myth`, `heroic`, `other`), row counts | | | | |
 | `poetic/links.json` | Snorri's quotations: `{"row": "g-c4-3", "poem_row": "vsp-s3", "lines": 6}` | | | | 91 links |
+| `sources.json` | where the text of each column comes from: sources (`kind`, label, title), the source per part and cell, and the row flags that override it (`en_draft`, `en_from`, `en_thorpe`, `is_netutgafan`) | | | | |
+| `texts.json` | the further versions of a language (`en-anderson`, `en-thorpe`, `en-modern`): label, source, rows, parts | | | | 3 |
 | `titles.json` | chapter and poem titles per language: `{"g-ch34": {"on", "is", "en", "status": {…}}, "vsp": {…}}` | | | | 196 |
 
 Poem files hold one chapter (the poem) with `title`, `subtitle`, `group`, `notes` (Bellows'), `intro_en`
@@ -77,6 +79,9 @@ where it is Brodeur's translation of the stanza as Snorri quotes it. A speaker l
 | `is_cont`, `en_cont` | true when the cell is empty because the aligner put this block's counterpart into the previous row ("included in the previous row"). |
 | `s_en`, `s_is` | alignment confidence: the mean dynamic-programming bead score for the Old Norse units of this block, or `null` when unaligned. Higher is better; prose rows with `s_en < -0.5` are shown with a "?" on the page. Scores are only comparable within one column. |
 | `en_draft` | present and true when `en` is an AI draft merged by `integrate_drafts.py` (Háttatal, and `s-c72-8`). Such cells have status `draft`, the others `auto`. |
+| `en-anderson`, `en-thorpe`, `en-modern` | a further version of the English, as blocks, where that version has text for the row (`texts.json`; sources in `sources/versions/`). Written by `edda-site/pipeline/fill_versions.py`. |
+| `en_thorpe` (poems) | true when the default `en` is Thorpe's translation (Sólarljóð, Hrafnagaldr Óðins). |
+| `is_netutgafan`, `is_auto` (poems) | `is_netutgafan: true` when `is` is Netútgáfan's text; `is_auto` then keeps the automatic modernisation it replaced. `is_nu` is Netútgáfan's text held on a row that keeps the automatic one. |
 
 Row id = `<prefix>-c<chapter num>-<row index>`; the row index is 1-based within the chapter in file order.
 Ids are derived from position, so **never reorder, insert or delete rows in these files**; the id-stability

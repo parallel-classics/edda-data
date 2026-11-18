@@ -32,7 +32,10 @@ aligned/titles.json   chapter and poem titles per language (on, is, en, …) wit
 auto/                 modernizer.json, is_*_auto.json, en_draft.json (AI draft as produced)
 overlays/{on,is,en}/  {"_note": ..., "records": [ {row, cell, text, status, author, date, reason, replaces} ]}
 images/               scenes.json (briefs), records.json (verified PD images), pd/ (image files), worlds/ (the map of the worlds)
+sources/versions/     further versions of a language (en-anderson, en-thorpe, en-modern); aligned/texts.json lists them
 entities/             the names of the Eddas keyed to Wikidata (entities/README.md); paths/  reading paths of the Start here page
+guide/, intros/       the Mímir guide (cards, stories, tours, pronunciation) and the part introductions and poem headnotes
+reviews/              review-mode marks exported from the site (no account ids)
 scripts/validate.py   structural checks + status table;  scripts/drafts_to_overlays.py  auto/en_draft.json -> overlays/en/
 docs/DATA_MODEL.md    ids, rows, overlays, statuses, how the build applies overlays
 docs/STATUS.md        current status table + known issues;  docs/ROADMAP.md  phases and gates for the data
