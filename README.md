@@ -90,9 +90,9 @@ Standard library only, Python 3.11+. Exits non-zero on any structural error and 
 
 ## How to cite
 
-Releases are tagged (`v0.1.0` is the initial import) and will be archived on Zenodo with a DOI.
+Releases are tagged (`0.1.0`, 2026-11-18, is the first public release) and will be archived on Zenodo with a DOI.
 
-> Sapunov, G. (2026). *Open Edda: a parallel Old Norse – Icelandic – English dataset of Snorri's Edda and the Poetic Edda* (v0.1.0).
+> Sapunov, G. (2026). *Open Edda: a parallel Old Norse – Icelandic – English dataset of Snorri's Edda and the Poetic Edda* (0.1.0).
 > DOI: 10.5281/zenodo.XXXXXXX (placeholder until the first Zenodo release).
 
 Machine-readable citation: `CITATION.cff`. Please also credit the source editions named above
@@ -118,7 +118,8 @@ issue with the `row-problem` template (`.github/ISSUE_TEMPLATE/row-problem.md`).
 
 ## Status summary
 
-As of v0.1.0 everything is automatic or draft: 1,514 rows, 0 reviewed cells. See `docs/STATUS.md`.
+As of 0.1.0: 3,466 rows (Snorri 1,514, poems 1,952). 48 cells have been reviewed by a person, all in
+Gylfaginning; everything else is automatic or draft. See `docs/STATUS.md`.
 
 ## Contact
 

@@ -1,6 +1,6 @@
 # Status
 
-Version 0.1.0, 2026-10-24; tables refreshed 2026-11-01 (task 17). Tables from `python -I scripts/validate.py`
+Version 0.1.0, 2026-11-18 (the first public release); tables refreshed 2026-11-18. Tables from `python -I scripts/validate.py`
 (overlays applied). Two properties per cell: the **origin** of the text (`edition` = Guðni Jónsson's base text,
 `published` = a published human text placed in the row automatically — Brodeur, Bellows, Netútgáfan —, `machine` =
 automatic spelling modernisation, `ai` = AI draft, `contributor` = written through the edit flow) and the **check**
@@ -15,18 +15,24 @@ part            col        edition    published      machine           ai  contr
 Formáli         on              12            0            0            0            0            0       12
 Formáli         is               0            0           12            0            0            0       12
 Formáli         en               0           12            0            0            0            0       12
+Formáli         en-modern             0            0            0           12            0            0       12
 Gylfaginning    on             345            0            0            0            0            0      345
 Gylfaginning    is               0          344            0            0            0            1      345
 Gylfaginning    en               0          340            0            0            0            5      345
+Gylfaginning    en-anderson             0          335            0            0            0           10      345
+Gylfaginning    en-modern             0            0            0          340            0            5      345
 Skáldskaparmál  on             854            0            0            0            0            0      854
 Skáldskaparmál  is               0            0          854            0            0            0      854
 Skáldskaparmál  en               0          843            0            1            0           10      854
+Skáldskaparmál  en-modern             0            0            0          843            0           11      854
 Háttatal        on             303            0            0            0            0            0      303
 Háttatal        is               0            0          303            0            0            0      303
 Háttatal        en               0            0            0          303            0            0      303
 Poetic Edda     on            1952            0            0            0            0            0     1952
 Poetic Edda     is               0            0         1952            0            0            0     1952
-Poetic Edda     en               0         1587            0          359            0            6     1952
+Poetic Edda     en               0         1695            0          251            0            6     1952
+Poetic Edda     en-modern             0            0            0         1695            0          257     1952
+Poetic Edda     en-thorpe             0         1464            0            0            0          488     1952
 
 [check]
 part            col       aligned-auto  aligned-checked       unreviewed         reviewed         disputed            empty    total
@@ -34,18 +40,24 @@ part            col       aligned-auto  aligned-checked       unreviewed        
 Formáli         on                   0                0               12                0                0                0       12
 Formáli         is                   0                0               12                0                0                0       12
 Formáli         en                  12                0                0                0                0                0       12
+Formáli         en-modern                 0                0               12                0                0                0       12
 Gylfaginning    on                   0                0              345                0                0                0      345
-Gylfaginning    is                 344                0                0                0                0                1      345
-Gylfaginning    en                 340                0                0                0                0                5      345
+Gylfaginning    is                 322               22                0                0                0                1      345
+Gylfaginning    en                 316               24                0                0                0                5      345
+Gylfaginning    en-anderson               334                1                0                0                0               10      345
+Gylfaginning    en-modern                 0                0              339                1                0                5      345
 Skáldskaparmál  on                   0                0              854                0                0                0      854
 Skáldskaparmál  is                   0                0              854                0                0                0      854
 Skáldskaparmál  en                 843                0                1                0                0               10      854
+Skáldskaparmál  en-modern                 0                0              843                0                0               11      854
 Háttatal        on                   0                0              303                0                0                0      303
 Háttatal        is                   0                0              303                0                0                0      303
 Háttatal        en                   0                0              303                0                0                0      303
 Poetic Edda     on                   0                0             1952                0                0                0     1952
 Poetic Edda     is                   0                0             1952                0                0                0     1952
-Poetic Edda     en                1587                0              359                0                0                6     1952
+Poetic Edda     en                1695                0              251                0                0                6     1952
+Poetic Edda     en-modern                 0                0             1695                0                0              257     1952
+Poetic Edda     en-thorpe              1464                0                0                0                0              488     1952
 
 [status (old one-word form)]
 part            col      source      auto     draft  reviewed  disputed     empty    total
@@ -53,18 +65,24 @@ part            col      source      auto     draft  reviewed  disputed     empt
 Formáli         on           12         0         0         0         0         0       12
 Formáli         is            0        12         0         0         0         0       12
 Formáli         en            0        12         0         0         0         0       12
+Formáli         en-modern          0         0        12         0         0         0       12
 Gylfaginning    on          345         0         0         0         0         0      345
-Gylfaginning    is            0       344         0         0         0         1      345
-Gylfaginning    en            0       340         0         0         0         5      345
+Gylfaginning    is            0       322         0        22         0         1      345
+Gylfaginning    en            0       316         0        24         0         5      345
+Gylfaginning    en-anderson          0       334         0         1         0        10      345
+Gylfaginning    en-modern          0         0       339         1         0         5      345
 Skáldskaparmál  on          854         0         0         0         0         0      854
 Skáldskaparmál  is            0       854         0         0         0         0      854
 Skáldskaparmál  en            0       843         1         0         0        10      854
+Skáldskaparmál  en-modern          0         0       843         0         0        11      854
 Háttatal        on          303         0         0         0         0         0      303
 Háttatal        is            0       303         0         0         0         0      303
 Háttatal        en            0         0       303         0         0         0      303
 Poetic Edda     on         1952         0         0         0         0         0     1952
 Poetic Edda     is            0      1952         0         0         0         0     1952
-Poetic Edda     en            0      1587       359         0         0         6     1952
+Poetic Edda     en            0      1695       251         0         0         6     1952
+Poetic Edda     en-modern          0         0      1695         0         0       257     1952
+Poetic Edda     en-thorpe          0      1464         0         0         0       488     1952
 ```
 
 Poetic Edda (added 2026-10-25): 45 poems, 1,952 rows (stanzas, prose passages, unnumbered verse); Icelandic
@@ -74,7 +92,7 @@ rest (359 rows: the nine poems Bellows did not translate and the stanzas he left
 `overlays/en/poetic-ai-draft.json`, 135 lines marked [?]). The 6 empty cells are stanzas whose English sits in the
 previous row. 91 links from Snorri's rows. Titles: 196 in Old Norse, automatic Icelandic and AI-draft English.
 
-3,480 rows (Snorri 1,514, Poetic Edda 1,966); 0 reviewed cells; 2 overlay files (304 AI draft records); 73 image records (40 depictions, 38 placed; 33 documentary: 2 manuscripts, 18 monuments, 13 places), 71 placed in all (`placed: false` on `s-c3` and `s-c46`, whose pictures turned out not to show the scene; `p-c5` Sigtún and `g-c54` Gangleri alone have no public-domain depiction at all). Generation briefs for those four slots and eight optional ones: `images/generation-briefs.md`. All 40 records carry `checked_by: claude (Commons API metadata check, 2026-10-24); human verification pending` — the licence basis was read from the Wikimedia Commons file pages, not yet confirmed by a person against the institution records.
+3,466 rows (Snorri 1,514, Poetic Edda 1,952); 48 reviewed cells, all in Gylfaginning; 6 overlay files (603 overlay cells); 73 image records (40 depictions, 38 placed; 33 documentary: 2 manuscripts, 18 monuments, 13 places), 71 placed in all (`placed: false` on `s-c3` and `s-c46`, whose pictures turned out not to show the scene; `p-c5` Sigtún and `g-c54` Gangleri alone have no public-domain depiction at all). Generation briefs for those four slots and eight optional ones: `images/generation-briefs.md`. All 40 records carry `checked_by: claude (Commons API metadata check, 2026-10-24); human verification pending` — the licence basis was read from the Wikimedia Commons file pages, not yet confirmed by a person against the institution records.
 
 What the columns contain: Formáli, Skáldskaparmál and Háttatal Icelandic are automatic modernised spelling
 (about 94% of tokens right); Gylfaginning Icelandic is Netútgáfan's text, automatically aligned; English is

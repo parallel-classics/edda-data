@@ -69,7 +69,7 @@ python -I scripts/drafts_to_overlays.py        # regenerate overlays/en/*-ai-dra
   `images/pd/` if hosted here, `license_basis` and `checked_by` filled, validator OK.
 - Re-importing aligned rows (maintainers only): comes from `edda-site` as a pull request; row ids must be
   unchanged or suffixed; `CHANGELOG.md` updated.
-- A release: `CHANGELOG.md`, `CITATION.cff` version and date, `docs/STATUS.md` table refreshed, tag `vX.Y.Z`.
+- A release: `CHANGELOG.md`, `CITATION.cff` version and date, `docs/STATUS.md` table refreshed, tag `X.Y.Z`.
 
 ## Where to read more
 
