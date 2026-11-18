@@ -5,7 +5,7 @@ phase is over. Phases 2, 3 and 4 run side by side. Site and edit-service work is
 
 | Phase | What changes in edda-data | Gate |
 | --- | --- | --- |
-| 0 Foundation (2 weeks) | Repository public; `LICENSE`, `CITATION.cff`, `CONTRIBUTING.md` (IS + EN); validator in CI on every PR; issue template for row problems; tag `v0.1.0`; Zenodo archive and DOI; `README.md` cites it | v0.1 tagged with DOI; site live |
+| 0 Foundation (2 weeks) | Repository public; `LICENSE`, `CITATION.cff`, `CONTRIBUTING.md` (IS + EN); validator in CI on every PR; issue template for row problems; tag `0.1.0`; Zenodo archive and DOI; `README.md` cites it | v0.1 tagged with DOI; site live |
 | 1 Edit service (4 weeks) | First bot pull requests from the edit service (one PR per day per language, reviewer named in the commit); overlay files for Formáli from dogfooding (12 rows); the Háttatal AI draft published as *draft — AI* (already in `overlays/en/`); CI validates status transitions | 3 reviewers active; 100 edits merged through the bot |
 | 2 Icelandic outreach (12 weeks) | Icelandic overlays arrive for Formáli, then Skáldskaparmál; monthly moderniser retraining from accepted fixes, `auto/` and `aligned/` regenerated, accuracy reported in `docs/STATUS.md`; a tagged release per month | Formáli 100% reviewed; Skáldskaparmál Icelandic 50% reviewed |
 | 3 Images (11 weeks) | `images/records.json`: the 40 Commons records verified by a person against institution records; documentary images (manuscript pages, monuments, places; PD / CC0 / CC BY / CC BY-SA, see `images/README.md`) added within the density rule; community-track schema added when the track opens | 30 slots with a verified depiction; documentary strip on every part |

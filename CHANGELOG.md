@@ -2,7 +2,10 @@
 
 All notable changes to the dataset. Versions are git tags; releases are archived on Zenodo.
 
-## Unreleased
+## 0.1.0 — 2026-11-18 — first public release
+
+Tag `0.1.0`. The repository was made public on this date. Everything below, down to the initial import, is part
+of this release.
 
 - Icelandic for Mímir and the Names summaries (2026-11-14): every English string in `guide/` (cards, stories,
   myths, outside, sections, paths, ages, relation notes; 4,876 values) and the 587 summaries in `entities/summaries.json` now has an
@@ -95,7 +98,7 @@ All notable changes to the dataset. Versions are git tags; releases are archived
   as public domain; their status is being confirmed (`LICENSE` §1).
 - Validator: poem files, links, titles, any language column.
 
-## 0.1.0 — 2026-10-24 — initial import
+## Initial import — 2026-10-24 (before the first tag)
 
 - Sources fetched 2026-10-23: Guðni Jónsson 1954 Old Norse (heimskringla.no via the CLTK mirror), Netútgáfan
   1997 Gylfaginning, Brodeur 1916 (sacred-texts transcription, scan errors fixed by hand, *œ* restored).
