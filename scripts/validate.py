@@ -139,6 +139,8 @@ def check_aligned():
                     rows[rid] = {c2: bool(r.get(c2)) for c2 in LANG_CODES}
                     rows[rid]["en_draft"] = bool(r.get("en_draft"))
                     rows[rid]["en_from"] = bool(r.get("en_from"))
+                    rows[rid]["en_thorpe"] = bool(r.get("en_thorpe"))
+                    rows[rid]["is_netutgafan"] = bool(r.get("is_netutgafan"))
                     rows[rid]["poem"] = True
         chapters["poetic"] = {p["prefix"] for p in idx["poems"]}
     return rows, chapters

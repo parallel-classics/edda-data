@@ -23,7 +23,7 @@ Everything here is status `auto` (automatic identification, not reviewed) until 
 | `report.md` | `make_entities.py detect` | numbers, `check` counts, derived forms, the gap list for the curator, rejected images, cards |
 | `summaries.json` | AI drafts (Claude, 2026-11-07), corrected by hand | one or two short paragraphs per entity: who or what, the part in the Eddas (where), key relations; shown in the Names entry as "AI draft · not reviewed" until reviewed (below) |
 
-Generated files are regenerated, never edited (COORDINATION rule 5: rerun, do not merge).
+Generated files are regenerated, never edited (rerun the generator; do not merge by hand).
 
 ## Entity record (`entities.json`)
 

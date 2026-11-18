@@ -26,10 +26,11 @@ phase is over. Phases 2, 3 and 4 run side by side. Site and edit-service work is
 
 - Rights in Guðni Jónsson's normalised editions (and Netútgáfan's text): permission from heimskringla.no, or a
   re-based Old Norse column (19th-century editions, or our own normalisation from handrit.is transcriptions).
-  This blocks calling the dataset public domain, and should be settled before the DOI release.
+  This blocks calling the dataset public domain, and should be settled before the DOI release. State on
+  2026-11-18: heimskringla.no asked, no answer yet; Netútgáfan notified.
 - Whether the Poetic Edda becomes its own dataset repository or stays here (current: here, same model).
 
-- Licence for contributions: CC BY 4.0 (current) or CC0.
+- Licence for contributions: decided 2026-11-16, CC BY 4.0 (`LICENSE` §2).
 - Whether a free modern-spelling Skáldskaparmál exists anywhere (it would replace the automatic column).
 - How to treat Brodeur's bracketed "spurious" passages in a new translation.
 - Whether to add the Uppsala Edda as a fourth text after v1.0.
