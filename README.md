@@ -12,7 +12,7 @@ where Snorri quotes a poem are linked both ways.
 This repository is the thing to cite: the sources as fetched, the aligned rows, the human corrections
 (overlays), further English versions, the names index, the Mímir guide, the pictures and the licences. It
 contains no code beyond a validator. The pipeline that
-produces the aligned rows and the website live in the sibling repository **edda-site**.
+produces the aligned rows and the website live in a second repository, edda-site, which is not public yet.
 
 ## Sources and provenance
 
@@ -118,10 +118,11 @@ Standard library only, Python 3.11+. Exits non-zero on any structural error and 
 
 ## How to cite
 
-Releases are tagged (`0.1.0`, 2026-11-18, is the first public release) and will be archived on Zenodo with a DOI.
+Releases are tagged (`0.1.0`, 2026-11-18, is the first public release). A DOI will follow; until then cite the
+version tag and the repository address.
 
 > Sapunov, G. (2026). *Open Edda: a parallel Old Norse – Icelandic – English dataset of Snorri's Edda and the Poetic Edda* (0.1.0).
-> DOI: 10.5281/zenodo.XXXXXXX (placeholder until the first Zenodo release).
+> https://github.com/parallel-classics/edda-data
 
 Machine-readable citation: `CITATION.cff`. Please also credit the source editions named above
 (heimskringla.no asks to be credited for the Guðni Jónsson text).
@@ -139,10 +140,13 @@ Machine-readable citation: `CITATION.cff`. Please also credit the source edition
 
 ## How to contribute
 
-The intended route is the website's editor (click a cell, fix it, give a reason), which turns accepted edits
-into pull requests here. Until the editor exists, open a pull request that adds overlay records, or open an
-issue with the `row-problem` template (`.github/ISSUE_TEMPLATE/row-problem.md`). Rules, roles and statuses:
-`CONTRIBUTING.md`.
+The main route is the website: sign in on [openedda.is](https://openedda.is/help/), switch on Suggest, click a
+cell, fix it and give a reason. Reviewers look at each suggestion, and the accepted ones come into this
+repository as overlay records with the next release of the data. No git is needed.
+
+If you prefer git: open a pull request that adds overlay records, or open an issue with the `row-problem`
+template (`.github/ISSUE_TEMPLATE/row-problem.md`). Rules, roles and statuses, and what must never be committed
+to this public repository: `CONTRIBUTING.md`.
 
 ## Status summary
 

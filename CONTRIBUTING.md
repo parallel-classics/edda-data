@@ -12,13 +12,13 @@ reason. This keeps reviews small and conflicts rare.
 
 ## Two routes
 
-**On the page (everyone).** Click a cell, change the text, add a reason, submit. Sign-in is an email magic
-link or a Google/GitHub login. Your edit becomes a *draft* overlay, visible to you and to reviewers, until a
-reviewer accepts it. You see a list of your edits and their status. (The editor is being built; until it
-exists, use the issue template `row-problem` or the pull-request route below.)
+**On the page (everyone).** Sign in on [openedda.is](https://openedda.is/help/), switch on Suggest, click a
+cell, change the text, add a reason, submit. Your suggestion is visible to you and to reviewers until a reviewer
+accepts it; accepted ones come into this repository as overlay records with the next release of the data.
 
 **Pull requests (power users and maintainers).** Add overlay records to `overlays/<cell>/<file>.json`
-(schema in `overlays/README.md`), run `python -I scripts/validate.py`, open a PR. CI runs the same validator.
+(schema in `overlays/README.md`), run `python -I scripts/validate.py` and `python -I scripts/check_public.py`,
+open a PR. CI runs both.
 Issues are for anything bigger than a row: a chapter whose alignment is systematically off, a term to render
 consistently, a policy question.
 
@@ -60,10 +60,39 @@ cell; overlays are applied on top of the generated rows.
 Every accepted edit is attributed on the row and on the contributors page; each data release lists everyone.
 Contributions are licensed CC BY 4.0 (see `LICENSE`); by contributing you agree to that.
 
+## This repository is public: what never goes in
+
+A public commit cannot be taken back; it is copied and indexed within minutes. So the check happens before the
+commit.
+
+- **Secrets:** API keys, tokens, service-account files, `.env` files, private keys.
+- **Personal data:** email addresses, account ids, raw exports of suggestions, reviews or analytics, private
+  messages. A contributor appears only under the name they chose to show. The maintainer's address is in
+  `CITATION.cff` and nowhere else.
+- **Private notes:** planning, correspondence, draft messages, names and addresses of people being contacted.
+- **Traces of a computer:** paths inside somebody's user folder or home directory, links to repositories that are
+  not public.
+- **Content that is not cleared:** a text or picture without its source and licence record
+  (`sources/README.md`, `images/README.md`).
+
+How it is kept:
+
+- `python -I scripts/check_public.py` checks the tree; `--staged` what a commit would record; `--range A..B` the
+  commits about to be pushed. Run `python -I scripts/check_public.py --install-hooks` once in your clone and git
+  runs it before every commit and push (`.githooks/`). CI runs the same check, with gitleaks, on every push and
+  pull request.
+- Work on a branch and open a pull request. No direct pushes to `main`, no forced pushes.
+- A new top-level file or folder, or a file type the repository has not held before, fails the check on purpose:
+  the maintainer decides, and the allowlist in the script is changed in the same pull request.
+- A false positive gets a narrow entry in the script's `ALLOW` table with the reason. Never weaken a pattern to
+  make a check pass.
+- If something private does get in: revoke or rotate the secret first, then tell the maintainer at once
+  (rights@openedda.is). Do not rewrite history on your own.
+
 ## Checklist for a pull request
 
 1. Records added, none changed or deleted (supersede with a new record and `replaces`).
-2. `python -I scripts/validate.py` prints `OK`.
+2. `python -I scripts/validate.py` prints `OK` and `python -I scripts/check_public.py` prints `OK`.
 3. Status is `draft` unless you are a reviewer for that language.
 4. The reason field says what was wrong in a few words.
 
@@ -87,8 +116,7 @@ Hver lína hefur fast auðkenni (`g-c35-5` = Gylfaginning, 35. kafli, 5. lína) 
 
 **Á síðunni (allir).** Smelltu á reit, breyttu textanum, skrifaðu ástæðu, sendu inn. Innskráning er með
 tölvupósti (töfratengli) eða Google/GitHub. Breytingin verður *drög* sem þú og yfirlesarar sjá þar til
-yfirlesari samþykkir hana. (Ritillinn er í smíðum; þangað til má nota „row-problem“ sniðmátið fyrir mál
-eða senda pull request.)
+yfirlesari samþykkir hana.
 
 **Pull request (vanir notendur).** Bættu færslum við `overlays/<reitur>/<skrá>.json`, keyrðu
 `python -I scripts/validate.py` og opnaðu pull request.

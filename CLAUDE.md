@@ -19,8 +19,14 @@ The pipeline and the website are in the sibling repository `edda-site` (expected
    (`s-c11-4a`); the old id keeps resolving. Never renumber.
 5. Do not add dependencies. Scripts are Python 3.11+ standard library, run with `python -I`.
 6. Run `python -I scripts/validate.py` before you finish; it must print `OK` and exit 0.
-7. Never put partner names, emails or private notes here. This repository is public. The maintainer's email
+7. This repository is public, and a public commit cannot be taken back. Never put secrets, personal data
+   (emails, account ids, raw exports), private notes or correspondence, partner names, paths of a personal
+   computer or links to non-public repositories here; the list is in `CONTRIBUTING.md`. The maintainer's email
    appears only in `CITATION.cff`.
+8. Run `python -I scripts/check_public.py` before you commit; it must print `OK`. Work on a branch and open a
+   pull request: no direct push to `main`, no forced push, no `--no-verify`. Before pushing, show the maintainer
+   the list of changed files and the scan result. A new top-level file or folder, or a new file type, needs the
+   maintainer's explicit yes. Never weaken the check to make it pass.
 
 ## Map
 
@@ -36,6 +42,7 @@ sources/versions/     further versions of a language (en-anderson, en-thorpe, en
 entities/             the names of the Eddas keyed to Wikidata (entities/README.md); paths/  reading paths of the Start here page
 guide/, intros/       the Mímir guide (cards, stories, tours, pronunciation) and the part introductions and poem headnotes
 reviews/              review-mode marks exported from the site (no account ids)
+scripts/check_public.py  nothing private in a public repository (hooks in .githooks/, CI in .github/workflows/)
 scripts/validate.py   structural checks + status table;  scripts/drafts_to_overlays.py  auto/en_draft.json -> overlays/en/
 docs/DATA_MODEL.md    ids, rows, overlays, statuses, how the build applies overlays
 docs/STATUS.md        current status table + known issues;  docs/ROADMAP.md  phases and gates for the data
@@ -60,6 +67,7 @@ docs/STATUS.md        current status table + known issues;  docs/ROADMAP.md  pha
 
 ```
 python -I scripts/validate.py                  # all checks + status table; exit 1 on errors
+python -I scripts/check_public.py              # nothing private; --staged, --range A..B, --history, --install-hooks
 python -I scripts/drafts_to_overlays.py        # regenerate overlays/en/*-ai-draft.json from auto/en_draft.json
 ```
 
