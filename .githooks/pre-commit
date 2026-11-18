@@ -1,0 +1,8 @@
+#!/bin/sh
+# Runs before every commit: nothing private goes into this public repository.
+# Enable once per clone: python -I scripts/check_public.py --install-hooks
+for py in python3.11 python3 python; do
+  if command -v "$py" >/dev/null 2>&1; then exec "$py" -I scripts/check_public.py --staged; fi
+done
+echo "pre-commit: no Python found; cannot run scripts/check_public.py" >&2
+exit 1

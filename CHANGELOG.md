@@ -1,12 +1,16 @@
 # Changelog
 
-All notable changes to the dataset. Versions are git tags; releases are archived on Zenodo.
+All notable changes to the dataset. Versions are git tags; a Zenodo archive and DOI will follow.
 
 ## 0.1.0 — 2026-11-18 — first public release
 
 Tag `0.1.0`. The repository was made public on this date. Everything below, down to the initial import, is part
 of this release.
 
+- After the tag (2026-11-18): a check against private material in a public repository (`scripts/check_public.py`,
+  git hooks in `.githooks/`, a CI run on every push and pull request; rules in `CONTRIBUTING.md`). README: the
+  contributing section now describes Suggest on openedda.is as the main route; the placeholder DOI is gone until a
+  real one exists.
 - After the tag (2026-11-18): README, `sources/README.md`, `aligned/README.md`, `docs/STATUS.md`, `LICENSE` §1 and
   the other documents brought up to date with the data (versions, Netútgáfan's poems, names and guide counts);
   `scripts/validate.py` now reads the row flags `is_netutgafan` and `en_thorpe`, so the status table counts the 359
