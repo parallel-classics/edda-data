@@ -18,7 +18,7 @@ Not stored: `grimnir.htm` is Jón Helgason's normalised Old Norse edition (in co
 Project Runeberg).
 
 Terms (netutgafan.snerpa.is/netutgaf.htm): private copying free; whoever puts the material on a website or publishes
-it is asked to tell Netútgáfan (netut@snerpa.is). Status 🟡 (edda-internal/SOURCES.md); under the sources policy of
+it is asked to tell Netútgáfan (netut@snerpa.is). Status 🟡; under the sources policy of
 2026-11-01 the text may be shown, labelled "Netútgáfan 1997 · placed automatically", after the notification email.
 
 Pipeline: `edda-site/pipeline/parse_netutgafan.py <htm> <json>` makes the units; `fill_netutgafan.py` places them

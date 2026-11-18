@@ -4,9 +4,6 @@ Purpose: this repository is the citable dataset of Open Edda — the source text
 the human corrections (overlays) and the image records. It holds data and one validator, no pipeline.
 The pipeline and the website are in the sibling repository `edda-site` (expected at `../edda-site`).
 
-Read `edda-internal/COORDINATION.md` first (branches, PRs, reviews, worklog) when you have access to that private
-repository.
-
 ## Hard rules
 
 1. `sources/` and `aligned/` are immutable from your side. Never edit them by hand. `aligned/*.json` is
@@ -22,8 +19,8 @@ repository.
    (`s-c11-4a`); the old id keeps resolving. Never renumber.
 5. Do not add dependencies. Scripts are Python 3.11+ standard library, run with `python -I`.
 6. Run `python -I scripts/validate.py` before you finish; it must print `OK` and exit 0.
-7. Never put partner names, emails or private notes here. This repository is public; private planning lives
-   in `edda-internal`. The maintainer's email appears only in `CITATION.cff`.
+7. Never put partner names, emails or private notes here. This repository is public. The maintainer's email
+   appears only in `CITATION.cff`.
 
 ## Map
 
@@ -77,4 +74,3 @@ python -I scripts/drafts_to_overlays.py        # regenerate overlays/en/*-ai-dra
 ## Where to read more
 
 `docs/DATA_MODEL.md` first, then `sources/README.md`, `overlays/README.md`, `images/README.md`.
-The full project plan is in the private `edda-internal` repository.
