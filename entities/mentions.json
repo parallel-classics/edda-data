@@ -5310,6 +5310,14 @@
    "status": "auto"
   },
   {
+   "entity": "buri",
+   "row": "g-c6-4",
+   "lang": "on",
+   "form": "Búri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "borr",
    "row": "g-c6-4",
    "lang": "on",
@@ -5362,6 +5370,14 @@
    "row": "g-c6-4",
    "lang": "is",
    "form": "Hár",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "buri",
+   "row": "g-c6-4",
+   "lang": "is",
+   "form": "Búri",
    "kind": "name",
    "status": "auto"
   },
@@ -5422,6 +5438,14 @@
    "status": "auto"
   },
   {
+   "entity": "buri",
+   "row": "g-c6-4",
+   "lang": "en",
+   "form": "Búri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "borr",
    "row": "g-c6-4",
    "lang": "en",
@@ -5466,6 +5490,14 @@
    "row": "g-c6-4",
    "lang": "en",
    "form": "Odin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "buri",
+   "row": "g-c6-4",
+   "lang": "en-anderson",
+   "form": "Bure",
    "kind": "name",
    "status": "auto"
   },
@@ -5530,6 +5562,14 @@
    "row": "g-c6-4",
    "lang": "en-modern",
    "form": "Hárr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "buri",
+   "row": "g-c6-4",
+   "lang": "en-modern",
+   "form": "Búri",
    "kind": "name",
    "status": "auto"
   },
@@ -50024,10 +50064,26 @@
    "status": "auto"
   },
   {
+   "entity": "buri",
+   "row": "s-c9-51",
+   "lang": "on",
+   "form": "Búra",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "borr",
    "row": "s-c9-51",
    "lang": "is",
    "form": "Bors",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "buri",
+   "row": "s-c9-51",
+   "lang": "is",
+   "form": "Búra",
    "kind": "name",
    "status": "auto"
   },
@@ -50040,10 +50096,26 @@
    "status": "auto"
   },
   {
+   "entity": "buri",
+   "row": "s-c9-51",
+   "lang": "en",
+   "form": "Búri's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "borr",
    "row": "s-c9-51",
    "lang": "en-modern",
    "form": "Borr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "buri",
+   "row": "s-c9-51",
+   "lang": "en-modern",
+   "form": "Búri's",
    "kind": "name",
    "status": "auto"
   },
