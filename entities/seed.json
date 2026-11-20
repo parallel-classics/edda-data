@@ -6380,6 +6380,36 @@
    }
   },
   {
+   "id": "buri",
+   "type": "god",
+   "tags": [
+    "god"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Búri",
+    "is": "Búri",
+    "en": "Buri"
+   },
+   "desc": {
+    "en": "the first of the gods, licked out of the ice by the cow Auðumla; father of Borr"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {},
+   "forms": {
+    "Búri": 1,
+    "Búra": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added 2026-11-20: missing from the seed (Gylfaginning 6, Skáldskaparmál 9); asked for in review mode. Not the dwarf Buri of Völuspá 13 (no accent), which the forms leave out"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
    "id": "sigyn",
    "type": "goddess",
    "wikidata": "Q734508",
@@ -16280,11 +16310,14 @@
     "dewiki": "Vé"
    },
    "forms": {
-    "Véa": 1
+    "Véa": 1,
+    "Vé": 1
    },
    "heiti": {},
    "status": "auto",
-   "notes": [],
+   "notes": [
+    "2026-11-20: the form Vé added (Gylfaginning 6); rules.json limits it to Gylfaginning, as for Vili (vé is also the common word, \"sanctuary\")"
+   ],
    "mentions": 1,
    "first": {
     "poetic": "ls-s26"

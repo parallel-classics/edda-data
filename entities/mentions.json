@@ -5310,6 +5310,14 @@
    "status": "auto"
   },
   {
+   "entity": "buri",
+   "row": "g-c6-4",
+   "lang": "on",
+   "form": "Búri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "borr",
    "row": "g-c6-4",
    "lang": "on",
@@ -5350,6 +5358,14 @@
    "status": "auto"
   },
   {
+   "entity": "ve",
+   "row": "g-c6-4",
+   "lang": "on",
+   "form": "Vé",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c6-4",
    "lang": "on",
@@ -5362,6 +5378,14 @@
    "row": "g-c6-4",
    "lang": "is",
    "form": "Hár",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "buri",
+   "row": "g-c6-4",
+   "lang": "is",
+   "form": "Búri",
    "kind": "name",
    "status": "auto"
   },
@@ -5406,6 +5430,14 @@
    "status": "auto"
   },
   {
+   "entity": "ve",
+   "row": "g-c6-4",
+   "lang": "is",
+   "form": "Vé",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c6-4",
    "lang": "is",
@@ -5418,6 +5450,14 @@
    "row": "g-c6-4",
    "lang": "en",
    "form": "Hárr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "buri",
+   "row": "g-c6-4",
+   "lang": "en",
+   "form": "Búri",
    "kind": "name",
    "status": "auto"
   },
@@ -5462,10 +5502,26 @@
    "status": "auto"
   },
   {
+   "entity": "ve",
+   "row": "g-c6-4",
+   "lang": "en",
+   "form": "Vé",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c6-4",
    "lang": "en",
    "form": "Odin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "buri",
+   "row": "g-c6-4",
+   "lang": "en-anderson",
+   "form": "Bure",
    "kind": "name",
    "status": "auto"
   },
@@ -5518,6 +5574,14 @@
    "status": "auto"
   },
   {
+   "entity": "ve",
+   "row": "g-c6-4",
+   "lang": "en-anderson",
+   "form": "Ve",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c6-4",
    "lang": "en-anderson",
@@ -5530,6 +5594,14 @@
    "row": "g-c6-4",
    "lang": "en-modern",
    "form": "Hárr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "buri",
+   "row": "g-c6-4",
+   "lang": "en-modern",
+   "form": "Búri",
    "kind": "name",
    "status": "auto"
   },
@@ -5570,6 +5642,14 @@
    "row": "g-c6-4",
    "lang": "en-modern",
    "form": "Vili",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ve",
+   "row": "g-c6-4",
+   "lang": "en-modern",
+   "form": "Vé",
    "kind": "name",
    "status": "auto"
   },
@@ -40374,6 +40454,14 @@
    "status": "auto"
   },
   {
+   "entity": "tyr",
+   "row": "g-c51-5",
+   "lang": "is",
+   "form": "Tý",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "g-c51-5",
    "lang": "is",
@@ -48083,6 +48171,30 @@
    "entity": "tyr",
    "row": "s-c7-8",
    "lang": "is",
+   "form": "Tý",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "tyr",
+   "row": "s-c7-8",
+   "lang": "is",
+   "form": "Tý",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "tyr",
+   "row": "s-c7-8",
+   "lang": "is",
+   "form": "Tý",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "tyr",
+   "row": "s-c7-8",
+   "lang": "is",
    "form": "Týr",
    "kind": "name",
    "status": "auto"
@@ -48092,6 +48204,14 @@
    "row": "s-c7-8",
    "lang": "is",
    "form": "Óðins",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "tyr",
+   "row": "s-c7-8",
+   "lang": "is",
+   "form": "Tý",
    "kind": "name",
    "status": "auto"
   },
@@ -50024,10 +50144,26 @@
    "status": "auto"
   },
   {
+   "entity": "buri",
+   "row": "s-c9-51",
+   "lang": "on",
+   "form": "Búra",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "borr",
    "row": "s-c9-51",
    "lang": "is",
    "form": "Bors",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "buri",
+   "row": "s-c9-51",
+   "lang": "is",
+   "form": "Búra",
    "kind": "name",
    "status": "auto"
   },
@@ -50040,10 +50176,26 @@
    "status": "auto"
   },
   {
+   "entity": "buri",
+   "row": "s-c9-51",
+   "lang": "en",
+   "form": "Búri's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "borr",
    "row": "s-c9-51",
    "lang": "en-modern",
    "form": "Borr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "buri",
+   "row": "s-c9-51",
+   "lang": "en-modern",
+   "form": "Búri's",
    "kind": "name",
    "status": "auto"
   },
@@ -54982,6 +55134,14 @@
    "row": "s-c16-1",
    "lang": "on",
    "form": "Óðins",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "tyr",
+   "row": "s-c16-1",
+   "lang": "is",
+   "form": "Tý",
    "kind": "name",
    "status": "auto"
   },
@@ -100166,6 +100326,14 @@
    "status": "auto"
   },
   {
+   "entity": "odr",
+   "row": "vsp-s25",
+   "lang": "en-thorpe",
+   "form": "Od's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "vsp-s26",
    "lang": "on",
@@ -122606,6 +122774,14 @@
    "status": "auto"
   },
   {
+   "entity": "tyr",
+   "row": "hym-s4",
+   "lang": "en-thorpe",
+   "form": "Ty",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "hym-s4",
    "lang": "en-thorpe",
@@ -123590,6 +123766,14 @@
    "row": "hym-s33",
    "lang": "en-modern",
    "form": "Tyr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "tyr",
+   "row": "hym-s33",
+   "lang": "en-thorpe",
+   "form": "Ty",
    "kind": "name",
    "status": "auto"
   },
@@ -124950,6 +125134,14 @@
    "row": "ls-p1",
    "lang": "en-thorpe",
    "form": "Idun",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "tyr",
+   "row": "ls-p1",
+   "lang": "en-thorpe",
+   "form": "Ty",
    "kind": "name",
    "status": "auto"
   },
@@ -126954,6 +127146,14 @@
    "status": "auto"
   },
   {
+   "entity": "ve",
+   "row": "ls-s26",
+   "lang": "en",
+   "form": "Ve",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "ls-s26",
    "lang": "en",
@@ -126994,6 +127194,14 @@
    "status": "auto"
   },
   {
+   "entity": "ve",
+   "row": "ls-s26",
+   "lang": "en-modern",
+   "form": "Ve",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "ls-s26",
    "lang": "en-modern",
@@ -127014,6 +127222,14 @@
    "row": "ls-s26",
    "lang": "en-thorpe",
    "form": "Frigg",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ve",
+   "row": "ls-s26",
+   "lang": "en-thorpe",
+   "form": "Ve",
    "kind": "name",
    "status": "auto"
   },
@@ -127906,6 +128122,14 @@
    "status": "auto"
   },
   {
+   "entity": "tyr",
+   "row": "ls-s37",
+   "lang": "en-thorpe",
+   "form": "Ty",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "freyr",
    "row": "ls-s37",
    "lang": "en-thorpe",
@@ -127987,6 +128211,14 @@
   },
   {
    "entity": "tyr",
+   "row": "ls-s38",
+   "lang": "en-thorpe",
+   "form": "Ty",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "tyr",
    "row": "ls-s39",
    "lang": "on",
    "form": "Týr",
@@ -128014,6 +128246,14 @@
    "row": "ls-s39",
    "lang": "en-modern",
    "form": "Tyr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "tyr",
+   "row": "ls-s39",
+   "lang": "en-thorpe",
+   "form": "Ty",
    "kind": "name",
    "status": "auto"
   },
@@ -128086,6 +128326,14 @@
    "row": "ls-s40",
    "lang": "en-thorpe",
    "form": "Loki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "tyr",
+   "row": "ls-s40",
+   "lang": "en-thorpe",
+   "form": "Ty",
    "kind": "name",
    "status": "auto"
   },
@@ -175208,6 +175456,14 @@
    "row": "sd-s6",
    "lang": "is",
    "form": "Sigrúnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "tyr",
+   "row": "sd-s6",
+   "lang": "is",
+   "form": "Tý",
    "kind": "name",
    "status": "auto"
   },

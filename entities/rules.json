@@ -724,6 +724,10 @@
    "Vilja": {
     "ls": "vili",
     "*": "skip"
+   },
+   "Vé": {
+    "g": "ve",
+    "*": "skip"
    }
   },
   "entities": {
