@@ -6392,7 +6392,7 @@
     "en": "Buri"
    },
    "desc": {
-    "en": "the first of the gods, licked out of the ice by the cow Auðumla; father of Borr"
+    "en": "forefather of the gods, licked out of the ice by the cow Auðumla; father of Borr"
    },
    "image": [],
    "coords": [],
@@ -6404,7 +6404,8 @@
    "heiti": {},
    "status": "curated",
    "notes": [
-    "added 2026-11-20: missing from the seed (Gylfaginning 6, Skáldskaparmál 9); asked for in review mode. Not the dwarf Buri of Völuspá 13 (no accent), which the forms leave out"
+    "added 2026-11-20: missing from the seed (Gylfaginning 6, Skáldskaparmál 9); asked for in review mode. Not the dwarf Buri of Völuspá 13 (no accent), which the forms leave out",
+    "2026-11-20: Snorri does not call him a god; described as the forefather of the gods"
    ],
    "mentions": 0,
    "first": {}
@@ -16298,7 +16299,7 @@
     "ru": "Ве"
    },
    "desc": {
-    "en": "Norse deity"
+    "en": "son of Borr and Bestla, brother of Óðinn and Vili"
    },
    "image": [
     "Odin and his brothers create the world.jpg"
