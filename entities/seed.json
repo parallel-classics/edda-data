@@ -16310,11 +16310,14 @@
     "dewiki": "Vé"
    },
    "forms": {
-    "Véa": 1
+    "Véa": 1,
+    "Vé": 1
    },
    "heiti": {},
    "status": "auto",
-   "notes": [],
+   "notes": [
+    "2026-11-20: the form Vé added (Gylfaginning 6); rules.json limits it to Gylfaginning, as for Vili (vé is also the common word, \"sanctuary\")"
+   ],
    "mentions": 1,
    "first": {
     "poetic": "ls-s26"

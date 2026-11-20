@@ -2976,6 +2976,7 @@
     ],
     "is": [
      "Týr",
+     "Tý",
      "Týs"
     ],
     "en": [
@@ -28626,6 +28627,69 @@
    "notes": []
   },
   {
+   "id": "ve",
+   "tags": [
+    "god"
+   ],
+   "type": "god",
+   "wikidata": "Q609434",
+   "names": {
+    "on": "Vé",
+    "de": "Vé",
+    "is": "Vé",
+    "sv": "Ve",
+    "en": "Vé",
+    "da": "Ve",
+    "nb": "Ve",
+    "ru": "Ве"
+   },
+   "desc": {
+    "en": "Norse deity"
+   },
+   "image": "Odin and his brothers create the world.jpg",
+   "image_candidates": [
+    "Odin and his brothers create the world.jpg"
+   ],
+   "coords": null,
+   "wiki": {
+    "iswiki": "Vé",
+    "ruwiki": "Ве",
+    "dewiki": "Vé"
+   },
+   "image_source": "wikidata",
+   "forms": {
+    "on": [
+     "Vé",
+     "Véa"
+    ],
+    "is": [
+     "Vé",
+     "Véa"
+    ],
+    "en": [
+     "Ve",
+     "Vé"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c6-4",
+    "poetic": "ls-s26"
+   },
+   "first_any": {
+    "snorri": "g-c6-4",
+    "poetic": "ls-s26"
+   },
+   "mentions": 2,
+   "narrative": 2,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "2026-11-20: the form Vé added (Gylfaginning 6); rules.json limits it to Gylfaginning, as for Vili (vé is also the common word, \"sanctuary\")"
+   ]
+  },
+  {
    "id": "vegsvinn",
    "tags": [
     "river",
@@ -31596,59 +31660,6 @@
    },
    "first_any": {
     "snorri": "g-c17-2"
-   },
-   "mentions": 1,
-   "narrative": 1,
-   "check": 0,
-   "card": false,
-   "status": "auto",
-   "notes": []
-  },
-  {
-   "id": "ve",
-   "tags": [
-    "god"
-   ],
-   "type": "god",
-   "wikidata": "Q609434",
-   "names": {
-    "on": "Vé",
-    "de": "Vé",
-    "is": "Vé",
-    "sv": "Ve",
-    "en": "Vé",
-    "da": "Ve",
-    "nb": "Ve",
-    "ru": "Ве"
-   },
-   "desc": {
-    "en": "Norse deity"
-   },
-   "image": "Odin and his brothers create the world.jpg",
-   "image_candidates": [
-    "Odin and his brothers create the world.jpg"
-   ],
-   "coords": null,
-   "wiki": {
-    "iswiki": "Vé",
-    "ruwiki": "Ве",
-    "dewiki": "Vé"
-   },
-   "image_source": "wikidata",
-   "forms": {
-    "on": [
-     "Véa"
-    ],
-    "is": [
-     "Véa"
-    ]
-   },
-   "heiti": {},
-   "first": {
-    "poetic": "ls-s26"
-   },
-   "first_any": {
-    "poetic": "ls-s26"
    },
    "mentions": 1,
    "narrative": 1,
