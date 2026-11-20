@@ -220,6 +220,7 @@
      "Herjaföður",
      "Hroftatýr",
      "Hárs",
+     "Háva",
      "Sigföður",
      "Skilvingur",
      "Ómi",
@@ -258,9 +259,10 @@
      "Þundar",
      "Aldaföðrs",
      "Gauti",
-     "Herjaföðrs",
+     "Herjaföðurs",
      "Hroftatý",
      "Jalk",
+     "Víðars",
      "Þriði",
      "Þund"
     ],
@@ -5774,6 +5776,7 @@
     "is": [
      "Mímis",
      "Mímir",
+     "Míms",
      "Míma",
      "Mími"
     ],
@@ -6585,7 +6588,8 @@
      "Yngvi"
     ],
     "is": [
-     "Yngja"
+     "Yngja",
+     "Yngvi"
     ],
     "en": [
      "Yngvi",
@@ -7467,75 +7471,6 @@
    "notes": [
     "amb: Agnarr in Sigrdrífumál"
    ]
-  },
-  {
-   "id": "elivagar",
-   "tags": [
-    "river",
-    "place_myth"
-   ],
-   "type": "river",
-   "wikidata": "Q274754",
-   "names": {
-    "ru": "Эливагар",
-    "en": "Élivágar",
-    "de": "Élivágar",
-    "sv": "Elivågor",
-    "nb": "Elivåger"
-   },
-   "desc": {
-    "en": "rivers in Norse mythology"
-   },
-   "image": null,
-   "image_candidates": [],
-   "coords": null,
-   "wiki": {
-    "enwiki": "Élivágar",
-    "ruwiki": "Эливагар",
-    "nowiki": "Elivåger",
-    "dewiki": "Élivágar"
-   },
-   "image_source": null,
-   "forms": {
-    "on": [
-     "Fjörm",
-     "Sylgr",
-     "Élivága",
-     "Élivágum",
-     "Elivágum",
-     "Élivágar"
-    ],
-    "is": [
-     "Fjörm",
-     "Sylgur",
-     "Élivogum",
-     "Élivága",
-     "Elivágum",
-     "Élivogar"
-    ],
-    "en": [
-     "Elivagar",
-     "Fjörm",
-     "Fjorm",
-     "Sylg",
-     "Sylgr"
-    ]
-   },
-   "heiti": {},
-   "first": {
-    "snorri": "g-c4-4",
-    "poetic": "vm-s31"
-   },
-   "first_any": {
-    "snorri": "g-c4-4",
-    "poetic": "vm-s31"
-   },
-   "mentions": 11,
-   "narrative": 9,
-   "check": 0,
-   "card": false,
-   "status": "auto",
-   "notes": []
   },
   {
    "id": "hodr",
@@ -11789,6 +11724,69 @@
    ]
   },
   {
+   "id": "elivagar",
+   "tags": [
+    "river",
+    "place_myth"
+   ],
+   "type": "river",
+   "wikidata": "Q274754",
+   "names": {
+    "ru": "Эливагар",
+    "en": "Élivágar",
+    "de": "Élivágar",
+    "sv": "Elivågor",
+    "nb": "Elivåger"
+   },
+   "desc": {
+    "en": "rivers in Norse mythology"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {
+    "enwiki": "Élivágar",
+    "ruwiki": "Эливагар",
+    "nowiki": "Elivåger",
+    "dewiki": "Élivágar"
+   },
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Élivága",
+     "Élivágum",
+     "Elivágum",
+     "Élivágar"
+    ],
+    "is": [
+     "Élivogum",
+     "Élivága",
+     "Elivágum",
+     "Élivogar"
+    ],
+    "en": [
+     "Elivagar"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c5-2",
+    "poetic": "vm-s31"
+   },
+   "first_any": {
+    "snorri": "g-c5-2",
+    "poetic": "vm-s31"
+   },
+   "mentions": 6,
+   "narrative": 6,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "2026-11-20: Fjörm and Sylgr are rivers of their own (Gylfaginning 4, Grímnismál 27-28), no longer forms of Élivágar"
+   ]
+  },
+  {
    "id": "fjalar",
    "tags": [
     "dwarf"
@@ -12304,8 +12302,8 @@
      "Hagals"
     ],
     "is": [
-     "Hagall",
-     "Hagals"
+     "Hagals",
+     "Hagall"
     ],
     "en": [
      "Hagal",
@@ -13376,7 +13374,8 @@
     ],
     "is": [
      "Ónars",
-     "Annar"
+     "Annar",
+     "Ánar"
     ],
     "en": [
      "Ónarr",
@@ -13834,8 +13833,7 @@
      "Gimléi"
     ],
     "is": [
-     "Gimlé",
-     "Gimléi"
+     "Gimlé"
     ],
     "en": [
      "Gimlé",
@@ -15175,9 +15173,9 @@
      "Úlfdölum"
     ],
     "is": [
+     "Úlfdölum",
      "Ulfdölum",
-     "Úlfdali",
-     "Úlfdölum"
+     "Úlfdali"
     ],
     "en": [
      "Ulfdalir"
@@ -19250,7 +19248,7 @@
      "Brunavágum"
     ],
     "is": [
-     "Brunavágum"
+     "Brunavogum"
     ],
     "en": [
      "Brunavagar"
@@ -20015,6 +20013,53 @@
    "notes": []
   },
   {
+   "id": "fjorm",
+   "tags": [
+    "river",
+    "place_myth"
+   ],
+   "type": "river",
+   "wikidata": null,
+   "names": {
+    "on": "Fjörm",
+    "en": "Fjorm"
+   },
+   "desc": {},
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Fjörm"
+    ],
+    "is": [
+     "Fjörm"
+    ],
+    "en": [
+     "Fjörm",
+     "Fjorm"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c4-4"
+   },
+   "first_any": {
+    "snorri": "g-c4-4",
+    "poetic": "grm-s27"
+   },
+   "mentions": 3,
+   "narrative": 2,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-20: a river from Hvergelmir (Gylfaginning 4, Grímnismál 27-28), asked for in review mode"
+   ]
+  },
+  {
    "id": "fornjotr",
    "tags": [
     "giant"
@@ -20292,7 +20337,8 @@
      "Granmarssynir"
     ],
     "is": [
-     "Granmarssynir"
+     "Granmarssynir",
+     "Granmarsson"
     ],
     "en": [
      "Granmar's",
@@ -20451,6 +20497,56 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "gunnthro",
+   "tags": [
+    "river",
+    "place_myth"
+   ],
+   "type": "river",
+   "wikidata": null,
+   "names": {
+    "on": "Gunnþró",
+    "en": "Gunnthro"
+   },
+   "desc": {},
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Gunnþró",
+     "Gunnþrá"
+    ],
+    "is": [
+     "Gunnþró",
+     "Gunnþrá"
+    ],
+    "en": [
+     "Gunnthrá",
+     "Gunnthro"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c4-4"
+   },
+   "first_any": {
+    "snorri": "g-c4-4",
+    "poetic": "grm-s27"
+   },
+   "mentions": 3,
+   "narrative": 2,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "river",
+    "2026-11-20: Gunnþrá is the Gylfaginning 4 spelling"
+   ]
   },
   {
    "id": "hati-giant",
@@ -22328,6 +22424,56 @@
    "notes": []
   },
   {
+   "id": "slidr",
+   "tags": [
+    "river",
+    "place_myth"
+   ],
+   "type": "river",
+   "wikidata": null,
+   "names": {
+    "on": "Slíðr",
+    "en": "Slidr"
+   },
+   "desc": {},
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Slíðr",
+     "Slíð"
+    ],
+    "is": [
+     "Slíður",
+     "Slíð"
+    ],
+    "en": [
+     "Slith",
+     "Slídr"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c4-4",
+    "poetic": "vsp-s36"
+   },
+   "first_any": {
+    "snorri": "g-c4-4",
+    "poetic": "vsp-s36"
+   },
+   "mentions": 3,
+   "narrative": 2,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-20: a river from Hvergelmir (Gylfaginning 4, Grímnismál 27-28), asked for in review mode"
+   ]
+  },
+  {
    "id": "sol",
    "tags": [
     "goddess"
@@ -22504,6 +22650,53 @@
    "status": "auto",
    "notes": [
     "ring"
+   ]
+  },
+  {
+   "id": "svol",
+   "tags": [
+    "river",
+    "place_myth"
+   ],
+   "type": "river",
+   "wikidata": null,
+   "names": {
+    "on": "Svöl",
+    "en": "Svol"
+   },
+   "desc": {},
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Svöl"
+    ],
+    "is": [
+     "Svöl"
+    ],
+    "en": [
+     "Svöl",
+     "Svol"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c4-4"
+   },
+   "first_any": {
+    "snorri": "g-c4-4",
+    "poetic": "grm-s27"
+   },
+   "mentions": 3,
+   "narrative": 2,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-20: a river from Hvergelmir (Gylfaginning 4, Grímnismál 27-28), asked for in review mode"
    ]
   },
   {
@@ -24634,52 +24827,6 @@
    "notes": []
   },
   {
-   "id": "gunnthro",
-   "tags": [
-    "river",
-    "place_myth"
-   ],
-   "type": "river",
-   "wikidata": null,
-   "names": {
-    "on": "Gunnþró",
-    "en": "Gunnthro"
-   },
-   "desc": {},
-   "image": null,
-   "image_candidates": [],
-   "coords": null,
-   "wiki": {},
-   "image_source": null,
-   "forms": {
-    "on": [
-     "Gunnþró"
-    ],
-    "is": [
-     "Gunnþró"
-    ],
-    "en": [
-     "Gunnthro"
-    ]
-   },
-   "heiti": {},
-   "first": {
-    "snorri": "g-c39-4"
-   },
-   "first_any": {
-    "snorri": "g-c39-4",
-    "poetic": "grm-s27"
-   },
-   "mentions": 2,
-   "narrative": 1,
-   "check": 0,
-   "card": false,
-   "status": "auto",
-   "notes": [
-    "river"
-   ]
-  },
-  {
    "id": "haefir",
    "tags": [
     "horse",
@@ -26012,7 +26159,8 @@
      "Kíli"
     ],
     "is": [
-     "Kili"
+     "Kili",
+     "Kíli"
     ],
     "en": [
      "Kili",
@@ -26874,7 +27022,8 @@
      "Nóri"
     ],
     "is": [
-     "Nori"
+     "Nori",
+     "Nóri"
     ],
     "en": [
      "Nori",
@@ -27188,7 +27337,8 @@
      "Ráðsviðr"
     ],
     "is": [
-     "Ráðsvinnur"
+     "Ráðsvinnur",
+     "Ráðsviður"
     ],
     "en": [
      "Rathsvith",
@@ -27791,6 +27941,53 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "sylgr",
+   "tags": [
+    "river",
+    "place_myth"
+   ],
+   "type": "river",
+   "wikidata": null,
+   "names": {
+    "on": "Sylgr",
+    "en": "Sylgr"
+   },
+   "desc": {},
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Sylgr"
+    ],
+    "is": [
+     "Sylgur"
+    ],
+    "en": [
+     "Sylg",
+     "Sylgr"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c4-4"
+   },
+   "first_any": {
+    "snorri": "g-c4-4",
+    "poetic": "grm-s28"
+   },
+   "mentions": 2,
+   "narrative": 1,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-20: a river from Hvergelmir (Gylfaginning 4, Grímnismál 27-28), asked for in review mode"
+   ]
   },
   {
    "id": "thir",
@@ -28691,7 +28888,8 @@
      "Virfir"
     ],
     "is": [
-     "Virfir"
+     "Virfir",
+     "Virvir"
     ],
     "en": [
      "Virfir"
@@ -28801,6 +28999,53 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "ylgr",
+   "tags": [
+    "river",
+    "place_myth"
+   ],
+   "type": "river",
+   "wikidata": null,
+   "names": {
+    "on": "Ylgr",
+    "en": "Ylgr"
+   },
+   "desc": {},
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Ylgr"
+    ],
+    "is": [
+     "Ylgur"
+    ],
+    "en": [
+     "Ylg",
+     "Ylgr"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c4-4"
+   },
+   "first_any": {
+    "snorri": "g-c4-4",
+    "poetic": "grm-s28"
+   },
+   "mentions": 2,
+   "narrative": 1,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-20: a river from Hvergelmir (Gylfaginning 4, Grímnismál 27-28), asked for in review mode"
+   ]
   },
   {
    "id": "zealand",
