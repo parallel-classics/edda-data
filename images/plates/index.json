@@ -5745,5 +5745,847 @@
     }
    }
   }
+ },
+ "groups": {
+  "aesir": {
+   "plate": "p1",
+   "box": [
+    1040,
+    260,
+    4566,
+    2611
+   ],
+   "files": {
+    "aesir-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 173501
+    },
+    "aesir-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 130558
+    },
+    "aesir-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 72345
+    },
+    "aesir-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 59164
+    },
+    "aesir-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 20702
+    },
+    "aesir-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 18000
+    },
+    "aesir@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 135257
+    },
+    "aesir@dusk-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 90028
+    },
+    "aesir@dusk-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 56523
+    },
+    "aesir@dusk-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 42012
+    },
+    "aesir@dusk-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 16695
+    },
+    "aesir@dusk-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 13270
+    },
+    "aesir@night-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 128885
+    },
+    "aesir@night-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 85246
+    },
+    "aesir@night-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 53786
+    },
+    "aesir@night-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 39572
+    },
+    "aesir@night-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 16054
+    },
+    "aesir@night-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 12628
+    }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
+  },
+  "alfar": {
+   "plate": "p12",
+   "box": [
+    465,
+    260,
+    3869,
+    2529
+   ],
+   "files": {
+    "alfar-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 177509
+    },
+    "alfar-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 135116
+    },
+    "alfar-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 74745
+    },
+    "alfar-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 61110
+    },
+    "alfar-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 20969
+    },
+    "alfar-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 18412
+    },
+    "alfar@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 148964
+    },
+    "alfar@dusk-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 102578
+    },
+    "alfar@dusk-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 63359
+    },
+    "alfar@dusk-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 48018
+    },
+    "alfar@dusk-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 18098
+    },
+    "alfar@dusk-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 14900
+    },
+    "alfar@night-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 135347
+    },
+    "alfar@night-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 91026
+    },
+    "alfar@night-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 58060
+    },
+    "alfar@night-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 43280
+    },
+    "alfar@night-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 16841
+    },
+    "alfar@night-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 13638
+    }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
+  },
+  "asynjur": {
+   "plate": "p3",
+   "box": [
+    716,
+    260,
+    3938,
+    2408
+   ],
+   "files": {
+    "asynjur-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 187140
+    },
+    "asynjur-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 146086
+    },
+    "asynjur-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 77990
+    },
+    "asynjur-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 64540
+    },
+    "asynjur-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 22086
+    },
+    "asynjur-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 19502
+    },
+    "asynjur@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 149572
+    },
+    "asynjur@dusk-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 106228
+    },
+    "asynjur@dusk-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 63786
+    },
+    "asynjur@dusk-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 49354
+    },
+    "asynjur@dusk-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 18264
+    },
+    "asynjur@dusk-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 15178
+    },
+    "asynjur@night-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 136618
+    },
+    "asynjur@night-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 92766
+    },
+    "asynjur@night-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 58836
+    },
+    "asynjur@night-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 44222
+    },
+    "asynjur@night-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 17447
+    },
+    "asynjur@night-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 14240
+    }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
+  },
+  "bergrisar": {
+   "plate": "p9",
+   "box": [
+    579,
+    260,
+    3995,
+    2537
+   ],
+   "files": {
+    "bergrisar-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 167328
+    },
+    "bergrisar-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 125462
+    },
+    "bergrisar-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 69273
+    },
+    "bergrisar-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 55238
+    },
+    "bergrisar-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 19842
+    },
+    "bergrisar-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 16830
+    },
+    "bergrisar@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 137327
+    },
+    "bergrisar@dusk-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 94530
+    },
+    "bergrisar@dusk-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 58309
+    },
+    "bergrisar@dusk-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 43932
+    },
+    "bergrisar@dusk-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 16974
+    },
+    "bergrisar@dusk-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 13660
+    },
+    "bergrisar@night-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 120621
+    },
+    "bergrisar@night-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 80142
+    },
+    "bergrisar@night-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 51109
+    },
+    "bergrisar@night-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 37330
+    },
+    "bergrisar@night-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 14987
+    },
+    "bergrisar@night-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 11572
+    }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
+  },
+  "dvergar": {
+   "plate": "p11",
+   "box": [
+    1098,
+    260,
+    4368,
+    2440
+   ],
+   "files": {
+    "dvergar-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 147615
+    },
+    "dvergar-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 106132
+    },
+    "dvergar-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 60143
+    },
+    "dvergar-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 45646
+    },
+    "dvergar-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 17557
+    },
+    "dvergar-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 13708
+    },
+    "dvergar@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 119462
+    },
+    "dvergar@dusk-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 75554
+    },
+    "dvergar@dusk-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 49065
+    },
+    "dvergar@dusk-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 34014
+    },
+    "dvergar@dusk-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 14521
+    },
+    "dvergar@dusk-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 10462
+    },
+    "dvergar@night-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 109067
+    },
+    "dvergar@night-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 72076
+    },
+    "dvergar@night-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 46232
+    },
+    "dvergar@night-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 32730
+    },
+    "dvergar@night-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 14321
+    },
+    "dvergar@night-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 10646
+    }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
+  },
+  "hrimthursar": {
+   "plate": "p8",
+   "box": [
+    1959,
+    260,
+    4617,
+    2032
+   ],
+   "files": {
+    "hrimthursar-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 178137
+    },
+    "hrimthursar-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 133346
+    },
+    "hrimthursar-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 73452
+    },
+    "hrimthursar-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 60716
+    },
+    "hrimthursar-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 20680
+    },
+    "hrimthursar-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 17880
+    },
+    "hrimthursar@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 148021
+    },
+    "hrimthursar@dusk-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 100734
+    },
+    "hrimthursar@dusk-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 61464
+    },
+    "hrimthursar@dusk-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 47334
+    },
+    "hrimthursar@dusk-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 17355
+    },
+    "hrimthursar@dusk-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 14230
+    },
+    "hrimthursar@night-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 136553
+    },
+    "hrimthursar@night-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 89452
+    },
+    "hrimthursar@night-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 56862
+    },
+    "hrimthursar@night-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 43092
+    },
+    "hrimthursar@night-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 16221
+    },
+    "hrimthursar@night-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 12990
+    }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
+  },
+  "jotnar": {
+   "plate": "p8",
+   "box": [
+    1959,
+    260,
+    4617,
+    2032
+   ],
+   "files": {
+    "jotnar-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 178137
+    },
+    "jotnar-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 133346
+    },
+    "jotnar-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 73452
+    },
+    "jotnar-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 60716
+    },
+    "jotnar-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 20680
+    },
+    "jotnar-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 17880
+    },
+    "jotnar@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 148021
+    },
+    "jotnar@dusk-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 100734
+    },
+    "jotnar@dusk-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 61464
+    },
+    "jotnar@dusk-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 47334
+    },
+    "jotnar@dusk-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 17355
+    },
+    "jotnar@dusk-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 14230
+    },
+    "jotnar@night-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 136553
+    },
+    "jotnar@night-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 89452
+    },
+    "jotnar@night-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 56862
+    },
+    "jotnar@night-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 43092
+    },
+    "jotnar@night-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 16221
+    },
+    "jotnar@night-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 12990
+    }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
+  },
+  "valkyrjur": {
+   "plate": "p13",
+   "box": [
+    1817,
+    260,
+    5174,
+    2498
+   ],
+   "files": {
+    "valkyrjur-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 153578
+    },
+    "valkyrjur-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 109800
+    },
+    "valkyrjur-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 64244
+    },
+    "valkyrjur-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 48410
+    },
+    "valkyrjur-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 18442
+    },
+    "valkyrjur-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 14780
+    },
+    "valkyrjur@dusk-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 128898
+    },
+    "valkyrjur@dusk-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 83676
+    },
+    "valkyrjur@dusk-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 54918
+    },
+    "valkyrjur@dusk-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 38656
+    },
+    "valkyrjur@dusk-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 15949
+    },
+    "valkyrjur@dusk-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 12004
+    },
+    "valkyrjur@night-1000.jpg": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 113427
+    },
+    "valkyrjur@night-1000.webp": {
+     "width": 1000,
+     "height": 667,
+     "bytes": 71106
+    },
+    "valkyrjur@night-600.jpg": {
+     "width": 600,
+     "height": 400,
+     "bytes": 48890
+    },
+    "valkyrjur@night-600.webp": {
+     "width": 600,
+     "height": 400,
+     "bytes": 33664
+    },
+    "valkyrjur@night-300.jpg": {
+     "width": 300,
+     "height": 200,
+     "bytes": 14482
+    },
+    "valkyrjur@night-300.webp": {
+     "width": 300,
+     "height": 200,
+     "bytes": 10646
+    }
+   },
+   "lights": [
+    "dusk",
+    "night"
+   ]
+  }
  }
 }
