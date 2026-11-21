@@ -121,6 +121,7 @@
       },
       "plate": "P4",
       "entities": [
+        "vanir",
         "njordr",
         "freyr",
         "freyja",
@@ -368,6 +369,7 @@
       },
       "plate": "P10",
       "entities": [
+        "daughters-of-aegir",
         "aegir",
         "ran",
         "gerdr",
@@ -549,6 +551,7 @@
       },
       "plate": "P15",
       "entities": [
+        "einherjar",
         "valhalla",
         "eikthyrnir",
         "heidrun",
@@ -681,8 +684,6 @@
       "status": "draft",
       "by": "claude",
       "more": [
-        "einherjar",
-        "vanir",
         "frodi",
         "jonakr",
         "muspell-sons",
@@ -694,7 +695,6 @@
         "embla",
         "ottar",
         "randver",
-        "daughters-of-aegir",
         "fimafeng",
         "helblindi",
         "rhine",
