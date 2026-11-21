@@ -12,7 +12,7 @@
    "sources": [
     {
      "title": "Wikipedia: Ægir",
-     "url": "https://en.wikipedia.org/wiki/%C3%86gir"
+     "url": "https://en.wikipedia.org/wiki/%C3%86gir#Names"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -48,7 +48,7 @@
    "sources": [
     {
      "title": "Wikipedia: Elf",
-     "url": "https://en.wikipedia.org/wiki/Elf"
+     "url": "https://en.wikipedia.org/wiki/Elf#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -84,7 +84,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#A"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -192,7 +192,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#A"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -210,7 +210,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#A"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -271,6 +271,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "askr": {
+   "means": {
+    "en": "ash tree"
+   },
+   "text": {
+    "en": "Askr, the first man, is named with the word askr 'ash tree'; the gods made him from a tree found on the shore."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wiktionary: Askr",
+     "url": "https://en.wiktionary.org/wiki/Askr#Old_Norse"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "asynjur": {
    "means": {
     "en": "the goddesses"
@@ -300,7 +318,7 @@
    "sources": [
     {
      "title": "Wikipedia: Auðumbla",
-     "url": "https://en.wikipedia.org/wiki/Au%C3%B0umbla"
+     "url": "https://en.wikipedia.org/wiki/Au%C3%B0umbla#Name"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -336,7 +354,7 @@
    "sources": [
     {
      "title": "Wiktionary: Aurvandill",
-     "url": "https://en.wiktionary.org/wiki/Aurvandill"
+     "url": "https://en.wiktionary.org/wiki/Aurvandill#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -354,7 +372,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#A"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -372,7 +390,7 @@
    "sources": [
     {
      "title": "Wiktionary: Austrvegr",
-     "url": "https://en.wiktionary.org/wiki/Austrvegr"
+     "url": "https://en.wiktionary.org/wiki/Austrvegr#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -390,7 +408,7 @@
    "sources": [
     {
      "title": "Wikipedia: Baldr",
-     "url": "https://en.wikipedia.org/wiki/Baldr",
+     "url": "https://en.wikipedia.org/wiki/Baldr#Name",
      "note": "citing Simek; Grimm; Orel"
     }
    ],
@@ -409,7 +427,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#B"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -427,7 +445,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#B"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -445,7 +463,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#B"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -463,7 +481,7 @@
    "sources": [
     {
      "title": "Wikipedia: Jötunn",
-     "url": "https://en.wikipedia.org/wiki/J%C3%B6tunn",
+     "url": "https://en.wikipedia.org/wiki/J%C3%B6tunn#Terminology_and_etymology",
      "note": "citing Orel"
     }
    ],
@@ -482,7 +500,7 @@
    "sources": [
     {
      "title": "Wikipedia: Bestla",
-     "url": "https://en.wikipedia.org/wiki/Bestla",
+     "url": "https://en.wikipedia.org/wiki/Bestla#Name",
      "note": "citing Simek"
     }
    ],
@@ -501,7 +519,7 @@
    "sources": [
     {
      "title": "Wiktionary: Beyla",
-     "url": "https://en.wiktionary.org/wiki/Beyla"
+     "url": "https://en.wiktionary.org/wiki/Beyla#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -574,7 +592,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#List_of_dwarfs"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -592,7 +610,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#B"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -646,7 +664,7 @@
    "sources": [
     {
      "title": "Wiktionary: Borghildr",
-     "url": "https://en.wiktionary.org/wiki/Borghildr"
+     "url": "https://en.wiktionary.org/wiki/Borghildr#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -682,7 +700,7 @@
    "sources": [
     {
      "title": "Wikipedia: Bragi",
-     "url": "https://en.wikipedia.org/wiki/Bragi",
+     "url": "https://en.wikipedia.org/wiki/Bragi#Etymology",
      "note": "citing Simek"
     }
    ],
@@ -719,7 +737,7 @@
    "sources": [
     {
      "title": "Wiktionary: Brimir",
-     "url": "https://en.wiktionary.org/wiki/Brimir"
+     "url": "https://en.wiktionary.org/wiki/Brimir#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -737,7 +755,7 @@
    "sources": [
     {
      "title": "Wikipedia: Brísingamen",
-     "url": "https://en.wikipedia.org/wiki/Br%C3%ADsingamen"
+     "url": "https://en.wikipedia.org/wiki/Br%C3%ADsingamen#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -773,7 +791,7 @@
    "sources": [
     {
      "title": "Wikipedia: Brunhild",
-     "url": "https://en.wikipedia.org/wiki/Brunhild"
+     "url": "https://en.wikipedia.org/wiki/Brunhild#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -791,7 +809,7 @@
    "sources": [
     {
      "title": "Wiktionary: Byggvir",
-     "url": "https://en.wiktionary.org/wiki/Byggvir"
+     "url": "https://en.wiktionary.org/wiki/Byggvir#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -809,7 +827,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#B"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -827,7 +845,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#B"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -863,7 +881,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#D"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -899,7 +917,7 @@
    "sources": [
     {
      "title": "Wikipedia: Denmark",
-     "url": "https://en.wikipedia.org/wiki/Denmark"
+     "url": "https://en.wikipedia.org/wiki/Denmark#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -935,7 +953,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#D"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -953,7 +971,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#D"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -971,7 +989,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#D"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -989,7 +1007,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#D"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1007,7 +1025,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#D"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1025,7 +1043,7 @@
    "sources": [
     {
      "title": "Wikipedia: Dwarf (folklore)",
-     "url": "https://en.wikipedia.org/wiki/Dwarf_%28folklore%29",
+     "url": "https://en.wikipedia.org/wiki/Dwarf_%28folklore%29#Etymology",
      "note": "citing Liberman"
     }
    ],
@@ -1044,7 +1062,7 @@
    "sources": [
     {
      "title": "Wikipedia: Eadgils",
-     "url": "https://en.wikipedia.org/wiki/Eadgils"
+     "url": "https://en.wikipedia.org/wiki/Eadgils#Name"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1080,7 +1098,7 @@
    "sources": [
     {
      "title": "Wikipedia: Eikþyrnir",
-     "url": "https://en.wikipedia.org/wiki/Eik%C3%BEyrnir",
+     "url": "https://en.wikipedia.org/wiki/Eik%C3%BEyrnir#Etymology",
      "note": "citing Liberman"
     }
    ],
@@ -1099,7 +1117,7 @@
    "sources": [
     {
      "title": "Wiktionary: Eilífr",
-     "url": "https://en.wiktionary.org/wiki/Eil%C3%ADfr"
+     "url": "https://en.wiktionary.org/wiki/Eil%C3%ADfr#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1117,7 +1135,7 @@
    "sources": [
     {
      "title": "Wiktionary: Einarr",
-     "url": "https://en.wiktionary.org/wiki/Einarr"
+     "url": "https://en.wiktionary.org/wiki/Einarr#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1135,7 +1153,7 @@
    "sources": [
     {
      "title": "Wiktionary: Einarr",
-     "url": "https://en.wiktionary.org/wiki/Einarr"
+     "url": "https://en.wiktionary.org/wiki/Einarr#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1153,7 +1171,7 @@
    "sources": [
     {
      "title": "Wikipedia: Einherjar",
-     "url": "https://en.wikipedia.org/wiki/Einherjar",
+     "url": "https://en.wikipedia.org/wiki/Einherjar#Theories_and_proposed_etymological_connections",
      "note": "citing Lindow; Orchard; Simek"
     }
    ],
@@ -1190,7 +1208,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#E"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1244,7 +1262,7 @@
    "sources": [
     {
      "title": "Wikipedia: Ask and Embla",
-     "url": "https://en.wikipedia.org/wiki/Ask_and_Embla"
+     "url": "https://en.wikipedia.org/wiki/Ask_and_Embla#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1262,7 +1280,7 @@
    "sources": [
     {
      "title": "Wikipedia: Attila",
-     "url": "https://en.wikipedia.org/wiki/Attila",
+     "url": "https://en.wikipedia.org/wiki/Attila#Etymology",
      "note": "citing Grimm; Maenchen-Helfen; Doerfer"
     }
    ],
@@ -1281,7 +1299,7 @@
    "sources": [
     {
      "title": "Wiktionary: Eysteinn",
-     "url": "https://en.wiktionary.org/wiki/Eysteinn"
+     "url": "https://en.wiktionary.org/wiki/Eysteinn#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1299,7 +1317,7 @@
    "sources": [
     {
      "title": "Wiktionary: Eyvindr",
-     "url": "https://en.wiktionary.org/wiki/Eyvindr"
+     "url": "https://en.wiktionary.org/wiki/Eyvindr#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1317,7 +1335,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#F"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1335,7 +1353,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#F"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1389,7 +1407,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#List_of_j%C3%B6tnar"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1407,7 +1425,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of names of Odin",
-     "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin"
+     "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin#List"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1425,7 +1443,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#F"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1443,7 +1461,7 @@
    "sources": [
     {
      "title": "Wikipedia: Fjölvar",
-     "url": "https://en.wikipedia.org/wiki/Fj%C3%B6lvar"
+     "url": "https://en.wikipedia.org/wiki/Fj%C3%B6lvar#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1515,7 +1533,7 @@
    "sources": [
     {
      "title": "Wikipedia: Forseti",
-     "url": "https://en.wikipedia.org/wiki/Forseti"
+     "url": "https://en.wikipedia.org/wiki/Forseti#Name"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1533,7 +1551,7 @@
    "sources": [
     {
      "title": "Wiktionary: Frakkland",
-     "url": "https://en.wiktionary.org/wiki/Frakkland"
+     "url": "https://en.wiktionary.org/wiki/Frakkland#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1551,7 +1569,7 @@
    "sources": [
     {
      "title": "Wikipedia: Freyja",
-     "url": "https://en.wikipedia.org/wiki/Freyja"
+     "url": "https://en.wikipedia.org/wiki/Freyja#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1569,7 +1587,7 @@
    "sources": [
     {
      "title": "Wikipedia: Freyr",
-     "url": "https://en.wikipedia.org/wiki/Freyr",
+     "url": "https://en.wikipedia.org/wiki/Freyr#Etymology",
      "note": "citing Kroonen"
     }
    ],
@@ -1588,7 +1606,7 @@
    "sources": [
     {
      "title": "Wikipedia: Frigg",
-     "url": "https://en.wikipedia.org/wiki/Frigg"
+     "url": "https://en.wikipedia.org/wiki/Frigg#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1606,7 +1624,7 @@
    "sources": [
     {
      "title": "Wiktionary: Fróði",
-     "url": "https://en.wiktionary.org/wiki/Fr%C3%B3%C3%B0i"
+     "url": "https://en.wiktionary.org/wiki/Fr%C3%B3%C3%B0i#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1624,7 +1642,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#F"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1642,7 +1660,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#G"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1660,7 +1678,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#G"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1678,7 +1696,7 @@
    "sources": [
     {
      "title": "Wikipedia: Garmr",
-     "url": "https://en.wikipedia.org/wiki/Garmr",
+     "url": "https://en.wikipedia.org/wiki/Garmr#Name",
      "note": "citing Lincoln; Ogden"
     }
    ],
@@ -1697,7 +1715,7 @@
    "sources": [
     {
      "title": "Wikipedia: Gaut",
-     "url": "https://en.wikipedia.org/wiki/Gaut"
+     "url": "https://en.wikipedia.org/wiki/Gaut#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1715,7 +1733,7 @@
    "sources": [
     {
      "title": "Wikipedia: Gaut",
-     "url": "https://en.wikipedia.org/wiki/Gaut"
+     "url": "https://en.wikipedia.org/wiki/Gaut#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1733,7 +1751,7 @@
    "sources": [
     {
      "title": "Wikipedia: Gefjon",
-     "url": "https://en.wikipedia.org/wiki/Gefjon"
+     "url": "https://en.wikipedia.org/wiki/Gefjon#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1751,7 +1769,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#G"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1769,7 +1787,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#G"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1805,7 +1823,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of names of Odin",
-     "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin"
+     "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin#List"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1823,7 +1841,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#G"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1860,7 +1878,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#G"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1878,7 +1896,7 @@
    "sources": [
     {
      "title": "Wikipedia: Ginnungagap",
-     "url": "https://en.wikipedia.org/wiki/Ginnungagap",
+     "url": "https://en.wikipedia.org/wiki/Ginnungagap#Etymology",
      "note": "citing Dronke"
     }
    ],
@@ -1897,7 +1915,7 @@
    "sources": [
     {
      "title": "Wiktionary: Gjallarbrú",
-     "url": "https://en.wiktionary.org/wiki/Gjallarbr%C3%BA"
+     "url": "https://en.wiktionary.org/wiki/Gjallarbr%C3%BA#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1933,7 +1951,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#G"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2005,7 +2023,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#G"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2077,7 +2095,7 @@
    "sources": [
     {
      "title": "Wikipedia: Goths",
-     "url": "https://en.wikipedia.org/wiki/Goths"
+     "url": "https://en.wikipedia.org/wiki/Goths#Name"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2095,7 +2113,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#G"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2203,7 +2221,7 @@
    "sources": [
     {
      "title": "Wiktionary: Guðmundr",
-     "url": "https://en.wiktionary.org/wiki/Gu%C3%B0mundr"
+     "url": "https://en.wiktionary.org/wiki/Gu%C3%B0mundr#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2221,7 +2239,7 @@
    "sources": [
     {
      "title": "Wikipedia: Gudrun",
-     "url": "https://en.wikipedia.org/wiki/Gudrun"
+     "url": "https://en.wikipedia.org/wiki/Gudrun#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2293,7 +2311,7 @@
    "sources": [
     {
      "title": "Wikipedia: Gullveig",
-     "url": "https://en.wikipedia.org/wiki/Gullveig"
+     "url": "https://en.wikipedia.org/wiki/Gullveig#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2329,7 +2347,7 @@
    "sources": [
     {
      "title": "Wikipedia: Gunther",
-     "url": "https://en.wikipedia.org/wiki/Gunther"
+     "url": "https://en.wikipedia.org/wiki/Gunther#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2347,7 +2365,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#G"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2365,7 +2383,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#G"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2383,11 +2401,11 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#G"
     },
     {
      "title": "Wikipedia: Ægir",
-     "url": "https://en.wikipedia.org/wiki/%C3%86gir"
+     "url": "https://en.wikipedia.org/wiki/%C3%86gir#Names"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2405,7 +2423,7 @@
    "sources": [
     {
      "title": "Wiktionary: Hákon",
-     "url": "https://en.wiktionary.org/wiki/H%C3%A1kon"
+     "url": "https://en.wiktionary.org/wiki/H%C3%A1kon#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2423,7 +2441,7 @@
    "sources": [
     {
      "title": "Wiktionary: Haraldr",
-     "url": "https://en.wiktionary.org/wiki/Haraldr"
+     "url": "https://en.wiktionary.org/wiki/Haraldr#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2459,7 +2477,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#List_of_j%C3%B6tnar"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2495,7 +2513,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#H"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2531,7 +2549,7 @@
    "sources": [
     {
      "title": "Wikipedia: Heiðrún",
-     "url": "https://en.wikipedia.org/wiki/Hei%C3%B0r%C3%BAn",
+     "url": "https://en.wikipedia.org/wiki/Hei%C3%B0r%C3%BAn#Etymology",
      "note": "citing Liberman"
     }
    ],
@@ -2550,7 +2568,7 @@
    "sources": [
     {
      "title": "Wikipedia: Heimdall",
-     "url": "https://en.wikipedia.org/wiki/Heimdall"
+     "url": "https://en.wikipedia.org/wiki/Heimdall#Names_and_etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2586,7 +2604,7 @@
    "sources": [
     {
      "title": "Wikipedia: Hel (mythological being)",
-     "url": "https://en.wikipedia.org/wiki/Hel_%28mythological_being%29"
+     "url": "https://en.wikipedia.org/wiki/Hel_%28mythological_being%29#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2622,7 +2640,7 @@
    "sources": [
     {
      "title": "Wiktionary: Helgi",
-     "url": "https://en.wiktionary.org/wiki/Helgi"
+     "url": "https://en.wiktionary.org/wiki/Helgi#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2640,7 +2658,7 @@
    "sources": [
     {
      "title": "Wiktionary: Helgi",
-     "url": "https://en.wiktionary.org/wiki/Helgi"
+     "url": "https://en.wiktionary.org/wiki/Helgi#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2676,7 +2694,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#H"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2712,7 +2730,7 @@
    "sources": [
     {
      "title": "Wiktionary: Hervarðr",
-     "url": "https://en.wiktionary.org/wiki/Hervar%C3%B0r"
+     "url": "https://en.wiktionary.org/wiki/Hervar%C3%B0r#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2892,7 +2910,7 @@
    "sources": [
     {
      "title": "Wikipedia: Höðr",
-     "url": "https://en.wikipedia.org/wiki/H%C3%B6%C3%B0r",
+     "url": "https://en.wikipedia.org/wiki/H%C3%B6%C3%B0r#Name",
      "note": "citing de Vries; Orel"
     }
    ],
@@ -2929,7 +2947,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#H"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2947,7 +2965,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#H"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3001,7 +3019,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#H"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3019,7 +3037,7 @@
    "sources": [
     {
      "title": "Wikipedia: Jötunn",
-     "url": "https://en.wikipedia.org/wiki/J%C3%B6tunn",
+     "url": "https://en.wikipedia.org/wiki/J%C3%B6tunn#Terminology_and_etymology",
      "note": "citing Simek"
     }
    ],
@@ -3056,7 +3074,7 @@
    "sources": [
     {
      "title": "Wiktionary: Hrólfr",
-     "url": "https://en.wiktionary.org/wiki/Hr%C3%B3lfr"
+     "url": "https://en.wiktionary.org/wiki/Hr%C3%B3lfr#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3074,7 +3092,7 @@
    "sources": [
     {
      "title": "Wikipedia: Hrungnir",
-     "url": "https://en.wikipedia.org/wiki/Hrungnir"
+     "url": "https://en.wikipedia.org/wiki/Hrungnir#Name"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3092,7 +3110,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#List_of_j%C3%B6tnar"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3128,7 +3146,7 @@
    "sources": [
     {
      "title": "Wikipedia: Huginn and Muninn",
-     "url": "https://en.wikipedia.org/wiki/Huginn_and_Muninn"
+     "url": "https://en.wikipedia.org/wiki/Huginn_and_Muninn#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3182,7 +3200,7 @@
    "sources": [
     {
      "title": "Wikipedia: Hymir",
-     "url": "https://en.wikipedia.org/wiki/Hymir"
+     "url": "https://en.wikipedia.org/wiki/Hymir#Name"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3200,7 +3218,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#H"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3236,7 +3254,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#I"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3290,7 +3308,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#I"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3308,7 +3326,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#J"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3344,7 +3362,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#J"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3380,7 +3398,7 @@
    "sources": [
     {
      "title": "Wikipedia: Ermanaric",
-     "url": "https://en.wikipedia.org/wiki/Ermanaric"
+     "url": "https://en.wikipedia.org/wiki/Ermanaric#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3398,7 +3416,7 @@
    "sources": [
     {
      "title": "Wiktionary: Jórunn",
-     "url": "https://en.wiktionary.org/wiki/J%C3%B3runn"
+     "url": "https://en.wiktionary.org/wiki/J%C3%B3runn#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3416,7 +3434,7 @@
    "sources": [
     {
      "title": "Wikipedia: Jötunn",
-     "url": "https://en.wikipedia.org/wiki/J%C3%B6tunn",
+     "url": "https://en.wikipedia.org/wiki/J%C3%B6tunn#Terminology_and_etymology",
      "note": "citing Orel"
     }
    ],
@@ -3435,7 +3453,7 @@
    "sources": [
     {
      "title": "Wikipedia: Jötunheimr",
-     "url": "https://en.wikipedia.org/wiki/J%C3%B6tunheimr"
+     "url": "https://en.wikipedia.org/wiki/J%C3%B6tunheimr#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3489,7 +3507,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#K"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3525,7 +3543,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#K"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3543,7 +3561,7 @@
    "sources": [
     {
      "title": "Wiktionary: Kjárr",
-     "url": "https://en.wiktionary.org/wiki/Kj%C3%A1rr"
+     "url": "https://en.wiktionary.org/wiki/Kj%C3%A1rr#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3561,7 +3579,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#K"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3579,7 +3597,7 @@
    "sources": [
     {
      "title": "Wikipedia: Kvasir",
-     "url": "https://en.wikipedia.org/wiki/Kvasir",
+     "url": "https://en.wikipedia.org/wiki/Kvasir#Name",
      "note": "citing Sturtevant"
     }
    ],
@@ -3616,7 +3634,7 @@
    "sources": [
     {
      "title": "Wikipedia: Laufey (mythology)",
-     "url": "https://en.wikipedia.org/wiki/Laufey_%28mythology%29"
+     "url": "https://en.wikipedia.org/wiki/Laufey_%28mythology%29#Name"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3634,7 +3652,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#L"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3652,7 +3670,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#L"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3670,7 +3688,7 @@
    "sources": [
     {
      "title": "Wikipedia: Lóðurr",
-     "url": "https://en.wikipedia.org/wiki/L%C3%B3%C3%B0urr"
+     "url": "https://en.wikipedia.org/wiki/L%C3%B3%C3%B0urr#Name_and_etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3706,7 +3724,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#L"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3724,7 +3742,7 @@
    "sources": [
     {
      "title": "Wikipedia: Loki",
-     "url": "https://en.wikipedia.org/wiki/Loki",
+     "url": "https://en.wikipedia.org/wiki/Loki#Etymology",
      "note": "citing Heide"
     }
    ],
@@ -3816,7 +3834,7 @@
    "sources": [
     {
      "title": "Wikipedia: Mímir",
-     "url": "https://en.wikipedia.org/wiki/M%C3%ADmir",
+     "url": "https://en.wikipedia.org/wiki/M%C3%ADmir#Etymology",
      "note": "citing Simek"
     }
    ],
@@ -3871,7 +3889,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#M"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3889,7 +3907,7 @@
    "sources": [
     {
      "title": "Wikipedia: Mjölnir",
-     "url": "https://en.wikipedia.org/wiki/Mj%C3%B6lnir"
+     "url": "https://en.wikipedia.org/wiki/Mj%C3%B6lnir#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3962,7 +3980,7 @@
    "sources": [
     {
      "title": "Wikipedia: Huginn and Muninn",
-     "url": "https://en.wikipedia.org/wiki/Huginn_and_Muninn"
+     "url": "https://en.wikipedia.org/wiki/Huginn_and_Muninn#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4034,7 +4052,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#N"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4052,7 +4070,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#N"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4070,7 +4088,7 @@
    "sources": [
     {
      "title": "Wikipedia: Nanna (Norse deity)",
-     "url": "https://en.wikipedia.org/wiki/Nanna_%28Norse_deity%29",
+     "url": "https://en.wikipedia.org/wiki/Nanna_%28Norse_deity%29#Etymology_and_place_names",
      "note": "citing de Vries; Lindow; McKinnell"
     }
    ],
@@ -4089,7 +4107,7 @@
    "sources": [
     {
      "title": "Wikipedia: Narfi",
-     "url": "https://en.wikipedia.org/wiki/Narfi",
+     "url": "https://en.wikipedia.org/wiki/Narfi#Name",
      "note": "citing Noreen"
     }
    ],
@@ -4108,7 +4126,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#N"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4162,7 +4180,7 @@
    "sources": [
     {
      "title": "Wikipedia: Nidhogg",
-     "url": "https://en.wikipedia.org/wiki/Nidhogg"
+     "url": "https://en.wikipedia.org/wiki/Nidhogg#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4180,7 +4198,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#N"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4198,7 +4216,7 @@
    "sources": [
     {
      "title": "Wikipedia: Niflheim",
-     "url": "https://en.wikipedia.org/wiki/Niflheim"
+     "url": "https://en.wikipedia.org/wiki/Niflheim#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4234,7 +4252,7 @@
    "sources": [
     {
      "title": "Wikipedia: Njörðr",
-     "url": "https://en.wikipedia.org/wiki/Nj%C3%B6r%C3%B0r"
+     "url": "https://en.wikipedia.org/wiki/Nj%C3%B6r%C3%B0r#Name_and_eponyms"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4270,7 +4288,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#N"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4288,7 +4306,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#N"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4306,7 +4324,7 @@
    "sources": [
     {
      "title": "Wikipedia: Norns",
-     "url": "https://en.wikipedia.org/wiki/Norns",
+     "url": "https://en.wikipedia.org/wiki/Norns#Etymology",
      "note": "citing Bek-Pedersen"
     }
    ],
@@ -4325,7 +4343,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#N"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4343,7 +4361,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#N"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4361,7 +4379,7 @@
    "sources": [
     {
      "title": "Wikipedia: Odin",
-     "url": "https://en.wikipedia.org/wiki/Odin"
+     "url": "https://en.wikipedia.org/wiki/Odin#Etymological_origin"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4398,7 +4416,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#O"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4416,7 +4434,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#O"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4434,7 +4452,7 @@
    "sources": [
     {
      "title": "Wiktionary: Óttarr",
-     "url": "https://en.wiktionary.org/wiki/%C3%93ttarr"
+     "url": "https://en.wiktionary.org/wiki/%C3%93ttarr#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4452,7 +4470,7 @@
    "sources": [
     {
      "title": "Wiktionary: Óttarr",
-     "url": "https://en.wiktionary.org/wiki/%C3%93ttarr"
+     "url": "https://en.wiktionary.org/wiki/%C3%93ttarr#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4470,7 +4488,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#R"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4488,7 +4506,7 @@
    "sources": [
     {
      "title": "Wiktionary: Ragnarr",
-     "url": "https://en.wiktionary.org/wiki/Ragnarr"
+     "url": "https://en.wiktionary.org/wiki/Ragnarr#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4506,7 +4524,7 @@
    "sources": [
     {
      "title": "Wikipedia: Rán",
-     "url": "https://en.wikipedia.org/wiki/R%C3%A1n",
+     "url": "https://en.wikipedia.org/wiki/R%C3%A1n#Etymology",
      "note": "citing Simek"
     }
    ],
@@ -4525,7 +4543,7 @@
    "sources": [
     {
      "title": "Wikipedia: Ratatoskr",
-     "url": "https://en.wikipedia.org/wiki/Ratatoskr",
+     "url": "https://en.wikipedia.org/wiki/Ratatoskr#Etymology",
      "note": "citing Vigfússon; Bugge"
     }
    ],
@@ -4544,7 +4562,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#R"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4562,7 +4580,7 @@
    "sources": [
     {
      "title": "Wikipedia: Þjálfi and Röskva",
-     "url": "https://en.wikipedia.org/wiki/%C3%9Ej%C3%A1lfi_and_R%C3%B6skva"
+     "url": "https://en.wikipedia.org/wiki/%C3%9Ej%C3%A1lfi_and_R%C3%B6skva#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4580,7 +4598,7 @@
    "sources": [
     {
      "title": "Wikipedia: Róta",
-     "url": "https://en.wikipedia.org/wiki/R%C3%B3ta",
+     "url": "https://en.wikipedia.org/wiki/R%C3%B3ta#Name",
      "note": "citing Vigfússon"
     }
    ],
@@ -4599,7 +4617,7 @@
    "sources": [
     {
      "title": "Wikipedia: Sæhrímnir",
-     "url": "https://en.wikipedia.org/wiki/S%C3%A6hr%C3%ADmnir"
+     "url": "https://en.wikipedia.org/wiki/S%C3%A6hr%C3%ADmnir#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4635,7 +4653,7 @@
    "sources": [
     {
      "title": "Wiktionary: Saxland",
-     "url": "https://en.wiktionary.org/wiki/Saxland"
+     "url": "https://en.wiktionary.org/wiki/Saxland#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4671,7 +4689,7 @@
    "sources": [
     {
      "title": "Wikipedia: Sif",
-     "url": "https://en.wikipedia.org/wiki/Sif"
+     "url": "https://en.wikipedia.org/wiki/Sif#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4707,7 +4725,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of names of Odin",
-     "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin"
+     "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin#List"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4725,7 +4743,7 @@
    "sources": [
     {
      "title": "Wikipedia: Sigurd",
-     "url": "https://en.wikipedia.org/wiki/Sigurd"
+     "url": "https://en.wikipedia.org/wiki/Sigurd#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5014,7 +5032,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#S"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5032,7 +5050,7 @@
    "sources": [
     {
      "title": "Wikipedia: Surtr",
-     "url": "https://en.wikipedia.org/wiki/Surtr"
+     "url": "https://en.wikipedia.org/wiki/Surtr#Place_names_and_modern_influence"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5086,7 +5104,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of names of Odin",
-     "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin"
+     "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin#List"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5140,7 +5158,7 @@
    "sources": [
     {
      "title": "Wiktionary: Svíþjóð",
-     "url": "https://en.wiktionary.org/wiki/Sv%C3%AD%C3%BEj%C3%B3%C3%B0"
+     "url": "https://en.wiktionary.org/wiki/Sv%C3%AD%C3%BEj%C3%B3%C3%B0#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5177,7 +5195,7 @@
    "sources": [
     {
      "title": "Wikipedia: Tanngrisnir and Tanngnjóstr",
-     "url": "https://en.wikipedia.org/wiki/Tanngrisnir_and_Tanngnj%C3%B3str",
+     "url": "https://en.wikipedia.org/wiki/Tanngrisnir_and_Tanngnj%C3%B3str#Etymology",
      "note": "citing Simek"
     }
    ],
@@ -5196,7 +5214,7 @@
    "sources": [
     {
      "title": "Wikipedia: Þjálfi and Röskva",
-     "url": "https://en.wikipedia.org/wiki/%C3%9Ej%C3%A1lfi_and_R%C3%B6skva"
+     "url": "https://en.wikipedia.org/wiki/%C3%9Ej%C3%A1lfi_and_R%C3%B6skva#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5232,7 +5250,7 @@
    "sources": [
     {
      "title": "Wikipedia: Thor",
-     "url": "https://en.wikipedia.org/wiki/Thor",
+     "url": "https://en.wikipedia.org/wiki/Thor#Name",
      "note": "citing Koch"
     }
    ],
@@ -5251,7 +5269,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#List_of_dwarfs"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5269,7 +5287,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#T"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5359,7 +5377,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#T"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5377,7 +5395,7 @@
    "sources": [
     {
      "title": "Wikipedia: Týr",
-     "url": "https://en.wikipedia.org/wiki/T%C3%BDr"
+     "url": "https://en.wikipedia.org/wiki/T%C3%BDr#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5395,7 +5413,7 @@
    "sources": [
     {
      "title": "Wikipedia: Tyrfing",
-     "url": "https://en.wikipedia.org/wiki/Tyrfing"
+     "url": "https://en.wikipedia.org/wiki/Tyrfing#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5413,7 +5431,7 @@
    "sources": [
     {
      "title": "Wikipedia: Ullr",
-     "url": "https://en.wikipedia.org/wiki/Ullr"
+     "url": "https://en.wikipedia.org/wiki/Ullr#Name_and_origin"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5431,7 +5449,7 @@
    "sources": [
     {
      "title": "Wiktionary: Uppsalir",
-     "url": "https://en.wiktionary.org/wiki/Uppsalir"
+     "url": "https://en.wiktionary.org/wiki/Uppsalir#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5539,7 +5557,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of names of Odin",
-     "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin"
+     "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin#List"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5593,7 +5611,7 @@
    "sources": [
     {
      "title": "Wikipedia: Valkyrie",
-     "url": "https://en.wikipedia.org/wiki/Valkyrie",
+     "url": "https://en.wikipedia.org/wiki/Valkyrie#Etymology",
      "note": "citing Orel"
     }
    ],
@@ -5630,7 +5648,7 @@
    "sources": [
     {
      "title": "Wikipedia: Vanir",
-     "url": "https://en.wikipedia.org/wiki/Vanir",
+     "url": "https://en.wikipedia.org/wiki/Vanir#Etymology",
      "note": "citing Page"
     }
    ],
@@ -5667,7 +5685,7 @@
    "sources": [
     {
      "title": "Wikipedia: Verðandi",
-     "url": "https://en.wikipedia.org/wiki/Ver%C3%B0andi"
+     "url": "https://en.wikipedia.org/wiki/Ver%C3%B0andi#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5685,7 +5703,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#V"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5721,7 +5739,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#V"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5757,7 +5775,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#V"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5775,7 +5793,7 @@
    "sources": [
     {
      "title": "Wikipedia: Vingólf",
-     "url": "https://en.wikipedia.org/wiki/Ving%C3%B3lf"
+     "url": "https://en.wikipedia.org/wiki/Ving%C3%B3lf#Ving%C3%B3lf%27s_name"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5793,7 +5811,7 @@
    "sources": [
     {
      "title": "Wiktionary: Virfir",
-     "url": "https://en.wiktionary.org/wiki/Virfir"
+     "url": "https://en.wiktionary.org/wiki/Virfir#Old_Norse"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5811,7 +5829,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#V"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5829,7 +5847,7 @@
    "sources": [
     {
      "title": "Wikipedia: Völsung",
-     "url": "https://en.wikipedia.org/wiki/V%C3%B6lsung"
+     "url": "https://en.wikipedia.org/wiki/V%C3%B6lsung#Name"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5865,7 +5883,7 @@
    "sources": [
     {
      "title": "Wikipedia: Wayland the Smith",
-     "url": "https://en.wikipedia.org/wiki/Wayland_the_Smith"
+     "url": "https://en.wikipedia.org/wiki/Wayland_the_Smith#Name"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5883,7 +5901,7 @@
    "sources": [
     {
      "title": "Wikipedia: Yggdrasil",
-     "url": "https://en.wikipedia.org/wiki/Yggdrasil"
+     "url": "https://en.wikipedia.org/wiki/Yggdrasil#Etymology"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5901,7 +5919,7 @@
    "sources": [
     {
      "title": "Wiktionary: Ymir",
-     "url": "https://en.wiktionary.org/wiki/Ymir",
+     "url": "https://en.wiktionary.org/wiki/Ymir#Old_Norse",
      "note": "citing Kroonen"
     }
    ],
@@ -5920,7 +5938,7 @@
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#Y"
     }
    ],
    "by": "ai:claude-2026-11",
