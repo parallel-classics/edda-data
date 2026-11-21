@@ -516,6 +516,75 @@
    "notes": []
   },
   {
+   "id": "aesir",
+   "tags": [
+    "people",
+    "god"
+   ],
+   "type": "people",
+   "wikidata": null,
+   "names": {
+    "on": "Æsir",
+    "is": "Æsir",
+    "en": "Æsir"
+   },
+   "desc": {
+    "en": "the gods of Ásgarðr, Óðinn's kin; with the Vanir the two families of gods"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "æsir",
+     "ása",
+     "ásum",
+     "æsirnir",
+     "ásanna",
+     "áss",
+     "ásunum",
+     "Æsir",
+     "Ásu",
+     "ásinn",
+     "ásu"
+    ],
+    "is": [
+     "æsir",
+     "ásum",
+     "ása",
+     "ás",
+     "ásanna",
+     "æsirnir",
+     "ásunum",
+     "Æsir",
+     "ásinn"
+    ],
+    "en": [
+     "Æsir",
+     "Æsir's"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "p-c5-1",
+    "poetic": "vsp-s7"
+   },
+   "first_any": {
+    "snorri": "p-c5-1",
+    "poetic": "vsp-s7"
+   },
+   "mentions": 210,
+   "narrative": 208,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: a group, written as an ordinary noun in the Old Norse; rules.json `groups` lists its word forms (Grigory: every occurrence marked)"
+   ]
+  },
+  {
    "id": "sigurdr",
    "tags": [
     "hero"
@@ -667,6 +736,93 @@
    "card": true,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "jotnar",
+   "tags": [
+    "people",
+    "giant"
+   ],
+   "type": "people",
+   "wikidata": null,
+   "names": {
+    "on": "Jötnar",
+    "is": "Jötnar",
+    "en": "Giants"
+   },
+   "desc": {
+    "en": "the giants, the oldest beings of the world and the gods' rivals and in-laws"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "jötunn",
+     "jötna",
+     "jötuns",
+     "jötnar",
+     "jötun",
+     "þursa",
+     "jötnum",
+     "jötni",
+     "þurs",
+     "jötunninn",
+     "þursar",
+     "jötnana",
+     "jötninum",
+     "Þurs",
+     "Þursa"
+    ],
+    "is": [
+     "jötunn",
+     "jötna",
+     "jötuns",
+     "jötnar",
+     "jötun",
+     "þursa",
+     "jötnum",
+     "jötni",
+     "þurs",
+     "jötunninn",
+     "þursar",
+     "jötnana",
+     "jötninum",
+     "Þurs",
+     "Þursa"
+    ],
+    "en": [
+     "giant",
+     "giants",
+     "Giants",
+     "giant's",
+     "Giant",
+     "giantess",
+     "Ettin",
+     "Giant's",
+     "Thurs",
+     "giantesses"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c1-1",
+    "poetic": "vsp-s2"
+   },
+   "first_any": {
+    "snorri": "g-c1-1",
+    "poetic": "vsp-s2"
+   },
+   "mentions": 177,
+   "narrative": 172,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: a group, written as an ordinary noun in the Old Norse; rules.json `groups` lists its word forms (Grigory: every occurrence marked)"
+   ]
   },
   {
    "id": "gudrun",
@@ -853,6 +1009,84 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "dvergar",
+   "tags": [
+    "people",
+    "dwarf"
+   ],
+   "type": "people",
+   "wikidata": null,
+   "names": {
+    "on": "Dvergar",
+    "is": "Dvergar",
+    "en": "Dwarfs"
+   },
+   "desc": {
+    "en": "the dwarfs, makers of the gods' treasures, who came alive like maggots in Ymir's flesh"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "dvergar",
+     "dvergr",
+     "dverga",
+     "dvergrinn",
+     "dverganna",
+     "dvergarnir",
+     "Dvergarnir",
+     "Dvergrinn",
+     "dverg",
+     "dvergum",
+     "Dvergar",
+     "dvergana",
+     "dvergs"
+    ],
+    "is": [
+     "dvergar",
+     "dvergur",
+     "dverga",
+     "dvergurinn",
+     "dverganna",
+     "dvergarnir",
+     "Dvergarnir",
+     "Dvergurinn",
+     "dverg",
+     "dvergum",
+     "Dvergar",
+     "dvergana",
+     "dvergs"
+    ],
+    "en": [
+     "dwarf",
+     "dwarfs",
+     "dwarves",
+     "Dwarf",
+     "Dwarves"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c8-4",
+    "poetic": "vsp-s9"
+   },
+   "first_any": {
+    "snorri": "g-c8-4",
+    "poetic": "vsp-s9"
+   },
+   "mentions": 80,
+   "narrative": 79,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: a group, written as an ordinary noun in the Old Norse; rules.json `groups` lists its word forms (Grigory: every occurrence marked)"
+   ]
   },
   {
    "id": "gestumblindi",
@@ -4040,6 +4274,64 @@
    "notes": []
   },
   {
+   "id": "valkyrjur",
+   "tags": [
+    "people",
+    "valkyrie"
+   ],
+   "type": "people",
+   "wikidata": null,
+   "names": {
+    "on": "Valkyrjur",
+    "is": "Valkyrjur",
+    "en": "Valkyries"
+   },
+   "desc": {
+    "en": "the valkyries, Óðinn's women who choose the slain and serve in Valhöll"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "valkyrjur",
+     "valkyrja",
+     "Valkyrja",
+     "valkyrju"
+    ],
+    "is": [
+     "valkyrjur",
+     "valkyrja",
+     "Valkyrja",
+     "valkyrju"
+    ],
+    "en": [
+     "Valkyrie",
+     "Valkyries",
+     "Valkyr"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c36-3",
+    "poetic": "vsp-s30"
+   },
+   "first_any": {
+    "snorri": "g-c36-3",
+    "poetic": "vsp-s30"
+   },
+   "mentions": 21,
+   "narrative": 21,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: a group, written as an ordinary noun in the Old Norse; rules.json `groups` lists its word forms (Grigory: every occurrence marked)"
+   ]
+  },
+  {
    "id": "geirrodr",
    "tags": [
     "giant"
@@ -4156,6 +4448,64 @@
    "notes": [
     "added for the map of the worlds (task 20b)",
     "added by rules.json"
+   ]
+  },
+  {
+   "id": "hrimthursar",
+   "tags": [
+    "people",
+    "giant"
+   ],
+   "type": "people",
+   "wikidata": null,
+   "names": {
+    "on": "Hrímþursar",
+    "is": "Hrímþursar",
+    "en": "Frost-giants"
+   },
+   "desc": {
+    "en": "the frost-giants, Ymir's offspring, the oldest kin of the giants"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "hrímþursar",
+     "hrímþursa",
+     "hrímþursum",
+     "hrímþurs"
+    ],
+    "is": [
+     "hrímþursar",
+     "hrímþursa",
+     "hrímþursum",
+     "hrímþurs"
+    ],
+    "en": [
+     "Rime-Giants",
+     "frost-giants",
+     "Rime-Giant"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c3-8",
+    "poetic": "hav-s109"
+   },
+   "first_any": {
+    "snorri": "g-c3-8",
+    "poetic": "hav-s109"
+   },
+   "mentions": 20,
+   "narrative": 20,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: a group, written as an ordinary noun in the Old Norse; rules.json `groups` lists its word forms (Grigory: every occurrence marked)"
    ]
   },
   {
@@ -4805,6 +5155,63 @@
    "card": true,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "asynjur",
+   "tags": [
+    "people",
+    "goddess"
+   ],
+   "type": "people",
+   "wikidata": null,
+   "names": {
+    "on": "Ásynjur",
+    "is": "Ásynjur",
+    "en": "Ásynjur"
+   },
+   "desc": {
+    "en": "the goddesses of the Æsir"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "ásynjur",
+     "ásynjum",
+     "ásynja",
+     "ásynjurnar"
+    ],
+    "is": [
+     "ásynjur",
+     "ásynjum",
+     "ásynja",
+     "ásynjurnar"
+    ],
+    "en": [
+     "goddesses",
+     "Ásynjur"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c20-3",
+    "poetic": "ls-s11"
+   },
+   "first_any": {
+    "snorri": "g-c20-3",
+    "poetic": "ls-s11"
+   },
+   "mentions": 17,
+   "narrative": 17,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: a group, written as an ordinary noun in the Old Norse; rules.json `groups` lists its word forms (Grigory: every occurrence marked)"
+   ]
   },
   {
    "id": "midgard",
@@ -7771,6 +8178,63 @@
    ]
   },
   {
+   "id": "bergrisar",
+   "tags": [
+    "people",
+    "giant"
+   ],
+   "type": "people",
+   "wikidata": null,
+   "names": {
+    "on": "Bergrisar",
+    "is": "Bergrisar",
+    "en": "Hill-giants"
+   },
+   "desc": {
+    "en": "the hill-giants, a kin of giants living in the mountains"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "bergrisa",
+     "bergrisar",
+     "bergrisum",
+     "bergrisi"
+    ],
+    "is": [
+     "bergrisar",
+     "bergrisum",
+     "bergrisi"
+    ],
+    "en": [
+     "Hill-Giants",
+     "mountain-giants",
+     "hill-giant"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c15-9",
+    "poetic": "grt-s9"
+   },
+   "first_any": {
+    "snorri": "g-c15-9",
+    "poetic": "grt-s9"
+   },
+   "mentions": 10,
+   "narrative": 10,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: a group, written as an ordinary noun in the Old Norse; rules.json `groups` lists its word forms (Grigory: every occurrence marked)"
+   ]
+  },
+  {
    "id": "draupnir",
    "tags": [
     "object"
@@ -10460,6 +10924,65 @@
    "card": true,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "alfar",
+   "tags": [
+    "people",
+    "elf"
+   ],
+   "type": "people",
+   "wikidata": null,
+   "names": {
+    "on": "Álfar",
+    "is": "Álfar",
+    "en": "Elves"
+   },
+   "desc": {
+    "en": "the elves, named beside the Æsir in the poems; Snorri divides them into light-elves and dark-elves"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "álfa",
+     "Álf",
+     "Álfr",
+     "álfar",
+     "álfum"
+    ],
+    "is": [
+     "álfa",
+     "Álf",
+     "Álfur",
+     "álfar",
+     "álfum"
+    ],
+    "en": [
+     "Elves",
+     "elves"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c15-9",
+    "poetic": "hhv-p7"
+   },
+   "first_any": {
+    "snorri": "g-c15-9",
+    "poetic": "hhv-p7"
+   },
+   "mentions": 7,
+   "narrative": 7,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: a group, written as an ordinary noun in the Old Norse; rules.json `groups` lists its word forms (Grigory: every occurrence marked)"
+   ]
   },
   {
    "id": "borghild",

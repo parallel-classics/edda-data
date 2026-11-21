@@ -237,6 +237,10 @@
         {
           "id": "ljosalfar",
           "rel": "home_of"
+        },
+        {
+          "id": "alfar",
+          "rel": "home_of"
         }
       ],
       "status": "draft",
@@ -1083,6 +1087,10 @@
       "related": [
         {
           "id": "odin",
+          "rel": "home_of"
+        },
+        {
+          "id": "aesir",
           "rel": "home_of"
         }
       ],
@@ -3424,7 +3432,12 @@
       ],
       "stories": [],
       "myths": [],
-      "related": [],
+      "related": [
+        {
+          "id": "alfar",
+          "rel": "companion"
+        }
+      ],
       "status": "draft",
       "by": "claude"
     },
@@ -15027,6 +15040,10 @@
           "id": "hyrrokkin",
           "rel": "home_of",
           "auto": "inverse"
+        },
+        {
+          "id": "jotnar",
+          "rel": "home_of"
         }
       ],
       "status": "draft",
@@ -15450,6 +15467,10 @@
           "id": "vidblainn",
           "rel": "lives_in",
           "auto": "relations"
+        },
+        {
+          "id": "alfar",
+          "rel": "companion"
         }
       ],
       "status": "draft",
@@ -19396,6 +19417,10 @@
           "id": "lodurr",
           "rel": "companion",
           "auto": "inverse"
+        },
+        {
+          "id": "valkyrjur",
+          "rel": "master_of"
         }
       ],
       "status": "draft",
@@ -24332,6 +24357,10 @@
         {
           "id": "andvari",
           "rel": "home_of"
+        },
+        {
+          "id": "dvergar",
+          "rel": "home_of"
         }
       ],
       "status": "draft",
@@ -26637,6 +26666,10 @@
           "id": "saehrimnir",
           "rel": "home_of",
           "auto": "inverse"
+        },
+        {
+          "id": "valkyrjur",
+          "rel": "home_of"
         }
       ],
       "status": "draft",
@@ -28240,6 +28273,10 @@
         {
           "id": "ve",
           "rel": "killed_by"
+        },
+        {
+          "id": "hrimthursar",
+          "rel": "parent_of"
         }
       ],
       "status": "draft",
@@ -28491,6 +28528,10 @@
         {
           "id": "vanaheimr",
           "rel": "lives_in"
+        },
+        {
+          "id": "aesir",
+          "rel": "fights"
         }
       ],
       "status": "draft",
@@ -39429,6 +39470,969 @@
           "people"
         ]
       }
+    },
+    "aesir": {
+      "hook": {
+        "en": "The gods of Ásgarðr, Óðinn's kin. Twelve of them sit as judges, and most of them fall at Ragnarök.",
+        "is": "Goðin í Ásgarði, ætt Óðins. Tólf þeirra sitja sem dómendur, og flest þeirra falla í Ragnarökum."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "Snorri counts twelve divine Æsir. At Ægir's feast twelve of them sit in the high seats as judges: Þórr, Njörðr, Freyr, Týr, Heimdallr, Bragi, Víðarr, Váli, Ullr, Hœnir, Forseti and Loki.",
+            "is": "Snorri telur tólf goðkunnuga æsi. Í veislu Ægis sitja tólf þeirra í hásætum sem dómendur: Þór, Njörður, Freyr, Týr, Heimdallur, Bragi, Víðar, Váli, Ullur, Hænir, Forseti og Loki."
+          },
+          "ids": [
+            "thor",
+            "njordr",
+            "freyr",
+            "tyr",
+            "heimdall",
+            "bragi",
+            "vidarr",
+            "vali",
+            "ull",
+            "h-nir",
+            "forseti",
+            "loki"
+          ],
+          "refs": [
+            "g-c20-2",
+            "s-c1-2"
+          ]
+        },
+        {
+          "label": {
+            "en": "Home",
+            "is": "Heimkynni"
+          },
+          "value": {
+            "en": "Borr's sons built Ásgarðr in the middle of the world, and the gods hold their court each day at the ash Yggdrasill.",
+            "is": "Synir Bors reistu Ásgarð í miðjum heimi, og goðin eiga dóma sína hvern dag við ask Yggdrasils."
+          },
+          "ids": [
+            "asgard",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c9-2",
+            "g-c15-2"
+          ]
+        },
+        {
+          "label": {
+            "en": "Known for",
+            "is": "Þekkt fyrir"
+          },
+          "value": {
+            "en": "Their war with the Vanir, the first war in the world. It ended with hostages: Njörðr came to the Æsir and Hœnir went to the Vanir.",
+            "is": "Stríð þeirra við vani, fyrsta stríð í heimi. Því lauk með gíslum: Njörður kom til ása og Hænir fór til vana."
+          },
+          "ids": [
+            "vanir",
+            "njordr",
+            "h-nir"
+          ],
+          "refs": [
+            "vsp-s24",
+            "g-c23-1"
+          ]
+        },
+        {
+          "label": {
+            "en": "Fate",
+            "is": "Örlög"
+          },
+          "value": {
+            "en": "At Ragnarök the Æsir hold council while Jötunheimr roars. Afterwards the survivors and Baldr and Höðr, back from Hel, meet at Iðavöllr, where Ásgarðr stood.",
+            "is": "Í Ragnarökum þinga æsir meðan gnýr í Jötunheimum. Síðan hittast þeir sem lifðu af og Baldur og Höður, komnir frá Hel, á Iðavelli þar sem Ásgarður stóð."
+          },
+          "ids": [
+            "baldur",
+            "hodr",
+            "idavollr"
+          ],
+          "refs": [
+            "g-c51-7",
+            "g-c53-2"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "s-c1-2",
+          "why": {
+            "en": "The twelve judges and the goddesses at Ægir's feast, all named.",
+            "is": "Dómendurnir tólf og ásynjurnar í veislu Ægis, öll nefnd."
+          }
+        },
+        {
+          "row": "vsp-s24",
+          "why": {
+            "en": "The first war in the world, between the Æsir and the Vanir.",
+            "is": "Fyrsta stríð í heimi, milli ása og vana."
+          }
+        },
+        {
+          "row": "g-c53-2",
+          "why": {
+            "en": "Who of the gods is left after Ragnarök.",
+            "is": "Hver goðanna eru eftir að Ragnarökum loknum."
+          }
+        }
+      ],
+      "related": [
+        {
+          "id": "vanir",
+          "rel": "fights"
+        },
+        {
+          "id": "asgard",
+          "rel": "lives_in"
+        },
+        {
+          "id": "asynjur",
+          "rel": "companion"
+        },
+        {
+          "id": "jotnar",
+          "rel": "fights"
+        }
+      ],
+      "status": "draft",
+      "stories": [],
+      "myths": [],
+      "by": "claude"
+    },
+    "asynjur": {
+      "hook": {
+        "en": "The goddesses: no less holy than the gods, says Snorri, and no less mighty.",
+        "is": "Ásynjurnar: ekki óhelgari en goðin, segir Snorri, og ekki máttarminni."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "Jafnhárr says the Ásynjur are no less holy than the gods and have no less power. Snorri's list begins with Frigg, the highest, and goes on with Sága, Eir, Gefjun, Fulla, Freyja and many more.",
+            "is": "Jafnhár segir að ásynjurnar séu ekki óhelgari en goðin og megi ekki minna. Listi Snorra hefst á Frigg, hinni æðstu, og heldur áfram með Sögu, Eir, Gefjun, Fullu, Freyju og mörgum fleiri."
+          },
+          "ids": [
+            "frigg",
+            "saga",
+            "eir",
+            "gefjon",
+            "fulla",
+            "freyja"
+          ],
+          "refs": [
+            "g-c20-3",
+            "g-c35-1"
+          ]
+        },
+        {
+          "label": {
+            "en": "Also counted",
+            "is": "Einnig taldar"
+          },
+          "value": {
+            "en": "Jörð, Þórr's mother, and Rindr, Váli's mother, are reckoned among them, and so are Sól and Bil.",
+            "is": "Jörð, móðir Þórs, og Rindur, móðir Vála, eru taldar með þeim, og einnig Sól og Bil."
+          },
+          "ids": [
+            "jord",
+            "rindr",
+            "sol"
+          ],
+          "refs": [
+            "g-c36-3",
+            "g-c35-20"
+          ]
+        },
+        {
+          "label": {
+            "en": "At the feast",
+            "is": "Í veislunni"
+          },
+          "value": {
+            "en": "At Ægir's feast eight of them sit with the twelve judges: Frigg, Freyja, Gefjun, Iðunn, Gerðr, Sigyn, Fulla and Nanna.",
+            "is": "Í veislu Ægis sitja átta þeirra með dómendunum tólf: Frigg, Freyja, Gefjun, Iðunn, Gerður, Sigyn, Fulla og Nanna."
+          },
+          "ids": [
+            "frigg",
+            "freyja",
+            "gefjon",
+            "idunn",
+            "gerdr",
+            "sigyn",
+            "fulla",
+            "nanna"
+          ],
+          "refs": [
+            "s-c1-2"
+          ]
+        },
+        {
+          "label": {
+            "en": "In the poems",
+            "is": "Í kvæðunum"
+          },
+          "value": {
+            "en": "The gods and the goddesses meet in council when Þórr's hammer is stolen and when Baldr dreams of his death.",
+            "is": "Goðin og ásynjurnar koma saman á þing þegar hamri Þórs er stolið og þegar Baldur dreymir fyrir dauða sínum."
+          },
+          "ids": [
+            "thor",
+            "baldur"
+          ],
+          "refs": [
+            "thrk-s14",
+            "bdr-s1"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c35-1",
+          "why": {
+            "en": "Snorri's list of the goddesses, one by one.",
+            "is": "Listi Snorra yfir ásynjurnar, eina af annarri."
+          }
+        },
+        {
+          "row": "g-c20-3",
+          "why": {
+            "en": "Not less holy than the gods.",
+            "is": "Ekki óhelgari en goðin."
+          }
+        },
+        {
+          "row": "thrk-s14",
+          "why": {
+            "en": "The goddesses in council over Þórr's lost hammer.",
+            "is": "Ásynjurnar á þingi um týndan hamar Þórs."
+          }
+        }
+      ],
+      "related": [
+        {
+          "id": "aesir",
+          "rel": "companion"
+        }
+      ],
+      "status": "draft",
+      "stories": [],
+      "myths": [],
+      "by": "claude"
+    },
+    "jotnar": {
+      "hook": {
+        "en": "The giants: the world was made from one of them, and the gods keep marrying their daughters and fighting their sons.",
+        "is": "Jötnarnir: heimurinn var gerður úr einum þeirra, og goðin kvænast sífellt dætrum þeirra og berjast við syni þeirra."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Origin",
+            "is": "Uppruni"
+          },
+          "value": {
+            "en": "The first giant, Ymir, grew from the melting rime in Ginnungagap. Borr's sons killed him, and the frost-giants drowned in his blood, all but Bergelmir and his household.",
+            "is": "Fyrsti jötunninn, Ymir, kviknaði úr bráðnandi hrími í Ginnungagapi. Synir Bors drápu hann, og hrímþursar drukknuðu í blóði hans, allir nema Bergelmir og fólk hans."
+          },
+          "ids": [
+            "ymir",
+            "bergelmir",
+            "hrimthursar"
+          ],
+          "refs": [
+            "g-c5-4",
+            "g-c7-2"
+          ]
+        },
+        {
+          "label": {
+            "en": "Home",
+            "is": "Heimkynni"
+          },
+          "value": {
+            "en": "The gods gave the giants lands along the shore of the deep sea, and built a wall around Miðgarðr against them from Ymir's brows.",
+            "is": "Goðin gáfu jötnum lönd til byggðar við strönd hins djúpa sjávar og reistu borg um Miðgarð gegn þeim úr brám Ymis."
+          },
+          "ids": [
+            "jotunheim",
+            "midgard"
+          ],
+          "refs": [
+            "g-c8-8"
+          ]
+        },
+        {
+          "label": {
+            "en": "Known for",
+            "is": "Þekkt fyrir"
+          },
+          "value": {
+            "en": "A giant builder offers to raise the gods' wall for Freyja, the sun and the moon. When the Æsir see that a hill-giant has come, they call Þórr, who kills him.",
+            "is": "Jötunn býðst til að reisa borg goðanna fyrir Freyju, sól og mána. Þegar æsir sjá að bergrisi er kominn kalla þeir á Þór, sem drepur hann."
+          },
+          "ids": [
+            "bergrisar",
+            "freyja",
+            "thor"
+          ],
+          "refs": [
+            "g-c42-2",
+            "g-c42-4"
+          ]
+        },
+        {
+          "label": {
+            "en": "Kin",
+            "is": "Ætt"
+          },
+          "value": {
+            "en": "Many gods take giant women: Njörðr marries Skaði, Freyr longs for Gerðr, Gymir's daughter, and Loki has three children with the giantess Angrboða.",
+            "is": "Mörg goð taka sér jötnakonur: Njörður kvænist Skaða, Freyr þráir Gerði Gymisdóttur, og Loki á þrjú börn með gýginni Angurboðu."
+          },
+          "ids": [
+            "njordr",
+            "skadi",
+            "freyr",
+            "gerdr",
+            "gymir",
+            "loki",
+            "angrboda"
+          ],
+          "refs": [
+            "g-c23-1",
+            "g-c37-1",
+            "g-c34-1"
+          ]
+        },
+        {
+          "label": {
+            "en": "Fate",
+            "is": "Örlög"
+          },
+          "value": {
+            "en": "At Ragnarök Hrymr comes with all the frost-giants to fight the gods.",
+            "is": "Í Ragnarökum kemur Hrymur með alla hrímþursa til að berjast við goðin."
+          },
+          "ids": [
+            "hrym",
+            "hrimthursar"
+          ],
+          "refs": [
+            "g-c51-4"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c8-8",
+          "why": {
+            "en": "Why the giants live by the sea and the gods built Miðgarðr's wall.",
+            "is": "Hvers vegna jötnar búa við sjóinn og goðin reistu borgina um Miðgarð."
+          }
+        },
+        {
+          "row": "g-c42-2",
+          "why": {
+            "en": "The giant builder and his bargain for Freyja, the sun and the moon.",
+            "is": "Smiðurinn úr jötnaætt og kaup hans um Freyju, sól og mána."
+          }
+        },
+        {
+          "row": "g-c46-4",
+          "why": {
+            "en": "Þórr's party against Útgarða-Loki's contests.",
+            "is": "Förunautar Þórs í keppnum hjá Útgarða-Loka."
+          }
+        }
+      ],
+      "related": [
+        {
+          "id": "aesir",
+          "rel": "fights"
+        },
+        {
+          "id": "jotunheim",
+          "rel": "lives_in"
+        },
+        {
+          "id": "hrimthursar",
+          "rel": "companion"
+        },
+        {
+          "id": "bergrisar",
+          "rel": "companion"
+        }
+      ],
+      "status": "draft",
+      "stories": [],
+      "myths": [],
+      "by": "claude"
+    },
+    "hrimthursar": {
+      "hook": {
+        "en": "The frost-giants, Ymir's kin: almost all of them drowned in his blood, and their descendants come against the gods at Ragnarök.",
+        "is": "Hrímþursar, ætt Ymis: nær allir drukknuðu í blóði hans, og afkomendur þeirra sækja að goðunum í Ragnarökum."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Origin",
+            "is": "Uppruni"
+          },
+          "value": {
+            "en": "Hárr says Ymir was evil, and so were all his kin: \"we call them frost-giants\". A man and a woman grew under his left arm while he slept.",
+            "is": "Hár segir að Ymir hafi verið illur, og öll hans ætt: „það köllum vér hrímþursa“. Maður og kona uxu undir vinstri hendi hans meðan hann svaf."
+          },
+          "ids": [
+            "ymir"
+          ],
+          "refs": [
+            "g-c5-9"
+          ]
+        },
+        {
+          "label": {
+            "en": "The flood",
+            "is": "Flóðið"
+          },
+          "value": {
+            "en": "When Borr's sons killed Ymir, his blood drowned the race of frost-giants, all but Bergelmir, who escaped with his household on his ship.",
+            "is": "Þegar synir Bors drápu Ymi drekkti blóð hans ætt hrímþursa, öllum nema Bergelmi, sem komst undan með fólk sitt á skipi sínu."
+          },
+          "ids": [
+            "bergelmir"
+          ],
+          "refs": [
+            "g-c7-2"
+          ]
+        },
+        {
+          "label": {
+            "en": "Place",
+            "is": "Staður"
+          },
+          "value": {
+            "en": "One root of Yggdrasill reaches to the frost-giants, where Ginnungagap once was.",
+            "is": "Ein rót Yggdrasils liggur til hrímþursa, þar sem Ginnungagap var áður."
+          },
+          "ids": [
+            "yggdrasil",
+            "ginnungagap"
+          ],
+          "refs": [
+            "g-c15-4",
+            "grm-s31"
+          ]
+        },
+        {
+          "label": {
+            "en": "Fate",
+            "is": "Örlög"
+          },
+          "value": {
+            "en": "At Ragnarök Hrymr leads all the frost-giants.",
+            "is": "Í Ragnarökum fer Hrymur fyrir öllum hrímþursum."
+          },
+          "ids": [
+            "hrym"
+          ],
+          "refs": [
+            "g-c51-4"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c5-9",
+          "why": {
+            "en": "Ymir and the kin of the frost-giants.",
+            "is": "Ymir og ætt hrímþursa."
+          }
+        },
+        {
+          "row": "g-c7-2",
+          "why": {
+            "en": "The flood of Ymir's blood, and Bergelmir's escape.",
+            "is": "Flóð blóðs Ymis og undankoma Bergelmis."
+          }
+        }
+      ],
+      "related": [
+        {
+          "id": "jotnar",
+          "rel": "companion"
+        },
+        {
+          "id": "ymir",
+          "rel": "child_of"
+        }
+      ],
+      "status": "draft",
+      "stories": [],
+      "myths": [],
+      "by": "claude"
+    },
+    "bergrisar": {
+      "hook": {
+        "en": "The hill-giants: Heimdallr guards Bifröst against them, and one of them nearly won Freyja by building the gods' wall.",
+        "is": "Bergrisar: Heimdallur gætir Bifrastar fyrir þeim, og einn þeirra vann nærri því Freyju með því að reisa borg goðanna."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A kin of giants named beside the frost-giants. Fire burns in Bifröst so that they cannot climb to heaven, and Heimdallr guards the bridge against them.",
+            "is": "Jötnaætt sem nefnd er við hlið hrímþursa. Eldur brennur í Bifröst svo að þeir komist ekki upp á himin, og Heimdallur gætir brúarinnar fyrir þeim."
+          },
+          "ids": [
+            "bifrost",
+            "heimdall"
+          ],
+          "refs": [
+            "g-c15-9",
+            "g-c27-1"
+          ]
+        },
+        {
+          "label": {
+            "en": "Known for",
+            "is": "Þekkt fyrir"
+          },
+          "value": {
+            "en": "The builder of the gods' wall was a hill-giant; when the Æsir saw it, they called Þórr, who killed him.",
+            "is": "Smiður borgar goðanna var bergrisi; þegar æsir sáu það kölluðu þeir á Þór, sem drap hann."
+          },
+          "ids": [
+            "thor",
+            "svadilfari"
+          ],
+          "refs": [
+            "g-c42-2",
+            "g-c42-4"
+          ]
+        },
+        {
+          "label": {
+            "en": "Kin",
+            "is": "Ætt"
+          },
+          "value": {
+            "en": "Aurboða, Gerðr's mother, was of the hill-giants' kin, and in Grottasöngr the maids Fenja and Menja call themselves kin of mountain-giants.",
+            "is": "Aurboða, móðir Gerðar, var bergrisaættar, og í Grottasöng segjast ambáttirnar Fenja og Menja vera af ætt bergrisa."
+          },
+          "ids": [
+            "aurboda",
+            "gerdr",
+            "fenja",
+            "menja"
+          ],
+          "refs": [
+            "g-c37-1",
+            "grt-s9"
+          ]
+        },
+        {
+          "label": {
+            "en": "At Baldr's pyre",
+            "is": "Við bál Baldurs"
+          },
+          "value": {
+            "en": "Many frost-giants and hill-giants came to Baldr's funeral.",
+            "is": "Margir hrímþursar og bergrisar komu að útför Baldurs."
+          },
+          "ids": [
+            "baldur"
+          ],
+          "refs": [
+            "g-c49-15"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c42-4",
+          "why": {
+            "en": "The hill-giant builder found out, and killed.",
+            "is": "Bergrisinn sem smiður kemst upp og er drepinn."
+          }
+        },
+        {
+          "row": "g-c27-1",
+          "why": {
+            "en": "Heimdallr at heaven's end, watching for them.",
+            "is": "Heimdallur við himins enda, á verði fyrir þeim."
+          }
+        }
+      ],
+      "related": [
+        {
+          "id": "jotnar",
+          "rel": "companion"
+        }
+      ],
+      "status": "draft",
+      "stories": [],
+      "myths": [],
+      "by": "claude"
+    },
+    "dvergar": {
+      "hook": {
+        "en": "The dwarfs came alive like maggots in Ymir's flesh, and made the gods' best treasures.",
+        "is": "Dvergarnir kviknuðu eins og maðkar í holdi Ymis og smíðuðu bestu gripi goðanna."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Origin",
+            "is": "Uppruni"
+          },
+          "value": {
+            "en": "The gods remembered how the dwarfs had come alive in the earth like maggots in flesh, and gave them human understanding and the likeness of men. Völuspá names Mótsognir and Durinn first.",
+            "is": "Goðin minntust þess hvernig dvergar höfðu kviknað í moldinni eins og maðkar í holdi og gáfu þeim mannsvit og mannslíki. Völuspá nefnir Mótsogni og Durin fyrsta."
+          },
+          "ids": [
+            "durinn"
+          ],
+          "refs": [
+            "g-c14-2",
+            "vsp-s10"
+          ]
+        },
+        {
+          "label": {
+            "en": "The sky",
+            "is": "Himinninn"
+          },
+          "value": {
+            "en": "Four dwarfs, Austri, Vestri, Norðri and Suðri, stand under the four corners of the sky made from Ymir's skull.",
+            "is": "Fjórir dvergar, Austri, Vestri, Norðri og Suðri, standa undir fjórum hornum himinsins sem gerður var úr hausi Ymis."
+          },
+          "ids": [
+            "austri",
+            "vestri",
+            "nordri",
+            "sudri"
+          ],
+          "refs": [
+            "g-c8-4"
+          ]
+        },
+        {
+          "label": {
+            "en": "Made",
+            "is": "Smíðuðu"
+          },
+          "value": {
+            "en": "Gleipnir, the fetter that holds Fenrir, made in Svartálfaheimr; the treasures of Sindri and Brokkr, Mjöllnir among them; and the mead of poetry, brewed by Fjalar and Galarr from Kvasir's blood.",
+            "is": "Gleipni, fjöturinn sem heldur Fenri, gerðan í Svartálfaheimi; gripi Sindra og Brokks, þar á meðal Mjölni; og skáldskaparmjöðinn sem Fjalar og Galar brugguðu úr blóði Kvasis."
+          },
+          "ids": [
+            "gleipnir",
+            "fenrir",
+            "sindri",
+            "brokkr",
+            "mjolnir",
+            "fjalar",
+            "galar",
+            "kvasir"
+          ],
+          "refs": [
+            "g-c34-4",
+            "s-c43-2",
+            "s-c5-3"
+          ]
+        },
+        {
+          "label": {
+            "en": "In the poems",
+            "is": "Í kvæðunum"
+          },
+          "value": {
+            "en": "Völuspá lists dozens of dwarf names; in Alvíssmál the dwarf Alvíss answers Þórr's questions until daybreak turns him to stone.",
+            "is": "Völuspá telur upp tugi dvergaheita; í Alvíssmálum svarar dvergurinn Alvís spurningum Þórs þar til dagsbirtan breytir honum í stein."
+          },
+          "ids": [
+            "alviss",
+            "thor"
+          ],
+          "refs": [
+            "vsp-s12",
+            "alv-s9"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-2",
+          "why": {
+            "en": "How the dwarfs came to life.",
+            "is": "Hvernig dvergarnir kviknuðu."
+          }
+        },
+        {
+          "row": "s-c43-2",
+          "why": {
+            "en": "Loki's wager with Brokkr, and the forging of the treasures.",
+            "is": "Veðmál Loka við Brokk og smíði gripanna."
+          }
+        },
+        {
+          "row": "vsp-s10",
+          "why": {
+            "en": "The first dwarfs in Völuspá.",
+            "is": "Fyrstu dvergarnir í Völuspá."
+          }
+        }
+      ],
+      "related": [
+        {
+          "id": "svartalfaheimr",
+          "rel": "lives_in"
+        }
+      ],
+      "status": "draft",
+      "stories": [],
+      "myths": [],
+      "by": "claude"
+    },
+    "alfar": {
+      "hook": {
+        "en": "The elves, named beside the gods in the poems: \"How fare the Æsir? How fare the elves?\"",
+        "is": "Álfarnir, nefndir við hlið goðanna í kvæðunum: „Hvat er með ásum, hvat er með álfum?“"
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Kinds",
+            "is": "Tegundir"
+          },
+          "value": {
+            "en": "Snorri divides them: light-elves live in Álfheimr and are fairer than the sun; dark-elves live down in the earth and are blacker than pitch.",
+            "is": "Snorri skiptir þeim: ljósálfar búa í Álfheimi og eru fegri en sól; dökkálfar búa niðri í jörðu og eru svartari en bik."
+          },
+          "ids": [
+            "ljosalfar",
+            "dokkalfar",
+            "alfheimr"
+          ],
+          "refs": [
+            "g-c17-2"
+          ]
+        },
+        {
+          "label": {
+            "en": "Beside the gods",
+            "is": "Við hlið goðanna"
+          },
+          "value": {
+            "en": "The poems pair Æsir and elves: Völuspá asks how both fare at Ragnarök, and in Hávamál Dáinn carves runes for the elves.",
+            "is": "Kvæðin nefna æsi og álfa saman: Völuspá spyr hvernig hvorum tveggja reiði af í Ragnarökum, og í Hávamálum ristir Dáinn rúnir fyrir álfa."
+          },
+          "ids": [
+            "aesir",
+            "dainn"
+          ],
+          "refs": [
+            "vsp-s48",
+            "hav-s143"
+          ]
+        },
+        {
+          "label": {
+            "en": "Norns",
+            "is": "Nornir"
+          },
+          "value": {
+            "en": "Some norns, says Snorri, are of the elves' kin.",
+            "is": "Sumar nornir, segir Snorri, eru álfaættar."
+          },
+          "ids": [
+            "norns"
+          ],
+          "refs": [
+            "g-c15-9"
+          ]
+        },
+        {
+          "label": {
+            "en": "In poetry",
+            "is": "Í skáldskap"
+          },
+          "value": {
+            "en": "A skald may call a man by the name of any of the Æsir or elves.",
+            "is": "Skáld má kenna mann við nafn hvers sem er af ásum eða álfum."
+          },
+          "ids": [],
+          "refs": [
+            "s-c7-8"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c17-2",
+          "why": {
+            "en": "Light-elves and dark-elves.",
+            "is": "Ljósálfar og dökkálfar."
+          }
+        },
+        {
+          "row": "vsp-s48",
+          "why": {
+            "en": "\"What of the Æsir? What of the elves?\" at Ragnarök.",
+            "is": "„Hvat er með ásum, hvat er með álfum?“ í Ragnarökum."
+          }
+        }
+      ],
+      "related": [
+        {
+          "id": "ljosalfar",
+          "rel": "companion"
+        },
+        {
+          "id": "dokkalfar",
+          "rel": "companion"
+        },
+        {
+          "id": "alfheimr",
+          "rel": "lives_in"
+        }
+      ],
+      "status": "draft",
+      "stories": [],
+      "myths": [],
+      "by": "claude"
+    },
+    "valkyrjur": {
+      "hook": {
+        "en": "Óðinn's women: they ride to every battle, choose who dies, and pour the drink in Valhöll.",
+        "is": "Konur Óðins: þær ríða til hverrar orrustu, kjósa hverjir falla og bera drykkinn í Valhöll."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "Óðinn sends them to every battle; they choose which men are to die and decide the victory. Guðr, Róta and Skuld, the youngest norn, ride to choose the slain.",
+            "is": "Óðinn sendir þær til hverrar orrustu; þær kjósa feigð á menn og ráða sigri. Guður, Róta og Skuld, yngst norna, ríða til að kjósa val."
+          },
+          "ids": [
+            "odin",
+            "skuld"
+          ],
+          "refs": [
+            "g-c36-3"
+          ]
+        },
+        {
+          "label": {
+            "en": "In Valhöll",
+            "is": "Í Valhöll"
+          },
+          "value": {
+            "en": "They serve in Valhöll, bringing the drink and looking after the table and the ale-cups.",
+            "is": "Þær þjóna í Valhöll, bera drykkju og gæta borðbúnaðar og ölgagna."
+          },
+          "ids": [
+            "valhalla"
+          ],
+          "refs": [
+            "g-c36-1"
+          ]
+        },
+        {
+          "label": {
+            "en": "Völuspá",
+            "is": "Völuspá"
+          },
+          "value": {
+            "en": "The seeress sees valkyries ride from far and wide to the gods' host: Skuld, Skögul, Gunnr, Hildr, Göndul and Geirskögul.",
+            "is": "Völvan sér valkyrjur koma vítt um komnar, gervar að ríða til goðþjóðar: Skuld, Skögul, Gunni, Hildi, Göndul og Geirskögul."
+          },
+          "ids": [
+            "skuld",
+            "skogul",
+            "hildr",
+            "gondul"
+          ],
+          "refs": [
+            "vsp-s30"
+          ]
+        },
+        {
+          "label": {
+            "en": "Heroes",
+            "is": "Hetjur"
+          },
+          "value": {
+            "en": "In the heroic poems valkyries love heroes: Sigrún rides through air and sea to find Helgi, and Brynhildr was a valkyrie.",
+            "is": "Í hetjukvæðunum unna valkyrjur hetjum: Sigrún ríður um loft og lög að leita Helga, og Brynhildur var valkyrja."
+          },
+          "ids": [
+            "sigrun",
+            "helgi-hundingsbani",
+            "brynhild"
+          ],
+          "refs": [
+            "hh2-p4",
+            "s-c48-1"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c36-3",
+          "why": {
+            "en": "Who the valkyries are and what they do.",
+            "is": "Hverjar valkyrjurnar eru og hvað þær gera."
+          }
+        },
+        {
+          "row": "vsp-s30",
+          "why": {
+            "en": "The valkyries ride to the gods' host.",
+            "is": "Valkyrjurnar ríða til goðþjóðar."
+          }
+        },
+        {
+          "row": "g-c49-15",
+          "why": {
+            "en": "Frigg and the valkyries go with Óðinn to Baldr's pyre.",
+            "is": "Frigg og valkyrjurnar fara með Óðni að bálför Baldurs."
+          }
+        }
+      ],
+      "related": [
+        {
+          "id": "odin",
+          "rel": "servant_of"
+        },
+        {
+          "id": "valhalla",
+          "rel": "lives_in"
+        }
+      ],
+      "status": "draft",
+      "stories": [],
+      "myths": [],
+      "by": "claude"
     }
   }
 }
