@@ -843,6 +843,13 @@
     "hdl": "ok",
     "s": "ottarr-svarti",
     "*": "check"
+   },
+   "gymir": {
+    "ls-p1": "aegir",
+    "s-c33-8": "aegir",
+    "s-c33-9": "aegir",
+    "s-c76-8": "aegir",
+    "*": "ok"
    }
   },
   "near": {

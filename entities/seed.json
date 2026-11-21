@@ -1150,7 +1150,9 @@
     "Hlér": "heiti"
    },
    "status": "auto",
-   "notes": [],
+   "notes": [
+    "2026-11-20: Gymir is also a name of Ægir (Lokasenna prose; Skáldskaparmál 33 'allt er eitt Ægir ok Hlér ok Gymir'); rules.json sends those rows here, the giant Gymir father of Gerðr keeps the rest"
+   ],
    "mentions": 40,
    "first": {
     "snorri": "s-c1-1",
