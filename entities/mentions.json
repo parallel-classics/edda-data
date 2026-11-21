@@ -8878,6 +8878,22 @@
    "status": "auto"
   },
   {
+   "entity": "arvakr",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Early-Wake",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "alsvidr",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "All-Strong",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "mani",
    "row": "g-c11-2",
    "lang": "en",
@@ -9002,6 +9018,22 @@
    "row": "g-c11-2",
    "lang": "en-modern",
    "form": "Múspellheim",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "arvakr",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Early-Wake",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "alsvidr",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "All-Strong",
    "kind": "name",
    "status": "auto"
   },
