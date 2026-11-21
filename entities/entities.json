@@ -3292,6 +3292,68 @@
    ]
   },
   {
+   "id": "norns",
+   "tags": [
+    "norn",
+    "people"
+   ],
+   "type": "norn",
+   "wikidata": null,
+   "names": {
+    "on": "Nornir",
+    "is": "Nornir",
+    "en": "Norns"
+   },
+   "desc": {
+    "en": "the women who shape fate"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "nornir",
+     "norna",
+     "norn",
+     "Norna",
+     "nornar",
+     "nornum"
+    ],
+    "is": [
+     "nornir",
+     "norna",
+     "norn",
+     "Norna",
+     "nornar",
+     "nornum"
+    ],
+    "en": [
+     "Norns",
+     "norns",
+     "Norn"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c15-9",
+    "poetic": "hh1-s2"
+   },
+   "first_any": {
+    "snorri": "g-c15-9",
+    "poetic": "hh1-s2"
+   },
+   "mentions": 26,
+   "narrative": 26,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added from the cloud message of 2026-11-08 (norns)"
+   ]
+  },
+  {
    "id": "ulfr-uggason",
    "tags": [
     "poet"
@@ -16810,57 +16872,58 @@
    "notes": []
   },
   {
-   "id": "glenr",
+   "id": "gisl",
    "tags": [
-    "god"
+    "horse",
+    "animal"
    ],
-   "type": "god",
-   "wikidata": "Q5569275",
+   "type": "horse",
+   "wikidata": null,
    "names": {
-    "en": "Glenr",
-    "da": "Glenr",
-    "nb": "Glenr",
-    "sv": "Glenr",
-    "de": "Glenr"
+    "on": "Gísl",
+    "en": "Gisl"
    },
    "desc": {
-    "en": "Norse god"
+    "en": "one of the horses the Æsir ride each day to their court at Yggdrasill"
    },
    "image": null,
    "image_candidates": [],
    "coords": null,
-   "wiki": {
-    "enwiki": "Glenr",
-    "dewiki": "Glenr"
-   },
+   "wiki": {},
    "image_source": null,
    "forms": {
     "on": [
-     "Glenr",
-     "Glens"
+     "Gísl",
+     "Gils"
     ],
     "is": [
-     "Glens",
-     "Glenur"
+     "Gils",
+     "Gísl"
     ],
     "en": [
-     "Glenr",
-     "Glenr's"
+     "Gisl",
+     "Gils",
+     "Gísl"
     ]
    },
    "heiti": {},
    "first": {
-    "snorri": "g-c11-2"
+    "snorri": "g-c15-6",
+    "poetic": "ebr-v8"
    },
    "first_any": {
-    "snorri": "g-c11-2"
+    "snorri": "g-c15-6",
+    "poetic": "grm-s30"
    },
    "mentions": 4,
-   "narrative": 4,
+   "narrative": 2,
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "added 2026-11-21 at Grigory's request: the horses of the Æsir (Gylfaginning 15, Grímnismál 30, the horse names of Skáldskaparmál)",
+    "added by rules.json"
+   ]
   },
   {
    "id": "glitnir",
@@ -20998,6 +21061,56 @@
    "notes": []
   },
   {
+   "id": "glaer",
+   "tags": [
+    "horse",
+    "animal"
+   ],
+   "type": "horse",
+   "wikidata": null,
+   "names": {
+    "on": "Glær",
+    "en": "Glaer"
+   },
+   "desc": {
+    "en": "one of the horses the Æsir ride each day to their court at Yggdrasill"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Glær"
+    ],
+    "is": [
+     "Glær"
+    ],
+    "en": [
+     "Glær",
+     "Gler"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "poetic": "ebr-v8"
+   },
+   "first_any": {
+    "snorri": "s-c72-4",
+    "poetic": "grm-s30"
+   },
+   "mentions": 3,
+   "narrative": 1,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21 at Grigory's request: the horses of the Æsir (Gylfaginning 15, Grímnismál 30, the horse names of Skáldskaparmál)",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "glaumr",
    "tags": [
     "horse"
@@ -21044,6 +21157,59 @@
    "notes": [
     "added from the seed patch of 2026-11-01"
    ]
+  },
+  {
+   "id": "glenr",
+   "tags": [
+    "god"
+   ],
+   "type": "god",
+   "wikidata": "Q5569275",
+   "names": {
+    "en": "Glenr",
+    "da": "Glenr",
+    "nb": "Glenr",
+    "sv": "Glenr",
+    "de": "Glenr"
+   },
+   "desc": {
+    "en": "Norse god"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {
+    "enwiki": "Glenr",
+    "dewiki": "Glenr"
+   },
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Glens",
+     "Glenr"
+    ],
+    "is": [
+     "Glens",
+     "Glenur"
+    ],
+    "en": [
+     "Glenr",
+     "Glenr's"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c11-2"
+   },
+   "first_any": {
+    "snorri": "g-c11-2"
+   },
+   "mentions": 3,
+   "narrative": 3,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": []
   },
   {
    "id": "granmarssynir",
@@ -27688,6 +27854,56 @@
    "notes": []
   },
   {
+   "id": "kormt",
+   "tags": [
+    "river"
+   ],
+   "type": "river",
+   "wikidata": null,
+   "names": {
+    "on": "Körmt",
+    "is": "Körmt",
+    "en": "Kormt"
+   },
+   "desc": {
+    "en": "one of the rivers Þórr wades each day on his way to the gods' court at Yggdrasill (Grímnismál 29, Gylfaginning 15)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Körmt"
+    ],
+    "is": [
+     "Körmt"
+    ],
+    "en": [
+     "Kormt",
+     "Körmt"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c15-7"
+   },
+   "first_any": {
+    "snorri": "g-c15-7",
+    "poetic": "grm-s29"
+   },
+   "mentions": 2,
+   "narrative": 1,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21 at Grigory's request (Gylfaginning 15.7)",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "leifthrasir",
    "tags": [
     "hero"
@@ -32899,6 +33115,54 @@
    "notes": []
   },
   {
+   "id": "glenr-horse",
+   "tags": [
+    "horse",
+    "animal"
+   ],
+   "type": "horse",
+   "wikidata": null,
+   "names": {
+    "on": "Glenr",
+    "en": "Glenr (horse)"
+   },
+   "desc": {
+    "en": "one of the horses the Æsir ride each day to their court at Yggdrasill"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Glenr"
+    ],
+    "is": [
+     "Glenur"
+    ],
+    "en": [
+     "Glenr"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c15-6"
+   },
+   "first_any": {
+    "snorri": "g-c15-6"
+   },
+   "mentions": 1,
+   "narrative": 1,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21 at Grigory's request: the horses of the Æsir (Gylfaginning 15, Grímnismál 30, the horse names of Skáldskaparmál)",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "gullveig",
    "tags": [
     "giant"
@@ -35414,40 +35678,6 @@
    "card": false,
    "status": "auto",
    "notes": []
-  },
-  {
-   "id": "norns",
-   "tags": [
-    "norn",
-    "people"
-   ],
-   "type": "norn",
-   "wikidata": null,
-   "names": {
-    "on": "Nornir",
-    "is": "Nornir",
-    "en": "Norns"
-   },
-   "desc": {
-    "en": "the women who shape fate"
-   },
-   "image": null,
-   "image_candidates": [],
-   "coords": null,
-   "wiki": {},
-   "image_source": null,
-   "forms": {},
-   "heiti": {},
-   "first": {},
-   "first_any": {},
-   "mentions": 0,
-   "narrative": 0,
-   "check": 0,
-   "card": false,
-   "status": "auto",
-   "notes": [
-    "added from the cloud message of 2026-11-08 (norns)"
-   ]
   }
  ]
 }

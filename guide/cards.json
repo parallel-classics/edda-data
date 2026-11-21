@@ -44571,6 +44571,572 @@
       "related": [],
       "status": "draft",
       "by": "claude"
+    },
+    "glenr-horse": {
+      "hook": {
+        "en": "Glenr is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill. It has the same name as Glenr, the husband of Sól.",
+        "is": "Glenr er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil. Hann ber sama nafn og Glenr, eiginmaður Sólar."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6"
+          ]
+        },
+        {
+          "label": {
+            "en": "Same name",
+            "is": "Sama nafn"
+          },
+          "value": {
+            "en": "Glenr is also the man Mundilfari married his daughter Sól to",
+            "is": "Glenr er líka maðurinn sem Mundilfari gifti Sól dóttur sína"
+          },
+          "ids": [
+            "glenr",
+            "sol"
+          ],
+          "refs": [
+            "g-c11-2"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "gisl": {
+      "hook": {
+        "en": "Gísl is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “beam, or ray”.",
+        "is": "Gísl er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „geisli“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "s-c72-4",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “beam, or ray”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „geisli“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "glaer": {
+      "hook": {
+        "en": "Glær is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “clear, or glassy”.",
+        "is": "Glær er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „tær, eða glær“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "s-c72-4",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “clear, or glassy”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „tær, eða glær“"
+          },
+          "ids": [],
+          "refs": [
+            "s-c72-4"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "s-c72-4",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "gladr": {
+      "hook": {
+        "en": "Glaðr is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “glad, or bright”.",
+        "is": "Glaðr er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „glaður, eða bjartur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "s-c72-9"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “glad, or bright”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „glaður, eða bjartur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "gyllir": {
+      "hook": {
+        "en": "Gyllir is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “golden”.",
+        "is": "Gyllir er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „gullinn“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "s-c72-4",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “golden”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „gullinn“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "skeidbrimir": {
+      "hook": {
+        "en": "Skeidbrimir is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “the one that snorts as he runs”.",
+        "is": "Skeidbrimir er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „sá sem fnæsir á skeiði“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "s-c72-4",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “the one that snorts as he runs”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „sá sem fnæsir á skeiði“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "silfrintoppr": {
+      "hook": {
+        "en": "Silfrintoppr is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “silver-tuft”.",
+        "is": "Silfrintoppr er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „silfurtoppur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “silver-tuft”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „silfurtoppur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "sinir": {
+      "hook": {
+        "en": "Sinir is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “sinewy”.",
+        "is": "Sinir er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „sinaber“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "s-c72-3",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “sinewy”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „sinaber“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "falhofnir": {
+      "hook": {
+        "en": "Falhófnir is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “hairy-hoof, or hidden-hoof, or pale-hoof”.",
+        "is": "Falhófnir er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „hærður hófur, eða hulinn hófur, eða fölur hófur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "s-c72-4",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “hairy-hoof, or hidden-hoof, or pale-hoof”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „hærður hófur, eða hulinn hófur, eða fölur hófur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "lettfeti": {
+      "hook": {
+        "en": "Lettfeti is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “light-foot”.",
+        "is": "Lettfeti er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „léttfættur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "s-c72-2",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “light-foot”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „léttfættur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
     }
   }
 }

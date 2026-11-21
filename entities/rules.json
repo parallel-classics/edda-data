@@ -1982,6 +1982,95 @@
    "notes": [
     "added 2026-11-21 at Grigory's request (Gylfaginning 14.10)"
    ]
+  },
+  {
+   "id": "glenr-horse",
+   "type": "horse",
+   "tags": [
+    "horse",
+    "animal"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Glenr",
+    "en": "Glenr (horse)"
+   },
+   "desc": {
+    "en": "one of the horses the Æsir ride each day to their court at Yggdrasill"
+   },
+   "forms": {
+    "Glenr": 1
+   },
+   "notes": [
+    "added 2026-11-21 at Grigory's request: the horses of the Æsir (Gylfaginning 15, Grímnismál 30, the horse names of Skáldskaparmál)"
+   ]
+  },
+  {
+   "id": "gisl",
+   "type": "horse",
+   "tags": [
+    "horse",
+    "animal"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Gísl",
+    "en": "Gisl"
+   },
+   "desc": {
+    "en": "one of the horses the Æsir ride each day to their court at Yggdrasill"
+   },
+   "forms": {
+    "Gísl": 1,
+    "Gils": 1
+   },
+   "notes": [
+    "added 2026-11-21 at Grigory's request: the horses of the Æsir (Gylfaginning 15, Grímnismál 30, the horse names of Skáldskaparmál)"
+   ]
+  },
+  {
+   "id": "glaer",
+   "type": "horse",
+   "tags": [
+    "horse",
+    "animal"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Glær",
+    "en": "Glaer"
+   },
+   "desc": {
+    "en": "one of the horses the Æsir ride each day to their court at Yggdrasill"
+   },
+   "forms": {
+    "Glær": 1
+   },
+   "notes": [
+    "added 2026-11-21 at Grigory's request: the horses of the Æsir (Gylfaginning 15, Grímnismál 30, the horse names of Skáldskaparmál)"
+   ]
+  },
+  {
+   "id": "kormt",
+   "type": "river",
+   "tags": [
+    "river"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Körmt",
+    "is": "Körmt",
+    "en": "Kormt"
+   },
+   "desc": {
+    "en": "one of the rivers Þórr wades each day on his way to the gods' court at Yggdrasill (Grímnismál 29, Gylfaginning 15)"
+   },
+   "forms": {
+    "Körmt": 1
+   },
+   "notes": [
+    "added 2026-11-21 at Grigory's request (Gylfaginning 15.7)"
+   ]
   }
  ],
  "resolve": {
@@ -2032,6 +2121,24 @@
    },
    "Hárr": {
     "g-c14-9": "harr-dwarf"
+   },
+   "Gísl": {
+    "g-c15-6": "gisl",
+    "grm-s30": "gisl",
+    "s-c72-4": "gisl",
+    "ebr-v8": "gisl"
+   },
+   "Glær": {
+    "grm-s30": "glaer",
+    "s-c72-4": "glaer",
+    "ebr-v8": "glaer"
+   },
+   "Körmt": {
+    "g-c15-7": "kormt",
+    "grm-s29": "kormt"
+   },
+   "Gils": {
+    "ebr-v8": "gisl"
    }
   },
   "entities": {
@@ -2481,6 +2588,32 @@
     "g-c14-10": "ok",
     "vsp-s14": "ok",
     "*": "skip"
+   },
+   "glenr-horse": {
+    "g-c15-6": "ok",
+    "*": "skip"
+   },
+   "gisl": {
+    "g-c15-6": "ok",
+    "grm-s30": "ok",
+    "s-c72-4": "ok",
+    "ebr-v8": "ok",
+    "*": "skip"
+   },
+   "glaer": {
+    "grm-s30": "ok",
+    "s-c72-4": "ok",
+    "ebr-v8": "ok",
+    "*": "skip"
+   },
+   "glenr": {
+    "*": "ok",
+    "g-c15-6": "glenr-horse"
+   },
+   "kormt": {
+    "g-c15-7": "ok",
+    "grm-s29": "ok",
+    "*": "skip"
    }
   },
   "near": {
@@ -2591,6 +2724,18 @@
    "en": [
     "Lovar",
     "Lovarr"
+   ]
+  },
+  "glaer": {
+   "en": [
+    "Glaer",
+    "Gler"
+   ]
+  },
+  "kormt": {
+   "en": [
+    "Kormt",
+    "Körmt"
    ]
   }
  },
@@ -2906,6 +3051,40 @@
     "Valkyria",
     "valkyr",
     "Valkyr"
+   ]
+  },
+  "norns": {
+   "on": [
+    "norn",
+    "nornir",
+    "norna",
+    "nornum",
+    "nornar",
+    "nornin",
+    "nornirnar",
+    "nornanna",
+    "nornunum",
+    "nornina"
+   ],
+   "is": [
+    "norn",
+    "nornir",
+    "norna",
+    "nornum",
+    "nornar",
+    "nornin",
+    "nornirnar",
+    "nornanna",
+    "nornunum",
+    "nornina"
+   ],
+   "en": [
+    "norn",
+    "norns",
+    "norn's",
+    "norns'",
+    "Norn",
+    "Norns"
    ]
   }
  }

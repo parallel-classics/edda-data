@@ -13456,7 +13456,7 @@
    "status": "auto"
   },
   {
-   "entity": "glenr",
+   "entity": "glenr-horse",
    "row": "g-c15-6",
    "lang": "on",
    "form": "Glenr",
@@ -13484,6 +13484,14 @@
    "row": "g-c15-6",
    "lang": "on",
    "form": "Sinir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gisl",
+   "row": "g-c15-6",
+   "lang": "on",
+   "form": "Gísl",
    "kind": "name",
    "status": "auto"
   },
@@ -13608,7 +13616,7 @@
    "status": "auto"
   },
   {
-   "entity": "glenr",
+   "entity": "glenr-horse",
    "row": "g-c15-6",
    "lang": "is",
    "form": "Glenur",
@@ -13636,6 +13644,14 @@
    "row": "g-c15-6",
    "lang": "is",
    "form": "Sinir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gisl",
+   "row": "g-c15-6",
+   "lang": "is",
+   "form": "Gils",
    "kind": "name",
    "status": "auto"
   },
@@ -13744,7 +13760,7 @@
    "status": "auto"
   },
   {
-   "entity": "glenr",
+   "entity": "glenr-horse",
    "row": "g-c15-6",
    "lang": "en",
    "form": "Glenr",
@@ -13772,6 +13788,14 @@
    "row": "g-c15-6",
    "lang": "en",
    "form": "Sinir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gisl",
+   "row": "g-c15-6",
+   "lang": "en",
+   "form": "Gisl",
    "kind": "name",
    "status": "auto"
   },
@@ -13864,7 +13888,7 @@
    "status": "auto"
   },
   {
-   "entity": "glenr",
+   "entity": "glenr-horse",
    "row": "g-c15-6",
    "lang": "en-anderson",
    "form": "Gler",
@@ -13892,6 +13916,14 @@
    "row": "g-c15-6",
    "lang": "en-anderson",
    "form": "Siner",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gisl",
+   "row": "g-c15-6",
+   "lang": "en-anderson",
+   "form": "Gisl",
    "kind": "name",
    "status": "auto"
   },
@@ -13984,7 +14016,7 @@
    "status": "auto"
   },
   {
-   "entity": "glenr",
+   "entity": "glenr-horse",
    "row": "g-c15-6",
    "lang": "en-modern",
    "form": "Glenr",
@@ -14012,6 +14044,14 @@
    "row": "g-c15-6",
    "lang": "en-modern",
    "form": "Sinir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gisl",
+   "row": "g-c15-6",
+   "lang": "en-modern",
+   "form": "Gisl",
    "kind": "name",
    "status": "auto"
   },
@@ -14056,6 +14096,14 @@
    "status": "auto"
   },
   {
+   "entity": "kormt",
+   "row": "g-c15-7",
+   "lang": "on",
+   "form": "Körmt",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ormt",
    "row": "g-c15-7",
    "lang": "on",
@@ -14088,6 +14136,14 @@
    "status": "auto"
   },
   {
+   "entity": "kormt",
+   "row": "g-c15-7",
+   "lang": "is",
+   "form": "Körmt",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ormt",
    "row": "g-c15-7",
    "lang": "is",
@@ -14116,6 +14172,14 @@
    "row": "g-c15-7",
    "lang": "is",
    "form": "Yggdrasils",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "kormt",
+   "row": "g-c15-7",
+   "lang": "en",
+   "form": "Körmt",
    "kind": "name",
    "status": "auto"
   },
@@ -14160,6 +14224,14 @@
    "status": "auto"
   },
   {
+   "entity": "kormt",
+   "row": "g-c15-7",
+   "lang": "en-anderson",
+   "form": "Kormt",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ormt",
    "row": "g-c15-7",
    "lang": "en-anderson",
@@ -14188,6 +14260,14 @@
    "row": "g-c15-7",
    "lang": "en-anderson",
    "form": "Ygdrasil",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "kormt",
+   "row": "g-c15-7",
+   "lang": "en-modern",
+   "form": "Körmt",
    "kind": "name",
    "status": "auto"
   },
@@ -14352,6 +14432,22 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "g-c15-9",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-9",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "alfar",
    "row": "g-c15-9",
    "lang": "on",
@@ -14380,6 +14476,22 @@
    "row": "g-c15-9",
    "lang": "is",
    "form": "bergrisar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-9",
+   "lang": "is",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-9",
+   "lang": "is",
+   "form": "nornir",
    "kind": "name",
    "status": "auto"
   },
@@ -14436,6 +14548,22 @@
    "row": "g-c15-9",
    "lang": "en",
    "form": "Hill-Giants",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-9",
+   "lang": "en",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-9",
+   "lang": "en",
+   "form": "norns",
    "kind": "name",
    "status": "auto"
   },
@@ -14536,6 +14664,22 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "g-c15-9",
+   "lang": "en-modern",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-9",
+   "lang": "en-modern",
+   "form": "norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "dvergar",
    "row": "g-c15-9",
    "lang": "en-modern",
@@ -14584,10 +14728,34 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "g-c15-10",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-10",
+   "lang": "is",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "dvalinn",
    "row": "g-c15-10",
    "lang": "is",
    "form": "Dvalins",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-10",
+   "lang": "en",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -14600,10 +14768,42 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "g-c15-10",
+   "lang": "en-anderson",
+   "form": "norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-10",
+   "lang": "en-anderson",
+   "form": "norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-10",
+   "lang": "en-anderson",
+   "form": "norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "dvalinn",
    "row": "g-c15-10",
    "lang": "en-anderson",
    "form": "Dvalin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-10",
+   "lang": "en-modern",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -14624,10 +14824,34 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "g-c15-11",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-11",
+   "lang": "is",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gylfi",
    "row": "g-c15-11",
    "lang": "is",
    "form": "Gangleri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-11",
+   "lang": "en",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -14640,6 +14864,14 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "g-c15-11",
+   "lang": "en-anderson",
+   "form": "norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gylfi",
    "row": "g-c15-11",
    "lang": "en-anderson",
@@ -14648,10 +14880,98 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "g-c15-11",
+   "lang": "en-modern",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gylfi",
    "row": "g-c15-11",
    "lang": "en-modern",
    "form": "Gangleri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-12",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-12",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-12",
+   "lang": "is",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-12",
+   "lang": "is",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-12",
+   "lang": "en",
+   "form": "norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-12",
+   "lang": "en",
+   "form": "norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-12",
+   "lang": "en-anderson",
+   "form": "norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-12",
+   "lang": "en-anderson",
+   "form": "norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-12",
+   "lang": "en-modern",
+   "form": "norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c15-12",
+   "lang": "en-modern",
+   "form": "norns",
    "kind": "name",
    "status": "auto"
   },
@@ -15349,10 +15669,50 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "g-c16-6",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c16-6",
+   "lang": "is",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "urdarbrunnr",
    "row": "g-c16-6",
    "lang": "is",
    "form": "Urðarbrunn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c16-6",
+   "lang": "en",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c16-6",
+   "lang": "en-anderson",
+   "form": "norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c16-6",
+   "lang": "en-modern",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -26125,6 +26485,14 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "g-c36-3",
+   "lang": "on",
+   "form": "norn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "asynjur",
    "row": "g-c36-3",
    "lang": "on",
@@ -26137,6 +26505,14 @@
    "row": "g-c36-3",
    "lang": "is",
    "form": "valkyrjur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c36-3",
+   "lang": "is",
+   "form": "norn",
    "kind": "name",
    "status": "auto"
   },
@@ -26201,6 +26577,14 @@
    "row": "g-c36-3",
    "lang": "is",
    "form": "Vála",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c36-3",
+   "lang": "en",
+   "form": "Norn",
    "kind": "name",
    "status": "auto"
   },
@@ -26277,6 +26661,14 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "g-c36-3",
+   "lang": "en-anderson",
+   "form": "norn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "asynjur",
    "row": "g-c36-3",
    "lang": "en-anderson",
@@ -26329,6 +26721,14 @@
    "row": "g-c36-3",
    "lang": "en-anderson",
    "form": "Vale's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "g-c36-3",
+   "lang": "en-modern",
+   "form": "Norn",
    "kind": "name",
    "status": "auto"
   },
@@ -73917,6 +74317,14 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "s-c39-2",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "asynjur",
    "row": "s-c39-2",
    "lang": "is",
@@ -73929,6 +74337,14 @@
    "row": "s-c39-2",
    "lang": "is",
    "form": "valkyrjur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "s-c39-2",
+   "lang": "is",
+   "form": "nornir",
    "kind": "name",
    "status": "auto"
   },
@@ -73953,6 +74369,14 @@
    "row": "s-c39-2",
    "lang": "en-modern",
    "form": "Valkyries",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "s-c39-2",
+   "lang": "en-modern",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -98988,10 +99412,28 @@
    "list": true
   },
   {
+   "entity": "gisl",
+   "row": "s-c72-4",
+   "lang": "on",
+   "form": "Gísl",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "falhofnir",
    "row": "s-c72-4",
    "lang": "on",
    "form": "Falhófnir",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "glaer",
+   "row": "s-c72-4",
+   "lang": "on",
+   "form": "Glær",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -99024,10 +99466,28 @@
    "list": true
   },
   {
+   "entity": "gisl",
+   "row": "s-c72-4",
+   "lang": "is",
+   "form": "Gísl",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "falhofnir",
    "row": "s-c72-4",
    "lang": "is",
    "form": "Falhófnir",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "glaer",
+   "row": "s-c72-4",
+   "lang": "is",
+   "form": "Glær",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -99060,10 +99520,28 @@
    "list": true
   },
   {
+   "entity": "gisl",
+   "row": "s-c72-4",
+   "lang": "en",
+   "form": "Gísl",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "falhofnir",
    "row": "s-c72-4",
    "lang": "en",
    "form": "Falhófnir",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "glaer",
+   "row": "s-c72-4",
+   "lang": "en",
+   "form": "Glær",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -99096,10 +99574,28 @@
    "list": true
   },
   {
+   "entity": "gisl",
+   "row": "s-c72-4",
+   "lang": "en-modern",
+   "form": "Gísl",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "falhofnir",
    "row": "s-c72-4",
    "lang": "en-modern",
    "form": "Falhófnir",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "glaer",
+   "row": "s-c72-4",
+   "lang": "en-modern",
+   "form": "Glær",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -126688,6 +127184,15 @@
    "list": true
   },
   {
+   "entity": "kormt",
+   "row": "grm-s29",
+   "lang": "on",
+   "form": "Körmt",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "ormt",
    "row": "grm-s29",
    "lang": "on",
@@ -126719,6 +127224,15 @@
    "row": "grm-s29",
    "lang": "on",
    "form": "Yggdrasils",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "kormt",
+   "row": "grm-s29",
+   "lang": "is",
+   "form": "Körmt",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -126760,6 +127274,15 @@
    "list": true
   },
   {
+   "entity": "kormt",
+   "row": "grm-s29",
+   "lang": "en",
+   "form": "Kormt",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "ormt",
    "row": "grm-s29",
    "lang": "en",
@@ -126796,6 +127319,15 @@
    "list": true
   },
   {
+   "entity": "kormt",
+   "row": "grm-s29",
+   "lang": "en-modern",
+   "form": "Kormt",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "ormt",
    "row": "grm-s29",
    "lang": "en-modern",
@@ -126827,6 +127359,15 @@
    "row": "grm-s29",
    "lang": "en-modern",
    "form": "Yggdrasil",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "kormt",
+   "row": "grm-s29",
+   "lang": "en-thorpe",
+   "form": "Körmt",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -126877,6 +127418,15 @@
    "list": true
   },
   {
+   "entity": "glaer",
+   "row": "grm-s30",
+   "lang": "on",
+   "form": "Glær",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "skeidbrimir",
    "row": "grm-s30",
    "lang": "on",
@@ -126899,6 +127449,15 @@
    "row": "grm-s30",
    "lang": "on",
    "form": "Sinir",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "gisl",
+   "row": "grm-s30",
+   "lang": "on",
+   "form": "Gísl",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -126967,6 +127526,15 @@
    "list": true
   },
   {
+   "entity": "glaer",
+   "row": "grm-s30",
+   "lang": "is",
+   "form": "Glær",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "skeidbrimir",
    "row": "grm-s30",
    "lang": "is",
@@ -126989,6 +127557,15 @@
    "row": "grm-s30",
    "lang": "is",
    "form": "Sinir",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "gisl",
+   "row": "grm-s30",
+   "lang": "is",
+   "form": "Gísl",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -127039,6 +127616,15 @@
    "list": true
   },
   {
+   "entity": "glaer",
+   "row": "grm-s30",
+   "lang": "en",
+   "form": "Gler",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "skeidbrimir",
    "row": "grm-s30",
    "lang": "en",
@@ -127061,6 +127647,15 @@
    "row": "grm-s30",
    "lang": "en",
    "form": "Sinir",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "gisl",
+   "row": "grm-s30",
+   "lang": "en",
+   "form": "Gisl",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -127102,6 +127697,15 @@
    "list": true
   },
   {
+   "entity": "glaer",
+   "row": "grm-s30",
+   "lang": "en-modern",
+   "form": "Gler",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "skeidbrimir",
    "row": "grm-s30",
    "lang": "en-modern",
@@ -127124,6 +127728,15 @@
    "row": "grm-s30",
    "lang": "en-modern",
    "form": "Sinir",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "gisl",
+   "row": "grm-s30",
+   "lang": "en-modern",
+   "form": "Gisl",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -127174,6 +127787,15 @@
    "list": true
   },
   {
+   "entity": "glaer",
+   "row": "grm-s30",
+   "lang": "en-thorpe",
+   "form": "Gler",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "skeidbrimir",
    "row": "grm-s30",
    "lang": "en-thorpe",
@@ -127196,6 +127818,15 @@
    "row": "grm-s30",
    "lang": "en-thorpe",
    "form": "Sinir",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "gisl",
+   "row": "grm-s30",
+   "lang": "en-thorpe",
+   "form": "Gisl",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -171910,6 +172541,46 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "hh1-s2",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hh1-s2",
+   "lang": "is",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hh1-s2",
+   "lang": "en",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hh1-s2",
+   "lang": "en-modern",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hh1-s2",
+   "lang": "en-thorpe",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ylfingar",
    "row": "hh1-s5",
    "lang": "on",
@@ -178332,6 +179003,22 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "hh2-s26",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hh2-s26",
+   "lang": "is",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "helgi-hundingsbani",
    "row": "hh2-s26",
    "lang": "is",
@@ -178376,6 +179063,14 @@
    "row": "hh2-s26",
    "lang": "en-modern",
    "form": "Frekastein",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hh2-s26",
+   "lang": "en-thorpe",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -188404,6 +189099,22 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "rm-s2",
+   "lang": "on",
+   "form": "norn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "rm-s2",
+   "lang": "is",
+   "form": "norn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "andvari",
    "row": "rm-s2",
    "lang": "is",
@@ -188412,6 +189123,14 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "rm-s2",
+   "lang": "en",
+   "form": "Norn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "andvari",
    "row": "rm-s2",
    "lang": "en",
@@ -188424,6 +189143,14 @@
    "row": "rm-s2",
    "lang": "en",
    "form": "Andvari",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "rm-s2",
+   "lang": "en-modern",
+   "form": "Norn",
    "kind": "name",
    "status": "auto"
   },
@@ -191588,10 +192315,34 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "fm-s11",
+   "lang": "on",
+   "form": "Norna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "fm-s11",
+   "lang": "is",
+   "form": "Norna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fafnir",
    "row": "fm-s11",
    "lang": "is",
    "form": "Fáfnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "fm-s11",
+   "lang": "en",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -191604,10 +192355,26 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "fm-s11",
+   "lang": "en-modern",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fafnir",
    "row": "fm-s11",
    "lang": "en-modern",
    "form": "Fafnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "fm-s11",
+   "lang": "en-thorpe",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -191636,6 +192403,22 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "fm-s12",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "fm-s12",
+   "lang": "is",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sigurdr",
    "row": "fm-s12",
    "lang": "is",
@@ -191652,6 +192435,14 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "fm-s12",
+   "lang": "en",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sigurdr",
    "row": "fm-s12",
    "lang": "en",
@@ -191668,6 +192459,14 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "fm-s12",
+   "lang": "en-modern",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sigurdr",
    "row": "fm-s12",
    "lang": "en-modern",
@@ -191680,6 +192479,14 @@
    "row": "fm-s12",
    "lang": "en-modern",
    "form": "Fafnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "fm-s12",
+   "lang": "en-thorpe",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -191716,6 +192523,22 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "fm-s13",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "fm-s13",
+   "lang": "is",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fafnir",
    "row": "fm-s13",
    "lang": "is",
@@ -191732,6 +192555,14 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "fm-s13",
+   "lang": "en",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fafnir",
    "row": "fm-s13",
    "lang": "en",
@@ -191748,6 +192579,14 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "fm-s13",
+   "lang": "en-modern",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fafnir",
    "row": "fm-s13",
    "lang": "en-modern",
@@ -191760,6 +192599,14 @@
    "row": "fm-s13",
    "lang": "en-modern",
    "form": "Dvalin's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "fm-s13",
+   "lang": "en-thorpe",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -193964,10 +194811,50 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "fm-s44",
+   "lang": "on",
+   "form": "norna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "fm-s44",
+   "lang": "is",
+   "form": "norna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sigrdrifa",
    "row": "fm-s44",
    "lang": "is",
    "form": "Sigrdrífar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "fm-s44",
+   "lang": "en",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "fm-s44",
+   "lang": "en-modern",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "fm-s44",
+   "lang": "en-thorpe",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -195081,6 +195968,22 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "sd-s17",
+   "lang": "on",
+   "form": "nornar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "sd-s17",
+   "lang": "is",
+   "form": "nornar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gungnir",
    "row": "sd-s17",
    "lang": "is",
@@ -195097,6 +196000,14 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "sd-s17",
+   "lang": "en",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gungnir",
    "row": "sd-s17",
    "lang": "en",
@@ -195109,6 +196020,14 @@
    "row": "sd-s17",
    "lang": "en",
    "form": "Grani's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "sd-s17",
+   "lang": "en-modern",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -198918,6 +199837,22 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "sg-s7",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "sg-s7",
+   "lang": "is",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gudrun",
    "row": "sg-s7",
    "lang": "is",
@@ -198934,6 +199869,14 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "sg-s7",
+   "lang": "en",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gudrun",
    "row": "sg-s7",
    "lang": "en",
@@ -198950,6 +199893,14 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "sg-s7",
+   "lang": "en-modern",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gudrun",
    "row": "sg-s7",
    "lang": "en-modern",
@@ -198962,6 +199913,14 @@
    "row": "sg-s7",
    "lang": "en-modern",
    "form": "Gunnar's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "sg-s7",
+   "lang": "en-thorpe",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -205653,6 +206612,22 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "gdr2-s38",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "gdr2-s38",
+   "lang": "is",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "etzel",
    "row": "gdr2-s38",
    "lang": "is",
@@ -205677,6 +206652,14 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "gdr2-s38",
+   "lang": "en",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "etzel",
    "row": "gdr2-s38",
    "lang": "en",
@@ -205701,6 +206684,14 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "gdr2-s38",
+   "lang": "en-modern",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "etzel",
    "row": "gdr2-s38",
    "lang": "en-modern",
@@ -205721,6 +206712,14 @@
    "row": "gdr2-s38",
    "lang": "en-modern",
    "form": "Gjuki's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "gdr2-s38",
+   "lang": "en-thorpe",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -209877,6 +210876,22 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "akv-s16",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "akv-s16",
+   "lang": "is",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "etzel",
    "row": "akv-s16",
    "lang": "is",
@@ -209921,6 +210936,14 @@
    "row": "akv-s16",
    "lang": "en-modern",
    "form": "Atli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "akv-s16",
+   "lang": "en-thorpe",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -217432,6 +218455,46 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "ghv-s13",
+   "lang": "on",
+   "form": "nornum",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "ghv-s13",
+   "lang": "is",
+   "form": "nornum",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "ghv-s13",
+   "lang": "en",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "ghv-s13",
+   "lang": "en-modern",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "ghv-s13",
+   "lang": "en-thorpe",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "jonakr",
    "row": "ghv-s14",
    "lang": "on",
@@ -219136,10 +220199,50 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "hm-s29",
+   "lang": "on",
+   "form": "norna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hm-s29",
+   "lang": "is",
+   "form": "norna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sorli",
    "row": "hm-s29",
    "lang": "is",
    "form": "Sörli",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hm-s29",
+   "lang": "en",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hm-s29",
+   "lang": "en-modern",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hm-s29",
+   "lang": "en-thorpe",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -219152,10 +220255,34 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "hm-s30",
+   "lang": "on",
+   "form": "norna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hm-s30",
+   "lang": "is",
+   "form": "norna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "goths",
    "row": "hm-s30",
    "lang": "is",
    "form": "Gotna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hm-s30",
+   "lang": "en",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -219168,10 +220295,26 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "hm-s30",
+   "lang": "en-modern",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "goths",
    "row": "hm-s30",
    "lang": "en-modern",
    "form": "Goths",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hm-s30",
+   "lang": "en-thorpe",
+   "form": "Norns",
    "kind": "name",
    "status": "auto"
   },
@@ -223136,6 +224279,30 @@
    "row": "hlk-p11",
    "lang": "en",
    "form": "Huns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hlk-s32",
+   "lang": "on",
+   "form": "norna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hlk-s32",
+   "lang": "is",
+   "form": "norna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "hlk-s32",
+   "lang": "en",
+   "form": "norns",
    "kind": "name",
    "status": "auto"
   },
@@ -228479,10 +229646,26 @@
    "status": "auto"
   },
   {
+   "entity": "gisl",
+   "row": "ebr-v8",
+   "lang": "on",
+   "form": "Gils",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "falhofnir",
    "row": "ebr-v8",
    "lang": "on",
    "form": "Falhófnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "glaer",
+   "row": "ebr-v8",
+   "lang": "on",
+   "form": "Glær",
    "kind": "name",
    "status": "auto"
   },
@@ -228946,10 +230129,26 @@
    "status": "auto"
   },
   {
+   "entity": "gisl",
+   "row": "ebr-v8",
+   "lang": "is",
+   "form": "Gils",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "falhofnir",
    "row": "ebr-v8",
    "lang": "is",
    "form": "Falhófnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "glaer",
+   "row": "ebr-v8",
+   "lang": "is",
+   "form": "Glær",
    "kind": "name",
    "status": "auto"
   },
@@ -229421,10 +230620,26 @@
    "status": "auto"
   },
   {
+   "entity": "gisl",
+   "row": "ebr-v8",
+   "lang": "en",
+   "form": "Gils",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "falhofnir",
    "row": "ebr-v8",
    "lang": "en",
    "form": "Falhófnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "glaer",
+   "row": "ebr-v8",
+   "lang": "en",
+   "form": "Glær",
    "kind": "name",
    "status": "auto"
   },
@@ -230071,6 +231286,38 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "sol-s51",
+   "lang": "on",
+   "form": "norna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "sol-s51",
+   "lang": "is",
+   "form": "norna",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "sol-s51",
+   "lang": "en",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "sol-s51",
+   "lang": "en-modern",
+   "form": "Norns",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "sol-s77",
    "lang": "on",
@@ -230135,6 +231382,14 @@
    "status": "auto"
   },
   {
+   "entity": "norns",
+   "row": "fsl-s1",
+   "lang": "on",
+   "form": "nornir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "jotnar",
    "row": "fsl-s1",
    "lang": "on",
@@ -230155,6 +231410,14 @@
    "row": "fsl-s1",
    "lang": "is",
    "form": "álfar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "norns",
+   "row": "fsl-s1",
+   "lang": "is",
+   "form": "nornir",
    "kind": "name",
    "status": "auto"
   },

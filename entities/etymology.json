@@ -1648,6 +1648,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "falhofnir": {
+   "means": {
+    "en": "hairy-hoof, or hidden-hoof, or pale-hoof"
+   },
+   "text": {
+    "en": "Wikipedia's article on the horses of the Æsir reads Falhófnir as 'hairy-hoof, or hidden-hoof, or pale-hoof'. The names describe the horses' looks or gait; nothing more is told of them."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Horses of the Æsir",
+     "url": "https://en.wikipedia.org/wiki/Horses_of_the_%C3%86sir#Meanings"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "farbauti": {
    "means": {
     "en": "cruel striker"
@@ -2300,6 +2318,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "gisl": {
+   "means": {
+    "en": "beam, or ray"
+   },
+   "text": {
+    "en": "Wikipedia's article on the horses of the Æsir reads Gísl as 'beam, or ray'. The names describe the horses' looks or gait; nothing more is told of them."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Horses of the Æsir",
+     "url": "https://en.wikipedia.org/wiki/Horses_of_the_%C3%86sir#Meanings"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "gjallarbru": {
    "means": {
     "en": "the bridge over Gjöll"
@@ -2372,6 +2408,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "gladr": {
+   "means": {
+    "en": "glad, or bright"
+   },
+   "text": {
+    "en": "Wikipedia's article on the horses of the Æsir reads Glaðr as 'glad, or bright'. The names describe the horses' looks or gait; nothing more is told of them."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Horses of the Æsir",
+     "url": "https://en.wikipedia.org/wiki/Horses_of_the_%C3%86sir#Meanings"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "gladsheimr": {
    "means": {
     "en": "bright home"
@@ -2384,6 +2438,24 @@
     {
      "title": "Wikipedia: Glaðsheimr",
      "url": "https://en.wikipedia.org/wiki/Gla%C3%B0sheimr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "glaer": {
+   "means": {
+    "en": "clear, or glassy"
+   },
+   "text": {
+    "en": "Wikipedia's article on the horses of the Æsir reads Glær as 'clear, or glassy'. The names describe the horses' looks or gait; nothing more is told of them."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Horses of the Æsir",
+     "url": "https://en.wikipedia.org/wiki/Horses_of_the_%C3%86sir#Meanings"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2770,16 +2842,16 @@
   },
   "gyllir": {
    "means": {
-    "en": "golden, or yelling"
+    "en": "golden"
    },
    "text": {
-    "en": "Gyllir is glossed 'golden' or 'yelling'."
+    "en": "Wikipedia's article on the horses of the Æsir reads Gyllir as 'golden'. The names describe the horses' looks or gait; nothing more is told of them."
    },
-   "certainty": "uncertain",
+   "certainty": "likely",
    "sources": [
     {
-     "title": "Wikipedia: List of jötnar in Norse mythology",
-     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#G"
+     "title": "Wikipedia: Horses of the Æsir",
+     "url": "https://en.wikipedia.org/wiki/Horses_of_the_%C3%86sir#Meanings"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4235,6 +4307,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "lettfeti": {
+   "means": {
+    "en": "light-foot"
+   },
+   "text": {
+    "en": "Wikipedia's article on the horses of the Æsir reads Lettfeti as 'light-foot'. The names describe the horses' looks or gait; nothing more is told of them."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Horses of the Æsir",
+     "url": "https://en.wikipedia.org/wiki/Horses_of_the_%C3%86sir#Meanings"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "litr": {
    "means": {
     "en": "colour, countenance"
@@ -5542,6 +5632,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "silfrintoppr": {
+   "means": {
+    "en": "silver-tuft"
+   },
+   "text": {
+    "en": "Wikipedia's article on the horses of the Æsir reads Silfrintoppr as 'silver-tuft'. The names describe the horses' looks or gait; nothing more is told of them."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Horses of the Æsir",
+     "url": "https://en.wikipedia.org/wiki/Horses_of_the_%C3%86sir#Meanings"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "sindri": {
    "means": {
     "en": "slag"
@@ -5572,6 +5680,24 @@
     {
      "title": "Wikipedia: Singasteinn",
      "url": "https://en.wikipedia.org/wiki/Singasteinn"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "sinir": {
+   "means": {
+    "en": "sinewy"
+   },
+   "text": {
+    "en": "Wikipedia's article on the horses of the Æsir reads Sinir as 'sinewy'. The names describe the horses' looks or gait; nothing more is told of them."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Horses of the Æsir",
+     "url": "https://en.wikipedia.org/wiki/Horses_of_the_%C3%86sir#Meanings"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5609,6 +5735,24 @@
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
      "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#S"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "skeidbrimir": {
+   "means": {
+    "en": "the one that snorts as he runs"
+   },
+   "text": {
+    "en": "Wikipedia's article on the horses of the Æsir reads Skeidbrimir as 'the one that snorts as he runs'. The names describe the horses' looks or gait; nothing more is told of them."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Horses of the Æsir",
+     "url": "https://en.wikipedia.org/wiki/Horses_of_the_%C3%86sir#Meanings"
     }
    ],
    "by": "ai:claude-2026-11",
