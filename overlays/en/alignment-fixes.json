@@ -1,0 +1,27 @@
+{
+ "_note": "Alignment fixes: lines of a translation that the aligner put in a neighbouring row, moved to the row of the Old Norse they translate. The text is the translator's (or the AI draft's) own; only the row changes.",
+ "records": [
+  {
+   "row": "g-c14-3",
+   "cell": "en-modern",
+   "text": "Then all the mighty ones went | to the seats of judgment,\nthe most holy gods, | and took counsel together\non who should create | the peoples of the dwarves\nfrom the bloody surf | and the bones of the Blue One.",
+   "origin": "ai",
+   "check": "unreviewed",
+   "author": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "replaces": null,
+   "reason": "alignment: the last two lines of Völuspá 9 (\"ór brimi blóðgu / ok ór Bláins leggjum\") stood in the next row (reported by Grigory 2026-11-21)"
+  },
+  {
+   "row": "g-c14-4",
+   "cell": "en-modern",
+   "text": "They made many in human likeness,\ndwarves in the earth, | as Durinn said.",
+   "origin": "ai",
+   "check": "unreviewed",
+   "author": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "replaces": null,
+   "reason": "alignment: the last two lines of Völuspá 9 (\"ór brimi blóðgu / ok ór Bláins leggjum\") stood in the next row (reported by Grigory 2026-11-21)"
+  }
+ ]
+}
