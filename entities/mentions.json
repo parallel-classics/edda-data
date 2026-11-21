@@ -8838,6 +8838,22 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Moon",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sol",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Sun",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "glenr",
    "row": "g-c11-2",
    "lang": "en",
@@ -8846,10 +8862,26 @@
    "status": "auto"
   },
   {
+   "entity": "sol",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Sun",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "muspelheim",
    "row": "g-c11-2",
    "lang": "en",
    "form": "Múspellheim",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Moon",
    "kind": "name",
    "status": "auto"
   },
@@ -8866,6 +8898,22 @@
    "row": "g-c11-2",
    "lang": "en",
    "form": "Hjúki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Moon",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sol",
+   "row": "g-c11-2",
+   "lang": "en-anderson",
+   "form": "Sun",
    "kind": "name",
    "status": "auto"
   },
@@ -8894,6 +8942,14 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "en-anderson",
+   "form": "Moon",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c11-2",
    "lang": "en-modern",
@@ -8910,6 +8966,22 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Moon",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sol",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Sun",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "glenr",
    "row": "g-c11-2",
    "lang": "en-modern",
@@ -8918,10 +8990,26 @@
    "status": "auto"
   },
   {
+   "entity": "sol",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Sun",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "muspelheim",
    "row": "g-c11-2",
    "lang": "en-modern",
    "form": "Múspellheim",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Moon",
    "kind": "name",
    "status": "auto"
   },
@@ -8938,6 +9026,14 @@
    "row": "g-c11-2",
    "lang": "en-modern",
    "form": "Hjúki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Moon",
    "kind": "name",
    "status": "auto"
   },
@@ -73162,6 +73258,14 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "s-c34-1",
+   "lang": "en",
+   "form": "Moon",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "glenr",
    "row": "s-c34-1",
    "lang": "en",
@@ -73190,6 +73294,14 @@
    "row": "s-c34-1",
    "lang": "en-modern",
    "form": "Mundilfari",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "s-c34-1",
+   "lang": "en-modern",
+   "form": "Moon",
    "kind": "name",
    "status": "auto"
   },
@@ -101291,7 +101403,7 @@
    "entity": "mani",
    "row": "s-c76-16",
    "lang": "en",
-   "form": "Many",
+   "form": "Mona's",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -101300,7 +101412,7 @@
    "entity": "mani",
    "row": "s-c76-16",
    "lang": "en-modern",
-   "form": "Many",
+   "form": "Mona's",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -107982,7 +108094,7 @@
    "entity": "mani",
    "row": "h-c3-30",
    "lang": "en",
-   "form": "Man",
+   "form": "Mön",
    "kind": "name",
    "status": "auto"
   },
