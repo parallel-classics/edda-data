@@ -17,6 +17,7 @@ Checks
                       ids are unique slugs, tags are from the vocabulary, Wikidata ids look like Q123, every mention
                       names an existing entity, row and language, every used image passed the licence check;
                       summaries.json: known entity ids, plain-text en (is optional), author, date, status draft|reviewed
+                      etymology.json: what the names mean; known ids, en gloss and text, certainty, sources, status
 
 Then prints, per part and column, the effective origin (edition / published / machine / ai / contributor / empty)
 and check (aligned-auto / aligned-checked / unreviewed / reviewed / disputed / empty) of the cells after overlays
@@ -721,10 +722,52 @@ def check_entities(rows):
             if not images.get(rec.get("source") or "", {}).get("ok"):
                 err(f"{where}: source {rec.get('source')!r} has not passed the licence check in images.json")
     check_summaries(d, ids_out)
+    check_etymology(d, ids_out)
     return n_ent, n_men
 
 
 AUTHOR = re.compile(r"^(user:[\w-]+|ai:[\w.-]+-\d{4}-\d{2}|bot:[\w-]+)$")
+
+
+def check_etymology(d, ids_out):
+    """entities/etymology.json: {"names": {entity id: {"means": {"en": short gloss, "is": optional}, "text": {"en": plain
+    text, "is": optional}, "certainty": clear|likely|uncertain|disputed, "sources": [{"title", "url" (optional), "note"
+    (optional: the scholars the source cites)}], "by", "date", "status": draft|reviewed, "reviewed_by"}}}. Every entry
+    names at least one source it was drafted from (Grigory 2026-11-21: etymologies must be backed)."""
+    p = os.path.join(d, "etymology.json")
+    if not os.path.exists(p):
+        return
+    for eid, rec in (load(p).get("names") or {}).items():
+        where = f"entities/etymology.json#{eid}"
+        if eid not in ids_out:
+            err(f"{where}: unknown entity")
+        for k in ("means", "text"):
+            v = rec.get(k) or {}
+            if not isinstance(v, dict) or not isinstance(v.get("en"), str) or not v["en"].strip():
+                err(f"{where}: {k}.en missing")
+            for lang, t in (v.items() if isinstance(v, dict) else []):
+                if lang not in ("en", "is") or not isinstance(t, str) or re.search(r"<[a-zA-Z/]|\[\[|\*\*", t):
+                    err(f"{where}: {k}.{lang} must be plain text in en or is")
+        if rec.get("certainty") not in ("clear", "likely", "uncertain", "disputed"):
+            err(f"{where}: certainty must be clear, likely, uncertain or disputed")
+        src = rec.get("sources")
+        if not isinstance(src, list) or not src or not all(isinstance(x, dict) and x.get("title") for x in src):
+            err(f"{where}: at least one source with a title")
+        for x in src or []:
+            if x.get("url") and not str(x["url"]).startswith("https://"):
+                err(f"{where}: source url must be https")
+        set_keys = set(rec) - {"means", "text", "certainty", "sources", "by", "date", "status", "reviewed_by", "note"}
+        if set_keys:
+            err(f"{where}: unknown keys {sorted(set_keys)}")
+        a = rec.get("by") or ""
+        if not AUTHOR.match(a):
+            err(f"{where}: by {a!r} is not user:/ai:<model>-<yyyy-mm>/bot:")
+        if rec.get("status") not in ("draft", "reviewed"):
+            err(f"{where}: status must be draft or reviewed")
+        if a.startswith("ai:") and rec.get("status") == "reviewed" and not str(rec.get("reviewed_by", "")).startswith("user:"):
+            err(f"{where}: an AI text cannot be reviewed without a user: reviewer (reviewed_by)")
+        if not re.match(r"^\d{4}-\d{2}-\d{2}$", rec.get("date") or ""):
+            err(f"{where}: date must be YYYY-MM-DD")
 
 
 def check_summaries(d, ids_out):

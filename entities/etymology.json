@@ -1,0 +1,5931 @@
+{
+ "_note": "What the names mean (Grigory 2026-11-21): a short gloss, a few sentences on the roots, how certain that is, and the sources each entry was drafted from (Wikipedia articles and the scholars they cite, Wiktionary). Written in its own words by an AI model (Claude), only from those sources; status draft = not reviewed. Names whose sources give no etymology have no entry.",
+ "names": {
+  "aegir": {
+   "means": {
+    "en": "the one of the water"
+   },
+   "text": {
+    "en": "Ægir may go back to Proto-Germanic *āgwi-jaz, 'the one of the water, water-man', from a stem for 'river' (Gothic aƕa, Old English ēa). In skaldic poetry ægir is also a word for the sea. His other name Gymir is unclear; 'the earthly' and 'the wintry one' have been proposed."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Ægir",
+     "url": "https://en.wikipedia.org/wiki/%C3%86gir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "aesir": {
+   "means": {
+    "en": "the gods"
+   },
+   "text": {
+    "en": "Æsir is the plural of áss 'god' (feminine ásynja, plural ásynjur). The word is shared with Old English ōs and the Gothic Ansis that Jordanes recorded, and lives on in names such as Ansgar and Oswald. Whether it meant the gods in general or one family of gods beside the Vanir is debated."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Æsir",
+     "url": "https://en.wikipedia.org/wiki/%C3%86sir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "alfar": {
+   "means": {
+    "en": "the white ones"
+   },
+   "text": {
+    "en": "Álfr is the same word as English elf. It is generally agreed to be related to Latin albus 'white' and Greek alphós 'whiteness', so it seems first to have meant 'white being'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Elf",
+     "url": "https://en.wikipedia.org/wiki/Elf"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "alfheimr": {
+   "means": {
+    "en": "home of the elves"
+   },
+   "text": {
+    "en": "Álfheimr means 'home of the elves' or 'Elfland': Freyr's realm."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Álfheimr",
+     "url": "https://en.wikipedia.org/wiki/%C3%81lfheimr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "alfr": {
+   "means": {
+    "en": "elf"
+   },
+   "text": {
+    "en": "Álfr means 'elf'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "alsvidr": {
+   "means": {
+    "en": "very quick"
+   },
+   "text": {
+    "en": "Alsviðr means 'very quick'; it is the other horse that draws the sun."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Árvakr and Alsviðr",
+     "url": "https://en.wikipedia.org/wiki/%C3%81rvakr_and_Alsvi%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "alviss": {
+   "means": {
+    "en": "all-wise"
+   },
+   "text": {
+    "en": "Alvíss means 'all-wise', a fitting name for the dwarf who knows every word in every world."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Alvíss",
+     "url": "https://en.wikipedia.org/wiki/Alv%C3%ADss"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "alvissmal": {
+   "means": {
+    "en": "the words of All-wise"
+   },
+   "text": {
+    "en": "Alvíssmál means 'the song, or words, of All-wise', the dwarf Alvíss."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Alvíssmál",
+     "url": "https://en.wikipedia.org/wiki/Alv%C3%ADssm%C3%A1l"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "amsvartner": {
+   "means": {
+    "en": "pitch black"
+   },
+   "text": {
+    "en": "Ámsvartnir means 'pitch black': the lake with the island where Fenrir is bound."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Amsvartnir",
+     "url": "https://en.wikipedia.org/wiki/Amsvartnir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "andvaranaut": {
+   "means": {
+    "en": "Andvari's gift"
+   },
+   "text": {
+    "en": "Andvaranautr means 'Andvari's precious possession', the ring taken from the dwarf Andvari."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Andvaranaut",
+     "url": "https://en.wikipedia.org/wiki/Andvaranaut"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "andvari": {
+   "means": {
+    "en": "the careful one"
+   },
+   "text": {
+    "en": "Andvari is glossed 'careful one', 'cautious spirit' or 'gentle breeze'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "angrboda": {
+   "means": {
+    "en": "the one who brings grief"
+   },
+   "text": {
+    "en": "Angrboða is glossed 'the one who brings grief' or 'she who offers sorrow'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "annar": {
+   "means": {
+    "en": "second, another"
+   },
+   "text": {
+    "en": "Ánarr, or Annarr, means 'second, another': Nótt's second husband."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Annar",
+     "url": "https://en.wikipedia.org/wiki/Annar"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "arvakr": {
+   "means": {
+    "en": "early awake"
+   },
+   "text": {
+    "en": "Árvakr means 'early awake'; it is one of the two horses that draw the sun."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Árvakr and Alsviðr",
+     "url": "https://en.wikipedia.org/wiki/%C3%81rvakr_and_Alsvi%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "asgard": {
+   "means": {
+    "en": "enclosure of the gods"
+   },
+   "text": {
+    "en": "Ásgarðr joins áss 'god' and garðr 'enclosure, yard'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Asgard",
+     "url": "https://en.wikipedia.org/wiki/Asgard"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "asynjur": {
+   "means": {
+    "en": "the goddesses"
+   },
+   "text": {
+    "en": "Ásynjur is the plural of ásynja, the feminine of áss 'god': the goddesses of the Æsir."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Æsir",
+     "url": "https://en.wikipedia.org/wiki/%C3%86sir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "audumbla": {
+   "means": {
+    "en": "the hornless cow rich in milk"
+   },
+   "text": {
+    "en": "Auðumbla, also spelled Auðhumla, is generally taken as 'hornless cow rich in milk', from auðr 'riches' and *humala 'hornless'; compare Scottish English humble-cow 'hornless cow'. The compound is somewhat ambiguous."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Auðumbla",
+     "url": "https://en.wikipedia.org/wiki/Au%C3%B0umbla"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "aurboda": {
+   "means": {
+    "en": "gravel-bidder"
+   },
+   "text": {
+    "en": "Aurboða means 'gravel-bidder' or 'gravel-offerer'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Aurboða",
+     "url": "https://en.wikipedia.org/wiki/Aurbo%C3%B0a"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "aurvandill": {
+   "means": {
+    "en": "the morning star"
+   },
+   "text": {
+    "en": "Aurvandill goes back to a Germanic name shared with Old English Ēarendel, 'the morning star' (Venus); Saxo writes it Horuendillus. Þórr throws his frozen toe into the sky as a star."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wiktionary: Aurvandill",
+     "url": "https://en.wiktionary.org/wiki/Aurvandill"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "austri": {
+   "means": {
+    "en": "the one in the east"
+   },
+   "text": {
+    "en": "Austri means 'eastern, the one in the east': one of the four dwarfs who hold up the sky."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "austrvegr": {
+   "means": {
+    "en": "the eastern way"
+   },
+   "text": {
+    "en": "Austrvegr is 'the east way', from austr 'east', like Norðvegr, 'the north way', Norway; it is the road east through the lands of the Rus."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wiktionary: Austrvegr",
+     "url": "https://en.wiktionary.org/wiki/Austrvegr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "baldur": {
+   "means": {
+    "en": "lord, the bold one"
+   },
+   "text": {
+    "en": "Baldr is usually derived from Proto-Germanic *Balðraz 'hero, prince', from *balþaz 'brave' (Old English bealdor 'prince, hero'). Rudolf Simek notes that so warlike a meaning fits poorly with the myths; an older idea, from Jacob Grimm, links it to 'white, shining'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Baldr",
+     "url": "https://en.wikipedia.org/wiki/Baldr",
+     "note": "citing Simek; Grimm; Orel"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "baugi": {
+   "means": {
+    "en": "ring"
+   },
+   "text": {
+    "en": "Baugi is glossed 'ring', from baugr 'ring, arm-ring'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "beli": {
+   "means": {
+    "en": "roarer"
+   },
+   "text": {
+    "en": "Beli is glossed 'roarer', from a verb for bellowing."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "bergelmir": {
+   "means": {
+    "en": "mountain yeller, or bear yeller"
+   },
+   "text": {
+    "en": "Bergelmir is glossed 'mountain yeller' or 'bear yeller'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "bergrisar": {
+   "means": {
+    "en": "mountain-giants"
+   },
+   "text": {
+    "en": "Bergrisi is 'mountain-risi': berg 'rock, mountain' and risi 'giant' (Old High German riso)."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Jötunn",
+     "url": "https://en.wikipedia.org/wiki/J%C3%B6tunn",
+     "note": "citing Orel"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "bestla": {
+   "means": {
+    "en": "uncertain; perhaps wife, or bark"
+   },
+   "text": {
+    "en": "The meaning of Bestla is uncertain; 'wife' and 'bark, bast' have been proposed. Rudolf Simek discusses both."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Bestla",
+     "url": "https://en.wikipedia.org/wiki/Bestla",
+     "note": "citing Simek"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "beyla": {
+   "means": {
+    "en": "uncertain"
+   },
+   "text": {
+    "en": "The origin of Beyla is uncertain. Suggestions include beyla 'hump', baula 'cow', and a word for 'bean', which would make her a fertility goddess beside Byggvir 'barley'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wiktionary: Beyla",
+     "url": "https://en.wiktionary.org/wiki/Beyla"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "bifrost": {
+   "means": {
+    "en": "the shimmering path"
+   },
+   "text": {
+    "en": "Andy Orchard suggests 'shimmering path', from bifa 'to shimmer, shake'. Rudolf Simek gives 'the swaying road to heaven' or, if the other form Bilröst is original, as he thinks likely, 'the fleetingly glimpsed rainbow', with bil 'a moment'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Bifröst",
+     "url": "https://en.wikipedia.org/wiki/Bifr%C3%B6st",
+     "note": "citing Orchard; Simek"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "bil": {
+   "means": {
+    "en": "instant"
+   },
+   "text": {
+    "en": "Bil literally means 'instant, moment'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Hjúki and Bil",
+     "url": "https://en.wikipedia.org/wiki/Hj%C3%BAki_and_Bil"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "bilskirnir": {
+   "means": {
+    "en": "lightning-crack"
+   },
+   "text": {
+    "en": "Bilskírnir means 'lightning-crack' (also read 'the moment of shining'): Þórr's hall."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Bilskirnir",
+     "url": "https://en.wikipedia.org/wiki/Bilskirnir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "blain": {
+   "means": {
+    "en": "the dark one"
+   },
+   "text": {
+    "en": "Bláinn is glossed 'dark-hued, blackish', from blár 'dark blue, black'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "blodughadda": {
+   "means": {
+    "en": "bloody-hair"
+   },
+   "text": {
+    "en": "Blóðughadda means 'bloodstained hair': one of the daughters of Ægir, the waves."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "bodvarr": {
+   "means": {
+    "en": "warlike little-bear"
+   },
+   "text": {
+    "en": "Bǫðvarr Bjarki means 'warlike little bear': bǫð 'battle' and bjarki 'little bear'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Bödvar Bjarki",
+     "url": "https://en.wikipedia.org/wiki/B%C3%B6dvar_Bjarki"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "bolthorn": {
+   "means": {
+    "en": "evil-thorn"
+   },
+   "text": {
+    "en": "Bölþorn means 'evil-thorn' or 'bale-thorn': Bestla's father, Óðinn's grandfather."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Bölþorn",
+     "url": "https://en.wikipedia.org/wiki/B%C3%B6l%C3%BEorn"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "borghild": {
+   "means": {
+    "en": "protection and battle"
+   },
+   "text": {
+    "en": "Borghildr joins hildr 'battle' with a first part that probably means 'protection'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wiktionary: Borghildr",
+     "url": "https://en.wiktionary.org/wiki/Borghildr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "borr": {
+   "means": {
+    "en": "borer"
+   },
+   "text": {
+    "en": "Borr (also Burr) is glossed 'borer'; some read it as 'son', the son of Búri."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Borr",
+     "url": "https://en.wikipedia.org/wiki/Borr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "bragi": {
+   "means": {
+    "en": "poetry, or the foremost"
+   },
+   "text": {
+    "en": "Bragi is usually connected with the noun bragr, which means both 'poetry' (Icelandic bragur 'poem') and 'the first, the noblest' (poetic bragnar 'chiefs'). Which sense lies behind the god's name is uncertain. Snorri derived bragr from the god; Rudolf Simek takes that link to be secondary."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Bragi",
+     "url": "https://en.wikipedia.org/wiki/Bragi",
+     "note": "citing Simek"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "breidablik": {
+   "means": {
+    "en": "broad gleam"
+   },
+   "text": {
+    "en": "Breiðablik has been translated 'broad sheen', 'broad gleam' or 'the far-shining one': Baldr's home."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Breiðablik",
+     "url": "https://en.wikipedia.org/wiki/Brei%C3%B0ablik"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "brimir": {
+   "means": {
+    "en": "surf"
+   },
+   "text": {
+    "en": "Brimir, a name of Ymir and of a hall, is probably related to brim 'surf, the sea'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wiktionary: Brimir",
+     "url": "https://en.wiktionary.org/wiki/Brimir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "brisingamen": {
+   "means": {
+    "en": "the necklace of the Brísings, or of fire"
+   },
+   "text": {
+    "en": "Brísingamen ends in men 'neck-ring, torc'. The first part is uncertain: perhaps brísingr, a poetic word for 'fire' or 'amber' in the þulur, or the name of a people, the Brísings."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Brísingamen",
+     "url": "https://en.wikipedia.org/wiki/Br%C3%ADsingamen"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "brokkr": {
+   "means": {
+    "en": "the smith"
+   },
+   "text": {
+    "en": "Brokkr means 'the one who works with metal fragments', a blacksmith."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Brokkr",
+     "url": "https://en.wikipedia.org/wiki/Brokkr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "brynhild": {
+   "means": {
+    "en": "armour-battle"
+   },
+   "text": {
+    "en": "Brynhildr, like Brunhild, joins words for 'armour' (Old High German brunia, Old Norse brynja) and 'battle' (hiltia, hildr); the first part may reflect her role as a shield-maiden."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Brunhild",
+     "url": "https://en.wikipedia.org/wiki/Brunhild"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "byggvir": {
+   "means": {
+    "en": "barley"
+   },
+   "text": {
+    "en": "Byggvir comes from bygg 'barley': Freyr's servant. The name is related to Old English Bēow, a figure linked with grain."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wiktionary: Byggvir",
+     "url": "https://en.wiktionary.org/wiki/Byggvir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "byleistr": {
+   "means": {
+    "en": "storm-lightning"
+   },
+   "text": {
+    "en": "Býleistr is glossed 'storm-lightning'; the meaning is uncertain."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "bylgja": {
+   "means": {
+    "en": "billow"
+   },
+   "text": {
+    "en": "Bylgja is the word for 'billow, wave', one of the daughters of Ægir; the list of jötnar glosses it 'pressure'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "dagr": {
+   "means": {
+    "en": "day"
+   },
+   "text": {
+    "en": "Dagr is the ordinary Old Norse word for 'day', here the day itself in person."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Dagr",
+     "url": "https://en.wikipedia.org/wiki/Dagr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "dainn": {
+   "means": {
+    "en": "the dead one"
+   },
+   "text": {
+    "en": "Dáinn means 'the dead one, deathlike', from dáinn 'dead'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "dellingr": {
+   "means": {
+    "en": "perhaps the dayspring, or the shining one"
+   },
+   "text": {
+    "en": "Dellingr possibly means 'the dayspring' or 'shining one'. Brodeur translates the name as Dayspring."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Dellingr",
+     "url": "https://en.wikipedia.org/wiki/Dellingr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "denmark": {
+   "means": {
+    "en": "the border forest of the Danes"
+   },
+   "text": {
+    "en": "Danmǫrk is 'the mark of the Danes'. Most handbooks derive Dan- from a word meaning 'low ground'; mark means woodland or borderland, probably the border forests of southern Schleswig."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Denmark",
+     "url": "https://en.wikipedia.org/wiki/Denmark"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "draupnir": {
+   "means": {
+    "en": "the dripper"
+   },
+   "text": {
+    "en": "Draupnir means 'the dripper': every ninth night eight rings of the same weight drip from it."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Draupnir",
+     "url": "https://en.wikipedia.org/wiki/Draupnir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "dufa": {
+   "means": {
+    "en": "the pitching one"
+   },
+   "text": {
+    "en": "Dúfa, one of Ægir's daughters (the waves), is glossed 'addressed' in the list of jötnar; the word is usually connected with dúfa 'to pitch, dive'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "duneyrr": {
+   "means": {
+    "en": "thundering ear, or dark ear"
+   },
+   "text": {
+    "en": "Duneyrr is glossed 'thundering ear' or 'dark ear'; it is one of the stags of Yggdrasill."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "durathror": {
+   "means": {
+    "en": "thriving slumber"
+   },
+   "text": {
+    "en": "Duraþrór is glossed 'thriving slumber'; it is one of the stags of Yggdrasill."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "durinn": {
+   "means": {
+    "en": "the sleepy one, or door-warden"
+   },
+   "text": {
+    "en": "Durinn has been glossed 'slumber', 'door' or 'door-warden'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "dvalinn": {
+   "means": {
+    "en": "the dormant one"
+   },
+   "text": {
+    "en": "Dvalinn means 'the dormant one, the one slumbering', from dvala 'to delay, linger'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "dvergar": {
+   "means": {
+    "en": "dwarfs"
+   },
+   "text": {
+    "en": "Dvergr is the same word as English dwarf and German Zwerg, from Proto-Germanic *dwergaz. Its deeper origin is debated; Anatoly Liberman links it with English dizzy, through the dwarfs' power to bring illness of the mind."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Dwarf (folklore)",
+     "url": "https://en.wikipedia.org/wiki/Dwarf_%28folklore%29",
+     "note": "citing Liberman"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "eadgils": {
+   "means": {
+    "en": "noble arrow-shaft"
+   },
+   "text": {
+    "en": "Aðils goes back to Proto-Norse *Aþagīslaz: *aþa(la) 'noble, foremost' and *gīslaz 'arrow shaft'. The Old English Eadgils matches it in sense but is built on a different first word, 'wealth'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Eadgils",
+     "url": "https://en.wikipedia.org/wiki/Eadgils"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "eggther": {
+   "means": {
+    "en": "edge-servant"
+   },
+   "text": {
+    "en": "Eggþér means 'edge-servant' (egg 'edge, blade'): the giant herdsman who sits on a mound and plays the harp."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Eggþér",
+     "url": "https://en.wikipedia.org/wiki/Egg%C3%BE%C3%A9r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "eikthyrnir": {
+   "means": {
+    "en": "uncertain; perhaps oak-thorny"
+   },
+   "text": {
+    "en": "The origin of Eikþyrnir is debated; Anatoly Liberman derives it, with Heiðrún, from Heiðþyrnir, the name of the lowest heaven. Eik means 'oak' and -þyrnir is often linked with 'thorny', for the stag's antlers."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Eikþyrnir",
+     "url": "https://en.wikipedia.org/wiki/Eik%C3%BEyrnir",
+     "note": "citing Liberman"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "eilifr": {
+   "means": {
+    "en": "eternal life, or lone life"
+   },
+   "text": {
+    "en": "Eilífr joins a word for 'always, eternity' (or ein- 'one') and lífr 'life'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wiktionary: Eilífr",
+     "url": "https://en.wiktionary.org/wiki/Eil%C3%ADfr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "einarr": {
+   "means": {
+    "en": "lone warrior"
+   },
+   "text": {
+    "en": "Einarr probably joins ein- 'one, alone' and *harjaz 'warrior', like the einherjar."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wiktionary: Einarr",
+     "url": "https://en.wiktionary.org/wiki/Einarr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "einarr-skalaglamm": {
+   "means": {
+    "en": "lone warrior"
+   },
+   "text": {
+    "en": "Einarr probably joins ein- 'one, alone' and *harjaz 'warrior'. Skálaglamm, 'scale-tinkle', is his byname."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wiktionary: Einarr",
+     "url": "https://en.wiktionary.org/wiki/Einarr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "einherjar": {
+   "means": {
+    "en": "those who fight alone"
+   },
+   "text": {
+    "en": "Einherjar is literally 'army of one' or 'those who fight alone': the dead warriors in Valhǫll (singular einheri). Scholars have often connected them with the Harii, a tribe of night-fighters described by Tacitus."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Einherjar",
+     "url": "https://en.wikipedia.org/wiki/Einherjar",
+     "note": "citing Lindow; Orchard; Simek"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "eir": {
+   "means": {
+    "en": "protection, help, mercy"
+   },
+   "text": {
+    "en": "Eir means 'protection, help, mercy': the goddess of healing."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Eir",
+     "url": "https://en.wikipedia.org/wiki/Eir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "eistla": {
+   "means": {
+    "en": "the stormy one, or the glowing one"
+   },
+   "text": {
+    "en": "Eistla, one of Heimdallr's mothers, is glossed 'the stormy one' or 'the glowing one'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "eldir": {
+   "means": {
+    "en": "fire-stoker"
+   },
+   "text": {
+    "en": "Eldir means 'fire-stoker', from eldr 'fire': Ægir's servant in Lokasenna."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Eldir",
+     "url": "https://en.wikipedia.org/wiki/Eldir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "elivagar": {
+   "means": {
+    "en": "ice waves"
+   },
+   "text": {
+    "en": "Élivágar means 'ice waves': él 'snow shower, storm' and vágr 'wave, bay'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Élivágar",
+     "url": "https://en.wikipedia.org/wiki/%C3%89liv%C3%A1gar"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "embla": {
+   "means": {
+    "en": "uncertain; perhaps elm, or vine"
+   },
+   "text": {
+    "en": "The meaning of Embla is uncertain. 'Elm tree' (from *Almilōn, compare almr 'elm') is problematic; 'vine', through *Ambilō, is the other main suggestion. Her partner Askr is the 'ash tree'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Ask and Embla",
+     "url": "https://en.wikipedia.org/wiki/Ask_and_Embla"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "etzel": {
+   "means": {
+    "en": "little father"
+   },
+   "text": {
+    "en": "Atli is the Norse form of Attila. Most scholars derive Attila from Gothic atta 'father' with the diminutive -ila: 'little father', like Wulfila 'little wolf'. The Grimm brothers first proposed it."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Attila",
+     "url": "https://en.wikipedia.org/wiki/Attila",
+     "note": "citing Grimm; Maenchen-Helfen; Doerfer"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "eysteinn": {
+   "means": {
+    "en": "luck and stone"
+   },
+   "text": {
+    "en": "Eysteinn is built from ey (glossed 'luck') and steinn 'stone'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wiktionary: Eysteinn",
+     "url": "https://en.wiktionary.org/wiki/Eysteinn"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "eyvindr": {
+   "means": {
+    "en": "uncertain"
+   },
+   "text": {
+    "en": "Eyvindr joins ey, probably 'luck, happiness', with -vindr, whose origin is unknown."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wiktionary: Eyvindr",
+     "url": "https://en.wiktionary.org/wiki/Eyvindr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "fafnir": {
+   "means": {
+    "en": "perhaps the embracer"
+   },
+   "text": {
+    "en": "Fáfnir is glossed 'fathomer', from a word for embracing or grasping; the meaning is not certain."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "farbauti": {
+   "means": {
+    "en": "cruel striker"
+   },
+   "text": {
+    "en": "Fárbauti, Loki's father, is glossed 'cruel striker': fár 'harm' and bauti 'striker'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "fenrir": {
+   "means": {
+    "en": "fen-dweller"
+   },
+   "text": {
+    "en": "Fenrir means 'fen-dweller'. He is also called Fenrisúlfr 'Fenrir's wolf', Hróðvitnir 'fame-wolf' and Vánagandr 'monster of the river Ván'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Fenrir",
+     "url": "https://en.wikipedia.org/wiki/Fenrir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "fensalir": {
+   "means": {
+    "en": "fen halls"
+   },
+   "text": {
+    "en": "Fensalir means 'fen halls': Frigg's home."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Fensalir",
+     "url": "https://en.wikipedia.org/wiki/Fensalir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "fjalar": {
+   "means": {
+    "en": "hider"
+   },
+   "text": {
+    "en": "Fjalarr is glossed 'hider', from fela 'to hide'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "fjolnir": {
+   "means": {
+    "en": "perhaps the one who knows much"
+   },
+   "text": {
+    "en": "Fjölnir is glossed, tentatively, 'the one who knows much'; it is one of Óðinn's names."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of names of Odin",
+     "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "fjolsvidr": {
+   "means": {
+    "en": "very wise"
+   },
+   "text": {
+    "en": "Fjölsviðr is glossed 'very wise' or 'very powerful'; it is also one of Óðinn's names."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "fjolvar": {
+   "means": {
+    "en": "very watchful"
+   },
+   "text": {
+    "en": "Fjǫlvarr joins fjǫl- 'much, very' (Old English fela) and -varr, most often connected with varr 'attentive, wary'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Fjölvar",
+     "url": "https://en.wikipedia.org/wiki/Fj%C3%B6lvar"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "fjorgyn": {
+   "means": {
+    "en": "earth"
+   },
+   "text": {
+    "en": "Fjörgyn, another name of Jörð, means 'earth'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Fjörgyn and Fjörgynn",
+     "url": "https://en.wikipedia.org/wiki/Fj%C3%B6rgyn_and_Fj%C3%B6rgynn"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "folkvangr": {
+   "means": {
+    "en": "field of the host"
+   },
+   "text": {
+    "en": "Fólkvangr means 'field of the host', 'people-field' or 'army-field': Freyja's meadow."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Fólkvangr",
+     "url": "https://en.wikipedia.org/wiki/F%C3%B3lkvangr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "fornjotr": {
+   "means": {
+    "en": "uncertain; perhaps ancient giant"
+   },
+   "text": {
+    "en": "The meaning of Fornjótr is unclear. It is often read as forn-jótr 'ancient giant' or for-njótr 'original owner, destroyer'; 'one who enjoys sacrifices' and 'ancient screamer' have also been proposed. His sons are Hlér 'sea', Logi 'fire' and Kári 'wind'."
+   },
+   "certainty": "disputed",
+   "sources": [
+    {
+     "title": "Wikipedia: Fornjót",
+     "url": "https://en.wikipedia.org/wiki/Fornj%C3%B3t"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "forseti": {
+   "means": {
+    "en": "the presiding one"
+   },
+   "text": {
+    "en": "Forseti means 'the presiding one'; forseti is the word for 'president' in modern Icelandic and Faroese."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Forseti",
+     "url": "https://en.wikipedia.org/wiki/Forseti"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "frankland": {
+   "means": {
+    "en": "land of the Franks"
+   },
+   "text": {
+    "en": "Frakkland is 'the land of the Franks' (frakkar)."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wiktionary: Frakkland",
+     "url": "https://en.wiktionary.org/wiki/Frakkland"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "freyja": {
+   "means": {
+    "en": "lady"
+   },
+   "text": {
+    "en": "Freyja plainly means 'lady, mistress', from Proto-Germanic *frawjōn (Old High German frouwa, German Frau), the female counterpart of Freyr 'lord'. It is thought to have begun as a title that replaced her own, now lost, name."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Freyja",
+     "url": "https://en.wikipedia.org/wiki/Freyja"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "freyr": {
+   "means": {
+    "en": "lord"
+   },
+   "text": {
+    "en": "Freyr means 'lord': from Proto-Germanic *frawjaz, like Gothic frauja and Old English frēa, 'lord, master'. Another view connects it with a word for 'fruitful' (Swedish frö 'seed'), making him 'the fruitful one'; in Sweden his name was Frö."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Freyr",
+     "url": "https://en.wikipedia.org/wiki/Freyr",
+     "note": "citing Kroonen"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "frigg": {
+   "means": {
+    "en": "beloved"
+   },
+   "text": {
+    "en": "Frigg comes from Proto-Germanic *Frijjō, from the adjective *frijaz 'free', which in a kin-based society first meant 'one's own, dear'. It is related to Sanskrit priyā 'beloved', to English friend and to the verb 'to love' (*frijōnan); English Friday is Frīg's day."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Frigg",
+     "url": "https://en.wikipedia.org/wiki/Frigg"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "frodi": {
+   "means": {
+    "en": "the wise"
+   },
+   "text": {
+    "en": "Fróði was first a byname, the definite form of fróðr 'wise, learned': 'the wise one'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wiktionary: Fróði",
+     "url": "https://en.wiktionary.org/wiki/Fr%C3%B3%C3%B0i"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "frosti": {
+   "means": {
+    "en": "the frosty one"
+   },
+   "text": {
+    "en": "Frosti means 'frosty, cold'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "galar": {
+   "means": {
+    "en": "yeller, singer"
+   },
+   "text": {
+    "en": "Galar is glossed 'yeller, singer', from gala 'to sing, to crow'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gandalfr": {
+   "means": {
+    "en": "wand-elf"
+   },
+   "text": {
+    "en": "Gandálfr is glossed 'wand-elf' or 'magic elf': gandr 'magic wand' and álfr 'elf'. Tolkien took the name for his wizard."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "garmr": {
+   "means": {
+    "en": "uncertain; perhaps the growler"
+   },
+   "text": {
+    "en": "The etymology of Garmr is uncertain. Bruce Lincoln relates it, with Greek Cerberus, to a Proto-Indo-European root *ger- 'to growl'; Daniel Ogden objects that the two names need different roots."
+   },
+   "certainty": "disputed",
+   "sources": [
+    {
+     "title": "Wikipedia: Garmr",
+     "url": "https://en.wikipedia.org/wiki/Garmr",
+     "note": "citing Lincoln; Ogden"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gaut": {
+   "means": {
+    "en": "uncertain; perhaps the one who pours"
+   },
+   "text": {
+    "en": "Gautr is the name of the Geats' mythical ancestor, from Proto-Germanic *Gautaz; it is also a name of Óðinn. The ethnic name is assumed to come from a word meaning 'to pour', perhaps after the river Göta älv."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Gaut",
+     "url": "https://en.wikipedia.org/wiki/Gaut"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gautar": {
+   "means": {
+    "en": "uncertain; perhaps the pourers"
+   },
+   "text": {
+    "en": "The Gautar are the Geats of Götaland, from Proto-Germanic *Gautōz; the name is assumed to come from a word meaning 'to pour', perhaps after the river Göta älv. It is related to the names of the Goths and the Gutes."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Gaut",
+     "url": "https://en.wikipedia.org/wiki/Gaut"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gefjon": {
+   "means": {
+    "en": "the giving one"
+   },
+   "text": {
+    "en": "The meaning of Gefjon has been disputed. Its first part is generally linked with Gefn, a name of Freyja, and likely means 'she who gives (prosperity, happiness)'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Gefjon",
+     "url": "https://en.wikipedia.org/wiki/Gefjon"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "geirrodr": {
+   "means": {
+    "en": "spear-reddener"
+   },
+   "text": {
+    "en": "Geirrǫðr is glossed 'spear-reddener': geirr 'spear' and a word for making red."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "geitir": {
+   "means": {
+    "en": "goat"
+   },
+   "text": {
+    "en": "Geitir is glossed 'goat', from geit."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gerdr": {
+   "means": {
+    "en": "fenced-in"
+   },
+   "text": {
+    "en": "Gerðr means 'fenced-in', from garðr 'enclosure, yard'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Gerðr",
+     "url": "https://en.wikipedia.org/wiki/Ger%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gestumblindi": {
+   "means": {
+    "en": "blind guest"
+   },
+   "text": {
+    "en": "Gestumblindi means 'blind guest', the name Óðinn takes in disguise; it is listed among Óðinn's names."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: List of names of Odin",
+     "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gilling": {
+   "means": {
+    "en": "grimling"
+   },
+   "text": {
+    "en": "Gillingr is glossed 'grimling'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gimle": {
+   "means": {
+    "en": "the place sheltered from fire, or gem-roof"
+   },
+   "text": {
+    "en": "Gimlé is likely 'the place protected from fire', from gimr 'fire' and hlé 'shelter'; Lee M. Hollander preferred 'gem-roof'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Gimlé",
+     "url": "https://en.wikipedia.org/wiki/Giml%C3%A9",
+     "note": "citing Hollander"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "ginnarr": {
+   "means": {
+    "en": "the deceiver"
+   },
+   "text": {
+    "en": "Ginnarr is glossed 'seducer, deceiver', from ginna 'to deceive'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "ginnungagap": {
+   "means": {
+    "en": "the yawning gap, or the gap full of power"
+   },
+   "text": {
+    "en": "Ginnunga- is usually taken from a verb meaning 'gape, yawn', though no such verb survives in Old Norse; Ursula Dronke suggested a borrowing from Old High German. Another view links it with the sacred prefix ginn- (ginnregin 'the gods', ginnheilagr 'most holy'), making it a 'space filled with magical, creative power'."
+   },
+   "certainty": "disputed",
+   "sources": [
+    {
+     "title": "Wikipedia: Ginnungagap",
+     "url": "https://en.wikipedia.org/wiki/Ginnungagap",
+     "note": "citing Dronke"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gjallarbru": {
+   "means": {
+    "en": "the bridge over Gjöll"
+   },
+   "text": {
+    "en": "Gjallarbrú is the bridge over the river Gjöll, on the road to Hel."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wiktionary: Gjallarbrú",
+     "url": "https://en.wiktionary.org/wiki/Gjallarbr%C3%BA"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gjallarhorn": {
+   "means": {
+    "en": "the resounding horn"
+   },
+   "text": {
+    "en": "Gjallarhorn means 'hollering horn' or 'the loud-sounding horn', from gjalla 'to resound': Heimdallr's horn."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Gjallarhorn",
+     "url": "https://en.wikipedia.org/wiki/Gjallarhorn"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gjalp": {
+   "means": {
+    "en": "roaring one, or seeress"
+   },
+   "text": {
+    "en": "Gjálp is glossed 'roaring one' or 'seeress'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gjoll": {
+   "means": {
+    "en": "the noisy one"
+   },
+   "text": {
+    "en": "Gjöll has been translated 'noisy', from gjalla 'to resound', as in Gjallarhorn: the river between the living and the dead."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Gjöll",
+     "url": "https://en.wikipedia.org/wiki/Gj%C3%B6ll"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gladsheimr": {
+   "means": {
+    "en": "bright home"
+   },
+   "text": {
+    "en": "Glaðsheimr means 'bright home' or 'home of joy': Óðinn's realm, with Valhǫll in it."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Glaðsheimr",
+     "url": "https://en.wikipedia.org/wiki/Gla%C3%B0sheimr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "glasir": {
+   "means": {
+    "en": "gleaming"
+   },
+   "text": {
+    "en": "Glasir means 'gleaming': the grove of golden-leaved trees before Valhǫll."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Glasir",
+     "url": "https://en.wikipedia.org/wiki/Glasir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "glaumr": {
+   "means": {
+    "en": "noise, uproar"
+   },
+   "text": {
+    "en": "Glaumr is glossed 'noise, merriment, uproar'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gleipnir": {
+   "means": {
+    "en": "the open one"
+   },
+   "text": {
+    "en": "Gleipnir is glossed 'open one'; the sense is not clear."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Gleipnir",
+     "url": "https://en.wikipedia.org/wiki/Gleipnir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "glenr": {
+   "means": {
+    "en": "opening in the clouds"
+   },
+   "text": {
+    "en": "Glenr means 'opening in the clouds': Sól's husband."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Glenr",
+     "url": "https://en.wikipedia.org/wiki/Glenr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gondul": {
+   "means": {
+    "en": "wand-wielder"
+   },
+   "text": {
+    "en": "Göndul means 'wand-wielder', from gandr 'magic wand'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Göndul",
+     "url": "https://en.wikipedia.org/wiki/G%C3%B6ndul"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "goths": {
+   "means": {
+    "en": "uncertain"
+   },
+   "text": {
+    "en": "The Goths called themselves *Gutans; the name is the same as that of the Gutes of Gotland and close to that of the Geats (*Gautōz). These names probably mean the same thing, but what that is remains uncertain."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Goths",
+     "url": "https://en.wikipedia.org/wiki/Goths"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "greip": {
+   "means": {
+    "en": "grasp"
+   },
+   "text": {
+    "en": "Greip is glossed 'grasp'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gridr": {
+   "means": {
+    "en": "vehemence, violence"
+   },
+   "text": {
+    "en": "Gríðr has been translated 'vehemence, violence, impetuosity'; the etymology is unclear."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Gríðr",
+     "url": "https://en.wikipedia.org/wiki/Gr%C3%AD%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "grimhildr": {
+   "means": {
+    "en": "masked battle"
+   },
+   "text": {
+    "en": "Grímhildr means 'masked battle': gríma 'mask' and hildr 'battle'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Grimhild",
+     "url": "https://en.wikipedia.org/wiki/Grimhild"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "grimnismal": {
+   "means": {
+    "en": "the speech of Grímnir"
+   },
+   "text": {
+    "en": "Grímnismál means 'the speech of Grímnir', the masked one: grímr 'mask, hood', the disguise Óðinn wears in the poem, and mál 'speech'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Grímnismál",
+     "url": "https://en.wikipedia.org/wiki/Gr%C3%ADmnism%C3%A1l"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "groa": {
+   "means": {
+    "en": "growing"
+   },
+   "text": {
+    "en": "Gróa possibly comes from a word for 'growing'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Gróa",
+     "url": "https://en.wikipedia.org/wiki/Gr%C3%B3a"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "grottasongr": {
+   "means": {
+    "en": "the song of Grótti"
+   },
+   "text": {
+    "en": "Gróttasǫngr means 'the mill's songs' or 'the song of Grótti', the magic mill turned by Fenja and Menja."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Grottasöngr",
+     "url": "https://en.wikipedia.org/wiki/Grottas%C3%B6ngr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gudmundr": {
+   "means": {
+    "en": "god's protection"
+   },
+   "text": {
+    "en": "Guðmundr joins guð 'god' and -mundr 'protection' (Proto-Germanic *mundō)."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wiktionary: Guðmundr",
+     "url": "https://en.wiktionary.org/wiki/Gu%C3%B0mundr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gudrun": {
+   "means": {
+    "en": "battle-secret"
+   },
+   "text": {
+    "en": "Guðrún joins gunnr 'battle' (Proto-Germanic *gunþ-, with the nasal lost) and rún 'secret'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Gudrun",
+     "url": "https://en.wikipedia.org/wiki/Gudrun"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gullfaxi": {
+   "means": {
+    "en": "golden mane"
+   },
+   "text": {
+    "en": "Gullfaxi means 'golden mane': Hrungnir's horse, which Þórr gave to his son Magni."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Gullfaxi",
+     "url": "https://en.wikipedia.org/wiki/Gullfaxi"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gullinbursti": {
+   "means": {
+    "en": "golden bristles"
+   },
+   "text": {
+    "en": "Gullinbursti means 'golden bristles' or 'gold mane': Freyr's boar."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Gullinbursti",
+     "url": "https://en.wikipedia.org/wiki/Gullinbursti"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gulltoppr": {
+   "means": {
+    "en": "golden mane"
+   },
+   "text": {
+    "en": "Gulltoppr means 'golden mane' (or 'golden tuft'): Heimdallr's horse."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Gulltoppr",
+     "url": "https://en.wikipedia.org/wiki/Gulltoppr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gullveig": {
+   "means": {
+    "en": "gold-…"
+   },
+   "text": {
+    "en": "Gullveig is formed with gull 'gold'. The second part, found in names like Rannveig and Sölveig, is obscure: 'power, strength', 'intoxicating drink' and other senses have been suggested."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Gullveig",
+     "url": "https://en.wikipedia.org/wiki/Gullveig"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gungnir": {
+   "means": {
+    "en": "the swaying one"
+   },
+   "text": {
+    "en": "Gungnir means 'the rocker, the swaying one': Óðinn's spear."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Gungnir",
+     "url": "https://en.wikipedia.org/wiki/Gungnir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gunnar": {
+   "means": {
+    "en": "war-army"
+   },
+   "text": {
+    "en": "Gunnarr is the Norse form of the name of Gundahar, the Burgundian king: Proto-Germanic *gunþ- 'war, conflict' and *-hari 'army'. The German form is Gunther."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Gunther",
+     "url": "https://en.wikipedia.org/wiki/Gunther"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gunnlod": {
+   "means": {
+    "en": "battle-invitation"
+   },
+   "text": {
+    "en": "Gunnlöð is glossed 'battle-invitation': gunnr 'battle' and a word for inviting."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gyllir": {
+   "means": {
+    "en": "golden, or yelling"
+   },
+   "text": {
+    "en": "Gyllir is glossed 'golden' or 'yelling'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "gymir": {
+   "means": {
+    "en": "uncertain; sea, or devourer"
+   },
+   "text": {
+    "en": "The meaning of Gymir is unclear; it has been glossed 'sea' or 'devourer', and also 'the earthly' or 'the wintry one'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    },
+    {
+     "title": "Wikipedia: Ægir",
+     "url": "https://en.wikipedia.org/wiki/%C3%86gir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hakon": {
+   "means": {
+    "en": "high-born, perhaps"
+   },
+   "text": {
+    "en": "The meaning of Hákon is debated: perhaps hár 'high' (or a word for 'horse') with konr 'descendant, kinsman'."
+   },
+   "certainty": "disputed",
+   "sources": [
+    {
+     "title": "Wiktionary: Hákon",
+     "url": "https://en.wiktionary.org/wiki/H%C3%A1kon"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "haraldr": {
+   "means": {
+    "en": "army-leader"
+   },
+   "text": {
+    "en": "Haraldr joins *harjaz 'army' and *waldaz 'ruler, leader'; Tacitus records the same name as Chariovalda, and it is the English Harold."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wiktionary: Haraldr",
+     "url": "https://en.wiktionary.org/wiki/Haraldr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hati": {
+   "means": {
+    "en": "he who hates, the enemy"
+   },
+   "text": {
+    "en": "Hati means 'he who hates' or 'enemy'. His father's name in Hati Hróðvitnisson is Hróðvitnir, 'famous wolf', another name of Fenrir."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Hati Hróðvitnisson",
+     "url": "https://en.wikipedia.org/wiki/Hati_Hr%C3%B3%C3%B0vitnisson"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hati-giant": {
+   "means": {
+    "en": "he who hates, the enemy"
+   },
+   "text": {
+    "en": "Hati means 'he who hates' or 'enemy'; the same name is borne by the wolf who chases the moon."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "haustlong": {
+   "means": {
+    "en": "autumn-long"
+   },
+   "text": {
+    "en": "Haustlǫng means 'autumn-long', perhaps because it took an autumn to compose."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Haustlöng",
+     "url": "https://en.wikipedia.org/wiki/Haustl%C3%B6ng"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hefring": {
+   "means": {
+    "en": "lifting"
+   },
+   "text": {
+    "en": "Hefring, one of Ægir's daughters (the waves), is glossed 'lifting', from hefja 'to raise'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "heidrekr": {
+   "means": {
+    "en": "honour-ruler"
+   },
+   "text": {
+    "en": "Heiðrekr joins heiðr 'honour' and rekr 'ruler, king'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Heidrek",
+     "url": "https://en.wikipedia.org/wiki/Heidrek"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "heidrun": {
+   "means": {
+    "en": "uncertain; perhaps bright-sky"
+   },
+   "text": {
+    "en": "The origin of Heiðrún is debated. Anatoly Liberman suggests that Heiðþyrnir, the name of the lowest heaven (heið 'bright sky'), was split in two to make the names of the goat Heiðrún and the stag Eikþyrnir."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Heiðrún",
+     "url": "https://en.wikipedia.org/wiki/Hei%C3%B0r%C3%BAn",
+     "note": "citing Liberman"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "heimdall": {
+   "means": {
+    "en": "perhaps the one who illuminates the world"
+   },
+   "text": {
+    "en": "The meaning of Heimdallr is obscure; 'the one who illuminates the world' has been proposed, with heimr 'world' as the first part. The name may be connected with Mardöll, one of Freyja's names. His byname Gullintanni means 'the one with the golden teeth'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Heimdall",
+     "url": "https://en.wikipedia.org/wiki/Heimdall"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "heimdallargaldr": {
+   "means": {
+    "en": "Heimdallr's spell-song"
+   },
+   "text": {
+    "en": "Heimdallargaldr means 'Heimdallr's galdr', his incantation or spell-song."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Heimdalargaldr",
+     "url": "https://en.wikipedia.org/wiki/Heimdalargaldr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hel": {
+   "means": {
+    "en": "the hidden place"
+   },
+   "text": {
+    "en": "Hel is the same word as the realm she rules: Proto-Germanic *haljō 'concealed place, the underworld', from a verb 'to cover, to hide' (Old English helan), ultimately from Proto-Indo-European *ḱel- 'to conceal'. English hell is the same word, and Latin cēlō 'I hide' a distant relative."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Hel (mythological being)",
+     "url": "https://en.wikipedia.org/wiki/Hel_%28mythological_being%29"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "helblindi": {
+   "means": {
+    "en": "Hel-blind"
+   },
+   "text": {
+    "en": "Helblindi means 'Hel-blind'; it is the name of Loki's brother and also one of Óðinn's names."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Helblindi",
+     "url": "https://en.wikipedia.org/wiki/Helblindi"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "helgi-hjorvardsson": {
+   "means": {
+    "en": "the lucky one, later 'the holy'"
+   },
+   "text": {
+    "en": "Helgi is the definite form of an old adjective *heiligr 'happy, lucky', later understood as heilagr 'holy'; Hjǫrvarðsson is 'son of Hjǫrvarðr'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wiktionary: Helgi",
+     "url": "https://en.wiktionary.org/wiki/Helgi"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "helgi-hundingsbani": {
+   "means": {
+    "en": "the lucky one, later 'the holy'"
+   },
+   "text": {
+    "en": "Helgi is the definite form of an old adjective *heiligr 'happy, lucky'; later it was understood as heilagr 'holy'. Hundingsbani means 'Hundingr's bane'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wiktionary: Helgi",
+     "url": "https://en.wiktionary.org/wiki/Helgi"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "herfjotur": {
+   "means": {
+    "en": "war-fetter"
+   },
+   "text": {
+    "en": "Herfjötur means 'war-fetter', 'host-fetter' or 'fetter of the army'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Herfjötur",
+     "url": "https://en.wikipedia.org/wiki/Herfj%C3%B6tur"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "herkja": {
+   "means": {
+    "en": "noise"
+   },
+   "text": {
+    "en": "Herkja is glossed 'noise'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hermodr": {
+   "means": {
+    "en": "war-spirit"
+   },
+   "text": {
+    "en": "Hermóðr means 'war-spirit': herr 'army, war' and móðr 'spirit, courage'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Hermóðr",
+     "url": "https://en.wikipedia.org/wiki/Herm%C3%B3%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hervardr": {
+   "means": {
+    "en": "army-guardian"
+   },
+   "text": {
+    "en": "Hervarðr joins herr 'army' and varðr 'guardian'; it is the same name as Old English Hereweard (Hereward)."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wiktionary: Hervarðr",
+     "url": "https://en.wiktionary.org/wiki/Hervar%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hildr": {
+   "means": {
+    "en": "battle"
+   },
+   "text": {
+    "en": "Hildr means 'battle'; it is also a common ending of women's names, as in Brynhildr."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Hildr",
+     "url": "https://en.wikipedia.org/wiki/Hildr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "himinbjorg": {
+   "means": {
+    "en": "heaven's castle"
+   },
+   "text": {
+    "en": "Himinbjörg means 'heaven's castle' or 'heaven-mountain': Heimdallr's home."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Himinbjörg",
+     "url": "https://en.wikipedia.org/wiki/Himinbj%C3%B6rg"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hindarfjall": {
+   "means": {
+    "en": "hind mountain"
+   },
+   "text": {
+    "en": "Hindarfjall means 'hind mountain': where Brynhildr sleeps."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Hindarfjall",
+     "url": "https://en.wikipedia.org/wiki/Hindarfjall"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hjuki": {
+   "means": {
+    "en": "perhaps the one returning to health"
+   },
+   "text": {
+    "en": "Hjúki possibly means 'the one returning to health'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Hjúki and Bil",
+     "url": "https://en.wikipedia.org/wiki/Hj%C3%BAki_and_Bil"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hlidskjalf": {
+   "means": {
+    "en": "the high seat with a wide view"
+   },
+   "text": {
+    "en": "Hliðskjálf is taken literally as 'the high seat with an expansive view' (hlið 'opening', skjálf 'bench, shelf'): Óðinn's seat, from which he sees all the worlds."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Hliðskjálf",
+     "url": "https://en.wikipedia.org/wiki/Hli%C3%B0skj%C3%A1lf"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hlin": {
+   "means": {
+    "en": "the protector"
+   },
+   "text": {
+    "en": "Hlín is usually explained as 'protector'; Snorri derives it from a verb hleina found only in an obscure proverb."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Hlín",
+     "url": "https://en.wikipedia.org/wiki/Hl%C3%ADn"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hnitbjorg": {
+   "means": {
+    "en": "colliding rocks"
+   },
+   "text": {
+    "en": "Hnitbjǫrg can be translated 'colliding rocks', perhaps a mountain that opens and shuts, as in other tales."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Hnitbjörg",
+     "url": "https://en.wikipedia.org/wiki/Hnitbj%C3%B6rg"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hnoss": {
+   "means": {
+    "en": "treasure"
+   },
+   "text": {
+    "en": "Hnoss means 'treasure': Freyja's daughter."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Hnoss",
+     "url": "https://en.wikipedia.org/wiki/Hnoss"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hoddmimis-holt": {
+   "means": {
+    "en": "Hoard-Mímir's wood"
+   },
+   "text": {
+    "en": "Hoddmímis holt means 'Hoard-Mímir's wood', where Líf and Lífþrasir shelter through Ragnarök."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Hoddmímis holt",
+     "url": "https://en.wikipedia.org/wiki/Hoddm%C3%ADmis_holt"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hodr": {
+   "means": {
+    "en": "warrior, battle"
+   },
+   "text": {
+    "en": "Hǫðr can be translated 'warrior' or 'battle'. Jan de Vries and Vladimir Orel relate it to Old Norse hǫð 'war, slaughter' and Old English heaðu-deór 'brave in war', from Proto-Germanic *haþuz 'battle'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Höðr",
+     "url": "https://en.wikipedia.org/wiki/H%C3%B6%C3%B0r",
+     "note": "citing de Vries; Orel"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hofvarpnir": {
+   "means": {
+    "en": "he who throws his hooves about"
+   },
+   "text": {
+    "en": "Hófvarpnir means 'he who throws his hooves about': the horse of Gná."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Gná and Hófvarpnir",
+     "url": "https://en.wikipedia.org/wiki/Gn%C3%A1_and_H%C3%B3fvarpnir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hraesvelgr": {
+   "means": {
+    "en": "corpse-swallower"
+   },
+   "text": {
+    "en": "Hræsvelgr means 'corpse-swallower': the giant in eagle's shape whose wings make the wind."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hreidmarr": {
+   "means": {
+    "en": "uncertain; perhaps nest-horse"
+   },
+   "text": {
+    "en": "Hreiðmarr has been glossed 'nest-horse' (hreiðr 'nest', marr 'horse'); the sense is unclear."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hrimfaxi": {
+   "means": {
+    "en": "frost mane"
+   },
+   "text": {
+    "en": "Hrímfaxi means 'frost mane': Night's horse, the foam from whose bit falls as dew."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Skinfaxi and Hrímfaxi",
+     "url": "https://en.wikipedia.org/wiki/Skinfaxi_and_Hr%C3%ADmfaxi"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hrimgerdr": {
+   "means": {
+    "en": "frost-Gerðr"
+   },
+   "text": {
+    "en": "Hrímgerðr is 'frost-Gerðr': hrím 'rime, frost' joined to the name Gerðr."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Hrímgerðr",
+     "url": "https://en.wikipedia.org/wiki/Hr%C3%ADmger%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hrimnir": {
+   "means": {
+    "en": "the one covered with hoarfrost"
+   },
+   "text": {
+    "en": "Hrímnir is glossed 'the one covered with hoarfrost' or 'the sooty one'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hrimthursar": {
+   "means": {
+    "en": "frost-giants"
+   },
+   "text": {
+    "en": "Hrímþurs is 'rime-þurs, frost-þurs': hrím 'rime, hoar-frost' and þurs, one of the words for a giant, the same word as Old English þyrs."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Jötunn",
+     "url": "https://en.wikipedia.org/wiki/J%C3%B6tunn",
+     "note": "citing Simek"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hringhorni": {
+   "means": {
+    "en": "ship with a circle on the stem"
+   },
+   "text": {
+    "en": "Hringhorni means 'ship with a circle on the stem': Baldr's ship."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Hringhorni",
+     "url": "https://en.wikipedia.org/wiki/Hringhorni"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hrolfr-kraki": {
+   "means": {
+    "en": "fame-wolf"
+   },
+   "text": {
+    "en": "Hrólfr comes from earlier *Hróðulfr: hróðr 'fame' and úlfr 'wolf'. It is the same name as Rudolph and Old English Hroðulf."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wiktionary: Hrólfr",
+     "url": "https://en.wiktionary.org/wiki/Hr%C3%B3lfr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hrungnir": {
+   "means": {
+    "en": "brawler"
+   },
+   "text": {
+    "en": "Hrungnir means 'brawler'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Hrungnir",
+     "url": "https://en.wikipedia.org/wiki/Hrungnir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hrym": {
+   "means": {
+    "en": "the decrepit"
+   },
+   "text": {
+    "en": "Hrymr is glossed 'decrepit'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hugi": {
+   "means": {
+    "en": "thought"
+   },
+   "text": {
+    "en": "Hugi means 'thought', from hugr: Þjálfi races against thought itself at Útgarða-Loki's."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Þjálfi and Röskva",
+     "url": "https://en.wikipedia.org/wiki/%C3%9Ej%C3%A1lfi_and_R%C3%B6skva"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "huginn": {
+   "means": {
+    "en": "thought"
+   },
+   "text": {
+    "en": "Huginn is hugr 'thought, mind, mood' with the definite ending, 'the thought'; the word lives on in Icelandic hugur. His fellow raven Muninn is built the same way on a word for memory and longing."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Huginn and Muninn",
+     "url": "https://en.wikipedia.org/wiki/Huginn_and_Muninn"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "husdrapa": {
+   "means": {
+    "en": "the house-lay"
+   },
+   "text": {
+    "en": "Húsdrápa means 'house-lay': a drápa about the carved scenes on the panels of a hall."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Húsdrápa",
+     "url": "https://en.wikipedia.org/wiki/H%C3%BAsdr%C3%A1pa"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hvergelmir": {
+   "means": {
+    "en": "bubbling, boiling spring"
+   },
+   "text": {
+    "en": "Hvergelmir means 'bubbling boiling spring': hverr 'cauldron, hot spring' and gelmir 'roarer'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Hvergelmir",
+     "url": "https://en.wikipedia.org/wiki/Hvergelmir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hymir": {
+   "means": {
+    "en": "uncertain; perhaps the sluggish one"
+   },
+   "text": {
+    "en": "The meaning of Hymir is uncertain; it may be related to Norwegian humen 'limp, weary' or humre 'whinny'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Hymir",
+     "url": "https://en.wikipedia.org/wiki/Hymir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hyrrokkin": {
+   "means": {
+    "en": "fire-smoked"
+   },
+   "text": {
+    "en": "Hyrrokkin is glossed 'fire-smoked', 'withered by fire': the giantess who launches Baldr's ship."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "idavollr": {
+   "means": {
+    "en": "splendour-plain, or green plain"
+   },
+   "text": {
+    "en": "Iðavöllr possibly means 'splendour-plain' or 'green plain'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Iðavöllr",
+     "url": "https://en.wikipedia.org/wiki/I%C3%B0av%C3%B6llr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "idi": {
+   "means": {
+    "en": "the hard-working one"
+   },
+   "text": {
+    "en": "Iði is glossed 'the moveable' or 'the hard-working one'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "idunn": {
+   "means": {
+    "en": "the rejuvenating one"
+   },
+   "text": {
+    "en": "Iðunn has been explained as 'ever young', 'rejuvenator' or 'the rejuvenating one', fitting the apples that keep the gods young. It was also used as a woman's name in Iceland from the settlement onward."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Iðunn",
+     "url": "https://en.wikipedia.org/wiki/I%C3%B0unn"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "ingunar-freyr": {
+   "means": {
+    "en": "lord of the friends of Ing"
+   },
+   "text": {
+    "en": "Ingunar-Freyr is a name of Freyr; Beowulf's close form frea Ingwina means 'lord of the friends of Ing'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Ingunar-Freyr",
+     "url": "https://en.wikipedia.org/wiki/Ingunar-Freyr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "ivaldi": {
+   "means": {
+    "en": "the yew-bow wielder"
+   },
+   "text": {
+    "en": "Ívaldi is glossed 'wielder of the yew bow' or 'warrior'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "jarnsaxa": {
+   "means": {
+    "en": "iron dagger"
+   },
+   "text": {
+    "en": "Járnsaxa means 'iron dagger' (járn 'iron', sax 'short sword')."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "jarnvidr": {
+   "means": {
+    "en": "iron wood"
+   },
+   "text": {
+    "en": "Járnviðr means 'iron wood': the forest east of Miðgarðr where the troll-women live."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Járnviðr",
+     "url": "https://en.wikipedia.org/wiki/J%C3%A1rnvi%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "jord": {
+   "means": {
+    "en": "earth"
+   },
+   "text": {
+    "en": "Jörð is the ordinary word for 'earth'; she is the earth in person, Þórr's mother."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "jormungandr": {
+   "means": {
+    "en": "the huge monster"
+   },
+   "text": {
+    "en": "Jǫrmungandr is a poetic title. Jǫrmun- marks something huge, vast or superhuman, and some think of it as a noun for 'the world'. Gandr covers long things and supernatural beings: snake, staff, magic wand. Together they make roughly 'the huge (magic) beast'. He is also called Miðgarðsormr, 'the serpent of Miðgarðr'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Jörmungandr",
+     "url": "https://en.wikipedia.org/wiki/J%C3%B6rmungandr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "jormunrekkr": {
+   "means": {
+    "en": "the mighty ruler"
+   },
+   "text": {
+    "en": "Jǫrmunrekkr is the Norse form of the Gothic king Ermanaric, *Airmanareiks: *ermena- 'universal, immense' and *-rīks 'ruler'. The first part is the same as in Jǫrmungandr."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Ermanaric",
+     "url": "https://en.wikipedia.org/wiki/Ermanaric"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "jorunn": {
+   "means": {
+    "en": "boar and love"
+   },
+   "text": {
+    "en": "Jórunn joins jǫfurr 'wild boar, prince' (Old English eofor) and unna 'to love'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wiktionary: Jórunn",
+     "url": "https://en.wiktionary.org/wiki/J%C3%B3runn"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "jotnar": {
+   "means": {
+    "en": "the eaters, perhaps"
+   },
+   "text": {
+    "en": "Jǫtunn, like Old English eoten and the archaic English ettin, goes back to Proto-Germanic *etunaz. Vladimir Orel thinks it likely related to *etanan 'to eat'. The giants are also called risi, þurs and troll, and giantesses gýgr."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Jötunn",
+     "url": "https://en.wikipedia.org/wiki/J%C3%B6tunn",
+     "note": "citing Orel"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "jotunheim": {
+   "means": {
+    "en": "the lands of the giants"
+   },
+   "text": {
+    "en": "Jǫtunheimar, usually in the plural in the Eddas, means 'giant-lands': jǫtunn 'giant' and heimr 'world, home'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Jötunheimr",
+     "url": "https://en.wikipedia.org/wiki/J%C3%B6tunheimr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "kalfsvisa": {
+   "means": {
+    "en": "Kálfr's verse"
+   },
+   "text": {
+    "en": "Kálfsvísa means 'Kálfr's vísa', perhaps after the name of its maker."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Kálfsvísa",
+     "url": "https://en.wikipedia.org/wiki/K%C3%A1lfsv%C3%ADsa"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "kara": {
+   "means": {
+    "en": "the wild, stormy one, or curl"
+   },
+   "text": {
+    "en": "Kára either means 'the wild, stormy one' (compare afkárr 'wild') or 'curl'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Kára",
+     "url": "https://en.wikipedia.org/wiki/K%C3%A1ra"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "kari": {
+   "means": {
+    "en": "gust of wind"
+   },
+   "text": {
+    "en": "Kári is glossed 'wind gust' or 'curly'; the giant is the wind itself."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "kerlaugar": {
+   "means": {
+    "en": "kettle-baths"
+   },
+   "text": {
+    "en": "Kerlaugar is the plural of kerlaug 'kettle-bath': the rivers Þórr wades each day."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Kerlaugar",
+     "url": "https://en.wikipedia.org/wiki/Kerlaugar"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "kili": {
+   "means": {
+    "en": "wedge"
+   },
+   "text": {
+    "en": "Kíli is glossed 'wedge'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "kjarr": {
+   "means": {
+    "en": "Caesar"
+   },
+   "text": {
+    "en": "Kjárr comes from the title Caesar, through an early Germanic *kaisaraz; in the poems he is a king in the south, first of all the Roman emperor."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wiktionary: Kjárr",
+     "url": "https://en.wiktionary.org/wiki/Kj%C3%A1rr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "kolga": {
+   "means": {
+    "en": "the cool one"
+   },
+   "text": {
+    "en": "Kólga, one of Ægir's daughters (the waves), is glossed 'cool', from kaldr 'cold'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "kvasir": {
+   "means": {
+    "en": "the squeezed one"
+   },
+   "text": {
+    "en": "The origin of Kvasir is uncertain. The root kvas- likely comes from Proto-Germanic *kvass- 'to squeeze, crush'; A. M. Sturtevant notes that juice comes from what is crushed (Danish kvase), which fits a being made from the gods' spittle and turned into mead."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Kvasir",
+     "url": "https://en.wikipedia.org/wiki/Kvasir",
+     "note": "citing Sturtevant"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "laeradr": {
+   "means": {
+    "en": "uncertain"
+   },
+   "text": {
+    "en": "The meaning of Læraðr is unclear: læ 'harm, betrayal' would give 'arranger of betrayal', while a reading *hléraðr 'giver of shelter' has also been suggested."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Læraðr",
+     "url": "https://en.wikipedia.org/wiki/L%C3%A6ra%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "laufey": {
+   "means": {
+    "en": "the leafy one"
+   },
+   "text": {
+    "en": "The meaning of Laufey is not clear; it is generally taken to be related to lauf 'leaves, foliage', perhaps 'the leafy one'. Her other name is Nál, 'needle'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Laufey (mythology)",
+     "url": "https://en.wikipedia.org/wiki/Laufey_%28mythology%29"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "leikn": {
+   "means": {
+    "en": "witch"
+   },
+   "text": {
+    "en": "Leikn is glossed 'witch'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "litr": {
+   "means": {
+    "en": "colour, countenance"
+   },
+   "text": {
+    "en": "Litr means 'colour' or 'countenance, complexion': the dwarf Þórr kicks into Baldr's pyre."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "lodurr": {
+   "means": {
+    "en": "unknown"
+   },
+   "text": {
+    "en": "The meaning of Lóðurr is unknown. Links with lóð 'fruit, land', ljóðar 'people', laða 'to attract', Gothic liudan 'to grow' and German lodern 'to blaze' have all been suggested."
+   },
+   "certainty": "disputed",
+   "sources": [
+    {
+     "title": "Wikipedia: Lóðurr",
+     "url": "https://en.wikipedia.org/wiki/L%C3%B3%C3%B0urr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "lofn": {
+   "means": {
+    "en": "the comforter"
+   },
+   "text": {
+    "en": "Lofn possibly means 'comforter', 'the mild one' or 'loving'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Lofn",
+     "url": "https://en.wikipedia.org/wiki/Lofn"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "logi": {
+   "means": {
+    "en": "fire"
+   },
+   "text": {
+    "en": "Logi means 'fire, flame': the fire itself, with whom Loki has to compete in eating at Útgarða-Loki's."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "loki": {
+   "means": {
+    "en": "perhaps the one who closes or knots"
+   },
+   "text": {
+    "en": "The name Loki has been much debated. A link with logi 'flame' has no sound linguistic basis. Later Scandinavian forms (Danish Loke, Faroese Lokki, Swedish Locke) point to a Germanic root *luk- for loops, knots, hooks and locks; compare Faroese lokkanet 'cobweb', literally 'Lokki's net'. His other name Loptr is usually taken from lopt 'air'."
+   },
+   "certainty": "disputed",
+   "sources": [
+    {
+     "title": "Wikipedia: Loki",
+     "url": "https://en.wikipedia.org/wiki/Loki",
+     "note": "citing Heide"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "magni": {
+   "means": {
+    "en": "strength"
+   },
+   "text": {
+    "en": "Magni means 'strength', from megin 'might': Þórr's son, who will inherit the hammer."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Móði and Magni",
+     "url": "https://en.wikipedia.org/wiki/M%C3%B3%C3%B0i_and_Magni",
+     "note": "citing Simek"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "managarmr": {
+   "means": {
+    "en": "moon-hound"
+   },
+   "text": {
+    "en": "Mánagarmr means 'moon-hound' or 'moon's dog': the wolf that swallows the moon."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Hati Hróðvitnisson",
+     "url": "https://en.wikipedia.org/wiki/Hati_Hr%C3%B3%C3%B0vitnisson"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "mani": {
+   "means": {
+    "en": "moon"
+   },
+   "text": {
+    "en": "Máni is the ordinary word for 'moon': the moon in person, Sól's brother."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Máni",
+     "url": "https://en.wikipedia.org/wiki/M%C3%A1ni"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "midgard": {
+   "means": {
+    "en": "middle enclosure"
+   },
+   "text": {
+    "en": "Miðgarðr is 'the middle enclosure', from Common Germanic *meðjana-garðaz; the same word appears as Gothic midjungards, Old High German mittilagart and Old English middangeard, which became Middle English middellærd, 'Middle-earth'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Midgard",
+     "url": "https://en.wikipedia.org/wiki/Midgard"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "mimir": {
+   "means": {
+    "en": "the rememberer"
+   },
+   "text": {
+    "en": "The most accepted explanation derives Mímir from a reduplicated form of Proto-Indo-European *(s)mer- 'to think, recall, reflect' (Sanskrit smárati), so that the name is a distant relative of English memory. Rudolf Simek renders it 'the rememberer, the wise one'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Mímir",
+     "url": "https://en.wikipedia.org/wiki/M%C3%ADmir",
+     "note": "citing Simek"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "mimisbrunnr": {
+   "means": {
+    "en": "Mímir's well"
+   },
+   "text": {
+    "en": "Mímisbrunnr means 'Mímir's wellspring'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Mímisbrunnr",
+     "url": "https://en.wikipedia.org/wiki/M%C3%ADmisbrunnr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "mist": {
+   "means": {
+    "en": "cloud, mist"
+   },
+   "text": {
+    "en": "Mist means 'cloud' or 'mist'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Mist (valkyrie)",
+     "url": "https://en.wikipedia.org/wiki/Mist_%28valkyrie%29"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "mjodvitnir": {
+   "means": {
+    "en": "mead-wolf"
+   },
+   "text": {
+    "en": "Mjöðvitnir is glossed 'mead-wolf', 'knowing in mead' or 'toper'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "mjolnir": {
+   "means": {
+    "en": "lightning-maker, or the shining one, or the grinder"
+   },
+   "text": {
+    "en": "The meaning of Mjǫllnir is disputed. One proposal links it, through Proto-Norse *melluniaR, to Old Church Slavonic mlunuji and Russian molnija 'lightning', giving 'lightning-maker'; another to Old Norse mjǫll 'new snow' (Icelandic mjalli 'white'), giving 'shining (lightning) weapon'; a third to mala 'to grind' (Gothic malwjan), giving 'the grinder'."
+   },
+   "certainty": "disputed",
+   "sources": [
+    {
+     "title": "Wikipedia: Mjölnir",
+     "url": "https://en.wikipedia.org/wiki/Mj%C3%B6lnir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "modi": {
+   "means": {
+    "en": "wrath"
+   },
+   "text": {
+    "en": "Móði means 'wrath, courage', from móðr 'mood, wrath'. With his brother Magni 'strength' and his sister Þrúðr, he embodies his father Þórr's qualities, as Rudolf Simek notes."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Móði and Magni",
+     "url": "https://en.wikipedia.org/wiki/M%C3%B3%C3%B0i_and_Magni",
+     "note": "citing Simek"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "mogthrasir": {
+   "means": {
+    "en": "the one striving for sons"
+   },
+   "text": {
+    "en": "Mögþrasir possibly means 'the one who is striving for sons'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Mögþrasir",
+     "url": "https://en.wikipedia.org/wiki/M%C3%B6g%C3%BErasir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "mundilfari": {
+   "means": {
+    "en": "the one moving by fixed times"
+   },
+   "text": {
+    "en": "Mundilfari has been read as 'the one moving according to particular times', fitting the father of Sól and Máni; the meaning is not certain."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Mundilfari",
+     "url": "https://en.wikipedia.org/wiki/Mundilfari"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "munin": {
+   "means": {
+    "en": "memory, the mind"
+   },
+   "text": {
+    "en": "Muninn is munr with the definite ending. Munr covers affection, intent and will: 'care, urge, yearning, curiosity, memory'. It survives in Icelandic munur and is related to English mind and Old English gemynd 'memory'. Huginn and Muninn were probably near-synonyms for Óðinn's thought and memory."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Huginn and Muninn",
+     "url": "https://en.wikipedia.org/wiki/Huginn_and_Muninn"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "muspelheim": {
+   "means": {
+    "en": "uncertain; perhaps the world's destruction"
+   },
+   "text": {
+    "en": "The etymology of Múspell is uncertain. It may come from a compound meaning 'world-destroyers' or 'wreck of the world'; the word is also found in the Old High German poem Muspilli about the end of the world."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Muspelheim",
+     "url": "https://en.wikipedia.org/wiki/Muspelheim"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "myrkvidr": {
+   "means": {
+    "en": "dark wood"
+   },
+   "text": {
+    "en": "Myrkviðr means 'dark wood' or 'black forest'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Myrkviðr",
+     "url": "https://en.wikipedia.org/wiki/Myrkvi%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "naglfar": {
+   "means": {
+    "en": "nail-farer"
+   },
+   "text": {
+    "en": "Naglfar means 'nail-farer': the ship made from the nails of the dead."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Naglfar",
+     "url": "https://en.wikipedia.org/wiki/Naglfar"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "naglfari": {
+   "means": {
+    "en": "nail-farer"
+   },
+   "text": {
+    "en": "Naglfari is glossed 'nail-farer', like the ship Naglfar."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "nainn": {
+   "means": {
+    "en": "corpse"
+   },
+   "text": {
+    "en": "Náinn is glossed 'corpse', from nár 'corpse'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "nanna": {
+   "means": {
+    "en": "mother, woman, or the daring one"
+   },
+   "text": {
+    "en": "The meaning of Nanna is debated: a babble word nanna 'mother', Jan de Vries's root *nanþ- 'the daring one', or, as John Lindow suggests, an Old Norse common noun for 'woman'."
+   },
+   "certainty": "disputed",
+   "sources": [
+    {
+     "title": "Wikipedia: Nanna (Norse deity)",
+     "url": "https://en.wikipedia.org/wiki/Nanna_%28Norse_deity%29",
+     "note": "citing de Vries; Lindow; McKinnell"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "narfi": {
+   "means": {
+    "en": "perhaps night, or narrow"
+   },
+   "text": {
+    "en": "Narfi, also Nörfi, has been linked with Old Saxon narouua 'night' and with Old Norse nǫrr 'narrow'; as Adolf Noreen first suggested, the giant who is Night's father may simply be 'night'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Narfi",
+     "url": "https://en.wikipedia.org/wiki/Narfi",
+     "note": "citing Noreen"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "nari": {
+   "means": {
+    "en": "corpse"
+   },
+   "text": {
+    "en": "Nari is glossed 'corpse'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "nastrond": {
+   "means": {
+    "en": "corpse shore"
+   },
+   "text": {
+    "en": "Náströnd means 'corpse shore': the hall in Hel where Níðhǫggr feeds on the dead."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Náströnd",
+     "url": "https://en.wikipedia.org/wiki/N%C3%A1str%C3%B6nd"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "nidafjoll": {
+   "means": {
+    "en": "the dark mountains, or mountains of the waning moon"
+   },
+   "text": {
+    "en": "Niðafjöll ends in fjǫll 'mountains, fells'; the first part is unclear, perhaps related to nið 'the waning moon', so 'mountains of waning'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Niðafjöll",
+     "url": "https://en.wikipedia.org/wiki/Ni%C3%B0afj%C3%B6ll"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "nidhoggr": {
+   "means": {
+    "en": "the striker below, or the striker in malice"
+   },
+   "text": {
+    "en": "-hǫggr means 'hewer, striker, biter'. The first part is unclear: niðr 'down' would give 'striker below (the roots)', níð 'shame, malice' would give 'malice-striker'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Nidhogg",
+     "url": "https://en.wikipedia.org/wiki/Nidhogg"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "nidi": {
+   "means": {
+    "en": "the one of the dark moon"
+   },
+   "text": {
+    "en": "Niði is glossed 'underworld being' or 'the one associated with the dark moon' (ný ok nið, new and waning moon)."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "niflheim": {
+   "means": {
+    "en": "world of mist"
+   },
+   "text": {
+    "en": "Nifl 'mist' is related to Old English nifol 'dark, gloomy', Old High German nebul 'fog' and Greek nephélē 'cloud'; heimr is 'world, home'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Niflheim",
+     "url": "https://en.wikipedia.org/wiki/Niflheim"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "niflhel": {
+   "means": {
+    "en": "misty Hel"
+   },
+   "text": {
+    "en": "Niflhel means 'misty Hel': nifl 'mist, fog' and Hel."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Niflhel",
+     "url": "https://en.wikipedia.org/wiki/Niflhel"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "njordr": {
+   "means": {
+    "en": "perhaps strength"
+   },
+   "text": {
+    "en": "Njörðr corresponds to Nerthus, the goddess Tacitus describes in the first century; both go back to Proto-Germanic *Nerþuz. The original meaning is contested; it may be related to Irish nert 'force, power'. Place names such as Njarðvík in Iceland keep his name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Njörðr",
+     "url": "https://en.wikipedia.org/wiki/Nj%C3%B6r%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "noatun": {
+   "means": {
+    "en": "ship-enclosure"
+   },
+   "text": {
+    "en": "Nóatún means 'ship-enclosure': nór 'ship' and tún 'enclosure, homestead'. It is Njörðr's home by the sea."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Nóatún (mythology)",
+     "url": "https://en.wikipedia.org/wiki/N%C3%B3at%C3%BAn_%28mythology%29"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "nordri": {
+   "means": {
+    "en": "the one in the north"
+   },
+   "text": {
+    "en": "Norðri means 'northern, the one in the north'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "nori": {
+   "means": {
+    "en": "little shaver"
+   },
+   "text": {
+    "en": "Nóri is glossed 'little shaver'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "norns": {
+   "means": {
+    "en": "uncertain; perhaps the twiners"
+   },
+   "text": {
+    "en": "The origin of norn is uncertain. It may come from a word meaning 'to twine', for the thread of fate; Bek-Pedersen links it with the Swedish dialect verb norna 'to communicate secretly'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Norns",
+     "url": "https://en.wikipedia.org/wiki/Norns",
+     "note": "citing Bek-Pedersen"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "nott": {
+   "means": {
+    "en": "night"
+   },
+   "text": {
+    "en": "Nótt is the ordinary word for 'night': the night in person."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "nyradr": {
+   "means": {
+    "en": "new counsel, the ingenious"
+   },
+   "text": {
+    "en": "Nýráðr is glossed 'new advice' or 'ingenious'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "odin": {
+   "means": {
+    "en": "lord of frenzy"
+   },
+   "text": {
+    "en": "Óðinn goes back to Proto-Germanic *Wōðanaz, like Old English Wōden and Old High German Wuotan: the adjective *wōðaz 'possessed, inspired, raging' with a suffix meaning 'master of', so 'lord of frenzy' or 'leader of the possessed'. Old Norse óðr 'mad, furious' comes from the same word; Adam of Bremen glossed Wodan as Latin furor."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Odin",
+     "url": "https://en.wikipedia.org/wiki/Odin"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "odr": {
+   "means": {
+    "en": "mind, soul, the frenzied one"
+   },
+   "text": {
+    "en": "Óðr means 'mind, wit, soul, sense', or, as Andy Orchard gives it, 'the frenzied one'; it is the same word that lies behind Óðinn."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Óðr",
+     "url": "https://en.wikipedia.org/wiki/%C3%93%C3%B0r",
+     "note": "citing Orchard"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "ori": {
+   "means": {
+    "en": "the violent one"
+   },
+   "text": {
+    "en": "Óri is glossed 'the insane' or 'the violent one'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "otr": {
+   "means": {
+    "en": "otter"
+   },
+   "text": {
+    "en": "Ótr means 'otter', the shape he takes when Loki kills him."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "ottar": {
+   "means": {
+    "en": "perhaps fear"
+   },
+   "text": {
+    "en": "Óttarr is believed to come from ótti 'fear, dread'; it is the same name as Old English Ohthere."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wiktionary: Óttarr",
+     "url": "https://en.wiktionary.org/wiki/%C3%93ttarr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "ottarr-svarti": {
+   "means": {
+    "en": "perhaps fear"
+   },
+   "text": {
+    "en": "Óttarr is believed to come from ótti 'fear, dread'; it is Old English Ohthere. Svarti, 'the black', is his byname."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wiktionary: Óttarr",
+     "url": "https://en.wiktionary.org/wiki/%C3%93ttarr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "radsvidr": {
+   "means": {
+    "en": "wise in counsel"
+   },
+   "text": {
+    "en": "Ráðsviðr is glossed 'powerful in advice, wise in counsel'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "ragnarr": {
+   "means": {
+    "en": "uncertain; the gods' …"
+   },
+   "text": {
+    "en": "Ragnarr is built on the same first word as regin 'the ruling powers, the gods'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wiktionary: Ragnarr",
+     "url": "https://en.wiktionary.org/wiki/Ragnarr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "ran": {
+   "means": {
+    "en": "robbery, the robber"
+   },
+   "text": {
+    "en": "The common noun rán means 'plundering, robbery', and the sea-goddess's name is read the same way. Rudolf Simek says the meaning is not fully clear, but she was probably understood as 'robber', and the name has nothing to do with ráða 'to rule'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Rán",
+     "url": "https://en.wikipedia.org/wiki/R%C3%A1n",
+     "note": "citing Simek"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "ratatoskr": {
+   "means": {
+    "en": "drill-tooth"
+   },
+   "text": {
+    "en": "Ratatoskr is generally taken as 'drill-tooth' or 'bore-tooth': toskr 'tusk' and rata-, perhaps the same word as Rati, the drill Óðinn uses. Guðbrandur Vigfússon read it as 'tusk the traveller'; Sophus Bugge thought it borrowed from Old English 'rat-tooth'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Ratatoskr",
+     "url": "https://en.wikipedia.org/wiki/Ratatoskr",
+     "note": "citing Vigfússon; Bugge"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "regin": {
+   "means": {
+    "en": "the powerful one"
+   },
+   "text": {
+    "en": "Regin has been glossed 'great, vast', 'the potent one' or 'the wielder'; compare regin 'the ruling powers, the gods'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "roskva": {
+   "means": {
+    "en": "the quick one"
+   },
+   "text": {
+    "en": "Röskva comes from rǫskr 'fast, quick, brave, skilled'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Þjálfi and Röskva",
+     "url": "https://en.wikipedia.org/wiki/%C3%9Ej%C3%A1lfi_and_R%C3%B6skva"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "rota": {
+   "means": {
+    "en": "sleet and storm"
+   },
+   "text": {
+    "en": "According to Guðbrandur Vigfússon, Róta is connected with róta 'sleet and storm', 'a goddess who sends storm and rain'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Róta",
+     "url": "https://en.wikipedia.org/wiki/R%C3%B3ta",
+     "note": "citing Vigfússon"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "saehrimnir": {
+   "means": {
+    "en": "sooty sea-beast"
+   },
+   "text": {
+    "en": "The name Sæhrímnir is problematic. Modern scholarship commonly takes it as 'sooty sea-beast', though Snorri calls it a boar; it may be connected with seyðir 'cooking pit'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Sæhrímnir",
+     "url": "https://en.wikipedia.org/wiki/S%C3%A6hr%C3%ADmnir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "saga": {
+   "means": {
+    "en": "perhaps seeress"
+   },
+   "text": {
+    "en": "Sága possibly means 'seeress'; it is related to the verb sjá 'to see'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Sága and Sökkvabekkr",
+     "url": "https://en.wikipedia.org/wiki/S%C3%A1ga_and_S%C3%B6kkvabekkr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "saxony": {
+   "means": {
+    "en": "land of the Saxons"
+   },
+   "text": {
+    "en": "Saxland is 'the land of the Saxons' (saxar)."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wiktionary: Saxland",
+     "url": "https://en.wiktionary.org/wiki/Saxland"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "sessrumnir": {
+   "means": {
+    "en": "the seat-roomy"
+   },
+   "text": {
+    "en": "Sessrúmnir means 'seat-room', a hall with many seats: Freyja's hall."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Sessrúmnir",
+     "url": "https://en.wikipedia.org/wiki/Sessr%C3%BAmnir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "sif": {
+   "means": {
+    "en": "kinship by marriage"
+   },
+   "text": {
+    "en": "Sif is the singular of sifjar 'relationship by marriage, kin', related to Old English sibb and English sib, and to German Sippe."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Sif",
+     "url": "https://en.wikipedia.org/wiki/Sif"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "sigrun": {
+   "means": {
+    "en": "victory rune"
+   },
+   "text": {
+    "en": "Sigrún means 'victory rune', from sigr 'victory' and rún 'secret, rune'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Sigrún",
+     "url": "https://en.wikipedia.org/wiki/Sigr%C3%BAn"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "sigtryggr": {
+   "means": {
+    "en": "sure of victory"
+   },
+   "text": {
+    "en": "Sigtryggr is glossed 'sure of victory, victory-true'; it is one of Óðinn's names."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of names of Odin",
+     "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "sigurdr": {
+   "means": {
+    "en": "victory-…"
+   },
+   "text": {
+    "en": "Sigurðr, like Sigvard and the German Siegfried, is a two-part Germanic name whose first part is *sigi- 'victory'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Sigurd",
+     "url": "https://en.wikipedia.org/wiki/Sigurd"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "sigyn": {
+   "means": {
+    "en": "friend of victory"
+   },
+   "text": {
+    "en": "Sigyn means '(woman) friend of victory': sigr 'victory' and vina 'friend'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Sigyn",
+     "url": "https://en.wikipedia.org/wiki/Sigyn"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "sindri": {
+   "means": {
+    "en": "slag"
+   },
+   "text": {
+    "en": "Sindri comes from sindr 'slag, cinder': the smith dwarf."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Sindri (mythology)",
+     "url": "https://en.wikipedia.org/wiki/Sindri_%28mythology%29"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "singasteinn": {
+   "means": {
+    "en": "the singing stone"
+   },
+   "text": {
+    "en": "Singasteinn means 'singing stone' or 'chanting stone'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Singasteinn",
+     "url": "https://en.wikipedia.org/wiki/Singasteinn"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "skadi": {
+   "means": {
+    "en": "perhaps shadow, or harm"
+   },
+   "text": {
+    "en": "Skaði may be related to Gothic skadus, Old English sceadu 'shadow'; John McKinnell notes that this could make her a personification of Scandinavia, whose name may contain hers, or link her with the underworld. Others connect the name with Old Norse words for 'harm'."
+   },
+   "certainty": "disputed",
+   "sources": [
+    {
+     "title": "Wikipedia: Skaði",
+     "url": "https://en.wikipedia.org/wiki/Ska%C3%B0i",
+     "note": "citing McKinnell"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "skidbladnir": {
+   "means": {
+    "en": "assembled from thin pieces of wood"
+   },
+   "text": {
+    "en": "Skíðblaðnir is read as 'assembled from thin pieces of wood': skíð 'thin slip of wood' and blað 'leaf, blade'. It is Freyr's ship, which folds up like a cloth."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Skíðblaðnir",
+     "url": "https://en.wikipedia.org/wiki/Sk%C3%AD%C3%B0bla%C3%B0nir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "skinfaxi": {
+   "means": {
+    "en": "shining mane"
+   },
+   "text": {
+    "en": "Skinfaxi means 'shining mane': Day's horse, whose mane lights up the sky and the earth."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Skinfaxi and Hrímfaxi",
+     "url": "https://en.wikipedia.org/wiki/Skinfaxi_and_Hr%C3%ADmfaxi"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "skirnir": {
+   "means": {
+    "en": "the bright one"
+   },
+   "text": {
+    "en": "Skírnir means 'bright one', from skírr 'bright, pure'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Skírnir",
+     "url": "https://en.wikipedia.org/wiki/Sk%C3%ADrnir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "skogul": {
+   "means": {
+    "en": "shaker"
+   },
+   "text": {
+    "en": "Skögul means 'shaker', or possibly 'high-towering'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Skögul and Geirskögul",
+     "url": "https://en.wikipedia.org/wiki/Sk%C3%B6gul_and_Geirsk%C3%B6gul"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "skoll": {
+   "means": {
+    "en": "treachery, or mockery"
+   },
+   "text": {
+    "en": "Sköll has been translated as 'treachery' or 'mockery'. It is a feminine form of skall 'bark, loud echoing sound', from the verb skjalla, skella 'to bark, to scold'; English scold is related."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Sköll",
+     "url": "https://en.wikipedia.org/wiki/Sk%C3%B6ll"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "skuld": {
+   "means": {
+    "en": "debt, what shall be"
+   },
+   "text": {
+    "en": "Skuld means 'debt, obligation' and shares its origin with English should; it is often read as 'what shall be'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Skuld",
+     "url": "https://en.wikipedia.org/wiki/Skuld"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "slagfidr": {
+   "means": {
+    "en": "beating-Finn"
+   },
+   "text": {
+    "en": "Slagfiðr means 'beating-Finn'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Slagfiðr",
+     "url": "https://en.wikipedia.org/wiki/Slagfi%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "sleipnir": {
+   "means": {
+    "en": "the slippy one, the glider"
+   },
+   "text": {
+    "en": "Sleipnir means 'slippy' or 'the slipper': the horse that glides."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Sleipnir",
+     "url": "https://en.wikipedia.org/wiki/Sleipnir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "snotra": {
+   "means": {
+    "en": "clever"
+   },
+   "text": {
+    "en": "Snotra means 'clever, wise': the goddess of wisdom."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Snotra",
+     "url": "https://en.wikipedia.org/wiki/Snotra"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "sokkvabekkr": {
+   "means": {
+    "en": "sunken bank"
+   },
+   "text": {
+    "en": "Sökkvabekkr is glossed 'sunken bank', 'sunken bench' or 'treasure bank': Sága's home."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Sága and Sökkvabekkr",
+     "url": "https://en.wikipedia.org/wiki/S%C3%A1ga_and_S%C3%B6kkvabekkr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "sol": {
+   "means": {
+    "en": "sun"
+   },
+   "text": {
+    "en": "Sól is the ordinary word for 'sun': the sun in person. Old Norse also has the poetic synonym sunna, and the other Germanic languages call her Sunne or Sunna."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Sól (Germanic mythology)",
+     "url": "https://en.wikipedia.org/wiki/S%C3%B3l_%28Germanic_mythology%29"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "sudri": {
+   "means": {
+    "en": "the one in the south"
+   },
+   "text": {
+    "en": "Suðri means 'southern, the one in the south'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "surtr": {
+   "means": {
+    "en": "black, swart"
+   },
+   "text": {
+    "en": "Surtr means 'black', or more narrowly 'swart'. Surtsey, the volcanic island that rose off Iceland in 1963, is named after him."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Surtr",
+     "url": "https://en.wikipedia.org/wiki/Surtr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "svadilfari": {
+   "means": {
+    "en": "the unlucky traveller"
+   },
+   "text": {
+    "en": "Svaðilfari translates as 'the one making an unlucky journey' or 'unlucky traveller': the stallion that helped build the gods' wall."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Svaðilfari",
+     "url": "https://en.wikipedia.org/wiki/Sva%C3%B0ilfari"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "svafa": {
+   "means": {
+    "en": "sleep-maker, or the Swabian"
+   },
+   "text": {
+    "en": "Sváfa has been read as 'sleep-maker' or as 'Swabian' (Suebian)."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Sváfa",
+     "url": "https://en.wikipedia.org/wiki/Sv%C3%A1fa"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "svafnir": {
+   "means": {
+    "en": "the sleep-bringer"
+   },
+   "text": {
+    "en": "Sváfnir is glossed 'sleep-bringer, closer'; it is one of Óðinn's names and also a serpent's."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of names of Odin",
+     "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "svartalfaheimr": {
+   "means": {
+    "en": "the home of the black elves"
+   },
+   "text": {
+    "en": "Svartálfaheimr is the home of the svartálfar, 'black elves', also called myrkálfar, 'dark elves'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Svartálfar",
+     "url": "https://en.wikipedia.org/wiki/Svart%C3%A1lfar"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "svipdagr": {
+   "means": {
+    "en": "sudden day"
+   },
+   "text": {
+    "en": "Svipdagr means 'sudden day'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Svipdagr",
+     "url": "https://en.wikipedia.org/wiki/Svipdagr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "sweden": {
+   "means": {
+    "en": "the people of the Swedes"
+   },
+   "text": {
+    "en": "Svíþjóð is 'the people of the Swedes' (svíar and þjóð 'people')."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wiktionary: Svíþjóð",
+     "url": "https://en.wiktionary.org/wiki/Sv%C3%AD%C3%BEj%C3%B3%C3%B0"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "tanngnjostr": {
+   "means": {
+    "en": "teeth-grinder"
+   },
+   "text": {
+    "en": "Tanngnjóstr means 'teeth-grinder, teeth-gnasher'; Rudolf Simek thinks the name may be Snorri's own."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Tanngrisnir and Tanngnjóstr",
+     "url": "https://en.wikipedia.org/wiki/Tanngrisnir_and_Tanngnj%C3%B3str",
+     "note": "citing Simek"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "tanngrisnir": {
+   "means": {
+    "en": "teeth-barer"
+   },
+   "text": {
+    "en": "Tanngrisnir means 'teeth-barer, snarler'. Rudolf Simek notes that the goats' names were young when recorded and may be Snorri's own."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Tanngrisnir and Tanngnjóstr",
+     "url": "https://en.wikipedia.org/wiki/Tanngrisnir_and_Tanngnj%C3%B3str",
+     "note": "citing Simek"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "thjalfi": {
+   "means": {
+    "en": "uncertain; perhaps serving-elf"
+   },
+   "text": {
+    "en": "The etymology of Þjálfi is unclear; an origin in *þewa-alfaR 'serving-elf' has been proposed. The name was also used by real people: it is on more than a dozen Swedish runestones."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Þjálfi and Röskva",
+     "url": "https://en.wikipedia.org/wiki/%C3%9Ej%C3%A1lfi_and_R%C3%B6skva"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "thokk": {
+   "means": {
+    "en": "thanks"
+   },
+   "text": {
+    "en": "Þökk means 'thanks'; the giantess, presumed to be Loki in disguise, refuses to weep for Baldr."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Þökk",
+     "url": "https://en.wikipedia.org/wiki/%C3%9E%C3%B6kk"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "thor": {
+   "means": {
+    "en": "thunder"
+   },
+   "text": {
+    "en": "Þórr is the Norse form of the thunder-god's name shared across Germanic: Old English Þunor, Old High German Donar, Old Saxon Thunar, from a Proto-Germanic name built on the word for thunder (*Þun(a)raz). The exact early form is debated. English Thursday is 'Þunor's day'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Thor",
+     "url": "https://en.wikipedia.org/wiki/Thor",
+     "note": "citing Koch"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "thorinn": {
+   "means": {
+    "en": "the daring"
+   },
+   "text": {
+    "en": "Þorinn is glossed 'the daring, bold'. Tolkien took the name for Thorin Oakenshield."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "thrainn": {
+   "means": {
+    "en": "the stubborn"
+   },
+   "text": {
+    "en": "Þráinn is glossed 'the threatening', 'the audacious' or 'stubborn'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "thrivaldi": {
+   "means": {
+    "en": "thrice mighty"
+   },
+   "text": {
+    "en": "Þrívaldi means 'thrice mighty': the nine-headed giant killed by Þórr."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Þrívaldi",
+     "url": "https://en.wikipedia.org/wiki/%C3%9Er%C3%ADvaldi"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "thrudheimr": {
+   "means": {
+    "en": "home of strength"
+   },
+   "text": {
+    "en": "Þrúðheimr means 'home of strength': Þórr's home."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Þrúðheimr",
+     "url": "https://en.wikipedia.org/wiki/%C3%9Er%C3%BA%C3%B0heimr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "thrudr": {
+   "means": {
+    "en": "strength"
+   },
+   "text": {
+    "en": "Þrúðr means 'strength': Þórr's daughter, whose name matches her father's Þrúðvangr, 'plains of strength'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Þrúðr",
+     "url": "https://en.wikipedia.org/wiki/%C3%9Er%C3%BA%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "thrudvangr": {
+   "means": {
+    "en": "plains of strength"
+   },
+   "text": {
+    "en": "Þrúðvangr (plural Þrúðvangar) means 'power-field, plains of strength': Þórr's land."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Þrúðvangr",
+     "url": "https://en.wikipedia.org/wiki/%C3%9Er%C3%BA%C3%B0vangr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "thrymr": {
+   "means": {
+    "en": "uproar"
+   },
+   "text": {
+    "en": "Þrymr is glossed 'uproar, noise'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "tyr": {
+   "means": {
+    "en": "god"
+   },
+   "text": {
+    "en": "Týr comes from Proto-Germanic *Tīwaz, simply 'god' (Old English Tīw, Old High German Ziu), from Proto-Indo-European *deywós 'heavenly one', the word behind Latin deus and Sanskrit devá. In Old Norse poetry týr also means 'a god' and tívar 'the gods'; English Tuesday is Tīw's day."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Týr",
+     "url": "https://en.wikipedia.org/wiki/T%C3%BDr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "tyrfing": {
+   "means": {
+    "en": "uncertain"
+   },
+   "text": {
+    "en": "There is no agreed origin for Tyrfing. It may be connected with the Thervingi, a Gothic tribe; another reading is 'Týr's finger'."
+   },
+   "certainty": "disputed",
+   "sources": [
+    {
+     "title": "Wikipedia: Tyrfing",
+     "url": "https://en.wikipedia.org/wiki/Tyrfing"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "ull": {
+   "means": {
+    "en": "glory"
+   },
+   "text": {
+    "en": "Ullr goes back to Proto-Germanic *Wulþuz 'glory', the same word as Gothic wulþus 'glory, wealth'. It comes from a Proto-Indo-European word for 'sight, appearance' and is an exact relative of Latin vultus 'face, expression'."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Ullr",
+     "url": "https://en.wikipedia.org/wiki/Ullr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "uppsala": {
+   "means": {
+    "en": "upper halls"
+   },
+   "text": {
+    "en": "Uppsalir means 'upper halls, upper dwellings'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wiktionary: Uppsalir",
+     "url": "https://en.wiktionary.org/wiki/Uppsalir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "urdarbrunnr": {
+   "means": {
+    "en": "the well of Urðr"
+   },
+   "text": {
+    "en": "Urðarbrunnr means 'well of Urðr', either the norn or urðr 'fate' itself."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Urðarbrunnr",
+     "url": "https://en.wikipedia.org/wiki/Ur%C3%B0arbrunnr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "urdr": {
+   "means": {
+    "en": "fate"
+   },
+   "text": {
+    "en": "Urðr means 'fate'; it is the same word as Old English wyrd."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Urðr",
+     "url": "https://en.wikipedia.org/wiki/Ur%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "utgarda-loki": {
+   "means": {
+    "en": "Loki of the Outyards"
+   },
+   "text": {
+    "en": "Útgarða-Loki means 'Loki of the Outyards' or 'of the Outlands', to tell him from the Loki of the gods."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Útgarða-Loki",
+     "url": "https://en.wikipedia.org/wiki/%C3%9Atgar%C3%B0a-Loki"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "utgardar": {
+   "means": {
+    "en": "the outyards"
+   },
+   "text": {
+    "en": "Útgarðar means 'outyards', the lands outside the enclosure, plural of Útgarðr."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Útgarðar",
+     "url": "https://en.wikipedia.org/wiki/%C3%9Atgar%C3%B0ar"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "vafthrudnir": {
+   "means": {
+    "en": "mighty weaver"
+   },
+   "text": {
+    "en": "Vafþrúðnir means 'mighty weaver' (of riddles), the wise giant whom Óðinn outwits."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Vafþrúðnir",
+     "url": "https://en.wikipedia.org/wiki/Vaf%C3%BEr%C3%BA%C3%B0nir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "vakr": {
+   "means": {
+    "en": "the wakeful"
+   },
+   "text": {
+    "en": "Vakr is glossed 'wakeful, awakener'; it is one of Óðinn's names."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of names of Odin",
+     "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "valaskjalf": {
+   "means": {
+    "en": "the shelf of the slain"
+   },
+   "text": {
+    "en": "Valaskjálf is glossed 'the shelf of the slain': one of Óðinn's halls."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Valaskjálf",
+     "url": "https://en.wikipedia.org/wiki/Valaskj%C3%A1lf"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "valhalla": {
+   "means": {
+    "en": "the hall (or rock) of the slain"
+   },
+   "text": {
+    "en": "Valhǫll joins valr 'the slain' (Old English wæl, as in valkyrie, 'chooser of the slain') and hǫll 'hall'. The second element may first have meant 'rock', so the name may once have been 'rock of the slain'. The English form Valhalla comes from an attempt to show the word's grammatical gender."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Valhalla",
+     "url": "https://en.wikipedia.org/wiki/Valhalla"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "valkyrjur": {
+   "means": {
+    "en": "choosers of the slain"
+   },
+   "text": {
+    "en": "Valkyrja joins valr 'the slain' and kjósa 'to choose': 'chooser of the slain'. It is the same word as Old English wælcyrge."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Valkyrie",
+     "url": "https://en.wikipedia.org/wiki/Valkyrie",
+     "note": "citing Orel"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "vanaheimr": {
+   "means": {
+    "en": "home of the Vanir"
+   },
+   "text": {
+    "en": "Vanaheimr means 'home of the Vanir'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Vanaheimr",
+     "url": "https://en.wikipedia.org/wiki/Vanaheimr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "vanir": {
+   "means": {
+    "en": "uncertain; perhaps the friends"
+   },
+   "text": {
+    "en": "Many etymologies have been proposed for Vanir. R. I. Page says it is tempting to link the word with Old Norse vinr 'friend' and Latin Venus. In English it is sometimes rendered Wanes."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Vanir",
+     "url": "https://en.wikipedia.org/wiki/Vanir",
+     "note": "citing Page"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "vedrfolnir": {
+   "means": {
+    "en": "storm-pale"
+   },
+   "text": {
+    "en": "Veðrfölnir means 'storm-pale', 'wind-bleached' or 'wind-witherer': the hawk between the eagle's eyes on Yggdrasill."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Veðrfölnir and eagle",
+     "url": "https://en.wikipedia.org/wiki/Ve%C3%B0rf%C3%B6lnir_and_eagle"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "verdandi": {
+   "means": {
+    "en": "becoming, what is happening"
+   },
+   "text": {
+    "en": "Verðandi is the present participle of verða 'to become', so 'in the making, that which is happening'; German werden 'to become' is the same verb."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Verðandi",
+     "url": "https://en.wikipedia.org/wiki/Ver%C3%B0andi"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "vestri": {
+   "means": {
+    "en": "the one in the west"
+   },
+   "text": {
+    "en": "Vestri means 'western, the one in the west'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "vidarr": {
+   "means": {
+    "en": "perhaps wide ruler"
+   },
+   "text": {
+    "en": "Víðarr possibly means 'wide ruler'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Víðarr",
+     "url": "https://en.wikipedia.org/wiki/V%C3%AD%C3%B0arr"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "vidblindi": {
+   "means": {
+    "en": "very blind"
+   },
+   "text": {
+    "en": "Víðblindi is glossed 'very blind'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of jötnar in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "vigridr": {
+   "means": {
+    "en": "battle-surge"
+   },
+   "text": {
+    "en": "Vígríðr means 'battle-surge' or 'place on which battle surges': the plain of the last battle."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Vígríðr",
+     "url": "https://en.wikipedia.org/wiki/V%C3%ADgr%C3%AD%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "vili": {
+   "means": {
+    "en": "will"
+   },
+   "text": {
+    "en": "Vili means 'will': Óðinn's brother, whose name is the common word vili."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "vingolf": {
+   "means": {
+    "en": "pleasant hall, or wine hall"
+   },
+   "text": {
+    "en": "Vingólf is usually taken as vinr 'friend' and gólf 'floor, hall', 'pleasant hall'; read as Víngólf it is 'wine hall'."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Vingólf",
+     "url": "https://en.wikipedia.org/wiki/Ving%C3%B3lf"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "virfir": {
+   "means": {
+    "en": "perhaps the dyer"
+   },
+   "text": {
+    "en": "Virfir possibly means 'the dyer', or was made up to rhyme with the dwarf-name Skirfir."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wiktionary: Virfir",
+     "url": "https://en.wiktionary.org/wiki/Virfir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "vitr": {
+   "means": {
+    "en": "wise"
+   },
+   "text": {
+    "en": "Vitr means 'wise'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "volsung": {
+   "means": {
+    "en": "descendant of Völsi"
+   },
+   "text": {
+    "en": "Vǫlsungr is 'the one of Völsi's kin', with the family ending -ung, as Old English Wælsing is from Wæls. The older name Völsi also appears in Vǫlsa þáttr, the story of a horse phallus that was worshipped."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: Völsung",
+     "url": "https://en.wikipedia.org/wiki/V%C3%B6lsung"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "voluspa": {
+   "means": {
+    "en": "the prophecy of the seeress"
+   },
+   "text": {
+    "en": "Vǫluspá means 'the prophecy of the vǫlva', the seeress: vǫlva and spá 'prophecy'."
+   },
+   "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: Völuspá",
+     "url": "https://en.wikipedia.org/wiki/V%C3%B6lusp%C3%A1"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "wayland-the-smith": {
+   "means": {
+    "en": "the crafting one"
+   },
+   "text": {
+    "en": "Vǫlundr goes back to Proto-Germanic *Wēlandaz, from *Wilą-ndz, literally 'crafting one'; the same smith is Wayland in English and Wieland in German."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Wayland the Smith",
+     "url": "https://en.wikipedia.org/wiki/Wayland_the_Smith"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "yggdrasil": {
+   "means": {
+    "en": "Óðinn's horse, that is the gallows"
+   },
+   "text": {
+    "en": "The accepted meaning is 'Yggr's horse': drasill is 'horse' and Yggr 'the terrible one' is a name of Óðinn. 'The horse of the hanged' is a kenning for the gallows, so the name points to Óðinn hanging himself on the tree, as Hávamál tells."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: Yggdrasil",
+     "url": "https://en.wikipedia.org/wiki/Yggdrasil"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "ymir": {
+   "means": {
+    "en": "twin"
+   },
+   "text": {
+    "en": "Ymir goes back to a Proto-Indo-European word for 'twin' (*yemH-). He is a distant relative of Sanskrit Yama, the twin who was the first man to die, and has been compared with Remus, slain by his twin. The name fits a being from whom both sexes and all the giants came."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wiktionary: Ymir",
+     "url": "https://en.wiktionary.org/wiki/Ymir",
+     "note": "citing Kroonen"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "yngvi": {
+   "means": {
+    "en": "prince, warrior"
+   },
+   "text": {
+    "en": "As a dwarf's name in Völuspá, Yngvi is glossed 'prince' or 'warrior'; it is also a name of Freyr."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  }
+ }
+}
