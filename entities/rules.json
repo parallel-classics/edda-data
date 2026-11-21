@@ -859,6 +859,16 @@
    "audr": {
     "g-c10-1": "ok",
     "*": "skip"
+   },
+   "saegr": {
+    "g-c11-2": "ok",
+    "ebr-v8": "ok",
+    "*": "skip"
+   },
+   "simul": {
+    "g-c11-2": "ok",
+    "ebr-v8": "ok",
+    "*": "skip"
    }
   },
   "near": {
@@ -927,6 +937,27 @@
   "skinfaxi": {
    "en": [
     "Sheen-Mane"
+   ]
+  },
+  "sol": {
+   "en": [
+    "Sun"
+   ]
+  },
+  "mani": {
+   "en": [
+    "Moon"
+   ]
+  },
+  "arvakr": {
+   "en": [
+    "Early-Wake"
+   ]
+  },
+  "alsvidr": {
+   "en": [
+    "All-Strong",
+    "All-Swift"
    ]
   }
  },

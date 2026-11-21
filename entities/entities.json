@@ -10507,9 +10507,10 @@
      "Máni"
     ],
     "en": [
+     "Moon",
      "Máni",
-     "Man",
-     "Many"
+     "Mona's",
+     "Mön"
     ]
    },
    "heiti": {},
@@ -15896,6 +15897,7 @@
      "Alsvinnur"
     ],
     "en": [
+     "All-Strong",
      "Alsvith"
     ]
    },
@@ -16010,7 +16012,8 @@
     ],
     "en": [
      "Arvak",
-     "Arvak's"
+     "Arvak's",
+     "Early-Wake"
     ]
    },
    "heiti": {},
@@ -23045,6 +23048,9 @@
     "is": [
      "Sól",
      "Sólar"
+    ],
+    "en": [
+     "Sun"
     ]
    },
    "heiti": {},
@@ -28119,6 +28125,55 @@
    "notes": []
   },
   {
+   "id": "saegr",
+   "tags": [
+    "object"
+   ],
+   "type": "object",
+   "wikidata": null,
+   "names": {
+    "on": "Sægr",
+    "is": "Sægur",
+    "en": "Saegr"
+   },
+   "desc": {
+    "en": "the bucket that Bil and Hjúki carried on their shoulders"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Sægr"
+    ],
+    "is": [
+     "Sægur"
+    ],
+    "en": [
+     "Sægr"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c11-2",
+    "poetic": "ebr-v8"
+   },
+   "first_any": {
+    "snorri": "g-c11-2",
+    "poetic": "ebr-v8"
+   },
+   "mentions": 2,
+   "narrative": 2,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: missing from the seed (Gylfaginning 11, the children Bil and Hjúki who follow Máni); asked for in review mode"
+   ]
+  },
+  {
    "id": "saevarstod",
    "tags": [
     "place_myth"
@@ -28310,6 +28365,55 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "simul",
+   "tags": [
+    "object"
+   ],
+   "type": "object",
+   "wikidata": null,
+   "names": {
+    "on": "Simul",
+    "is": "Simul",
+    "en": "Simul"
+   },
+   "desc": {
+    "en": "the pole on which Bil and Hjúki carried the bucket Sægr"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Simul"
+    ],
+    "is": [
+     "Símul"
+    ],
+    "en": [
+     "Simul"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c11-2",
+    "poetic": "ebr-v8"
+   },
+   "first_any": {
+    "snorri": "g-c11-2",
+    "poetic": "ebr-v8"
+   },
+   "mentions": 2,
+   "narrative": 2,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: missing from the seed (Gylfaginning 11, the children Bil and Hjúki who follow Máni); asked for in review mode"
+   ]
   },
   {
    "id": "singasteinn",
@@ -30111,6 +30215,53 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "byrgir",
+   "tags": [
+    "place_myth"
+   ],
+   "type": "place_myth",
+   "wikidata": null,
+   "names": {
+    "on": "Byrgir",
+    "is": "Byrgir",
+    "en": "Byrgir"
+   },
+   "desc": {
+    "en": "the well from which Bil and Hjúki were coming when Máni took them"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Byrgir"
+    ],
+    "is": [
+     "Byrgir"
+    ],
+    "en": [
+     "Byrgir"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c11-2"
+   },
+   "first_any": {
+    "snorri": "g-c11-2"
+   },
+   "mentions": 1,
+   "narrative": 1,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: missing from the seed (Gylfaginning 11, the children Bil and Hjúki who follow Máni); asked for in review mode"
+   ]
   },
   {
    "id": "dainsleif",
@@ -32360,6 +32511,53 @@
    "notes": [
     "added for the map of the worlds (task 20b)",
     "added by rules.json"
+   ]
+  },
+  {
+   "id": "vidfinnr",
+   "tags": [
+    "person"
+   ],
+   "type": "person",
+   "wikidata": null,
+   "names": {
+    "on": "Viðfinnr",
+    "is": "Viðfinnur",
+    "en": "Vidfinnr"
+   },
+   "desc": {
+    "en": "the father of Bil and Hjúki"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Viðfinnr"
+    ],
+    "is": [
+     "Viðfinnur"
+    ],
+    "en": [
+     "Vidfinnr"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c11-2"
+   },
+   "first_any": {
+    "snorri": "g-c11-2"
+   },
+   "mentions": 1,
+   "narrative": 1,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: missing from the seed (Gylfaginning 11, the children Bil and Hjúki who follow Máni); asked for in review mode"
    ]
   },
   {

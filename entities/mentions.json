@@ -8710,6 +8710,38 @@
    "status": "auto"
   },
   {
+   "entity": "byrgir",
+   "row": "g-c11-2",
+   "lang": "on",
+   "form": "Byrgir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "saegr",
+   "row": "g-c11-2",
+   "lang": "on",
+   "form": "Sægr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "simul",
+   "row": "g-c11-2",
+   "lang": "on",
+   "form": "Simul",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vidfinnr",
+   "row": "g-c11-2",
+   "lang": "on",
+   "form": "Viðfinnr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "mani",
    "row": "g-c11-2",
    "lang": "on",
@@ -8814,6 +8846,38 @@
    "status": "auto"
   },
   {
+   "entity": "byrgir",
+   "row": "g-c11-2",
+   "lang": "is",
+   "form": "Byrgir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "saegr",
+   "row": "g-c11-2",
+   "lang": "is",
+   "form": "Sægur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "simul",
+   "row": "g-c11-2",
+   "lang": "is",
+   "form": "Símul",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vidfinnr",
+   "row": "g-c11-2",
+   "lang": "is",
+   "form": "Viðfinnur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "mani",
    "row": "g-c11-2",
    "lang": "is",
@@ -8838,6 +8902,22 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Moon",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sol",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Sun",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "glenr",
    "row": "g-c11-2",
    "lang": "en",
@@ -8846,10 +8926,42 @@
    "status": "auto"
   },
   {
+   "entity": "sol",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Sun",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "muspelheim",
    "row": "g-c11-2",
    "lang": "en",
    "form": "Múspellheim",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "arvakr",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Early-Wake",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "alsvidr",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "All-Strong",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Moon",
    "kind": "name",
    "status": "auto"
   },
@@ -8866,6 +8978,54 @@
    "row": "g-c11-2",
    "lang": "en",
    "form": "Hjúki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "byrgir",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Byrgir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "saegr",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Sægr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "simul",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Simul",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vidfinnr",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Vidfinnr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "en",
+   "form": "Moon",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sol",
+   "row": "g-c11-2",
+   "lang": "en-anderson",
+   "form": "Sun",
    "kind": "name",
    "status": "auto"
   },
@@ -8894,6 +9054,14 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "en-anderson",
+   "form": "Moon",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c11-2",
    "lang": "en-modern",
@@ -8910,6 +9078,22 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Máni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sol",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Sól",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "glenr",
    "row": "g-c11-2",
    "lang": "en-modern",
@@ -8918,10 +9102,42 @@
    "status": "auto"
   },
   {
+   "entity": "sol",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Sól",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "muspelheim",
    "row": "g-c11-2",
    "lang": "en-modern",
    "form": "Múspellheim",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "arvakr",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Árvakr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "alsvidr",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Alsviðr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Máni",
    "kind": "name",
    "status": "auto"
   },
@@ -8938,6 +9154,46 @@
    "row": "g-c11-2",
    "lang": "en-modern",
    "form": "Hjúki",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "byrgir",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Byrgir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "saegr",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Sægr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "simul",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Simul",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vidfinnr",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Vidfinnr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "g-c11-2",
+   "lang": "en-modern",
+   "form": "Máni",
    "kind": "name",
    "status": "auto"
   },
@@ -73162,6 +73418,14 @@
    "status": "auto"
   },
   {
+   "entity": "mani",
+   "row": "s-c34-1",
+   "lang": "en",
+   "form": "Moon",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "glenr",
    "row": "s-c34-1",
    "lang": "en",
@@ -73190,6 +73454,14 @@
    "row": "s-c34-1",
    "lang": "en-modern",
    "form": "Mundilfari",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "mani",
+   "row": "s-c34-1",
+   "lang": "en-modern",
+   "form": "Máni",
    "kind": "name",
    "status": "auto"
   },
@@ -101291,7 +101563,7 @@
    "entity": "mani",
    "row": "s-c76-16",
    "lang": "en",
-   "form": "Many",
+   "form": "Mona's",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -101300,7 +101572,7 @@
    "entity": "mani",
    "row": "s-c76-16",
    "lang": "en-modern",
-   "form": "Many",
+   "form": "Mona's",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -107982,7 +108254,7 @@
    "entity": "mani",
    "row": "h-c3-30",
    "lang": "en",
-   "form": "Man",
+   "form": "Mön",
    "kind": "name",
    "status": "auto"
   },
@@ -226681,6 +226953,22 @@
    "status": "auto"
   },
   {
+   "entity": "saegr",
+   "row": "ebr-v8",
+   "lang": "on",
+   "form": "Sægr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "simul",
+   "row": "ebr-v8",
+   "lang": "on",
+   "form": "Simul",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "bil",
    "row": "ebr-v8",
    "lang": "on",
@@ -227132,6 +227420,22 @@
    "status": "auto"
   },
   {
+   "entity": "saegr",
+   "row": "ebr-v8",
+   "lang": "is",
+   "form": "Sægur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "simul",
+   "row": "ebr-v8",
+   "lang": "is",
+   "form": "Símul",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "bil",
    "row": "ebr-v8",
    "lang": "is",
@@ -227579,6 +227883,22 @@
    "row": "ebr-v8",
    "lang": "en",
    "form": "Grani",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "saegr",
+   "row": "ebr-v8",
+   "lang": "en",
+   "form": "Sægr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "simul",
+   "row": "ebr-v8",
+   "lang": "en",
+   "form": "Simul",
    "kind": "name",
    "status": "auto"
   },
