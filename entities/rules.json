@@ -690,6 +690,1298 @@
    "notes": [
     "added for the map of the worlds (task 20b)"
    ]
+  },
+  {
+   "id": "modsognir",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Móðsognir",
+    "en": "Modsognir"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Móðsognir": 1,
+    "Mótsognir": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "nyi",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Nýi",
+    "en": "Nyi"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Nýi": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "althjofr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Alþjófr",
+    "en": "Althjof"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Alþjófr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "nar",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Nár",
+    "en": "Nar"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Nár": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "nipingr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Nípingr",
+    "en": "Niping"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Nípingr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "bifurr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Bífurr",
+    "en": "Bifur"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Bífurr": 1,
+    "Bívurr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "bafurr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Báfurr",
+    "en": "Bafur"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Báfurr": 1,
+    "Bávurr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "bomburr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Bömburr",
+    "en": "Bombur"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Bömburr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "onarr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Ónarr",
+    "en": "Onar"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Ónarr": 1,
+    "Ánarr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "ann",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Ánn",
+    "en": "An"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Ánn": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "oinn",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Óinn",
+    "en": "Oin"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Óinn": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "viggr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Viggr",
+    "en": "Vigg"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Viggr": 1,
+    "Veggr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "vindalfr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Vindalfr",
+    "en": "Vindalf"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Vindalfr": 1,
+    "Vindálfr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "fili",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Fíli",
+    "en": "Fili"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Fíli": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "fundinn",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Fundinn",
+    "en": "Fundin"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Fundinn": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "vali-dwarf",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Váli",
+    "en": "Vali"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "forms": {
+    "Váli": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "thror",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Þrór",
+    "en": "Thror"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Þrór": 1,
+    "Þrár": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "throinn",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Þróinn",
+    "en": "Throin"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Þróinn": 1,
+    "Þráinn": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "thekkr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Þekkr",
+    "en": "Thekk"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Þekkr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "nyr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Nýr",
+    "en": "Nyr"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Nýr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "rekkr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Rekkr",
+    "en": "Rekk"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "forms": {
+    "Rekkr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "draupnir-dwarf",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Draupnir",
+    "en": "Draupnir"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Draupnir": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "dolgthvari",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Dolgþvari",
+    "en": "Dolgthvari"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "forms": {
+    "Dolgþvari": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "harr-dwarf",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Hárr",
+    "en": "Har"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Hárr": 1,
+    "Hár": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "hugstari",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Hugstari",
+    "en": "Hugstari"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "forms": {
+    "Hugstari": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "hledjolfr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Hleðjolfr",
+    "en": "Hledjolf"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "forms": {
+    "Hleðjolfr": 1,
+    "Hleðjólfr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "gloinn",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Glóinn",
+    "en": "Gloin"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Glóinn": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "dori",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Dóri",
+    "en": "Dori"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Dóri": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "dufr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Dúfr",
+    "en": "Duf"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Dúfr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "heftifili",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Heftifili",
+    "en": "Heptifili"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "forms": {
+    "Heftifili": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "sviurr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Svíurr",
+    "en": "Sviur"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Svíurr": 1,
+    "Svíarr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "lofarr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Lofarr",
+    "en": "Lofar"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Lofarr": 1,
+    "Lofars": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "skirfir",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Skirfir",
+    "en": "Skirfir"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Skirfir": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "skafidr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Skáfiðr",
+    "en": "Skafid"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Skáfiðr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "ai-dwarf",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Ái",
+    "en": "Ai"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Ái": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "alfr-dwarf",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Alfr",
+    "en": "Alf"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Alfr": 1,
+    "Álfr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "yngvi-dwarf",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Yngvi",
+    "en": "Yngvi"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Yngvi": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "eikinskjaldi",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Eikinskjaldi",
+    "en": "Eikinskjaldi"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "forms": {
+    "Eikinskjaldi": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "falr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Falr",
+    "en": "Fal"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "forms": {
+    "Falr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "fidr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Fiðr",
+    "en": "Fid"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "forms": {
+    "Fiðr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "finnr-dwarf",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Finnr",
+    "en": "Finn"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Finnr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "nali",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Náli",
+    "en": "Nali"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Náli": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "hefti",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Hefti",
+    "en": "Hefti"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Hefti": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "vili-dwarf",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Víli",
+    "en": "Vili"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Víli": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "hannarr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Hannarr",
+    "en": "Hannar"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Hannarr": 1,
+    "Hannar": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "billingr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Billingr",
+    "en": "Billing"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Billingr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "bruni",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Brúni",
+    "en": "Bruni"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Brúni": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "bildr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Bíldr",
+    "en": "Bild"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Bíldr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "buri-dwarf",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Buri",
+    "en": "Buri"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Buri": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "frar",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Frár",
+    "en": "Frar"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Frár": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "hornbori",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Hornbori",
+    "en": "Hornbori"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Hornbori": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "fraegr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Frægr",
+    "en": "Fraeg"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Frægr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "loni",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Lóni",
+    "en": "Loni"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Lóni": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "aurvangr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Aurvangr",
+    "en": "Aurvang"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Aurvangr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "jari",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Jari",
+    "en": "Jari"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Jari": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "dolgthrasir",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Dolgþrasir",
+    "en": "Dolgthrasir"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Dolgþrasir": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "haugspori",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Haugspori",
+    "en": "Haugspori"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Haugspori": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "hlevangr",
+   "type": "dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Hlévangr",
+    "en": "Hlevang"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "forms": {
+    "Hlévangr": 1
+   },
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows"
+   ]
+  },
+  {
+   "id": "dvalinn-stag",
+   "type": "animal",
+   "tags": [
+    "animal"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Dvalinn",
+    "en": "Dvalinn (stag)"
+   },
+   "desc": {
+    "en": "one of the four stags that eat the leaves of Yggdrasill"
+   },
+   "notes": [
+    "added 2026-11-21: the stag, apart from the dwarf of the same name"
+   ]
+  },
+  {
+   "id": "dainn-stag",
+   "type": "animal",
+   "tags": [
+    "animal"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Dáinn",
+    "en": "Dáinn (stag)"
+   },
+   "desc": {
+    "en": "one of the four stags that eat the leaves of Yggdrasill"
+   },
+   "notes": [
+    "added 2026-11-21: the stag, apart from the dwarf of the same name"
+   ]
+  },
+  {
+   "id": "joruvellir",
+   "type": "place",
+   "tags": [
+    "place_myth"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Jöruvellir",
+    "is": "Jöruvellir",
+    "en": "Joruvellir"
+   },
+   "desc": {
+    "en": "the plains where Lofarr's line of dwarfs went from Svarinshaugr, to Aurvangar (Gylfaginning 14, Völuspá 14)"
+   },
+   "forms": {
+    "Jöruvöllu": 1,
+    "Jöruvalla": 1,
+    "Jöruvellir": 1
+   },
+   "notes": [
+    "added 2026-11-21 at Grigory's request (Gylfaginning 14.10)"
+   ]
   }
  ],
  "resolve": {
@@ -733,6 +2025,13 @@
     "g-c10-1": "jord",
     "g-c36-3": "jord",
     "*": "skip"
+   },
+   "Draupnir": {
+    "g-c14-9": "draupnir-dwarf",
+    "vsp-s15": "draupnir-dwarf"
+   },
+   "Hárr": {
+    "g-c14-9": "harr-dwarf"
    }
   },
   "entities": {
@@ -874,6 +2173,314 @@
     "g-c9-2": "ok",
     "vsp-s17": "ok",
     "*": "skip"
+   },
+   "modsognir": {
+    "g-c14-2": "ok",
+    "vsp-s10": "ok",
+    "*": "skip"
+   },
+   "nyi": {
+    "g-c14-6": "ok",
+    "vsp-s11": "ok",
+    "*": "skip"
+   },
+   "althjofr": {
+    "g-c14-6": "ok",
+    "vsp-s11": "ok",
+    "*": "skip"
+   },
+   "nar": {
+    "g-c14-6": "ok",
+    "vsp-s11": "ok",
+    "*": "skip"
+   },
+   "nipingr": {
+    "g-c14-6": "ok",
+    "vsp-s11": "ok",
+    "*": "skip"
+   },
+   "bifurr": {
+    "g-c14-6": "ok",
+    "vsp-s11": "ok",
+    "*": "skip"
+   },
+   "bafurr": {
+    "g-c14-6": "ok",
+    "vsp-s11": "ok",
+    "*": "skip"
+   },
+   "bomburr": {
+    "g-c14-6": "ok",
+    "vsp-s11": "ok",
+    "*": "skip"
+   },
+   "onarr": {
+    "g-c14-6": "ok",
+    "vsp-s11": "ok",
+    "*": "skip"
+   },
+   "ann": {
+    "vsp-s11": "ok",
+    "*": "skip"
+   },
+   "oinn": {
+    "g-c14-6": "ok",
+    "vsp-s11": "ok",
+    "*": "skip"
+   },
+   "viggr": {
+    "g-c14-7": "ok",
+    "vsp-s12": "ok",
+    "*": "skip"
+   },
+   "vindalfr": {
+    "g-c14-7": "ok",
+    "vsp-s12": "ok",
+    "*": "skip"
+   },
+   "fili": {
+    "g-c14-7": "ok",
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "fundinn": {
+    "g-c14-7": "ok",
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "vali-dwarf": {
+    "g-c14-7": "ok",
+    "*": "skip"
+   },
+   "thror": {
+    "g-c14-7": "ok",
+    "vsp-s12": "ok",
+    "*": "skip"
+   },
+   "throinn": {
+    "g-c14-7": "ok",
+    "vsp-s12": "ok",
+    "*": "skip"
+   },
+   "thekkr": {
+    "g-c14-7": "ok",
+    "vsp-s12": "ok",
+    "*": "skip"
+   },
+   "nyr": {
+    "g-c14-7": "ok",
+    "vsp-s12": "ok",
+    "*": "skip"
+   },
+   "rekkr": {
+    "g-c14-7": "ok",
+    "*": "skip"
+   },
+   "draupnir-dwarf": {
+    "g-c14-9": "ok",
+    "vsp-s15": "ok",
+    "*": "skip"
+   },
+   "dolgthvari": {
+    "g-c14-9": "ok",
+    "*": "skip"
+   },
+   "harr-dwarf": {
+    "g-c14-9": "ok",
+    "vsp-s15": "ok",
+    "*": "skip"
+   },
+   "hugstari": {
+    "g-c14-9": "ok",
+    "*": "skip"
+   },
+   "hledjolfr": {
+    "g-c14-9": "ok",
+    "*": "skip"
+   },
+   "gloinn": {
+    "g-c14-9": "ok",
+    "vsp-s15": "ok",
+    "*": "skip"
+   },
+   "dori": {
+    "g-c14-9": "ok",
+    "vsp-s15": "ok",
+    "*": "skip"
+   },
+   "dufr": {
+    "g-c14-9": "ok",
+    "vsp-s15": "ok",
+    "*": "skip"
+   },
+   "heftifili": {
+    "g-c14-9": "ok",
+    "*": "skip"
+   },
+   "sviurr": {
+    "g-c14-9": "ok",
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "lofarr": {
+    "g-c14-10": "ok",
+    "vsp-s14": "ok",
+    "vsp-s16": "ok",
+    "*": "skip"
+   },
+   "skirfir": {
+    "g-c14-11": "ok",
+    "vsp-s15": "ok",
+    "*": "skip"
+   },
+   "skafidr": {
+    "g-c14-11": "ok",
+    "vsp-s15": "ok",
+    "*": "skip"
+   },
+   "ai-dwarf": {
+    "g-c14-11": "ok",
+    "vsp-s15": "ok",
+    "*": "skip"
+   },
+   "alfr-dwarf": {
+    "g-c14-11": "ok",
+    "vsp-s16": "ok",
+    "*": "skip"
+   },
+   "yngvi-dwarf": {
+    "g-c14-11": "ok",
+    "vsp-s16": "ok",
+    "*": "skip"
+   },
+   "eikinskjaldi": {
+    "g-c14-11": "ok",
+    "vsp-s13": "ok",
+    "vsp-s16": "ok",
+    "*": "skip"
+   },
+   "falr": {
+    "g-c14-11": "ok",
+    "*": "skip"
+   },
+   "fidr": {
+    "g-c14-11": "ok",
+    "*": "skip"
+   },
+   "finnr-dwarf": {
+    "vsp-s16": "ok",
+    "*": "skip"
+   },
+   "nali": {
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "hefti": {
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "vili-dwarf": {
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "hannarr": {
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "billingr": {
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "bruni": {
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "bildr": {
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "buri-dwarf": {
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "frar": {
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "hornbori": {
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "fraegr": {
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "loni": {
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "aurvangr": {
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "jari": {
+    "vsp-s13": "ok",
+    "*": "skip"
+   },
+   "dolgthrasir": {
+    "vsp-s15": "ok",
+    "*": "skip"
+   },
+   "haugspori": {
+    "vsp-s15": "ok",
+    "*": "skip"
+   },
+   "hlevangr": {
+    "vsp-s15": "ok",
+    "*": "skip"
+   },
+   "dvalinn": {
+    "*": "ok",
+    "g-c16-2": "dvalinn-stag",
+    "grm-s33": "dvalinn-stag",
+    "s-c71-16": "dvalinn-stag"
+   },
+   "dainn": {
+    "*": "ok",
+    "g-c16-2": "dainn-stag",
+    "grm-s33": "dainn-stag",
+    "s-c71-16": "dainn-stag"
+   },
+   "draupnir": {
+    "*": "ok",
+    "g-c14-9": "draupnir-dwarf",
+    "vsp-s15": "draupnir-dwarf"
+   },
+   "yngvi": {
+    "*": "ok",
+    "g-c14-11": "yngvi-dwarf",
+    "vsp-s16": "yngvi-dwarf"
+   },
+   "vali-2": {
+    "*": "ok",
+    "g-c14-7": "vali-dwarf"
+   },
+   "odin": {
+    "*": "ok",
+    "g-c14-9": "harr-dwarf"
+   },
+   "laufey": {
+    "*": "ok",
+    "vsp-s13": "nali"
+   },
+   "annar": {
+    "*": "ok",
+    "vsp-s11": "onarr"
+   },
+   "joruvellir": {
+    "g-c14-10": "ok",
+    "vsp-s14": "ok",
+    "*": "skip"
    }
   },
   "near": {
@@ -926,7 +2533,16 @@
   "grm-s51",
   "grm-s52",
   "grm-s53",
-  "grm-s54"
+  "grm-s54",
+  "g-c14-6",
+  "g-c14-7",
+  "g-c14-9",
+  "g-c14-11",
+  "vsp-s11",
+  "vsp-s12",
+  "vsp-s13",
+  "vsp-s15",
+  "vsp-s16"
  ],
  "spellings": {
   "dellingr": {
@@ -963,6 +2579,18 @@
    "en": [
     "All-Strong",
     "All-Swift"
+   ]
+  },
+  "joruvellir": {
+   "en": [
+    "Joruvold",
+    "Jöruplain"
+   ]
+  },
+  "lofarr": {
+   "en": [
+    "Lovar",
+    "Lovarr"
    ]
   }
  },

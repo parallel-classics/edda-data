@@ -37,6 +37,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "ai-dwarf": {
+   "means": {
+    "en": "great-grandfather"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Ái as 'great-grandfather'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#A"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "alfar": {
    "means": {
     "en": "the white ones"
@@ -91,6 +109,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "alfr-dwarf": {
+   "means": {
+    "en": "elf"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Alfr as 'elf'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#A"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "alsvidr": {
    "means": {
     "en": "very quick"
@@ -103,6 +139,24 @@
     {
      "title": "Wikipedia: Árvakr and Alsviðr",
      "url": "https://en.wikipedia.org/wiki/%C3%81rvakr_and_Alsvi%C3%B0r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "althjofr": {
+   "means": {
+    "en": "all-thief"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Alþjófr as 'all-thief'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#A"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -211,6 +265,24 @@
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
      "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#A"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "ann": {
+   "means": {
+    "en": "without"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Ánn as 'without'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#A"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -361,6 +433,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "aurvangr": {
+   "means": {
+    "en": "mud-field, or gravelly plain"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Aurvangr as 'mud-field, or gravelly plain'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#A"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "austri": {
    "means": {
     "en": "the one in the east"
@@ -391,6 +481,24 @@
     {
      "title": "Wiktionary: Austrvegr",
      "url": "https://en.wiktionary.org/wiki/Austrvegr#Old_Norse"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "bafurr": {
+   "means": {
+    "en": "bean"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Báfurr as 'bean'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#B"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -545,6 +653,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "bifurr": {
+   "means": {
+    "en": "quaking one, or beaver"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Bífurr as 'quaking one, or beaver'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#B"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "bil": {
    "means": {
     "en": "instant"
@@ -557,6 +683,42 @@
     {
      "title": "Wikipedia: Hjúki and Bil",
      "url": "https://en.wikipedia.org/wiki/Hj%C3%BAki_and_Bil"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "bildr": {
+   "means": {
+    "en": "edged weapon"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Bíldr as 'edged weapon'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#B"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "billingr": {
+   "means": {
+    "en": "twin brother"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Billingr as 'twin brother'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#B"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -647,6 +809,24 @@
     {
      "title": "Wikipedia: Bölþorn",
      "url": "https://en.wikipedia.org/wiki/B%C3%B6l%C3%BEorn"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "bomburr": {
+   "means": {
+    "en": "drummer, or the swollen one"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Bömburr as 'drummer, or the swollen one'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#B"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -780,6 +960,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "bruni": {
+   "means": {
+    "en": "dark brown"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Brúni as 'dark brown'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#B"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "brynhild": {
    "means": {
     "en": "armour-battle"
@@ -792,6 +990,24 @@
     {
      "title": "Wikipedia: Brunhild",
      "url": "https://en.wikipedia.org/wiki/Brunhild#Etymology"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "buri-dwarf": {
+   "means": {
+    "en": "progenitor, or son"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Buri as 'progenitor, or son'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#B"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -924,6 +1140,42 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "dolgthrasir": {
+   "means": {
+    "en": "battle-eager"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Dolgþrasir as 'battle-eager'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#D"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "dori": {
+   "means": {
+    "en": "borer, or auger-man"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Dóri as 'borer, or auger-man'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#D"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "draupnir": {
    "means": {
     "en": "the dripper"
@@ -942,6 +1194,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "draupnir-dwarf": {
+   "means": {
+    "en": "dropper, or dripper"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Draupnir as 'dropper, or dripper'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#D"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "dufa": {
    "means": {
     "en": "the pitching one"
@@ -954,6 +1224,24 @@
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
      "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#D"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "dufr": {
+   "means": {
+    "en": "the crooked, or nodder"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Dúfr as 'the crooked, or nodder'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#D"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1081,6 +1369,24 @@
     {
      "title": "Wikipedia: Eggþér",
      "url": "https://en.wikipedia.org/wiki/Egg%C3%BE%C3%A9r"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "eikinskjaldi": {
+   "means": {
+    "en": "oaken shield"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Eikinskjaldi as 'oaken shield'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#E"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1396,6 +1702,42 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "fili": {
+   "means": {
+    "en": "the one who files, or file"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Fíli as 'the one who files, or file'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#F"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "finnr-dwarf": {
+   "means": {
+    "en": "Lapp, or magician"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Finnr as 'Lapp, or magician'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#F"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "fjalar": {
    "means": {
     "en": "hider"
@@ -1540,6 +1882,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "fraegr": {
+   "means": {
+    "en": "famous"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Frægr as 'famous'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#F"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "frankland": {
    "means": {
     "en": "land of the Franks"
@@ -1552,6 +1912,24 @@
     {
      "title": "Wiktionary: Frakkland",
      "url": "https://en.wiktionary.org/wiki/Frakkland#Old_Norse"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "frar": {
+   "means": {
+    "en": "swift"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Frár as 'swift'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#F"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -1639,6 +2017,24 @@
     "en": "Frosti means 'frosty, cold'."
    },
    "certainty": "clear",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#F"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "fundinn": {
+   "means": {
+    "en": "found"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Fundinn as 'found'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
@@ -2430,6 +2826,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "hannarr": {
+   "means": {
+    "en": "the skilful"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Hannarr as 'the skilful'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#H"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "haraldr": {
    "means": {
     "en": "army-leader"
@@ -2442,6 +2856,24 @@
     {
      "title": "Wiktionary: Haraldr",
      "url": "https://en.wiktionary.org/wiki/Haraldr#Old_Norse"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "harr-dwarf": {
+   "means": {
+    "en": "the high one"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Hárr as 'the high one'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#H"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2484,6 +2916,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "haugspori": {
+   "means": {
+    "en": "howe-treader"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Haugspori as 'howe-treader'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#H"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "haustlong": {
    "means": {
     "en": "autumn-long"
@@ -2514,6 +2964,42 @@
     {
      "title": "Wikipedia: List of jötnar in Norse mythology",
      "url": "https://en.wikipedia.org/wiki/List_of_j%C3%B6tnar_in_Norse_mythology#H"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hefti": {
+   "means": {
+    "en": "impeding"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Hefti as 'impeding'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#H"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "heftifili": {
+   "means": {
+    "en": "file with a handle"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Heftifili as 'file with a handle'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#H"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -2809,6 +3295,42 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "hledjolfr": {
+   "means": {
+    "en": "shield-wolf"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Hleðjolfr as 'shield-wolf'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#H"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hlevangr": {
+   "means": {
+    "en": "sheltered plain, or grave-mound"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Hlévangr as 'sheltered plain, or grave-mound'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#H"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "hlidskjalf": {
    "means": {
     "en": "the high seat with a wide view"
@@ -2930,6 +3452,24 @@
     {
      "title": "Wikipedia: Gná and Hófvarpnir",
      "url": "https://en.wikipedia.org/wiki/Gn%C3%A1_and_H%C3%B3fvarpnir"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "hornbori": {
+   "means": {
+    "en": "horn-borer"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Hornbori as 'horn-borer'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#H"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3153,6 +3693,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "hugstari": {
+   "means": {
+    "en": "strategist, or the bold one"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Hugstari as 'strategist, or the bold one'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#H"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "husdrapa": {
    "means": {
     "en": "the house-lay"
@@ -3309,6 +3867,24 @@
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
      "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#I"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "jari": {
+   "means": {
+    "en": "the disputing, or warrior"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Jari as 'the disputing, or warrior'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#J"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3695,6 +4271,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "lofarr": {
+   "means": {
+    "en": "stooper"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Lofarr as 'stooper'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#L"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "lofn": {
    "means": {
     "en": "the comforter"
@@ -3744,6 +4338,24 @@
      "title": "Wikipedia: Loki",
      "url": "https://en.wikipedia.org/wiki/Loki#Etymology",
      "note": "citing Heide"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "loni": {
+   "means": {
+    "en": "lazy one"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Lóni as 'lazy one'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#L"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -3933,6 +4545,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "modsognir": {
+   "means": {
+    "en": "he who roars in rage"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Móðsognir as 'he who roars in rage'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#M"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "mogthrasir": {
    "means": {
     "en": "the one striving for sons"
@@ -4077,6 +4707,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "nali": {
+   "means": {
+    "en": "corpse, or needle"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Náli as 'corpse, or needle'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#N"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "nanna": {
    "means": {
     "en": "mother, woman, or the daring one"
@@ -4090,6 +4738,24 @@
      "title": "Wikipedia: Nanna (Norse deity)",
      "url": "https://en.wikipedia.org/wiki/Nanna_%28Norse_deity%29#Etymology_and_place_names",
      "note": "citing de Vries; Lindow; McKinnell"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "nar": {
+   "means": {
+    "en": "corpse"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Nár as 'corpse'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#N"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4241,6 +4907,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "nipingr": {
+   "means": {
+    "en": "the dark, or the curving, or pinch"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Nípingr as 'the dark, or the curving, or pinch'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#N"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "njordr": {
    "means": {
     "en": "perhaps strength"
@@ -4350,6 +5034,42 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "nyi": {
+   "means": {
+    "en": "new moon"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Nýi as 'new moon'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#N"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "nyr": {
+   "means": {
+    "en": "new"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Nýr as 'new'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#N"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "nyradr": {
    "means": {
     "en": "new counsel, the ingenious"
@@ -4399,6 +5119,42 @@
      "title": "Wikipedia: Óðr",
      "url": "https://en.wikipedia.org/wiki/%C3%93%C3%B0r",
      "note": "citing Orchard"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "oinn": {
+   "means": {
+    "en": "shy"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Óinn as 'shy'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#O"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "onarr": {
+   "means": {
+    "en": "starer"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Ónarr as 'starer'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#O"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -4559,6 +5315,24 @@
     "en": "Regin has been glossed 'great, vast', 'the potent one' or 'the wielder'; compare regin 'the ruling powers, the gods'."
    },
    "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#R"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "rekkr": {
+   "means": {
+    "en": "warrior, hero, man"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Rekkr as 'warrior, hero, man'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
@@ -4823,6 +5597,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "skafidr": {
+   "means": {
+    "en": "the scraper"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Skáfiðr as 'the scraper'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#S"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "skidbladnir": {
    "means": {
     "en": "assembled from thin pieces of wood"
@@ -4853,6 +5645,24 @@
     {
      "title": "Wikipedia: Skinfaxi and Hrímfaxi",
      "url": "https://en.wikipedia.org/wiki/Skinfaxi_and_Hr%C3%ADmfaxi"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "skirfir": {
+   "means": {
+    "en": "skilful craftsman"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Skirfir as 'skilful craftsman'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#S"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5147,6 +5957,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "sviurr": {
+   "means": {
+    "en": "the disappearing one"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Svíurr as 'the disappearing one'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#S"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "sweden": {
    "means": {
     "en": "the people of the Swedes"
@@ -5197,6 +6025,24 @@
      "title": "Wikipedia: Tanngrisnir and Tanngnjóstr",
      "url": "https://en.wikipedia.org/wiki/Tanngrisnir_and_Tanngnj%C3%B3str#Etymology",
      "note": "citing Simek"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "thekkr": {
+   "means": {
+    "en": "the welcome one, or beloved"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Þekkr as 'the welcome one, or beloved'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#T"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5306,6 +6152,42 @@
     {
      "title": "Wikipedia: Þrívaldi",
      "url": "https://en.wikipedia.org/wiki/%C3%9Er%C3%ADvaldi"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "throinn": {
+   "means": {
+    "en": "the threatening, or stubborn"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Þróinn as 'the threatening, or stubborn'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#T"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "thror": {
+   "means": {
+    "en": "inciter of strife, or the thriving, or boar"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Þrór as 'inciter of strife, or the thriving, or boar'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#T"
     }
    ],
    "by": "ai:claude-2026-11",
@@ -5746,6 +6628,24 @@
    "date": "2026-11-21",
    "status": "draft"
   },
+  "viggr": {
+   "means": {
+    "en": "axe-bit"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Viggr as 'axe-bit'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#V"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
   "vigridr": {
    "means": {
     "en": "battle-surge"
@@ -5770,6 +6670,42 @@
    },
    "text": {
     "en": "Vili means 'will': Óðinn's brother, whose name is the common word vili."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#V"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "vili-dwarf": {
+   "means": {
+    "en": "will"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Víli as 'will'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#V"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "vindalfr": {
+   "means": {
+    "en": "wind-elf"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Vindalfr as 'wind-elf'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
    },
    "certainty": "likely",
    "sources": [
@@ -5935,6 +6871,24 @@
     "en": "As a dwarf's name in Völuspá, Yngvi is glossed 'prince' or 'warrior'; it is also a name of Freyr."
    },
    "certainty": "likely",
+   "sources": [
+    {
+     "title": "Wikipedia: List of dwarfs in Norse mythology",
+     "url": "https://en.wikipedia.org/wiki/List_of_dwarfs_in_Norse_mythology#Y"
+    }
+   ],
+   "by": "ai:claude-2026-11",
+   "date": "2026-11-21",
+   "status": "draft"
+  },
+  "yngvi-dwarf": {
+   "means": {
+    "en": "prince, or warrior"
+   },
+   "text": {
+    "en": "Wikipedia's list of dwarfs in Norse mythology reads Yngvi as 'prince, or warrior'. Most dwarf names in the lists are such descriptive words; for many the reading is a guess from the sound of the name."
+   },
+   "certainty": "uncertain",
    "sources": [
     {
      "title": "Wikipedia: List of dwarfs in Norse mythology",
