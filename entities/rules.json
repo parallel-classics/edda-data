@@ -728,6 +728,11 @@
    "Vé": {
     "g": "ve",
     "*": "skip"
+   },
+   "Jörð": {
+    "g-c10-1": "jord",
+    "g-c36-3": "jord",
+    "*": "skip"
    }
   },
   "entities": {
@@ -850,6 +855,10 @@
     "s-c33-9": "aegir",
     "s-c76-8": "aegir",
     "*": "ok"
+   },
+   "audr": {
+    "g-c10-1": "ok",
+    "*": "skip"
    }
   },
   "near": {
@@ -904,7 +913,23 @@
   "grm-s53",
   "grm-s54"
  ],
- "spellings": {},
+ "spellings": {
+  "dellingr": {
+   "en": [
+    "Dayspring"
+   ]
+  },
+  "hrimfaxi": {
+   "en": [
+    "Frosty-Mane"
+   ]
+  },
+  "skinfaxi": {
+   "en": [
+    "Sheen-Mane"
+   ]
+  }
+ },
  "groups": {
   "aesir": {
    "on": [

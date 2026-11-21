@@ -7945,6 +7945,14 @@
    "entity": "narfi",
    "row": "g-c10-1",
    "lang": "on",
+   "form": "Nörfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "narfi",
+   "row": "g-c10-1",
+   "lang": "on",
    "form": "Narfi",
    "kind": "name",
    "status": "auto"
@@ -7974,10 +7982,26 @@
    "status": "auto"
   },
   {
+   "entity": "audr",
+   "row": "g-c10-1",
+   "lang": "on",
+   "form": "Auðr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "annar",
    "row": "g-c10-1",
    "lang": "on",
    "form": "Ánarr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jord",
+   "row": "g-c10-1",
+   "lang": "on",
+   "form": "Jörð",
    "kind": "name",
    "status": "auto"
   },
@@ -8089,6 +8113,14 @@
    "entity": "narfi",
    "row": "g-c10-1",
    "lang": "is",
+   "form": "Nörfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "narfi",
+   "row": "g-c10-1",
+   "lang": "is",
    "form": "Narfi",
    "kind": "name",
    "status": "auto"
@@ -8118,10 +8150,26 @@
    "status": "auto"
   },
   {
+   "entity": "audr",
+   "row": "g-c10-1",
+   "lang": "is",
+   "form": "Auður",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "annar",
    "row": "g-c10-1",
    "lang": "is",
    "form": "Annar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jord",
+   "row": "g-c10-1",
+   "lang": "is",
+   "form": "Jörð",
    "kind": "name",
    "status": "auto"
   },
@@ -8217,6 +8265,14 @@
    "entity": "narfi",
    "row": "g-c10-1",
    "lang": "en",
+   "form": "Nörfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "narfi",
+   "row": "g-c10-1",
+   "lang": "en",
    "form": "Narfi",
    "kind": "name",
    "status": "auto"
@@ -8246,6 +8302,14 @@
    "status": "auto"
   },
   {
+   "entity": "audr",
+   "row": "g-c10-1",
+   "lang": "en",
+   "form": "Audr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "annar",
    "row": "g-c10-1",
    "lang": "en",
@@ -8254,6 +8318,22 @@
    "status": "auto"
   },
   {
+   "entity": "jord",
+   "row": "g-c10-1",
+   "lang": "en",
+   "form": "Jörd",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dellingr",
+   "row": "g-c10-1",
+   "lang": "en",
+   "form": "Dayspring",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "dagr",
    "row": "g-c10-1",
    "lang": "en",
@@ -8286,10 +8366,26 @@
    "status": "auto"
   },
   {
+   "entity": "hrimfaxi",
+   "row": "g-c10-1",
+   "lang": "en",
+   "form": "Frosty-Mane",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "dagr",
    "row": "g-c10-1",
    "lang": "en",
    "form": "Day",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "skinfaxi",
+   "row": "g-c10-1",
+   "lang": "en",
+   "form": "Sheen-Mane",
    "kind": "name",
    "status": "auto"
   },
@@ -8361,6 +8457,14 @@
    "entity": "narfi",
    "row": "g-c10-1",
    "lang": "en-modern",
+   "form": "Nörfi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "narfi",
+   "row": "g-c10-1",
+   "lang": "en-modern",
    "form": "Narfi",
    "kind": "name",
    "status": "auto"
@@ -8390,6 +8494,14 @@
    "status": "auto"
   },
   {
+   "entity": "audr",
+   "row": "g-c10-1",
+   "lang": "en-modern",
+   "form": "Audr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "annar",
    "row": "g-c10-1",
    "lang": "en-modern",
@@ -8398,6 +8510,22 @@
    "status": "auto"
   },
   {
+   "entity": "jord",
+   "row": "g-c10-1",
+   "lang": "en-modern",
+   "form": "Jörd",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "dellingr",
+   "row": "g-c10-1",
+   "lang": "en-modern",
+   "form": "Dayspring",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "dagr",
    "row": "g-c10-1",
    "lang": "en-modern",
@@ -8426,6 +8554,14 @@
    "row": "g-c10-1",
    "lang": "en-modern",
    "form": "Night",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hrimfaxi",
+   "row": "g-c10-1",
+   "lang": "en-modern",
+   "form": "Frosty-Mane",
    "kind": "name",
    "status": "auto"
   },
@@ -8434,6 +8570,14 @@
    "row": "g-c10-1",
    "lang": "en-modern",
    "form": "Day's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "skinfaxi",
+   "row": "g-c10-1",
+   "lang": "en-modern",
+   "form": "Sheen-Mane",
    "kind": "name",
    "status": "auto"
   },
@@ -25218,6 +25362,14 @@
    "status": "auto"
   },
   {
+   "entity": "jord",
+   "row": "g-c36-3",
+   "lang": "on",
+   "form": "Jörð",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "g-c36-3",
    "lang": "on",
@@ -25298,6 +25450,14 @@
    "status": "auto"
   },
   {
+   "entity": "jord",
+   "row": "g-c36-3",
+   "lang": "is",
+   "form": "Jörð",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "g-c36-3",
    "lang": "is",
@@ -25350,6 +25510,14 @@
    "row": "g-c36-3",
    "lang": "en",
    "form": "Skuld",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jord",
+   "row": "g-c36-3",
+   "lang": "en",
+   "form": "Jörd",
    "kind": "name",
    "status": "auto"
   },
@@ -25410,6 +25578,14 @@
    "status": "auto"
   },
   {
+   "entity": "jord",
+   "row": "g-c36-3",
+   "lang": "en-anderson",
+   "form": "Jord",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "g-c36-3",
    "lang": "en-anderson",
@@ -25462,6 +25638,14 @@
    "row": "g-c36-3",
    "lang": "en-modern",
    "form": "Skuld",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jord",
+   "row": "g-c36-3",
+   "lang": "en-modern",
+   "form": "Jörd",
    "kind": "name",
    "status": "auto"
   },

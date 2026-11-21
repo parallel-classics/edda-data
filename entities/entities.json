@@ -6311,7 +6311,8 @@
     ],
     "en": [
      "Dellingr's",
-     "Delling"
+     "Delling",
+     "Dayspring"
     ]
    },
    "heiti": {},
@@ -9464,6 +9465,84 @@
    ]
   },
   {
+   "id": "jord",
+   "tags": [
+    "goddess"
+   ],
+   "type": "goddess",
+   "wikidata": "Q548730",
+   "names": {
+    "on": "Jörð",
+    "de": "Jörd",
+    "da": "Fjørgyn",
+    "en": "Jörð",
+    "is": "Jörð",
+    "nn": "Jord",
+    "ru": "Ёрд",
+    "sv": "Fjorgyn",
+    "nb": "Jord"
+   },
+   "desc": {
+    "en": "Earth goddess in Norse mythology"
+   },
+   "image": "Moder Jord.jpg",
+   "image_candidates": [
+    "Moder Jord.jpg"
+   ],
+   "coords": null,
+   "wiki": {
+    "enwiki": "Jörð",
+    "iswiki": "Jörð (norræn goðafræði)",
+    "ruwiki": "Ёрд",
+    "nowiki": "Jord (gudinne)",
+    "nnwiki": "Gudinna Jord",
+    "dewiki": "Jörd"
+   },
+   "image_source": "wikidata",
+   "forms": {
+    "on": [
+     "Jarðar",
+     "Hlöðynjar",
+     "Jörð",
+     "Hlóðynjar"
+    ],
+    "is": [
+     "Jarðar",
+     "Hlóðynjar",
+     "Jörð"
+    ],
+    "en": [
+     "Jörd",
+     "Fjorgyn",
+     "Hlothyn",
+     "Hlödyn",
+     "Hlödyn's",
+     "Jorth",
+     "Jörd's"
+    ]
+   },
+   "heiti": {
+    "Hlöðynjar": "heiti",
+    "Hlóðynjar": "heiti"
+   },
+   "first": {
+    "snorri": "g-c10-1",
+    "poetic": "vsp-s56"
+   },
+   "first_any": {
+    "snorri": "g-c10-1",
+    "poetic": "vsp-s56"
+   },
+   "mentions": 9,
+   "narrative": 8,
+   "check": 0,
+   "card": true,
+   "status": "auto",
+   "notes": [
+    "2026-11-21: the form Jörð, limited by rules.json to the rows where it is the goddess (elsewhere it is the earth)"
+   ]
+  },
+  {
    "id": "laufey",
    "tags": [
     "goddess"
@@ -11734,80 +11813,6 @@
    "notes": []
   },
   {
-   "id": "jord",
-   "tags": [
-    "goddess"
-   ],
-   "type": "goddess",
-   "wikidata": "Q548730",
-   "names": {
-    "on": "Jörð",
-    "de": "Jörd",
-    "da": "Fjørgyn",
-    "en": "Jörð",
-    "is": "Jörð",
-    "nn": "Jord",
-    "ru": "Ёрд",
-    "sv": "Fjorgyn",
-    "nb": "Jord"
-   },
-   "desc": {
-    "en": "Earth goddess in Norse mythology"
-   },
-   "image": "Moder Jord.jpg",
-   "image_candidates": [
-    "Moder Jord.jpg"
-   ],
-   "coords": null,
-   "wiki": {
-    "enwiki": "Jörð",
-    "iswiki": "Jörð (norræn goðafræði)",
-    "ruwiki": "Ёрд",
-    "nowiki": "Jord (gudinne)",
-    "nnwiki": "Gudinna Jord",
-    "dewiki": "Jörd"
-   },
-   "image_source": "wikidata",
-   "forms": {
-    "on": [
-     "Jarðar",
-     "Hlöðynjar",
-     "Hlóðynjar"
-    ],
-    "is": [
-     "Jarðar",
-     "Hlóðynjar"
-    ],
-    "en": [
-     "Jörd",
-     "Fjorgyn",
-     "Hlothyn",
-     "Hlödyn",
-     "Hlödyn's",
-     "Jorth",
-     "Jörd's"
-    ]
-   },
-   "heiti": {
-    "Hlöðynjar": "heiti",
-    "Hlóðynjar": "heiti"
-   },
-   "first": {
-    "snorri": "g-c51-13",
-    "poetic": "vsp-s56"
-   },
-   "first_any": {
-    "snorri": "g-c51-13",
-    "poetic": "vsp-s56"
-   },
-   "mentions": 7,
-   "narrative": 6,
-   "check": 0,
-   "card": true,
-   "status": "auto",
-   "notes": []
-  },
-  {
    "id": "kormakr",
    "tags": [
     "poet"
@@ -13495,6 +13500,71 @@
    "notes": []
   },
   {
+   "id": "narfi",
+   "tags": [
+    "giant"
+   ],
+   "type": "giant",
+   "wikidata": "Q1273321",
+   "names": {
+    "de": "Narfi",
+    "is": "Narfi",
+    "en": "Narfi",
+    "nn": "Narve",
+    "da": "Narfe",
+    "nb": "Narve",
+    "sv": "Nörve",
+    "ru": "Нарфи"
+   },
+   "desc": {
+    "en": "giant, father of Nótt in Norse mythology"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {
+    "enwiki": "Narfi",
+    "iswiki": "Narfi (norræn goðafræði)",
+    "ruwiki": "Нарви",
+    "nowiki": "Norve",
+    "dewiki": "Narfi"
+   },
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Narfi",
+     "Narfa",
+     "Nörfi"
+    ],
+    "is": [
+     "Narfi",
+     "Narfa",
+     "Nörfi"
+    ],
+    "en": [
+     "Narfi",
+     "Nörfi"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c10-1",
+    "poetic": "ls-p4"
+   },
+   "first_any": {
+    "snorri": "g-c10-1",
+    "poetic": "ls-p4"
+   },
+   "mentions": 6,
+   "narrative": 6,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "2026-11-21: Nörfi, the other form in Gylfaginning 10"
+   ]
+  },
+  {
    "id": "niflheim",
    "tags": [
     "place_myth"
@@ -15140,66 +15210,6 @@
    "first_any": {
     "snorri": "s-c52-6",
     "poetic": "grt-p1"
-   },
-   "mentions": 5,
-   "narrative": 5,
-   "check": 0,
-   "card": false,
-   "status": "auto",
-   "notes": []
-  },
-  {
-   "id": "narfi",
-   "tags": [
-    "giant"
-   ],
-   "type": "giant",
-   "wikidata": "Q1273321",
-   "names": {
-    "de": "Narfi",
-    "is": "Narfi",
-    "en": "Narfi",
-    "nn": "Narve",
-    "da": "Narfe",
-    "nb": "Narve",
-    "sv": "Nörve",
-    "ru": "Нарфи"
-   },
-   "desc": {
-    "en": "giant, father of Nótt in Norse mythology"
-   },
-   "image": null,
-   "image_candidates": [],
-   "coords": null,
-   "wiki": {
-    "enwiki": "Narfi",
-    "iswiki": "Narfi (norræn goðafræði)",
-    "ruwiki": "Нарви",
-    "nowiki": "Norve",
-    "dewiki": "Narfi"
-   },
-   "image_source": null,
-   "forms": {
-    "on": [
-     "Narfi",
-     "Narfa"
-    ],
-    "is": [
-     "Narfi",
-     "Narfa"
-    ],
-    "en": [
-     "Narfi"
-    ]
-   },
-   "heiti": {},
-   "first": {
-    "snorri": "g-c10-1",
-    "poetic": "ls-p4"
-   },
-   "first_any": {
-    "snorri": "g-c10-1",
-    "poetic": "ls-p4"
    },
    "mentions": 5,
    "narrative": 5,
@@ -17631,7 +17641,8 @@
      "Hrímfaxa"
     ],
     "en": [
-     "Hrimfaxi"
+     "Hrimfaxi",
+     "Frosty-Mane"
     ]
    },
    "heiti": {},
@@ -22824,6 +22835,7 @@
      "Skinfaxi"
     ],
     "en": [
+     "Sheen-Mane",
      "Skinfaxi"
     ]
    },
@@ -29993,6 +30005,53 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "audr",
+   "tags": [
+    "god"
+   ],
+   "type": "god",
+   "wikidata": null,
+   "names": {
+    "on": "Auðr",
+    "is": "Auður",
+    "en": "Auðr"
+   },
+   "desc": {
+    "en": "son of Nótt (Night) and Naglfari"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Auðr"
+    ],
+    "is": [
+     "Auður"
+    ],
+    "en": [
+     "Audr"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c10-1"
+   },
+   "first_any": {
+    "snorri": "g-c10-1"
+   },
+   "mentions": 1,
+   "narrative": 1,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: missing from the seed (Gylfaginning 10); rules.json limits the form to that chapter (auðr is also 'wealth', and Hyndluljóð's Auðr is another person); asked for in review mode"
+   ]
   },
   {
    "id": "audumbla",
