@@ -859,6 +859,16 @@
    "audr": {
     "g-c10-1": "ok",
     "*": "skip"
+   },
+   "saegr": {
+    "g-c11-2": "ok",
+    "ebr-v8": "ok",
+    "*": "skip"
+   },
+   "simul": {
+    "g-c11-2": "ok",
+    "ebr-v8": "ok",
+    "*": "skip"
    }
   },
   "near": {
