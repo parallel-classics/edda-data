@@ -14,6 +14,7 @@
       },
       "plate": "P1",
       "entities": [
+        "aesir",
         "odin",
         "thor",
         "baldur",
@@ -82,6 +83,7 @@
       },
       "plate": "P3",
       "entities": [
+        "asynjur",
         "frigg",
         "fulla",
         "sif",
@@ -282,6 +284,9 @@
       },
       "plate": "P8",
       "entities": [
+        "jotnar",
+        "hrimthursar",
+        "bergrisar",
         "ymir",
         "audumbla",
         "bergelmir",
@@ -398,6 +403,7 @@
       },
       "plate": "P11",
       "entities": [
+        "dvergar",
         "brokkr",
         "sindri",
         "ivaldi",
@@ -434,6 +440,7 @@
       },
       "plate": "P12",
       "entities": [
+        "alfar",
         "alfheimr",
         "ljosalfar",
         "dokkalfar",
@@ -459,6 +466,7 @@
       },
       "plate": "P13",
       "entities": [
+        "valkyrjur",
         "norns",
         "urdr",
         "verdandi",

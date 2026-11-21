@@ -1,5 +1,5 @@
 {
- "_note": "Hand rules for edda-site/pipeline/make_entities.py detect (task 16a). tags: overrides of the tag list per entity (first = main; vocabulary in entities.json `tags`). extra: entities that seed.json does not have — targets of the ambiguity rules, and the ones the curator asked for by message (they may carry forms, heiti, image candidates); wikidata to be filled by the curator. resolve.entities: per seed entity, a scope (row id, Snorri chapter like s-c62, part letter p/g/s/h, poem prefix like hh2, or *) -> an entity id (relabel), ok (certain), check (uncertain) or, for forms, skip (not a name here); the most specific scope wins; a value {prose: ..., verse: ...} distinguishes prose and verse blocks. resolve.forms: the same per surface form (for a form that several entities share). resolve.near: a byname in the same Old Norse row decides (entity -> {word: entity}). lists: name-list sections (chapter or row scopes) whose mentions are not narrative and never carry a first-appearance card. spellings: translator spellings per entity and language that the spelling-blind comparison misses.",
+ "_note": "Hand rules for edda-site/pipeline/make_entities.py detect (task 16a). tags: overrides of the tag list per entity (first = main; vocabulary in entities.json `tags`). extra: entities that seed.json does not have — targets of the ambiguity rules, and the ones the curator asked for by message (they may carry forms, heiti, image candidates); wikidata to be filled by the curator. resolve.entities: per seed entity, a scope (row id, Snorri chapter like s-c62, part letter p/g/s/h, poem prefix like hh2, or *) -> an entity id (relabel), ok (certain), check (uncertain) or, for forms, skip (not a name here); the most specific scope wins; a value {prose: ..., verse: ...} distinguishes prose and verse blocks. resolve.forms: the same per surface form (for a form that several entities share). resolve.near: a byname in the same Old Norse row decides (entity -> {word: entity}). lists: name-list sections (chapter or row scopes) whose mentions are not narrative and never carry a first-appearance card. spellings: translator spellings per entity and language that the spelling-blind comparison misses. groups: the groups (Æsir, giants, dwarfs ...): entity -> {lang: word forms}, matched whole-word in any case; in Icelandic and English only where the row's Old Norse has the group.",
  "tags": {
   "brynhild": [
    "valkyrie",
@@ -728,6 +728,11 @@
    "Vé": {
     "g": "ve",
     "*": "skip"
+   },
+   "Jörð": {
+    "g-c10-1": "jord",
+    "g-c36-3": "jord",
+    "*": "skip"
    }
   },
   "entities": {
@@ -850,6 +855,10 @@
     "s-c33-9": "aegir",
     "s-c76-8": "aegir",
     "*": "ok"
+   },
+   "audr": {
+    "g-c10-1": "ok",
+    "*": "skip"
    }
   },
   "near": {
@@ -904,5 +913,336 @@
   "grm-s53",
   "grm-s54"
  ],
- "spellings": {}
+ "spellings": {
+  "dellingr": {
+   "en": [
+    "Dayspring"
+   ]
+  },
+  "hrimfaxi": {
+   "en": [
+    "Frosty-Mane"
+   ]
+  },
+  "skinfaxi": {
+   "en": [
+    "Sheen-Mane"
+   ]
+  }
+ },
+ "groups": {
+  "aesir": {
+   "on": [
+    "æsir",
+    "ása",
+    "ásum",
+    "ásu",
+    "ásar",
+    "áss",
+    "ásinn",
+    "ásanna",
+    "æsirnir",
+    "ásunum",
+    "ásana",
+    "ásnum"
+   ],
+   "is": [
+    "æsir",
+    "ása",
+    "ásum",
+    "ás",
+    "ásinn",
+    "ásanna",
+    "æsirnir",
+    "ásunum",
+    "ásana",
+    "ásnum",
+    "áss"
+   ],
+   "en": [
+    "Æsir",
+    "Aesir",
+    "Asa",
+    "Asas",
+    "Ases",
+    "Æsir's",
+    "Asir"
+   ]
+  },
+  "asynjur": {
+   "on": [
+    "ásynjur",
+    "ásynja",
+    "ásynju",
+    "ásynjum",
+    "ásynjna",
+    "ásynjurnar",
+    "ásynjunum",
+    "ásynjanna",
+    "ásynjuna"
+   ],
+   "is": [
+    "ásynjur",
+    "ásynja",
+    "ásynju",
+    "ásynjum",
+    "ásynjanna",
+    "ásynjurnar",
+    "ásynjunum",
+    "ásynjuna"
+   ],
+   "en": [
+    "Ásynjur",
+    "Asynjur",
+    "Asynjes",
+    "goddesses",
+    "Asynja",
+    "Ásynja"
+   ]
+  },
+  "jotnar": {
+   "on": [
+    "jötunn",
+    "jötnar",
+    "jötna",
+    "jötnum",
+    "jötun",
+    "jötuns",
+    "jötni",
+    "jötnanna",
+    "þurs",
+    "þursar",
+    "þursa",
+    "þursum",
+    "jötnarnir",
+    "jötnana",
+    "jötnunum",
+    "jötuninn",
+    "jötunninn",
+    "jötninum",
+    "jötunsins",
+    "þursinn",
+    "þursarnir"
+   ],
+   "is": [
+    "jötunn",
+    "jötnar",
+    "jötna",
+    "jötnum",
+    "jötun",
+    "jötuns",
+    "jötni",
+    "jötnanna",
+    "þurs",
+    "þursar",
+    "þursa",
+    "þursum",
+    "jötnarnir",
+    "jötnana",
+    "jötnunum",
+    "jötuninn",
+    "jötunninn",
+    "jötninum",
+    "jötunsins",
+    "þursinn",
+    "þursarnir"
+   ],
+   "en": [
+    "giant",
+    "giants",
+    "giant's",
+    "giants'",
+    "giantess",
+    "giantesses",
+    "jötun",
+    "jötunn",
+    "jotun",
+    "jötuns",
+    "ettin",
+    "ettins",
+    "etin",
+    "etins",
+    "Jötun",
+    "Jotun",
+    "thurs",
+    "Thurs",
+    "Jötuns"
+   ]
+  },
+  "hrimthursar": {
+   "on": [
+    "hrímþursar",
+    "hrímþursa",
+    "hrímþurs",
+    "hrímþursum",
+    "hrímþursarnir",
+    "hrímþursanna"
+   ],
+   "is": [
+    "hrímþursar",
+    "hrímþursa",
+    "hrímþurs",
+    "hrímþursum",
+    "hrímþursarnir",
+    "hrímþursanna"
+   ],
+   "en": [
+    "frost-giants",
+    "frost-giant",
+    "Frost-Giants",
+    "Frost-giants",
+    "rime-giants",
+    "Rime-Giants",
+    "rime-giant",
+    "Rime-giants",
+    "frost-giant's",
+    "frost-ogres",
+    "frost giants",
+    "frost giant",
+    "rime giants",
+    "rime giant",
+    "Frost Giants"
+   ]
+  },
+  "bergrisar": {
+   "on": [
+    "bergrisar",
+    "bergrisa",
+    "bergrisi",
+    "bergrisum",
+    "bergrisarnir"
+   ],
+   "is": [
+    "bergrisar",
+    "bergrisa",
+    "bergrisi",
+    "bergrisum",
+    "bergrisarnir"
+   ],
+   "en": [
+    "hill-giants",
+    "hill-giant",
+    "Hill-Giants",
+    "mountain-giants",
+    "mountain-giant",
+    "Mountain-Giants",
+    "rock-giants",
+    "rock-giant",
+    "hill-giant's",
+    "hill giants",
+    "hill giant",
+    "mountain giants",
+    "mountain giant",
+    "rock giants"
+   ]
+  },
+  "dvergar": {
+   "on": [
+    "dvergr",
+    "dvergar",
+    "dverga",
+    "dvergum",
+    "dverg",
+    "dvergs",
+    "dvergrinn",
+    "dverginn",
+    "dvergsins",
+    "dvergarnir",
+    "dvergana",
+    "dvergunum",
+    "dverganna"
+   ],
+   "is": [
+    "dvergur",
+    "dvergar",
+    "dverga",
+    "dvergum",
+    "dverg",
+    "dvergs",
+    "dvergurinn",
+    "dverginn",
+    "dvergsins",
+    "dvergarnir",
+    "dvergana",
+    "dvergunum",
+    "dverganna"
+   ],
+   "en": [
+    "dwarf",
+    "dwarfs",
+    "dwarves",
+    "dwarf's",
+    "dwarfs'",
+    "Dwarf",
+    "Dwarfs",
+    "Dwarves"
+   ]
+  },
+  "alfar": {
+   "on": [
+    "álfar",
+    "álfa",
+    "álfum",
+    "álfr",
+    "álf",
+    "álfs",
+    "álfarnir",
+    "álfanna",
+    "álfunum",
+    "álfana"
+   ],
+   "is": [
+    "álfar",
+    "álfa",
+    "álfum",
+    "álfur",
+    "álf",
+    "álfs",
+    "álfarnir",
+    "álfanna",
+    "álfunum",
+    "álfana"
+   ],
+   "en": [
+    "elves",
+    "elf",
+    "Elves",
+    "Elf",
+    "elf's",
+    "elves'"
+   ]
+  },
+  "valkyrjur": {
+   "on": [
+    "valkyrja",
+    "valkyrju",
+    "valkyrjur",
+    "valkyrjum",
+    "valkyrjurnar",
+    "valkyrjna",
+    "valkyrjunum",
+    "valkyrjanna"
+   ],
+   "is": [
+    "valkyrja",
+    "valkyrju",
+    "valkyrjur",
+    "valkyrjum",
+    "valkyrjurnar",
+    "valkyrjanna",
+    "valkyrjunum"
+   ],
+   "en": [
+    "valkyrie",
+    "valkyries",
+    "Valkyrie",
+    "Valkyries",
+    "valkyrie's",
+    "Valkyrias",
+    "Valkyria",
+    "valkyr",
+    "Valkyr"
+   ]
+  }
+ }
 }
