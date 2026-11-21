@@ -40441,6 +40441,4702 @@
       "myths": [],
       "by": "claude",
       "plate": "p13"
+    },
+    "modsognir": {
+      "hook": {
+        "en": "Móðsognir is the first and greatest of the dwarfs, Snorri says, with Durinn second; the name is read as “he who roars in rage”.",
+        "is": "Móðsognir er fyrstur og æðstur dverganna, segir Snorri, og Durinn annar; nafnið er skýrt sem „sá sem öskrar í bræði“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, the first and greatest of the dwarfs, Snorri says, with Durinn second; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, fyrstur og æðstur dverganna, segir Snorri, og Durinn annar; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-2",
+            "vsp-s10"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “he who roars in rage”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „sá sem öskrar í bræði“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-2"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-2",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "nyi": {
+      "hook": {
+        "en": "Nýi is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “new moon”.",
+        "is": "Nýi er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „nýtt tungl“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-6",
+            "vsp-s11"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “new moon”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „nýtt tungl“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-6",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "nidi": {
+      "hook": {
+        "en": "Niði is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “underworld being, or the one of the dark moon”.",
+        "is": "Niði er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „undirheimavera, eða sá sem tengist niðinu“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-6",
+            "vsp-s11"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “underworld being, or the one of the dark moon”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „undirheimavera, eða sá sem tengist niðinu“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-6",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "althjofr": {
+      "hook": {
+        "en": "Alþjófr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “all-thief”.",
+        "is": "Alþjófr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „alþjófur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-6",
+            "vsp-s11"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “all-thief”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „alþjófur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-6",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "nar": {
+      "hook": {
+        "en": "Nár is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “corpse”.",
+        "is": "Nár er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „lík“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-6",
+            "vsp-s11"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “corpse”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „lík“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-6",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "nainn": {
+      "hook": {
+        "en": "Náinn is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “corpse”.",
+        "is": "Náinn er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „lík“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-6",
+            "vsp-s11"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “corpse”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „lík“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-6",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "nipingr": {
+      "hook": {
+        "en": "Nípingr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “the dark, or the curving, or pinch”.",
+        "is": "Nípingr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „hinn dökki, eða hinn bogni, eða klípa“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-6",
+            "vsp-s11"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “the dark, or the curving, or pinch”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „hinn dökki, eða hinn bogni, eða klípa“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-6",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "dainn": {
+      "hook": {
+        "en": "dainn is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “the dead one”.",
+        "is": "dainn er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „hinn dauði“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-6",
+            "vsp-s11"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “the dead one”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „hinn dauði“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-6"
+          ]
+        },
+        {
+          "label": {
+            "en": "Also named",
+            "is": "Nefndur víðar"
+          },
+          "value": {
+            "en": "Elsewhere in the Eddas, outside the lists of dwarfs",
+            "is": "Annars staðar í Eddunum, utan dvergatalanna"
+          },
+          "ids": [],
+          "refs": [
+            "hav-s143",
+            "hdl-s7",
+            "fsl-s13"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-6",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        },
+        {
+          "row": "hav-s143",
+          "why": {
+            "en": "Named outside the lists.",
+            "is": "Nefndur utan dvergatalanna."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "bifurr": {
+      "hook": {
+        "en": "Bífurr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “quaking one, or beaver”.",
+        "is": "Bífurr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „sá sem titrar, eða bjór“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-6",
+            "vsp-s11"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “quaking one, or beaver”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „sá sem titrar, eða bjór“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-6",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "bafurr": {
+      "hook": {
+        "en": "Báfurr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “bean”.",
+        "is": "Báfurr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „baun“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-6",
+            "vsp-s11"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “bean”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „baun“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-6",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "bomburr": {
+      "hook": {
+        "en": "Bömburr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “drummer, or the swollen one”.",
+        "is": "Bömburr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „trommari, eða sá bólgni“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-6",
+            "vsp-s11"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “drummer, or the swollen one”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „trommari, eða sá bólgni“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-6",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "nori": {
+      "hook": {
+        "en": "Nóri is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “little shaver”.",
+        "is": "Nóri er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „lítill strákur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-6",
+            "vsp-s11"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “little shaver”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „lítill strákur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-6",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "ori": {
+      "hook": {
+        "en": "Óri is one of the dwarfs who live in stones; the name is read as “the violent one”.",
+        "is": "Óri er einn þeirra dverga sem búa í steinum; nafnið er skýrt sem „hinn ofsafengni“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who live in stones; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem búa í steinum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-6",
+            "g-c14-9",
+            "vsp-s15"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “the violent one”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „hinn ofsafengni“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-6"
+          ]
+        },
+        {
+          "label": {
+            "en": "Also named",
+            "is": "Nefndur víðar"
+          },
+          "value": {
+            "en": "Elsewhere in the Eddas, outside the lists of dwarfs",
+            "is": "Annars staðar í Eddunum, utan dvergatalanna"
+          },
+          "ids": [],
+          "refs": [
+            "fjm-s34"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-6",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        },
+        {
+          "row": "fjm-s34",
+          "why": {
+            "en": "Named outside the lists.",
+            "is": "Nefndur utan dvergatalanna."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "onarr": {
+      "hook": {
+        "en": "Ónarr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “starer”.",
+        "is": "Ónarr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „sá sem starir“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-6",
+            "vsp-s11"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “starer”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „sá sem starir“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-6",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "oinn": {
+      "hook": {
+        "en": "Óinn is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “shy”.",
+        "is": "Óinn er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „feiminn“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-6",
+            "vsp-s11"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “shy”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „feiminn“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-6",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "mjodvitnir": {
+      "hook": {
+        "en": "Mjöðvitnir is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “knowing in mead, or mead-wolf”.",
+        "is": "Mjöðvitnir er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „sá sem kann á mjöð, eða mjaðarúlfur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-6",
+            "vsp-s11"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “knowing in mead, or mead-wolf”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „sá sem kann á mjöð, eða mjaðarúlfur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-6",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "viggr": {
+      "hook": {
+        "en": "Viggr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “axe-bit”.",
+        "is": "Viggr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „axarblað“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7",
+            "vsp-s12"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “axe-bit”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „axarblað“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "gandalfr": {
+      "hook": {
+        "en": "Gandálfr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “wand-elf, or magic elf”.",
+        "is": "Gandálfr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „gandálfur, galdraálfur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7",
+            "vsp-s12"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “wand-elf, or magic elf”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „gandálfur, galdraálfur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "vindalfr": {
+      "hook": {
+        "en": "Vindalfr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “wind-elf”.",
+        "is": "Vindalfr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „vindálfur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7",
+            "vsp-s12"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “wind-elf”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „vindálfur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "thorinn": {
+      "hook": {
+        "en": "Þorinn is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “the daring, or bold”.",
+        "is": "Þorinn er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „hinn djarfi“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7",
+            "vsp-s12"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “the daring, or bold”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „hinn djarfi“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "fili": {
+      "hook": {
+        "en": "Fíli is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “the one who files, or file”.",
+        "is": "Fíli er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „sá sem sverfur, eða þjöl“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7",
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “the one who files, or file”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „sá sem sverfur, eða þjöl“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "kili": {
+      "hook": {
+        "en": "Kíli is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “wedge”.",
+        "is": "Kíli er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „fleygur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7",
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “wedge”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „fleygur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "fundinn": {
+      "hook": {
+        "en": "Fundinn is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “found”.",
+        "is": "Fundinn er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „fundinn“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7",
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “found”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „fundinn“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "vali-dwarf": {
+      "hook": {
+        "en": "Váli is one of the dwarfs who first came alive in Ymir's flesh and live in the earth.",
+        "is": "Váli er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "thror": {
+      "hook": {
+        "en": "Þrór is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “inciter of strife, or the thriving, or boar”.",
+        "is": "Þrór er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „sá sem vekur deilur, eða sá sem dafnar, eða göltur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7",
+            "vsp-s12"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “inciter of strife, or the thriving, or boar”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „sá sem vekur deilur, eða sá sem dafnar, eða göltur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "throinn": {
+      "hook": {
+        "en": "Þróinn is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “the threatening, or stubborn”.",
+        "is": "Þróinn er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „hinn ógnandi, eða þrjóskur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “the threatening, or stubborn”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „hinn ógnandi, eða þrjóskur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "thekkr": {
+      "hook": {
+        "en": "Þekkr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “the welcome one, or beloved”.",
+        "is": "Þekkr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „hinn kærkomni, eða ástkær“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7",
+            "vsp-s12"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “the welcome one, or beloved”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „hinn kærkomni, eða ástkær“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "litr": {
+      "hook": {
+        "en": "Litr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “countenance, or colour”.",
+        "is": "Litr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „ásjóna, eða litur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7",
+            "vsp-s12"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “countenance, or colour”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „ásjóna, eða litur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        },
+        {
+          "label": {
+            "en": "Also named",
+            "is": "Nefndur víðar"
+          },
+          "value": {
+            "en": "Elsewhere in the Eddas, outside the lists of dwarfs",
+            "is": "Annars staðar í Eddunum, utan dvergatalanna"
+          },
+          "ids": [],
+          "refs": [
+            "g-c49-15"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        },
+        {
+          "row": "g-c49-15",
+          "why": {
+            "en": "Named outside the lists.",
+            "is": "Nefndur utan dvergatalanna."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "vitr": {
+      "hook": {
+        "en": "Vitr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “wise”.",
+        "is": "Vitr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „vitur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7",
+            "vsp-s12"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “wise”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „vitur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "nyr": {
+      "hook": {
+        "en": "Nýr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “new”.",
+        "is": "Nýr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „nýr“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7",
+            "vsp-s12"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “new”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „nýr“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "nyradr": {
+      "hook": {
+        "en": "Nýráðr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “new counsel”.",
+        "is": "Nýráðr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „nýtt ráð“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7",
+            "vsp-s12"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “new counsel”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „nýtt ráð“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "rekkr": {
+      "hook": {
+        "en": "Rekkr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “warrior, hero, man”.",
+        "is": "Rekkr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „kappi, hetja, maður“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “warrior, hero, man”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „kappi, hetja, maður“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "radsvidr": {
+      "hook": {
+        "en": "Ráðsviðr is one of the dwarfs who first came alive in Ymir's flesh and live in the earth; the name is read as “wise in counsel”.",
+        "is": "Ráðsviðr er einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nafnið er skýrt sem „ráðsnjall“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who first came alive in Ymir's flesh and live in the earth; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem fyrst kviknuðu í holdi Ýmis og búa í moldinni; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-7",
+            "vsp-s12"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “wise in counsel”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „ráðsnjall“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-7"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-7",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "draupnir-dwarf": {
+      "hook": {
+        "en": "Draupnir is one of the dwarfs who live in stones; the name is read as “dropper, or dripper”.",
+        "is": "Draupnir er einn þeirra dverga sem búa í steinum; nafnið er skýrt sem „sá sem drýpur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who live in stones; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem búa í steinum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-9",
+            "vsp-s15"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “dropper, or dripper”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „sá sem drýpur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-9"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-9",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "dolgthvari": {
+      "hook": {
+        "en": "Dolgþvari is one of the dwarfs who live in stones.",
+        "is": "Dolgþvari er einn þeirra dverga sem búa í steinum."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who live in stones; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs",
+            "is": "Dvergur, einn þeirra dverga sem búa í steinum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-9"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-9",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "harr-dwarf": {
+      "hook": {
+        "en": "Hárr is one of the dwarfs who live in stones; the name is read as “the high one”.",
+        "is": "Hárr er einn þeirra dverga sem búa í steinum; nafnið er skýrt sem „hinn hái“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who live in stones; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem búa í steinum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-9",
+            "vsp-s15"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “the high one”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „hinn hái“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-9"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-9",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "hugstari": {
+      "hook": {
+        "en": "Hugstari is one of the dwarfs who live in stones; the name is read as “strategist, or the bold one”.",
+        "is": "Hugstari er einn þeirra dverga sem búa í steinum; nafnið er skýrt sem „herkænn, eða hinn djarfi“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who live in stones; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs",
+            "is": "Dvergur, einn þeirra dverga sem búa í steinum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-9"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “strategist, or the bold one”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „herkænn, eða hinn djarfi“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-9"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-9",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "hledjolfr": {
+      "hook": {
+        "en": "Hleðjolfr is one of the dwarfs who live in stones; the name is read as “shield-wolf”.",
+        "is": "Hleðjolfr er einn þeirra dverga sem búa í steinum; nafnið er skýrt sem „skjaldarúlfur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who live in stones; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs",
+            "is": "Dvergur, einn þeirra dverga sem búa í steinum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-9"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “shield-wolf”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „skjaldarúlfur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-9"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-9",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "gloinn": {
+      "hook": {
+        "en": "Glóinn is one of the dwarfs who live in stones.",
+        "is": "Glóinn er einn þeirra dverga sem búa í steinum."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who live in stones; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem búa í steinum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-9",
+            "vsp-s15"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-9",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "dori": {
+      "hook": {
+        "en": "Dóri is one of the dwarfs who live in stones; the name is read as “borer, or auger-man”.",
+        "is": "Dóri er einn þeirra dverga sem búa í steinum; nafnið er skýrt sem „borari“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who live in stones; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem búa í steinum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-9",
+            "vsp-s15"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “borer, or auger-man”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „borari“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-9"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-9",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "dufr": {
+      "hook": {
+        "en": "Dúfr is one of the dwarfs who live in stones; the name is read as “the crooked, or nodder”.",
+        "is": "Dúfr er einn þeirra dverga sem búa í steinum; nafnið er skýrt sem „hinn bogni, eða sá sem kinkar kolli“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who live in stones; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem búa í steinum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-9",
+            "vsp-s15"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “the crooked, or nodder”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „hinn bogni, eða sá sem kinkar kolli“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-9"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-9",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "heftifili": {
+      "hook": {
+        "en": "Heftifili is one of the dwarfs who live in stones; the name is read as “file with a handle”.",
+        "is": "Heftifili er einn þeirra dverga sem búa í steinum; nafnið er skýrt sem „þjöl með skafti“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who live in stones; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs",
+            "is": "Dvergur, einn þeirra dverga sem búa í steinum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-9"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “file with a handle”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „þjöl með skafti“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-9"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-9",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "sviurr": {
+      "hook": {
+        "en": "Svíurr is one of the dwarfs who live in stones; the name is read as “the disappearing one”.",
+        "is": "Svíurr er einn þeirra dverga sem búa í steinum; nafnið er skýrt sem „sá sem hverfur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of the dwarfs who live in stones; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn þeirra dverga sem búa í steinum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-9",
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “the disappearing one”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „sá sem hverfur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-9"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-9",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "lofarr": {
+      "hook": {
+        "en": "Lofarr is the dwarf after whom the third group of dwarfs is reckoned: his line went from Svarinshaugr to Aurvangar on Jöruvellir; the name is read as “stooper”.",
+        "is": "Lofarr er dvergurinn sem þriðji hópur dverganna er talinn til: ætt hans fór frá Svarinshaugi til Aurvanga á Jöruvöllum; nafnið er skýrt sem „sá sem lýtur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, the dwarf after whom the third group of dwarfs is reckoned: his line went from Svarinshaugr to Aurvangar on Jöruvellir; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, dvergurinn sem þriðji hópur dverganna er talinn til: ætt hans fór frá Svarinshaugi til Aurvanga á Jöruvöllum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "g-c14-10",
+            "vsp-s14",
+            "vsp-s16"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “stooper”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „sá sem lýtur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-10"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-10",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "skirfir": {
+      "hook": {
+        "en": "Skirfir is one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; the name is read as “skilful craftsman”.",
+        "is": "Skirfir er einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nafnið er skýrt sem „hagur smiður“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar",
+            "lofarr"
+          ],
+          "refs": [
+            "g-c14-11",
+            "vsp-s15"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “skilful craftsman”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „hagur smiður“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-11"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-11",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "virfir": {
+      "hook": {
+        "en": "Virfir is one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; the name is read as “dyer”.",
+        "is": "Virfir er einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nafnið er skýrt sem „litari“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar",
+            "lofarr"
+          ],
+          "refs": [
+            "g-c14-11",
+            "vsp-s15"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “dyer”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „litari“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-11"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-11",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "skafidr": {
+      "hook": {
+        "en": "Skáfiðr is one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; the name is read as “the scraper”.",
+        "is": "Skáfiðr er einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nafnið er skýrt sem „sá sem skefur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar",
+            "lofarr"
+          ],
+          "refs": [
+            "g-c14-11",
+            "vsp-s15"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “the scraper”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „sá sem skefur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-11"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-11",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "ai-dwarf": {
+      "hook": {
+        "en": "Ái is one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; the name is read as “great-grandfather”.",
+        "is": "Ái er einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nafnið er skýrt sem „langafi“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar",
+            "lofarr"
+          ],
+          "refs": [
+            "g-c14-11",
+            "vsp-s15"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “great-grandfather”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „langafi“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-11"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-11",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "alfr-dwarf": {
+      "hook": {
+        "en": "Alfr is one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; the name is read as “elf”.",
+        "is": "Alfr er einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nafnið er skýrt sem „álfur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar",
+            "lofarr"
+          ],
+          "refs": [
+            "g-c14-11",
+            "vsp-s16"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “elf”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „álfur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-11"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-11",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "yngvi-dwarf": {
+      "hook": {
+        "en": "Yngvi is one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; the name is read as “prince, or warrior”.",
+        "is": "Yngvi er einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nafnið er skýrt sem „höfðingi, eða kappi“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar",
+            "lofarr"
+          ],
+          "refs": [
+            "g-c14-11",
+            "vsp-s16"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “prince, or warrior”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „höfðingi, eða kappi“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-11"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-11",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "eikinskjaldi": {
+      "hook": {
+        "en": "Eikinskjaldi is one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; the name is read as “oaken shield”.",
+        "is": "Eikinskjaldi er einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nafnið er skýrt sem „eikarskjöldur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar",
+            "lofarr"
+          ],
+          "refs": [
+            "g-c14-11",
+            "vsp-s13",
+            "vsp-s16"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “oaken shield”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „eikarskjöldur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-11"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-11",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "falr": {
+      "hook": {
+        "en": "Falr is one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir.",
+        "is": "Falr er einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs",
+            "is": "Dvergur, einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár"
+          },
+          "ids": [
+            "dvergar",
+            "lofarr"
+          ],
+          "refs": [
+            "g-c14-11"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-11",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "frosti": {
+      "hook": {
+        "en": "Frosti is one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; the name is read as “frosty”.",
+        "is": "Frosti er einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nafnið er skýrt sem „frostlegur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar",
+            "lofarr"
+          ],
+          "refs": [
+            "g-c14-11",
+            "vsp-s16"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “frosty”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „frostlegur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-11"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-11",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "fidr": {
+      "hook": {
+        "en": "Fiðr is one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir.",
+        "is": "Fiðr er einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs",
+            "is": "Dvergur, einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár"
+          },
+          "ids": [
+            "dvergar",
+            "lofarr"
+          ],
+          "refs": [
+            "g-c14-11"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-11",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "ginnarr": {
+      "hook": {
+        "en": "Ginnarr is one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; the name is read as “deceiver”.",
+        "is": "Ginnarr er einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nafnið er skýrt sem „blekkjari“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, one of Lofarr's line, the dwarfs who went from Svarinshaugr to Aurvangar on Jöruvellir; named in Gylfaginning 14, where Snorri quotes Völuspá's list of dwarfs, and Völuspá",
+            "is": "Dvergur, einn af ætt Lofars, dvergunum sem fóru frá Svarinshaugi til Aurvanga á Jöruvöllum; nefndur í 14. kafla Gylfaginningar, þar sem Snorri fer með dvergatal Völuspár, og í Völuspá"
+          },
+          "ids": [
+            "dvergar",
+            "lofarr"
+          ],
+          "refs": [
+            "g-c14-11",
+            "vsp-s16"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “deceiver”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „blekkjari“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c14-11"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c14-11",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "ann": {
+      "hook": {
+        "en": "Ánn is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “without”.",
+        "is": "Ánn er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „án“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s11"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “without”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „án“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s11"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s11",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "thrainn": {
+      "hook": {
+        "en": "Þráinn is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “the threatening, or stubborn”.",
+        "is": "Þráinn er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „hinn ógnandi, eða þrjóskur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s12"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “the threatening, or stubborn”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „hinn ógnandi, eða þrjóskur“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s12"
+          ]
+        },
+        {
+          "label": {
+            "en": "Also named",
+            "is": "Nefndur víðar"
+          },
+          "value": {
+            "en": "Elsewhere in the Eddas, outside the lists of dwarfs",
+            "is": "Annars staðar í Eddunum, utan dvergatalanna"
+          },
+          "ids": [],
+          "refs": [
+            "fsl-s3"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s12",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        },
+        {
+          "row": "fsl-s3",
+          "why": {
+            "en": "Named outside the lists.",
+            "is": "Nefndur utan dvergatalanna."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "nali": {
+      "hook": {
+        "en": "Náli is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “corpse, or needle”.",
+        "is": "Náli er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „lík, eða nál“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “corpse, or needle”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „lík, eða nál“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s13"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s13",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "hefti": {
+      "hook": {
+        "en": "Hefti is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “impeding”.",
+        "is": "Hefti er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „sá sem heftir“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “impeding”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „sá sem heftir“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s13"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s13",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "vili-dwarf": {
+      "hook": {
+        "en": "Víli is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “will”.",
+        "is": "Víli er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „vilji“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “will”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „vilji“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s13"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s13",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "hannarr": {
+      "hook": {
+        "en": "Hannarr is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “the skilful”.",
+        "is": "Hannarr er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „hinn hagi“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “the skilful”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „hinn hagi“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s13"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s13",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "billingr": {
+      "hook": {
+        "en": "Billingr is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “twin brother”.",
+        "is": "Billingr er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „tvíburabróðir“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “twin brother”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „tvíburabróðir“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s13"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s13",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "bruni": {
+      "hook": {
+        "en": "Brúni is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “dark brown”.",
+        "is": "Brúni er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „dökkbrúnn“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “dark brown”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „dökkbrúnn“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s13"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s13",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "bildr": {
+      "hook": {
+        "en": "Bíldr is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “edged weapon”.",
+        "is": "Bíldr er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „egg, bíldur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “edged weapon”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „egg, bíldur“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s13"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s13",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "buri-dwarf": {
+      "hook": {
+        "en": "Buri is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “progenitor, or son”.",
+        "is": "Buri er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „forfaðir, eða sonur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “progenitor, or son”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „forfaðir, eða sonur“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s13"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s13",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "frar": {
+      "hook": {
+        "en": "Frár is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “swift”.",
+        "is": "Frár er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „fljótur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “swift”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „fljótur“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s13"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s13",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "hornbori": {
+      "hook": {
+        "en": "Hornbori is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “horn-borer”.",
+        "is": "Hornbori er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „hornbori“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “horn-borer”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „hornbori“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s13"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s13",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "fraegr": {
+      "hook": {
+        "en": "Frægr is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “famous”.",
+        "is": "Frægr er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „frægur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “famous”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „frægur“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s13"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s13",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "loni": {
+      "hook": {
+        "en": "Lóni is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “lazy one”.",
+        "is": "Lóni er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „letingi“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “lazy one”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „letingi“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s13"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s13",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "aurvangr": {
+      "hook": {
+        "en": "Aurvangr is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “mud-field, or gravelly plain”.",
+        "is": "Aurvangr er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „aurvöllur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “mud-field, or gravelly plain”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „aurvöllur“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s13"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s13",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "jari": {
+      "hook": {
+        "en": "Jari is a dwarf named only in Völuspá's list, not in Snorri's; the name is read as “the disputing, or warrior”.",
+        "is": "Jari er dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nafnið er skýrt sem „sá sem deilir, eða kappi“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf named only in Völuspá's list, not in Snorri's; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur sem aðeins er nefndur í dvergatali Völuspár, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar"
+          ],
+          "refs": [
+            "vsp-s13"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “the disputing, or warrior”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „sá sem deilir, eða kappi“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s13"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s13",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "dolgthrasir": {
+      "hook": {
+        "en": "Dolgþrasir is a dwarf of Lofarr's line named only in Völuspá, not in Snorri's list; the name is read as “battle-eager”.",
+        "is": "Dolgþrasir er dvergur af ætt Lofars sem aðeins er nefndur í Völuspá, ekki í tali Snorra; nafnið er skýrt sem „bardagafús“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf of Lofarr's line named only in Völuspá, not in Snorri's list; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur af ætt Lofars sem aðeins er nefndur í Völuspá, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar",
+            "lofarr"
+          ],
+          "refs": [
+            "vsp-s15"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “battle-eager”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „bardagafús“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s15"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s15",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "haugspori": {
+      "hook": {
+        "en": "Haugspori is a dwarf of Lofarr's line named only in Völuspá, not in Snorri's list; the name is read as “howe-treader”.",
+        "is": "Haugspori er dvergur af ætt Lofars sem aðeins er nefndur í Völuspá, ekki í tali Snorra; nafnið er skýrt sem „sá sem treður hauga“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf of Lofarr's line named only in Völuspá, not in Snorri's list; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur af ætt Lofars sem aðeins er nefndur í Völuspá, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar",
+            "lofarr"
+          ],
+          "refs": [
+            "vsp-s15"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “howe-treader”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „sá sem treður hauga“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s15"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s15",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "hlevangr": {
+      "hook": {
+        "en": "Hlévangr is a dwarf of Lofarr's line named only in Völuspá, not in Snorri's list; the name is read as “sheltered plain, or grave-mound”.",
+        "is": "Hlévangr er dvergur af ætt Lofars sem aðeins er nefndur í Völuspá, ekki í tali Snorra; nafnið er skýrt sem „skjólsæll völlur, eða haugur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf of Lofarr's line named only in Völuspá, not in Snorri's list; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur af ætt Lofars sem aðeins er nefndur í Völuspá, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar",
+            "lofarr"
+          ],
+          "refs": [
+            "vsp-s15"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “sheltered plain, or grave-mound”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „skjólsæll völlur, eða haugur“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s15"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s15",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "finnr-dwarf": {
+      "hook": {
+        "en": "Finnr is a dwarf of Lofarr's line named only in Völuspá, not in Snorri's list; the name is read as “Lapp, or magician”.",
+        "is": "Finnr er dvergur af ætt Lofars sem aðeins er nefndur í Völuspá, ekki í tali Snorra; nafnið er skýrt sem „Sami, eða galdramaður“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A dwarf, a dwarf of Lofarr's line named only in Völuspá, not in Snorri's list; named in Völuspá's list of dwarfs",
+            "is": "Dvergur, dvergur af ætt Lofars sem aðeins er nefndur í Völuspá, ekki í tali Snorra; nefndur í dvergatali Völuspár"
+          },
+          "ids": [
+            "dvergar",
+            "lofarr"
+          ],
+          "refs": [
+            "vsp-s16"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's list of dwarfs reads the name as “Lapp, or magician”",
+            "is": "Listi Wikipedia yfir dverga skýrir nafnið sem „Sami, eða galdramaður“"
+          },
+          "ids": [],
+          "refs": [
+            "vsp-s16"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "vsp-s16",
+          "why": {
+            "en": "Where the name stands in the list of dwarfs.",
+            "is": "Þar sem nafnið stendur í dvergatalinu."
+          }
+        }
+      ],
+      "stories": [
+        "the-dwarves-are-made"
+      ],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "glenr-horse": {
+      "hook": {
+        "en": "Glenr is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill. It has the same name as Glenr, the husband of Sól.",
+        "is": "Glenr er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil. Hann ber sama nafn og Glenr, eiginmaður Sólar."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6"
+          ]
+        },
+        {
+          "label": {
+            "en": "Same name",
+            "is": "Sama nafn"
+          },
+          "value": {
+            "en": "Glenr is also the man Mundilfari married his daughter Sól to",
+            "is": "Glenr er líka maðurinn sem Mundilfari gifti Sól dóttur sína"
+          },
+          "ids": [
+            "glenr",
+            "sol"
+          ],
+          "refs": [
+            "g-c11-2"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "gisl": {
+      "hook": {
+        "en": "Gísl is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “beam, or ray”.",
+        "is": "Gísl er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „geisli“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "s-c72-4",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “beam, or ray”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „geisli“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "glaer": {
+      "hook": {
+        "en": "Glær is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “clear, or glassy”.",
+        "is": "Glær er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „tær, eða glær“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "s-c72-4",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “clear, or glassy”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „tær, eða glær“"
+          },
+          "ids": [],
+          "refs": [
+            "s-c72-4"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "s-c72-4",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "gladr": {
+      "hook": {
+        "en": "Glaðr is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “glad, or bright”.",
+        "is": "Glaðr er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „glaður, eða bjartur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "s-c72-9"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “glad, or bright”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „glaður, eða bjartur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "gyllir": {
+      "hook": {
+        "en": "Gyllir is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “golden”.",
+        "is": "Gyllir er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „gullinn“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "s-c72-4",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “golden”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „gullinn“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "skeidbrimir": {
+      "hook": {
+        "en": "Skeidbrimir is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “the one that snorts as he runs”.",
+        "is": "Skeidbrimir er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „sá sem fnæsir á skeiði“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "s-c72-4",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “the one that snorts as he runs”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „sá sem fnæsir á skeiði“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "silfrintoppr": {
+      "hook": {
+        "en": "Silfrintoppr is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “silver-tuft”.",
+        "is": "Silfrintoppr er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „silfurtoppur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “silver-tuft”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „silfurtoppur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "sinir": {
+      "hook": {
+        "en": "Sinir is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “sinewy”.",
+        "is": "Sinir er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „sinaber“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "s-c72-3",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “sinewy”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „sinaber“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "falhofnir": {
+      "hook": {
+        "en": "Falhófnir is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “hairy-hoof, or hidden-hoof, or pale-hoof”.",
+        "is": "Falhófnir er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „hærður hófur, eða hulinn hófur, eða fölur hófur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "s-c72-4",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “hairy-hoof, or hidden-hoof, or pale-hoof”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „hærður hófur, eða hulinn hófur, eða fölur hófur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
+    },
+    "lettfeti": {
+      "hook": {
+        "en": "Lettfeti is one of the horses the Æsir ride each day over Bifröst to their court at Yggdrasill; the name is read as “light-foot”.",
+        "is": "Lettfeti er einn þeirra hesta sem æsir ríða dag hvern um Bifröst til dóms síns við Yggdrasil; nafnið er skýrt sem „léttfættur“."
+      },
+      "facts": [
+        {
+          "label": {
+            "en": "Who",
+            "is": "Hver"
+          },
+          "value": {
+            "en": "A horse of the Æsir, named in the list of their horses; the list does not say which god rides it",
+            "is": "Hestur ása, nefndur í tali hesta þeirra; þar segir ekki hvaða goð ríður honum"
+          },
+          "ids": [
+            "aesir",
+            "bifrost",
+            "yggdrasil"
+          ],
+          "refs": [
+            "g-c15-6",
+            "s-c72-2",
+            "grm-s30",
+            "ebr-v8"
+          ]
+        },
+        {
+          "label": {
+            "en": "The name",
+            "is": "Nafnið"
+          },
+          "value": {
+            "en": "Wikipedia's article on the horses of the Æsir reads the name as “light-foot”",
+            "is": "Grein Wikipedia um hesta ása skýrir nafnið sem „léttfættur“"
+          },
+          "ids": [],
+          "refs": [
+            "g-c15-6"
+          ]
+        }
+      ],
+      "best": [
+        {
+          "row": "g-c15-6",
+          "why": {
+            "en": "The list of the gods' horses.",
+            "is": "Tal hesta goðanna."
+          }
+        }
+      ],
+      "stories": [],
+      "myths": [],
+      "related": [],
+      "status": "draft",
+      "by": "claude"
     }
   }
 }

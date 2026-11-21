@@ -134,7 +134,6 @@
     "on": [
      "Óðinn",
      "Óðins",
-     "Hárr",
      "Hárbarðr",
      "Alföðr",
      "Óðni",
@@ -202,9 +201,9 @@
     "is": [
      "Óðinn",
      "Óðins",
-     "Hár",
      "Hárbarður",
      "Alföður",
+     "Hár",
      "Óðni",
      "Bölverkur",
      "Jafnhár",
@@ -269,14 +268,14 @@
     "en": [
      "Odin",
      "Othin",
-     "Hárr",
      "Harbarth",
      "Odin's",
      "Othin's",
      "Óðinn",
      "Bölverkr",
-     "Jafnhárr",
+     "Hárr",
      "Thridi",
+     "Jafnhárr",
      "Gagnrath",
      "Grimnir",
      "Hnikar",
@@ -418,8 +417,8 @@
     "snorri": "p-c3-2",
     "poetic": "vsp-s1"
    },
-   "mentions": 518,
-   "narrative": 467,
+   "mentions": 461,
+   "narrative": 410,
    "check": 0,
    "card": true,
    "status": "auto",
@@ -1080,7 +1079,7 @@
     "poetic": "vsp-s9"
    },
    "mentions": 80,
-   "narrative": 79,
+   "narrative": 78,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -1837,14 +1836,14 @@
    "heiti": {},
    "first": {
     "snorri": "s-c46-2",
-    "poetic": "vsp-s12"
+    "poetic": "rm-p1"
    },
    "first_any": {
     "snorri": "s-c46-2",
     "poetic": "vsp-s12"
    },
    "mentions": 47,
-   "narrative": 47,
+   "narrative": 46,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -3290,6 +3289,68 @@
    "status": "auto",
    "notes": [
     "added by rules.json"
+   ]
+  },
+  {
+   "id": "norns",
+   "tags": [
+    "norn",
+    "people"
+   ],
+   "type": "norn",
+   "wikidata": null,
+   "names": {
+    "on": "Nornir",
+    "is": "Nornir",
+    "en": "Norns"
+   },
+   "desc": {
+    "en": "the women who shape fate"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "nornir",
+     "norna",
+     "norn",
+     "Norna",
+     "nornar",
+     "nornum"
+    ],
+    "is": [
+     "nornir",
+     "norna",
+     "norn",
+     "Norna",
+     "nornar",
+     "nornum"
+    ],
+    "en": [
+     "Norns",
+     "norns",
+     "Norn"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c15-9",
+    "poetic": "hh1-s2"
+   },
+   "first_any": {
+    "snorri": "g-c15-9",
+    "poetic": "hh1-s2"
+   },
+   "mentions": 26,
+   "narrative": 26,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added from the cloud message of 2026-11-08 (norns)"
    ]
   },
   {
@@ -5527,128 +5588,6 @@
    "notes": []
   },
   {
-   "id": "vali-2",
-   "tags": [
-    "person"
-   ],
-   "type": "person",
-   "wikidata": "Q2646624",
-   "names": {
-    "de": "Ali (Riese)",
-    "nn": "Vale",
-    "en": "Váli",
-    "nb": "Vale",
-    "sv": "Vale",
-    "ru": "Вали",
-    "da": "Vale"
-   },
-   "desc": {
-    "en": "figure in Norse mythology, son of Loki"
-   },
-   "image": null,
-   "image_candidates": [],
-   "coords": null,
-   "wiki": {
-    "enwiki": "Váli (son of Loki)",
-    "nowiki": "Vale",
-    "nnwiki": "Vale",
-    "dewiki": "Ali (Riese)"
-   },
-   "image_source": null,
-   "forms": {
-    "on": [
-     "Váli",
-     "Vála",
-     "Vali"
-    ],
-    "is": [
-     "Váli",
-     "Vála",
-     "Vali"
-    ],
-    "en": [
-     "Váli",
-     "Vali",
-     "Valr",
-     "Váli's"
-    ]
-   },
-   "heiti": {},
-   "first": {
-    "snorri": "g-c14-7",
-    "poetic": "vsp-s34"
-   },
-   "first_any": {
-    "snorri": "g-c14-7",
-    "poetic": "vsp-s34"
-   },
-   "mentions": 17,
-   "narrative": 16,
-   "check": 0,
-   "card": false,
-   "status": "auto",
-   "notes": []
-  },
-  {
-   "id": "dvalinn",
-   "tags": [
-    "animal"
-   ],
-   "type": "animal",
-   "wikidata": "Q118525447",
-   "names": {
-    "nb": "Dvalin",
-    "en": "Dvalinn",
-    "nn": "Dvalin",
-    "da": "Dvalin",
-    "de": "Dwalin",
-    "sv": "Dvalin"
-   },
-   "desc": {
-    "en": "stag in the Prose Edda"
-   },
-   "image": null,
-   "image_candidates": [],
-   "coords": null,
-   "wiki": {
-    "nowiki": "Dvalin",
-    "dewiki": "Dvalarr"
-   },
-   "image_source": null,
-   "forms": {
-    "on": [
-     "Dvalinn",
-     "Dvalins"
-    ],
-    "is": [
-     "Dvalinn",
-     "Dvalins"
-    ],
-    "en": [
-     "Dvalinn",
-     "Dvalin",
-     "Dvalin's",
-     "Dvalinn's",
-     "Dvalin’s"
-    ]
-   },
-   "heiti": {},
-   "first": {
-    "snorri": "g-c14-6",
-    "poetic": "vsp-s11"
-   },
-   "first_any": {
-    "snorri": "g-c14-6",
-    "poetic": "vsp-s11"
-   },
-   "mentions": 16,
-   "narrative": 13,
-   "check": 0,
-   "card": false,
-   "status": "auto",
-   "notes": []
-  },
-  {
    "id": "hjorvardr",
    "tags": [
     "hero"
@@ -5817,6 +5756,69 @@
    "narrative": 16,
    "check": 0,
    "card": true,
+   "status": "auto",
+   "notes": []
+  },
+  {
+   "id": "vali-2",
+   "tags": [
+    "person"
+   ],
+   "type": "person",
+   "wikidata": "Q2646624",
+   "names": {
+    "de": "Ali (Riese)",
+    "nn": "Vale",
+    "en": "Váli",
+    "nb": "Vale",
+    "sv": "Vale",
+    "ru": "Вали",
+    "da": "Vale"
+   },
+   "desc": {
+    "en": "figure in Norse mythology, son of Loki"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {
+    "enwiki": "Váli (son of Loki)",
+    "nowiki": "Vale",
+    "nnwiki": "Vale",
+    "dewiki": "Ali (Riese)"
+   },
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Váli",
+     "Vála",
+     "Vali"
+    ],
+    "is": [
+     "Váli",
+     "Vála",
+     "Vali"
+    ],
+    "en": [
+     "Váli",
+     "Vali",
+     "Valr",
+     "Váli's"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c30-1",
+    "poetic": "vsp-s34"
+   },
+   "first_any": {
+    "snorri": "g-c30-1",
+    "poetic": "vsp-s34"
+   },
+   "mentions": 16,
+   "narrative": 15,
+   "check": 0,
+   "card": false,
    "status": "auto",
    "notes": []
   },
@@ -6821,6 +6823,67 @@
    "notes": []
   },
   {
+   "id": "dvalinn",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": "Q118525447",
+   "names": {
+    "nb": "Dvalin",
+    "en": "Dvalinn",
+    "nn": "Dvalin",
+    "da": "Dvalin",
+    "de": "Dwalin",
+    "sv": "Dvalin"
+   },
+   "desc": {
+    "en": "dwarf, whose name stands for the dwarfs in many kennings; he cut runes for the dwarfs"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {
+    "nowiki": "Dvalin",
+    "dewiki": "Dvalarr"
+   },
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Dvalins",
+     "Dvalinn"
+    ],
+    "is": [
+     "Dvalins",
+     "Dvalinn"
+    ],
+    "en": [
+     "Dvalinn",
+     "Dvalin",
+     "Dvalin's",
+     "Dvalinn's",
+     "Dvalin’s"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c15-10",
+    "poetic": "vsp-s14"
+   },
+   "first_any": {
+    "snorri": "g-c14-6",
+    "poetic": "vsp-s11"
+   },
+   "mentions": 13,
+   "narrative": 9,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "2026-11-21: the dwarf (most mentions); the stag of Gylfaginning 16, Grímnismál 33 and the stag names of Skáldskaparmál is now its own entry (rules.json extra)"
+   ]
+  },
+  {
    "id": "erpr",
    "tags": [
     "hero"
@@ -6920,49 +6983,6 @@
    "card": false,
    "status": "auto",
    "notes": []
-  },
-  {
-   "id": "yngvi",
-   "tags": [
-    "god"
-   ],
-   "type": "god",
-   "wikidata": "Q965980",
-   "names": {
-    "on": "Yngvi",
-    "en": "Yngvi"
-   },
-   "desc": {},
-   "image": null,
-   "image_candidates": [],
-   "coords": null,
-   "wiki": {},
-   "image_source": null,
-   "forms": {
-    "on": [
-     "Yngva",
-     "Yngvi"
-    ],
-    "is": [
-     "Yngja",
-     "Yngvi"
-    ],
-    "en": [
-     "Yngvi",
-     "Yngvi's"
-    ]
-   },
-   "heiti": {},
-   "first": {},
-   "first_any": {},
-   "mentions": 13,
-   "narrative": 0,
-   "check": 13,
-   "card": false,
-   "status": "auto",
-   "notes": [
-    "amb: Yngvi-Freyr / human Yngvi"
-   ]
   },
   {
    "id": "bodvildr",
@@ -8117,15 +8137,15 @@
    },
    "heiti": {},
    "first": {
-    "snorri": "g-c14-9",
-    "poetic": "vsp-s15"
+    "snorri": "s-c46-3",
+    "poetic": "rm-p1"
    },
    "first_any": {
     "snorri": "g-c14-9",
     "poetic": "vsp-s15"
    },
    "mentions": 10,
-   "narrative": 10,
+   "narrative": 8,
    "check": 0,
    "card": true,
    "status": "auto",
@@ -8234,71 +8254,6 @@
    "notes": [
     "added 2026-11-21: a group, written as an ordinary noun in the Old Norse; rules.json `groups` lists its word forms (Grigory: every occurrence marked)"
    ]
-  },
-  {
-   "id": "draupnir",
-   "tags": [
-    "object"
-   ],
-   "type": "object",
-   "wikidata": "Q827875",
-   "names": {
-    "is": "Draupnir",
-    "ru": "Драупнир",
-    "en": "Draupnir",
-    "de": "Draupnir",
-    "nn": "Draupner",
-    "da": "Draupner",
-    "sv": "Draupner",
-    "nb": "Draupne"
-   },
-   "desc": {
-    "en": "gold ring possessed by the god Odin in Norse mythology"
-   },
-   "image": null,
-   "image_candidates": [],
-   "coords": null,
-   "wiki": {
-    "enwiki": "Draupnir",
-    "iswiki": "Draupnir (norræn goðafræði)",
-    "ruwiki": "Драупнир",
-    "nowiki": "Draupne",
-    "nnwiki": "Draupne",
-    "dewiki": "Draupnir"
-   },
-   "image_source": null,
-   "forms": {
-    "on": [
-     "Draupnis",
-     "Draupnir",
-     "Draupni"
-    ],
-    "is": [
-     "Draupnis",
-     "Draupnir",
-     "Draupni"
-    ],
-    "en": [
-     "Draupnir",
-     "Draupnir's",
-     "Draupnirand"
-    ]
-   },
-   "heiti": {},
-   "first": {
-    "snorri": "g-c14-9",
-    "poetic": "vsp-s15"
-   },
-   "first_any": {
-    "snorri": "g-c14-9",
-    "poetic": "vsp-s15"
-   },
-   "mentions": 10,
-   "narrative": 10,
-   "check": 0,
-   "card": false,
-   "status": "auto",
-   "notes": []
   },
   {
    "id": "gefjon",
@@ -9543,75 +9498,6 @@
    ]
   },
   {
-   "id": "laufey",
-   "tags": [
-    "goddess"
-   ],
-   "type": "goddess",
-   "wikidata": "Q607641",
-   "names": {
-    "da": "Laufey",
-    "de": "Laufey",
-    "en": "Laufey",
-    "ru": "Лаувейя",
-    "sv": "Laufey",
-    "nb": "Lauvøy",
-    "is": "Laufey"
-   },
-   "desc": {
-    "en": "Norse mythical character; goddess"
-   },
-   "image": null,
-   "image_candidates": [],
-   "coords": null,
-   "wiki": {
-    "enwiki": "Laufey (mythology)",
-    "iswiki": "Laufey (norræn goðafræði)",
-    "ruwiki": "Лаувейя",
-    "nowiki": "Lauvøy",
-    "dewiki": "Laufey"
-   },
-   "image_source": null,
-   "forms": {
-    "on": [
-     "Laufeyjar",
-     "Nálar",
-     "Laufey",
-     "Nál",
-     "Náli"
-    ],
-    "is": [
-     "Laufeyjar",
-     "Nálar",
-     "Laufey",
-     "Nál",
-     "Náli"
-    ],
-    "en": [
-     "Laufey",
-     "Laufey's",
-     "Nal",
-     "Nali",
-     "Nál"
-    ]
-   },
-   "heiti": {},
-   "first": {
-    "snorri": "g-c33-1",
-    "poetic": "vsp-s13"
-   },
-   "first_any": {
-    "snorri": "g-c33-1",
-    "poetic": "vsp-s13"
-   },
-   "mentions": 9,
-   "narrative": 9,
-   "check": 0,
-   "card": false,
-   "status": "auto",
-   "notes": []
-  },
-  {
    "id": "muspelheim",
    "tags": [
     "place_myth"
@@ -10100,53 +9986,110 @@
    "notes": []
   },
   {
-   "id": "dainn",
+   "id": "yngvi",
    "tags": [
-    "animal"
+    "god"
    ],
-   "type": "animal",
-   "wikidata": "Q17768528",
+   "type": "god",
+   "wikidata": "Q965980",
    "names": {
-    "nb": "Dåin",
-    "en": "Dáinn",
-    "nn": "Dåin",
-    "da": "Dain",
-    "de": "Dain",
-    "sv": "Dain"
+    "on": "Yngvi",
+    "en": "Yngvi"
+   },
+   "desc": {},
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Yngva",
+     "Yngvi"
+    ],
+    "is": [
+     "Yngja"
+    ],
+    "en": [
+     "Yngvi",
+     "Yngvi's"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "p-c5-2",
+    "poetic": "hh1-s52"
+   },
+   "first_any": {
+    "snorri": "p-c5-2",
+    "poetic": "hh1-s52"
+   },
+   "mentions": 9,
+   "narrative": 7,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "amb: Yngvi-Freyr / human Yngvi"
+   ]
+  },
+  {
+   "id": "draupnir",
+   "tags": [
+    "object"
+   ],
+   "type": "object",
+   "wikidata": "Q827875",
+   "names": {
+    "is": "Draupnir",
+    "ru": "Драупнир",
+    "en": "Draupnir",
+    "de": "Draupnir",
+    "nn": "Draupner",
+    "da": "Draupner",
+    "sv": "Draupner",
+    "nb": "Draupne"
    },
    "desc": {
-    "en": "stag in the Prose Edda"
+    "en": "gold ring possessed by the god Odin in Norse mythology"
    },
    "image": null,
    "image_candidates": [],
    "coords": null,
    "wiki": {
-    "nowiki": "Dåin (hjort)"
+    "enwiki": "Draupnir",
+    "iswiki": "Draupnir (norræn goðafræði)",
+    "ruwiki": "Драупнир",
+    "nowiki": "Draupne",
+    "nnwiki": "Draupne",
+    "dewiki": "Draupnir"
    },
    "image_source": null,
    "forms": {
     "on": [
-     "Dáinn"
+     "Draupnis",
+     "Draupnir",
+     "Draupni"
     ],
     "is": [
-     "Dáinn"
+     "Draupnis",
+     "Draupnir",
+     "Draupni"
     ],
     "en": [
-     "Dain",
-     "Dáinn"
+     "Draupnir",
+     "Draupnir's"
     ]
    },
    "heiti": {},
    "first": {
-    "snorri": "g-c14-6",
-    "poetic": "vsp-s11"
+    "snorri": "g-c49-15"
    },
    "first_any": {
-    "snorri": "g-c14-6",
-    "poetic": "vsp-s11"
+    "snorri": "g-c49-15"
    },
    "mentions": 8,
-   "narrative": 7,
+   "narrative": 8,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -10408,6 +10351,72 @@
    "first_any": {
     "snorri": "s-c50-3",
     "poetic": "sg-s62"
+   },
+   "mentions": 8,
+   "narrative": 8,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": []
+  },
+  {
+   "id": "laufey",
+   "tags": [
+    "goddess"
+   ],
+   "type": "goddess",
+   "wikidata": "Q607641",
+   "names": {
+    "da": "Laufey",
+    "de": "Laufey",
+    "en": "Laufey",
+    "ru": "Лаувейя",
+    "sv": "Laufey",
+    "nb": "Lauvøy",
+    "is": "Laufey"
+   },
+   "desc": {
+    "en": "Norse mythical character; goddess"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {
+    "enwiki": "Laufey (mythology)",
+    "iswiki": "Laufey (norræn goðafræði)",
+    "ruwiki": "Лаувейя",
+    "nowiki": "Lauvøy",
+    "dewiki": "Laufey"
+   },
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Laufeyjar",
+     "Nálar",
+     "Laufey",
+     "Nál"
+    ],
+    "is": [
+     "Laufeyjar",
+     "Nálar",
+     "Laufey",
+     "Nál"
+    ],
+    "en": [
+     "Laufey",
+     "Laufey's",
+     "Nal",
+     "Nál"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c33-1",
+    "poetic": "ls-s52"
+   },
+   "first_any": {
+    "snorri": "g-c33-1",
+    "poetic": "ls-s52"
    },
    "mentions": 8,
    "narrative": 8,
@@ -13946,57 +13955,45 @@
    ]
   },
   {
-   "id": "annar",
+   "id": "austri",
    "tags": [
-    "god"
+    "dwarf"
    ],
-   "type": "god",
-   "wikidata": "Q2573198",
+   "type": "dwarf",
+   "wikidata": null,
    "names": {
-    "on": "Ánarr",
-    "en": "Annar",
-    "sv": "Anar",
-    "de": "Ánarr",
-    "ru": "Анар"
+    "on": "Austri",
+    "en": "Austri"
    },
-   "desc": {
-    "en": "Norse deity"
-   },
+   "desc": {},
    "image": null,
    "image_candidates": [],
    "coords": null,
-   "wiki": {
-    "enwiki": "Annar",
-    "ruwiki": "Анар (мифология)"
-   },
+   "wiki": {},
    "image_source": null,
    "forms": {
     "on": [
-     "Ónars",
-     "Ánarr"
+     "Austri",
+     "Austra"
     ],
     "is": [
-     "Ónars",
-     "Annar",
-     "Ánar"
+     "Austri",
+     "Austra"
     ],
     "en": [
-     "Ónarr",
-     "Annarr",
-     "Onar"
+     "Austri"
     ]
    },
    "heiti": {},
    "first": {
-    "snorri": "g-c10-1",
-    "poetic": "vsp-s11"
+    "snorri": "g-c8-4"
    },
    "first_any": {
-    "snorri": "g-c10-1",
+    "snorri": "g-c8-4",
     "poetic": "vsp-s11"
    },
    "mentions": 5,
-   "narrative": 5,
+   "narrative": 3,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -14216,6 +14213,60 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "dainn",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": "Q17768528",
+   "names": {
+    "nb": "Dåin",
+    "en": "Dáinn",
+    "nn": "Dåin",
+    "da": "Dain",
+    "de": "Dain",
+    "sv": "Dain"
+   },
+   "desc": {
+    "en": "dwarf; also the name of a stag of Yggdrasill (a separate entry)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {
+    "nowiki": "Dåin (hjort)"
+   },
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Dáinn"
+    ],
+    "is": [
+     "Dáinn"
+    ],
+    "en": [
+     "Dain",
+     "Dáinn"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "poetic": "hav-s143"
+   },
+   "first_any": {
+    "snorri": "g-c14-6",
+    "poetic": "vsp-s11"
+   },
+   "mentions": 5,
+   "narrative": 3,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "2026-11-21: the dwarf (most mentions); the stag of Gylfaginning 16, Grímnismál 33 and the stag names of Skáldskaparmál is now its own entry (rules.json extra)"
+   ]
   },
   {
    "id": "forseti",
@@ -15977,6 +16028,59 @@
    "notes": []
   },
   {
+   "id": "annar",
+   "tags": [
+    "god"
+   ],
+   "type": "god",
+   "wikidata": "Q2573198",
+   "names": {
+    "on": "Ánarr",
+    "en": "Annar",
+    "sv": "Anar",
+    "de": "Ánarr",
+    "ru": "Анар"
+   },
+   "desc": {
+    "en": "Norse deity"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {
+    "enwiki": "Annar",
+    "ruwiki": "Анар (мифология)"
+   },
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Ónars",
+     "Ánarr"
+    ],
+    "is": [
+     "Ónars",
+     "Annar"
+    ],
+    "en": [
+     "Ónarr",
+     "Annarr"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c10-1"
+   },
+   "first_any": {
+    "snorri": "g-c10-1"
+   },
+   "mentions": 4,
+   "narrative": 4,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": []
+  },
+  {
    "id": "arvakr",
    "tags": [
     "horse",
@@ -16768,57 +16872,58 @@
    "notes": []
   },
   {
-   "id": "glenr",
+   "id": "gisl",
    "tags": [
-    "god"
+    "horse",
+    "animal"
    ],
-   "type": "god",
-   "wikidata": "Q5569275",
+   "type": "horse",
+   "wikidata": null,
    "names": {
-    "en": "Glenr",
-    "da": "Glenr",
-    "nb": "Glenr",
-    "sv": "Glenr",
-    "de": "Glenr"
+    "on": "Gísl",
+    "en": "Gisl"
    },
    "desc": {
-    "en": "Norse god"
+    "en": "one of the horses the Æsir ride each day to their court at Yggdrasill"
    },
    "image": null,
    "image_candidates": [],
    "coords": null,
-   "wiki": {
-    "enwiki": "Glenr",
-    "dewiki": "Glenr"
-   },
+   "wiki": {},
    "image_source": null,
    "forms": {
     "on": [
-     "Glenr",
-     "Glens"
+     "Gísl",
+     "Gils"
     ],
     "is": [
-     "Glens",
-     "Glenur"
+     "Gils",
+     "Gísl"
     ],
     "en": [
-     "Glenr",
-     "Glenr's"
+     "Gisl",
+     "Gils",
+     "Gísl"
     ]
    },
    "heiti": {},
    "first": {
-    "snorri": "g-c11-2"
+    "snorri": "g-c15-6",
+    "poetic": "ebr-v8"
    },
    "first_any": {
-    "snorri": "g-c11-2"
+    "snorri": "g-c15-6",
+    "poetic": "grm-s30"
    },
    "mentions": 4,
-   "narrative": 4,
+   "narrative": 2,
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "added 2026-11-21 at Grigory's request: the horses of the Æsir (Gylfaginning 15, Grímnismál 30, the horse names of Skáldskaparmál)",
+    "added by rules.json"
+   ]
   },
   {
    "id": "glitnir",
@@ -18145,15 +18250,14 @@
    },
    "heiti": {},
    "first": {
-    "snorri": "g-c8-4",
-    "poetic": "vsp-s11"
+    "snorri": "g-c8-4"
    },
    "first_any": {
     "snorri": "g-c8-4",
     "poetic": "vsp-s11"
    },
    "mentions": 4,
-   "narrative": 4,
+   "narrative": 2,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -18286,15 +18390,14 @@
    },
    "heiti": {},
    "first": {
-    "snorri": "g-c14-6",
-    "poetic": "vsp-s15"
+    "poetic": "fjm-s34"
    },
    "first_any": {
     "snorri": "g-c14-6",
     "poetic": "vsp-s15"
    },
    "mentions": 4,
-   "narrative": 4,
+   "narrative": 1,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -18631,15 +18734,14 @@
    },
    "heiti": {},
    "first": {
-    "snorri": "g-c8-4",
-    "poetic": "vsp-s11"
+    "snorri": "g-c8-4"
    },
    "first_any": {
     "snorri": "g-c8-4",
     "poetic": "vsp-s11"
    },
    "mentions": 4,
-   "narrative": 4,
+   "narrative": 2,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -19021,15 +19123,14 @@
    },
    "heiti": {},
    "first": {
-    "snorri": "g-c8-4",
-    "poetic": "vsp-s11"
+    "snorri": "g-c8-4"
    },
    "first_any": {
     "snorri": "g-c8-4",
     "poetic": "vsp-s11"
    },
    "mentions": 4,
-   "narrative": 4,
+   "narrative": 2,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -19917,6 +20018,56 @@
    "notes": []
   },
   {
+   "id": "dainn-stag",
+   "tags": [
+    "animal"
+   ],
+   "type": "animal",
+   "wikidata": null,
+   "names": {
+    "on": "Dáinn",
+    "en": "Dáinn (stag)"
+   },
+   "desc": {
+    "en": "one of the four stags that eat the leaves of Yggdrasill"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Dáinn"
+    ],
+    "is": [
+     "Dáinn"
+    ],
+    "en": [
+     "Dáinn",
+     "Dain"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c16-2",
+    "poetic": "grm-s33"
+   },
+   "first_any": {
+    "snorri": "g-c16-2",
+    "poetic": "grm-s33"
+   },
+   "mentions": 3,
+   "narrative": 2,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the stag, apart from the dwarf of the same name",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "danpr",
    "tags": [
     "place_myth"
@@ -20160,6 +20311,56 @@
    "notes": []
   },
   {
+   "id": "dvalinn-stag",
+   "tags": [
+    "animal"
+   ],
+   "type": "animal",
+   "wikidata": null,
+   "names": {
+    "on": "Dvalinn",
+    "en": "Dvalinn (stag)"
+   },
+   "desc": {
+    "en": "one of the four stags that eat the leaves of Yggdrasill"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Dvalinn"
+    ],
+    "is": [
+     "Dvalinn"
+    ],
+    "en": [
+     "Dvalinn",
+     "Dvalin"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c16-2",
+    "poetic": "grm-s33"
+   },
+   "first_any": {
+    "snorri": "g-c16-2",
+    "poetic": "grm-s33"
+   },
+   "mentions": 3,
+   "narrative": 2,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the stag, apart from the dwarf of the same name",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "edda-rigsthula",
    "tags": [
     "person"
@@ -20204,6 +20405,52 @@
    "notes": [
     "linked in Rígsþula only (rules.json); a common noun elsewhere",
     "added from the seed patch of 2026-11-01"
+   ]
+  },
+  {
+   "id": "eikinskjaldi",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Eikinskjaldi",
+    "en": "Eikinskjaldi"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Eikinskjaldi"
+    ],
+    "is": [
+     "Eikinskjaldi"
+    ],
+    "en": [
+     "Eikinskjaldi"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-11",
+    "poetic": "vsp-s13"
+   },
+   "mentions": 3,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
    ]
   },
   {
@@ -20814,6 +21061,56 @@
    "notes": []
   },
   {
+   "id": "glaer",
+   "tags": [
+    "horse",
+    "animal"
+   ],
+   "type": "horse",
+   "wikidata": null,
+   "names": {
+    "on": "Glær",
+    "en": "Glaer"
+   },
+   "desc": {
+    "en": "one of the horses the Æsir ride each day to their court at Yggdrasill"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Glær"
+    ],
+    "is": [
+     "Glær"
+    ],
+    "en": [
+     "Glær",
+     "Gler"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "poetic": "ebr-v8"
+   },
+   "first_any": {
+    "snorri": "s-c72-4",
+    "poetic": "grm-s30"
+   },
+   "mentions": 3,
+   "narrative": 1,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21 at Grigory's request: the horses of the Æsir (Gylfaginning 15, Grímnismál 30, the horse names of Skáldskaparmál)",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "glaumr",
    "tags": [
     "horse"
@@ -20860,6 +21157,59 @@
    "notes": [
     "added from the seed patch of 2026-11-01"
    ]
+  },
+  {
+   "id": "glenr",
+   "tags": [
+    "god"
+   ],
+   "type": "god",
+   "wikidata": "Q5569275",
+   "names": {
+    "en": "Glenr",
+    "da": "Glenr",
+    "nb": "Glenr",
+    "sv": "Glenr",
+    "de": "Glenr"
+   },
+   "desc": {
+    "en": "Norse god"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {
+    "enwiki": "Glenr",
+    "dewiki": "Glenr"
+   },
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Glens",
+     "Glenr"
+    ],
+    "is": [
+     "Glens",
+     "Glenur"
+    ],
+    "en": [
+     "Glenr",
+     "Glenr's"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c11-2"
+   },
+   "first_any": {
+    "snorri": "g-c11-2"
+   },
+   "mentions": 3,
+   "narrative": 3,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": []
   },
   {
    "id": "granmarssynir",
@@ -21092,6 +21442,53 @@
    "notes": [
     "river",
     "2026-11-20: Gunnþrá is the Gylfaginning 4 spelling"
+   ]
+  },
+  {
+   "id": "harr-dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Hárr",
+    "en": "Har"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Hárr",
+     "Hár"
+    ],
+    "is": [
+     "Hár"
+    ],
+    "en": [
+     "Hárr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-9",
+    "poetic": "vsp-s15"
+   },
+   "mentions": 3,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
    ]
   },
   {
@@ -21961,15 +22358,14 @@
    },
    "heiti": {},
    "first": {
-    "snorri": "g-c14-7",
-    "poetic": "vsp-s12"
+    "snorri": "g-c49-15"
    },
    "first_any": {
     "snorri": "g-c14-7",
     "poetic": "vsp-s12"
    },
    "mentions": 3,
-   "narrative": 3,
+   "narrative": 1,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -22018,6 +22414,58 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "lofarr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Lofarr",
+    "en": "Lofar"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Lofars",
+     "Lofarr"
+    ],
+    "is": [
+     "Lofars",
+     "Lofar"
+    ],
+    "en": [
+     "Lofar",
+     "Lovarr"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c14-10",
+    "poetic": "vsp-s14"
+   },
+   "first_any": {
+    "snorri": "g-c14-10",
+    "poetic": "vsp-s14"
+   },
+   "mentions": 3,
+   "narrative": 2,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
   },
   {
    "id": "logafjoll",
@@ -23693,6 +24141,53 @@
    "notes": []
   },
   {
+   "id": "ai-dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Ái",
+    "en": "Ai"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Ái"
+    ],
+    "is": [
+     "Ái"
+    ],
+    "en": [
+     "Ai",
+     "Ái"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-11",
+    "poetic": "vsp-s15"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "alfr",
    "tags": [
     "hero"
@@ -23732,6 +24227,100 @@
    "status": "auto",
    "notes": [
     "amb"
+   ]
+  },
+  {
+   "id": "alfr-dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Alfr",
+    "en": "Alf"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Alfr"
+    ],
+    "is": [
+     "Álfur"
+    ],
+    "en": [
+     "Alf",
+     "Álfr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-11",
+    "poetic": "vsp-s16"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "althjofr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Alþjófr",
+    "en": "Althjof"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Alþjófr"
+    ],
+    "is": [
+     "Alþjófur"
+    ],
+    "en": [
+     "Althjof",
+     "Althjófr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-6",
+    "poetic": "vsp-s11"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
    ]
   },
   {
@@ -24003,17 +24592,19 @@
    "notes": []
   },
   {
-   "id": "austri",
+   "id": "bafurr",
    "tags": [
     "dwarf"
    ],
    "type": "dwarf",
    "wikidata": null,
    "names": {
-    "on": "Austri",
-    "en": "Austri"
+    "on": "Báfurr",
+    "en": "Bafur"
    },
-   "desc": {},
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
    "image": null,
    "image_candidates": [],
    "coords": null,
@@ -24021,28 +24612,81 @@
    "image_source": null,
    "forms": {
     "on": [
-     "Austra"
+     "Báfurr",
+     "Bávurr"
     ],
     "is": [
-     "Austra"
+     "Báfur",
+     "Bávör"
     ],
     "en": [
-     "Austri"
+     "Báfurr"
     ]
    },
    "heiti": {},
-   "first": {
-    "snorri": "s-c31-1"
-   },
+   "first": {},
    "first_any": {
-    "snorri": "s-c31-1"
+    "snorri": "g-c14-6",
+    "poetic": "vsp-s11"
    },
    "mentions": 2,
-   "narrative": 2,
+   "narrative": 0,
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "bifurr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Bífurr",
+    "en": "Bifur"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Bífurr",
+     "Bívurr"
+    ],
+    "is": [
+     "Bifur",
+     "Bívör"
+    ],
+    "en": [
+     "Bifur",
+     "Bifurr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-6",
+    "poetic": "vsp-s11"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
   },
   {
    "id": "blain",
@@ -24203,6 +24847,53 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "bomburr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Bömburr",
+    "en": "Bombur"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Bömburr"
+    ],
+    "is": [
+     "Bömbur"
+    ],
+    "en": [
+     "Bombur",
+     "Bömburr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-6",
+    "poetic": "vsp-s11"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
   },
   {
    "id": "bralundr",
@@ -24428,6 +25119,100 @@
    ]
   },
   {
+   "id": "dori",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Dóri",
+    "en": "Dori"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Dóri"
+    ],
+    "is": [
+     "Dór"
+    ],
+    "en": [
+     "Dori",
+     "Dóri"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-9",
+    "poetic": "vsp-s15"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "draupnir-dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Draupnir",
+    "en": "Draupnir"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Draupnir"
+    ],
+    "is": [
+     "Draupnir"
+    ],
+    "en": [
+     "Draupnir",
+     "Draupnirand"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-9",
+    "poetic": "vsp-s15"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "drosull",
    "tags": [
     "horse",
@@ -24471,6 +25256,53 @@
    "status": "auto",
    "notes": [
     "horse"
+   ]
+  },
+  {
+   "id": "dufr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Dúfr",
+    "en": "Duf"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Dúfr"
+    ],
+    "is": [
+     "Dúfur"
+    ],
+    "en": [
+     "Duf",
+     "Dúfr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-9",
+    "poetic": "vsp-s15"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
    ]
   },
   {
@@ -24715,6 +25547,54 @@
    "notes": []
   },
   {
+   "id": "fili",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Fíli",
+    "en": "Fili"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Fíli"
+    ],
+    "is": [
+     "Fili",
+     "Fíli"
+    ],
+    "en": [
+     "Fili",
+     "Fíli"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-7",
+    "poetic": "vsp-s13"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "fjoturlundr",
    "tags": [
     "place_myth"
@@ -24889,21 +25769,65 @@
     ]
    },
    "heiti": {},
-   "first": {
-    "snorri": "g-c14-11",
-    "poetic": "vsp-s16"
-   },
+   "first": {},
    "first_any": {
     "snorri": "g-c14-11",
     "poetic": "vsp-s16"
    },
    "mentions": 2,
-   "narrative": 2,
+   "narrative": 0,
    "check": 0,
    "card": false,
    "status": "auto",
    "notes": [
     "added from the seed patch of 2026-11-01"
+   ]
+  },
+  {
+   "id": "fundinn",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Fundinn",
+    "en": "Fundin"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Fundinn"
+    ],
+    "is": [
+     "Fundinn"
+    ],
+    "en": [
+     "Fundin",
+     "Fundinn"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-7",
+    "poetic": "vsp-s13"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
    ]
   },
   {
@@ -24999,16 +25923,13 @@
     ]
    },
    "heiti": {},
-   "first": {
-    "snorri": "g-c14-7",
-    "poetic": "vsp-s12"
-   },
+   "first": {},
    "first_any": {
     "snorri": "g-c14-7",
     "poetic": "vsp-s12"
    },
    "mentions": 2,
-   "narrative": 2,
+   "narrative": 0,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -25183,16 +26104,13 @@
     ]
    },
    "heiti": {},
-   "first": {
-    "snorri": "g-c14-11",
-    "poetic": "vsp-s16"
-   },
+   "first": {},
    "first_any": {
     "snorri": "g-c14-11",
     "poetic": "vsp-s16"
    },
    "mentions": 2,
-   "narrative": 2,
+   "narrative": 0,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -25242,6 +26160,54 @@
    "status": "auto",
    "notes": [
     "added from the seed patch of 2026-11-01"
+   ]
+  },
+  {
+   "id": "gloinn",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Glóinn",
+    "en": "Gloin"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Glóinn"
+    ],
+    "is": [
+     "Glói",
+     "Glóinn"
+    ],
+    "en": [
+     "Gloin",
+     "Glóinn"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-9",
+    "poetic": "vsp-s15"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
    ]
   },
   {
@@ -26656,6 +27622,58 @@
    "notes": []
   },
   {
+   "id": "joruvellir",
+   "tags": [
+    "place_myth"
+   ],
+   "type": "place_myth",
+   "wikidata": null,
+   "names": {
+    "on": "Jöruvellir",
+    "is": "Jöruvellir",
+    "en": "Joruvellir"
+   },
+   "desc": {
+    "en": "the plains where Lofarr's line of dwarfs went from Svarinshaugr, to Aurvangar (Gylfaginning 14, Völuspá 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Jöruvalla",
+     "Jöruvöllu"
+    ],
+    "is": [
+     "Jöruvalla",
+     "Jöruvöllu"
+    ],
+    "en": [
+     "Jöruplain"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c14-10",
+    "poetic": "vsp-s14"
+   },
+   "first_any": {
+    "snorri": "g-c14-10",
+    "poetic": "vsp-s14"
+   },
+   "mentions": 2,
+   "narrative": 2,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21 at Grigory's request (Gylfaginning 14.10)",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "kalfsvisa",
    "tags": [
     "poem"
@@ -26823,20 +27841,67 @@
     ]
    },
    "heiti": {},
-   "first": {
-    "snorri": "g-c14-7",
-    "poetic": "vsp-s13"
-   },
+   "first": {},
    "first_any": {
     "snorri": "g-c14-7",
     "poetic": "vsp-s13"
    },
    "mentions": 2,
-   "narrative": 2,
+   "narrative": 0,
    "check": 0,
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "kormt",
+   "tags": [
+    "river"
+   ],
+   "type": "river",
+   "wikidata": null,
+   "names": {
+    "on": "Körmt",
+    "is": "Körmt",
+    "en": "Kormt"
+   },
+   "desc": {
+    "en": "one of the rivers Þórr wades each day on his way to the gods' court at Yggdrasill (Grímnismál 29, Gylfaginning 15)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Körmt"
+    ],
+    "is": [
+     "Körmt"
+    ],
+    "en": [
+     "Kormt",
+     "Körmt"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c15-7"
+   },
+   "first_any": {
+    "snorri": "g-c15-7",
+    "poetic": "grm-s29"
+   },
+   "mentions": 2,
+   "narrative": 1,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21 at Grigory's request (Gylfaginning 15.7)",
+    "added by rules.json"
+   ]
   },
   {
    "id": "leifthrasir",
@@ -27165,20 +28230,68 @@
     ]
    },
    "heiti": {},
-   "first": {
-    "snorri": "g-c14-6",
-    "poetic": "vsp-s11"
-   },
+   "first": {},
    "first_any": {
     "snorri": "g-c14-6",
     "poetic": "vsp-s11"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": []
+  },
+  {
+   "id": "modsognir",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Móðsognir",
+    "en": "Modsognir"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Móðsognir"
+    ],
+    "is": [
+     "Mótsognir",
+     "Móðsognir"
+    ],
+    "en": [
+     "Motsognir",
+     "Módsognir"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c14-2",
+    "poetic": "vsp-s10"
+   },
+   "first_any": {
+    "snorri": "g-c14-2",
+    "poetic": "vsp-s10"
    },
    "mentions": 2,
    "narrative": 2,
    "check": 0,
    "card": false,
    "status": "auto",
-   "notes": []
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
   },
   {
    "id": "moinsheimar",
@@ -27450,20 +28563,64 @@
     ]
    },
    "heiti": {},
-   "first": {
-    "snorri": "g-c14-6",
-    "poetic": "vsp-s11"
-   },
+   "first": {},
    "first_any": {
     "snorri": "g-c14-6",
     "poetic": "vsp-s11"
    },
    "mentions": 2,
-   "narrative": 2,
+   "narrative": 0,
    "check": 0,
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "nar",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Nár",
+    "en": "Nar"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Nár"
+    ],
+    "is": [
+     "Nár"
+    ],
+    "en": [
+     "Nar",
+     "Nár"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-6",
+    "poetic": "vsp-s11"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
   },
   {
    "id": "nidafjoll",
@@ -27547,16 +28704,13 @@
     ]
    },
    "heiti": {},
-   "first": {
-    "snorri": "g-c14-6",
-    "poetic": "vsp-s11"
-   },
+   "first": {},
    "first_any": {
     "snorri": "g-c14-6",
     "poetic": "vsp-s11"
    },
    "mentions": 2,
-   "narrative": 2,
+   "narrative": 0,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -27613,6 +28767,53 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "nipingr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Nípingr",
+    "en": "Niping"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Nípingr"
+    ],
+    "is": [
+     "Nipingur"
+    ],
+    "en": [
+     "Niping",
+     "Nípingr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-6",
+    "poetic": "vsp-s11"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
   },
   {
    "id": "nordrlond",
@@ -27686,16 +28887,13 @@
     ]
    },
    "heiti": {},
-   "first": {
-    "snorri": "g-c14-6",
-    "poetic": "vsp-s11"
-   },
+   "first": {},
    "first_any": {
     "snorri": "g-c14-6",
     "poetic": "vsp-s11"
    },
    "mentions": 2,
-   "narrative": 2,
+   "narrative": 0,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -27745,6 +28943,100 @@
    ]
   },
   {
+   "id": "nyi",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Nýi",
+    "en": "Nyi"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Nýi"
+    ],
+    "is": [
+     "Nýi"
+    ],
+    "en": [
+     "Nyi",
+     "Nýi"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-6",
+    "poetic": "vsp-s11"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "nyr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Nýr",
+    "en": "Nyr"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Nýr"
+    ],
+    "is": [
+     "Nýr"
+    ],
+    "en": [
+     "Nyr",
+     "Nýr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-7",
+    "poetic": "vsp-s12"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "nyradr",
    "tags": [
     "dwarf"
@@ -27774,20 +29066,60 @@
     ]
    },
    "heiti": {},
-   "first": {
-    "snorri": "g-c14-7",
-    "poetic": "vsp-s12"
-   },
+   "first": {},
    "first_any": {
     "snorri": "g-c14-7",
     "poetic": "vsp-s12"
    },
    "mentions": 2,
-   "narrative": 2,
+   "narrative": 0,
    "check": 0,
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "oinn",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Óinn",
+    "en": "Oin"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Óinn"
+    ],
+    "en": [
+     "Óinn"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-6",
+    "poetic": "vsp-s11"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
   },
   {
    "id": "okolnir",
@@ -27833,6 +29165,55 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "onarr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Ónarr",
+    "en": "Onar"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Ánarr",
+     "Ónarr"
+    ],
+    "is": [
+     "Ánar",
+     "Ónar"
+    ],
+    "en": [
+     "Onar",
+     "Ónarr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-6",
+    "poetic": "vsp-s11"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
   },
   {
    "id": "ormt",
@@ -28001,16 +29382,13 @@
     ]
    },
    "heiti": {},
-   "first": {
-    "snorri": "g-c14-7",
-    "poetic": "vsp-s12"
-   },
+   "first": {},
    "first_any": {
     "snorri": "g-c14-7",
     "poetic": "vsp-s12"
    },
    "mentions": 2,
-   "narrative": 2,
+   "narrative": 0,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -28518,6 +29896,101 @@
    "notes": []
   },
   {
+   "id": "skafidr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Skáfiðr",
+    "en": "Skafid"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Skáfiðr"
+    ],
+    "is": [
+     "Skafiður",
+     "Skáfiður"
+    ],
+    "en": [
+     "Skafith",
+     "Skáfidr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-11",
+    "poetic": "vsp-s15"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "skirfir",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Skirfir",
+    "en": "Skirfir"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Skirfir"
+    ],
+    "is": [
+     "Skirfir",
+     "Skirvir"
+    ],
+    "en": [
+     "Skirfir"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-11",
+    "poetic": "vsp-s15"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "snaebjorn",
    "tags": [
     "poet"
@@ -28696,6 +30169,55 @@
    "notes": []
   },
   {
+   "id": "sviurr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Svíurr",
+    "en": "Sviur"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Svíarr",
+     "Svíurr"
+    ],
+    "is": [
+     "Svíar",
+     "Svíur"
+    ],
+    "en": [
+     "Sviur",
+     "Svíarr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-9",
+    "poetic": "vsp-s13"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "sylgr",
    "tags": [
     "river",
@@ -28740,6 +30262,53 @@
    "status": "auto",
    "notes": [
     "added 2026-11-20: a river from Hvergelmir (Gylfaginning 4, Grímnismál 27-28), asked for in review mode"
+   ]
+  },
+  {
+   "id": "thekkr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Þekkr",
+    "en": "Thekk"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Þekkr"
+    ],
+    "is": [
+     "Þekkur"
+    ],
+    "en": [
+     "Thekk",
+     "Thekkr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-7",
+    "poetic": "vsp-s12"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
    ]
   },
   {
@@ -28863,16 +30432,13 @@
     ]
    },
    "heiti": {},
-   "first": {
-    "snorri": "g-c14-7",
-    "poetic": "vsp-s12"
-   },
+   "first": {},
    "first_any": {
     "snorri": "g-c14-7",
     "poetic": "vsp-s12"
    },
    "mentions": 2,
-   "narrative": 2,
+   "narrative": 0,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -28958,17 +30524,66 @@
    },
    "heiti": {},
    "first": {
-    "poetic": "vsp-s12"
+    "poetic": "fsl-s3"
    },
    "first_any": {
-    "poetic": "vsp-s12"
+    "poetic": "fsl-s3"
    },
    "mentions": 2,
-   "narrative": 2,
-   "check": 0,
+   "narrative": 1,
+   "check": 1,
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "thror",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Þrór",
+    "en": "Thror"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Þrár",
+     "Þrór"
+    ],
+    "is": [
+     "Þrár",
+     "Þrór"
+    ],
+    "en": [
+     "Thror",
+     "Thrór"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-7",
+    "poetic": "vsp-s12"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
   },
   {
    "id": "thrudheimr",
@@ -29632,6 +31247,54 @@
    ]
   },
   {
+   "id": "viggr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Viggr",
+    "en": "Vigg"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Veggr",
+     "Viggr"
+    ],
+    "is": [
+     "Vigur"
+    ],
+    "en": [
+     "Vigg",
+     "Viggr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-7",
+    "poetic": "vsp-s12"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "vili",
    "tags": [
     "god"
@@ -29683,6 +31346,53 @@
    ]
   },
   {
+   "id": "vindalfr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Vindalfr",
+    "en": "Vindalf"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Vindalfr"
+    ],
+    "is": [
+     "Vindálfur"
+    ],
+    "en": [
+     "Vindalf",
+     "Vindálfr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-7",
+    "poetic": "vsp-s12"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "virfir",
    "tags": [
     "dwarf"
@@ -29712,16 +31422,13 @@
     ]
    },
    "heiti": {},
-   "first": {
-    "snorri": "g-c14-11",
-    "poetic": "vsp-s15"
-   },
+   "first": {},
    "first_any": {
     "snorri": "g-c14-11",
     "poetic": "vsp-s15"
    },
    "mentions": 2,
-   "narrative": 2,
+   "narrative": 0,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -29757,16 +31464,13 @@
     ]
    },
    "heiti": {},
-   "first": {
-    "snorri": "g-c14-7",
-    "poetic": "vsp-s12"
-   },
+   "first": {},
    "first_any": {
     "snorri": "g-c14-7",
     "poetic": "vsp-s12"
    },
    "mentions": 2,
-   "narrative": 2,
+   "narrative": 0,
    "check": 0,
    "card": false,
    "status": "auto",
@@ -29861,6 +31565,52 @@
    "status": "auto",
    "notes": [
     "added 2026-11-20: a river from Hvergelmir (Gylfaginning 4, Grímnismál 27-28), asked for in review mode"
+   ]
+  },
+  {
+   "id": "yngvi-dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Yngvi",
+    "en": "Yngvi"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Yngvi"
+    ],
+    "is": [
+     "Yngvi"
+    ],
+    "en": [
+     "Yngvi"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-11",
+    "poetic": "vsp-s16"
+   },
+   "mentions": 2,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
    ]
   },
   {
@@ -30165,6 +31915,45 @@
    "notes": []
   },
   {
+   "id": "ann",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Ánn",
+    "en": "An"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Ánn"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s11"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "audr",
    "tags": [
     "god"
@@ -30271,6 +32060,207 @@
    "notes": []
   },
   {
+   "id": "aurvangr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Aurvangr",
+    "en": "Aurvang"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Aurvangr"
+    ],
+    "is": [
+     "Aurvangur"
+    ],
+    "en": [
+     "Aurvang"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s13"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "bildr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Bíldr",
+    "en": "Bild"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Bíldr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s13"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "billingr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Billingr",
+    "en": "Billing"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Billingr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s13"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "bruni",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Brúni",
+    "en": "Bruni"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Brúni"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s13"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "buri-dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Buri",
+    "en": "Buri"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Buri"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s13"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "byrgir",
    "tags": [
     "place_myth"
@@ -30365,6 +32355,96 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "dolgthrasir",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Dolgþrasir",
+    "en": "Dolgthrasir"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Dolgþrasir"
+    ],
+    "is": [
+     "Dólgþrasir"
+    ],
+    "en": [
+     "Dolgthrasir"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s15"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "dolgthvari",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Dolgþvari",
+    "en": "Dolgthvari"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Dolgþvari"
+    ],
+    "is": [
+     "Dólgþvari"
+    ],
+    "en": [
+     "Dólgthvari"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-9"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
   },
   {
    "id": "eggther",
@@ -30611,6 +32691,138 @@
    ]
   },
   {
+   "id": "falr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Falr",
+    "en": "Fal"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Falr"
+    ],
+    "is": [
+     "Falur"
+    ],
+    "en": [
+     "Falr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-11"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "fidr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Fiðr",
+    "en": "Fid"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Fiðr"
+    ],
+    "is": [
+     "Fiður"
+    ],
+    "en": [
+     "Fidr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-11"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "finnr-dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Finnr",
+    "en": "Finn"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Finnr"
+    ],
+    "is": [
+     "Finnur"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s16"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "fjolvar",
    "tags": [
     "person"
@@ -30654,6 +32866,96 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "fraegr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Frægr",
+    "en": "Fraeg"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Frægr"
+    ],
+    "is": [
+     "Frægur"
+    ],
+    "en": [
+     "Fræg"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s13"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "frar",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Frár",
+    "en": "Frar"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Frár"
+    ],
+    "is": [
+     "Frár"
+    ],
+    "en": [
+     "Frar"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s13"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
   },
   {
    "id": "gaut",
@@ -30813,6 +33115,54 @@
    "notes": []
   },
   {
+   "id": "glenr-horse",
+   "tags": [
+    "horse",
+    "animal"
+   ],
+   "type": "horse",
+   "wikidata": null,
+   "names": {
+    "on": "Glenr",
+    "en": "Glenr (horse)"
+   },
+   "desc": {
+    "en": "one of the horses the Æsir ride each day to their court at Yggdrasill"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Glenr"
+    ],
+    "is": [
+     "Glenur"
+    ],
+    "en": [
+     "Glenr"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c15-6"
+   },
+   "first_any": {
+    "snorri": "g-c15-6"
+   },
+   "mentions": 1,
+   "narrative": 1,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21 at Grigory's request: the horses of the Æsir (Gylfaginning 15, Grímnismál 30, the horse names of Skáldskaparmál)",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "gullveig",
    "tags": [
     "giant"
@@ -30962,6 +33312,183 @@
    "notes": []
   },
   {
+   "id": "hannarr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Hannarr",
+    "en": "Hannar"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Hannar"
+    ],
+    "is": [
+     "Hannar"
+    ],
+    "en": [
+     "Hannar"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s13"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "haugspori",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Haugspori",
+    "en": "Haugspori"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Haugspori"
+    ],
+    "is": [
+     "Haugspori"
+    ],
+    "en": [
+     "Haugspori"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s15"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "hefti",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Hefti",
+    "en": "Hefti"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Hefti"
+    ],
+    "is": [
+     "Hefti"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s13"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "heftifili",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Heftifili",
+    "en": "Heptifili"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Heftifili"
+    ],
+    "is": [
+     "Heftifili"
+    ],
+    "en": [
+     "Heptifíli"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-9"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "hindarfjall",
    "tags": [
     "place_myth"
@@ -31055,6 +33582,96 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "hledjolfr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Hleðjolfr",
+    "en": "Hledjolf"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Hleðjolfr"
+    ],
+    "is": [
+     "Hleðjólfur"
+    ],
+    "en": [
+     "Hledjólfr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-9"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
+   "id": "hlevangr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Hlévangr",
+    "en": "Hlevang"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Hlévangr"
+    ],
+    "is": [
+     "Hlévangur"
+    ],
+    "en": [
+     "Hlevang"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s15"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
   },
   {
    "id": "hlora",
@@ -31155,6 +33772,51 @@
    "notes": []
   },
   {
+   "id": "hornbori",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Hornbori",
+    "en": "Hornbori"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Hornbori"
+    ],
+    "is": [
+     "Hornbori"
+    ],
+    "en": [
+     "Hornbori"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s13"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "hringhorni",
    "tags": [
     "object"
@@ -31252,6 +33914,51 @@
    ]
   },
   {
+   "id": "hugstari",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Hugstari",
+    "en": "Hugstari"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Hugstari"
+    ],
+    "is": [
+     "Hugstari"
+    ],
+    "en": [
+     "Hugstari"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-9"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "ifingr",
    "tags": [
     "river",
@@ -31343,6 +34050,51 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "jari",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Jari",
+    "en": "Jari"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Jari"
+    ],
+    "is": [
+     "Jari"
+    ],
+    "en": [
+     "Jari"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s13"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
   },
   {
    "id": "kara",
@@ -31589,6 +34341,51 @@
    "notes": []
   },
   {
+   "id": "loni",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Lóni",
+    "en": "Loni"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Lóni"
+    ],
+    "is": [
+     "Lóni"
+    ],
+    "en": [
+     "Loni"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s13"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "lyngvi",
    "tags": [
     "place_myth"
@@ -31773,6 +34570,51 @@
    "notes": []
   },
   {
+   "id": "nali",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Náli",
+    "en": "Nali"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Náli"
+    ],
+    "is": [
+     "Náli"
+    ],
+    "en": [
+     "Nali"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s13"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "nastrond",
    "tags": [
     "place_myth"
@@ -31872,6 +34714,51 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "rekkr",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Rekkr",
+    "en": "Rekk"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Rekkr"
+    ],
+    "is": [
+     "Rekkur"
+    ],
+    "en": [
+     "Rekkr"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-7"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
   },
   {
    "id": "rerir",
@@ -32366,6 +35253,51 @@
    "notes": []
   },
   {
+   "id": "throinn",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Þróinn",
+    "en": "Throin"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá and Gylfaginning 14)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Þróinn"
+    ],
+    "is": [
+     "Þróinn"
+    ],
+    "en": [
+     "Thróinn"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-7"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "vadgelmir",
    "tags": [
     "river",
@@ -32463,6 +35395,51 @@
    "card": false,
    "status": "auto",
    "notes": []
+  },
+  {
+   "id": "vali-dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Váli",
+    "en": "Vali"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs of Gylfaginning 14"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Váli"
+    ],
+    "is": [
+     "Vali"
+    ],
+    "en": [
+     "Váli"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "snorri": "g-c14-7"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
   },
   {
    "id": "vedrfolnir",
@@ -32615,6 +35592,48 @@
    ]
   },
   {
+   "id": "vili-dwarf",
+   "tags": [
+    "dwarf"
+   ],
+   "type": "dwarf",
+   "wikidata": null,
+   "names": {
+    "on": "Víli",
+    "en": "Vili"
+   },
+   "desc": {
+    "en": "a dwarf in the list of dwarfs (Völuspá)"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Víli"
+    ],
+    "is": [
+     "Víli"
+    ]
+   },
+   "heiti": {},
+   "first": {},
+   "first_any": {
+    "poetic": "vsp-s13"
+   },
+   "mentions": 1,
+   "narrative": 0,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: the dwarf lists of Gylfaginning 14 and Völuspá 10-16 (Grigory asked for every dwarf); limited to those rows",
+    "added by rules.json"
+   ]
+  },
+  {
    "id": "vindsval",
    "tags": [
     "giant"
@@ -32659,40 +35678,6 @@
    "card": false,
    "status": "auto",
    "notes": []
-  },
-  {
-   "id": "norns",
-   "tags": [
-    "norn",
-    "people"
-   ],
-   "type": "norn",
-   "wikidata": null,
-   "names": {
-    "on": "Nornir",
-    "is": "Nornir",
-    "en": "Norns"
-   },
-   "desc": {
-    "en": "the women who shape fate"
-   },
-   "image": null,
-   "image_candidates": [],
-   "coords": null,
-   "wiki": {},
-   "image_source": null,
-   "forms": {},
-   "heiti": {},
-   "first": {},
-   "first_any": {},
-   "mentions": 0,
-   "narrative": 0,
-   "check": 0,
-   "card": false,
-   "status": "auto",
-   "notes": [
-    "added from the cloud message of 2026-11-08 (norns)"
-   ]
   }
  ]
 }

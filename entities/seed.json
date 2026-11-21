@@ -2998,7 +2998,7 @@
   },
   {
    "id": "dvalinn",
-   "type": "animal",
+   "type": "dwarf",
    "wikidata": "Q118525447",
    "names": {
     "nb": "Dvalin",
@@ -3009,7 +3009,7 @@
     "sv": "Dvalin"
    },
    "desc": {
-    "en": "stag in the Prose Edda"
+    "en": "dwarf, whose name stands for the dwarfs in many kennings; he cut runes for the dwarfs"
    },
    "image": [],
    "coords": [],
@@ -3023,12 +3023,17 @@
    },
    "heiti": {},
    "status": "auto",
-   "notes": [],
+   "notes": [
+    "2026-11-21: the dwarf (most mentions); the stag of Gylfaginning 16, Grímnismál 33 and the stag names of Skáldskaparmál is now its own entry (rules.json extra)"
+   ],
    "mentions": 16,
    "first": {
     "snorri": "g-c14-6",
     "poetic": "vsp-s11"
-   }
+   },
+   "tags": [
+    "dwarf"
+   ]
   },
   {
    "id": "egill",
@@ -5458,7 +5463,7 @@
   },
   {
    "id": "dainn",
-   "type": "animal",
+   "type": "dwarf",
    "wikidata": "Q17768528",
    "names": {
     "nb": "Dåin",
@@ -5469,7 +5474,7 @@
     "sv": "Dain"
    },
    "desc": {
-    "en": "stag in the Prose Edda"
+    "en": "dwarf; also the name of a stag of Yggdrasill (a separate entry)"
    },
    "image": [],
    "coords": [],
@@ -5481,12 +5486,17 @@
    },
    "heiti": {},
    "status": "auto",
-   "notes": [],
+   "notes": [
+    "2026-11-21: the dwarf (most mentions); the stag of Gylfaginning 16, Grímnismál 33 and the stag names of Skáldskaparmál is now its own entry (rules.json extra)"
+   ],
    "mentions": 8,
    "first": {
     "snorri": "g-c14-6",
     "poetic": "vsp-s11"
-   }
+   },
+   "tags": [
+    "dwarf"
+   ]
   },
   {
    "id": "markus",
@@ -13704,7 +13714,8 @@
    "coords": [],
    "wiki": {},
    "forms": {
-    "Austra": 2
+    "Austra": 2,
+    "Austri": 1
    },
    "heiti": {},
    "status": "auto",
