@@ -23857,6 +23857,60 @@
    "notes": []
   },
   {
+   "id": "askr",
+   "tags": [
+    "person"
+   ],
+   "type": "person",
+   "wikidata": null,
+   "names": {
+    "on": "Askr",
+    "is": "Askur",
+    "en": "Askr"
+   },
+   "desc": {
+    "en": "the first man, made by the gods from a tree, with Embla the first woman"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {
+    "enwiki": "Ask and Embla"
+   },
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Ask",
+     "Askr"
+    ],
+    "is": [
+     "Ask",
+     "Askur"
+    ],
+    "en": [
+     "Ask",
+     "Askr"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c9-2",
+    "poetic": "vsp-s17"
+   },
+   "first_any": {
+    "snorri": "g-c9-2",
+    "poetic": "vsp-s17"
+   },
+   "mentions": 2,
+   "narrative": 2,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": [
+    "added 2026-11-21: missing from the seed (Gylfaginning 9, Völuspá 17); rules.json limits the forms to those rows (askr is also the ash Yggdrasill and a ship); asked for in review mode"
+   ]
+  },
+  {
    "id": "augustus",
    "tags": [
     "hero"
