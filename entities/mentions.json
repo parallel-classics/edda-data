@@ -7550,6 +7550,14 @@
    "status": "auto"
   },
   {
+   "entity": "askr",
+   "row": "g-c9-2",
+   "lang": "on",
+   "form": "Askr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "embla",
    "row": "g-c9-2",
    "lang": "on",
@@ -7654,6 +7662,14 @@
    "status": "auto"
   },
   {
+   "entity": "askr",
+   "row": "g-c9-2",
+   "lang": "is",
+   "form": "Askur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "embla",
    "row": "g-c9-2",
    "lang": "is",
@@ -7746,6 +7762,14 @@
    "row": "g-c9-2",
    "lang": "en",
    "form": "Hárr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "askr",
+   "row": "g-c9-2",
+   "lang": "en",
+   "form": "Askr",
    "kind": "name",
    "status": "auto"
   },
@@ -7874,6 +7898,14 @@
    "row": "g-c9-2",
    "lang": "en-modern",
    "form": "Hárr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "askr",
+   "row": "g-c9-2",
+   "lang": "en-modern",
+   "form": "Askr",
    "kind": "name",
    "status": "auto"
   },
@@ -110250,6 +110282,14 @@
    "status": "auto"
   },
   {
+   "entity": "askr",
+   "row": "vsp-s17",
+   "lang": "on",
+   "form": "Ask",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "embla",
    "row": "vsp-s17",
    "lang": "on",
@@ -110274,10 +110314,26 @@
    "status": "auto"
   },
   {
+   "entity": "askr",
+   "row": "vsp-s17",
+   "lang": "is",
+   "form": "Ask",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "embla",
    "row": "vsp-s17",
    "lang": "is",
    "form": "Emblu",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "askr",
+   "row": "vsp-s17",
+   "lang": "en",
+   "form": "Ask",
    "kind": "name",
    "status": "auto"
   },
@@ -110286,6 +110342,14 @@
    "row": "vsp-s17",
    "lang": "en",
    "form": "Embla",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "askr",
+   "row": "vsp-s17",
+   "lang": "en-modern",
+   "form": "Ask",
    "kind": "name",
    "status": "auto"
   },
@@ -110302,6 +110366,14 @@
    "row": "vsp-s17",
    "lang": "en-thorpe",
    "form": "Æsir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "askr",
+   "row": "vsp-s17",
+   "lang": "en-thorpe",
+   "form": "Ask",
    "kind": "name",
    "status": "auto"
   },

@@ -11943,6 +11943,38 @@
    }
   },
   {
+   "id": "askr",
+   "type": "human",
+   "tags": [
+    "person"
+   ],
+   "wikidata": null,
+   "names": {
+    "on": "Askr",
+    "is": "Askur",
+    "en": "Askr"
+   },
+   "desc": {
+    "en": "the first man, made by the gods from a tree, with Embla the first woman"
+   },
+   "image": [],
+   "coords": [],
+   "wiki": {
+    "enwiki": "Ask and Embla"
+   },
+   "forms": {
+    "Askr": 1,
+    "Ask": 1
+   },
+   "heiti": {},
+   "status": "curated",
+   "notes": [
+    "added 2026-11-21: missing from the seed (Gylfaginning 9, Völuspá 17); rules.json limits the forms to those rows (askr is also the ash Yggdrasill and a ship); asked for in review mode"
+   ],
+   "mentions": 0,
+   "first": {}
+  },
+  {
    "id": "embla",
    "type": "character",
    "wikidata": "Q10272315",
