@@ -927,6 +927,8 @@ def check_guide(rows):
     cards, stories, ages = g("cards.json", "cards", {}), g("stories.json", "stories", {}), g("ages.json", "ages", {})
     myths, sections, outside = g("myths.json", "myths", {}), g("sections.json", "sections", []), g("outside.json", "outside", {})
     paths, relations = g("paths.json", "paths", {}), g("relations.json", "relations", [])
+    pi = os.path.join(ROOT, "images", "plates", "index.json")
+    plates = set(load(pi).get("plates", {})) if os.path.exists(pi) else set()
     for sec in sections:
         refs(f"sections.json#{sec['id']}", sec.get("refs"))
         for e in sec.get("entities", []) + sec.get("more", []):
@@ -952,6 +954,8 @@ def check_guide(rows):
             for k in [r.get("rel")] + list(r.get("also", [])):
                 if k not in CARD_RELS:
                     err(f"guide/{where}: related kind {k!r} is not known")
+        if c.get("plate") and c["plate"] not in plates:   # a group's card shows its section's plate (images/plates/index.json)
+            err(f"guide/{where}: plate {c['plate']!r} is not in images/plates/index.json")
         for m in c.get("myths", []):
             if m not in myths:
                 err(f"guide/{where}: myth {m!r} not in myths.json")
