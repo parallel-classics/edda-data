@@ -2141,6 +2141,87 @@
    ]
   },
   {
+   "id": "aegir",
+   "tags": [
+    "god"
+   ],
+   "type": "god",
+   "wikidata": "Q204927",
+   "names": {
+    "en": "Ægir",
+    "is": "Ægir",
+    "ru": "Эгир",
+    "de": "Ägir",
+    "da": "Ægir",
+    "nn": "Æge",
+    "sv": "Ägir",
+    "nb": "Æge"
+   },
+   "desc": {
+    "en": "sea giant, god of the ocean and king of the sea in Norse mythology"
+   },
+   "image": "Ögir und Ran by F. W. Heine.jpg",
+   "image_candidates": [
+    "Ögir und Ran by F. W. Heine.jpg",
+    "Daughters of Ægir and Rán.jpg"
+   ],
+   "coords": null,
+   "wiki": {
+    "enwiki": "Ægir",
+    "iswiki": "Ægir",
+    "ruwiki": "Эгир",
+    "nowiki": "Æge",
+    "nnwiki": "Æge",
+    "dewiki": "Ägir"
+   },
+   "image_source": "hand",
+   "forms": {
+    "on": [
+     "Ægis",
+     "Ægir",
+     "Ægi",
+     "Gymir",
+     "Gymis",
+     "Hlér"
+    ],
+    "is": [
+     "Ægir",
+     "Ægis",
+     "Ægi",
+     "Gymir",
+     "Gymis",
+     "Hlér"
+    ],
+    "en": [
+     "Ægir",
+     "Ægir's",
+     "Gymir",
+     "Gymir's",
+     "Hlér",
+     "Hlér's"
+    ]
+   },
+   "heiti": {
+    "Hlér": "heiti"
+   },
+   "first": {
+    "snorri": "s-c1-1",
+    "poetic": "hym-s1"
+   },
+   "first_any": {
+    "snorri": "s-c1-1",
+    "poetic": "hym-s1"
+   },
+   "mentions": 35,
+   "narrative": 32,
+   "check": 0,
+   "card": true,
+   "status": "auto",
+   "notes": [
+    "2026-11-20: Gymir is also a name of Ægir (Lokasenna prose; Skáldskaparmál 33 'allt er eitt Ægir ok Hlér ok Gymir'); rules.json sends those rows here, the giant Gymir father of Gerðr keeps the rest"
+   ]
+  },
+  {
    "id": "hrungnir",
    "tags": [
     "giant"
@@ -2365,79 +2446,6 @@
    },
    "mentions": 32,
    "narrative": 32,
-   "check": 0,
-   "card": true,
-   "status": "auto",
-   "notes": []
-  },
-  {
-   "id": "aegir",
-   "tags": [
-    "god"
-   ],
-   "type": "god",
-   "wikidata": "Q204927",
-   "names": {
-    "en": "Ægir",
-    "is": "Ægir",
-    "ru": "Эгир",
-    "de": "Ägir",
-    "da": "Ægir",
-    "nn": "Æge",
-    "sv": "Ägir",
-    "nb": "Æge"
-   },
-   "desc": {
-    "en": "sea giant, god of the ocean and king of the sea in Norse mythology"
-   },
-   "image": "Ögir und Ran by F. W. Heine.jpg",
-   "image_candidates": [
-    "Ögir und Ran by F. W. Heine.jpg",
-    "Daughters of Ægir and Rán.jpg"
-   ],
-   "coords": null,
-   "wiki": {
-    "enwiki": "Ægir",
-    "iswiki": "Ægir",
-    "ruwiki": "Эгир",
-    "nowiki": "Æge",
-    "nnwiki": "Æge",
-    "dewiki": "Ägir"
-   },
-   "image_source": "hand",
-   "forms": {
-    "on": [
-     "Ægis",
-     "Ægir",
-     "Ægi",
-     "Hlér"
-    ],
-    "is": [
-     "Ægir",
-     "Ægis",
-     "Ægi",
-     "Hlér"
-    ],
-    "en": [
-     "Ægir",
-     "Ægir's",
-     "Hlér",
-     "Hlér's"
-    ]
-   },
-   "heiti": {
-    "Hlér": "heiti"
-   },
-   "first": {
-    "snorri": "s-c1-1",
-    "poetic": "hym-s1"
-   },
-   "first_any": {
-    "snorri": "s-c1-1",
-    "poetic": "hym-s1"
-   },
-   "mentions": 31,
-   "narrative": 29,
    "check": 0,
    "card": true,
    "status": "auto",
@@ -6454,67 +6462,6 @@
    "notes": []
   },
   {
-   "id": "gymir",
-   "tags": [
-    "giant"
-   ],
-   "type": "giant",
-   "wikidata": "Q1380165",
-   "names": {
-    "de": "Gymir",
-    "da": "Gymer",
-    "en": "Gymir",
-    "sv": "Gymer",
-    "nb": "Gyme",
-    "is": "Gymir",
-    "ru": "Хюмир"
-   },
-   "desc": {
-    "en": "Norse mythical character"
-   },
-   "image": null,
-   "image_candidates": [],
-   "coords": null,
-   "wiki": {
-    "enwiki": "Gymir (father of Gerðr)",
-    "iswiki": "Gymir",
-    "ruwiki": "Гюмир",
-    "nowiki": "Gyme",
-    "dewiki": "Gymir"
-   },
-   "image_source": null,
-   "forms": {
-    "on": [
-     "Gymis",
-     "Gymir"
-    ],
-    "is": [
-     "Gymis",
-     "Gymir"
-    ],
-    "en": [
-     "Gymir",
-     "Gymir's",
-     "Gýmir"
-    ]
-   },
-   "heiti": {},
-   "first": {
-    "snorri": "g-c37-1",
-    "poetic": "skm-s6"
-   },
-   "first_any": {
-    "snorri": "g-c37-1",
-    "poetic": "skm-s6"
-   },
-   "mentions": 13,
-   "narrative": 12,
-   "check": 0,
-   "card": false,
-   "status": "auto",
-   "notes": []
-  },
-  {
    "id": "hlodr",
    "tags": [
     "hero"
@@ -8832,6 +8779,67 @@
    "narrative": 9,
    "check": 0,
    "card": true,
+   "status": "auto",
+   "notes": []
+  },
+  {
+   "id": "gymir",
+   "tags": [
+    "giant"
+   ],
+   "type": "giant",
+   "wikidata": "Q1380165",
+   "names": {
+    "de": "Gymir",
+    "da": "Gymer",
+    "en": "Gymir",
+    "sv": "Gymer",
+    "nb": "Gyme",
+    "is": "Gymir",
+    "ru": "Хюмир"
+   },
+   "desc": {
+    "en": "Norse mythical character"
+   },
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {
+    "enwiki": "Gymir (father of Gerðr)",
+    "iswiki": "Gymir",
+    "ruwiki": "Гюмир",
+    "nowiki": "Gyme",
+    "dewiki": "Gymir"
+   },
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Gymis",
+     "Gymir"
+    ],
+    "is": [
+     "Gymis",
+     "Gymir"
+    ],
+    "en": [
+     "Gymir",
+     "Gymir's",
+     "Gýmir"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c37-1",
+    "poetic": "skm-s6"
+   },
+   "first_any": {
+    "snorri": "g-c37-1",
+    "poetic": "skm-s6"
+   },
+   "mentions": 9,
+   "narrative": 9,
+   "check": 0,
+   "card": false,
    "status": "auto",
    "notes": []
   },

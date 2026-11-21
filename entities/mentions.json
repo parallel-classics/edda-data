@@ -64138,7 +64138,7 @@
    "status": "auto"
   },
   {
-   "entity": "gymir",
+   "entity": "aegir",
    "row": "s-c33-8",
    "lang": "on",
    "form": "Gymis",
@@ -64154,7 +64154,7 @@
    "status": "auto"
   },
   {
-   "entity": "gymir",
+   "entity": "aegir",
    "row": "s-c33-8",
    "lang": "is",
    "form": "Gymis",
@@ -64162,7 +64162,7 @@
    "status": "auto"
   },
   {
-   "entity": "gymir",
+   "entity": "aegir",
    "row": "s-c33-8",
    "lang": "en",
    "form": "Gymir's",
@@ -64178,7 +64178,7 @@
    "status": "auto"
   },
   {
-   "entity": "gymir",
+   "entity": "aegir",
    "row": "s-c33-8",
    "lang": "en-modern",
    "form": "Gymir's",
@@ -64210,7 +64210,7 @@
    "status": "auto"
   },
   {
-   "entity": "gymir",
+   "entity": "aegir",
    "row": "s-c33-9",
    "lang": "on",
    "form": "Gymir",
@@ -64234,7 +64234,7 @@
    "status": "auto"
   },
   {
-   "entity": "gymir",
+   "entity": "aegir",
    "row": "s-c33-9",
    "lang": "is",
    "form": "Gymir",
@@ -64250,7 +64250,7 @@
    "status": "auto"
   },
   {
-   "entity": "gymir",
+   "entity": "aegir",
    "row": "s-c33-9",
    "lang": "en",
    "form": "Gymir",
@@ -64266,7 +64266,7 @@
    "status": "auto"
   },
   {
-   "entity": "gymir",
+   "entity": "aegir",
    "row": "s-c33-9",
    "lang": "en-modern",
    "form": "Gymir",
@@ -91482,7 +91482,7 @@
    "list": true
   },
   {
-   "entity": "gymir",
+   "entity": "aegir",
    "row": "s-c76-8",
    "lang": "on",
    "form": "Gymis",
@@ -91491,10 +91491,28 @@
    "list": true
   },
   {
-   "entity": "gymir",
+   "entity": "aegir",
    "row": "s-c76-8",
    "lang": "is",
    "form": "Gymis",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "aegir",
+   "row": "s-c76-8",
+   "lang": "en",
+   "form": "Ægir's",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "aegir",
+   "row": "s-c76-8",
+   "lang": "en-modern",
+   "form": "Ægir's",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -124122,7 +124140,7 @@
    "status": "auto"
   },
   {
-   "entity": "gymir",
+   "entity": "aegir",
    "row": "ls-p1",
    "lang": "on",
    "form": "Gymir",
@@ -124354,7 +124372,7 @@
    "status": "auto"
   },
   {
-   "entity": "gymir",
+   "entity": "aegir",
    "row": "ls-p1",
    "lang": "is",
    "form": "Gymir",
@@ -124594,7 +124612,7 @@
    "status": "auto"
   },
   {
-   "entity": "gymir",
+   "entity": "aegir",
    "row": "ls-p1",
    "lang": "en",
    "form": "Gymir",
@@ -124842,7 +124860,7 @@
    "status": "auto"
   },
   {
-   "entity": "gymir",
+   "entity": "aegir",
    "row": "ls-p1",
    "lang": "en-modern",
    "form": "Gymir",
@@ -125082,7 +125100,7 @@
    "status": "auto"
   },
   {
-   "entity": "gymir",
+   "entity": "aegir",
    "row": "ls-p1",
    "lang": "en-thorpe",
    "form": "Gymir",
