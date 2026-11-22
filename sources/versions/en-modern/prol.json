@@ -1,5 +1,5 @@
 {
- "_note": "Open Edda's modernisation of Arthur Gilchrist Brodeur's translation (1916, public domain), the Prologue (Formáli), under the rules of the Gylfaginning pilot (gylf_1-10.json). Written by an AI (Claude, Anthropic) on 2026-11-14 from Brodeur's text as aligned in aligned/al_prol.json; not reviewed. Brodeur's readings are kept where they differ from the Old Norse; evident transcription errors in the source are corrected. Licence CC BY 4.0.",
+ "_note": "Open Edda's modernisation of Arthur Gilchrist Brodeur's translation (1916, public domain), the Prologue (Formáli), under the rules of the Gylfaginning pilot (gylf_1-10.json). Written by an AI (Claude, Anthropic) on 2026-11-14 from Brodeur's text as aligned in aligned/al_prol.json; not reviewed. Brodeur's readings are kept where they differ from the Old Norse; evident transcription errors in the source are corrected. Licence CC BY 4.0. Names stay in their Old Norse form, not translated (Nótt, not Night; Myrkviðr, not Mirkwood): what a name means is told on its card (decision of 2026-11-22).",
  "text_id": "en-modern",
  "text": {
   "lang": "en",

@@ -3086,6 +3086,26 @@
     "Norn",
     "Norns"
    ]
+  },
+  "einherjar": {
+   "on": [
+    "einherjar",
+    "einherja",
+    "einherjum",
+    "einherjum"
+   ],
+   "is": [
+    "einherjar",
+    "einherja",
+    "einherjum",
+    "einherjarnir",
+    "einherjunum"
+   ],
+   "en": [
+    "Einherjar",
+    "einherjar",
+    "Einheriar"
+   ]
   }
  }
 }
