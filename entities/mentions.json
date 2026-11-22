@@ -3259,10 +3259,98 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "g-c3-2",
+   "lang": "en-modern",
+   "form": "Alfödr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "asgard",
    "row": "g-c3-2",
    "lang": "en-modern",
    "form": "Ásgard",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c3-2",
+   "lang": "en-modern",
+   "form": "Alfödr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c3-2",
+   "lang": "en-modern",
+   "form": "Herjan",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c3-2",
+   "lang": "en-modern",
+   "form": "Hnikarr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c3-2",
+   "lang": "en-modern",
+   "form": "Hnikudr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fjolnir",
+   "row": "g-c3-2",
+   "lang": "en-modern",
+   "form": "Fjölnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c3-2",
+   "lang": "en-modern",
+   "form": "Ómi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c3-2",
+   "lang": "en-modern",
+   "form": "Biflindi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c3-2",
+   "lang": "en-modern",
+   "form": "Svidrir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c3-2",
+   "lang": "en-modern",
+   "form": "Vidrir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c3-2",
+   "lang": "en-modern",
+   "form": "Jálkr",
    "kind": "name",
    "status": "auto"
   },
@@ -3515,10 +3603,10 @@
    "status": "auto"
   },
   {
-   "entity": "hel",
+   "entity": "niflhel",
    "row": "g-c3-6",
    "lang": "en-modern",
-   "form": "Hel",
+   "form": "Niflhel",
    "kind": "name",
    "status": "auto"
   },
@@ -4115,6 +4203,14 @@
    "status": "auto"
   },
   {
+   "entity": "niflheim",
+   "row": "g-c4-4",
+   "lang": "en-modern",
+   "form": "Niflheimr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hvergelmir",
    "row": "g-c4-4",
    "lang": "en-modern",
@@ -4459,6 +4555,14 @@
    "status": "auto"
   },
   {
+   "entity": "elivagar",
+   "row": "g-c5-2",
+   "lang": "en-modern",
+   "form": "Élivágar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ginnungagap",
    "row": "g-c5-2",
    "lang": "en-modern",
@@ -4591,6 +4695,14 @@
    "row": "g-c5-3",
    "lang": "en-modern",
    "form": "Jafnhárr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ginnungagap",
+   "row": "g-c5-3",
+   "lang": "en-modern",
+   "form": "Ginnungagap",
    "kind": "name",
    "status": "auto"
   },
@@ -5035,6 +5147,14 @@
    "status": "auto"
   },
   {
+   "entity": "svarthofdi",
+   "row": "g-c5-5",
+   "lang": "en-modern",
+   "form": "Svarthöfdi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "ymir",
    "row": "g-c5-5",
    "lang": "en-modern",
@@ -5215,6 +5335,14 @@
    "row": "g-c5-7",
    "lang": "en-modern",
    "form": "giant",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "elivagar",
+   "row": "g-c5-7",
+   "lang": "en-modern",
+   "form": "Élivágar",
    "kind": "name",
    "status": "auto"
   },
@@ -6515,6 +6643,14 @@
    "status": "auto"
   },
   {
+   "entity": "ginnungagap",
+   "row": "g-c8-2",
+   "lang": "en-modern",
+   "form": "Ginnungagap",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c8-3",
    "lang": "on",
@@ -6791,6 +6927,38 @@
    "row": "g-c8-4",
    "lang": "en-modern",
    "form": "Thridi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "austri",
+   "row": "g-c8-4",
+   "lang": "en-modern",
+   "form": "Austri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vestri",
+   "row": "g-c8-4",
+   "lang": "en-modern",
+   "form": "Vestri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nordri",
+   "row": "g-c8-4",
+   "lang": "en-modern",
+   "form": "Nordri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sudri",
+   "row": "g-c8-4",
+   "lang": "en-modern",
+   "form": "Sudri",
    "kind": "name",
    "status": "auto"
   },
@@ -7555,6 +7723,14 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "g-c9-2",
+   "lang": "en-modern",
+   "form": "Alfödr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "frigg",
    "row": "g-c9-2",
    "lang": "en-modern",
@@ -7567,6 +7743,14 @@
    "row": "g-c9-2",
    "lang": "en-modern",
    "form": "Ásgard",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c9-2",
+   "lang": "en-modern",
+   "form": "Alfödr",
    "kind": "name",
    "status": "auto"
   },
@@ -8118,7 +8302,7 @@
    "entity": "nott",
    "row": "g-c10-1",
    "lang": "en-modern",
-   "form": "Night",
+   "form": "Nótt",
    "kind": "name",
    "status": "auto"
   },
@@ -8158,7 +8342,7 @@
    "entity": "dellingr",
    "row": "g-c10-1",
    "lang": "en-modern",
-   "form": "Dayspring",
+   "form": "Dellingr",
    "kind": "name",
    "status": "auto"
   },
@@ -8166,7 +8350,15 @@
    "entity": "dagr",
    "row": "g-c10-1",
    "lang": "en-modern",
-   "form": "Day",
+   "form": "Dagr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c10-1",
+   "lang": "en-modern",
+   "form": "Alfödr",
    "kind": "name",
    "status": "auto"
   },
@@ -8174,7 +8366,7 @@
    "entity": "nott",
    "row": "g-c10-1",
    "lang": "en-modern",
-   "form": "Night",
+   "form": "Nótt",
    "kind": "name",
    "status": "auto"
   },
@@ -8182,7 +8374,7 @@
    "entity": "dagr",
    "row": "g-c10-1",
    "lang": "en-modern",
-   "form": "Day",
+   "form": "Dagr",
    "kind": "name",
    "status": "auto"
   },
@@ -8190,7 +8382,7 @@
    "entity": "nott",
    "row": "g-c10-1",
    "lang": "en-modern",
-   "form": "Night",
+   "form": "Nótt",
    "kind": "name",
    "status": "auto"
   },
@@ -8198,7 +8390,7 @@
    "entity": "hrimfaxi",
    "row": "g-c10-1",
    "lang": "en-modern",
-   "form": "Frosty-Mane",
+   "form": "Hrímfaxi",
    "kind": "name",
    "status": "auto"
   },
@@ -8206,7 +8398,7 @@
    "entity": "dagr",
    "row": "g-c10-1",
    "lang": "en-modern",
-   "form": "Day's",
+   "form": "Dagr's",
    "kind": "name",
    "status": "auto"
   },
@@ -8214,7 +8406,7 @@
    "entity": "skinfaxi",
    "row": "g-c10-1",
    "lang": "en-modern",
-   "form": "Sheen-Mane",
+   "form": "Skinfaxi",
    "kind": "name",
    "status": "auto"
   },
@@ -9139,6 +9331,22 @@
    "status": "auto"
   },
   {
+   "entity": "jarnvidr",
+   "row": "g-c12-6",
+   "lang": "en-modern",
+   "form": "Járnvidr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "managarmr",
+   "row": "g-c12-6",
+   "lang": "en-modern",
+   "form": "Mánagarmr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "voluspa",
    "row": "g-c12-6",
    "lang": "en-modern",
@@ -9159,6 +9367,14 @@
    "row": "g-c12-7",
    "lang": "is",
    "form": "Járnviði",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jarnvidr",
+   "row": "g-c12-7",
+   "lang": "en-modern",
+   "form": "Járnvidr",
    "kind": "name",
    "status": "auto"
   },
@@ -9455,6 +9671,14 @@
    "row": "g-c14-1",
    "lang": "en-modern",
    "form": "Gangleri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c14-1",
+   "lang": "en-modern",
+   "form": "Alfödr",
    "kind": "name",
    "status": "auto"
   },
@@ -9783,6 +10007,14 @@
    "row": "g-c14-2",
    "lang": "en-modern",
    "form": "Ida-field",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c14-2",
+   "lang": "en-modern",
+   "form": "Alfödr",
    "kind": "name",
    "status": "auto"
   },
@@ -13199,6 +13431,14 @@
    "status": "auto"
   },
   {
+   "entity": "ginnungagap",
+   "row": "g-c15-4",
+   "lang": "en-modern",
+   "form": "Ginnungagap",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "niflheim",
    "row": "g-c15-4",
    "lang": "en-modern",
@@ -13223,10 +13463,10 @@
    "status": "auto"
   },
   {
-   "entity": "mimir",
+   "entity": "mimisbrunnr",
    "row": "g-c15-4",
    "lang": "en-modern",
-   "form": "Mímir's",
+   "form": "Mímisbrunnr",
    "kind": "name",
    "status": "auto"
   },
@@ -13242,10 +13482,18 @@
    "entity": "gjallarhorn",
    "row": "g-c15-4",
    "lang": "en-modern",
-   "form": "Gjallar-Horn",
+   "form": "Gjallarhorn",
    "kind": "name",
    "status": "auto",
    "check": true
+  },
+  {
+   "entity": "odin",
+   "row": "g-c15-4",
+   "lang": "en-modern",
+   "form": "Alfödr",
+   "kind": "name",
+   "status": "auto"
   },
   {
    "entity": "voluspa",
@@ -13972,6 +14220,14 @@
    "row": "g-c15-6",
    "lang": "en-modern",
    "form": "Æsir's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "urdarbrunnr",
+   "row": "g-c15-6",
+   "lang": "en-modern",
+   "form": "Urdarbrunnr",
    "kind": "name",
    "status": "auto"
   },
@@ -15717,6 +15973,14 @@
    "status": "auto"
   },
   {
+   "entity": "urdarbrunnr",
+   "row": "g-c16-6",
+   "lang": "en-modern",
+   "form": "Urdarbrunnr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "yggdrasil",
    "row": "g-c16-7",
    "lang": "on",
@@ -15766,6 +16030,14 @@
   },
   {
    "entity": "urdarbrunnr",
+   "row": "g-c16-7",
+   "lang": "en-modern",
+   "form": "Urdarbrunnr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "urdarbrunnr",
    "row": "g-c16-8",
    "lang": "on",
    "form": "Urðarbrunni",
@@ -15777,6 +16049,14 @@
    "row": "g-c16-8",
    "lang": "is",
    "form": "Urðarbrunni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "urdarbrunnr",
+   "row": "g-c16-8",
+   "lang": "en-modern",
+   "form": "Urdarbrunnr",
    "kind": "name",
    "status": "auto"
   },
@@ -15833,6 +16113,14 @@
    "row": "g-c17-1",
    "lang": "en-modern",
    "form": "Gangleri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "urdarbrunnr",
+   "row": "g-c17-1",
+   "lang": "en-modern",
+   "form": "Urdarbrunnr",
    "kind": "name",
    "status": "auto"
   },
@@ -16301,6 +16589,14 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "g-c17-2",
+   "lang": "en-modern",
+   "form": "Alfödr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gimle",
    "row": "g-c17-2",
    "lang": "en-modern",
@@ -16409,6 +16705,14 @@
    "row": "g-c17-4",
    "lang": "en-modern",
    "form": "Gangleri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "surtalogi",
+   "row": "g-c17-4",
+   "lang": "en-modern",
+   "form": "Surtalogi",
    "kind": "name",
    "status": "auto"
   },
@@ -17430,6 +17734,22 @@
    "check": true
   },
   {
+   "entity": "einherjar",
+   "row": "g-c20-6",
+   "lang": "on",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c20-6",
+   "lang": "is",
+   "form": "einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c20-6",
    "lang": "is",
@@ -17544,10 +17864,34 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c20-6",
+   "lang": "en-modern",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c20-6",
    "lang": "en-modern",
    "form": "Odin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c20-6",
+   "lang": "en-modern",
+   "form": "Alfödr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c20-6",
+   "lang": "en-modern",
+   "form": "Valfödr",
    "kind": "name",
    "status": "auto"
   },
@@ -19313,6 +19657,22 @@
    "status": "auto"
   },
   {
+   "entity": "tanngnjostr",
+   "row": "g-c21-4",
+   "lang": "en-modern",
+   "form": "Tanngnjóstr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "tanngrisnir",
+   "row": "g-c21-4",
+   "lang": "en-modern",
+   "form": "Tanngrisnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "oku-thor",
    "row": "g-c21-4",
    "lang": "en-modern",
@@ -20241,10 +20601,10 @@
    "status": "auto"
   },
   {
-   "entity": "vanir",
+   "entity": "vanaheimr",
    "row": "g-c23-1",
    "lang": "en-modern",
-   "form": "Vanir",
+   "form": "Vanaheimr",
    "kind": "name",
    "status": "auto"
   },
@@ -21500,7 +21860,7 @@
    "entity": "fenrir",
    "row": "g-c25-2",
    "lang": "en-modern",
-   "form": "Fenris-Wolf",
+   "form": "Fenrisúlfr",
    "kind": "name",
    "status": "auto"
   },
@@ -21940,6 +22300,14 @@
    "status": "auto"
   },
   {
+   "entity": "gulltoppr",
+   "row": "g-c27-1",
+   "lang": "en-modern",
+   "form": "Gulltoppr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "himinbjorg",
    "row": "g-c27-1",
    "lang": "en-modern",
@@ -21959,7 +22327,7 @@
    "entity": "gjallarhorn",
    "row": "g-c27-1",
    "lang": "en-modern",
-   "form": "Gjallar-Horn",
+   "form": "Gjallarhorn",
    "kind": "name",
    "status": "auto",
    "check": true
@@ -23600,7 +23968,7 @@
    "entity": "fenrir",
    "row": "g-c34-1",
    "lang": "en-modern",
-   "form": "Fenris-Wolf",
+   "form": "Fenrisúlfr",
    "kind": "name",
    "status": "auto"
   },
@@ -23609,6 +23977,14 @@
    "row": "g-c34-1",
    "lang": "en-modern",
    "form": "Jörmungandr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jormungandr",
+   "row": "g-c34-1",
+   "lang": "en-modern",
+   "form": "Midgardsormr",
    "kind": "name",
    "status": "auto"
   },
@@ -23625,6 +24001,14 @@
    "row": "g-c34-1",
    "lang": "en-modern",
    "form": "Jötunheim",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c34-1",
+   "lang": "en-modern",
+   "form": "Alfödr",
    "kind": "name",
    "status": "auto"
   },
@@ -24189,6 +24573,14 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "g-c34-4",
+   "lang": "en-modern",
+   "form": "Alfödr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "skirnir",
    "row": "g-c34-4",
    "lang": "en-modern",
@@ -24201,6 +24593,14 @@
    "row": "g-c34-4",
    "lang": "en-modern",
    "form": "Freyr's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "svartalfaheimr",
+   "row": "g-c34-4",
+   "lang": "en-modern",
+   "form": "Svartálfaheimr",
    "kind": "name",
    "status": "auto"
   },
@@ -25701,6 +26101,14 @@
    "status": "auto"
   },
   {
+   "entity": "odin",
+   "row": "g-c35-9",
+   "lang": "en-modern",
+   "form": "Alfödr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "frigg",
    "row": "g-c35-9",
    "lang": "en-modern",
@@ -25905,6 +26313,14 @@
    "row": "g-c35-18",
    "lang": "en-anderson",
    "form": "Gardrofa",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hofvarpnir",
+   "row": "g-c35-18",
+   "lang": "en-modern",
+   "form": "Hófvarpnir",
    "kind": "name",
    "status": "auto"
   },
@@ -26149,6 +26565,22 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c36-2",
+   "lang": "on",
+   "form": "Einherjum",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c36-2",
+   "lang": "is",
+   "form": "einherjum",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hrist",
    "row": "g-c36-2",
    "lang": "is",
@@ -26213,6 +26645,14 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c36-2",
+   "lang": "en",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hrist",
    "row": "g-c36-2",
    "lang": "en",
@@ -26273,14 +26713,6 @@
    "row": "g-c36-2",
    "lang": "en",
    "form": "Reginleif",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "einherjar",
-   "row": "g-c36-2",
-   "lang": "en",
-   "form": "Einherjar",
    "kind": "name",
    "status": "auto"
   },
@@ -26349,6 +26781,14 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c36-2",
+   "lang": "en-modern",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hrist",
    "row": "g-c36-2",
    "lang": "en-modern",
@@ -26409,14 +26849,6 @@
    "row": "g-c36-2",
    "lang": "en-modern",
    "form": "Reginleif",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "einherjar",
-   "row": "g-c36-2",
-   "lang": "en-modern",
-   "form": "Einherjar",
    "kind": "name",
    "status": "auto"
   },
@@ -28253,6 +28685,22 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c38-3",
+   "lang": "on",
+   "form": "einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c38-3",
+   "lang": "is",
+   "form": "einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "eldhrimnir",
    "row": "g-c38-3",
    "lang": "is",
@@ -28293,6 +28741,14 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c38-3",
+   "lang": "en-modern",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "eldhrimnir",
    "row": "g-c38-3",
    "lang": "en-modern",
@@ -28321,6 +28777,22 @@
    "row": "g-c38-4",
    "lang": "on",
    "form": "Óðinn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c38-4",
+   "lang": "on",
+   "form": "einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c38-4",
+   "lang": "is",
+   "form": "einherjar",
    "kind": "name",
    "status": "auto"
   },
@@ -28369,6 +28841,14 @@
    "row": "g-c38-4",
    "lang": "en-anderson",
    "form": "Odin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c38-4",
+   "lang": "en-modern",
+   "form": "Einherjar",
    "kind": "name",
    "status": "auto"
   },
@@ -28813,6 +29293,22 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c39-1",
+   "lang": "on",
+   "form": "einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c39-1",
+   "lang": "is",
+   "form": "einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gylfi",
    "row": "g-c39-1",
    "lang": "is",
@@ -28833,6 +29329,14 @@
    "row": "g-c39-1",
    "lang": "en-anderson",
    "form": "Ganglere",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c39-1",
+   "lang": "en-modern",
+   "form": "Einherjar",
    "kind": "name",
    "status": "auto"
   },
@@ -28889,6 +29393,22 @@
    "row": "g-c39-2",
    "lang": "on",
    "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c39-2",
+   "lang": "on",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c39-2",
+   "lang": "is",
+   "form": "einherjar",
    "kind": "name",
    "status": "auto"
   },
@@ -28997,10 +29517,26 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c39-2",
+   "lang": "en-modern",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c39-2",
    "lang": "en-modern",
    "form": "Hárr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "odin",
+   "row": "g-c39-2",
+   "lang": "en-modern",
+   "form": "Alfödr",
    "kind": "name",
    "status": "auto"
   },
@@ -29781,6 +30317,22 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c40-3",
+   "lang": "on",
+   "form": "Einherja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c40-3",
+   "lang": "is",
+   "form": "einherja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "valhalla",
    "row": "g-c40-3",
    "lang": "is",
@@ -29801,6 +30353,14 @@
    "row": "g-c40-3",
    "lang": "en-anderson",
    "form": "Valhal",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c40-3",
+   "lang": "en-modern",
+   "form": "Einherjar",
    "kind": "name",
    "status": "auto"
   },
@@ -29833,6 +30393,14 @@
    "row": "g-c41-1",
    "lang": "on",
    "form": "Óðinn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c41-1",
+   "lang": "on",
+   "form": "Einherja",
    "kind": "name",
    "status": "auto"
   },
@@ -29925,6 +30493,14 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c41-1",
+   "lang": "en-modern",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gylfi",
    "row": "g-c41-1",
    "lang": "en-modern",
@@ -30001,6 +30577,22 @@
    "row": "g-c41-3",
    "lang": "on",
    "form": "Óðins",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c41-3",
+   "lang": "on",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c41-3",
+   "lang": "is",
+   "form": "einherjar",
    "kind": "name",
    "status": "auto"
   },
@@ -38029,6 +38621,14 @@
    "status": "auto"
   },
   {
+   "entity": "jormungandr",
+   "row": "g-c47-5",
+   "lang": "en-modern",
+   "form": "Midgardsormr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "elli",
    "row": "g-c47-5",
    "lang": "en-modern",
@@ -38169,6 +38769,14 @@
    "row": "g-c47-6",
    "lang": "en-modern",
    "form": "Thrúdvangar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jormungandr",
+   "row": "g-c47-6",
+   "lang": "en-modern",
+   "form": "Midgardsormr",
    "kind": "name",
    "status": "auto"
   },
@@ -39333,6 +39941,14 @@
    "status": "auto"
   },
   {
+   "entity": "jormungandr",
+   "row": "g-c48-5",
+   "lang": "en-modern",
+   "form": "Midgardsormr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "thor",
    "row": "g-c48-5",
    "lang": "en-modern",
@@ -39901,6 +40517,14 @@
    "status": "auto"
   },
   {
+   "entity": "jormungandr",
+   "row": "g-c48-6",
+   "lang": "en-modern",
+   "form": "Midgardsormr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "utgarda-loki",
    "row": "g-c48-6",
    "lang": "en-modern",
@@ -39913,6 +40537,14 @@
    "row": "g-c48-6",
    "lang": "en-modern",
    "form": "Thor",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jormungandr",
+   "row": "g-c48-6",
+   "lang": "en-modern",
+   "form": "Midgardsormr",
    "kind": "name",
    "status": "auto"
   },
@@ -39969,6 +40601,14 @@
    "row": "g-c48-6",
    "lang": "en-modern",
    "form": "Thor",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jormungandr",
+   "row": "g-c48-6",
+   "lang": "en-modern",
+   "form": "Midgardsormr",
    "kind": "name",
    "status": "auto"
   },
@@ -42957,10 +43597,34 @@
    "status": "auto"
   },
   {
+   "entity": "gullinbursti",
+   "row": "g-c49-15",
+   "lang": "en-modern",
+   "form": "Gullinbursti",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gullinbursti",
+   "row": "g-c49-15",
+   "lang": "en-modern",
+   "form": "Slídrugtanni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "heimdall",
    "row": "g-c49-15",
    "lang": "en-modern",
    "form": "Heimdallr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gulltoppr",
+   "row": "g-c49-15",
+   "lang": "en-modern",
+   "form": "Gulltoppr",
    "kind": "name",
    "status": "auto"
   },
@@ -43139,6 +43803,14 @@
    "row": "g-c49-19",
    "lang": "en-modern",
    "form": "Baldr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gjallarbru",
+   "row": "g-c49-19",
+   "lang": "en-modern",
+   "form": "Gjallarbrú",
    "kind": "name",
    "status": "auto"
   },
@@ -46082,7 +46754,15 @@
    "entity": "fenrir",
    "row": "g-c51-4",
    "lang": "en-modern",
-   "form": "Fenris-Wolf",
+   "form": "Fenrisúlfr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jormungandr",
+   "row": "g-c51-4",
+   "lang": "en-modern",
+   "form": "Midgardsormr",
    "kind": "name",
    "status": "auto"
   },
@@ -46130,7 +46810,15 @@
    "entity": "fenrir",
    "row": "g-c51-4",
    "lang": "en-modern",
-   "form": "Fenris-Wolf",
+   "form": "Fenrisúlfr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jormungandr",
+   "row": "g-c51-4",
+   "lang": "en-modern",
+   "form": "Midgardsormr",
    "kind": "name",
    "status": "auto"
   },
@@ -46178,7 +46866,15 @@
    "entity": "fenrir",
    "row": "g-c51-4",
    "lang": "en-modern",
-   "form": "Fenris-Wolf",
+   "form": "Fenrisúlfr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jormungandr",
+   "row": "g-c51-4",
+   "lang": "en-modern",
+   "form": "Midgardsormr",
    "kind": "name",
    "status": "auto"
   },
@@ -46456,6 +47152,14 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c51-5",
+   "lang": "on",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "aesir",
    "row": "g-c51-5",
    "lang": "on",
@@ -46468,6 +47172,14 @@
    "row": "g-c51-5",
    "lang": "is",
    "form": "Æsir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c51-5",
+   "lang": "is",
+   "form": "einherjar",
    "kind": "name",
    "status": "auto"
   },
@@ -46938,6 +47650,14 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c51-5",
+   "lang": "en-modern",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "aesir",
    "row": "g-c51-5",
    "lang": "en-modern",
@@ -46957,7 +47677,7 @@
    "entity": "gjallarhorn",
    "row": "g-c51-5",
    "lang": "en-modern",
-   "form": "Gjallar-Horn",
+   "form": "Gjallarhorn",
    "kind": "name",
    "status": "auto",
    "check": true
@@ -46971,10 +47691,10 @@
    "status": "auto"
   },
   {
-   "entity": "mimir",
+   "entity": "mimisbrunnr",
    "row": "g-c51-5",
    "lang": "en-modern",
-   "form": "Mímir's",
+   "form": "Mímisbrunnr",
    "kind": "name",
    "status": "auto"
   },
@@ -47014,7 +47734,7 @@
    "entity": "fenrir",
    "row": "g-c51-5",
    "lang": "en-modern",
-   "form": "Fenris-Wolf",
+   "form": "Fenrisúlfr",
    "kind": "name",
    "status": "auto"
   },
@@ -47023,6 +47743,14 @@
    "row": "g-c51-5",
    "lang": "en-modern",
    "form": "Thor",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jormungandr",
+   "row": "g-c51-5",
+   "lang": "en-modern",
+   "form": "Midgardsormr",
    "kind": "name",
    "status": "auto"
   },
@@ -47079,6 +47807,14 @@
    "row": "g-c51-5",
    "lang": "en-modern",
    "form": "Thor",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jormungandr",
+   "row": "g-c51-5",
+   "lang": "en-modern",
+   "form": "Midgardsormr",
    "kind": "name",
    "status": "auto"
   },
@@ -47595,6 +48331,14 @@
    "status": "auto"
   },
   {
+   "entity": "jormungandr",
+   "row": "g-c51-8",
+   "lang": "en-modern",
+   "form": "Jörmungandr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "naglfar",
    "row": "g-c51-8",
    "lang": "en-modern",
@@ -47915,6 +48659,14 @@
    "status": "auto"
   },
   {
+   "entity": "hlin",
+   "row": "g-c51-11",
+   "lang": "en-modern",
+   "form": "Hlín",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "odin",
    "row": "g-c51-11",
    "lang": "en-modern",
@@ -48039,6 +48791,14 @@
    "row": "g-c51-12",
    "lang": "en-modern",
    "form": "Vídarr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "loki",
+   "row": "g-c51-12",
+   "lang": "en-modern",
+   "form": "Hvedrungr's",
    "kind": "name",
    "status": "auto"
   },
@@ -48203,6 +48963,22 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "g-c52-1",
+   "lang": "on",
+   "form": "Einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c52-1",
+   "lang": "is",
+   "form": "einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gylfi",
    "row": "g-c52-1",
    "lang": "is",
@@ -48223,6 +48999,14 @@
    "row": "g-c52-1",
    "lang": "en-anderson",
    "form": "Ganglere",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "g-c52-1",
+   "lang": "en-modern",
+   "form": "Einherjar",
    "kind": "name",
    "status": "auto"
   },
@@ -48443,6 +49227,14 @@
    "status": "auto"
   },
   {
+   "entity": "nidafjoll",
+   "row": "g-c52-2",
+   "lang": "en-modern",
+   "form": "Nidafjöll",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sindri",
    "row": "g-c52-2",
    "lang": "en-modern",
@@ -48511,6 +49303,14 @@
    "row": "g-c52-6",
    "lang": "is",
    "form": "Níðhöggur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "nidhoggr",
+   "row": "g-c52-6",
+   "lang": "en-modern",
+   "form": "Nídhöggr",
    "kind": "name",
    "status": "auto"
   },
@@ -48955,6 +49755,22 @@
    "status": "auto"
   },
   {
+   "entity": "surtalogi",
+   "row": "g-c53-2",
+   "lang": "en-modern",
+   "form": "Surtalogi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "idavollr",
+   "row": "g-c53-2",
+   "lang": "en-modern",
+   "form": "Idavöllr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "asgard",
    "row": "g-c53-2",
    "lang": "en-modern",
@@ -49011,10 +49827,18 @@
    "status": "auto"
   },
   {
+   "entity": "jormungandr",
+   "row": "g-c53-2",
+   "lang": "en-modern",
+   "form": "Midgardsormr",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fenrir",
    "row": "g-c53-2",
    "lang": "en-modern",
-   "form": "Fenris-Wolf",
+   "form": "Fenrisúlfr",
    "kind": "name",
    "status": "auto"
   },
@@ -49171,6 +49995,14 @@
    "status": "auto"
   },
   {
+   "entity": "surtalogi",
+   "row": "g-c53-3",
+   "lang": "en-modern",
+   "form": "Surtalogi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "magni",
    "row": "g-c53-3",
    "lang": "en-modern",
@@ -49238,7 +50070,7 @@
    "entity": "hoddmimis-holt",
    "row": "g-c53-4",
    "lang": "en-modern",
-   "form": "Hoddmímir's",
+   "form": "Hoddmímisholt",
    "kind": "name",
    "status": "auto"
   },
@@ -49294,7 +50126,7 @@
    "entity": "hoddmimis-holt",
    "row": "g-c53-5",
    "lang": "en-modern",
-   "form": "Hoddmímir",
+   "form": "Hoddmímisholt",
    "kind": "name",
    "status": "auto"
   },
@@ -57479,10 +58311,26 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "s-c9-39",
+   "lang": "on",
+   "form": "Einherja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "valkyrjur",
    "row": "s-c9-39",
    "lang": "on",
    "form": "valkyrjur",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "s-c9-39",
+   "lang": "is",
+   "form": "einherja",
    "kind": "name",
    "status": "auto"
   },
@@ -122003,6 +122851,22 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "vm-s41",
+   "lang": "on",
+   "form": "einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "vm-s41",
+   "lang": "is",
+   "form": "einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "vafthrudnir",
    "row": "vm-s41",
    "lang": "is",
@@ -122047,6 +122911,14 @@
    "row": "vm-s41",
    "lang": "en-modern",
    "form": "Othin's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "vm-s41",
+   "lang": "en-thorpe",
+   "form": "Einheriar",
    "kind": "name",
    "status": "auto"
   },
@@ -125723,6 +126595,22 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "grm-s18",
+   "lang": "on",
+   "form": "einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "grm-s18",
+   "lang": "is",
+   "form": "einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "eldhrimnir",
    "row": "grm-s18",
    "lang": "is",
@@ -125767,6 +126655,14 @@
    "row": "grm-s18",
    "lang": "en-modern",
    "form": "Sæhrimnir's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "grm-s18",
+   "lang": "en-thorpe",
+   "form": "Einheriar",
    "kind": "name",
    "status": "auto"
   },
@@ -126107,6 +127003,22 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "grm-s23",
+   "lang": "on",
+   "form": "Einherja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "grm-s23",
+   "lang": "is",
+   "form": "einherja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "valhalla",
    "row": "grm-s23",
    "lang": "is",
@@ -126131,18 +127043,18 @@
    "status": "auto"
   },
   {
-   "entity": "valhalla",
-   "row": "grm-s23",
-   "lang": "en-thorpe",
-   "form": "Valhall",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
    "entity": "einherjar",
    "row": "grm-s23",
    "lang": "en-thorpe",
    "form": "Einheriar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "valhalla",
+   "row": "grm-s23",
+   "lang": "en-thorpe",
+   "form": "Valhall",
    "kind": "name",
    "status": "auto"
   },
@@ -128545,6 +129457,22 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "grm-s36",
+   "lang": "on",
+   "form": "Einherjum",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "grm-s36",
+   "lang": "is",
+   "form": "einherjum",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hrist",
    "row": "grm-s36",
    "lang": "is",
@@ -128737,6 +129665,14 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "grm-s36",
+   "lang": "en-thorpe",
+   "form": "Einheriar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hrist",
    "row": "grm-s36",
    "lang": "en-thorpe",
@@ -128797,14 +129733,6 @@
    "row": "grm-s36",
    "lang": "en-thorpe",
    "form": "Reginleif",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "einherjar",
-   "row": "grm-s36",
-   "lang": "en-thorpe",
-   "form": "Einheriar",
    "kind": "name",
    "status": "auto"
   },
@@ -130861,6 +131789,24 @@
    "list": true
   },
   {
+   "entity": "einherjar",
+   "row": "grm-s51",
+   "lang": "on",
+   "form": "Einherjum",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
+   "entity": "einherjar",
+   "row": "grm-s51",
+   "lang": "is",
+   "form": "einherjum",
+   "kind": "name",
+   "status": "auto",
+   "list": true
+  },
+  {
    "entity": "king-geirrod",
    "row": "grm-s51",
    "lang": "is",
@@ -130901,15 +131847,6 @@
    "row": "grm-s51",
    "lang": "en-thorpe",
    "form": "Geirröd",
-   "kind": "name",
-   "status": "auto",
-   "list": true
-  },
-  {
-   "entity": "einherjar",
-   "row": "grm-s51",
-   "lang": "en-thorpe",
-   "form": "Einheriar's",
    "kind": "name",
    "status": "auto",
    "list": true
@@ -173937,10 +174874,26 @@
    "status": "auto"
   },
   {
+   "entity": "einherjar",
+   "row": "hh1-s38",
+   "lang": "on",
+   "form": "einherjar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "valkyrjur",
    "row": "hh1-s38",
    "lang": "is",
    "form": "valkyrja",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "hh1-s38",
+   "lang": "is",
+   "form": "einherjar",
    "kind": "name",
    "status": "auto"
   },
@@ -173973,6 +174926,14 @@
    "row": "hh1-s38",
    "lang": "en-thorpe",
    "form": "Valkyria",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "einherjar",
+   "row": "hh1-s38",
+   "lang": "en-thorpe",
+   "form": "Einheriar",
    "kind": "name",
    "status": "auto"
   },

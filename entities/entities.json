@@ -2740,6 +2740,55 @@
    "notes": []
   },
   {
+   "id": "einherjar",
+   "tags": [
+    "people"
+   ],
+   "type": "people",
+   "wikidata": "Q337168",
+   "names": {
+    "on": "einherjar",
+    "en": "Einherjar"
+   },
+   "desc": {},
+   "image": null,
+   "image_candidates": [],
+   "coords": null,
+   "wiki": {},
+   "image_source": null,
+   "forms": {
+    "on": [
+     "Einherjar",
+     "Einherja",
+     "Einherjum",
+     "einherjar"
+    ],
+    "is": [
+     "einherjar",
+     "einherja",
+     "einherjum"
+    ],
+    "en": [
+     "Einherjar"
+    ]
+   },
+   "heiti": {},
+   "first": {
+    "snorri": "g-c20-6",
+    "poetic": "vm-s41"
+   },
+   "first_any": {
+    "snorri": "g-c20-6",
+    "poetic": "vm-s41"
+   },
+   "mentions": 30,
+   "narrative": 28,
+   "check": 0,
+   "card": false,
+   "status": "auto",
+   "notes": []
+  },
+  {
    "id": "hymir",
    "tags": [
     "giant"
@@ -7187,49 +7236,6 @@
    "notes": [
     "added by rules.json"
    ]
-  },
-  {
-   "id": "einherjar",
-   "tags": [
-    "people"
-   ],
-   "type": "people",
-   "wikidata": "Q337168",
-   "names": {
-    "on": "einherjar",
-    "en": "Einherjar"
-   },
-   "desc": {},
-   "image": null,
-   "image_candidates": [],
-   "coords": null,
-   "wiki": {},
-   "image_source": null,
-   "forms": {
-    "on": [
-     "Einherjar",
-     "Einherja",
-     "Einherjum"
-    ],
-    "en": [
-     "Einherjar"
-    ]
-   },
-   "heiti": {},
-   "first": {
-    "snorri": "g-c20-6",
-    "poetic": "grm-s23"
-   },
-   "first_any": {
-    "snorri": "g-c20-6",
-    "poetic": "grm-s23"
-   },
-   "mentions": 12,
-   "narrative": 11,
-   "check": 0,
-   "card": false,
-   "status": "auto",
-   "notes": []
   },
   {
    "id": "fenrir",
