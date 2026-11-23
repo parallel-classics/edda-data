@@ -759,19 +759,16 @@
      "en": [
       {
        "t": "v",
-       "n": 11,
+       "n": 12,
        "l": [
-        "Then the fame-glad one— | on the steps she was—",
-        "The slender-fingered, | spake with her son:",
-        "\"Ye shall danger have | if counsel ye heed not;",
-        "..............",
-        "By two heroes alone | shall two hundred of Goths",
-        "Be bound or be slain | in the lofty-walled burg.\"⟦11⟧"
+        "From the courtyard they fared, | and fury they breathed;",
+        "The youths swiftly went | o'er the mountain wet,",
+        "On their Hunnish steeds, | death's vengeance to have.⟦12⟧"
        ]
       }
      ],
      "en_stanzas": [
-      11
+      12
      ],
      "en_cont": false,
      "is_cont": false,
@@ -779,15 +776,18 @@
      "en-modern": [
       {
        "t": "v",
-       "n": 11,
+       "n": 12,
        "l": [
-        "Then the fame-glad one, | she was on the steps,",
-        "the slender-fingered, | spoke with her son:",
-        "\"You will be in danger | if you do not heed counsel;",
-        "..............",
-        "by two heroes alone | two hundred Goths",
-        "shall be bound or killed | in the high-walled stronghold.\""
+        "From the courtyard they went, | and they breathed fury;",
+        "the youths went swiftly | over the wet mountain,",
+        "on their Hunnish steeds, | to have vengeance for the death."
        ]
+      }
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "From the court they went, for conflict ready. The young men journeyed over humid fells, on Hunnish steeds, murder to avenge."
       }
      ]
     },
@@ -821,16 +821,16 @@
      "en": [
       {
        "t": "v",
-       "n": 12,
+       "n": 13,
        "l": [
-        "From the courtyard they fared, | and fury they breathed;",
-        "The youths swiftly went | o'er the mountain wet,",
-        "On their Hunnish steeds, | death's vengeance to have.⟦12⟧"
+        "On the way they found | the man so wise;",
+        "..............",
+        "\"What help from the weakling | brown may we have?\"⟦13⟧"
        ]
       }
      ],
      "en_stanzas": [
-      12
+      13
      ],
      "en_cont": false,
      "is_cont": false,
@@ -838,21 +838,17 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "From the court they went, for conflict ready. The young men journeyed over humid fells, on Hunnish steeds, murder to avenge."
-      },
-      {
-       "t": "p",
-       "s": "Then said Erp, all at once—the noble youth was joking on his horse's back—\"Ill 'tis to a timid man to point out the ways.\" They said the bastard was over bold."
+       "s": "On their way they had found the wily jester. \"How will the swarthy dwarf afford us aid?\""
       }
      ],
      "en-modern": [
       {
        "t": "v",
-       "n": 12,
+       "n": 13,
        "l": [
-        "From the courtyard they went, | and they breathed fury;",
-        "the youths went swiftly | over the wet mountain,",
-        "on their Hunnish steeds, | to have vengeance for the death."
+        "On the way they found | the man so wise;",
+        "..............",
+        "\"What help can we have | from the brown weakling?\""
        ]
       }
      ]
@@ -895,26 +891,25 @@
      "en": [
       {
        "t": "v",
-       "n": 13,
-       "l": [
-        "On the way they found | the man so wise;",
-        "..............",
-        "\"What help from the weakling | brown may we have?\"⟦13⟧"
-       ]
-      },
-      {
-       "t": "v",
        "n": 14,
        "l": [
         "So answered them | their half-brother then:",
         "\"So well may I | my kinsmen aid",
         "As help one foot | from the other has.\"⟦14⟧"
        ]
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"How may a foot | its fellow aid,",
+        "Or a flesh-grown hand | another help?\"⟦15⟧"
+       ]
       }
      ],
      "en_stanzas": [
-      13,
-      14
+      14,
+      15
      ],
      "en_cont": false,
      "is_cont": false,
@@ -922,23 +917,14 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "On their way they had found the wily jester. \"How will the swarthy dwarf afford us aid?\""
+       "s": "He of another mother answered: so he said aid he would to his kin afford, as one foot to the other [or, grown to the body, one hand the other]."
       },
       {
        "t": "p",
-       "s": "He of another mother answered: so he said aid he would to his kin afford, as one foot to the other [or, grown to the body, one hand the other]."
+       "s": "\"What can a foot to a foot give; or, grown to the body, one hand the other?\""
       }
      ],
      "en-modern": [
-      {
-       "t": "v",
-       "n": 13,
-       "l": [
-        "On the way they found | the man so wise;",
-        "..............",
-        "\"What help can we have | from the brown weakling?\""
-       ]
-      },
       {
        "t": "v",
        "n": 14,
@@ -946,6 +932,14 @@
         "Their half-brother | answered them then:",
         "\"I can aid my kinsmen | as well",
         "as one foot | has help from the other.\""
+       ]
+      },
+      {
+       "t": "v",
+       "n": 15,
+       "l": [
+        "\"How can a foot | aid its fellow,",
+        "or a flesh-grown hand | help another?\""
        ]
       }
      ]
@@ -988,14 +982,6 @@
      "en": [
       {
        "t": "v",
-       "n": 15,
-       "l": [
-        "\"How may a foot | its fellow aid,",
-        "Or a flesh-grown hand | another help?\"⟦15⟧"
-       ]
-      },
-      {
-       "t": "v",
        "n": 16,
        "l": [
         "Then Erp spake forth, | his words were few,",
@@ -1006,28 +992,18 @@
       }
      ],
      "en_stanzas": [
-      15,
       16
      ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.28,
      "en-thorpe": [
       {
        "t": "p",
-       "s": "\"What can a foot to a foot give; or, grown to the body, one hand the other?\""
+       "s": "Then said Erp, all at once—the noble youth was joking on his horse's back—\"Ill 'tis to a timid man to point out the ways.\" They said the bastard was over bold."
       }
      ],
      "en-modern": [
-      {
-       "t": "v",
-       "n": 15,
-       "l": [
-        "\"How can a foot | aid its fellow,",
-        "or a flesh-grown hand | help another?\""
-       ]
-      },
       {
        "t": "v",
        "n": 16,
@@ -1571,30 +1547,41 @@
      "en": [
       {
        "t": "v",
+       "n": 11,
        "l": [
-        "Then Hróðrglöð said this,",
-        "she stood by the door-leaves [?],",
-        "the slender-fingered one [?] spoke",
-        "to this young man:",
-        "…",
-        "\"For this is promised",
-        "which will hardly come about [?]:",
-        "can two men alone",
-        "ten hundred Goths",
-        "bind or beat",
-        "in the high stronghold?\""
+        "Then the fame-glad one— | on the steps she was—",
+        "The slender-fingered, | spake with her son:",
+        "\"Ye shall danger have | if counsel ye heed not;",
+        "..............",
+        "By two heroes alone | shall two hundred of Goths",
+        "Be bound or be slain | in the lofty-walled burg.\"⟦11⟧"
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      11
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true,
      "en-thorpe": [
       {
        "t": "p",
        "s": "Then said Hrodrglod, on the high steps standing; \"Prince\" said she to her son—for that was threatened which ought not to happen—\"shall two men alone bind or slay ten hundred Goths in this lofty burgh?\""
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 11,
+       "l": [
+        "Then the fame-glad one, | she was on the steps,",
+        "the slender-fingered, | spoke with her son:",
+        "\"You will be in danger | if you do not heed counsel;",
+        "..............",
+        "by two heroes alone | two hundred Goths",
+        "shall be bound or killed | in the high-walled stronghold.\""
+       ]
       }
      ]
     },
@@ -2276,10 +2263,6 @@
      "s": "Some editors assign this speech to Hamther. Brothers: Gunnar and Hogni. Boys: Erp and Eitil."
     },
     {
-     "n": "11",
-     "s": "In the manuscript this stanza follows stanza 21, and some editors take the word here rendered \"fame-glad one\" (hróþrglǫþ) to be a proper name (Jormunrek's mother or his concubine). The Volsungasaga, however, indicates that Guthrun at this point \"had so fashioned their war-gear that iron would not bite into it, and she bade them to have nought to do with stones or other heavy things, and told them that it would be ill for them if they did not do as she said.\" The substance of this counsel may well have been conveyed in a passage lost after line 3, though the manuscript indicates no gap. It is by being stoned that Hamther and Sorli are killed (stanza 26). On the other hand, the second part of line 3 may possibly mean \"if silent ye are not,\" in which case the advice relates to Hamther's speech to Jormunrek and Sorli's reproach to him thereupon (stanzas 25 and 27). Steps: the word in the original is doubtful. Line 3 is thoroughly obscure. Some editors make a separate stanza of lines 3-5, while others question line 5."
-    },
-    {
      "n": "12",
      "s": "Many editors assume the loss of a line after line 1. In several editions lines 2-3 are placed after line 2 of stanza 18. Hunnish: the word meant little more than \"German\"; cf. Guthrunarhvot, 3 and note."
     },
@@ -2326,6 +2309,10 @@
     {
      "n": "23",
      "s": "Gjuki's heirs: the original has \"the well-born of Gjuki,\" and some editors have changed the proper name to Guthrun, but the phrase apparently refers to Hamther and Sorli as Gjuki's grandsons. In the manuscript this stanza is followed by stanza 11, and such editors as have retained this arrangement have had to resort to varied and complex explanations to account for it."
+    },
+    {
+     "n": "11",
+     "s": "In the manuscript this stanza follows stanza 21, and some editors take the word here rendered \"fame-glad one\" (hróþrglǫþ) to be a proper name (Jormunrek's mother or his concubine). The Volsungasaga, however, indicates that Guthrun at this point \"had so fashioned their war-gear that iron would not bite into it, and she bade them to have nought to do with stones or other heavy things, and told them that it would be ill for them if they did not do as she said.\" The substance of this counsel may well have been conveyed in a passage lost after line 3, though the manuscript indicates no gap. It is by being stoned that Hamther and Sorli are killed (stanza 26). On the other hand, the second part of line 3 may possibly mean \"if silent ye are not,\" in which case the advice relates to Hamther's speech to Jormunrek and Sorli's reproach to him thereupon (stanzas 25 and 27). Steps: the word in the original is doubtful. Line 3 is thoroughly obscure. Some editors make a separate stanza of lines 3-5, while others question line 5."
     },
     {
      "n": "24",

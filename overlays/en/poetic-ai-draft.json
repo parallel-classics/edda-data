@@ -441,7 +441,8 @@
    "author": "ai:claude-2026-10",
    "date": "2026-10-25",
    "reason": "no public-domain English for this stanza; AI draft for review",
-   "replaces": null
+   "replaces": null,
+   "withdrawn": "replaced by Bellows 1923 (published, public domain) after the hand pairing, 2026-11-23"
   },
   {
    "row": "hlr-s7",
@@ -461,7 +462,8 @@
    "author": "ai:claude-2026-10",
    "date": "2026-10-25",
    "reason": "no public-domain English for this stanza; AI draft for review",
-   "replaces": null
+   "replaces": null,
+   "withdrawn": "replaced by Bellows 1923 (published, public domain) after the hand pairing, 2026-11-23"
   },
   {
    "row": "am-s17",
@@ -533,7 +535,8 @@
    "author": "ai:claude-2026-10",
    "date": "2026-10-25",
    "reason": "no public-domain English for this stanza; AI draft for review",
-   "replaces": null
+   "replaces": null,
+   "withdrawn": "replaced by Bellows 1923 (published, public domain) after the hand pairing, 2026-11-23"
   },
   {
    "row": "hm-s27",
@@ -3727,6 +3730,16 @@
    "row": "am-s31",
    "cell": "en",
    "text": "The fair-clad women went | till the fjord parted them;\nthe bright ones still warned them, | but they would not be told.",
+   "status": "draft",
+   "author": "ai:claude-2026-11",
+   "date": "2026-11-23",
+   "reason": "no public-domain English for this stanza (Bellows has none here); AI draft for review",
+   "replaces": null
+  },
+  {
+   "row": "gdr3-s7",
+   "cell": "en",
+   "text": "Seven hundred men | went into the hall\nbefore the king's wife | reached into the kettle.",
    "status": "draft",
    "author": "ai:claude-2026-11",
    "date": "2026-11-23",

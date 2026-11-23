@@ -473,17 +473,17 @@
      "en": [
       {
        "t": "v",
-       "n": 6,
+       "n": 7,
        "l": [
-        "\"Gunnar comes not, | Hogni I greet not,",
-        "No longer I see | my brothers loved;",
-        "My sorrow would Hogni | avenge with the sword,",
-        "Now myself for my woes | I shall payment win.⟦6⟧"
+        "\"Summon Saxi, | the southrons' king,",
+        "For he the boiling | kettle can hallow.\"",
+        "Seven hundred | there were in the hall,",
+        "Ere the queen her hand | in the kettle thrust.⟦7⟧"
        ]
       }
      ],
      "en_stanzas": [
-      6
+      7
      ],
      "en_cont": false,
      "is_cont": false,
@@ -491,13 +491,19 @@
      "en-modern": [
       {
        "t": "v",
-       "n": 6,
+       "n": 7,
        "l": [
-        "\"Gunnar does not come, | I do not greet Hogni,",
-        "I no longer see | my dear brothers;",
-        "Hogni would avenge | my sorrow with the sword,",
-        "now I myself | must win payment for my wrongs."
+        "\"Summon Saxi, | the southerners' king,",
+        "for he can hallow | the boiling cauldron.\"",
+        "Seven hundred | were there in the hall,",
+        "before the queen thrust | her hand into the cauldron."
        ]
+      }
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Send to Saxi the Southmen's prince, he can hallow the boiling cauldron.\""
       }
      ]
     },
@@ -531,43 +537,24 @@
      "en": [
       {
        "t": "v",
-       "n": 7,
+       "n": null,
        "l": [
-        "\"Summon Saxi, | the southrons' king,",
-        "For he the boiling | kettle can hallow.\"",
-        "Seven hundred | there were in the hall,",
-        "Ere the queen her hand | in the kettle thrust.⟦7⟧"
+        "Seven hundred men | went into the hall",
+        "before the king's wife | reached into the kettle."
        ]
       }
      ],
-     "en_stanzas": [
-      7
-     ],
+     "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
      "en-thorpe": [
       {
        "t": "p",
-       "s": "Send to Saxi the Southmen's prince, he can hallow the boiling cauldron.\""
-      },
-      {
-       "t": "p",
        "s": "Seven hundred men entered the hall, ere in the cauldron the queen dipt her hand."
       }
      ],
-     "en-modern": [
-      {
-       "t": "v",
-       "n": 7,
-       "l": [
-        "\"Summon Saxi, | the southerners' king,",
-        "for he can hallow | the boiling cauldron.\"",
-        "Seven hundred | were there in the hall,",
-        "before the queen thrust | her hand into the cauldron."
-       ]
-      }
-     ]
+     "en_draft": true
     },
     {
      "id": "gdr3-s8",
@@ -617,22 +604,21 @@
      "en": [
       {
        "t": "v",
-       "n": 8,
+       "n": 6,
        "l": [
-        "To the bottom she reached | with hand so bright,",
-        "And forth she brought | the flashing stones:",
-        "\"Behold, ye warriors, | well am I cleared",
-        "Of sin by the kettle's | sacred boiling.\""
+        "\"Gunnar comes not, | Hogni I greet not,",
+        "No longer I see | my brothers loved;",
+        "My sorrow would Hogni | avenge with the sword,",
+        "Now myself for my woes | I shall payment win.⟦6⟧"
        ]
       }
      ],
      "en_stanzas": [
-      8
+      6
      ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.32,
      "en-thorpe": [
       {
        "t": "p",
@@ -642,12 +628,12 @@
      "en-modern": [
       {
        "t": "v",
-       "n": 8,
+       "n": 6,
        "l": [
-        "She reached to the bottom | with her bright hand,",
-        "and brought out | the flashing stones:",
-        "\"See, you warriors, | I am fully cleared",
-        "of sin by the cauldron's | sacred boiling.\""
+        "\"Gunnar does not come, | I do not greet Hogni,",
+        "I no longer see | my dear brothers;",
+        "Hogni would avenge | my sorrow with the sword,",
+        "now I myself | must win payment for my wrongs."
        ]
       }
      ]
@@ -690,27 +676,37 @@
      "en": [
       {
        "t": "v",
+       "n": 8,
        "l": [
-        "She reached to the bottom",
-        "with her bright palm",
-        "and she took up",
-        "the precious stones:",
-        "\"See now, men,",
-        "I am made guiltless",
-        "in holy wise,",
-        "however this cauldron may boil.\""
+        "To the bottom she reached | with hand so bright,",
+        "And forth she brought | the flashing stones:",
+        "\"Behold, ye warriors, | well am I cleared",
+        "Of sin by the kettle's | sacred boiling.\""
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      8
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true,
      "en-thorpe": [
       {
        "t": "p",
        "s": "She to the bottom, plunged her snow-white hand, and up she drew the precious stones. \"See now, ye men! I am proved guiltless in holy wise, boil the vessel as it may.\""
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 8,
+       "l": [
+        "She reached to the bottom | with her bright hand,",
+        "and brought out | the flashing stones:",
+        "\"See, you warriors, | I am fully cleared",
+        "of sin by the cauldron's | sacred boiling.\""
+       ]
       }
      ]
     },
@@ -879,12 +875,12 @@
      "s": "Regarding the death of Thjothrek's men cf. Guthrunarkvitha II, introductory prose, note. It was on these stanzas of Guthrunarkvitha III that the annotator based his introduction to Guthrunarkvitha II. The manuscript repeats the \"thirty\" in line 2, in defiance of metrical requirements."
     },
     {
-     "n": "6",
-     "s": "In the manuscript this stanza follows stanza 7; many editions have made the transposition."
-    },
-    {
      "n": "7",
      "s": "Who Saxi may be is not clear, but the stanza clearly points to the time when the ordeal by boiling water was still regarded as a foreign institution, and when a southern king (i. e., a Christian from some earlier-converted region) was necessary to consecrate the kettle used in the test. The ordeal by boiling water followed closely the introduction of Christianity, which took place around the year 1000. Some editions make two stanzas out of stanza 7, and Müllenhoff contends that lines 1-2 do not constitute part of Guthrun's speech."
+    },
+    {
+     "n": "6",
+     "s": "In the manuscript this stanza follows stanza 7; many editions have made the transposition."
     },
     {
      "n": "10",

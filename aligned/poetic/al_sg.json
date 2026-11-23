@@ -3448,12 +3448,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en-thorpe": [
-      {
-       "t": "p",
-       "s": "On the pillow she turned to the other side, and, wounded with the glave, on her last counsels thought."
-      }
-     ],
      "en-modern": [
       {
        "t": "v",
@@ -3494,40 +3488,15 @@
        ]
       }
      ],
-     "en": [
-      {
-       "t": "v",
-       "n": 48,
-       "l": [
-        "\"Hither I will | that my women come",
-        "Who gold are fain | from me to get;",
-        "Necklaces fashioned | fair to each",
-        "Shall I give, and cloth, | and garments bright.\"⟦48⟧"
-       ]
-      }
-     ],
-     "en_stanzas": [
-      48
-     ],
-     "en_cont": false,
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": true,
      "is_cont": false,
      "quoted_in": [],
      "en-thorpe": [
       {
        "t": "p",
-       "s": "\"Now let come those who desire gold, and aught less precious, to receive from me. To every one I give a gilded necklace, needle-work and coverlets, splendid weeds.\""
-      }
-     ],
-     "en-modern": [
-      {
-       "t": "v",
-       "n": 48,
-       "l": [
-        "\"I wish my women | to come here,",
-        "those who are eager | to get gold from me;",
-        "necklaces finely made | I shall give to each,",
-        "and cloth as well, | and bright garments.\""
-       ]
+       "s": "On the pillow she turned to the other side, and, wounded with the glave, on her last counsels thought."
       }
      ]
     },
@@ -3569,17 +3538,17 @@
      "en": [
       {
        "t": "v",
-       "n": 49,
+       "n": 48,
        "l": [
-        "Silent were all | as so she spake,",
-        "And all together | answer made:",
-        "\"Slain are enough; | we seek to live,",
-        "Not thus thy women | shall honor win.\"⟦49⟧"
+        "\"Hither I will | that my women come",
+        "Who gold are fain | from me to get;",
+        "Necklaces fashioned | fair to each",
+        "Shall I give, and cloth, | and garments bright.\"⟦48⟧"
        ]
       }
      ],
      "en_stanzas": [
-      49
+      48
      ],
      "en_cont": false,
      "is_cont": false,
@@ -3587,18 +3556,18 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "All were silent, thought on what to do, and all together answer gave: \"Too many are there dead: we will yet live, still be hungry hall-servants, to do what fitting is.\""
+       "s": "\"Now let come those who desire gold, and aught less precious, to receive from me. To every one I give a gilded necklace, needle-work and coverlets, splendid weeds.\""
       }
      ],
      "en-modern": [
       {
        "t": "v",
-       "n": 49,
+       "n": 48,
        "l": [
-        "All were silent | when she said this,",
-        "and all together | made answer:",
-        "\"Enough have been killed; | we want to live;",
-        "your women shall not | win honour this way.\""
+        "\"I wish my women | to come here,",
+        "those who are eager | to get gold from me;",
+        "necklaces finely made | I shall give to each,",
+        "and cloth as well, | and bright garments.\""
        ]
       }
      ]
@@ -3641,17 +3610,17 @@
      "en": [
       {
        "t": "v",
-       "n": 50,
+       "n": 49,
        "l": [
-        "Long the woman, | linen-decked, pondered,—",
-        "—Young she was,— | and weighed her words:",
-        "\"For my sake now | shall none unwilling",
-        "Or loath to die | her life lay down."
+        "Silent were all | as so she spake,",
+        "And all together | answer made:",
+        "\"Slain are enough; | we seek to live,",
+        "Not thus thy women | shall honor win.\"⟦49⟧"
        ]
       }
      ],
      "en_stanzas": [
-      50
+      49
      ],
      "en_cont": false,
      "is_cont": false,
@@ -3659,13 +3628,19 @@
      "en-modern": [
       {
        "t": "v",
-       "n": 50,
+       "n": 49,
        "l": [
-        "Long the woman, | dressed in linen, pondered,",
-        "young she was, | and weighed her words:",
-        "\"For my sake now | none who is unwilling",
-        "or loath to die | shall lay down her life."
+        "All were silent | when she said this,",
+        "and all together | made answer:",
+        "\"Enough have been killed; | we want to live;",
+        "your women shall not | win honour this way.\""
        ]
+      }
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "All were silent, thought on what to do, and all together answer gave: \"Too many are there dead: we will yet live, still be hungry hall-servants, to do what fitting is.\""
       }
      ]
     },
@@ -3707,27 +3682,37 @@
      "en": [
       {
        "t": "v",
+       "n": 50,
        "l": [
-        "Until, from her reflection,",
-        "the linen-clad woman,",
-        "young in years,",
-        "spoke words in answer:",
-        "\"I do not want a man unwilling",
-        "or hard to entreat",
-        "for our cause",
-        "to lose his life."
+        "Long the woman, | linen-decked, pondered,—",
+        "—Young she was,— | and weighed her words:",
+        "\"For my sake now | shall none unwilling",
+        "Or loath to die | her life lay down."
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      50
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true,
      "en-thorpe": [
       {
        "t": "p",
        "s": "At length after reflection, the lady linen-clad, young in years, words in answer uttered: \"I desire that none, dead to entreaty, should by force, for our sake, lose their life."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 50,
+       "l": [
+        "Long the woman, | dressed in linen, pondered,",
+        "young she was, | and weighed her words:",
+        "\"For my sake now | none who is unwilling",
+        "or loath to die | shall lay down her life."
+       ]
       }
      ]
     },
