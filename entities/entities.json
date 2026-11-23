@@ -326,6 +326,7 @@
      "Hnikarr's",
      "Hnikudr",
      "Hnikuth",
+     "Hrolf",
      "Hropt's",
      "Hropta-Týr",
      "Hroptatýr",
@@ -470,8 +471,7 @@
      "Hlórriði",
      "Ása-Þór",
      "Ása-þór",
-     "Ása-þórr",
-     "Þórir"
+     "Ása-þórr"
     ],
     "is": [
      "Þór",
@@ -479,8 +479,7 @@
      "Hlórriða",
      "Ásaþór",
      "Hlórriðji",
-     "Ása-Þór",
-     "Þórir"
+     "Ása-Þór"
     ],
     "en": [
      "Thor",
@@ -507,8 +506,8 @@
     "snorri": "p-c3-2",
     "poetic": "vsp-s26"
    },
-   "mentions": 273,
-   "narrative": 271,
+   "mentions": 272,
+   "narrative": 270,
    "check": 0,
    "card": true,
    "status": "auto",
@@ -2233,8 +2232,8 @@
     ],
     "en": [
      "Angantýr",
-     "Angantýr's",
-     "Angantyr"
+     "Angantyr",
+     "Angantýr's"
     ]
    },
    "heiti": {},
@@ -2666,8 +2665,7 @@
     "en": [
      "Sigrun",
      "Sigrun's",
-     "Sigrún",
-     "Sigrún's"
+     "Sigrún"
     ]
    },
    "heiti": {},
@@ -6851,8 +6849,7 @@
      "Völsungr",
      "Volsung's",
      "Völsung's",
-     "Völsunga",
-     "Völsungar"
+     "Völsunga"
     ]
    },
    "heiti": {},
@@ -7516,9 +7513,9 @@
      "Högni"
     ],
     "en": [
-     "Hogni's",
      "Hogni",
-     "Högni"
+     "Hogni's",
+     "Högni's"
     ]
    },
    "heiti": {},
@@ -8450,9 +8447,6 @@
     ],
     "is": [
      "Guðmundur"
-    ],
-    "en": [
-     "Guðmundr"
     ]
    },
    "heiti": {},
@@ -12256,8 +12250,7 @@
      "Dag"
     ],
     "en": [
-     "Dag",
-     "Dagr"
+     "Dag"
     ]
    },
    "heiti": {},
@@ -17369,8 +17362,8 @@
      "Heiðrún"
     ],
     "en": [
-     "Heidrún",
-     "Heithrun"
+     "Heithrun",
+     "Heidrún"
     ]
    },
    "heiti": {},
@@ -21243,8 +21236,7 @@
      "Granmarsson"
     ],
     "en": [
-     "Granmar's",
-     "Granmarr"
+     "Granmar's"
     ]
    },
    "heiti": {},

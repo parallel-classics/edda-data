@@ -9703,7 +9703,9 @@
      "count them among | the mighty heroes,",
      "and all are your kinsmen, | Ottar, you fool!"
     ]
-   },
+   }
+  ],
+  "hdl-s22": [
    {
     "t": "v",
     "n": 22,
@@ -9713,9 +9715,7 @@
      "Brodd and Hörvir, | I knew them both;",
      "they were in the household | of Hrolf the Old."
     ]
-   }
-  ],
-  "hdl-s22": [
+   },
    {
     "t": "v",
     "n": 23,
@@ -9801,100 +9801,6 @@
     "n": null,
     "l": [
      "***"
-    ]
-   }
-  ],
-  "hdl-s29": [
-   {
-    "t": "v",
-    "n": 30,
-    "l": [
-     "Eleven in number | the gods were known,",
-     "when Baldr was bowed | over the hill of death;",
-     "and Vali was swift | to avenge this,",
-     "when he soon killed | his brother's slayer."
-    ]
-   }
-  ],
-  "hdl-s30": [
-   {
-    "t": "v",
-    "n": 31,
-    "l": [
-     "The father of Baldr | was the heir of Bur,",
-     ".............................."
-    ]
-   }
-  ],
-  "hdl-s31": [
-   {
-    "t": "v",
-    "n": 32,
-    "l": [
-     "Freyr's wife was Gerth, | the daughter of Gymir,",
-     "of the giants' brood, | and Aurbotha bore her;",
-     "to these as well | Thjazi was kin,",
-     "the dark-loving giant; | his daughter was Skathi."
-    ]
-   }
-  ],
-  "hdl-s32": [
-   {
-    "t": "v",
-    "n": 33,
-    "l": [
-     "Much have I told you, | and more I will tell;",
-     "there is much that I know; | will you hear still more?"
-    ]
-   },
-   {
-    "t": "v",
-    "n": 34,
-    "l": [
-     "Heith and Hrossthjof, | the children of Hrimnir.",
-     ".............................."
-    ]
-   }
-  ],
-  "hdl-s33": [
-   {
-    "t": "v",
-    "n": 35,
-    "l": [
-     "The sibyls arose | from Vitholf's line,",
-     "from Vilmeith | all the seers come,",
-     "and the workers of charms | are Svarthofthi's children,",
-     "and from Ymir sprang | all the giants."
-    ]
-   },
-   {
-    "t": "v",
-    "n": 36,
-    "l": [
-     "Much have I told you, | and more I will tell;",
-     "there is much that I know; | will you hear still more?"
-    ]
-   }
-  ],
-  "hdl-s34": [
-   {
-    "t": "v",
-    "n": 37,
-    "l": [
-     "One there was born | in bygone days,",
-     "of the race of the gods, | and great was his might;",
-     "nine giant women, | at the world's edge,",
-     "once bore the man | so mighty in arms."
-    ]
-   },
-   {
-    "t": "v",
-    "n": 38,
-    "l": [
-     "Gjolp bore him there, | Greip bore him there,",
-     "Eistla bore him, | and Eyrgjafa,",
-     "Ulfrun bore him, | and Angeyja,",
-     "Imth and Atla, | and Jarnsaxa."
     ]
    }
   ],
@@ -10744,19 +10650,6 @@
     ]
    }
   ],
-  "hh2-s9": [
-   {
-    "t": "v",
-    "n": 9,
-    "l": [
-     "Sigrun said:",
-     "\"You tell of battle, | and there King Hunding",
-     "was brought down | before Helgi;",
-     "there was carnage when you | avenged your kin,",
-     "and blood flowed fast | on the blade of the sword.\""
-    ]
-   }
-  ],
   "hh2-s11": [
    {
     "t": "v",
@@ -10838,7 +10731,7 @@
     ]
    }
   ],
-  "hh2-s17": [
+  "hh2-s18": [
    {
     "t": "v",
     "n": 16,
@@ -10851,27 +10744,89 @@
     ]
    }
   ],
-  "hh2-s18": [
+  "hh2-s19": [
+   {
+    "t": "p",
+    "s": "Gothmund the son of Granmar said this:",
+    "sp": true
+   },
    {
     "t": "v",
-    "n": null,
+    "n": 22,
     "l": [
-     "\"Who is the king | who captains the fleet,",
-     "and leads the warriors | to the land?\""
+     "\"What great hero | is guiding the ships?",
+     "He flies a golden flag | at the stem;",
+     "I find no peace | at the head of your advance,",
+     "and round the fighters | the battle-light is red.\""
     ]
    }
   ],
-  "hh2-p5": [
+  "hh2-s20": [
    {
-    "t": "p",
-    "s": "Sinfjotli, Sigmund's son, answered him, and that too is written."
-   },
-   {
-    "t": "p",
-    "s": "Gothmund rode home with his news of the army; then Granmar's sons summoned their forces. Many kings came there; among them were Hogni, Sigrun's father, and his sons Bragi and Dag. There was a great battle, and all Granmar's sons were killed and all their allies; only Dag, Hogni's son, was spared, and he swore loyalty to the Volsungs. Sigrun went among the dead and found Hothbrodd at the point of death. She said:"
+    "t": "v",
+    "n": 23,
+    "l": [
+     "Sinfjotli said:",
+     "\"Here Hothbrodd | may find Helgi,",
+     "the hater of flight, | in the midst of the fleet;",
+     "he holds the home | of all your race,",
+     "and he rules over | the realm of the fishes.\""
+    ]
    }
   ],
-  "hh2-s19": [
+  "hh2-s21": [
+   {
+    "t": "v",
+    "n": 24,
+    "l": [
+     "Gothmund said:",
+     "\"First shall swords | at Frekastein",
+     "prove our worth | in place of words;",
+     "it is time, Hothbrodd, | to take vengeance,",
+     "if once we were | worsted in battle.\""
+    ]
+   }
+  ],
+  "hh2-s22": [
+   {
+    "t": "v",
+    "n": 25,
+    "l": [
+     "Sinfjotli said:",
+     "\"Better, Gothmund, | to tend the goats,",
+     "and climb the rocks | of the mountain cliffs;",
+     "a hazel switch | to hold in your hand",
+     "would suit you better | than the hilt of a sword.\""
+    ]
+   }
+  ],
+  "hh2-s23": [
+   {
+    "t": "v",
+    "n": 26,
+    "l": [
+     "Helgi said:",
+     "\"It would suit you better, | Sinfjotli,",
+     "to give battle | and gladden the eagles,",
+     "than to utter | vain and empty speech,",
+     "though warriors often | fight with words."
+    ]
+   }
+  ],
+  "hh2-s24": [
+   {
+    "t": "v",
+    "n": 27,
+    "l": [
+     "\"I do not find | the sons of Granmar good,",
+     "but it is fitting for heroes | to speak the truth;",
+     "at Moinsheimar | the men proved",
+     "that they had hearts | for the wielding of swords,",
+     "(and the warriors | are always brave.)\""
+    ]
+   }
+  ],
+  "hh2-s25": [
    {
     "t": "v",
     "n": 17,
@@ -10883,7 +10838,7 @@
     ]
    }
   ],
-  "hh2-s20": [
+  "hh2-s26": [
    {
     "t": "p",
     "s": "Then she sought out Helgi, and was full of joy. He said:",
@@ -10900,7 +10855,7 @@
     ]
    }
   ],
-  "hh2-s21": [
+  "hh2-s27": [
    {
     "t": "v",
     "n": 19,
@@ -10912,7 +10867,7 @@
     ]
    }
   ],
-  "hh2-s22": [
+  "hh2-s28": [
    {
     "t": "v",
     "n": 20,
@@ -10931,7 +10886,7 @@
     ]
    }
   ],
-  "hh2-s23": [
+  "hh2-s29": [
    {
     "t": "v",
     "n": 21,
@@ -10947,88 +10902,6 @@
      "Sigrun said:",
      "\"I would call to life | those who lie slaughtered,",
      "if I might be safe on your breast.\""
-    ]
-   }
-  ],
-  "hh2-s24": [
-   {
-    "t": "p",
-    "s": "Gothmund the son of Granmar said this:",
-    "sp": true
-   },
-   {
-    "t": "v",
-    "n": 22,
-    "l": [
-     "\"What great hero | is guiding the ships?",
-     "He flies a golden flag | at the stem;",
-     "I find no peace | at the head of your advance,",
-     "and round the fighters | the battle-light is red.\""
-    ]
-   }
-  ],
-  "hh2-s25": [
-   {
-    "t": "v",
-    "n": 23,
-    "l": [
-     "Sinfjotli said:",
-     "\"Here Hothbrodd | may find Helgi,",
-     "the hater of flight, | in the midst of the fleet;",
-     "he holds the home | of all your race,",
-     "and he rules over | the realm of the fishes.\""
-    ]
-   }
-  ],
-  "hh2-s26": [
-   {
-    "t": "v",
-    "n": 24,
-    "l": [
-     "Gothmund said:",
-     "\"First shall swords | at Frekastein",
-     "prove our worth | in place of words;",
-     "it is time, Hothbrodd, | to take vengeance,",
-     "if once we were | worsted in battle.\""
-    ]
-   }
-  ],
-  "hh2-s27": [
-   {
-    "t": "v",
-    "n": 25,
-    "l": [
-     "Sinfjotli said:",
-     "\"Better, Gothmund, | to tend the goats,",
-     "and climb the rocks | of the mountain cliffs;",
-     "a hazel switch | to hold in your hand",
-     "would suit you better | than the hilt of a sword.\""
-    ]
-   }
-  ],
-  "hh2-s28": [
-   {
-    "t": "v",
-    "n": 26,
-    "l": [
-     "Helgi said:",
-     "\"It would suit you better, | Sinfjotli,",
-     "to give battle | and gladden the eagles,",
-     "than to utter | vain and empty speech,",
-     "though warriors often | fight with words."
-    ]
-   }
-  ],
-  "hh2-s29": [
-   {
-    "t": "v",
-    "n": 27,
-    "l": [
-     "\"I do not find | the sons of Granmar good,",
-     "but it is fitting for heroes | to speak the truth;",
-     "at Moinsheimar | the men proved",
-     "that they had hearts | for the wielding of swords,",
-     "(and the warriors | are always brave.)\""
     ]
    }
   ],
@@ -11291,18 +11164,6 @@
      "though there are bleeding wounds | on my breast;",
      "now in the hill | we hold our brides,",
      "the heroes' loves, | beside their dead husbands.\""
-    ]
-   }
-  ],
-  "hh2-s47": [
-   {
-    "t": "v",
-    "n": 46,
-    "l": [
-     "\"Here I have made | a bed for you, Helgi,",
-     "to rest you from care, | kinsman of the Ylfings;",
-     "I will make you sink | to sleep in my arms,",
-     "as once I lay | with the living king.\""
     ]
    }
   ],
@@ -21706,6 +21567,134 @@
      "the bodies of men | he bears on his wings,",
      "the bright serpent: | but now I must sink."
     ]
+   }
+  ],
+  "hh2-s10": [
+   {
+    "t": "v",
+    "n": 9,
+    "l": [
+     "Sigrun said:",
+     "\"You tell of battle, | and there King Hunding",
+     "was brought down | before Helgi;",
+     "there was carnage when you | avenged your kin,",
+     "and blood flowed fast | on the blade of the sword.\""
+    ]
+   }
+  ],
+  "hh2-p6": [
+   {
+    "t": "p",
+    "s": "Gothmund rode home with his news of the army; then Granmar's sons summoned their forces. Many kings came there; among them were Hogni, Sigrun's father, and his sons Bragi and Dag. There was a great battle, and all Granmar's sons were killed and all their allies; only Dag, Hogni's son, was spared, and he swore loyalty to the Volsungs. Sigrun went among the dead and found Hothbrodd at the point of death. She said:"
+   }
+  ],
+  "hdl-s29": [
+   {
+    "t": "v",
+    "n": 46,
+    "l": [
+     "Freyja said:",
+     "\"Now bring my boar | the memory-beer,",
+     "so that all your words, | so well spoken,",
+     "he may hold in mind | on the third morning,",
+     "when Ottar and Angantyr | tell their lines.\""
+    ]
+   }
+  ],
+  "hdl-s30": [
+   {
+    "t": "v",
+    "n": 47,
+    "l": [
+     "Hyndla said:",
+     "\"Go away from here, | for I want to sleep;",
+     "you get few favours | from me now;",
+     "my noble one, you leap | out in the night",
+     "as Heithrun goes | among the goats."
+    ]
+   }
+  ],
+  "hdl-s31": [
+   {
+    "t": "v",
+    "n": 48,
+    "l": [
+     "\"To Oth you ran, | who always loved you,",
+     "and many have crawled | under your apron;",
+     "my noble one, you leap | out in the night",
+     "as Heithrun goes | among the goats.\""
+    ]
+   }
+  ],
+  "hdl-s32": [
+   {
+    "t": "v",
+    "n": 49,
+    "l": [
+     "Freyja said:",
+     "\"Around the giantess | I shall raise flames,",
+     "so that you may not | get away unburned.\""
+    ]
+   }
+  ],
+  "hdl-s33": [
+   {
+    "t": "v",
+    "n": 50,
+    "l": [
+     "Hyndla said:",
+     "\"I see flames burning, | the earth is on fire,",
+     "and each must pay | the price with his life;",
+     "then bring to Ottar | the draught of beer,",
+     "full of venom | for an evil fate.\""
+    ]
+   }
+  ],
+  "hdl-s34": [
+   {
+    "t": "v",
+    "n": 51,
+    "l": [
+     "Freyja said:",
+     "\"Your evil words | shall work no harm,",
+     "though, giantess, bitter | are your baleful threats;",
+     "Ottar shall find | a fair drink,",
+     "if I win the favour | of all the gods.\""
+    ]
+   }
+  ],
+  "hh2-s47": [
+   {
+    "t": "p",
+    "s": "Sigrun made a bed ready in the hill."
+   },
+   {
+    "t": "v",
+    "n": 46,
+    "l": [
+     "\"Here I have made | a bed for you, Helgi,",
+     "to rest you from care, | kinsman of the Ylfings;",
+     "I will make you sink | to sleep in my arms,",
+     "as I once lay | with the living king.\""
+    ]
+   }
+  ],
+  "hh2-p5": [
+   {
+    "t": "p",
+    "s": "Helgi then gathered a great fleet and went to Frekastein. At sea he met a dangerous storm; lightning flashed overhead and the bolts struck the ships. They saw nine Valkyries riding in the air, and recognised Sigrun among them. Then the storm died down, and they came safe and sound to land. Granmar's sons sat on a mountain as the ships sailed towards the land. Gothmund leapt on a horse and rode for news to a headland near the harbour; the Volsungs were just then lowering their sails. Then Gothmund said, as is written before in the Helgi lay:"
+   },
+   {
+    "t": "v",
+    "n": null,
+    "l": [
+     "\"Who is the king | who captains the fleet,",
+     "and leads the warriors | to the land?\""
+    ]
+   },
+   {
+    "t": "p",
+    "s": "Sinfjotli, Sigmund's son, answered him, and that too is written."
    }
   ]
  }
