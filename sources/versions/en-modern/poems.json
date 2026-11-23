@@ -1237,19 +1237,6 @@
     ]
    }
   ],
-  "am-s16": [
-   {
-    "t": "v",
-    "n": 16,
-    "l": [
-     "Kostbera said:",
-     "\"I saw a bear come in, | he broke the pillars,",
-     "and he brandished his claws | so that our courage failed;",
-     "he seized many in his mouth, | and we were powerless,",
-     "and the uproar was loud, | it was not slight.\""
-    ]
-   }
-  ],
   "am-s18": [
    {
     "t": "v",
@@ -1396,9 +1383,7 @@
      "five were the warriors, | and their followers in all",
      "only twice as many, | their minds knew no wisdom."
     ]
-   }
-  ],
-  "am-s31": [
+   },
    {
     "t": "v",
     "n": 28,
@@ -1572,19 +1557,6 @@
      "Then their anger was wild | when all heard his words;",
      "their fingers were swift | to seize their bowstrings,",
      "they shot very sharply, | they were guarded by their shields."
-    ]
-   }
-  ],
-  "am-s46": [
-   {
-    "t": "v",
-    "n": 43,
-    "l": [
-     "Into the house came word | how the heroes outside",
-     "fought in front of the hall; | they heard a slave tell it;",
-     "Guthrun was grim then, | when she heard the grief,",
-     "with fine necklaces, | and she flung them all from her,",
-     "(she hurled the silver | so that the rings burst apart.)"
     ]
    }
   ],
@@ -2795,43 +2767,6 @@
     ]
    }
   ],
-  "fjm-s1": [
-   {
-    "t": "v",
-    "n": 19,
-    "l": [
-     "Svipdag said:",
-     "\"What giant is this, | in front of the house,",
-     "refusing the traveller a welcome?\"",
-     "Fjolsvith said:",
-     "\"You will never find | a friendly greeting,",
-     "so get yourself home from here."
-    ]
-   }
-  ],
-  "fjm-s2": [
-   {
-    "t": "v",
-    "n": 20,
-    "l": [
-     "\"I am Fjolsvith, | and I am known as wise,",
-     "but I am miserly with food;",
-     "you shall never come | inside the house;",
-     "go on your way like a wolf!\""
-    ]
-   },
-   {
-    "t": "v",
-    "n": 21,
-    "l": [
-     "Svipdag said:",
-     "\"Few will turn away | from the joy of their eyes",
-     "when they seek the sight of their loves;",
-     "the gates of the golden hall | shine bright,",
-     "and here I shall enjoy a home.\""
-    ]
-   }
-  ],
   "fjm-s6": [
    {
     "t": "v",
@@ -2932,84 +2867,6 @@
   "fjm-s13": [
    {
     "t": "v",
-    "n": 29,
-    "l": [
-     "Svipdag said:",
-     "\"Now answer me, Fjolsvith, | the question I ask,",
-     "for now I want to know the truth:",
-     "what do they call the tree | that spreads",
-     "its branches over every land?\""
-    ]
-   }
-  ],
-  "fjm-s14": [
-   {
-    "t": "v",
-    "n": 30,
-    "l": [
-     "Fjolsvith said:",
-     "\"Mimameith is its name, | and no man knows",
-     "what root runs beneath it;",
-     "and few can guess | what will fell the tree,",
-     "for neither fire nor iron will fell it.\""
-    ]
-   }
-  ],
-  "fjm-s15": [
-   {
-    "t": "v",
-    "n": 31,
-    "l": [
-     "Svipdag said:",
-     "\"Now answer me, Fjolsvith, | the question I ask,",
-     "for now I want to know the truth:",
-     "what grows from the seed | of that great tree",
-     "that neither fire nor iron will fell?\""
-    ]
-   }
-  ],
-  "fjm-s16": [
-   {
-    "t": "v",
-    "n": 32,
-    "l": [
-     "Fjolsvith said:",
-     "\"Women sick | with child shall seek",
-     "its fruit to carry to the flames;",
-     "then out will come | what was hidden within,",
-     "and so it is mighty among men.\""
-    ]
-   }
-  ],
-  "fjm-s17": [
-   {
-    "t": "v",
-    "n": 33,
-    "l": [
-     "Svipdag said:",
-     "\"Now answer me, Fjolsvith, | the question I ask,",
-     "for now I want to know the truth:",
-     "what cock is that | on the highest bough,",
-     "glittering all with gold?\""
-    ]
-   }
-  ],
-  "fjm-s18": [
-   {
-    "t": "v",
-    "n": 34,
-    "l": [
-     "Fjolsvith said:",
-     "\"Vithofnir is his name, | and now he shines",
-     "like lightning on Mimameith's branches;",
-     "and great is the trouble | with which he grieves",
-     "both Surt and Sinmora.\""
-    ]
-   }
-  ],
-  "fjm-s19": [
-   {
-    "t": "v",
     "n": 35,
     "l": [
      "Svipdag said:",
@@ -3020,7 +2877,7 @@
     ]
    }
   ],
-  "fjm-s20": [
+  "fjm-s14": [
    {
     "t": "v",
     "n": 36,
@@ -3033,7 +2890,7 @@
     ]
    }
   ],
-  "fjm-s21": [
+  "fjm-s15": [
    {
     "t": "v",
     "n": 37,
@@ -3046,7 +2903,7 @@
     ]
    }
   ],
-  "fjm-s22": [
+  "fjm-s16": [
    {
     "t": "v",
     "n": 38,
@@ -3059,7 +2916,7 @@
     ]
    }
   ],
-  "fjm-s23": [
+  "fjm-s17": [
    {
     "t": "v",
     "n": 39,
@@ -3072,7 +2929,7 @@
     ]
    }
   ],
-  "fjm-s24": [
+  "fjm-s18": [
    {
     "t": "v",
     "n": 40,
@@ -3082,6 +2939,84 @@
      "if now you want to know the truth;",
      "that alone is the food | that men can give them,",
      "and leap inside while they eat.\""
+    ]
+   }
+  ],
+  "fjm-s19": [
+   {
+    "t": "v",
+    "n": 29,
+    "l": [
+     "Svipdag said:",
+     "\"Now answer me, Fjolsvith, | the question I ask,",
+     "for now I want to know the truth:",
+     "what do they call the tree | that spreads",
+     "its branches over every land?\""
+    ]
+   }
+  ],
+  "fjm-s20": [
+   {
+    "t": "v",
+    "n": 30,
+    "l": [
+     "Fjolsvith said:",
+     "\"Mimameith is its name, | and no man knows",
+     "what root runs beneath it;",
+     "and few can guess | what will fell the tree,",
+     "for neither fire nor iron will fell it.\""
+    ]
+   }
+  ],
+  "fjm-s21": [
+   {
+    "t": "v",
+    "n": 31,
+    "l": [
+     "Svipdag said:",
+     "\"Now answer me, Fjolsvith, | the question I ask,",
+     "for now I want to know the truth:",
+     "what grows from the seed | of that great tree",
+     "that neither fire nor iron will fell?\""
+    ]
+   }
+  ],
+  "fjm-s22": [
+   {
+    "t": "v",
+    "n": 32,
+    "l": [
+     "Fjolsvith said:",
+     "\"Women sick | with child shall seek",
+     "its fruit to carry to the flames;",
+     "then out will come | what was hidden within,",
+     "and so it is mighty among men.\""
+    ]
+   }
+  ],
+  "fjm-s23": [
+   {
+    "t": "v",
+    "n": 33,
+    "l": [
+     "Svipdag said:",
+     "\"Now answer me, Fjolsvith, | the question I ask,",
+     "for now I want to know the truth:",
+     "what cock is that | on the highest bough,",
+     "glittering all with gold?\""
+    ]
+   }
+  ],
+  "fjm-s24": [
+   {
+    "t": "v",
+    "n": 34,
+    "l": [
+     "Fjolsvith said:",
+     "\"Vithofnir is his name, | and now he shines",
+     "like lightning on Mimameith's branches;",
+     "and great is the trouble | with which he grieves",
+     "both Surt and Sinmora.\""
     ]
    }
   ],
@@ -3761,6 +3696,30 @@
   "fm-s26": [
    {
     "t": "v",
+    "n": 30,
+    "l": [
+     "\"It was your advice | that I should ride",
+     "here over the high mountains;",
+     "the glittering serpent | would have wealth and life",
+     "if you had not mocked my strength.\""
+    ]
+   }
+  ],
+  "fm-s27": [
+   {
+    "t": "v",
+    "n": 31,
+    "l": [
+     "\"Sit now, Sigurth, | for I will sleep;",
+     "hold Fafnir's heart to the fire;",
+     "for all his heart | shall be eaten,",
+     "since I have drunk deep of blood.\""
+    ]
+   }
+  ],
+  "fm-s28": [
+   {
+    "t": "v",
     "n": 26,
     "l": [
      "Sigurth said:",
@@ -3771,7 +3730,7 @@
     ]
    }
   ],
-  "fm-s27": [
+  "fm-s29": [
    {
     "t": "v",
     "n": 27,
@@ -3784,7 +3743,7 @@
     ]
    }
   ],
-  "fm-s28": [
+  "fm-s30": [
    {
     "t": "v",
     "n": 28,
@@ -3797,7 +3756,7 @@
     ]
    }
   ],
-  "fm-s29": [
+  "fm-s31": [
    {
     "t": "v",
     "n": 29,
@@ -3806,30 +3765,6 @@
      "when the clash of battle comes;",
      "and the glad man better | than the gloomy",
      "will face what lies before him."
-    ]
-   }
-  ],
-  "fm-s30": [
-   {
-    "t": "v",
-    "n": 30,
-    "l": [
-     "\"It was your advice | that I should ride",
-     "here over the high mountains;",
-     "the glittering serpent | would have wealth and life",
-     "if you had not mocked my strength.\""
-    ]
-   }
-  ],
-  "fm-s31": [
-   {
-    "t": "v",
-    "n": 31,
-    "l": [
-     "\"Sit now, Sigurth, | for I will sleep;",
-     "hold Fafnir's heart to the fire;",
-     "for all his heart | shall be eaten,",
-     "since I have drunk deep of blood.\""
     ]
    }
   ],
@@ -8236,18 +8171,6 @@
   "hav-s76": [
    {
     "t": "v",
-    "n": 76,
-    "l": [
-     "Among Fitjung's sons | I saw well-stocked folds;",
-     "now they carry the beggar's staff;",
-     "wealth is as swift | as the wink of an eye,",
-     "it is the falsest of friends."
-    ]
-   }
-  ],
-  "hav-s77": [
-   {
-    "t": "v",
     "n": 77,
     "l": [
      "Cattle die, | and kinsmen die,",
@@ -8257,7 +8180,7 @@
     ]
    }
   ],
-  "hav-s78": [
+  "hav-s77": [
    {
     "t": "v",
     "n": 78,
@@ -8269,21 +8192,19 @@
     ]
    }
   ],
-  "hav-s79": [
+  "hav-s78": [
    {
     "t": "v",
-    "n": 79,
+    "n": 76,
     "l": [
-     "Certain is that | which is sought from runes,",
-     "that the great gods have made,",
-     "and the Master-Poet painted;",
-     "................",
-     ".....of the race of gods:",
-     "silence is safest and best."
+     "Among Fitjung's sons | I saw well-stocked folds;",
+     "now they carry the beggar's staff;",
+     "wealth is as swift | as the wink of an eye,",
+     "it is the falsest of friends."
     ]
    }
   ],
-  "hav-s80": [
+  "hav-s79": [
    {
     "t": "v",
     "n": 80,
@@ -8299,6 +8220,20 @@
     "n": null,
     "l": [
      "***"
+    ]
+   }
+  ],
+  "hav-s80": [
+   {
+    "t": "v",
+    "n": 79,
+    "l": [
+     "Certain is that | which is sought from runes,",
+     "that the great gods have made,",
+     "and the Master-Poet painted;",
+     "................",
+     ".....of the race of gods:",
+     "silence is safest and best."
     ]
    }
   ],
@@ -8399,12 +8334,12 @@
   "hav-s88": [
    {
     "t": "v",
-    "n": 88,
+    "n": 89,
     "l": [
-     "In a brother's killer, | if you meet him on the road,",
-     "in a half-burned house, | in a very swift horse,",
-     "for if one leg is hurt | the horse is useless:",
-     "no one ever had such faith | as to trust in them all."
+     "Do not count too surely | on an early harvest,",
+     "nor trust too soon in your son;",
+     "the field needs good weather, | the son needs wisdom,",
+     "and often either is denied."
     ]
    },
    {
@@ -8418,12 +8353,12 @@
   "hav-s89": [
    {
     "t": "v",
-    "n": 89,
+    "n": 88,
     "l": [
-     "Do not count too surely | on an early harvest,",
-     "nor trust too soon in your son;",
-     "the field needs good weather, | the son needs wisdom,",
-     "and often either is denied."
+     "In a brother's killer, | if you meet him on the road,",
+     "in a half-burned house, | in a very swift horse,",
+     "for if one leg is hurt | the horse is useless:",
+     "no one ever had such faith | as to trust in them all."
     ]
    },
    {
@@ -21695,6 +21630,103 @@
    {
     "t": "p",
     "s": "Sinfjotli, Sigmund's son, answered him, and that too is written."
+   }
+  ],
+  "am-s17": [
+   {
+    "t": "v",
+    "n": 16,
+    "l": [
+     "Kostbera said:",
+     "\"I saw a bear come in, | he broke the pillars,",
+     "and he brandished his claws | so that our courage failed;",
+     "he seized many in his mouth, | and we were powerless,",
+     "and the uproar was loud, | it was not slight.\""
+    ]
+   }
+  ],
+  "am-s45": [
+   {
+    "t": "v",
+    "n": 43,
+    "l": [
+     "Into the house came word | how the heroes outside",
+     "fought in front of the hall; | they heard a slave tell it;",
+     "Guthrun was grim then, | when she heard the grief,",
+     "with fine necklaces, | and she flung them all from her,",
+     "(she hurled the silver | so that the rings burst apart.)"
+    ]
+   }
+  ],
+  "fjm-s1": [
+   {
+    "t": "v",
+    "n": 17,
+    "l": [
+     "Before the house | he saw one coming",
+     "to the high home of the giants."
+    ]
+   },
+   {
+    "t": "v",
+    "n": null,
+    "l": [
+     "Svipdag said:",
+     "\"What giant is this, | in front of the house,",
+     "with fires flaming around him?\""
+    ]
+   }
+  ],
+  "fjm-s2": [
+   {
+    "t": "v",
+    "n": 18,
+    "l": [
+     "Fjolsvith said:",
+     "\"What are you seeking here? | What is your search?",
+     "What, friendless one, do you want to know?",
+     "By the wet ways | you must wander from here,",
+     "for, weakling, you have no home here.\""
+    ]
+   },
+   {
+    "t": "v",
+    "n": 19,
+    "l": [
+     "Svipdag said:",
+     "\"What giant is this, | in front of the house,",
+     "refusing the traveller a welcome?\"",
+     "Fjolsvith said:",
+     "\"You will never find | a friendly greeting,",
+     "so get yourself home from here."
+    ]
+   },
+   {
+    "t": "v",
+    "n": 20,
+    "l": [
+     "\"I am Fjolsvith, | and I am known as wise,",
+     "but I am miserly with food;",
+     "you shall never come | inside the house;",
+     "go on your way like a wolf!\""
+    ]
+   },
+   {
+    "t": "v",
+    "n": 21,
+    "l": [
+     "Svipdag said:",
+     "\"Few will turn away | from the joy of their eyes",
+     "when they seek the sight of their loves;",
+     "the gates of the golden hall | shine bright,",
+     "and here I shall enjoy a home.\""
+    ]
+   }
+  ],
+  "fm-p4": [
+   {
+    "t": "p",
+    "s": "Then Regin went up to Fafnir and cut out his heart with his sword, which was called Rithil, and then he drank blood from the wounds. Regin said:"
    }
   ]
  }

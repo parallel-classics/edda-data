@@ -822,28 +822,34 @@
     "s": "He [only] knows not who knows nothing, that many a one apes another. One man is rich, another poor: let him not be thought blameworthy."
    }
   ],
-  "hav-s77": [
+  "hav-s76": [
    {
     "t": "p",
     "s": "Cattle die, kindred die, we ourselves also die; but the fair fame never dies of him who has earned it."
    }
   ],
-  "hav-s78": [
+  "hav-s77": [
    {
     "t": "p",
     "s": "Cattle die, kindred die, we ourselves also die; but I know one thing that never dies,—judgment on each one dead."
    }
   ],
-  "hav-s79": [
+  "hav-s78": [
    {
     "t": "p",
     "s": "Full storehouses I saw at Dives' sons': now bear they the beggar's staff. Such are riches; as is the twinkling of an eye: of friends they are most fickle."
    }
   ],
-  "hav-s80": [
+  "hav-s79": [
    {
     "t": "p",
     "s": "A foolish man, if he acquires wealth or woman's love, pride grows within him, but wisdom never: he goes on more and more arrogant."
+   }
+  ],
+  "hav-s80": [
+   {
+    "t": "p",
+    "s": "Then 'tis made manifest, if of runes thou questionest him, those to the high ones known, which the great powers invented, and the great talker painted, that he had best hold silence."
    }
   ],
   "hav-s81": [
@@ -892,7 +898,9 @@
    {
     "t": "p",
     "s": "An early sown field let no one trust, nor prematurely in a son: weather rules the field, and wit the son, each of which is doubtful;"
-   },
+   }
+  ],
+  "hav-s89": [
    {
     "t": "p",
     "s": "A brother's murderer, though on the high road met, a half-burnt house, an over-swift horse, (a horse is useless, if a leg be broken), no man is so confiding as to trust any of these."
@@ -5713,21 +5721,21 @@
   "fjm-s2": [
    {
     "t": "p",
+    "s": "Wanderer:",
+    "sp": true
+   },
+   {
+    "t": "p",
+    "s": "What monster is that, before the fore-court standing, who to the wayfarer offers not hospitality? Void of honest fame, prattler! hast thou lived: but hence hie thee home."
+   },
+   {
+    "t": "p",
     "s": "Fiolsvith:",
     "sp": true
    },
    {
     "t": "p",
     "s": "Fiolsvith is my name; wise I am of mind, though of food not prodigal. Within these courts thou shalt never come: so now, wretch! take thyself off."
-   },
-   {
-    "t": "p",
-    "s": "Wanderer:",
-    "sp": true
-   },
-   {
-    "t": "p",
-    "s": "From the eye's delight few are disposed to hurry, where there is something pleasant to be seen. These walls, methinks, shine around golden halls. Here I could live contented with my lot."
    }
   ],
   "fjm-s6": [
@@ -5820,7 +5828,9 @@
    {
     "t": "p",
     "s": "Tell me, Fiolsvith! etc., what those dogs are called, that chase away the giantesses, and safety to the fields restore?"
-   },
+   }
+  ],
+  "fjm-s14": [
    {
     "t": "p",
     "s": "Fiolsvith:",
@@ -5831,7 +5841,7 @@
     "s": "Gifr the one is called, the other Geri, if thou that wouldst know. Eleven watches they will keep, until the powers perish."
    }
   ],
-  "fjm-s14": [
+  "fjm-s15": [
    {
     "t": "p",
     "s": "Vindkald:",
@@ -5842,7 +5852,7 @@
     "s": "Tell me, Fiolsvith! etc., whether any man can enter while those fierce assailants sleep?"
    }
   ],
-  "fjm-s15": [
+  "fjm-s16": [
    {
     "t": "p",
     "s": "Fiolsvith:",
@@ -5853,7 +5863,7 @@
     "s": "Alternate sleep was strictly to them enjoined, since to the watch they were appointed. One sleeps by night, by day the other, so that no wight can enter if he comes."
    }
   ],
-  "fjm-s16": [
+  "fjm-s17": [
    {
     "t": "p",
     "s": "Vindkald:",
@@ -5864,7 +5874,7 @@
     "s": "Tell me, Fiolsvith! etc., whether there is any food that men can get, such that they can run in while they eat?"
    }
   ],
-  "fjm-s17": [
+  "fjm-s18": [
    {
     "t": "p",
     "s": "Fiolsvith:",
@@ -5875,7 +5885,7 @@
     "s": "Two repasts lie in Vidofnir's wings, if thou that wouldst know: that is alone such food as men can give them, and run in while they eat."
    }
   ],
-  "fjm-s18": [
+  "fjm-s19": [
    {
     "t": "p",
     "s": "Vindkald:",
@@ -5886,7 +5896,7 @@
     "s": "Tell me, Fiolsvith! etc., what that tree is called that with its branches spreads itself over every land?"
    }
   ],
-  "fjm-s19": [
+  "fjm-s20": [
    {
     "t": "p",
     "s": "Fiolsvith:",
@@ -8591,21 +8601,7 @@
   "fm-s27": [
    {
     "t": "p",
-    "s": "Sigurd:",
-    "sp": true
-   },
-   {
-    "t": "p",
-    "s": "Thou wentst far off, while I in Fafnir my keen sword reddened. With my strength I strove against the serpent's might, while in the ling thou layest."
-   },
-   {
-    "t": "p",
-    "s": "Regin:",
-    "sp": true
-   },
-   {
-    "t": "p",
-    "s": "Long hadst thou allowed in the ling to lie that Jotun old, hadst thou the sword not used that I forged for thee, thy keen-edged glave."
+    "s": "Sit now, Sigurd!—but I must go to sleep—and Fafnir's heart hold to the fire. Of this refection I would fain partake, after that drink of blood."
    }
   ],
   "fm-s28": [
@@ -8616,10 +8612,32 @@
    },
    {
     "t": "p",
-    "s": "Valour is better than might of sword, when foes embittered fight; for a brave man I have ever seen gain victory with a dull sword."
+    "s": "Thou wentst far off, while I in Fafnir my keen sword reddened. With my strength I strove against the serpent's might, while in the ling thou layest."
    }
   ],
   "fm-s29": [
+   {
+    "t": "p",
+    "s": "Regin:",
+    "sp": true
+   },
+   {
+    "t": "p",
+    "s": "Long hadst thou allowed in the ling to lie that Jotun old, hadst thou the sword not used that I forged for thee, thy keen-edged glave."
+   }
+  ],
+  "fm-s30": [
+   {
+    "t": "p",
+    "s": "Sigurd:",
+    "sp": true
+   },
+   {
+    "t": "p",
+    "s": "Valour is better than might of sword, when foes embittered fight; for a brave man I have ever seen gain victory with a dull sword."
+   }
+  ],
+  "fm-s31": [
    {
     "t": "p",
     "s": "For the brave 'tis better than for the timid to join in the game of war; for the joyous it is better than for the sad, let come whatever may."
@@ -10699,9 +10717,7 @@
    {
     "t": "p",
     "s": "In then came the tale of what without was passing; loud before the hall they a thrall heard speak."
-   }
-  ],
-  "am-s46": [
+   },
    {
     "t": "p",
     "s": "Then incensed was Gudrun, when the sad news she heard: adorned with necklaces, she tore them all asunder; so hurled the silver, that the rings in shivers flew."
