@@ -2577,7 +2577,7 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "East sat the crone, in Iârnvidir, and there reared up Fenrir's progeny: of all shall be one especially the moon's devourer, in a troll's semblance."
+       "s": "\"Of what wouldst thou ask me? Why temptest thou me? Odin! I know all, where thou thine eye didst sink in the pure well of Mim.\" Mim drinks mead each morn from Valfather's pledge. Understand ye yet, or what?"
       }
      ],
      "en-modern": [
@@ -2678,11 +2678,7 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "He is sated with the last breath of dying men; the god's seat he with red gore defiles: swart is the sunshine then for summers after; all weather turns to storm. Understand ye yet, or what?"
-      },
-      {
-       "t": "p",
-       "s": "There on a height sat, striking a harp, the giantess's watch, the joyous Egdir; by him crowed, in the bird-wood, the bright red cock, which Fialar hight."
+       "s": "The chief of hosts gave her rings and necklace, useful discourse, and a divining spirit: wide and far she saw o'er every world."
       }
      ],
      "en-modern": [
@@ -2780,7 +2776,7 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "Crowed o'er the Æsir Gullinkambi, which wakens heroes with the sire of hosts; but another crows beneath the earth, a soot-red cock, in the halls of Hel."
+       "s": "She the Valkyriur saw from afar coming, ready to ride to the god's people: Skuld held a shield, Skögul was second, then Gunn, Hild Göndul, and Geirskögul. Now are enumerated Herian's maidens, the Valkyriur, ready over the earth to ride."
       }
      ],
      "en-modern": [
@@ -3838,7 +3834,13 @@
        ]
       }
      ],
-     "is_netutgafan": true
+     "is_netutgafan": true,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "There on a height sat, striking a harp, the giantess's watch, the joyous Egdir; by him crowed, in the bird-wood, the bright red cock, which Fialar hight."
+      }
+     ]
     },
     {
      "id": "vsp-s43",
@@ -3921,7 +3923,13 @@
        ]
       }
      ],
-     "is_netutgafan": true
+     "is_netutgafan": true,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Crowed o'er the Æsir Gullinkambi, which wakens heroes with the sire of hosts; but another crows beneath the earth, a soot-red cock, in the halls of Hel."
+      }
+     ]
     },
     {
      "id": "vsp-s44",
@@ -4358,7 +4366,7 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "Trembles Yggdrasil's ash yet standing; groans that aged tree, and the jötun is loosed. Loud bays Garm before the Gnupa-cave, his bonds he rends asunder; and the wolf runs."
+       "s": "How is it with the Æsir? How with the Alfar? All Jötunheim resounds; the Æsir are in council. The dwarfs groan before their stony doors, the sages of the rocky walls. Understand ye yet, or what?"
       }
      ],
      "en-modern": [
@@ -4804,10 +4812,6 @@
       "g-c51-11"
      ],
      "en-thorpe": [
-      {
-       "t": "p",
-       "s": "How is it with the Æsir? How with the Alfar? All Jötunheim resounds; the Æsir are in council. The dwarfs groan before their stony doors, the sages of the rocky walls. Understand ye yet, or what?"
-      },
       {
        "t": "p",
        "s": "Then arises Hlîn's second grief, when Odin goes with the wolf to fight, and the bright slayer of Beli with Surt. Then will Frigg's beloved fall."

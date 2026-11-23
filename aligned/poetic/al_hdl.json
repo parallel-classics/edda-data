@@ -2119,6 +2119,10 @@
       {
        "t": "p",
        "s": "Harald Hildetonn, born of Hrærekir Slongvanbaugi; he was a son of Aud, Aud the rich was Ivar's daughter; but Radbard was Randver's father. They were heroes to the gods devoted. All that race is thine, Ottar Heimski!"
+      },
+      {
+       "t": "p",
+       "s": "There were eleven Æsir reckoned, when Baldr on the pile was laid; him Vali showed himself worthy to avenge, his own brother: he the slayer slew. All that race is thine, Ottar Heimski!"
       }
      ],
      "en-modern": [
@@ -2218,7 +2222,12 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "There were eleven Æsir reckoned, when Baldr on the pile was laid; him Vali showed himself worthy to avenge, his own brother: he the slayer slew. All that race is thine, Ottar Heimski!"
+       "s": "Freyia:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Bear thou the memory-cup to my guest, so that he may all the words repeat of this discourse, on the third morn, when he and Angantyr reckon up races."
       }
      ],
      "en-modern": [
@@ -2302,7 +2311,12 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "Baldr's father was son of Bur: Frey to wife had Gerd, she was Gymir's daughter, from Jotuns sprung and Aurboda; Thiassi also was their relation, that haughty Jotun; Skadi was his daughter."
+       "s": "Hyndla:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Go thou quickly hence, I long to sleep; more of my wondrous power thou gettest not from me. Thou runnest, my hot friend, out at nights, as among he-goats the she-goat goes."
       }
      ],
      "en-modern": [
@@ -2383,6 +2397,12 @@
         "as Heithrun goes | among the goats.\""
        ]
       }
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thou hast run thyself mad, ever longing; many a one has stolen under thy girdle. Thou runnest, my hot friend, out at nights, as among he-goats, the she-goat goes."
+      }
      ]
     },
     {
@@ -2442,11 +2462,12 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "We tell thee much, and remember more: I admonish thee thus much to know. Wishest thou yet a longer narrative?"
+       "s": "Freyia:",
+       "sp": true
       },
       {
        "t": "p",
-       "s": "Haki was not the worst of Hvedna's sons, and Hiorvard was Hvedna's father; Heid and Hrossthiof were of Hrimnir's race."
+       "s": "Fire I strike over thee, dweller of the wood! so that thou goest not ever away from hence."
       }
      ],
      "en-modern": [
@@ -2528,11 +2549,12 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "All the Valas are from Vidolf; all the soothsayers from Vilmeidr, all the sorcerers from Svarthofdi; all the Jotuns come from Ymir."
+       "s": "Hyndla:",
+       "sp": true
       },
       {
        "t": "p",
-       "s": "We tell thee much, and more remember, I admonish thee thus much to know. Wishest thou yet a longer narrative?"
+       "s": "Fire I see burning, and the earth blazing; many will have their lives to save. Bear thou the cup to Ottar's hand, the mead with venom mingled, in an evil hour!"
       }
      ],
      "en-modern": [
@@ -2616,11 +2638,12 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "There was one born, in times of old, with wondrous might endowed, of origin divine: nine Jotun maids gave birth to the gracious god, at the world's margin."
+       "s": "Freyia:",
+       "sp": true
       },
       {
        "t": "p",
-       "s": "Gialp gave him birth, Greip gave him birth, Eistla gave him birth, and Angeia; Ulfrun gave him birth, and Eyrgiafa, Imd and Atla, and Jarnsaxa."
+       "s": "Thy malediction shall be powerless; although thou, Jotun-maid! dost evil threaten. He shall drink delicious draughts. All the gods I pray to favour Ottar."
       }
      ],
      "en-modern": [

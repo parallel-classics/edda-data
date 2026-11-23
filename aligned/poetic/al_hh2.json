@@ -1021,17 +1021,6 @@
      "en_cont": true,
      "is_cont": false,
      "quoted_in": [],
-     "en-thorpe": [
-      {
-       "t": "p",
-       "s": "Sigrun:",
-       "sp": true
-      },
-      {
-       "t": "p",
-       "s": "To a battle thou alludest. Before Helgi has King Hunding been doomed to fall. In conflict ye have engaged, when your kindred ye avenged, and stained with blood the falchion's edge."
-      }
-     ],
      "is_auto": [
       {
        "t": "v",
@@ -1142,6 +1131,17 @@
         "there was carnage when you | avenged your kin,",
         "and blood flowed fast | on the blade of the sword.\""
        ]
+      }
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigrun:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "To a battle thou alludest. Before Helgi has King Hunding been doomed to fall. In conflict ye have engaged, when your kindred ye avenged, and stained with blood the falchion's edge."
       }
      ]
     },
@@ -1735,10 +1735,6 @@
       {
        "t": "p",
        "s": "\"To Hodbrodd I was in th' assembly betrothed, but I another prince would have: yet, chieftain! I foresee my kindred's wrath: I have my father's promise broken.\""
-      },
-      {
-       "t": "p",
-       "s": "Hogni's daughter spoke not at variance with her heart: she said that Helgi's affection she must possess."
       }
      ],
      "en-modern": [
@@ -1820,12 +1816,7 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "Helgi:",
-       "sp": true
-      },
-      {
-       "t": "p",
-       "s": "Care thou not for Hogni's wrath, nor for the evil mind of thy kin. Thou shalt, young maiden! live with me: of a good race thou art, as I perceive."
+       "s": "Hogni's daughter spoke not at variance with her heart: she said that Helgi's affection she must possess."
       }
      ],
      "is_auto": [
@@ -1909,7 +1900,12 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "\"Who is the leader that commands the fleet, and an appalling host leads to our land?\""
+       "s": "Helgi:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Care thou not for Hogni's wrath, nor for the evil mind of thy kin. Thou shalt, young maiden! live with me: of a good race thou art, as I perceive."
       }
      ],
      "is_auto": [
@@ -1992,12 +1988,11 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "This said Gudmund, Granmar's son:",
-       "sp": true
+       "s": "Helgi then collected a large fleet and proceeded to Frekastein, and at sea experienced a perilous storm. Lightnings came over them, and the flashes entered the ships. They saw that nine Valkyriur were riding in the air, and recognized Sigrun among them. The storm then abated and they reached land in safety. The sons of Granmar were sitting on a hill as the ships were sailing towards the land. Gudmund leapt on a horse, and rode to explore on the hill by the haven. The Volsungs then lowered their sails, and Gudmund spoke as is before written in the Helgakvida:—"
       },
       {
        "t": "p",
-       "s": "Who is the warrior that commands the ships, and lets his golden banner wave o'er his prow? No peace seems to me in that ship's front; it casts a warlike glow around the vikings."
+       "s": "\"Who is the leader that commands the fleet, and an appalling host leads to our land?\""
       }
      ],
      "is_auto": [
@@ -2117,6 +2112,21 @@
         "and round the fighters | the battle-light is red.\""
        ]
       }
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "This said Gudmund, Granmar's son:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Who is the warrior that commands the ships, and lets his golden banner wave o'er his prow? No peace seems to me in that ship's front; it casts a warlike glow around the vikings."
+      },
+      {
+       "t": "p",
+       "s": "Sinfiotli, Sigmund's son, answered:"
+      }
      ]
     },
     {
@@ -2216,6 +2226,12 @@
         "and he rules over | the realm of the fishes.\""
        ]
       }
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Here may Hodbrodd Helgi learn to know, the hard of flight, in the fleet's midst: he the possession holds of thy race; he the fishes' heritage has to him subjected."
+      }
      ]
     },
     {
@@ -2284,7 +2300,12 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "Sinfiotli, Sigmund's son, answered:"
+       "s": "Gudmund:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Therefore ought we first, at Frekastein, to settle together, and decide our quarrels! Hodbrodd! 'tis time vengeance to take, if an inferior lot we long have borne."
       }
      ],
      "is_auto": [
@@ -2389,7 +2410,12 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "Here may Hodbrodd Helgi learn to know, the hard of flight, in the fleet's midst: he the possession holds of thy race; he the fishes' heritage has to him subjected."
+       "s": "Sinfiotli:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Rather shalt thou, Gudmund! tend goats, and steep mountain-tops shalt climb, have in thy hand a hazel staff, that will better please thee than judgments of the sword."
       }
      ],
      "is_auto": [
@@ -2491,17 +2517,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en-thorpe": [
-      {
-       "t": "p",
-       "s": "Gudmund:",
-       "sp": true
-      },
-      {
-       "t": "p",
-       "s": "Therefore ought we first, at Frekastein, to settle together, and decide our quarrels! Hodbrodd! 'tis time vengeance to take, if an inferior lot we long have borne."
-      }
-     ],
      "is_auto": [
       {
        "t": "p",
@@ -2596,17 +2611,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en-thorpe": [
-      {
-       "t": "p",
-       "s": "Sinfiotli:",
-       "sp": true
-      },
-      {
-       "t": "p",
-       "s": "Rather shalt thou, Gudmund! tend goats, and steep mountain-tops shalt climb, have in thy hand a hazel staff, that will better please thee than judgments of the sword."
-      }
-     ],
      "is_auto": [
       {
        "t": "v",
@@ -2746,10 +2750,6 @@
       {
        "t": "p",
        "s": "Not will Sigrun of Sefafioll, King Hodbrodd! sink in thy arms: thy life is departed. Oft the axe's blade the head approaches of Granmar's sons."
-      },
-      {
-       "t": "p",
-       "s": "She then met Helgi, and was overjoyed. He said:"
       }
      ],
      "is_auto": [
@@ -2852,6 +2852,10 @@
      "en-thorpe": [
       {
        "t": "p",
+       "s": "She then met Helgi, and was overjoyed. He said:"
+      },
+      {
+       "t": "p",
        "s": "Not to thee, all-wise maiden! are all things granted, though, I say, in somewhat are the Norns to blame. This morn have fallen at Frekastein Bragi and Hogni: I was their slayer."
       }
      ],
@@ -2952,10 +2956,6 @@
       {
        "t": "p",
        "s": "But at Styrkleifar King Starkadr, and at Hlebiorg the son of Hrollaug. That prince I saw of all most fierce, whose trunk yet fought when the head was far."
-      },
-      {
-       "t": "p",
-       "s": "On the earth lie the greater number of thy kinsmen, to corpses turned. Thou hast not fought the battle, yet 'twas decreed, that thou, potent maiden! shouldst cause the strife."
       }
      ],
      "is_auto": [
@@ -3052,12 +3052,6 @@
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en-thorpe": [
-      {
-       "t": "p",
-       "s": "Sigrun then wept. Helgi said:"
-      }
-     ],
      "is_auto": [
       {
        "t": "v",
@@ -3408,7 +3402,13 @@
        "s": "Sigrún kvað"
       }
      ],
-     "is_netutgafan": true
+     "is_netutgafan": true,
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigrun then wept. Helgi said:"
+      }
+     ]
     },
     {
      "id": "hh2-s31",
