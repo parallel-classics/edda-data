@@ -1609,21 +1609,10 @@
         "Count them among | the heroes mighty,",
         "And all are thy kinsmen, | Ottar, thou fool!⟦21⟧"
        ]
-      },
-      {
-       "t": "v",
-       "n": 22,
-       "l": [
-        "\"Gunnar the Bulwark, | Grim the Hardy,",
-        "Thorir the Iron-shield, | Ulf the Gaper,",
-        "Brodd and Hörvir | both did I know;",
-        "In the household they were | of Hrolf the Old.⟦22⟧"
-       ]
       }
      ],
      "en_stanzas": [
-      21,
-      22
+      21
      ],
      "en_cont": false,
      "is_cont": false,
@@ -1643,16 +1632,6 @@
         "whose wife was Skurhild, | the daughter of Skekkil,",
         "count them among | the mighty heroes,",
         "and all are your kinsmen, | Ottar, you fool!"
-       ]
-      },
-      {
-       "t": "v",
-       "n": 22,
-       "l": [
-        "\"Gunnar the Bulwark, | Grim the Hardy,",
-        "Thorir the Iron-shield, | Ulf the Gaper,",
-        "Brodd and Hörvir, | I knew them both;",
-        "they were in the household | of Hrolf the Old."
        ]
       }
      ]
@@ -1747,6 +1726,16 @@
      "en": [
       {
        "t": "v",
+       "n": 22,
+       "l": [
+        "\"Gunnar the Bulwark, | Grim the Hardy,",
+        "Thorir the Iron-shield, | Ulf the Gaper,",
+        "Brodd and Hörvir | both did I know;",
+        "In the household they were | of Hrolf the Old.⟦22⟧"
+       ]
+      },
+      {
+       "t": "v",
        "n": 23,
        "l": [
         "\"Hervarth, Hjorvarth, | Hrani, Angantyr,",
@@ -1768,6 +1757,7 @@
       }
      ],
      "en_stanzas": [
+      22,
       23,
       24
      ],
@@ -1785,6 +1775,16 @@
       }
      ],
      "en-modern": [
+      {
+       "t": "v",
+       "n": 22,
+       "l": [
+        "\"Gunnar the Bulwark, | Grim the Hardy,",
+        "Thorir the Iron-shield, | Ulf the Gaper,",
+        "Brodd and Hörvir, | I knew them both;",
+        "they were in the household | of Hrolf the Old."
+       ]
+      },
       {
        "t": "v",
        "n": 23,
@@ -2119,6 +2119,10 @@
       {
        "t": "p",
        "s": "Harald Hildetonn, born of Hrærekir Slongvanbaugi; he was a son of Aud, Aud the rich was Ivar's daughter; but Radbard was Randver's father. They were heroes to the gods devoted. All that race is thine, Ottar Heimski!"
+      },
+      {
+       "t": "p",
+       "s": "There were eleven Æsir reckoned, when Baldr on the pile was laid; him Vali showed himself worthy to avenge, his own brother: he the slayer slew. All that race is thine, Ottar Heimski!"
       }
      ],
      "en-modern": [
@@ -2199,37 +2203,43 @@
      "en": [
       {
        "t": "v",
-       "n": 30,
+       "n": 46,
        "l": [
-        "Eleven in number | the gods were known,",
-        "When Baldr o'er the hill | of death was bowed;",
-        "And this to avenge | was Vali swift,",
-        "When his brother's slayer | soon he slew.⟦30⟧"
+        "Freyja spake:",
+        "\"To my boar now bring | the memory-beer,",
+        "So that all thy words, | that well thou hast spoken,",
+        "The third morn hence | he may hold in mind,",
+        "When their races Ottar | and Angantyr tell.\"⟦46⟧"
        ]
       }
      ],
      "en_stanzas": [
-      30
+      46
      ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.32,
      "en-thorpe": [
       {
        "t": "p",
-       "s": "There were eleven Æsir reckoned, when Baldr on the pile was laid; him Vali showed himself worthy to avenge, his own brother: he the slayer slew. All that race is thine, Ottar Heimski!"
+       "s": "Freyia:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Bear thou the memory-cup to my guest, so that he may all the words repeat of this discourse, on the third morn, when he and Angantyr reckon up races."
       }
      ],
      "en-modern": [
       {
        "t": "v",
-       "n": 30,
+       "n": 46,
        "l": [
-        "Eleven in number | the gods were known,",
-        "when Baldr was bowed | over the hill of death;",
-        "and Vali was swift | to avenge this,",
-        "when he soon killed | his brother's slayer."
+        "Freyja said:",
+        "\"Now bring my boar | the memory-beer,",
+        "so that all your words, | so well spoken,",
+        "he may hold in mind | on the third morning,",
+        "when Ottar and Angantyr | tell their lines.\""
        ]
       }
      ]
@@ -2282,33 +2292,43 @@
      "en": [
       {
        "t": "v",
-       "n": 31,
+       "n": 47,
        "l": [
-        "The father of Baldr | was the heir of Bur,",
-        "..............................⟦31⟧"
+        "Hyndla spake:",
+        "\"Hence shalt thou fare, | for fain would I sleep,",
+        "From me thou gettest | few favors good;",
+        "My noble one, out | in the night thou leapest",
+        "As Heithrun goes | the goats among.⟦47⟧"
        ]
       }
      ],
      "en_stanzas": [
-      31
+      47
      ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.12,
      "en-thorpe": [
       {
        "t": "p",
-       "s": "Baldr's father was son of Bur: Frey to wife had Gerd, she was Gymir's daughter, from Jotuns sprung and Aurboda; Thiassi also was their relation, that haughty Jotun; Skadi was his daughter."
+       "s": "Hyndla:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Go thou quickly hence, I long to sleep; more of my wondrous power thou gettest not from me. Thou runnest, my hot friend, out at nights, as among he-goats the she-goat goes."
       }
      ],
      "en-modern": [
       {
        "t": "v",
-       "n": 31,
+       "n": 47,
        "l": [
-        "The father of Baldr | was the heir of Bur,",
-        ".............................."
+        "Hyndla said:",
+        "\"Go away from here, | for I want to sleep;",
+        "you get few favours | from me now;",
+        "my noble one, you leap | out in the night",
+        "as Heithrun goes | among the goats."
        ]
       }
      ]
@@ -2351,32 +2371,37 @@
      "en": [
       {
        "t": "v",
-       "n": 32,
+       "n": 48,
        "l": [
-        "Freyr's wife was Gerth, | the daughter of Gymir,",
-        "Of the giants' brood, | and Aurbotha bore her;",
-        "To these as well | was Thjazi kin,",
-        "The dark-loving giant; | his daughter was Skathi.⟦32⟧"
+        "\"To Oth didst thou run, | who loved thee ever,",
+        "And many under | thy apron have crawled;",
+        "My noble one, out | in the night thou leapest,",
+        "As Heithrun goes | the goats among.\"⟦48⟧"
        ]
       }
      ],
      "en_stanzas": [
-      32
+      48
      ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.31,
      "en-modern": [
       {
        "t": "v",
-       "n": 32,
+       "n": 48,
        "l": [
-        "Freyr's wife was Gerth, | the daughter of Gymir,",
-        "of the giants' brood, | and Aurbotha bore her;",
-        "to these as well | Thjazi was kin,",
-        "the dark-loving giant; | his daughter was Skathi."
+        "\"To Oth you ran, | who always loved you,",
+        "and many have crawled | under your apron;",
+        "my noble one, you leap | out in the night",
+        "as Heithrun goes | among the goats.\""
        ]
+      }
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Thou hast run thyself mad, ever longing; many a one has stolen under thy girdle. Thou runnest, my hot friend, out at nights, as among he-goats, the she-goat goes."
       }
      ]
     },
@@ -2420,24 +2445,16 @@
      "en": [
       {
        "t": "v",
-       "n": 33,
+       "n": 49,
        "l": [
-        "Much have I told thee, | and further will tell;",
-        "There is much that I know;— | wilt thou hear yet more?⟦33⟧"
-       ]
-      },
-      {
-       "t": "v",
-       "n": 34,
-       "l": [
-        "Heith and Hrossthjof, | the children of Hrimnir.",
-        "..............................⟦34⟧"
+        "Freyja spake:",
+        "\"Around the giantess | flames shall I raise,",
+        "So that forth unburned | thou mayst not fare.\"⟦49⟧"
        ]
       }
      ],
      "en_stanzas": [
-      33,
-      34
+      49
      ],
      "en_cont": false,
      "is_cont": false,
@@ -2445,28 +2462,22 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "We tell thee much, and remember more: I admonish thee thus much to know. Wishest thou yet a longer narrative?"
+       "s": "Freyia:",
+       "sp": true
       },
       {
        "t": "p",
-       "s": "Haki was not the worst of Hvedna's sons, and Hiorvard was Hvedna's father; Heid and Hrossthiof were of Hrimnir's race."
+       "s": "Fire I strike over thee, dweller of the wood! so that thou goest not ever away from hence."
       }
      ],
      "en-modern": [
       {
        "t": "v",
-       "n": 33,
+       "n": 49,
        "l": [
-        "Much have I told you, | and more I will tell;",
-        "there is much that I know; | will you hear still more?"
-       ]
-      },
-      {
-       "t": "v",
-       "n": 34,
-       "l": [
-        "Heith and Hrossthjof, | the children of Hrimnir.",
-        ".............................."
+        "Freyja said:",
+        "\"Around the giantess | I shall raise flames,",
+        "so that you may not | get away unburned.\""
        ]
       }
      ]
@@ -2519,58 +2530,43 @@
      "en": [
       {
        "t": "v",
-       "n": 35,
+       "n": 50,
        "l": [
-        "The sybils arose | from Vitholf's race,",
-        "From Vilmeith | all the seers are,",
-        "And the workers of charms | are Svarthofthi's children,",
-        "And from Ymir sprang | the giants all.⟦35⟧"
-       ]
-      },
-      {
-       "t": "v",
-       "n": 36,
-       "l": [
-        "Much have I told thee, | and further will tell;",
-        "There is much that I know;— | wilt thou hear yet more?"
+        "Hyndla spake:",
+        "\"Flames I see burning, | the earth is on fire,",
+        "And each for his life | the price must lose;",
+        "Bring then to Ottar | the draught of beer,",
+        "Of venom full | for an evil fate.\""
        ]
       }
      ],
      "en_stanzas": [
-      35,
-      36
+      50
      ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.23,
      "en-thorpe": [
       {
        "t": "p",
-       "s": "All the Valas are from Vidolf; all the soothsayers from Vilmeidr, all the sorcerers from Svarthofdi; all the Jotuns come from Ymir."
+       "s": "Hyndla:",
+       "sp": true
       },
       {
        "t": "p",
-       "s": "We tell thee much, and more remember, I admonish thee thus much to know. Wishest thou yet a longer narrative?"
+       "s": "Fire I see burning, and the earth blazing; many will have their lives to save. Bear thou the cup to Ottar's hand, the mead with venom mingled, in an evil hour!"
       }
      ],
      "en-modern": [
       {
        "t": "v",
-       "n": 35,
+       "n": 50,
        "l": [
-        "The sibyls arose | from Vitholf's line,",
-        "from Vilmeith | all the seers come,",
-        "and the workers of charms | are Svarthofthi's children,",
-        "and from Ymir sprang | all the giants."
-       ]
-      },
-      {
-       "t": "v",
-       "n": 36,
-       "l": [
-        "Much have I told you, | and more I will tell;",
-        "there is much that I know; | will you hear still more?"
+        "Hyndla said:",
+        "\"I see flames burning, | the earth is on fire,",
+        "and each must pay | the price with his life;",
+        "then bring to Ottar | the draught of beer,",
+        "full of venom | for an evil fate.\""
        ]
       }
      ]
@@ -2623,62 +2619,43 @@
      "en": [
       {
        "t": "v",
-       "n": 37,
+       "n": 51,
        "l": [
-        "One there was born | in the bygone days,",
-        "Of the race of the gods, | and great was his might;",
-        "Nine giant women, | at the world's edge,",
-        "Once bore the man | so mighty in arms.⟦37⟧"
-       ]
-      },
-      {
-       "t": "v",
-       "n": 38,
-       "l": [
-        "Gjolp there bore him, | Greip there bore him,",
-        "Eistla bore him, | and Eyrgjafa,",
-        "Ulfrun bore him, | and Angeyja,",
-        "Imth and Atla, | and Jarnsaxa.⟦38⟧"
+        "Freyja spake:",
+        "\"Thine evil words | shall work no ill,",
+        "Though, giantess, bitter | thy baleful threats;",
+        "A drink full fair | shall Ottar find,",
+        "If of all the gods | the favor I get.\""
        ]
       }
      ],
      "en_stanzas": [
-      37,
-      38
+      51
      ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.32,
      "en-thorpe": [
       {
        "t": "p",
-       "s": "There was one born, in times of old, with wondrous might endowed, of origin divine: nine Jotun maids gave birth to the gracious god, at the world's margin."
+       "s": "Freyia:",
+       "sp": true
       },
       {
        "t": "p",
-       "s": "Gialp gave him birth, Greip gave him birth, Eistla gave him birth, and Angeia; Ulfrun gave him birth, and Eyrgiafa, Imd and Atla, and Jarnsaxa."
+       "s": "Thy malediction shall be powerless; although thou, Jotun-maid! dost evil threaten. He shall drink delicious draughts. All the gods I pray to favour Ottar."
       }
      ],
      "en-modern": [
       {
        "t": "v",
-       "n": 37,
+       "n": 51,
        "l": [
-        "One there was born | in bygone days,",
-        "of the race of the gods, | and great was his might;",
-        "nine giant women, | at the world's edge,",
-        "once bore the man | so mighty in arms."
-       ]
-      },
-      {
-       "t": "v",
-       "n": 38,
-       "l": [
-        "Gjolp bore him there, | Greip bore him there,",
-        "Eistla bore him, | and Eyrgjafa,",
-        "Ulfrun bore him, | and Angeyja,",
-        "Imth and Atla, | and Jarnsaxa."
+        "Freyja said:",
+        "\"Your evil words | shall work no harm,",
+        "though, giantess, bitter | are your baleful threats;",
+        "Ottar shall find | a fair drink,",
+        "if I win the favour | of all the gods.\""
        ]
       }
      ]
@@ -2794,36 +2771,20 @@
      "s": "The manuscript and many editions include line 1 of stanza 25 after line 4 of stanza 29. The story of Harald Battle-tooth is told in detail by Saxo Grammaticus. Harald's father was Hrörek, king of Denmark; his mother was Auth, daughter of Ivar, king of Sweden. After Ivar had treacherously destroyed Hrörek, Auth fled with Harald to Russia, where she married King Rathbarth. Harald's warlike career in Norway, and his death on the Bravalla-field at the hands of his nephew, Sigurth Ring, son of Randver and grandson of Rathbarth and Auth, were favorite saga themes."
     },
     {
-     "n": "30",
-     "s": "At this point begins the fragmentary and interpolated \"short Voluspo\" identified by Snorri. The manuscript gives no indication of the break in the poem's continuity. Eleven: there are various references to the \"twelve\" gods (including Baldr); Snorri (Gylfaginning, 20-33) lists the following twelve in addition to Othin: Thor, Baldr, Njorth, Freyr, Tyr, Bragi, Heimdall, Hoth, Vithar, Vali, Ull and Forseti; he adds Loki as of doubtful divinity. Baldr and Vali: cf. Voluspo, 32-33."
+     "n": "46",
+     "s": "Freyja now admits the identity of her boar as Ottar, who with the help of the \"memory-beer\" is to recall the entire genealogy he has just heard, and thus win his wager with Angantyr."
     },
     {
-     "n": "31",
-     "s": "The fragmentary stanzas 31-34 have been regrouped in various ways, and with many conjectures as to omissions, none of which are indicated in the manuscript. The order here is as in the manuscript, except that lines 1-2 of stanza 28 have been transposed from after line 2 of stanza 33. Bur's heir: Othin, cf. Voluspo, 4."
+     "n": "47",
+     "s": "Heithrun: the she-goat that stands by Valhall (cf. Grimnismol, 25), the name being here used simply of the she-goats in general, in caustic comment on Freyja's morals. Of these Loki entertained a similar view; cf. Lokasenna, 30."
     },
     {
-     "n": "32",
-     "s": "Freyr, Gerth, Gymir: cf. Skirnismol. Aurbotha: a giantess, mother of Gerth. Thjazi and Skathi: cf. Lokasenna, 49, and Harbarthsljoth, 19."
+     "n": "48",
+     "s": "Oth: cf. stanza 6 and note, and Voluspo, 25 and note. Lines 3-4, abbreviated in the manuscript, are very likely repeated here by mistake."
     },
     {
-     "n": "33",
-     "s": "Cf. Voluspo, 44 and 27."
-    },
-    {
-     "n": "34",
-     "s": "Heith (\"Witch\") and Hrossthjof (\"Horse-thief\"): the only other reference to the giant Hrimnir (Skirnismol, 28) makes no mention of his children."
-    },
-    {
-     "n": "35",
-     "s": "This stanza is quoted by Snorri (Gylfaginning, 5). Of Vitholf (\"Forest Wolf\"), Vilmeith (\"Wish-Tree\") and Svarthofthi (\"Black Head\") nothing further is known. Ymir: cf. Voluspo, 3."
-    },
-    {
-     "n": "37",
-     "s": "According to Snorri (Gylfaginning, 27) Heimdall was the son of Othin and of nine sisters. As Heimdall was the watchman of the gods, this has given rise to much \"solar myth\" discussion. The names of his nine giantess mothers are frequently said to denote attributes of the sea."
-    },
-    {
-     "n": "38",
-     "s": "The names of Heimdall's mothers may be rendered \"Yelper,\" \"Griper,\" \"Foamer,\" \"Sand-Strewer,\" \"She-Wolf,\" \"Sorrow-Whelmer,\" \"Dusk,\" \"Fury,\" and \"Iron-Sword.\""
+     "n": "49",
+     "s": "The manuscript repeats once again lines 3-4 of stanza 47 as the last two lines of this stanza. It seems probable that two lines have been lost, to the effect that Freyja will burn the giantess alive \"If swiftly now  thou dost not seek, / And hither bring  the memory-beer.\""
     }
    ],
    "en_source": "Bellows 1923",

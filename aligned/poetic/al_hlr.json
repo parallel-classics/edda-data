@@ -444,10 +444,6 @@
       {
        "t": "p",
        "s": "\"From my chariot I will truly tell thee, thou witless crone! if thou desirest to know, how Giuki's heirs made me both lovelorn and perjured."
-      },
-      {
-       "t": "p",
-       "s": "The bold-hearted king caused the garbs of us eight sisters under an oak to be borne. Twelve years old was I, if thou desirest to know, when to the youthful king oaths I gave."
       }
      ],
      "en-modern": [
@@ -635,6 +631,12 @@
         "I was twelve winters old, | if you want to know,",
         "when I gave my oaths | to the young king."
        ]
+      }
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "The bold-hearted king caused the garbs of us eight sisters under an oak to be borne. Twelve years old was I, if thou desirest to know, when to the youthful king oaths I gave."
       }
      ]
     },

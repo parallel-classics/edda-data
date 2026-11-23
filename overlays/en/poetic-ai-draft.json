@@ -339,7 +339,8 @@
    "author": "ai:claude-2026-10",
    "date": "2026-10-25",
    "reason": "no public-domain English for this stanza; AI draft for review",
-   "replaces": null
+   "replaces": null,
+   "withdrawn": "replaced by Bellows 1923 (published, public domain) after the hand pairing, 2026-11-23"
   },
   {
    "row": "hh2-p8",
@@ -3698,6 +3699,16 @@
    "reason": "no public-domain English for this stanza; AI draft for review",
    "replaces": null,
    "withdrawn": "replaced by Thorpe 1866 (published, public domain), 2026-11-01"
+  },
+  {
+   "row": "hh2-s17",
+   "cell": "en",
+   "text": "Not against her heart | spoke Högni's daughter;\nshe said she would have | Helgi's love.",
+   "status": "draft",
+   "author": "ai:claude-2026-11",
+   "date": "2026-11-23",
+   "reason": "no public-domain English for this stanza (Bellows folds it into his 14); AI draft for review",
+   "replaces": null
   }
  ]
 }
