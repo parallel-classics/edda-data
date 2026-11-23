@@ -1146,20 +1146,20 @@
      ],
      "en": [
       {
+       "t": "p",
+       "s": "Högni said:",
+       "sp": true
+      },
+      {
        "t": "v",
-       "n": 16,
+       "n": null,
        "l": [
-        "Kostbera spake:",
-        "\"A bear saw I enter, | the pillars he broke,",
-        "And he brandished his claws | so that craven we were;",
-        "With his mouth seized he many, | and nought was our might,",
-        "And loud was the tumult, | not little it was.\"⟦16⟧"
+        "\"Linen cloths lie here | that you heed but little;",
+        "they will soon burn, | the cover you saw.\""
        ]
       }
      ],
-     "en_stanzas": [
-      16
-     ],
+     "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
@@ -1174,19 +1174,7 @@
        "s": "\"Here lie linen cloths, which thou hadst little noticed: these will quickly burn where thou the coverlet sawest.\""
       }
      ],
-     "en-modern": [
-      {
-       "t": "v",
-       "n": 16,
-       "l": [
-        "Kostbera said:",
-        "\"I saw a bear come in, | he broke the pillars,",
-        "and he brandished his claws | so that our courage failed;",
-        "he seized many in his mouth, | and we were powerless,",
-        "and the uproar was loud, | it was not slight.\""
-       ]
-      }
-     ]
+     "en_draft": true
     },
     {
      "id": "am-s17",
@@ -1235,29 +1223,23 @@
      ],
      "en": [
       {
-       "t": "p",
-       "s": "Kostbera said:",
-       "sp": true
-      },
-      {
        "t": "v",
+       "n": 16,
        "l": [
-        "\"I thought a bear had come in here,",
-        "broke up the timbers,",
-        "shook its paws so",
-        "that we were afraid;",
-        "it had many of us in its mouth,",
-        "so that we were helpless;",
-        "there was trampling too,",
-        "and not so little.\""
+        "Kostbera spake:",
+        "\"A bear saw I enter, | the pillars he broke,",
+        "And he brandished his claws | so that craven we were;",
+        "With his mouth seized he many, | and nought was our might,",
+        "And loud was the tumult, | not little it was.\"⟦16⟧"
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      16
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true,
      "en-thorpe": [
       {
        "t": "p",
@@ -1267,6 +1249,19 @@
       {
        "t": "p",
        "s": "\"Methought a bear came in, and broke down the columns; and so his talons shook, that we were terror-stricken; by his mouth held many of us, so that we were helpless: there, too, was a din far from little.\""
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 16,
+       "l": [
+        "Kostbera said:",
+        "\"I saw a bear come in, | he broke the pillars,",
+        "and he brandished his claws | so that our courage failed;",
+        "he seized many in his mouth, | and we were powerless,",
+        "and the uproar was loud, | it was not slight.\""
+       ]
       }
      ]
     },
@@ -2267,10 +2262,22 @@
         "Five were the warriors, | and their followers all",
         "But twice as many,— | their minds knew not wisdom.⟦27⟧"
        ]
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Snævar and Solar, | they were sons of Hogni,",
+        "Orkning was he called | who came with the others,",
+        "Blithe was the shield-tree, | the brother of Kostbera;",
+        "The fair-decked ones followed, | till the fjord divided them,",
+        "Full hard did they plead, | but the others would hear not.⟦28⟧"
+       ]
       }
      ],
      "en_stanzas": [
-      27
+      27,
+      28
      ],
      "en_cont": false,
      "is_cont": false,
@@ -2290,6 +2297,17 @@
         "they said, and yet each | would hold the other back;",
         "five were the warriors, | and their followers in all",
         "only twice as many, | their minds knew no wisdom."
+       ]
+      },
+      {
+       "t": "v",
+       "n": 28,
+       "l": [
+        "Snævar and Solar, | they were sons of Hogni,",
+        "Orkning he was called | who came with the others,",
+        "cheerful was the shield-tree, | the brother of Kostbera;",
+        "the finely adorned ones followed, | till the fjord parted them,",
+        "they pleaded very hard, | but the others would not listen."
        ]
       }
      ]
@@ -2324,19 +2342,14 @@
      "en": [
       {
        "t": "v",
-       "n": 28,
+       "n": null,
        "l": [
-        "Snævar and Solar, | they were sons of Hogni,",
-        "Orkning was he called | who came with the others,",
-        "Blithe was the shield-tree, | the brother of Kostbera;",
-        "The fair-decked ones followed, | till the fjord divided them,",
-        "Full hard did they plead, | but the others would hear not.⟦28⟧"
+        "The fair-clad women went | till the fjord parted them;",
+        "the bright ones still warned them, | but they would not be told."
        ]
       }
      ],
-     "en_stanzas": [
-      28
-     ],
+     "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
@@ -2346,19 +2359,7 @@
        "s": "They went fair-appointed, until the firth them parted: ever would their wives have stayed them, they would not be stayed."
       }
      ],
-     "en-modern": [
-      {
-       "t": "v",
-       "n": 28,
-       "l": [
-        "Snævar and Solar, | they were sons of Hogni,",
-        "Orkning he was called | who came with the others,",
-        "cheerful was the shield-tree, | the brother of Kostbera;",
-        "the finely adorned ones followed, | till the fjord parted them,",
-        "they pleaded very hard, | but the others would not listen."
-       ]
-      }
-     ]
+     "en_draft": true
     },
     {
      "id": "am-s32",
@@ -3316,23 +3317,43 @@
      "en": [
       {
        "t": "v",
+       "n": 43,
        "l": [
-        "Then the news came in",
-        "of what they were doing outside,",
-        "the men before the hall;",
-        "they heard the thrall tell it."
+        "In the house came the word | how the heroes without",
+        "Fought in front of the hall; | they heard a thrall tell it;",
+        "Grim then was Guthrun, | the grief when she heard,",
+        "With necklaces fair, | and she flung them all from her,",
+        "(The silver she hurled | so the rings burst asunder.)⟦43⟧"
        ]
       }
      ],
-     "en_stanzas": [],
+     "en_stanzas": [
+      43
+     ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true,
      "en-thorpe": [
       {
        "t": "p",
        "s": "In then came the tale of what without was passing; loud before the hall they a thrall heard speak."
+      },
+      {
+       "t": "p",
+       "s": "Then incensed was Gudrun, when the sad news she heard: adorned with necklaces, she tore them all asunder; so hurled the silver, that the rings in shivers flew."
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 43,
+       "l": [
+        "Into the house came word | how the heroes outside",
+        "fought in front of the hall; | they heard a slave tell it;",
+        "Guthrun was grim then, | when she heard the grief,",
+        "with fine necklaces, | and she flung them all from her,",
+        "(she hurled the silver | so that the rings burst apart.)"
+       ]
       }
      ]
     },
@@ -3367,44 +3388,11 @@
        ]
       }
      ],
-     "en": [
-      {
-       "t": "v",
-       "n": 43,
-       "l": [
-        "In the house came the word | how the heroes without",
-        "Fought in front of the hall; | they heard a thrall tell it;",
-        "Grim then was Guthrun, | the grief when she heard,",
-        "With necklaces fair, | and she flung them all from her,",
-        "(The silver she hurled | so the rings burst asunder.)⟦43⟧"
-       ]
-      }
-     ],
-     "en_stanzas": [
-      43
-     ],
-     "en_cont": false,
+     "en": [],
+     "en_stanzas": [],
+     "en_cont": true,
      "is_cont": false,
-     "quoted_in": [],
-     "en-thorpe": [
-      {
-       "t": "p",
-       "s": "Then incensed was Gudrun, when the sad news she heard: adorned with necklaces, she tore them all asunder; so hurled the silver, that the rings in shivers flew."
-      }
-     ],
-     "en-modern": [
-      {
-       "t": "v",
-       "n": 43,
-       "l": [
-        "Into the house came word | how the heroes outside",
-        "fought in front of the hall; | they heard a slave tell it;",
-        "Guthrun was grim then, | when she heard the grief,",
-        "with fine necklaces, | and she flung them all from her,",
-        "(she hurled the silver | so that the rings burst apart.)"
-       ]
-      }
-     ]
+     "quoted_in": []
     },
     {
      "id": "am-s47",

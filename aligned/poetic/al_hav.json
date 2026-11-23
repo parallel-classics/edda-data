@@ -6293,33 +6293,21 @@
      "en": [
       {
        "t": "v",
-       "n": 76,
+       "n": 77,
        "l": [
-        "Among Fitjung's sons | saw I well-stocked folds,—",
-        "Now bear they the beggar's staff;",
-        "Wealth is as swift | as a winking eye,",
-        "Of friends the falsest it is.⟦76⟧"
+        "Cattle die, | and kinsmen die,",
+        "And so one dies one's self;",
+        "But a noble name | will never die,",
+        "If good renown one gets."
        ]
       }
      ],
      "en_stanzas": [
-      76
+      77
      ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en-modern": [
-      {
-       "t": "v",
-       "n": 76,
-       "l": [
-        "Among Fitjung's sons | I saw well-stocked folds;",
-        "now they carry the beggar's staff;",
-        "wealth is as swift | as the wink of an eye,",
-        "it is the falsest of friends."
-       ]
-      }
-     ],
      "is_auto": [
       {
        "t": "v",
@@ -6334,7 +6322,25 @@
        ]
       }
      ],
-     "is_netutgafan": true
+     "is_netutgafan": true,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 77,
+       "l": [
+        "Cattle die, | and kinsmen die,",
+        "and so one dies oneself;",
+        "but a noble name | will never die,",
+        "if one wins good renown."
+       ]
+      }
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Cattle die, kindred die, we ourselves also die; but the fair fame never dies of him who has earned it."
+      }
+     ]
     },
     {
      "id": "hav-s77",
@@ -6370,17 +6376,17 @@
      "en": [
       {
        "t": "v",
-       "n": 77,
+       "n": 78,
        "l": [
         "Cattle die, | and kinsmen die,",
         "And so one dies one's self;",
-        "But a noble name | will never die,",
-        "If good renown one gets."
+        "One thing I know | that never dies,",
+        "The fame of a dead man's deeds."
        ]
       }
      ],
      "en_stanzas": [
-      77
+      78
      ],
      "en_cont": false,
      "is_cont": false,
@@ -6388,19 +6394,7 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "Cattle die, kindred die, we ourselves also die; but the fair fame never dies of him who has earned it."
-      }
-     ],
-     "en-modern": [
-      {
-       "t": "v",
-       "n": 77,
-       "l": [
-        "Cattle die, | and kinsmen die,",
-        "and so one dies oneself;",
-        "but a noble name | will never die,",
-        "if one wins good renown."
-       ]
+       "s": "Cattle die, kindred die, we ourselves also die; but I know one thing that never dies,—judgment on each one dead."
       }
      ],
      "is_auto": [
@@ -6417,7 +6411,19 @@
        ]
       }
      ],
-     "is_netutgafan": true
+     "is_netutgafan": true,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 78,
+       "l": [
+        "Cattle die, | and kinsmen die,",
+        "and so one dies oneself;",
+        "one thing I know | that never dies,",
+        "the fame of a dead man's deeds."
+       ]
+      }
+     ]
     },
     {
      "id": "hav-s78",
@@ -6453,17 +6459,17 @@
      "en": [
       {
        "t": "v",
-       "n": 78,
+       "n": 76,
        "l": [
-        "Cattle die, | and kinsmen die,",
-        "And so one dies one's self;",
-        "One thing I know | that never dies,",
-        "The fame of a dead man's deeds."
+        "Among Fitjung's sons | saw I well-stocked folds,—",
+        "Now bear they the beggar's staff;",
+        "Wealth is as swift | as a winking eye,",
+        "Of friends the falsest it is.⟦76⟧"
        ]
       }
      ],
      "en_stanzas": [
-      78
+      76
      ],
      "en_cont": false,
      "is_cont": false,
@@ -6471,19 +6477,7 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "Cattle die, kindred die, we ourselves also die; but I know one thing that never dies,—judgment on each one dead."
-      }
-     ],
-     "en-modern": [
-      {
-       "t": "v",
-       "n": 78,
-       "l": [
-        "Cattle die, | and kinsmen die,",
-        "and so one dies oneself;",
-        "one thing I know | that never dies,",
-        "the fame of a dead man's deeds."
-       ]
+       "s": "Full storehouses I saw at Dives' sons': now bear they the beggar's staff. Such are riches; as is the twinkling of an eye: of friends they are most fickle."
       }
      ],
      "is_auto": [
@@ -6500,7 +6494,19 @@
        ]
       }
      ],
-     "is_netutgafan": true
+     "is_netutgafan": true,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 76,
+       "l": [
+        "Among Fitjung's sons | I saw well-stocked folds;",
+        "now they carry the beggar's staff;",
+        "wealth is as swift | as the wink of an eye,",
+        "it is the falsest of friends."
+       ]
+      }
+     ]
     },
     {
      "id": "hav-s79",
@@ -6536,19 +6542,24 @@
      "en": [
       {
        "t": "v",
-       "n": 79,
+       "n": 80,
        "l": [
-        "Certain is that | which is sought from runes,",
-        "That the gods so great have made,",
-        "And the Master-Poet painted;",
-        "................",
-        ".....of the race of gods:",
-        "Silence is safest and best.⟦79⟧"
+        "An unwise man, | if a maiden's love",
+        "Or wealth he chances to win,",
+        "His pride will wax, | but his wisdom never,",
+        "Straight forward he fares in conceit."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "***"
        ]
       }
      ],
      "en_stanzas": [
-      79
+      80
      ],
      "en_cont": false,
      "is_cont": false,
@@ -6556,21 +6567,7 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "Full storehouses I saw at Dives' sons': now bear they the beggar's staff. Such are riches; as is the twinkling of an eye: of friends they are most fickle."
-      }
-     ],
-     "en-modern": [
-      {
-       "t": "v",
-       "n": 79,
-       "l": [
-        "Certain is that | which is sought from runes,",
-        "that the great gods have made,",
-        "and the Master-Poet painted;",
-        "................",
-        ".....of the race of gods:",
-        "silence is safest and best."
-       ]
+       "s": "A foolish man, if he acquires wealth or woman's love, pride grows within him, but wisdom never: he goes on more and more arrogant."
       }
      ],
      "is_auto": [
@@ -6587,7 +6584,26 @@
        ]
       }
      ],
-     "is_netutgafan": true
+     "is_netutgafan": true,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 80,
+       "l": [
+        "An unwise man, | if he happens to win",
+        "a maiden's love or wealth,",
+        "his pride will grow, | but his wisdom never;",
+        "he goes straight forward in conceit."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "***"
+       ]
+      }
+     ]
     },
     {
      "id": "hav-s80",
@@ -6623,24 +6639,19 @@
      "en": [
       {
        "t": "v",
-       "n": 80,
+       "n": 79,
        "l": [
-        "An unwise man, | if a maiden's love",
-        "Or wealth he chances to win,",
-        "His pride will wax, | but his wisdom never,",
-        "Straight forward he fares in conceit."
-       ]
-      },
-      {
-       "t": "v",
-       "n": null,
-       "l": [
-        "***"
+        "Certain is that | which is sought from runes,",
+        "That the gods so great have made,",
+        "And the Master-Poet painted;",
+        "................",
+        ".....of the race of gods:",
+        "Silence is safest and best.⟦79⟧"
        ]
       }
      ],
      "en_stanzas": [
-      80
+      79
      ],
      "en_cont": false,
      "is_cont": false,
@@ -6648,26 +6659,7 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "A foolish man, if he acquires wealth or woman's love, pride grows within him, but wisdom never: he goes on more and more arrogant."
-      }
-     ],
-     "en-modern": [
-      {
-       "t": "v",
-       "n": 80,
-       "l": [
-        "An unwise man, | if he happens to win",
-        "a maiden's love or wealth,",
-        "his pride will grow, | but his wisdom never;",
-        "he goes straight forward in conceit."
-       ]
-      },
-      {
-       "t": "v",
-       "n": null,
-       "l": [
-        "***"
-       ]
+       "s": "Then 'tis made manifest, if of runes thou questionest him, those to the high ones known, which the great powers invented, and the great talker painted, that he had best hold silence."
       }
      ],
      "is_auto": [
@@ -6684,7 +6676,21 @@
        ]
       }
      ],
-     "is_netutgafan": true
+     "is_netutgafan": true,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 79,
+       "l": [
+        "Certain is that | which is sought from runes,",
+        "that the great gods have made,",
+        "and the Master-Poet painted;",
+        "................",
+        ".....of the race of gods:",
+        "silence is safest and best."
+       ]
+      }
+     ]
     },
     {
      "id": "hav-s81",
@@ -7334,47 +7340,12 @@
      "en": [
       {
        "t": "v",
-       "n": 88,
+       "n": 89,
        "l": [
-        "In a brother's slayer, | if thou meet him abroad,",
-        "In a half-burned house, | in a horse full swift—",
-        "One leg is hurt | and the horse is useless—",
-        "None had ever such faith | as to trust in them all."
-       ]
-      },
-      {
-       "t": "v",
-       "n": null,
-       "l": [
-        "***⟦88⟧"
-       ]
-      }
-     ],
-     "en_stanzas": [
-      88
-     ],
-     "en_cont": false,
-     "is_cont": false,
-     "quoted_in": [],
-     "en-thorpe": [
-      {
-       "t": "p",
-       "s": "An early sown field let no one trust, nor prematurely in a son: weather rules the field, and wit the son, each of which is doubtful;"
-      },
-      {
-       "t": "p",
-       "s": "A brother's murderer, though on the high road met, a half-burnt house, an over-swift horse, (a horse is useless, if a leg be broken), no man is so confiding as to trust any of these."
-      }
-     ],
-     "en-modern": [
-      {
-       "t": "v",
-       "n": 88,
-       "l": [
-        "In a brother's killer, | if you meet him on the road,",
-        "in a half-burned house, | in a very swift horse,",
-        "for if one leg is hurt | the horse is useless:",
-        "no one ever had such faith | as to trust in them all."
+        "Hope not too surely | for early harvest,",
+        "Nor trust too soon in thy son;",
+        "The field needs good weather, | the son needs wisdom,",
+        "And oft is either denied."
        ]
       },
       {
@@ -7383,6 +7354,18 @@
        "l": [
         "***"
        ]
+      }
+     ],
+     "en_stanzas": [
+      89
+     ],
+     "en_cont": false,
+     "is_cont": false,
+     "quoted_in": [],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "An early sown field let no one trust, nor prematurely in a son: weather rules the field, and wit the son, each of which is doubtful;"
       }
      ],
      "is_auto": [
@@ -7399,7 +7382,26 @@
        ]
       }
      ],
-     "is_netutgafan": true
+     "is_netutgafan": true,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 89,
+       "l": [
+        "Do not count too surely | on an early harvest,",
+        "nor trust too soon in your son;",
+        "the field needs good weather, | the son needs wisdom,",
+        "and often either is denied."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "***"
+       ]
+      }
+     ]
     },
     {
      "id": "hav-s89",
@@ -7439,47 +7441,28 @@
      "en": [
       {
        "t": "v",
-       "n": 89,
+       "n": 88,
        "l": [
-        "Hope not too surely | for early harvest,",
-        "Nor trust too soon in thy son;",
-        "The field needs good weather, | the son needs wisdom,",
-        "And oft is either denied."
+        "In a brother's slayer, | if thou meet him abroad,",
+        "In a half-burned house, | in a horse full swift—",
+        "One leg is hurt | and the horse is useless—",
+        "None had ever such faith | as to trust in them all."
        ]
       },
       {
        "t": "v",
        "n": null,
        "l": [
-        "***"
+        "***⟦88⟧"
        ]
       }
      ],
      "en_stanzas": [
-      89
+      88
      ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en-modern": [
-      {
-       "t": "v",
-       "n": 89,
-       "l": [
-        "Do not count too surely | on an early harvest,",
-        "nor trust too soon in your son;",
-        "the field needs good weather, | the son needs wisdom,",
-        "and often either is denied."
-       ]
-      },
-      {
-       "t": "v",
-       "n": null,
-       "l": [
-        "***"
-       ]
-      }
-     ],
      "is_auto": [
       {
        "t": "v",
@@ -7496,7 +7479,32 @@
        ]
       }
      ],
-     "is_netutgafan": true
+     "is_netutgafan": true,
+     "en-modern": [
+      {
+       "t": "v",
+       "n": 88,
+       "l": [
+        "In a brother's killer, | if you meet him on the road,",
+        "in a half-burned house, | in a very swift horse,",
+        "for if one leg is hurt | the horse is useless:",
+        "no one ever had such faith | as to trust in them all."
+       ]
+      },
+      {
+       "t": "v",
+       "n": null,
+       "l": [
+        "***"
+       ]
+      }
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "A brother's murderer, though on the high road met, a half-burnt house, an over-swift horse, (a horse is useless, if a leg be broken), no man is so confiding as to trust any of these."
+      }
+     ]
     },
     {
      "id": "hav-s90",

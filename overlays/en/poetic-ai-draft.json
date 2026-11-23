@@ -380,7 +380,8 @@
    "author": "ai:claude-2026-10",
    "date": "2026-10-25",
    "reason": "no public-domain English for this stanza; AI draft for review",
-   "replaces": null
+   "replaces": null,
+   "withdrawn": "replaced by Bellows 1923 (published, public domain) after the hand pairing, 2026-11-23"
   },
   {
    "row": "fm-p7",
@@ -470,7 +471,8 @@
    "author": "ai:claude-2026-10",
    "date": "2026-10-25",
    "reason": "no public-domain English for this stanza; AI draft for review",
-   "replaces": null
+   "replaces": null,
+   "withdrawn": "replaced by Bellows 1923 (published, public domain) after the hand pairing, 2026-11-23"
   },
   {
    "row": "am-s23",
@@ -500,7 +502,8 @@
    "author": "ai:claude-2026-10",
    "date": "2026-10-25",
    "reason": "no public-domain English for this stanza; AI draft for review",
-   "replaces": null
+   "replaces": null,
+   "withdrawn": "replaced by Bellows 1923 (published, public domain) after the hand pairing, 2026-11-23"
   },
   {
    "row": "am-s51",
@@ -3708,6 +3711,26 @@
    "author": "ai:claude-2026-11",
    "date": "2026-11-23",
    "reason": "no public-domain English for this stanza (Bellows folds it into his 14); AI draft for review",
+   "replaces": null
+  },
+  {
+   "row": "am-s16",
+   "cell": "en",
+   "text": "Högni said:\n\"Linen cloths lie here | that you heed but little;\nthey will soon burn, | the cover you saw.\"",
+   "status": "draft",
+   "author": "ai:claude-2026-11",
+   "date": "2026-11-23",
+   "reason": "no public-domain English for this stanza (Bellows has none here); AI draft for review",
+   "replaces": null
+  },
+  {
+   "row": "am-s31",
+   "cell": "en",
+   "text": "The fair-clad women went | till the fjord parted them;\nthe bright ones still warned them, | but they would not be told.",
+   "status": "draft",
+   "author": "ai:claude-2026-11",
+   "date": "2026-11-23",
+   "reason": "no public-domain English for this stanza (Bellows has none here); AI draft for review",
    "replaces": null
   }
  ]

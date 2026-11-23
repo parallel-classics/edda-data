@@ -162403,7 +162403,23 @@
    "entity": "jotnar",
    "row": "fjm-s1",
    "lang": "en",
+   "form": "giants",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jotnar",
+   "row": "fjm-s1",
+   "lang": "en",
    "form": "giant",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jotnar",
+   "row": "fjm-s1",
+   "lang": "en-modern",
+   "form": "giants",
    "kind": "name",
    "status": "auto"
   },
@@ -162443,6 +162459,38 @@
    "entity": "fjolsvidr",
    "row": "fjm-s2",
    "lang": "en",
+   "form": "Fjolsvith",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fjolsvidr",
+   "row": "fjm-s2",
+   "lang": "en",
+   "form": "Fjolsvith",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fjolsvidr",
+   "row": "fjm-s2",
+   "lang": "en",
+   "form": "Fjolsvith",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fjolsvidr",
+   "row": "fjm-s2",
+   "lang": "en-modern",
+   "form": "Fjolsvith",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fjolsvidr",
+   "row": "fjm-s2",
+   "lang": "en-modern",
    "form": "Fjolsvith",
    "kind": "name",
    "status": "auto"
@@ -162792,6 +162840,14 @@
    "status": "auto"
   },
   {
+   "entity": "geri",
+   "row": "fjm-s14",
+   "lang": "en",
+   "form": "Geri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fjolsvidr",
    "row": "fjm-s14",
    "lang": "en-modern",
@@ -162800,6 +162856,22 @@
    "status": "auto"
   },
   {
+   "entity": "geri",
+   "row": "fjm-s14",
+   "lang": "en-modern",
+   "form": "Geri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "geri",
+   "row": "fjm-s14",
+   "lang": "en-thorpe",
+   "form": "Geri",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fjolsvidr",
    "row": "fjm-s15",
    "lang": "on",
@@ -162939,7 +163011,7 @@
    "entity": "vidofnir",
    "row": "fjm-s18",
    "lang": "en",
-   "form": "Vithofnir",
+   "form": "Vithofnir's",
    "kind": "name",
    "status": "auto"
   },
@@ -162955,7 +163027,15 @@
    "entity": "vidofnir",
    "row": "fjm-s18",
    "lang": "en-modern",
-   "form": "Vithofnir",
+   "form": "Vithofnir's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "vidofnir",
+   "row": "fjm-s18",
+   "lang": "en-thorpe",
+   "form": "Vidofnir's",
    "kind": "name",
    "status": "auto"
   },
@@ -163192,10 +163272,42 @@
    "status": "auto"
   },
   {
+   "entity": "surtr",
+   "row": "fjm-s24",
+   "lang": "en",
+   "form": "Surt",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sinmara",
+   "row": "fjm-s24",
+   "lang": "en",
+   "form": "Sinmora",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "fjolsvidr",
    "row": "fjm-s24",
    "lang": "en-modern",
    "form": "Fjolsvith",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "surtr",
+   "row": "fjm-s24",
+   "lang": "en-modern",
+   "form": "Surt",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sinmara",
+   "row": "fjm-s24",
+   "lang": "en-modern",
+   "form": "Sinmora",
    "kind": "name",
    "status": "auto"
   },
@@ -195969,22 +196081,6 @@
   {
    "entity": "sigurdr",
    "row": "fm-s26",
-   "lang": "en",
-   "form": "Sigurth",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "sigurdr",
-   "row": "fm-s26",
-   "lang": "en-modern",
-   "form": "Sigurth",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "sigurdr",
-   "row": "fm-s26",
    "lang": "en-thorpe",
    "form": "Sigurd",
    "kind": "name",
@@ -196058,7 +196154,7 @@
    "entity": "regin",
    "row": "fm-p4",
    "lang": "en",
-   "form": "Reginn",
+   "form": "Regin",
    "kind": "name",
    "status": "auto"
   },
@@ -196066,7 +196162,7 @@
    "entity": "fafnir",
    "row": "fm-p4",
    "lang": "en",
-   "form": "Fáfnir",
+   "form": "Fafnir",
    "kind": "name",
    "status": "auto"
   },
@@ -196074,7 +196170,7 @@
    "entity": "ridill",
    "row": "fm-p4",
    "lang": "en",
-   "form": "Riðill",
+   "form": "Rithil",
    "kind": "name",
    "status": "auto"
   },
@@ -196082,7 +196178,39 @@
    "entity": "regin",
    "row": "fm-p4",
    "lang": "en",
-   "form": "Reginn",
+   "form": "Regin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "regin",
+   "row": "fm-p4",
+   "lang": "en-modern",
+   "form": "Regin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fafnir",
+   "row": "fm-p4",
+   "lang": "en-modern",
+   "form": "Fafnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "ridill",
+   "row": "fm-p4",
+   "lang": "en-modern",
+   "form": "Rithil",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "regin",
+   "row": "fm-p4",
+   "lang": "en-modern",
+   "form": "Regin",
    "kind": "name",
    "status": "auto"
   },
@@ -196145,6 +196273,38 @@
   {
    "entity": "sigurdr",
    "row": "fm-s27",
+   "lang": "en",
+   "form": "Sigurth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fafnir",
+   "row": "fm-s27",
+   "lang": "en",
+   "form": "Fafnir's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sigurdr",
+   "row": "fm-s27",
+   "lang": "en-modern",
+   "form": "Sigurth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fafnir",
+   "row": "fm-s27",
+   "lang": "en-modern",
+   "form": "Fafnir's",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sigurdr",
+   "row": "fm-s27",
    "lang": "en-thorpe",
    "form": "Sigurd",
    "kind": "name",
@@ -196154,7 +196314,7 @@
    "entity": "fafnir",
    "row": "fm-s27",
    "lang": "en-thorpe",
-   "form": "Fafnir",
+   "form": "Fafnir's",
    "kind": "name",
    "status": "auto"
   },
@@ -196199,10 +196359,26 @@
    "status": "auto"
   },
   {
+   "entity": "fafnir",
+   "row": "fm-s28",
+   "lang": "en",
+   "form": "Fafnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "sigurdr",
    "row": "fm-s28",
    "lang": "en-modern",
    "form": "Sigurth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "fafnir",
+   "row": "fm-s28",
+   "lang": "en-modern",
+   "form": "Fafnir",
    "kind": "name",
    "status": "auto"
   },
@@ -196215,6 +196391,14 @@
    "status": "auto"
   },
   {
+   "entity": "fafnir",
+   "row": "fm-s28",
+   "lang": "en-thorpe",
+   "form": "Fafnir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "regin",
    "row": "fm-s29",
    "lang": "on",
@@ -196243,6 +196427,54 @@
    "row": "fm-s29",
    "lang": "is",
    "form": "Reginn",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jotnar",
+   "row": "fm-s29",
+   "lang": "en",
+   "form": "giant",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "regin",
+   "row": "fm-s29",
+   "lang": "en",
+   "form": "Regin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jotnar",
+   "row": "fm-s29",
+   "lang": "en-modern",
+   "form": "giant",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "regin",
+   "row": "fm-s29",
+   "lang": "en-modern",
+   "form": "Regin",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "jotnar",
+   "row": "fm-s29",
+   "lang": "en-thorpe",
+   "form": "Jotun",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "regin",
+   "row": "fm-s29",
+   "lang": "en-thorpe",
+   "form": "Regin",
    "kind": "name",
    "status": "auto"
   },
@@ -196259,6 +196491,30 @@
    "row": "fm-s30",
    "lang": "is",
    "form": "Sigurður",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sigurdr",
+   "row": "fm-s30",
+   "lang": "en",
+   "form": "Sigurth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sigurdr",
+   "row": "fm-s30",
+   "lang": "en-modern",
+   "form": "Sigurth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "sigurdr",
+   "row": "fm-s30",
+   "lang": "en-thorpe",
+   "form": "Sigurd",
    "kind": "name",
    "status": "auto"
   },
@@ -215861,6 +216117,14 @@
   {
    "entity": "hogni",
    "row": "am-s16",
+   "lang": "en",
+   "form": "Högni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hogni",
+   "row": "am-s16",
    "lang": "en-thorpe",
    "form": "Hogni",
    "kind": "name",
@@ -215886,6 +216150,14 @@
    "entity": "kostbera",
    "row": "am-s17",
    "lang": "en",
+   "form": "Kostbera",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "kostbera",
+   "row": "am-s17",
+   "lang": "en-modern",
    "form": "Kostbera",
    "kind": "name",
    "status": "auto"
@@ -216445,6 +216717,38 @@
   {
    "entity": "solarr",
    "row": "am-s30",
+   "lang": "en",
+   "form": "Solar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hogni",
+   "row": "am-s30",
+   "lang": "en",
+   "form": "Hogni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "solarr",
+   "row": "am-s30",
+   "lang": "en-modern",
+   "form": "Solar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hogni",
+   "row": "am-s30",
+   "lang": "en-modern",
+   "form": "Hogni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "solarr",
+   "row": "am-s30",
    "lang": "en-thorpe",
    "form": "Solar",
    "kind": "name",
@@ -216935,30 +217239,6 @@
    "row": "am-s46",
    "lang": "is",
    "form": "Guðrún",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "gudrun",
-   "row": "am-s46",
-   "lang": "en",
-   "form": "Guthrun",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "gudrun",
-   "row": "am-s46",
-   "lang": "en-modern",
-   "form": "Guthrun",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "gudrun",
-   "row": "am-s46",
-   "lang": "en-thorpe",
-   "form": "Gudrun",
    "kind": "name",
    "status": "auto"
   },

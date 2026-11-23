@@ -2227,18 +2227,17 @@
      "en": [
       {
        "t": "v",
-       "n": 26,
+       "n": 30,
        "l": [
-        "Sigurth spake:",
-        "\"Afar didst thou go | while Fafnir reddened",
-        "With his blood my blade so keen;",
-        "With the might of the dragon | my strength I matched,",
-        "While thou in the heather didst hide.\"⟦26⟧"
+        "\"Thy rede it was | that I should ride",
+        "Hither o'er mountains high;",
+        "The glittering worm | would have wealth and life",
+        "If thou hadst not mocked at my might.\"⟦30⟧"
        ]
       }
      ],
      "en_stanzas": [
-      26
+      30
      ],
      "en_cont": false,
      "is_cont": false,
@@ -2257,13 +2256,12 @@
      "en-modern": [
       {
        "t": "v",
-       "n": 26,
+       "n": 30,
        "l": [
-        "Sigurth said:",
-        "\"You went far off | while Fafnir reddened",
-        "my keen blade with his blood;",
-        "I matched my strength | with the dragon's might,",
-        "while you hid in the heather.\""
+        "\"It was your advice | that I should ride",
+        "here over the high mountains;",
+        "the glittering serpent | would have wealth and life",
+        "if you had not mocked my strength.\""
        ]
       }
      ]
@@ -2286,18 +2284,23 @@
      "en": [
       {
        "t": "p",
-       "s": "Then Reginn went to Fáfnir and cut the heart out of him with the sword called Riðill, and then he drank the blood from the wound afterwards. Reginn said:"
+       "s": "⟦p5⟧Then Regin went up to Fafnir and cut out his heart with his sword, that was named Rithil⟦p6⟧, and then he drank blood from the wounds. Regin said:"
       }
      ],
      "en_stanzas": [],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "en_draft": true,
      "en-thorpe": [
       {
        "t": "p",
        "s": "Regin then approached Fafnir and cut out his heart with a sword named Ridill, and afterwards drank blood from his wound. He said:"
+      }
+     ],
+     "en-modern": [
+      {
+       "t": "p",
+       "s": "Then Regin went up to Fafnir and cut out his heart with his sword, which was called Rithil, and then he drank blood from the wounds. Regin said:"
       }
      ]
     },
@@ -2335,18 +2338,17 @@
      "en": [
       {
        "t": "v",
-       "n": 27,
+       "n": 31,
        "l": [
-        "Regin spake:",
-        "\"Longer wouldst thou | in the heather have let",
-        "Yon hoary giant hide,",
-        "Had the weapon availed not | that once I forged,",
-        "The keen-edged blade thou didst bear.\""
+        "\"Sit now, Sigurth, | for sleep will I,",
+        "Hold Fafnir's heart to the fire;",
+        "For all his heart | shall eaten be,",
+        "Since deep of blood I have drunk.\""
        ]
       }
      ],
      "en_stanzas": [
-      27
+      31
      ],
      "en_cont": false,
      "is_cont": false,
@@ -2354,33 +2356,18 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "Sigurd:",
-       "sp": true
-      },
-      {
-       "t": "p",
-       "s": "Thou wentst far off, while I in Fafnir my keen sword reddened. With my strength I strove against the serpent's might, while in the ling thou layest."
-      },
-      {
-       "t": "p",
-       "s": "Regin:",
-       "sp": true
-      },
-      {
-       "t": "p",
-       "s": "Long hadst thou allowed in the ling to lie that Jotun old, hadst thou the sword not used that I forged for thee, thy keen-edged glave."
+       "s": "Sit now, Sigurd!—but I must go to sleep—and Fafnir's heart hold to the fire. Of this refection I would fain partake, after that drink of blood."
       }
      ],
      "en-modern": [
       {
        "t": "v",
-       "n": 27,
+       "n": 31,
        "l": [
-        "Regin said:",
-        "\"Longer you would | have left in the heather",
-        "that grey old giant hiding,",
-        "if the weapon had not served | that I once forged,",
-        "the keen-edged blade you carried.\""
+        "\"Sit now, Sigurth, | for I will sleep;",
+        "hold Fafnir's heart to the fire;",
+        "for all his heart | shall be eaten,",
+        "since I have drunk deep of blood.\""
        ]
       }
      ]
@@ -2429,18 +2416,18 @@
      "en": [
       {
        "t": "v",
-       "n": 28,
+       "n": 26,
        "l": [
         "Sigurth spake:",
-        "\"Better is heart | than a mighty blade",
-        "For him who shall fiercely fight;",
-        "The brave man well | shall fight and win,",
-        "Though dull his blade may be.⟦28⟧"
+        "\"Afar didst thou go | while Fafnir reddened",
+        "With his blood my blade so keen;",
+        "With the might of the dragon | my strength I matched,",
+        "While thou in the heather didst hide.\"⟦26⟧"
        ]
       }
      ],
      "en_stanzas": [
-      28
+      26
      ],
      "en_cont": false,
      "is_cont": false,
@@ -2453,19 +2440,19 @@
       },
       {
        "t": "p",
-       "s": "Valour is better than might of sword, when foes embittered fight; for a brave man I have ever seen gain victory with a dull sword."
+       "s": "Thou wentst far off, while I in Fafnir my keen sword reddened. With my strength I strove against the serpent's might, while in the ling thou layest."
       }
      ],
      "en-modern": [
       {
        "t": "v",
-       "n": 28,
+       "n": 26,
        "l": [
         "Sigurth said:",
-        "\"Courage is better | than a mighty blade",
-        "for one who must fight fiercely;",
-        "the brave man will | fight well and win,",
-        "though his blade may be blunt."
+        "\"You went far off | while Fafnir reddened",
+        "my keen blade with his blood;",
+        "I matched my strength | with the dragon's might,",
+        "while you hid in the heather.\""
        ]
       }
      ]
@@ -2514,17 +2501,18 @@
      "en": [
       {
        "t": "v",
-       "n": 29,
+       "n": 27,
        "l": [
-        "\"Brave men better | than cowards be,",
-        "When the clash of battle comes;",
-        "And better the glad | than the gloomy man",
-        "Shall face what before him lies.⟦28⟧"
+        "Regin spake:",
+        "\"Longer wouldst thou | in the heather have let",
+        "Yon hoary giant hide,",
+        "Had the weapon availed not | that once I forged,",
+        "The keen-edged blade thou didst bear.\""
        ]
       }
      ],
      "en_stanzas": [
-      29
+      27
      ],
      "en_cont": false,
      "is_cont": false,
@@ -2532,18 +2520,24 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "For the brave 'tis better than for the timid to join in the game of war; for the joyous it is better than for the sad, let come whatever may."
+       "s": "Regin:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Long hadst thou allowed in the ling to lie that Jotun old, hadst thou the sword not used that I forged for thee, thy keen-edged glave."
       }
      ],
      "en-modern": [
       {
        "t": "v",
-       "n": 29,
+       "n": 27,
        "l": [
-        "\"Brave men are better | than cowards",
-        "when the clash of battle comes;",
-        "and the glad man better | than the gloomy",
-        "will face what lies before him."
+        "Regin said:",
+        "\"Longer you would | have left in the heather",
+        "that grey old giant hiding,",
+        "if the weapon had not served | that I once forged,",
+        "the keen-edged blade you carried.\""
        ]
       }
      ]
@@ -2592,17 +2586,18 @@
      "en": [
       {
        "t": "v",
-       "n": 30,
+       "n": 28,
        "l": [
-        "\"Thy rede it was | that I should ride",
-        "Hither o'er mountains high;",
-        "The glittering worm | would have wealth and life",
-        "If thou hadst not mocked at my might.\"⟦30⟧"
+        "Sigurth spake:",
+        "\"Better is heart | than a mighty blade",
+        "For him who shall fiercely fight;",
+        "The brave man well | shall fight and win,",
+        "Though dull his blade may be.⟦28⟧"
        ]
       }
      ],
      "en_stanzas": [
-      30
+      28
      ],
      "en_cont": false,
      "is_cont": false,
@@ -2610,13 +2605,25 @@
      "en-modern": [
       {
        "t": "v",
-       "n": 30,
+       "n": 28,
        "l": [
-        "\"It was your advice | that I should ride",
-        "here over the high mountains;",
-        "the glittering serpent | would have wealth and life",
-        "if you had not mocked my strength.\""
+        "Sigurth said:",
+        "\"Courage is better | than a mighty blade",
+        "for one who must fight fiercely;",
+        "the brave man will | fight well and win,",
+        "though his blade may be blunt."
        ]
+      }
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Valour is better than might of sword, when foes embittered fight; for a brave man I have ever seen gain victory with a dull sword."
       }
      ]
     },
@@ -2654,32 +2661,37 @@
      "en": [
       {
        "t": "v",
-       "n": 31,
+       "n": 29,
        "l": [
-        "\"Sit now, Sigurth, | for sleep will I,",
-        "Hold Fafnir's heart to the fire;",
-        "For all his heart | shall eaten be,",
-        "Since deep of blood I have drunk.\""
+        "\"Brave men better | than cowards be,",
+        "When the clash of battle comes;",
+        "And better the glad | than the gloomy man",
+        "Shall face what before him lies.⟦28⟧"
        ]
       }
      ],
      "en_stanzas": [
-      31
+      29
      ],
      "en_cont": false,
      "is_cont": false,
      "quoted_in": [],
-     "s_en": 0.3,
      "en-modern": [
       {
        "t": "v",
-       "n": 31,
+       "n": 29,
        "l": [
-        "\"Sit now, Sigurth, | for I will sleep;",
-        "hold Fafnir's heart to the fire;",
-        "for all his heart | shall be eaten,",
-        "since I have drunk deep of blood.\""
+        "\"Brave men are better | than cowards",
+        "when the clash of battle comes;",
+        "and the glad man better | than the gloomy",
+        "will face what lies before him."
        ]
+      }
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "For the brave 'tis better than for the timid to join in the game of war; for the joyous it is better than for the sad, let come whatever may."
       }
      ]
     },
@@ -3935,16 +3947,24 @@
      "s": "Gram: Sigurth's sword; cf. Reginsmol, prose after 14."
     },
     {
+     "n": "30",
+     "s": "Something has evidently been lost before this stanza. Sigurth clearly refers to Regin's reproach when he was digging the trench (cf. note on introductory prose), but the poem does not give such a passage."
+    },
+    {
+     "n": "p5",
+     "s": "Prose."
+    },
+    {
+     "n": "p6",
+     "s": "Rithil (\"Swift-Moving\"): Snorri calls the sword Refil (\"Serpent\")."
+    },
+    {
      "n": "26",
      "s": "In the manuscript stanzas 26-29 stand after stanza 31, which fails to make clear sense; they are here rearranged in accordance with the Volsungasaga paraphrase."
     },
     {
      "n": "28",
      "s": "Almost certainly interpolated from some such poem as the Hovamol. Even the faithful Volsungasaga fails to paraphrase stanza 29."
-    },
-    {
-     "n": "30",
-     "s": "Something has evidently been lost before this stanza. Sigurth clearly refers to Regin's reproach when he was digging the trench (cf. note on introductory prose), but the poem does not give such a passage."
     },
     {
      "n": "32",
