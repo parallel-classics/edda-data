@@ -3087,6 +3087,12 @@
         "Then Sigrun wept. | Helgi said:"
        ]
       }
+     ],
+     "en-thorpe": [
+      {
+       "t": "p",
+       "s": "On the earth lie the greater number of thy kinsmen, to corpses turned. Thou hast not fought the battle, yet 'twas decreed, that thou, potent maiden! shouldst cause the strife."
+      }
      ]
     },
     {
@@ -3172,6 +3178,10 @@
      "is_cont": false,
      "quoted_in": [],
      "en-thorpe": [
+      {
+       "t": "p",
+       "s": "Sigrun then wept. Helgi said:"
+      },
       {
        "t": "p",
        "s": "Sigrun! console thyself; a Hild thou hast been to us. Kings cannot conquer fate: gladly would I have them living who are departed, if I might clasp thee to my breast."
@@ -3402,13 +3412,7 @@
        "s": "Sigrún kvað"
       }
      ],
-     "is_netutgafan": true,
-     "en-thorpe": [
-      {
-       "t": "p",
-       "s": "Sigrun then wept. Helgi said:"
-      }
-     ]
+     "is_netutgafan": true
     },
     {
      "id": "hh2-s31",

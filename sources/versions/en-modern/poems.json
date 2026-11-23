@@ -5322,18 +5322,6 @@
   "gdr3-s6": [
    {
     "t": "v",
-    "n": 6,
-    "l": [
-     "\"Gunnar does not come, | I do not greet Hogni,",
-     "I no longer see | my dear brothers;",
-     "Hogni would avenge | my sorrow with the sword,",
-     "now I myself | must win payment for my wrongs."
-    ]
-   }
-  ],
-  "gdr3-s7": [
-   {
-    "t": "v",
     "n": 7,
     "l": [
      "\"Summon Saxi, | the southerners' king,",
@@ -5346,12 +5334,12 @@
   "gdr3-s8": [
    {
     "t": "v",
-    "n": 8,
+    "n": 6,
     "l": [
-     "She reached to the bottom | with her bright hand,",
-     "and brought out | the flashing stones:",
-     "\"See, you warriors, | I am fully cleared",
-     "of sin by the cauldron's | sacred boiling.\""
+     "\"Gunnar does not come, | I do not greet Hogni,",
+     "I no longer see | my dear brothers;",
+     "Hogni would avenge | my sorrow with the sword,",
+     "now I myself | must win payment for my wrongs."
     ]
    }
   ],
@@ -7225,19 +7213,6 @@
   "grp-s52": [
    {
     "t": "v",
-    "n": 52,
-    "l": [
-     "Sigurth said:",
-     "\"Now farewell! | We do not shun our fates;",
-     "and Gripir has answered | my wish well;",
-     "you would tell me | of more joy",
-     "in my life to come | if you could.\""
-    ]
-   }
-  ],
-  "grp-s53": [
-   {
-    "t": "v",
     "n": 53,
     "l": [
      "Gripir said:",
@@ -7245,6 +7220,19 @@
      "that fortune lies | in the hero's life;",
      "a nobler man | shall never live",
      "beneath the sun | than Sigurth shall seem.\""
+    ]
+   }
+  ],
+  "grp-s53": [
+   {
+    "t": "v",
+    "n": 52,
+    "l": [
+     "Sigurth said:",
+     "\"Now farewell! | We do not shun our fates;",
+     "and Gripir has answered | my wish well;",
+     "you would tell me | of more joy",
+     "in my life to come | if you could.\""
     ]
    }
   ],
@@ -12075,20 +12063,6 @@
   "hm-s11": [
    {
     "t": "v",
-    "n": 11,
-    "l": [
-     "Then the fame-glad one, | she was on the steps,",
-     "the slender-fingered, | spoke with her son:",
-     "\"You will be in danger | if you do not heed counsel;",
-     "..............",
-     "by two heroes alone | two hundred Goths",
-     "shall be bound or killed | in the high-walled stronghold.\""
-    ]
-   }
-  ],
-  "hm-s12": [
-   {
-    "t": "v",
     "n": 12,
     "l": [
      "From the courtyard they went, | and they breathed fury;",
@@ -12097,7 +12071,7 @@
     ]
    }
   ],
-  "hm-s13": [
+  "hm-s12": [
    {
     "t": "v",
     "n": 13,
@@ -12106,7 +12080,9 @@
      "..............",
      "\"What help can we have | from the brown weakling?\""
     ]
-   },
+   }
+  ],
+  "hm-s13": [
    {
     "t": "v",
     "n": 14,
@@ -12115,9 +12091,7 @@
      "\"I can aid my kinsmen | as well",
      "as one foot | has help from the other.\""
     ]
-   }
-  ],
-  "hm-s14": [
+   },
    {
     "t": "v",
     "n": 15,
@@ -12125,7 +12099,9 @@
      "\"How can a foot | aid its fellow,",
      "or a flesh-grown hand | help another?\""
     ]
-   },
+   }
+  ],
+  "hm-s14": [
    {
     "t": "v",
     "n": 16,
@@ -16873,7 +16849,7 @@
     ]
    }
   ],
-  "sg-s48": [
+  "sg-s49": [
    {
     "t": "v",
     "n": 48,
@@ -16885,7 +16861,7 @@
     ]
    }
   ],
-  "sg-s49": [
+  "sg-s50": [
    {
     "t": "v",
     "n": 49,
@@ -16894,18 +16870,6 @@
      "and all together | made answer:",
      "\"Enough have been killed; | we want to live;",
      "your women shall not | win honour this way.\""
-    ]
-   }
-  ],
-  "sg-s50": [
-   {
-    "t": "v",
-    "n": 50,
-    "l": [
-     "Long the woman, | dressed in linen, pondered,",
-     "young she was, | and weighed her words:",
-     "\"For my sake now | none who is unwilling",
-     "or loath to die | shall lay down her life."
     ]
    }
   ],
@@ -21727,6 +21691,44 @@
    {
     "t": "p",
     "s": "Then Regin went up to Fafnir and cut out his heart with his sword, which was called Rithil, and then he drank blood from the wounds. Regin said:"
+   }
+  ],
+  "sg-s51": [
+   {
+    "t": "v",
+    "n": 50,
+    "l": [
+     "Long the woman, | dressed in linen, pondered,",
+     "young she was, | and weighed her words:",
+     "\"For my sake now | none who is unwilling",
+     "or loath to die | shall lay down her life."
+    ]
+   }
+  ],
+  "gdr3-s9": [
+   {
+    "t": "v",
+    "n": 8,
+    "l": [
+     "She reached to the bottom | with her bright hand,",
+     "and brought out | the flashing stones:",
+     "\"See, you warriors, | I am fully cleared",
+     "of sin by the cauldron's | sacred boiling.\""
+    ]
+   }
+  ],
+  "hm-s22": [
+   {
+    "t": "v",
+    "n": 11,
+    "l": [
+     "Then the fame-glad one, | she was on the steps,",
+     "the slender-fingered, | spoke with her son:",
+     "\"You will be in danger | if you do not heed counsel;",
+     "..............",
+     "by two heroes alone | two hundred Goths",
+     "shall be bound or killed | in the high-walled stronghold.\""
+    ]
    }
   ]
  }

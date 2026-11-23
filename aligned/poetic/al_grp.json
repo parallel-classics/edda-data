@@ -3821,7 +3821,12 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "The nuptials will of both be solemnized, of Sigurd and of Gunnar, in Giuki's halls; then will ye forms exchange, when ye home return; yet to himself will have each his own senses."
+       "s": "Sigurd:",
+       "sp": true
+      },
+      {
+       "t": "p",
+       "s": "Will then Gunnar, chief among men, the noble woman wed? Tell me that, Gripir! although three nights by me the chieftain's bride glad of heart has slept? The like has no example."
       }
      ],
      "en-modern": [
@@ -3905,12 +3910,7 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "Sigurd:",
-       "sp": true
-      },
-      {
-       "t": "p",
-       "s": "Will then Gunnar, chief among men, the noble woman wed? Tell me that, Gripir! although three nights by me the chieftain's bride glad of heart has slept? The like has no example."
+       "s": "The nuptials will of both be solemnized, of Sigurd and of Gunnar, in Giuki's halls; then will ye forms exchange, when ye home return; yet to himself will have each his own senses."
       }
      ],
      "en-modern": [
@@ -4672,18 +4672,18 @@
      "en": [
       {
        "t": "v",
-       "n": 52,
+       "n": 53,
        "l": [
-        "Sigurth spake:",
-        "\"Now fare thee well! | our fates we shun not;",
-        "And well has Gripir | answered my wish;",
-        "More of joy | to me wouldst tell",
-        "Of my life to come | if so thou couldst.\"⟦52⟧"
+        "Gripir spake:",
+        "\"Ever remember, | ruler of men,",
+        "That fortune lies | in the hero's life;",
+        "A nobler man | shall never live",
+        "Beneath the sun | than Sigurth shall seem.\""
        ]
       }
      ],
      "en_stanzas": [
-      52
+      53
      ],
      "en_cont": false,
      "is_cont": false,
@@ -4692,27 +4692,18 @@
       {
        "t": "p",
        "s": "In this thou shalt find comfort, leader of hosts! This, fortune is allotted to the hero's life: a more renowned man on earth shall never be, under the sun's abode, than thou wilt be accounted."
-      },
-      {
-       "t": "p",
-       "s": "Sigurd:",
-       "sp": true
-      },
-      {
-       "t": "p",
-       "s": "Now part we, now farewell! Fate may not be withstood. Now hast thou, Gripir! done as I prayed thee: thou wouldst have fain a happier end foretold me of my life's days, hadst thou been able."
       }
      ],
      "en-modern": [
       {
        "t": "v",
-       "n": 52,
+       "n": 53,
        "l": [
-        "Sigurth said:",
-        "\"Now farewell! | We do not shun our fates;",
-        "and Gripir has answered | my wish well;",
-        "you would tell me | of more joy",
-        "in my life to come | if you could.\""
+        "Gripir said:",
+        "\"Always remember, | ruler of men,",
+        "that fortune lies | in the hero's life;",
+        "a nobler man | shall never live",
+        "beneath the sun | than Sigurth shall seem.\""
        ]
       }
      ]
@@ -4765,18 +4756,18 @@
      "en": [
       {
        "t": "v",
-       "n": 53,
+       "n": 52,
        "l": [
-        "Gripir spake:",
-        "\"Ever remember, | ruler of men,",
-        "That fortune lies | in the hero's life;",
-        "A nobler man | shall never live",
-        "Beneath the sun | than Sigurth shall seem.\""
+        "Sigurth spake:",
+        "\"Now fare thee well! | our fates we shun not;",
+        "And well has Gripir | answered my wish;",
+        "More of joy | to me wouldst tell",
+        "Of my life to come | if so thou couldst.\"⟦52⟧"
        ]
       }
      ],
      "en_stanzas": [
-      53
+      52
      ],
      "en_cont": false,
      "is_cont": false,
@@ -4784,23 +4775,24 @@
      "en-thorpe": [
       {
        "t": "p",
-       "s": "They turn to the land, the old man goes on board, and the storm abates. Sigurd said:"
+       "s": "Sigurd:",
+       "sp": true
       },
       {
        "t": "p",
-       "s": "Tell me, Hnikar! since thou knowest the omens both of gods and men, which omens are the best—if to fight 'tis needful—at the swing of glaves?"
+       "s": "Now part we, now farewell! Fate may not be withstood. Now hast thou, Gripir! done as I prayed thee: thou wouldst have fain a happier end foretold me of my life's days, hadst thou been able."
       }
      ],
      "en-modern": [
       {
        "t": "v",
-       "n": 53,
+       "n": 52,
        "l": [
-        "Gripir said:",
-        "\"Always remember, | ruler of men,",
-        "that fortune lies | in the hero's life;",
-        "a nobler man | shall never live",
-        "beneath the sun | than Sigurth shall seem.\""
+        "Sigurth said:",
+        "\"Now farewell! | We do not shun our fates;",
+        "and Gripir has answered | my wish well;",
+        "you would tell me | of more joy",
+        "in my life to come | if you could.\""
        ]
       }
      ]

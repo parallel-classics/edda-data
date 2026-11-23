@@ -7507,7 +7507,17 @@
     "s": "But at Styrkleifar King Starkadr, and at Hlebiorg the son of Hrollaug. That prince I saw of all most fierce, whose trunk yet fought when the head was far."
    }
   ],
+  "hh2-s28": [
+   {
+    "t": "p",
+    "s": "On the earth lie the greater number of thy kinsmen, to corpses turned. Thou hast not fought the battle, yet 'twas decreed, that thou, potent maiden! shouldst cause the strife."
+   }
+  ],
   "hh2-s29": [
+   {
+    "t": "p",
+    "s": "Sigrun then wept. Helgi said:"
+   },
    {
     "t": "p",
     "s": "Sigrun! console thyself; a Hild thou hast been to us. Kings cannot conquer fate: gladly would I have them living who are departed, if I might clasp thee to my breast."
@@ -7523,12 +7533,6 @@
    {
     "t": "p",
     "s": "Loath am I, sister! sad news to tell thee; for unwillingly I have my sister caused to weep. This morning fell, in Fioturlund, the prince who was on earth the best, and on the necks of warriors stood."
-   }
-  ],
-  "hh2-p8": [
-   {
-    "t": "p",
-    "s": "Sigrun then wept. Helgi said:"
    }
   ],
   "hh2-s31": [
@@ -8181,18 +8185,18 @@
   "grp-s42": [
    {
     "t": "p",
-    "s": "The nuptials will of both be solemnized, of Sigurd and of Gunnar, in Giuki's halls; then will ye forms exchange, when ye home return; yet to himself will have each his own senses."
-   }
-  ],
-  "grp-s43": [
-   {
-    "t": "p",
     "s": "Sigurd:",
     "sp": true
    },
    {
     "t": "p",
     "s": "Will then Gunnar, chief among men, the noble woman wed? Tell me that, Gripir! although three nights by me the chieftain's bride glad of heart has slept? The like has no example."
+   }
+  ],
+  "grp-s43": [
+   {
+    "t": "p",
+    "s": "The nuptials will of both be solemnized, of Sigurd and of Gunnar, in Giuki's halls; then will ye forms exchange, when ye home return; yet to himself will have each his own senses."
    }
   ],
   "grp-s44": [
@@ -8282,7 +8286,9 @@
    {
     "t": "p",
     "s": "In this thou shalt find comfort, leader of hosts! This, fortune is allotted to the hero's life: a more renowned man on earth shall never be, under the sun's abode, than thou wilt be accounted."
-   },
+   }
+  ],
+  "grp-s53": [
    {
     "t": "p",
     "s": "Sigurd:",
@@ -8291,16 +8297,6 @@
    {
     "t": "p",
     "s": "Now part we, now farewell! Fate may not be withstood. Now hast thou, Gripir! done as I prayed thee: thou wouldst have fain a happier end foretold me of my life's days, hadst thou been able."
-   }
-  ],
-  "grp-s53": [
-   {
-    "t": "p",
-    "s": "They turn to the land, the old man goes on board, and the storm abates. Sigurd said:"
-   },
-   {
-    "t": "p",
-    "s": "Tell me, Hnikar! since thou knowest the omens both of gods and men, which omens are the best—if to fight 'tis needful—at the swing of glaves?"
    }
   ],
   "fm-p1": [
@@ -9366,19 +9362,19 @@
     "s": "Downcast he from the meeting turned to where the lady treasures distributed. She was viewing all she owned: hungry female thralls and chamber-women. She put on her golden corslet—no good meditated—ere herself she pierced, with the sword's point."
    }
   ],
-  "sg-s47": [
+  "sg-s48": [
    {
     "t": "p",
     "s": "On the pillow she turned to the other side, and, wounded with the glave, on her last counsels thought."
    }
   ],
-  "sg-s48": [
+  "sg-s49": [
    {
     "t": "p",
     "s": "\"Now let come those who desire gold, and aught less precious, to receive from me. To every one I give a gilded necklace, needle-work and coverlets, splendid weeds.\""
    }
   ],
-  "sg-s49": [
+  "sg-s50": [
    {
     "t": "p",
     "s": "All were silent, thought on what to do, and all together answer gave: \"Too many are there dead: we will yet live, still be hungry hall-servants, to do what fitting is.\""
@@ -9907,11 +9903,13 @@
     "s": "Hither came Thiodrek, with thirty warriors; now there lives not one of those thirty men. Surround me with thy brothers, and with mailed warriors; surround me with all thy noblest kinsmen."
    }
   ],
-  "gdr3-s7": [
+  "gdr3-s6": [
    {
     "t": "p",
     "s": "Send to Saxi the Southmen's prince, he can hallow the boiling cauldron.\""
-   },
+   }
+  ],
+  "gdr3-s7": [
    {
     "t": "p",
     "s": "Seven hundred men entered the hall, ere in the cauldron the queen dipt her hand."
@@ -11347,30 +11345,32 @@
     "s": "\"For thy brothers weep, and thy dear sons, thy nearest kin, drawn to the strife: for us both shalt thou, Gudrun! also I have to weep, who here sit fated on our steeds, far away to die.\""
    }
   ],
-  "hm-s12": [
+  "hm-s11": [
    {
     "t": "p",
     "s": "From the court they went, for conflict ready. The young men journeyed over humid fells, on Hunnish steeds, murder to avenge."
-   },
+   }
+  ],
+  "hm-s12": [
    {
     "t": "p",
-    "s": "Then said Erp, all at once—the noble youth was joking on his horse's back—\"Ill 'tis to a timid man to point out the ways.\" They said the bastard was over bold."
+    "s": "On their way they had found the wily jester. \"How will the swarthy dwarf afford us aid?\""
    }
   ],
   "hm-s13": [
    {
     "t": "p",
-    "s": "On their way they had found the wily jester. \"How will the swarthy dwarf afford us aid?\""
+    "s": "He of another mother answered: so he said aid he would to his kin afford, as one foot to the other [or, grown to the body, one hand the other]."
    },
    {
     "t": "p",
-    "s": "He of another mother answered: so he said aid he would to his kin afford, as one foot to the other [or, grown to the body, one hand the other]."
+    "s": "\"What can a foot to a foot give; or, grown to the body, one hand the other?\""
    }
   ],
   "hm-s14": [
    {
     "t": "p",
-    "s": "\"What can a foot to a foot give; or, grown to the body, one hand the other?\""
+    "s": "Then said Erp, all at once—the noble youth was joking on his horse's back—\"Ill 'tis to a timid man to point out the ways.\" They said the bastard was over bold."
    }
   ],
   "hm-s15": [

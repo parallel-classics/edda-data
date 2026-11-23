@@ -181575,6 +181575,14 @@
    "status": "auto"
   },
   {
+   "entity": "sigrun",
+   "row": "hh2-s29",
+   "lang": "en-thorpe",
+   "form": "Sigrun",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "hildr",
    "row": "hh2-s29",
    "lang": "en-thorpe",
@@ -182179,14 +182187,6 @@
    "row": "hh2-p8",
    "lang": "en",
    "form": "Sigrún",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "sigrun",
-   "row": "hh2-p8",
-   "lang": "en-thorpe",
-   "form": "Sigrun",
    "kind": "name",
    "status": "auto"
   },
@@ -189680,6 +189680,14 @@
   },
   {
    "entity": "gripir",
+   "row": "grp-s42",
+   "lang": "en-thorpe",
+   "form": "Gripir",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gripir",
    "row": "grp-s43",
    "lang": "on",
    "form": "Grípir",
@@ -189819,14 +189827,6 @@
    "row": "grp-s43",
    "lang": "en-thorpe",
    "form": "Gunnar",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "gripir",
-   "row": "grp-s43",
-   "lang": "en-thorpe",
-   "form": "Gripir",
    "kind": "name",
    "status": "auto"
   },
@@ -190696,14 +190696,6 @@
   },
   {
    "entity": "sigurdr",
-   "row": "grp-s52",
-   "lang": "en-thorpe",
-   "form": "Sigurd",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
-   "entity": "sigurdr",
    "row": "grp-s53",
    "lang": "on",
    "form": "Sigurðr",
@@ -190735,14 +190727,6 @@
    "status": "auto"
   },
   {
-   "entity": "gripir",
-   "row": "grp-s53",
-   "lang": "en",
-   "form": "Gripir",
-   "kind": "name",
-   "status": "auto"
-  },
-  {
    "entity": "sigurdr",
    "row": "grp-s53",
    "lang": "en",
@@ -190753,7 +190737,7 @@
   {
    "entity": "gripir",
    "row": "grp-s53",
-   "lang": "en-modern",
+   "lang": "en",
    "form": "Gripir",
    "kind": "name",
    "status": "auto"
@@ -190763,6 +190747,14 @@
    "row": "grp-s53",
    "lang": "en-modern",
    "form": "Sigurth",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gripir",
+   "row": "grp-s53",
+   "lang": "en-modern",
+   "form": "Gripir",
    "kind": "name",
    "status": "auto"
   },
@@ -190771,6 +190763,14 @@
    "row": "grp-s53",
    "lang": "en-thorpe",
    "form": "Sigurd",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gripir",
+   "row": "grp-s53",
+   "lang": "en-thorpe",
+   "form": "Gripir",
    "kind": "name",
    "status": "auto"
   },
@@ -210088,6 +210088,30 @@
    "status": "auto"
   },
   {
+   "entity": "saxons",
+   "row": "gdr3-s6",
+   "lang": "en",
+   "form": "Saxi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "saxons",
+   "row": "gdr3-s6",
+   "lang": "en-modern",
+   "form": "Saxi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "saxons",
+   "row": "gdr3-s6",
+   "lang": "en-thorpe",
+   "form": "Saxi",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "gudrun",
    "row": "gdr3-s8",
    "lang": "on",
@@ -210148,6 +210172,54 @@
    "row": "gdr3-s8",
    "lang": "is",
    "form": "Högni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "gdr3-s8",
+   "lang": "en",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hogni",
+   "row": "gdr3-s8",
+   "lang": "en",
+   "form": "Hogni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hogni",
+   "row": "gdr3-s8",
+   "lang": "en",
+   "form": "Hogni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "gunnar",
+   "row": "gdr3-s8",
+   "lang": "en-modern",
+   "form": "Gunnar",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hogni",
+   "row": "gdr3-s8",
+   "lang": "en-modern",
+   "form": "Hogni",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "hogni",
+   "row": "gdr3-s8",
+   "lang": "en-modern",
+   "form": "Hogni",
    "kind": "name",
    "status": "auto"
   },
@@ -222219,6 +222291,14 @@
    "status": "auto"
   },
   {
+   "entity": "erpr",
+   "row": "hm-s14",
+   "lang": "en-thorpe",
+   "form": "Erp",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
    "entity": "jormunrekkr",
    "row": "hm-s19",
    "lang": "on",
@@ -222430,6 +222510,14 @@
    "entity": "goths",
    "row": "hm-s22",
    "lang": "en",
+   "form": "Goths",
+   "kind": "name",
+   "status": "auto"
+  },
+  {
+   "entity": "goths",
+   "row": "hm-s22",
+   "lang": "en-modern",
    "form": "Goths",
    "kind": "name",
    "status": "auto"
