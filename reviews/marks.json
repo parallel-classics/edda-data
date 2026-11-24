@@ -3122,6 +3122,761 @@
    "build_sha": "a6030561c58f",
    "ts": "2026-11-21T11:05:33.193Z",
    "id": "C2chS1G8P1UUhX9lNMca"
+  },
+  "69s1pGdH9KGvn4Gsk8Gc": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c12-6",
+    "cell": "en",
+    "entity": "jarnvidr",
+    "form": "Ironwood"
+   },
+   "verdict": "add",
+   "problem_kind": "name",
+   "new_entity": null,
+   "note": null,
+   "build_sha": "2547849abffb",
+   "ts": "2026-11-21T17:27:23.638Z",
+   "id": "69s1pGdH9KGvn4Gsk8Gc"
+  },
+  "J3o20eE6GX1iiPj0JRGh": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c12-6",
+    "cell": "en",
+    "entity": "managarmr",
+    "form": "Moon-Hound"
+   },
+   "verdict": "add",
+   "problem_kind": "name",
+   "new_entity": null,
+   "note": null,
+   "build_sha": "2547849abffb",
+   "ts": "2026-11-21T17:28:23.455Z",
+   "id": "J3o20eE6GX1iiPj0JRGh"
+  },
+  "4jQjWDvymToUnTlVu8WG": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c12-7",
+    "cell": "on",
+    "entity": "fenrir",
+    "form": "Fenris"
+   },
+   "verdict": "add",
+   "problem_kind": "name",
+   "new_entity": null,
+   "note": null,
+   "build_sha": "2547849abffb",
+   "ts": "2026-11-21T17:30:12.424Z",
+   "id": "4jQjWDvymToUnTlVu8WG"
+  },
+  "4nu0WJ9F9g5PmHsIr6pr": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c12-7",
+    "cell": "en",
+    "entity": "fenrir",
+    "form": "Fenrir"
+   },
+   "verdict": "add",
+   "problem_kind": "name",
+   "new_entity": null,
+   "note": null,
+   "build_sha": "2547849abffb",
+   "ts": "2026-11-21T17:30:23.961Z",
+   "id": "4nu0WJ9F9g5PmHsIr6pr"
+  },
+  "AfXTioyMNPApCcX7T5qb": {
+   "target": {
+    "kind": "row",
+    "row": "g-c13-4"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "2547849abffb",
+   "ts": "2026-11-21T17:34:58.138Z",
+   "id": "AfXTioyMNPApCcX7T5qb"
+  },
+  "5QPo8cuvMaVdqC1uJyiH": {
+   "target": {
+    "kind": "row",
+    "row": "g-c13-3"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "2547849abffb",
+   "ts": "2026-11-21T17:34:59.260Z",
+   "id": "5QPo8cuvMaVdqC1uJyiH"
+  },
+  "eXJLb5qG01x17F2W8Vr0": {
+   "target": {
+    "kind": "row",
+    "row": "g-c13-2"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "2547849abffb",
+   "ts": "2026-11-21T17:35:02.129Z",
+   "id": "eXJLb5qG01x17F2W8Vr0"
+  },
+  "qlOS25MValTgEq0aSLBv": {
+   "target": {
+    "kind": "row",
+    "row": "g-c13-1"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "2547849abffb",
+   "ts": "2026-11-21T17:35:02.922Z",
+   "id": "qlOS25MValTgEq0aSLBv"
+  },
+  "0yav1vtSESqZ1JvKwVmy": {
+   "target": {
+    "kind": "row",
+    "row": "g-c14-1"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "bcdd6e2331d0",
+   "ts": "2026-11-21T17:38:24.498Z",
+   "id": "0yav1vtSESqZ1JvKwVmy"
+  },
+  "ubKOpi4wh3ogXFHFtO8g": {
+   "target": {
+    "kind": "cell",
+    "row": "g-c14-4",
+    "cell": "en",
+    "form": "From the bloody surge | and the Blue One's bones."
+   },
+   "verdict": "move",
+   "problem_kind": "to_prev",
+   "new_entity": "g-c14-3",
+   "note": null,
+   "build_sha": "bcdd6e2331d0",
+   "ts": "2026-11-21T17:59:50.659Z",
+   "id": "ubKOpi4wh3ogXFHFtO8g"
+  },
+  "gBqQXNmfNVTSJCEp9swF": {
+   "target": {
+    "kind": "cell",
+    "row": "g-c14-4",
+    "cell": "en-modern",
+    "form": "from the bloody surf | and the bones of the Blue One."
+   },
+   "verdict": "move",
+   "problem_kind": "to_prev",
+   "new_entity": "g-c14-3",
+   "note": null,
+   "build_sha": "bcdd6e2331d0",
+   "ts": "2026-11-21T17:59:54.760Z",
+   "id": "gBqQXNmfNVTSJCEp9swF"
+  },
+  "zmYyEnbR1Cy03zJWcbfr": {
+   "target": {
+    "kind": "row",
+    "row": "g-c14-2"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "bcdd6e2331d0",
+   "ts": "2026-11-21T18:00:57.094Z",
+   "id": "zmYyEnbR1Cy03zJWcbfr"
+  },
+  "HSlywlzmXiVQ4PkV8UMm": {
+   "target": {
+    "kind": "row",
+    "row": "g-c14-7"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "bcdd6e2331d0",
+   "ts": "2026-11-21T18:06:26.254Z",
+   "id": "HSlywlzmXiVQ4PkV8UMm"
+  },
+  "ySTRcwNW64mQDfa786IU": {
+   "target": {
+    "kind": "row",
+    "row": "g-c14-6"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "bcdd6e2331d0",
+   "ts": "2026-11-21T18:06:27.128Z",
+   "id": "ySTRcwNW64mQDfa786IU"
+  },
+  "wBC7ezuKznnJHfV3eDQU": {
+   "target": {
+    "kind": "row",
+    "row": "g-c14-5"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "bcdd6e2331d0",
+   "ts": "2026-11-21T18:06:29.282Z",
+   "id": "wBC7ezuKznnJHfV3eDQU"
+  },
+  "q2RVIZumPFVqsexz3XNt": {
+   "target": {
+    "kind": "row",
+    "row": "g-c14-9"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "bcdd6e2331d0",
+   "ts": "2026-11-21T18:07:45.126Z",
+   "id": "q2RVIZumPFVqsexz3XNt"
+  },
+  "eNGC7PQCLorjMLbaJlYK": {
+   "target": {
+    "kind": "row",
+    "row": "g-c14-8"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "bcdd6e2331d0",
+   "ts": "2026-11-21T18:07:46.609Z",
+   "id": "eNGC7PQCLorjMLbaJlYK"
+  },
+  "eoowqjZQehUvrt32xnVh": {
+   "target": {
+    "kind": "row",
+    "row": "g-c14-11"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "bcdd6e2331d0",
+   "ts": "2026-11-21T18:09:45.041Z",
+   "id": "eoowqjZQehUvrt32xnVh"
+  },
+  "OCs4RZtFZES8Pi0CLRhp": {
+   "target": {
+    "kind": "row",
+    "row": "g-c14-10"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "bcdd6e2331d0",
+   "ts": "2026-11-21T18:09:46.198Z",
+   "id": "OCs4RZtFZES8Pi0CLRhp"
+  },
+  "xHplloEwOV00b5piKZLF": {
+   "target": {
+    "kind": "row",
+    "row": "g-c15-1"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:16:23.748Z",
+   "id": "xHplloEwOV00b5piKZLF"
+  },
+  "SKR6AsTxwQUkAxpEb8rb": {
+   "target": {
+    "kind": "row",
+    "row": "g-c15-2"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:16:34.363Z",
+   "id": "SKR6AsTxwQUkAxpEb8rb"
+  },
+  "Pg27azRdDMy6nzHQLMXT": {
+   "target": {
+    "kind": "row",
+    "row": "g-c15-3"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:16:42.094Z",
+   "id": "Pg27azRdDMy6nzHQLMXT"
+  },
+  "ZG1k8w29wkht0N0uXFm4": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-4",
+    "cell": "en-modern",
+    "entity": "ginnungagap",
+    "form": "Yawning Void"
+   },
+   "verdict": "add",
+   "problem_kind": "name",
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:17:35.502Z",
+   "id": "ZG1k8w29wkht0N0uXFm4"
+  },
+  "2tm61JK2vix3EqlTrbza": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-4",
+    "cell": "en-modern",
+    "entity": "mimisbrunnr",
+    "form": "Mímir's Well"
+   },
+   "verdict": "add",
+   "problem_kind": "name",
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:19:21.266Z",
+   "id": "2tm61JK2vix3EqlTrbza"
+  },
+  "DkQK4iDq0h4ub0Fa375p": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-4",
+    "cell": "en-modern",
+    "entity": "mimisbrunnr",
+    "form": "Mímir's Well"
+   },
+   "verdict": "add",
+   "problem_kind": "name",
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:19:39.115Z",
+   "id": "DkQK4iDq0h4ub0Fa375p"
+  },
+  "DJcVMTxlmtWwC7Uc0l9i": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-4",
+    "cell": "en-modern",
+    "entity": "mimir",
+    "form": "Mímir's"
+   },
+   "verdict": "not_name",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:19:57.269Z",
+   "id": "DJcVMTxlmtWwC7Uc0l9i"
+  },
+  "czmbJ8FwB9rTuUYgOnit": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-4",
+    "cell": "en-modern",
+    "entity": "gjallarhorn",
+    "form": "Gjallar-Horn"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:20:10.265Z",
+   "id": "czmbJ8FwB9rTuUYgOnit"
+  },
+  "ubvtuBCiZ3ufsMJBQWXG": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-6",
+    "cell": "en-modern",
+    "entity": "urdarbrunnr",
+    "form": "Well of Urdr"
+   },
+   "verdict": "add",
+   "problem_kind": "name",
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:25:32.452Z",
+   "id": "ubvtuBCiZ3ufsMJBQWXG"
+  },
+  "REYzXfLy95nSVeBiDJA1": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-6",
+    "cell": "en",
+    "entity": "urdarbrunnr",
+    "form": "Well of Urdr"
+   },
+   "verdict": "add",
+   "problem_kind": "name",
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:25:43.352Z",
+   "id": "REYzXfLy95nSVeBiDJA1"
+  },
+  "7pkRaN9hr13puyP1VdKY": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-6",
+    "cell": "en-modern",
+    "entity": "glenr",
+    "form": "Glenr"
+   },
+   "verdict": "wrong",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:26:44.854Z",
+   "id": "7pkRaN9hr13puyP1VdKY"
+  },
+  "huCDM08LDd04tQeQfWdl": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-6",
+    "cell": "en-modern",
+    "entity": "falhofnir",
+    "form": "Falhófnir"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:27:32.295Z",
+   "id": "huCDM08LDd04tQeQfWdl"
+  },
+  "F6RKt9P3BmJBieNvthBr": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-6",
+    "cell": "en-modern",
+    "entity": "sleipnir",
+    "form": "Sleipnir"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:27:35.116Z",
+   "id": "F6RKt9P3BmJBieNvthBr"
+  },
+  "FDbNSnzW7WxHgqinfFCB": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-6",
+    "cell": "en-modern",
+    "entity": "odin",
+    "form": "Odin"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:27:39.112Z",
+   "id": "FDbNSnzW7WxHgqinfFCB"
+  },
+  "dGCpIzZgKK9S4xDK3FxZ": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-6",
+    "cell": "en-modern",
+    "entity": "gladr",
+    "form": "Gladr"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:27:41.934Z",
+   "id": "dGCpIzZgKK9S4xDK3FxZ"
+  },
+  "Z4qv5YfaMlYnGz5iKuac": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-6",
+    "cell": "en-modern",
+    "entity": "gyllir",
+    "form": "Gyllir"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:27:43.719Z",
+   "id": "Z4qv5YfaMlYnGz5iKuac"
+  },
+  "Dlui7jcIVz1jc4O3EjfG": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-6",
+    "cell": "en-modern",
+    "entity": "skeidbrimir",
+    "form": "Skeidbrimir"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:27:46.460Z",
+   "id": "Dlui7jcIVz1jc4O3EjfG"
+  },
+  "FXBkvcJs49ptCOLctHHd": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-6",
+    "cell": "en-modern",
+    "entity": "silfrintoppr",
+    "form": "Silfrintoppr"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:27:48.580Z",
+   "id": "FXBkvcJs49ptCOLctHHd"
+  },
+  "V7Syxzf59NzAoljMQNwG": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-6",
+    "cell": "en-modern",
+    "entity": "sinir",
+    "form": "Sinir"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:27:50.845Z",
+   "id": "V7Syxzf59NzAoljMQNwG"
+  },
+  "FNfipa0pIYrqbTzpNqQE": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-6",
+    "cell": "en-modern",
+    "entity": "gulltoppr",
+    "form": "Gulltoppr"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:28:01.240Z",
+   "id": "FNfipa0pIYrqbTzpNqQE"
+  },
+  "2kEkTdyZxPz5YeQ0juSl": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-6",
+    "cell": "en-modern",
+    "entity": "lettfeti",
+    "form": "Léttfeti"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:28:04.628Z",
+   "id": "2kEkTdyZxPz5YeQ0juSl"
+  },
+  "GpaWvsGZp4j4C6txELyc": {
+   "target": {
+    "kind": "row",
+    "row": "g-c15-7"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:29:19.084Z",
+   "id": "GpaWvsGZp4j4C6txELyc"
+  },
+  "XyfCnBV1peZ8Cx7COC1Y": {
+   "target": {
+    "kind": "row",
+    "row": "g-c15-6"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:29:21.265Z",
+   "id": "XyfCnBV1peZ8Cx7COC1Y"
+  },
+  "gIUIHKT3VLVahLFb4ybu": {
+   "target": {
+    "kind": "row",
+    "row": "g-c15-5"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:29:23.105Z",
+   "id": "gIUIHKT3VLVahLFb4ybu"
+  },
+  "wsmUTji0BD4PP6pCWP2K": {
+   "target": {
+    "kind": "row",
+    "row": "g-c15-4"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:29:26.482Z",
+   "id": "wsmUTji0BD4PP6pCWP2K"
+  },
+  "k2IZ5u9TN5MD8h2GCaT1": {
+   "target": {
+    "kind": "row",
+    "row": "g-c15-8"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:29:36.006Z",
+   "id": "k2IZ5u9TN5MD8h2GCaT1"
+  },
+  "OJEM6YlHX4pZoYzExh6i": {
+   "target": {
+    "kind": "row",
+    "row": "g-c15-9"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:30:18.625Z",
+   "id": "OJEM6YlHX4pZoYzExh6i"
+  },
+  "aJGU0JPe5xVDKBMGOUoR": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-9",
+    "cell": "en-modern",
+    "entity": "norns",
+    "form": "Norns"
+   },
+   "verdict": "add",
+   "problem_kind": "name",
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:30:44.016Z",
+   "id": "aJGU0JPe5xVDKBMGOUoR"
+  },
+  "vNzVlJDHpSnaNT2wP7Oi": {
+   "target": {
+    "kind": "row",
+    "row": "g-c15-10"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:31:34.189Z",
+   "id": "vNzVlJDHpSnaNT2wP7Oi"
+  },
+  "B4Faz45EdW6V6Foufpx7": {
+   "target": {
+    "kind": "row",
+    "row": "g-c15-11"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:32:00.408Z",
+   "id": "B4Faz45EdW6V6Foufpx7"
+  },
+  "XinX72weQPtz8jP8nhh9": {
+   "target": {
+    "kind": "row",
+    "row": "g-c15-12"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "5289bd252acf",
+   "ts": "2026-11-21T18:32:08.698Z",
+   "id": "XinX72weQPtz8jP8nhh9"
+  },
+  "U6eToLqg56V5ZGi3v7i2": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-6",
+    "cell": "en-modern",
+    "entity": "glenr-horse",
+    "form": "Glenr"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "3df630ecb792",
+   "ts": "2026-11-22T00:18:03.569Z",
+   "id": "U6eToLqg56V5ZGi3v7i2"
+  },
+  "MQcZBJPGRbRV4O6W5SW3": {
+   "target": {
+    "kind": "mention",
+    "row": "g-c15-6",
+    "cell": "en-modern",
+    "entity": "gisl",
+    "form": "Gisl"
+   },
+   "verdict": "ok",
+   "problem_kind": null,
+   "new_entity": null,
+   "note": null,
+   "build_sha": "3df630ecb792",
+   "ts": "2026-11-22T00:18:06.927Z",
+   "id": "MQcZBJPGRbRV4O6W5SW3"
   }
  }
 }
