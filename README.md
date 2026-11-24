@@ -36,7 +36,7 @@ Further English versions stand beside the default English column (`aligned/texts
 | Version | Text | Where from | Rows |
 | --- | --- | --- | --- |
 | `en-anderson` | Rasmus B. Anderson, *The Younger Edda* (1880), public domain | English Wikisource, proofread transcription | 335, Gylfaginning |
-| `en-thorpe` | Benjamin Thorpe, *The Edda of Sæmund the Learned* (1866; the Norrœna reprint of 1907), public domain | English Wikisource, proofread transcription | 1,464, 33 poems |
+| `en-thorpe` | Benjamin Thorpe, *The Edda of Sæmund the Learned* (1866; the Norrœna reprint of 1907), public domain | English Wikisource, proofread transcription | 1,474, 33 poems |
 | `en-modern` | Open Edda's modernisation of the public-domain English (Brodeur, Bellows, Thorpe): an AI draft, not reviewed, CC BY 4.0 | made for this edition | 2,890, everything except Háttatal and the rows whose English is only an AI draft |
 
 Details per file, fetch dates and known defects: `sources/README.md`. The Wikisource proofread copy of
@@ -50,7 +50,7 @@ Brodeur is the planned cleaner base for the English column (see `docs/ROADMAP.md
 | Gylfaginning | 54 | 345 | Guðni Jónsson 1954 | Netútgáfan 1997 | Brodeur 1916 |
 | Skáldskaparmál | 89 | 854 | Guðni Jónsson 1954 | automatic modernisation | Brodeur 1916 (his 74 chapters mapped onto 89) |
 | Háttatal | 3 sections, 102 stanzas | 303 | Guðni Jónsson 1954 | automatic modernisation | AI draft, unreviewed |
-| *Poetic Edda* | 45 poems in 3 groups (17 mythological, 20 heroic, 8 other) | 1,952 (stanzas, prose passages, unnumbered verse) | Guðni Jónsson 1949 | Netútgáfan 1996–1997 for five poems (359 rows); automatic modernisation elsewhere | Bellows 1923 for 36 poems (1,585 rows); Thorpe 1866 for two (108); Brodeur for 2 stanzas Snorri quotes; AI draft (marked) for 251 rows: the seven poems neither translated and the stanzas Bellows left out |
+| *Poetic Edda* | 45 poems in 3 groups (17 mythological, 20 heroic, 8 other) | 1,952 (stanzas, prose passages, unnumbered verse) | Guðni Jónsson 1949 | Netútgáfan 1996–1997 for five poems (359 rows); automatic modernisation elsewhere | Bellows 1923 for 36 poems (1,586 rows); Thorpe 1866 for two (108); Brodeur for 2 stanzas Snorri quotes; AI draft (marked) for 248 rows: the seven poems neither translated and the stanzas Bellows left out |
 
 Total: 3,466 rows (Snorri 1,514, poems 1,952). Poem rows have ids `<poem>-s<stanza>` (`vsp-s19`) and
 `<poem>-p<k>` for prose passages and `<poem>-v<k>` for verse without a stanza number; Snorri's quotations of the poems are listed in `aligned/poetic/links.json`.
@@ -69,12 +69,14 @@ What is automatic, and how good it is:
 - **English for Háttatal** (303 rows) and for Skáldskaparmál row `s-c72-8` is an AI draft translation
   (status `draft`, author `ai:claude-2026-10`), unreviewed; `[?]` marks a line the draft was unsure of.
 
-- **English for the poems** without a public-domain translation (251 rows) is an AI draft of the same kind.
-- **English · modern** (`en-modern`, 2,890 rows) is an AI modernisation of the public-domain translations; it keeps
-  the translators' readings and name spellings and has not been reviewed.
-- **The names index** (`entities/`: 601 entities, 18,107 mentions) is detected automatically from a curated list;
-  the summaries are AI drafts. **The Mímir guide** (`guide/`: 333 cards, 40 stories) is an AI draft checked by AI
-  against the rows; its Icelandic is an AI translation. Neither has been reviewed by a person.
+- **English for the poems** without a public-domain translation (248 rows) is an AI draft of the same kind.
+- **English · modern** (`en-modern`, 2,891 rows) is an AI modernisation of the public-domain translations; it keeps
+  the translators' readings, gives the names in their original form (Mímisbrunnr, not "Mímir's Well") and has not
+  been reviewed.
+- **The names index** (`entities/`: 686 names, 29,124 mentions in all columns, 6,840 of them in the Old Norse) is
+  detected automatically from a curated list; 108 name marks have been checked by a person (`reviews/mentions.json`);
+  the summaries are AI drafts. **The Mímir guide** (`guide/`: 426 cards, 40 stories) is an AI draft checked by AI
+  against the rows; its Icelandic is an AI translation; it has not been reviewed by a person yet.
 
 Nothing automatic is presented as settled: every cell has an origin (`edition`, `published`, `machine`, `ai`,
 `contributor`) and a check state (`aligned-auto`, `aligned-checked`, `unreviewed`, `reviewed`, `disputed`), see
@@ -150,8 +152,9 @@ to this public repository: `CONTRIBUTING.md`.
 
 ## Status summary
 
-As of 0.1.0: 3,466 rows (Snorri 1,514, poems 1,952). 48 cells have been reviewed by a person, all in
-Gylfaginning; everything else is automatic or draft. See `docs/STATUS.md`.
+As of 2026-11-24: 3,466 rows (Snorri 1,514, poems 1,952). 167 cells have been checked by a person, all in
+Gylfaginning: in 166 the placement of a published translation was confirmed, 1 text was reviewed. Everything else is
+automatic or draft. `docs/STATUS.md` has the tables of release 0.1.0.
 
 ## Contact
 
